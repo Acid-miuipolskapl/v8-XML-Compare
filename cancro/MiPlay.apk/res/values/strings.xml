@@ -8,6 +8,7 @@
   <string name="media_status_starting">Connecting…</string>
   <string name="media_status_stopped">Stopped</string>
   <string name="media_status_stopping">Stopping…</string>
+  <string name="prjection_title">Wireless display</string>
   <string name="search_for_devices">Refresh</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_certification_heading">Certification</string>

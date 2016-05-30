@@ -618,6 +618,9 @@ Leave this page?"</string>
   <string name="nav_bottom_bar_new_tab">New tab</string>
   <string name="nav_screen_container_tab_incognito">Incognito tab</string>
   <string name="nav_screen_container_tab_normal">Regular tab</string>
+  <string name="navigationbar_rightbutton_actiontext_cancle">Cancel</string>
+  <string name="navigationbar_rightbutton_actiontext_go">Go</string>
+  <string name="navigationbar_rightbutton_actiontext_search">Search</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Connect to this network</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi network available</string>
   <string name="new_folder_name_lable">Group name</string>

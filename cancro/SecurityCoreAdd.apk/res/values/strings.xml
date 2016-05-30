@@ -22,6 +22,9 @@ this feature will be added to Second space automatically."</string>
   <string name="closeSuccess">Turned off</string>
   <string name="close_second_space_success">Deleted Second space</string>
   <string name="closed">Off</string>
+  <string name="complete_setting">完成设置</string>
+  <string name="complete_setting_sub_title">您可以继续设置更多细节来打造您的手机分身</string>
+  <string name="complete_setting_title">完成手机分身设置指引</string>
   <string name="confirm">OK</string>
   <string name="confirmClose">Turn off</string>
   <string name="confirmCloseSpaceDes">"You won't be able to enter Second space after you delete it. All data will be moved or deleted."</string>
@@ -45,6 +48,7 @@ this feature will be added to Second space automatically."</string>
   <string name="delete_src_photo">Delete photos</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">Turn off</string>
+  <string name="dont_import">暂不导入</string>
   <string name="enable">Turn on</string>
   <string name="err_copy_contacts">"Couldn't copy contacts"</string>
   <string name="err_copy_files">"Couldn't copy files"</string>
@@ -60,8 +64,28 @@ this feature will be added to Second space automatically."</string>
   <string name="err_volume_not_enough">Not enough storage space</string>
   <string name="exit_private_space">Switch</string>
   <string name="goToSecondSpacce">Go to Second space</string>
+  <string name="go_on_import">继续导入</string>
+  <string name="guide_contact_sub_title_desc">"开启后手机分身中的联系人变成私密联系人
+短信纪录只会显示在手机分身中"</string>
+  <string name="guide_contact_suc_sub_title_desc">手机分身内将只显示您的私密短信与联系人</string>
+  <string name="guide_contact_suc_title_desc">私密短信与联系人设置成功</string>
+  <string name="guide_contact_title_desc">是否将私密数据显示在手机分身</string>
+  <string name="guide_pwd_detail_title">"更安全地保护您的数据
+可在锁屏使用密码快捷切换"</string>
+  <string name="guide_setting_guide_title">分身设置引导</string>
   <string name="hidden_app">Second space</string>
   <string name="imageData">Photos</string>
+  <string name="import_application">导入应用</string>
+  <string name="import_application_desc">"导入需要在手机分身使用的应用
+也可以在应用商店下载"</string>
+  <string name="import_contacts">导入联系人</string>
+  <string name="import_contacts_desc">从初始空间导入为私密联系人</string>
+  <string name="import_contacts_suc">成功导入私密联系人</string>
+  <string name="import_file_suc">成功导入至对应的文件夹中</string>
+  <string name="import_now">立即导入</string>
+  <string name="import_photo">导入图片</string>
+  <string name="import_photo_desc">方便您在手机分身内查看分享</string>
+  <string name="import_photo_suc">成功导入图片</string>
   <string name="list_empty_text">Empty</string>
   <string name="loading_apps">Loading apps…</string>
   <string name="loading_space">Just a sec…</string>
@@ -72,12 +96,15 @@ this feature will be added to Second space automatically."</string>
   <string name="needSetKeyguardFirst">Set First space password</string>
   <string name="needSetKeyguardFirstDes">Set First space password before you set Second space password</string>
   <string name="newSecondSpace">Turn on Second space</string>
+  <string name="next_setp">下一步</string>
   <string name="normal_app">First space</string>
   <string name="not_support_multiple_users">"Multiple spaces aren't supported"</string>
   <string name="notificationSetPassword">Set password</string>
   <string name="notificationSetPasswordDes">Protect Second space data</string>
   <string name="notificationSummary">Switch between spaces from Notification shade</string>
   <string name="notificationTitle">Notification shade shortcut</string>
+  <string name="notification_setting_second_space">开始设置您的手机分身</string>
+  <string name="notification_setting_second_space_desc">开启密码保护,迁移重要的数据</string>
   <string name="ok_button">OK</string>
   <string name="openPasswordGuard">Set Second space password</string>
   <string name="openSuccess">Turned on</string>
@@ -100,6 +127,9 @@ this feature will be added to Second space automatically."</string>
   <string name="setSecondSpacePasswordGuideDes">Use this password to enter Second space from Lock screen</string>
   <string name="setSpacePasswordGuide">Use different passwords to enter both spaces from Lock screen</string>
   <string name="setSuccess">Passwords set successfully</string>
+  <string name="set_space_pwd_detail">您可以在解锁时快速进入手机分身</string>
+  <string name="set_space_pwd_suc">设置手机分身密码成功</string>
+  <string name="setting_is_show_text_contacts">设置是否显示私密短信联系人</string>
   <string name="settings_cross_notification_summary">Receive notifications from the other space</string>
   <string name="settings_cross_notification_title">Notifications</string>
   <string name="settings_msg_add_shortcut">Added shortcut to First space</string>
@@ -110,12 +140,16 @@ this feature will be added to Second space automatically."</string>
   <string name="settings_status_icon_title">Second space icon</string>
   <string name="settings_switch_shortcut_summary">Show the Home screen shortcut in First space</string>
   <string name="settings_switch_shortcut_title">Tap shortcut to switch</string>
+  <string name="show_normal_content">显示正常内容</string>
+  <string name="show_private_content">显示私密内容</string>
   <string name="spaceSetting">Settings</string>
   <string name="startSet">Set</string>
   <string name="startTransfer">Move</string>
+  <string name="start_setting_guide_desc_title">完成如下简单设置</string>
   <string name="summary_switch_apps_settings">Select apps used in Second space</string>
   <string name="switchDataSummary">Move items between spaces</string>
   <string name="switch_apps_settings">App settings</string>
+  <string name="switch_data_app">迁移需要的数据和应用</string>
   <string name="switch_data_settings">Move data</string>
   <string name="switch_failed">"Couldn't move"</string>
   <string name="switch_file_success">Files moved successfully</string>
@@ -130,13 +164,14 @@ this feature will be added to Second space automatically."</string>
   <string name="switch_out_photos">Export photos</string>
   <string name="switch_out_privacy_contacts">Export private contacts</string>
   <string name="switch_success">Moved successfully</string>
-  <string name="switch_to_first_space">First space</string>
-  <string name="switch_to_second_space">Second space</string>
+  <string name="switch_to_first_space">Go to First space</string>
+  <string name="switch_to_second_space">Go to Second space</string>
   <string name="switching">Moving…</string>
   <string name="switching_apps">Moving apps…</string>
   <string name="switching_contacts">Moving contacts…</string>
   <string name="switching_files">Movicng files…</string>
   <string name="switching_photos">Moving photos…</string>
+  <string name="temporary_no_set">暂不设置</string>
   <string name="title_choose_app_status">Select app type</string>
   <string name="title_switch_file">Delete these files?</string>
   <string name="title_switch_photo">Delete these photos?</string>

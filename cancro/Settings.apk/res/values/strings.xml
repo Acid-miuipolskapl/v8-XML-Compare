@@ -214,6 +214,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
+  <string name="app_invisible">App Invisible</string>
   <string name="app_launch_domain_links_title">App links</string>
   <string name="app_launch_open_domain_urls_summary">Open without asking</string>
   <string name="app_launch_open_domain_urls_title">Open supported links</string>
@@ -2305,6 +2306,7 @@ Select your operating system:"</string>
   <string name="path_alarm_sound_title">Settings/Sound/Alarm sound</string>
   <string name="path_android_beam_settings">Settings/More/Android Beam</string>
   <string name="path_apn_settings">Settings/Sim cards &amp; Mobile networks/Access Point Names</string>
+  <string name="path_app_invisible">Settings/Additional/Beta features/App Invisible</string>
   <string name="path_app_permission">Settings/Permission</string>
   <string name="path_app_switch_key">Settings/Additional settings/Buttons/Recents</string>
   <string name="path_applications_settings">Settings/Installed apps</string>
@@ -2376,8 +2378,10 @@ Select your operating system:"</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
   <string name="path_pn_settings">Settings/Mobile network settings/Access Point Names</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
+  <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">Settings/Battery/Manage apps battery usage</string>
   <string name="path_power_mode_settings">Settings/Additional settings/Battery &amp; performance/Power settings</string>
+  <string name="path_power_optimize">Settings/Additional/Beta features/Battery saver</string>
   <string name="path_preferred_network_type_settings">Settings/Mobile network settings/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
   <string name="path_privacy_settings">Settings/Additional settings/Backup &amp; reset</string>
@@ -2495,6 +2499,7 @@ Select your operating system:"</string>
   <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
   <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
+  <string name="power_checker">Power Checker</string>
   <string name="power_discharge_remaining">%1$s remaining</string>
   <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
   <string name="power_flashlight">Flashlight</string>
@@ -2504,6 +2509,7 @@ Select your operating system:"</string>
   <string name="power_mgr">Battery</string>
   <string name="power_mode">Power settings</string>
   <string name="power_mode_balanced_title">Balance Power</string>
+  <string name="power_optimize">Battery saver</string>
   <string name="power_overcounted">Over-counted</string>
   <string name="power_phone">Voice calls</string>
   <string name="power_screen">Screen</string>
@@ -2616,8 +2622,10 @@ Select your operating system:"</string>
   <string name="profile_owner_add_title">Activate Profile Manager?</string>
   <string name="progress_scanning">Searching</string>
   <string name="provider_label">Push subscriptions</string>
+  <string name="provision_back">Back</string>
   <string name="provision_next">Next</string>
   <string name="provision_page_layout_confirm_message">Your device needs to reboot to apply these changes. This takes about 1 minute.</string>
+  <string name="provision_skip">Skip</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
@@ -2931,6 +2939,7 @@ To use screen pinning:
   <string name="search_alarm_sound_title">Alarm sound</string>
   <string name="search_android_beam">NFC;Android Beam</string>
   <string name="search_apn_settings">APN;Access Point Names</string>
+  <string name="search_app_invisible">App Invisible</string>
   <string name="search_app_permission">Permissions;ROOT access</string>
   <string name="search_app_switch_key">Recents</string>
   <string name="search_application_settings">Installed apps</string>
@@ -3005,8 +3014,10 @@ To use screen pinning:
   <string name="search_owner_info_settings">Owner info</string>
   <string name="search_page_layout_settings">Text size</string>
   <string name="search_pointer_speed">Pointer speed</string>
+  <string name="search_power_checker">Power Checker</string>
   <string name="search_power_hide_mode_title">Manage apps battery usage</string>
   <string name="search_power_mode">Power settings</string>
+  <string name="search_power_optimize">Battery saver</string>
   <string name="search_pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="search_preferred_network_type_title">Preferred network type</string>
   <string name="search_privacy">Backup &amp; reset</string>

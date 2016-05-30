@@ -200,6 +200,7 @@
   <string name="com_taobao_tae_sdk_trade_confirm_progress_message">交易确认中</string>
   <string name="com_taobao_tae_sdk_trade_title">确认下单</string>
   <string name="common_retake_picture">Retake</string>
+  <string name="common_retry">Retry</string>
   <string name="common_save">Save</string>
   <string name="company">Company:</string>
   <string name="connect_wifi">Connect to this network</string>
@@ -332,6 +333,7 @@
   <string name="shopping_title">Take a photo of the product</string>
   <string name="shopping_vendor_info">Technical support by Taobao</string>
   <string name="spaceIsLow_content">Not enough space on the SD the card. Free up some space.</string>
+  <string name="study_report_title">Report</string>
   <string name="study_scan_result">Result</string>
   <string name="study_searching">Searching for result</string>
   <string name="study_title">Take a photo of the problem</string>
@@ -365,6 +367,7 @@
   <string name="url_is_unknown">"Can't check if this website is secure"</string>
   <string name="url_is_unsafety">"This website isn't secure"</string>
   <string name="vender_info_translation_kingsoft">Technical support by Kingsoft</string>
+  <string name="view_study_report">View report</string>
   <string name="web">Website:</string>
   <string name="website_details">Website:</string>
   <string name="wifi_details">WLAN:</string>
