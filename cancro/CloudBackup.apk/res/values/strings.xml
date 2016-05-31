@@ -14,6 +14,9 @@
   <string name="backup_success">Backed up successfully</string>
   <string name="backup_successfully">Backed up successfully</string>
   <string name="backup_to_cloud">Back up app</string>
+  <string name="btn_back">Back</string>
+  <string name="btn_continue">Continue</string>
+  <string name="btn_skip">Skip this step</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_delete">Delete</string>
   <string name="button_next">Next</string>

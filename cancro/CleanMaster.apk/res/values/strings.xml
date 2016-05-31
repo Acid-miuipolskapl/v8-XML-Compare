@@ -70,6 +70,7 @@
   <string name="button_text_view_file">File</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
+  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Empty folder (%d)</string>
   <string name="cache_title_empty_folder2">Empty folder</string>
   <string name="cache_title_system_cache">System cache</string>
@@ -153,6 +154,7 @@
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Proceed</string>
   <string name="goto_set">Set</string>
   <string name="grabage_rank_title">Cleaned today</string>
@@ -225,6 +227,7 @@
   <string name="installing">Installing</string>
   <string name="item_title_process_mode">Choose an action</string>
   <string name="just_now">Just now</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
@@ -234,6 +237,7 @@
   <string name="long_click_dialog_title">Notice</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">Checking for updates…</string>
@@ -262,6 +266,7 @@
   <string name="open_debug_mode">Click %1$d to open debug switch</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
+  <string name="petabyteShort">PB</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Clean automatically</string>
   <string name="pref_category_title_auto_update_cleanup_db">Additional settings</string>
@@ -353,6 +358,7 @@
   <string name="summary_delete_large_file">Delete selected files permanently?</string>
   <string name="summary_delete_video">&gt;Delete selected videos permanently?</string>
   <string name="summary_optimizer">"This feature uploads folder names to update Cheetah Mobile's online database and requires your device's ID."</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Upload folder names</string>
   <string name="there_is_no">Everything looks good, come back later</string>
   <string name="tips_of_app_manage">Delete rarely used apps to save storage</string>
@@ -406,6 +412,7 @@
   <string name="total_clean_text">Clear</string>
   <string name="traffic_top">TOP 5 data consuming apps</string>
   <string name="unlike">No thanks</string>
+  <string name="update_date_format">yyyy-MM-dd</string>
   <string name="virus_scan">Virus scan</string>
   <string name="white_list_ad_header">Ad files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>

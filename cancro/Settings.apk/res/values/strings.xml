@@ -619,6 +619,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Old device will be replaced with current device.</string>
   <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
   <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
+  <string name="bluetooth_unlock_confirm_device_text_2">Tap the key on device to unlock.</string>
   <string name="bluetooth_unlock_delete_device">Delete this device</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Delete this device?</string>
   <string name="bluetooth_unlock_device_matched_text">Use this device to unlock.</string>

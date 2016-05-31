@@ -40,6 +40,14 @@
         <item quantity="few">%1$d files left to upload</item>
         <item quantity="many">%1$d files left to upload</item>
     </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d files left to transmit</item>
+        <item quantity="zero">%1$d files left to transmit</item>
+        <item quantity="one">%1$d file left to transmit</item>
+        <item quantity="two">%1$d files left to transmit</item>
+        <item quantity="few">%1$d files left to transmit</item>
+        <item quantity="many">%1$d files left to transmit</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selected</item>
         <item quantity="zero">%1$d selected</item>

@@ -76,8 +76,7 @@ Last backed up on %2$s"</string>
   <string name="find_device_disabled_title">Find device is off</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
-  <string name="find_device_dspt_provision">"If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.
-"</string>
+  <string name="find_device_dspt_provision">If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. You can turn this feature on or off anytime in Settings.</string>
@@ -428,7 +427,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Use Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Don't use Mi Cloud?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Skip this step&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip">Skip this step</string>
   <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>

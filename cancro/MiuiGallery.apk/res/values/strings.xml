@@ -719,7 +719,7 @@ Take more photos of your friends!"</string>
   <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
   <string name="frame_white">White</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
-  <string name="free">Free</string>
+  <string name="free">Custom</string>
   <string name="gallery_setting">Settings</string>
   <string name="gallery_sync_disable_toast">Sync is off for Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
@@ -866,7 +866,7 @@ Take more photos of your friends!"</string>
   <string name="operation_unhide">Unhide</string>
   <string name="orientation_lock_tip">Auto-rotate off</string>
   <string name="orientation_unlock_tip">Auto-rotate on</string>
-  <string name="original">Original</string>
+  <string name="original">None</string>
   <string name="original_scale">Original</string>
   <string name="other_album">Other albums</string>
   <string name="other_settings">Additional settings</string>
@@ -890,7 +890,7 @@ Take more photos of your friends!"</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Gallery"</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Gallery</string>
   <string name="photo_save_succeed">Saved successfully</string>
-  <string name="photoeditor_name">Photo Studio</string>
+  <string name="photoeditor_name">Photo studio</string>
   <string name="pick_from_contact">Choose from contacts</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="picker_full_format">You can select up to %d photos</string>

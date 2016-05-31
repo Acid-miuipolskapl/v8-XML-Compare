@@ -241,10 +241,10 @@ or enter App lock password"</string>
   <string name="continue_install">Install</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="cta_button_text_agree">OK</string>
-  <string name="cta_button_text_cancel">Cancel</string>
+  <string name="cta_button_text_cancel">Exit</string>
   <string name="cta_checkbox_title">"Don't show again"</string>
-  <string name="cta_dialog_msg">Security Center may need to connect to the internet to get updates.</string>
-  <string name="cta_dialog_title">Terms and Conditions</string>
+  <string name="cta_dialog_msg">Security Center needs to connect to the internet to get updates.</string>
+  <string name="cta_dialog_title">Internet connection</string>
   <string name="cta_settings">Allow internet connection</string>
   <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
   <string name="daily_limit_and_lock_screen">Data limit &amp; notifications</string>

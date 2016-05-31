@@ -312,7 +312,7 @@
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
   <string name="online_reminder_slider_text">启用提醒</string>
-  <string name="path_calendar">Calendar/Settings</string>
+  <string name="path_calendar">System apps/Calendar/Settings</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDefault_alerts_vibrateWhen">never</string>
   <string name="prefDefault_alerts_vibrate_false">never</string>

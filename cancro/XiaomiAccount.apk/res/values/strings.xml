@@ -151,6 +151,7 @@
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
+  <string name="passport_account_label">Mi Account</string>
   <string name="passport_account_name">Account: %1$s</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>

@@ -65,7 +65,8 @@
   <string name="category_favorite">Favorites</string>
   <string name="category_file">Files</string>
   <string name="category_files">Files</string>
-  <string name="category_midrive">KuaiPan</string>
+  <string name="category_kuaipan">KuaiPan</string>
+  <string name="category_midrive">MiDrive</string>
   <string name="category_music">Music</string>
   <string name="category_other">Other</string>
   <string name="category_photo">Photos</string>
@@ -77,6 +78,7 @@
   <string name="category_type_other">Other</string>
   <string name="category_video">Videos</string>
   <string name="category_zip">Archives</string>
+  <string name="change_mobile_network_message">Switched to mobile data. Continue to transfer file will consume data flow, are you sure to continue?</string>
   <string name="change_sticker">Choose another sticker</string>
   <string name="choose_report_reason">Why are you reporting this video clip?</string>
   <string name="choose_send_type">Send using…</string>
@@ -99,6 +101,7 @@
   <string name="connection_error">"Couldn't connect"</string>
   <string name="copy_failed">"Couldn't copy, looks like your storage is too full"</string>
   <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
+  <string name="copy_file_to_midrive">Copy file to MiDrive</string>
   <string name="copy_to">Copy to…</string>
   <string name="create_kuaipan_shortcut_pref">Create shortcut on Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
@@ -136,6 +139,7 @@
   <string name="delete_folder">Delete this folder?</string>
   <string name="delete_folders">Delete %1$d folders?</string>
   <string name="delete_selected_tasks">Delete selected tasks?</string>
+  <string name="delete_success">File deleted</string>
   <string name="delete_video">Delete</string>
   <string name="delete_video_dialog_tip">When you delete a video, the video will not be restored, please exercise caution!</string>
   <string name="delete_video_dialog_title">Delete video</string>
@@ -158,7 +162,11 @@
   <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Downloading</string>
   <string name="downloading_in_3g">Downloading on 3G…</string>
+  <string name="drive_closed">Not signed in</string>
+  <string name="drive_opened">Signed in</string>
   <string name="email_platform">Email</string>
+  <string name="empty_file_download">Empty file is not supported.</string>
+  <string name="empty_file_upload">Empty file is not supported.</string>
   <string name="enable_documentsui">Turn on %s in Settings &gt; Installed apps first</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
   <string name="enable_usb">Connect USB device</string>
@@ -191,12 +199,13 @@
   <string name="file_loading">Just a sec…</string>
   <string name="file_name_invalid">"File names can't contain the following characters: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"File doesn't exist"</string>
-  <string name="file_too_large">File is too big to upload</string>
+  <string name="file_too_large">File is too big to upload.</string>
   <string name="files">Files</string>
   <string name="finished">Complete</string>
   <string name="folder_exist">The folder already exists.</string>
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
+  <string name="folder_name_invalid">"Folder names can't contain the following characters: /\\:*?&lt;&gt;"</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to trash</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">USB storage connected</string>
@@ -247,8 +256,6 @@
   <string name="kuaipan_delete_success">Photo deleted</string>
   <string name="kuaipan_info">KuaiPan files</string>
   <string name="kuaipan_label">KuaiPan</string>
-  <string name="kuaipan_logged_in">Signed in</string>
-  <string name="kuaipan_not_logged_in">Not signed in</string>
   <string name="kuaipan_over_space">Not enough storage space.</string>
   <string name="kuaipan_photo_folder_divider">,</string>
   <string name="kuaipan_photo_locate">Location %1$s</string>
@@ -278,6 +285,7 @@ Sorry for the inconvenience."</string>
   <string name="login_failed_tip">Login failed, try again later</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use KuaiPan from anywhere.</string>
+  <string name="login_reg_content1">Use MiDrive from anywhere.</string>
   <string name="login_success_tip">Login success</string>
   <string name="login_tip">Involved in the topic, win a prize</string>
   <string name="make_private">Hide</string>
@@ -300,11 +308,29 @@ Sorry for the inconvenience."</string>
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Menu</string>
   <string name="mi_router_label">Router</string>
+  <string name="midrive_network_connect_confirm">Midrive needs to connect to the internet to work normally.</string>
+  <string name="midrive_space_full">Not enough cloud space.</string>
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
   <string name="midrop_send_files">Choose files to send</string>
-  <string name="migrate_announcement_msg">Sync your existing KuaiPan account with your Mi Account in KuaiPan settings.</string>
-  <string name="migrate_announcement_title">Move complete</string>
+  <string name="migrate_announcement_msg">The Kuaipan service will shut down after June 30, 2016, but we suggest you to migrate your data now for better experience. The data migration will not consume your data flow.During the migration, upload and download will be stopped.</string>
+  <string name="migrate_announcement_title">Kuaipan has updated to MI drive</string>
+  <string name="migrate_cancel">Cancel</string>
+  <string name="migrate_confirm">Confirm</string>
+  <string name="migrate_failed_confirm">I konw</string>
+  <string name="migrate_failed_msg">Something went wrong, data migration failed, please migrate manually. &lt;a href=http://www.kuaipan.cn&gt;Click here to view &gt;&gt;&lt;/a&gt;</string>
+  <string name="migrate_failed_title">Data migration failed</string>
+  <string name="migrate_failed_toast">Data migration failed, please migrate manually. &lt;a href=http://www.kuaipan.cn&gt;Click here to view &gt;&gt;&lt;/a&gt;</string>
+  <string name="migrate_hint">[Important] Kuaipan has updated to MI drive, click to upgrate.</string>
+  <string name="migrate_note">[Important] Kuaipan has updated to MI drive, please migrate your data now.</string>
+  <string name="migrate_runing">Data migrating…Please check later.</string>
+  <string name="migrate_success_cancel">I konw</string>
+  <string name="migrate_success_confirm">Try it now</string>
+  <string name="migrate_success_msg">Congratulations, all your Kuaipan data has been successfully moved to MI Cloud.</string>
+  <string name="migrate_success_title">Migration Success</string>
+  <string name="migrate_update_confirm">Try it now</string>
+  <string name="migrate_update_msg">Kuaipan has updated to MI drive, to provide you with better experience.</string>
+  <string name="migrate_update_title">Kuaipan has updated to MI drive</string>
   <string name="mobile_network_dialog_cancle">Cancel</string>
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
@@ -506,6 +532,7 @@ and never miss the cool new ones!"</string>
   <string name="pull_to_signin">Pull down to check in.</string>
   <string name="qq_not_installed">"QQ isn't installed"</string>
   <string name="qq_platform">QQ</string>
+  <string name="quota_info">MiDrive: %1$s available, %2$s total</string>
   <string name="qzone_platform">Qzone</string>
   <string name="release_to_signin">Release to check in</string>
   <string name="remote_video_no_network">"Can't connect to the network."</string>
@@ -537,6 +564,7 @@ and never miss the cool new ones!"</string>
   <string name="sd_card_available">Available: %1$s</string>
   <string name="sd_card_size">SD card: %1$s</string>
   <string name="sd_full">Your SD card is full.</string>
+  <string name="sd_invalid">Your SD card is invalid.</string>
   <string name="sdcard">SD card</string>
   <string name="sdcard_available">Available %1$s</string>
   <string name="sdcard_total">Total %1$s</string>
@@ -582,7 +610,7 @@ and never miss the cool new ones!"</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
   <string name="send_sticker">Send sticker</string>
-  <string name="send_to_midrive">KuaiPan</string>
+  <string name="send_to_kuaipan">KuaiPan</string>
   <string name="send_to_midrive_failed_message">"This file type isn't supported."</string>
   <string name="send_to_qq">Send to QQ</string>
   <string name="send_to_weixin">Send to WeChat</string>
@@ -663,6 +691,7 @@ and never miss the cool new ones!"</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
   <string name="topic_winners">Past winners</string>
+  <string name="trans_mobile_network_message">Using mobile data to transfer file will consume data flow, are you sure to continue?</string>
   <string name="trans_task">Network transfer</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
@@ -753,6 +782,7 @@ and never miss the cool new ones!"</string>
   <string name="video_upload_retry_title">Upload retry</string>
   <string name="video_upload_title">select video</string>
   <string name="view_more_sticker">View more stickers</string>
+  <string name="vip_info">VIP:%1$s</string>
   <string name="wait_net">Waiting for network</string>
   <string name="wait_sdcard">Waiting for SD card…</string>
   <string name="wait_wifi">Waiting for WLAN</string>
