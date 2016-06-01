@@ -963,7 +963,19 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
+
     if-eqz v0, :cond_1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2A:Z
+
+    if-nez v0, :cond_1
 
     :cond_0
     const/4 v0, 0x1

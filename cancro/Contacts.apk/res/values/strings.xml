@@ -49,8 +49,8 @@
   <string name="btn_rotation">Rotate</string>
   <string name="btn_split_contact">Separate</string>
   <string name="button_cancel_scan">Stop</string>
-  <string name="button_join_service_number">Join Service Number</string>
-  <string name="button_my_center">My Center</string>
+  <string name="button_join_service_number">Add service number</string>
+  <string name="button_my_center">Profile</string>
   <string name="button_scan">Rescan</string>
   <string name="caching_vcard_message">Caching vCard to phone…</string>
   <string name="caching_vcard_title">Caching</string>
@@ -119,8 +119,9 @@
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="callrecordview_menu_ip">Auto IP dialing</string>
   <string name="callrecordview_menu_livetalk">Top-up package</string>
+  <string name="callrecordview_menu_mobiledata">Purchase data</string>
   <string name="callrecordview_menu_paste">Paste</string>
-  <string name="callrecordview_menu_recharge">Phone recharge</string>
+  <string name="callrecordview_menu_recharge">Top up</string>
   <string name="callrecordview_menu_save_to_group">保存通话联系人到群组</string>
   <string name="callrecordview_menu_settings">Settings</string>
   <string name="callrecordview_menu_show">Filter</string>
@@ -133,7 +134,7 @@
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
   <string name="callrecordview_menu_voip">VoIP</string>
-  <string name="calls_voip_prompt">VOIP</string>
+  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
@@ -157,14 +158,14 @@
   <string name="clearFrequentsConfirmation">Clear frequent contacts list in Contacts and Phone, and force mail apps to learn your addressing preferences from scratch.</string>
   <string name="clearFrequentsConfirmation_title">Clear frequently contacted?</string>
   <string name="clearFrequentsProgress_title">Clearing frequently contacted…</string>
-  <string name="clear_copy_number_description">Clear copy number</string>
+  <string name="clear_copy_number_description">Clear copied number</string>
   <string name="clear_default">Clear default</string>
   <string name="clear_digits">Clear phone number</string>
   <string name="click_close">Tap to close</string>
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad">Close dial pad</string>
   <string name="cloud_antispam_mark">Report</string>
-  <string name="cloud_antispam_title">Identify unknown numbers</string>
+  <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
   <string name="cloud_state_loading">Just a sec…</string>
@@ -198,8 +199,8 @@
   <string name="contactSavedErrorToast">"Couldn't save contact changes"</string>
   <string name="contactSavedToast">Contact saved</string>
   <string name="contact_delete_toast">Contact deleted</string>
-  <string name="contact_detail_action_item_calllog">Calllog</string>
-  <string name="contact_detail_action_item_nocalllog">No Calllog</string>
+  <string name="contact_detail_action_item_calllog">Call history</string>
+  <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Record call</string>
   <string name="contact_detail_menu_delete_miprofile">Delete card</string>
@@ -254,7 +255,7 @@ Contact cards are turned off"</string>
   <string name="contacts_unavailable_add_account">Sign in to an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
   <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
-  <string name="convenient_service">Convient Service</string>
+  <string name="convenient_service">Services</string>
   <string name="copy_text">Copy to clipboard</string>
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen</string>
   <string name="create_group_dialog_title">Create new group</string>
@@ -264,9 +265,9 @@ Contact cards are turned off"</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
-  <string name="data_already_used">Data Already Used</string>
-  <string name="data_charge">Data Charge</string>
-  <string name="data_left">Data Left</string>
+  <string name="data_already_used">Used data</string>
+  <string name="data_charge">Top up mobile data</string>
+  <string name="data_left">Remaining data</string>
   <string name="data_unit">MB</string>
   <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
   <string name="date_time_set">Set</string>
@@ -361,9 +362,9 @@ Contact cards are turned off"</string>
   <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
-  <string name="dialer_copy_view_delete_description">Clear Your copy number</string>
-  <string name="dialer_digits_copy_number_label">Your copy number</string>
-  <string name="dialer_empty_text_loading">Loading…</string>
+  <string name="dialer_copy_view_delete_description">Clear copied number</string>
+  <string name="dialer_digits_copy_number_label">Copied number</string>
+  <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
   <string name="dialer_menu_description">Show dialer</string>
@@ -446,7 +447,7 @@ Reason: \"%s\""</string>
   <string name="favoritesFrequentContacted">Frequently contacted</string>
   <string name="favorites_list_empty">No favorites</string>
   <string name="firewall_setting">Blocklist</string>
-  <string name="followed_yellowpage">Official Accounts</string>
+  <string name="followed_yellowpage">Verified accounts</string>
   <string name="foundTooManyContacts">More than %d found.</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
@@ -492,14 +493,14 @@ Reason: \"%s\""</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI : "</string>
+  <string name="imei">"IMEI: "</string>
   <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
   <string name="import_contact_card_button">Import contact</string>
   <string name="import_failure_no_vcard_file">No vCard files found in storage.</string>
-  <string name="import_from_onekey_migrate">Import with Transfer</string>
+  <string name="import_from_onekey_migrate">Import using Mi Mover</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
@@ -610,7 +611,7 @@ Reason: \"%s\""</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">"MEID : "</string>
+  <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
@@ -729,7 +730,7 @@ Reason: \"%s\""</string>
   <string name="missing_name">(No name)</string>
   <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
-  <string name="more_call_logs">More call records go i.mi.com</string>
+  <string name="more_call_logs">Listen to all your call recordings at mi.com/micloud</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multi_number_menu_call">Call</string>
   <string name="multi_number_menu_delete">Delete</string>
@@ -760,7 +761,7 @@ Reason: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">To create groups you need an account.</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contacts data using Mi Account</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contact data using Mi Account</string>
   <string name="noContacts">No contacts</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
 
@@ -837,7 +838,7 @@ To add a contact to your list of favorites:
   <string name="no_contacts_dialog_title">"Can't find contacts"</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No storage was found.</string>
-  <string name="no_voip_contacts">No VOIP contacts</string>
+  <string name="no_voip_contacts">No Mi Voice contacts</string>
   <string name="non_phone_add_to_contacts">Add to an existing contact</string>
   <string name="non_phone_caption">Phone number</string>
   <string name="non_phone_close">Close</string>
@@ -891,7 +892,7 @@ To add a contact to your list of favorites:
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
-  <string name="phone_call_type_voip">VoIP</string>
+  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Number is too long</string>
   <string name="phone_primary">Primary</string>
@@ -947,8 +948,8 @@ To add a contact to your list of favorites:
   <string name="preference_dial_pad_touch_tone_default">Default</string>
   <string name="preference_dial_pad_touch_tone_human">Voice</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
-  <string name="preference_dial_pad_touch_tone_switch">Dial pad touch tones</string>
-  <string name="preference_dial_pad_touch_tone_title">Dial pad touch tones</string>
+  <string name="preference_dial_pad_touch_tone_switch">Dial pad tones</string>
+  <string name="preference_dial_pad_touch_tone_title">Dial pad tones</string>
   <string name="preference_display">Display</string>
   <string name="preference_displayOptions">Display options</string>
   <string name="preference_export">Export</string>
@@ -980,14 +981,14 @@ To add a contact to your list of favorites:
   <string name="preview_incall_show_entry">Preview video</string>
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
-  <string name="profile_binded_numbers">Verified Number: %s</string>
+  <string name="profile_binded_numbers">Verified numbers: %s</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Photo</string>
   <string name="public_account_name">移动公众号</string>
-  <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
-  <string name="pull_to_refresh_refreshing_label">Loading…</string>
-  <string name="pull_to_refresh_release_label">Release to refresh…</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh</string>
+  <string name="pull_to_refresh_refreshing_label">Just a sec…</string>
+  <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="qr_card_card">QR code</string>
   <string name="qrcode_card_title">QR code</string>
   <string name="qrcode_detail_menu_edit">编辑二维码</string>
@@ -1036,7 +1037,7 @@ To add a contact to your list of favorites:
   <string name="remove_blacklist_dialog_title">Unblock this contact</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
- To begin, touch the Merge icon at the bottom of your screen."</string>
+ To begin, tap the Merge icon at the bottom of your screen."</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"
 "</string>
@@ -1091,12 +1092,12 @@ To add a contact to your list of favorites:
   <string name="separatorJoinAggregateSuggestions">Suggested contacts</string>
   <string name="service_more">More</string>
   <string name="service_provider">Directory</string>
-  <string name="service_provider_detail">Directory Detail</string>
-  <string name="set_data_package">Please set data package first</string>
+  <string name="service_provider_detail">Directory details</string>
+  <string name="set_data_package">Set data plan first</string>
   <string name="set_default">Set default</string>
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"This contact can't be shared"</string>
-  <string name="share_over_limit">"More than 1000, can't be shared"</string>
+  <string name="share_over_limit">"Can't share over 1000 contacts"</string>
   <string name="share_via">Send using</string>
   <string name="share_visible_contacts">Share contacts</string>
   <string name="shortcutActivityTitle">Choose a shortcut</string>
@@ -1221,7 +1222,7 @@ Choose one of the following options:"</string>
   <string name="upgrade_out_of_memory_uninstall">Uninstall some applications</string>
   <string name="use_photo_as_primary">Use this photo</string>
   <string name="use_photo_as_primary2">"Use %1$s's contact photo"</string>
-  <string name="useful_numbers">Useful Numbers</string>
+  <string name="useful_numbers">Useful numbers</string>
   <string name="user_profile_contacts_list_header">Me</string>
   <string name="vcard_export_request_rejected_message">vCard export request was rejected. Try again later.</string>
   <string name="vcard_export_will_start_message">%s will be exported shortly.</string>
@@ -1257,7 +1258,7 @@ Choose one of the following options:"</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Just a sec…</string>
   <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Tap to use voip</string>
+  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_video_description">VoIP video call</string>
   <string name="websiteLabelsGroup">Website</string>
@@ -1272,7 +1273,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_history">History</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
-  <string name="yellowpage_navigation_search_result_average_price">Average RMB %d</string>
+  <string name="yellowpage_navigation_search_result_average_price">Average CNY %d</string>
   <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_search_result_no_more">No more results</string>
   <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>

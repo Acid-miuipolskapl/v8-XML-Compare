@@ -29,8 +29,8 @@
         <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="status_bar_style_entries">
-        <item>Single page</item>
-        <item>Dual page</item>
+        <item>Combined</item>
+        <item>Separate</item>
     </string-array>
     <string-array name="status_bar_style_values">
         <item>0</item>

@@ -155,7 +155,6 @@
   <string name="passport_account_name">Account: %1$s</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
-  <string name="passport_account_notice">Account</string>
   <string name="passport_active_email_visit">Check your inbox at %s</string>
   <string name="passport_activing_account">Activating…</string>
   <string name="passport_area_code_hot">FREQUENTLY USED</string>
@@ -177,11 +176,9 @@ To activate your account, follow the
   <string name="passport_completed">Finish</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Yes</string>
-  <string name="passport_country_code_notice">Country code</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_downlink_reg">Create account using phone number</string>
   <string name="passport_email">Email address</string>
-  <string name="passport_email_address_notice">Email</string>
   <string name="passport_email_or_id_hint_text">Email address or Mi Account ID</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_error_device_id">"Can't get device id"</string>
@@ -239,12 +236,11 @@ To activate your account, follow the
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
+  <string name="passport_miui_provision_find_status_text">此手机已经关联到小米帐号（%1$s）,若不激活，则无法使用此手机。(解锁编号:%2$s)</string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
-  <string name="passport_password_notice">Password</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
   <string name="passport_phone_num_hint_text">Phone number</string>
-  <string name="passport_phone_num_notice">Phone Number</string>
   <string name="passport_prev">Back</string>
   <string name="passport_privacy_policy">Privacy Policy</string>
   <string name="passport_pwd_generate_failure">"Couldn't generate password"</string>
@@ -277,6 +273,8 @@ To activate your account, follow the
   <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
+  <string name="passport_registered_phone_user_ID">user ID:%s</string>
+  <string name="passport_registered_phone_user_name">user Name:%s</string>
   <string name="passport_reject_recycle_account">Nope</string>
   <string name="passport_relogin">Sign in again</string>
   <string name="passport_relogin_notice">You need to sign in again</string>
@@ -310,7 +308,6 @@ To activate your account, follow the
   <string name="passport_user_agreement_p2">User Agreement</string>
   <string name="passport_user_agreement_p3"> and </string>
   <string name="passport_user_agreement_p4">Privacy Policy</string>
-  <string name="passport_vcode_notice">Code</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_verification_failed">Authentication failed</string>

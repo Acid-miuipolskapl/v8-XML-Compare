@@ -1063,7 +1063,6 @@ Take more photos of your friends!"</string>
   <string name="video_editor_audio_none">None</string>
   <string name="video_editor_audio_rock">Rock</string>
   <string name="video_editor_audio_sad">Ballad</string>
-  <string name="video_editor_audio_young">Ukulele</string>
   <string name="video_editor_auto_trim">Auto trim</string>
   <string name="video_editor_auto_trim_tip">Auto trimming…</string>
   <string name="video_editor_cancel">Cancel</string>
@@ -1087,7 +1086,6 @@ Take more photos of your friends!"</string>
   <string name="video_editor_more">Advanced</string>
   <string name="video_editor_not_support_tips">"Such video files aren't supported"</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_template_family">Family</string>
   <string name="video_editor_template_forbidden_tips">"Can't do this when using a template"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alarm_bar_title">Reminder</string>
-  <string name="alert_action_edit_anyway">Edit</string>
+  <string name="alert_action_edit_anyway">Keep editing</string>
   <string name="alert_edit_action_delete">Remove</string>
   <string name="alert_edit_action_update">Change</string>
   <string name="alert_message_delete">Delete %1$s?</string>
@@ -145,6 +145,6 @@ Click add button to create folder"</string>
   - Sync with Mi Cloud
   - Set reminders"</string>
   <string name="widget_content_loading">Just a sec…</string>
-  <string name="widget_havenot_content">"Couldn't find note. Touch to create a note. To resize it, touch &amp; drag an edge."</string>
+  <string name="widget_havenot_content">Tap to create a note. Hold widget to resize.</string>
   <string name="widget_under_privacy_mode">"Can't view notes in Guest mode"</string>
 </resources>
