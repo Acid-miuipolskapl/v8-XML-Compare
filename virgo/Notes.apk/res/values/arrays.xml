@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Name</item>
+        <item>Nickname</item>
+        <item>Phone</item>
+        <item>E-mail</item>
+        <item>Organization</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Birthday</item>
+        <item>Website</item>
+        <item>Address</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Welcome to Notes
+"</item>
+        <item>"Tap to create a note
+"</item>
+        <item>"Choose beautiful theme
+"</item>
+        <item>"Create note folder
+"</item>
+        <item>"Protect private notes
+"</item>
+        <item>"And more great features!
+  - Sync with Mi Cloud
+  - Set reminders"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1,guide_3_2</item>
+        <item>guide_4</item>
+        <item>guide_5_1,guide_5_2</item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="toggle_items">
+        <item>@string/toggle</item>
+        <item>@string/on</item>
+        <item>@string/off</item>
+    </string-array>
+    <string-array name="ringer_mode_items">
+        <item>@string/ringer_normal</item>
+        <item>@string/ringer_silent</item>
+        <item>@string/vibrate_on</item>
+    </string-array>
+    <string-array name="brightness_mode_items">
+        <item>@string/toggle</item>
+        <item>@string/off</item>
+        <item>@string/on</item>
+    </string-array>
+    <string-array name="vibrate_mode_items">
+        <item>@string/toggle</item>
+        <item>@string/vibrate_off</item>
+        <item>@string/vibrate_on</item>
+    </string-array>
+    <string-array name="miui_ringer_items">
+        <item>@string/toggle</item>
+        <item>@string/ringer_normal</item>
+        <item>@string/ringer_silent</item>
+    </string-array>
+    <string-array name="screen_timeout_items">
+        <item>@string/fif_seconds</item>
+        <item>@string/thir_seconds</item>
+        <item>@string/one_minute</item>
+        <item>@string/two_minutes</item>
+        <item>@string/five_minutes</item>
+        <item>@string/ten_minutes</item>
+        <item>@string/never</item>
+    </string-array>
+</resources>
