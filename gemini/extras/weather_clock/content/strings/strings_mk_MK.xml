@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="date_time">dd.MM.EEEE</string>
+    <string name="language">mk</string>
+    <string name="desc_date_format">dd.MM. EEEE</string>
+    <string name="desc_time">'време' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', кликнете два пати за приказ на Часовникот'</string>
+    <string name="weather_type_0">Ведро - www.hi.mk</string>
+    <string name="weather_type_1">Облачно - www.hi.mk</string>
+    <string name="weather_type_2">Магловито - Hi Store</string>
+    <string name="weather_type_3">Магла - Hi Store</string>
+    <string name="weather_type_4">Силен дожд - Hi Store</string>
+    <string name="weather_type_5">Олуја со дожд - Hi Store</string>
+    <string name="weather_type_6">Пљусок - Hi Store</string>
+    <string name="weather_type_7">Олуја - Hi Store</string>
+    <string name="weather_type_8">Пљусок - Hi Store</string>
+    <string name="weather_type_9">Пљусок - Hi Store</string>
+    <string name="weather_type_10">Дожд - www.hi.mk</string>
+    <string name="weather_type_11">Слаб дожд - Hi Store</string>
+    <string name="weather_type_12">Дожд со снег - Hi Store</string>
+    <string name="weather_type_13">Слаба олуја - Hi Store</string>
+    <string name="weather_type_14">Снег - www.hi.mk</string>
+    <string name="weather_type_15">Снег - www.hi.mk</string>
+    <string name="weather_type_16">Снег - www.hi.mk</string>
+    <string name="weather_type_17">Снег - www.hi.mk</string>
+    <string name="weather_type_18">Песочна олуја - Hi Store</string>
+    <string name="weather_type_19">Песочна олуја - Hi Store</string>
+    <string name="weather_type_20">Песочна олуја - Hi Store</string>
+    <string name="weather_type_21">Песочна олуја - Hi Store</string>
+    <string name="weather_type_22">Град - Hi Store</string>
+    <string name="weather_type_23">Прашина - www.hi.mk</string>
+    <string name="weather_type_24">Леден дожд - Hi Store</string>
+</resources>

@@ -452,6 +452,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_int_dspt">Your carrier may charge for an international SMS message used to activate this service.</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
+  <string name="trying_to_connect_to_network">Connecting to the network…</string>
   <string name="unactivated_user">Signed out</string>
   <string name="upgrade_space">Add space</string>
   <string name="upgrade_space_gb">GB</string>
