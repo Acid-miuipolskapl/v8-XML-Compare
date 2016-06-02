@@ -7,10 +7,12 @@
   <string name="activity_rule">Activity Rule &gt;</string>
   <string name="ad_download">Download</string>
   <string name="ad_downloading">Just a sec…</string>
+  <string name="add_one">+1</string>
   <string name="add_private">Hide files now</string>
   <string name="add_private_files">Add files</string>
   <string name="add_task">Add tasks</string>
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
+  <string name="all_topic">All Topic</string>
   <string name="already_liked">"You've already starred this item"</string>
   <string name="already_signin_description">"You've already checked in today."</string>
   <string name="app_name">Explorer</string>
@@ -80,6 +82,7 @@
   <string name="category_zip">Archives</string>
   <string name="change_mobile_network_message">Switched to mobile data. Continue to transfer file will consume data flow, are you sure to continue?</string>
   <string name="change_sticker">Choose another sticker</string>
+  <string name="choose_report_comment_reason">Why are you reporting this comment?</string>
   <string name="choose_report_reason">Why are you reporting this video clip?</string>
   <string name="choose_send_type">Send using…</string>
   <string name="choose_upload_location">Upload to KuaiPan</string>
@@ -89,6 +92,10 @@
   <string name="clean_trash_box">Empty trash</string>
   <string name="click_to_switch_volume">Tap to switch between internal storage and SD card</string>
   <string name="close">Close</string>
+  <string name="comment_delete_message">Caution: this operation is not reversible!</string>
+  <string name="comment_delete_title">Delete comment</string>
+  <string name="comment_hint">Leave a comment</string>
+  <string name="comment_reply">Reply %1$s: </string>
   <string name="compress_fail">"Couldn't compress. A file with the same name already exists."</string>
   <string name="compress_fail_unknown">"Couldn't compress. Storage is full or an unknown error occurred."</string>
   <string name="compress_message">Compress to…</string>
@@ -99,9 +106,11 @@
   <string name="connect_network_setting_des">Prompt for internet connection</string>
   <string name="connecting">Connecting…</string>
   <string name="connection_error">"Couldn't connect"</string>
+  <string name="copied">Copied</string>
   <string name="copy_failed">"Couldn't copy, looks like your storage is too full"</string>
   <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
   <string name="copy_file_to_midrive">Copy file to MiDrive</string>
+  <string name="copy_text">Copy text</string>
   <string name="copy_to">Copy to…</string>
   <string name="create_kuaipan_shortcut_pref">Create shortcut on Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
@@ -165,6 +174,7 @@
   <string name="drive_closed">Not signed in</string>
   <string name="drive_opened">Signed in</string>
   <string name="email_platform">Email</string>
+  <string name="empty_comment">Comment cannot be empty</string>
   <string name="empty_file_download">Empty file is not supported.</string>
   <string name="empty_file_upload">Empty file is not supported.</string>
   <string name="enable_documentsui">Turn on %s in Settings &gt; Installed apps first</string>
@@ -220,6 +230,7 @@
   <string name="ftp_username_hint">Username</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
+  <string name="get_user_info_err">Failed to get user information</string>
   <string name="get_verification_code_fail">Get verification code failed</string>
   <string name="gigabyteShort">GB</string>
   <string name="good_tip">Well done!</string>
@@ -231,6 +242,7 @@
   <string name="homepage_tab_category">Categories</string>
   <string name="homepage_tab_file_view">Storage</string>
   <string name="homepage_tab_recent">Recent</string>
+  <string name="hot_comments">Hot comments</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Videos</string>
   <string name="hottest_sticker_str">Popular</string>
@@ -307,6 +319,14 @@ Sorry for the inconvenience."</string>
   <string name="menu_item_sort_type">Type</string>
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Menu</string>
+  <string name="message_comment_prefix">Comment:</string>
+  <string name="message_my_received_praise">My received praise</string>
+  <string name="message_my_received_praise_count">+%1$s</string>
+  <string name="message_praise_comment">Like this comment</string>
+  <string name="message_praise_video">Like this video</string>
+  <string name="message_reply_prefix">Reply</string>
+  <string name="message_reply_suffix">:</string>
+  <string name="message_title">My Messages</string>
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Midrive needs to connect to the internet to work normally.</string>
   <string name="midrive_space_full">Not enough cloud space.</string>
@@ -383,6 +403,7 @@ Sorry for the inconvenience."</string>
   <string name="network_spent_reminding">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
   <string name="network_spent_reminding_title">Data usage notification</string>
   <string name="never_notify_network_connect">Remember preference</string>
+  <string name="new_comments">New comments</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="new_function">Hidden folders</string>
   <string name="new_function_info">To view hidden folders, pull down to the bottom of the screen from the first row of icons on the start page.</string>
@@ -393,6 +414,7 @@ and never miss the cool new ones!"</string>
   <string name="no">No</string>
   <string name="no_apk">Tap to get apps</string>
   <string name="no_app_tags">Empty</string>
+  <string name="no_comment">No comment</string>
   <string name="no_display_file">"Can't display %1$s"</string>
   <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_enough_storage_indication">"Device's storage space is full."</string>
@@ -401,6 +423,7 @@ and never miss the cool new ones!"</string>
   <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_login_btn_text">Immediately login</string>
   <string name="no_login_tip">Involved in the topic and win a prize</string>
+  <string name="no_message">No message</string>
   <string name="no_more_space">Not enough storage space.</string>
   <string name="no_network_retry">"Can't connect to the network. Check connection and try again."</string>
   <string name="no_network_str">"Couldn't connect to the network. Check your network connection and try again."</string>
@@ -408,6 +431,8 @@ and never miss the cool new ones!"</string>
   <string name="no_new_content_tip">It has been updated，you can switch to the hottest!</string>
   <string name="no_recent_files">No recent files</string>
   <string name="no_tasks">No tasks.</string>
+  <string name="no_topic">No topic</string>
+  <string name="no_topic_found">No topic found</string>
   <string name="no_wifi">No network detected</string>
   <string name="no_wifi_hint">No connection</string>
   <string name="not_installed_documentsui">DocumentsUI not installed</string>
@@ -473,6 +498,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_refresh">Refresh</string>
   <string name="operation_rename">Rename</string>
   <string name="operation_rename_message">Rename folder</string>
+  <string name="operation_reply">Comment</string>
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Resume all</string>
   <string name="operation_save">Save</string>
@@ -481,6 +507,10 @@ and never miss the cool new ones!"</string>
   <string name="operation_show_sys">Show hidden files</string>
   <string name="operation_unfavorite">Unfavorite</string>
   <string name="operation_unlike">Unfavorite</string>
+  <string name="origin_name">%1$s: </string>
+  <string name="other_user_liked_topic_tip">No issue of concern</string>
+  <string name="other_user_topic_tab">Topics</string>
+  <string name="other_user_video_tab">Videos</string>
   <string name="pan_settting">KuaiPan settings</string>
   <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
@@ -534,6 +564,7 @@ and never miss the cool new ones!"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">MiDrive: %1$s available, %2$s total</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recommend">Recommend</string>
   <string name="release_to_signin">Release to check in</string>
   <string name="remote_video_no_network">"Can't connect to the network."</string>
   <string name="remote_video_report_success">"Thank you for your feedback! We'll follow up as soon as possible."</string>
@@ -545,6 +576,7 @@ and never miss the cool new ones!"</string>
   <string name="repair_error">"Couldn't restore"</string>
   <string name="repair_file">Restore encrypted files</string>
   <string name="repeat_upload_video">This video has already been shared, choose another one.</string>
+  <string name="reply_success">Comment sent successfully, it will display after approval</string>
   <string name="report_abuse">Abuse</string>
   <string name="report_advertisement">Advertisement</string>
   <string name="report_other">Other</string>
@@ -609,6 +641,8 @@ and never miss the cool new ones!"</string>
   <string name="select_image">Images</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
+  <string name="send_comment">Send</string>
+  <string name="send_error">Reply error</string>
   <string name="send_sticker">Send sticker</string>
   <string name="send_to_kuaipan">KuaiPan</string>
   <string name="send_to_midrive_failed_message">"This file type isn't supported."</string>
@@ -690,6 +724,9 @@ and never miss the cool new ones!"</string>
   <string name="title_upload_video">Share video clips</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
+  <string name="topic_follow">Follow</string>
+  <string name="topic_followed">Followed</string>
+  <string name="topic_message">%1$s: %2$s</string>
   <string name="topic_winners">Past winners</string>
   <string name="trans_mobile_network_message">Using mobile data to transfer file will consume data flow, are you sure to continue?</string>
   <string name="trans_task">Network transfer</string>
@@ -714,9 +751,11 @@ and never miss the cool new ones!"</string>
   <string name="upload_failed">"Couldn't upload"</string>
   <string name="upload_file_toolarge_message">"%1$d is too large. Can't upload files larger than 300MB."</string>
   <string name="upload_local_video">Share video clip</string>
+  <string name="upload_notification_compress_progress">compressing %1$s%%</string>
+  <string name="upload_notification_compress_title">compressing video</string>
   <string name="upload_notification_failed">upload failed</string>
   <string name="upload_notification_failed_content">retry</string>
-  <string name="upload_notification_progress">uploading (%1$s)%%</string>
+  <string name="upload_notification_progress">uploading %1$s%%</string>
   <string name="upload_notification_success">upload success</string>
   <string name="upload_notification_success_content">you video need to be censored to be available to all users</string>
   <string name="upload_notification_title">uploading video</string>
@@ -731,6 +770,7 @@ and never miss the cool new ones!"</string>
   <string name="usb_label">USB</string>
   <string name="used">Used</string>
   <string name="user_agreement">User agreement</string>
+  <string name="user_center_setting">Setting</string>
   <string name="user_center_title">Home page</string>
   <string name="user_guide">Learn more about KuaiPan</string>
   <string name="user_guide_continue_use">OK</string>
@@ -744,12 +784,22 @@ and never miss the cool new ones!"</string>
   <string name="user_login_dialog_cancle">Cancel</string>
   <string name="user_login_dialog_tip">Uploaded videos must be logged in, after logging in you can participate in a video popularity ranking, easily won a mass f codes, millet peripheral products, more mobile jackpot waiting for you!</string>
   <string name="user_login_dialog_title">Login account</string>
+  <string name="user_msg_text">Message</string>
   <string name="user_no_net_video_tip">The network seems to be a problem, networking and try again ~</string>
   <string name="user_no_upload">no videos</string>
   <string name="user_no_video_tip">No upload videos</string>
   <string name="user_not_login">Sign in first</string>
   <string name="user_not_video_btn_text">upload the first video</string>
+  <string name="user_setting_new_comment">New comment notification</string>
+  <string name="user_setting_new_comment_tip">Video or comment to reply, you will be notified</string>
+  <string name="user_setting_new_liked">Praise of the new message notification</string>
+  <string name="user_setting_new_liked_tip">Someone like your video or comment, you will be notified</string>
+  <string name="user_setting_topic_new_msg">Hot topic new dynamic alert</string>
+  <string name="user_setting_topic_new_msg_tip">A topic of concern produced a new video, you will be notified</string>
+  <string name="user_topic_btn_text">View more topics</string>
+  <string name="user_topic_text">Topics</string>
   <string name="user_upload_tip">Upload</string>
+  <string name="user_video_text">Videos</string>
   <string name="utf8_summary">System FTP default encoding</string>
   <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Install</string>
@@ -768,10 +818,11 @@ and never miss the cool new ones!"</string>
   <string name="video_replay">Play again</string>
   <string name="video_status_reject">Rejected</string>
   <string name="video_status_review">reviewing</string>
-  <string name="video_tag">\#%s#</string>
+  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">customize topic</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Choose topic</string>
+  <string name="video_topic_hint">Search topic</string>
   <string name="video_upload_btn">next step</string>
   <string name="video_upload_btn_hint">only support 3s to 10min mp4 short videos</string>
   <string name="video_upload_btn_hint_span">"can't find your video?"</string>
@@ -781,6 +832,7 @@ and never miss the cool new ones!"</string>
   <string name="video_upload_retry_message">Your video failed to upload, retry?</string>
   <string name="video_upload_retry_title">Upload retry</string>
   <string name="video_upload_title">select video</string>
+  <string name="videos">videos</string>
   <string name="view_more_sticker">View more stickers</string>
   <string name="vip_info">VIP:%1$s</string>
   <string name="wait_net">Waiting for network</string>
@@ -800,4 +852,5 @@ and never miss the cool new ones!"</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Yes</string>
   <string name="yesterday">Yesterday</string>
+  <string name="zero_comment">No comment</string>
 </resources>

@@ -485,12 +485,11 @@ For more info check the message you received from your carrier"</string>
   <string name="keywords_monthreport">Report;Monthly report;Annual report;Security report</string>
   <string name="keywords_networkassistant_1">Data;Traffic</string>
   <string name="keywords_networkassistant_2">Data;Calibrate</string>
-  <string name="keywords_networkassistant_3">Data;Save</string>
   <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Battery saver;Permissions;Blocklist;Data usage;Calibrate data plan;Data saver;Test network;App lock;Save battery;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Data;Traffic;Calibrate;Save;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
+  <string name="keywords_securitycenter_settings">Battery saver;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
@@ -737,7 +736,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_monthreport">System apps/Security</string>
   <string name="path_networkassistant_1">System apps/Security/Network assistant</string>
   <string name="path_networkassistant_2">System apps/Security/Network assistant</string>
-  <string name="path_networkassistant_3">System apps/Security/Network assistant/Data saver</string>
   <string name="path_networkassistant_4">System apps/Security/Network assistant/Test network</string>
   <string name="path_permcenter">System apps/Security/Permissions</string>
   <string name="path_powercenter">System apps/Security/Battery saver</string>
@@ -1012,7 +1010,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="resource_monthreport">Security report</string>
   <string name="resource_networkassistant_1">Data usage</string>
   <string name="resource_networkassistant_2">Calibrate data plan</string>
-  <string name="resource_networkassistant_3">Data saver</string>
   <string name="resource_networkassistant_4">Test network</string>
   <string name="resource_permcenter">Permissions</string>
   <string name="resource_powercenter">Battery saver</string>

@@ -191,6 +191,7 @@
   <string name="download_completed">Downloaded</string>
   <string name="download_confirm_button_text">Install</string>
   <string name="download_confirm_text">Mi Music will download and install %s</string>
+  <string name="download_done_btn">Downloaded</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Insufficient space</string>
   <string name="download_filesize_unknown">Unknown</string>

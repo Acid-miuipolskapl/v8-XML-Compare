@@ -1666,6 +1666,10 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
+
+    if-nez v0, :cond_0
+
     const/4 v0, 0x1
 
     :goto_0

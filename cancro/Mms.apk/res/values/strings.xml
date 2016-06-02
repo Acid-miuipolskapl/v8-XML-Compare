@@ -635,7 +635,11 @@ Attempt made: %s."</string>
   <string name="unstick_conversation">Unpin current conversation</string>
   <string name="unsticked_conversation">Conversation is already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
-  <string name="url_fraud_alert">The website you are trying to visit %s may be a fraud link, are you sure to move on?</string>
+  <string name="url_fraud_dangerous_alert">"The website you are trying to visit is a fraud link, can be harmful to your device and your property, are you sure to move on? 
+%s"</string>
+  <string name="url_fraud_insurance">Fraud insurance</string>
+  <string name="url_fraud_risky_alert">"The website you are trying to visit may be a fraud link, are you sure to move on? 
+%s"</string>
   <string name="url_fraud_title">Fraud suspicious</string>
   <string name="url_fraud_visit">&lt;u&gt;Visit anyway&lt;/u&gt;</string>
   <string name="url_result_safe">This url is safe</string>
