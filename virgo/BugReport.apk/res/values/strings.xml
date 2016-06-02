@@ -147,6 +147,7 @@
   <string name="michat_try_again">Try again</string>
   <string name="michat_type_list_null">"Couldn't get info, try again later"</string>
   <string name="michat_type_picture">Image</string>
+  <string name="michat_user_quit">您已离开会话</string>
   <string name="michat_wait_for_a_moment">Just a sec, help is on the way!</string>
   <string name="michat_webview_title">View details</string>
   <string name="min_error">Your %1$s should be longer.</string>

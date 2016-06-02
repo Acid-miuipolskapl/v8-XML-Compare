@@ -26,8 +26,8 @@
   <string name="component_backup_preference_title">Back up theme</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">ADVANCED</string>
-  <string name="component_title_ringtone">ringtone</string>
-  <string name="component_title_wallpaper">wallpaper</string>
+  <string name="component_title_ringtone">Ringtone</string>
+  <string name="component_title_wallpaper">Wallpaper</string>
   <string name="deleting">Deleting…</string>
   <string name="description_author">Author</string>
   <string name="description_designer">Designer</string>
@@ -100,6 +100,10 @@
   <string name="online_search_hint">Search for online resources</string>
   <string name="present_local_themes">Downloaded</string>
   <string name="present_online_themes">Get more themes for free</string>
+  <string name="provision_default_theme_title">Default</string>
+  <string name="provision_loading_tips">Just a sec…</string>
+  <string name="provision_second_title">Select one of the five default themes</string>
+  <string name="provision_title">Choose a theme</string>
   <string name="purchased_list">Purchased</string>
   <string name="purchased_list_format">%1$s purchased</string>
   <string name="reload">Try again</string>
@@ -113,6 +117,7 @@
   <string name="resource_app_name">Resource Browser</string>
   <string name="resource_apply">Apply</string>
   <string name="resource_apply_trial">Try now</string>
+  <string name="resource_back">Back</string>
   <string name="resource_buy">Buy</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
   <string name="resource_category">Category</string>
@@ -153,6 +158,7 @@
   <string name="resource_comment_upload_not_bought">You need to apply the theme before you can write comments about it</string>
   <string name="resource_comment_upload_not_logined">You need to sign in first</string>
   <string name="resource_comment_upload_success">Your comment will be displayed after a brief review.</string>
+  <string name="resource_continue">Next</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete">Delete</string>
@@ -357,10 +363,6 @@
   <string name="theme_precast_create_notification_title">Updated to MIUI 7</string>
   <string name="theme_precast_update_notification_content">Tap to explore the updates.</string>
   <string name="theme_precast_update_notification_title">MIUI 7 themes updated</string>
-  <string name="theme_provision_default_theme_title">Default</string>
-  <string name="theme_provision_loading_tips">Just a sec…</string>
-  <string name="theme_provision_oper_button_next">Next</string>
-  <string name="theme_provision_title">Choose a theme</string>
   <string name="theme_purchased_list_empty">"You haven't purchased any themes."</string>
   <string name="theme_purchased_non_local">Online</string>
   <string name="theme_select_others">Browse</string>

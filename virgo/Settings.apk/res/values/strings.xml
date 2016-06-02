@@ -264,6 +264,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="application_item_already_permission">Allowed</string>
   <string name="application_item_disable">Deny</string>
   <string name="application_item_permission">Allow</string>
+  <string name="application_lock_name">App lock</string>
   <string name="application_manager_section_title">App settings</string>
   <string name="application_permission_manager">App permissions</string>
   <string name="application_restrictions">Allow apps and content</string>
@@ -820,6 +821,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
+  <string name="convenience_key_category_title">Convenience key</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
@@ -1388,6 +1390,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
+  <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
   <string name="free_memory">Free</string>
   <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
   <string name="free_wifi_confirm">OK</string>
@@ -1806,12 +1809,16 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpassword_confirm_for_second_user">Confirm your Second space password</string>
   <string name="lockpassword_confirm_passwords_dont_match">Passwords don’t match</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue.</string>
   <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
   <string name="lockpassword_confirm_your_pattern_generic">Use your device pattern to continue.</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue.</string>
   <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
+  <string name="lockpassword_confirm_your_private_password_header">Confirm your password</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_continue_label">Continue</string>
   <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
   <string name="lockpassword_invalid_password">Wrong password</string>
@@ -2975,7 +2982,7 @@ To use screen pinning:
   <string name="search_dndm_wristband">Activate with Mi Band</string>
   <string name="search_do_not_disturb">Do not disturb;Vip;Set time;Exceptions;Repeated calls</string>
   <string name="search_dtmf_tone_enable_title">Dial pad touch tones</string>
-  <string name="search_empty">Sorry, not found related settings</string>
+  <string name="search_empty">Settings items not found</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">System font</string>
   <string name="search_gps">GPS;Location Access</string>
@@ -3399,11 +3406,11 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icons</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
-  <string name="status_bar_settings_style">Statusbar style</string>
+  <string name="status_bar_settings_style">Notifications &amp; toggles layout</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
   <string name="status_bar_settings_toggle_position">Toggle positions</string>
-  <string name="status_bar_style_list">Single page</string>
-  <string name="status_bar_style_page">Dual page</string>
+  <string name="status_bar_style_list">Combined</string>
+  <string name="status_bar_style_page">Separate</string>
   <string name="status_bt_address">Bluetooth address</string>
   <string name="status_data_state">Cellular network state</string>
   <string name="status_failed_to_write">Unable to write data to NFC tag. If the problem persists, try a different tag</string>
