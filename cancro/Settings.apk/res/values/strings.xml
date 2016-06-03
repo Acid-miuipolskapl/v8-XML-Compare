@@ -818,6 +818,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
   <string name="connected_wifi">Connected</string>
+  <string name="connecting_to_vpn">Connecting to VPN</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
@@ -2983,7 +2984,7 @@ To use screen pinning:
   <string name="search_dndm_wristband">Activate with Mi Band</string>
   <string name="search_do_not_disturb">Do not disturb;Vip;Set time;Exceptions;Repeated calls</string>
   <string name="search_dtmf_tone_enable_title">Dial pad touch tones</string>
-  <string name="search_empty">Settings items not found</string>
+  <string name="search_empty">No search results</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">System font</string>
   <string name="search_gps">GPS;Location Access</string>
@@ -4065,6 +4066,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_no_network">There is no network connection. Please try again later.</string>
   <string name="vpn_no_server_cert">(received from server)</string>
   <string name="vpn_not_used">(not used)</string>
+  <string name="vpn_off">Off</string>
+  <string name="vpn_on">On</string>
   <string name="vpn_password">Password</string>
   <string name="vpn_routes">Forwarding routes</string>
   <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>

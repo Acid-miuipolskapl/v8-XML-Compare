@@ -65,6 +65,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
   <string name="show_more">Show more</string>
+  <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="system_search_category_title">Phone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>

@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_0">Ciel dégagé</string>
+    <string name="weather_type_null">'Aucune donnée'</string>
+	<string name="weather_type_0">Ciel dégagé</string>
     <string name="weather_type_1">Nuageux</string>
     <string name="weather_type_2">Couvert</string>
     <string name="weather_type_3">Brumeux</string>

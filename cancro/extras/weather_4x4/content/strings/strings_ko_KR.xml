@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_format">MMMM d일 EEEE</string>
+    <string name="date_format">yyyy년 MM월 d일</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
@@ -11,7 +11,8 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_0">맑음</string>
+    <string name="weather_type_null">'데이터 없음'</string>
+	<string name="weather_type_0">맑음</string>
     <string name="weather_type_1">흐림</string>
     <string name="weather_type_2">연무</string>
     <string name="weather_type_3">안개</string>

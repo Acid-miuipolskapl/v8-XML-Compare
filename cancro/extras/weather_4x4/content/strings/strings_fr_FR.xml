@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_format">EEEE, d MMMM</string>
     <string name="today">Aujourd'hui</string>
@@ -10,7 +11,8 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_0">Ciel dégagé</string>
+    <string name="weather_type_null">'Aucune donnée'</string>
+	<string name="weather_type_0">Ciel dégagé</string>
     <string name="weather_type_1">Nuageux</string>
     <string name="weather_type_2">Couvert</string>
     <string name="weather_type_3">Brumeux</string>
