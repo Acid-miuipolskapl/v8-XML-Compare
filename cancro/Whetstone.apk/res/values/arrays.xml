@@ -48,6 +48,9 @@
         <item>com.miui.antispam</item>
         <item>com.miui.securitycenter</item>
         <item>com.miui.virtualsim</item>
+        <item>com.amap.android.location​</item>
+        <item>com.baidu.map.location</item>
+        <item>com.google.android.gms​</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
