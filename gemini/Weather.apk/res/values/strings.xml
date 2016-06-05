@@ -110,6 +110,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Try again</string>
+  <string name="open">Open</string>
   <string name="open_browser">Open in browser</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">Relative Humidity</string>
