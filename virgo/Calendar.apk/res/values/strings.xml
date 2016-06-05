@@ -265,6 +265,7 @@
   <string name="lunar_date">Lunar date</string>
   <string name="match_ed">已结束</string>
   <string name="match_ing">进行中</string>
+  <string name="match_not_started">未开始</string>
   <string name="menu_about_preferences">About Calendar</string>
   <string name="menu_general_preferences">General</string>
   <string name="menu_preferences">Settings</string>
@@ -292,6 +293,7 @@
   <string name="monthly">Monthly</string>
   <string name="monthly_on_day">Monthly (same date)</string>
   <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
+  <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">简介</string>
   <string name="my_subscribe_events">我的订阅</string>
