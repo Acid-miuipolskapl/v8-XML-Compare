@@ -27,7 +27,6 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>视频</item>
-        <item>截屏</item>
         <item>应用</item>
     </string-array>
     <string-array name="epg_channel_tab">
@@ -45,6 +44,17 @@
         <item>卫视频道</item>
         <item>高清频道</item>
         <item>最近观看</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>湖南卫视</item>
+        <item>CCTV-6</item>
+        <item>浙江卫视</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>东方卫视</item>
+        <item>安徽卫视</item>
+        <item>北京卫视</item>
+        <item>广东卫视</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
