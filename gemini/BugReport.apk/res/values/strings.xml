@@ -115,6 +115,7 @@
   <string name="michat_error_need_login_btn">Sign in</string>
   <string name="michat_error_need_login_text">Sign in to be able to use online support</string>
   <string name="michat_failed_to_add_media">"Sorry, can't send %1$s"</string>
+  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
   <string name="michat_feedback_title_name">Feedback survey</string>
   <string name="michat_finish_text">Finish</string>
   <string name="michat_in_artifical_customer_state">"Can't do this while being helped by a person"</string>
@@ -126,6 +127,8 @@
   <string name="michat_mesage_resend_error_network">"Couldn't connect to the network"</string>
   <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_message_copy_info">Copied to clipboard</string>
+  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
   <string name="michat_msg_image_upload_error">"Couldn't send image, try again later"</string>
   <string name="michat_msg_input_info">Describe your issue briefly</string>
   <string name="michat_msg_status_arrived">Sent</string>
@@ -185,7 +188,6 @@
   <string name="reply">Reply</string>
   <string name="report_miui">Report bug</string>
   <string name="request_empty_data">No data</string>
-  <string name="robot_welcome_message">"My name is Mi Bunny. I'm an online support robot."</string>
   <string name="save_pic">Save</string>
   <string name="save_pic_fail">"Couldn't save image, check your SD card"</string>
   <string name="save_pic_success">Saved image to %s</string>
@@ -194,8 +196,6 @@
   <string name="section_description">Description</string>
   <string name="section_err_type">Bug type</string>
   <string name="section_screenshot">Screenshot</string>
-  <string name="server_error_message">A server error occurred (Error code: %1$s). Try again later.</string>
-  <string name="server_unknown_error_message">An unkmown server error occured. Try again later.</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Send</string>
   <string name="submit_dialog_content">"Your feedback along with attachments and logs will be sent to Mi's servers. If any network errors occur while the items are being sent, you'll be asked to try again."</string>

@@ -330,6 +330,7 @@
   <string name="preferences_alerts_ringtone_title">Sound</string>
   <string name="preferences_alerts_title">Notifications</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
+  <string name="preferences_alerts_vibrate_title">Vibrate and ringtone</string>
   <string name="preferences_build_version">Build version</string>
   <string name="preferences_category_account_title">Account</string>
   <string name="preferences_category_general_title">General settings</string>
@@ -345,6 +346,7 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Home time zone</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
+  <string name="preferences_notification_ringtone_title">Sound</string>
   <string name="preferences_reminder_title">Notification &amp; reminders</string>
   <string name="preferences_show_week_num_title">Show week number</string>
   <string name="preferences_solar_terms">Show solar days</string>

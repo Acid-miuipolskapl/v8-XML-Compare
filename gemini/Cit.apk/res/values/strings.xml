@@ -215,6 +215,11 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
+  <string name="cit_reset_ese_summary">Reset eSE ,all your NFC bankcards and transcards will be deleted.</string>
+  <string name="cit_reset_ese_title">Reset eSE</string>
+  <string name="cit_reset_se">Reset eSE</string>
+  <string name="cit_reset_se_nfc_closed">Fail:NFC should be enabled.</string>
+  <string name="cit_reset_se_start">Resetting your eSE...</string>
   <string name="cit_reset_test">Test</string>
   <string name="cit_sd_fail">An error occurred.</string>
   <string name="cit_sd_mount">Mount SD card</string>

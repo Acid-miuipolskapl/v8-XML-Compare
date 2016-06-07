@@ -619,6 +619,7 @@
   <string name="doodle_pencil">Pencil</string>
   <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
   <string name="doodle_tooltip">Touch to doodle</string>
+  <string name="download_canceled">Download canceled</string>
   <string name="download_retry_message">"Couldn't download files, check network connection and try again"</string>
   <string name="download_retry_text">Try again</string>
   <string name="download_retry_title">"Couldn't download files"</string>
@@ -840,7 +841,7 @@ Take more photos of your friends!"</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Turn off sync with Mi Cloud</string>
   <string name="operation_do_delete_local_thumnail">Delete from device</string>
-  <string name="operation_download">Download otiginal (%s)</string>
+  <string name="operation_download">Download original (%s)</string>
   <string name="operation_edit">Edit</string>
   <string name="operation_enable_auto_upload">Turn on sync with Mi Cloud</string>
   <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
@@ -893,7 +894,16 @@ Take more photos of your friends!"</string>
   <string name="photoeditor_name">Photo studio</string>
   <string name="pick_from_contact">Choose from contacts</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
+  <string name="picker_cancel_download">Cancel Download</string>
+  <string name="picker_continue_download">Continue Download</string>
+  <string name="picker_continue_with_exists">Continue with local photos</string>
+  <string name="picker_download">Download</string>
+  <string name="picker_download_progress_message">Downloading, Finished: %1$d/%2$d</string>
   <string name="picker_full_format">You can select up to %d photos</string>
+  <string name="picker_image_need_download">%d of selected photos not on device, download using mobile data?</string>
+  <string name="picker_image_will_download">%d of selected photos not on device, downloading</string>
+  <string name="picker_mobile_data_video">"Can't download videos with mobile data, skip %d."</string>
+  <string name="picker_origin_need_download">%1$d of selected photos not on device (%2$dMB), download using mobile data?</string>
   <string name="picker_title_format">Select %d photos</string>
   <string name="picker_title_selection_format">Selected %d photos</string>
   <string name="picker_title_unlimit">Select photos</string>
