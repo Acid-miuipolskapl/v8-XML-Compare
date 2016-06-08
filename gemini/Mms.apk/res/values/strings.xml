@@ -117,6 +117,7 @@
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
   <string name="database_corruption">Repairing…</string>
+  <string name="del_private_contact">Remove all private contact</string>
   <string name="delete">Delete</string>
   <string name="delete_bookmark">Remove from starred</string>
   <string name="delete_message">Delete</string>
@@ -496,9 +497,7 @@
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
   <string name="search_title_mms">Messaging</string>
-  <string name="second_mms">second message</string>
   <string name="second_mms_introduction">please go to second space</string>
-  <string name="second_mms_notice">only display second message</string>
   <string name="second_mms_switch">switch user</string>
   <string name="secs">secs</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.

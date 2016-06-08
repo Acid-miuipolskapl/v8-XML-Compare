@@ -3069,7 +3069,7 @@ To use screen pinning:
   <string name="search_storage_settings">Cleaner</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">System apps</string>
-  <string name="search_tether">Techering &amp; portable hotspot</string>
+  <string name="search_tether">Techering &amp; portable hotspot;Hotspot;Personal Hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>
