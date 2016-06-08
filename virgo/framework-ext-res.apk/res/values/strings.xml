@@ -126,8 +126,6 @@
   <string name="reboot_progress">Rebooting…</string>
   <string name="replace">Replace</string>
   <string name="resource_select">Select</string>
-  <string name="screen_button_disabled_message">Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.</string>
-  <string name="screen_button_enabled_message">Navigation buttons enabled.</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Back and Volume up buttons simultaneously.</string>

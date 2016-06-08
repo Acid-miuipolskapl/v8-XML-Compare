@@ -2381,6 +2381,7 @@ Select your operating system:"</string>
   <string name="path_notification_sound">Settings/Sound/Default notification sound</string>
   <string name="path_notification_sound_title">Settings/Sound/Default notification sound</string>
   <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/tts_settings_title</string>
+  <string name="path_oldman_mode">Settings/Lite Mode</string>
   <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
   <string name="path_other_advanced_settings">Settings/Additional settings</string>
   <string name="path_owner_info_settings">Settings/Lock screen/Owner info</string>
@@ -3017,6 +3018,7 @@ To use screen pinning:
   <string name="search_notification_app_list_settings">App Notifications</string>
   <string name="search_notification_sound_title">Default notification sound</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
+  <string name="search_oldman_mode">Lite mode;Oldman mode</string>
   <string name="search_onekey_migrate">Transfer;One key migrate</string>
   <string name="search_other_advanced_settings">Additional settings;Privacy settings;Date&amp;time;Language &amp; input;One_handed mode;Battery &amp; performance;Storage;Notification light;Led;Headphones &amp; audio effects;Buttons;Keys;Accessibility;Beta features;Lab functions;Developer options;Backup &amp; reset;Transfer;One key migrate</string>
   <string name="search_owner_info_settings">Owner info</string>
@@ -3067,7 +3069,7 @@ To use screen pinning:
   <string name="search_storage_settings">Cleaner</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">System apps</string>
-  <string name="search_tether">Techering &amp; portable hotspot</string>
+  <string name="search_tether">Techering &amp; portable hotspot;Hotspot;Personal Hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>

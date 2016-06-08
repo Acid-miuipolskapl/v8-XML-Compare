@@ -663,6 +663,8 @@ Switch to the new provider anyway?"</string>
   <string name="message_decode_error">There was an error while decoding the message.</string>
   <string name="mhh_disable">Medical, Health, and Hospital disabled</string>
   <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
+  <string name="mi_sim_settings_summary">Use mobile data without a SIM card</string>
+  <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
   <string name="mismatchPin2">"PIN2s don't match. Try again."</string>
   <string name="mismatch_password">"The passwords you entered don't match"</string>
@@ -928,6 +930,8 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Off</string>
   <string name="preference_category_ringtone">Ringtone &amp; vibrate</string>
+  <string name="preference_data_usage_summary">Set your data plan to control the usage of mobile data</string>
+  <string name="preference_data_usage_title">Set data plan</string>
   <string name="preference_dial_pad_touch_tone_default">Default</string>
   <string name="preference_dial_pad_touch_tone_off">Off</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
@@ -1155,6 +1159,9 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
   <string name="sim_ndp_unlock_text">Unlock</string>
   <string name="sim_no_activated">"Couldn't verify SIM card"</string>
+  <string name="sim_roaming_settings_summary">Connect to mobile data networks while roaming</string>
+  <string name="sim_roaming_settings_title">Mi Roaming</string>
+  <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
   <string name="sim_unlock_failed">SIM unlock request unsuccessful.</string>
   <string name="sim_unlock_success">SIM unlock successful.</string>
   <string name="sip_account_list">SIP accounts</string>
@@ -1282,7 +1289,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">TTY Mode change is not allowed during a video call</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
   <string name="tty_mode_option_title">TTY mode</string>
-  <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ringer</string>
+  <string name="turnover_mute_summary">"When phone is rotated horizontally, flip it over to silence ringer. This feature doesn't work when vibration for incoming calls is on."</string>
   <string name="turnover_mute_title">Flip to silence ringer</string>
   <string name="ui_default_package">com.android.dialer</string>
   <string name="undefined">None</string>

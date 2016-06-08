@@ -72,6 +72,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_title">Try saying:</string>
   <string name="web_search_results">Baidu</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
   <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
   <string name="xiaomi_search_label">Results</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com</string>
