@@ -107,7 +107,8 @@
   <string name="connecting">Connecting…</string>
   <string name="connection_error">"Couldn't connect"</string>
   <string name="copied">Copied</string>
-  <string name="copy_failed">"Couldn't copy, looks like your storage is too full"</string>
+  <string name="copy_failed">"Couldn't copy"</string>
+  <string name="copy_failed_retry">"Can't copy, please retry after %1$s"</string>
   <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
   <string name="copy_file_to_midrive">Copy file to MiDrive</string>
   <string name="copy_text">Copy text</string>
@@ -142,6 +143,7 @@
   <string name="delete_dialog_button">Delete</string>
   <string name="delete_error">"Couldn't delete files, try again"</string>
   <string name="delete_failed">"Can't delete"</string>
+  <string name="delete_failed_retry">"Can't delete, please retry after %1$s"</string>
   <string name="delete_file">Delete this file?</string>
   <string name="delete_file_error">"Couldn't delete file"</string>
   <string name="delete_files">Delete %1$d files?</string>
@@ -330,6 +332,8 @@ Sorry for the inconvenience."</string>
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Midrive needs to connect to the internet to work normally.</string>
   <string name="midrive_space_full">Not enough cloud space.</string>
+  <string name="midrive_welcome_message">Your Kuaipan data has been successfully migrated. And you have got a three-month micloud membership privileges as a gift. The micloud drive and millet cloud services will share storage, you can access your micloud drive by i.mi.com.</string>
+  <string name="midrive_welcome_title">Welcome to micloud drive</string>
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
   <string name="midrop_send_files">Choose files to send</string>
@@ -361,6 +365,7 @@ Sorry for the inconvenience."</string>
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Can't cut"</string>
+  <string name="move_failed_retry">"Can't cut, please retry after %1$s"</string>
   <string name="move_icon_to_desktop_hint">Create a Home screen shortcut for Explorer to manage files more efficiently.</string>
   <string name="move_icon_to_desktop_success">Shortcut added to Home screen.</string>
   <string name="move_to">Move to…</string>
