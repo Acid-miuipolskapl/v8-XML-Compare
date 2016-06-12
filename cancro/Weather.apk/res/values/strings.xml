@@ -80,7 +80,7 @@
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humidity %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-  <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_desc_pressure">%1$smb</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">None</string>
   <string name="indices_title">Recommended Activities</string>
