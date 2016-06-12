@@ -544,6 +544,11 @@
   <string name="cloudfolder_name_cannot_empty">Enter an album name</string>
   <string name="cloudfolder_name_reserved">Album name is reserved</string>
   <string name="collaps_people">Hide</string>
+  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
+  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -888,6 +893,7 @@ Take more photos of your friends!"</string>
   <string name="phone_number_empty_alert">Add phone number</string>
   <string name="photo">Photos</string>
   <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
+  <string name="photo_editor_saving">Saving</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Gallery"</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Gallery</string>
   <string name="photo_save_succeed">Saved successfully</string>
