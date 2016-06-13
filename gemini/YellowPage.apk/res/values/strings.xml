@@ -55,8 +55,8 @@
   <string name="data_error">An error occurred</string>
   <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
-  <string name="didi_back">Back</string>
-  <string name="didi_close">Quit</string>
+  <string name="didi_back">back</string>
+  <string name="didi_close">close</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dont_enable">Turn off</string>
   <string name="download_completed">Download saved to %s</string>
@@ -135,10 +135,10 @@ Check your tracking number."</string>
   <string name="express_inquiry_status_difficult_goods">Difficult goods</string>
   <string name="express_inquiry_status_dispatch">Dispatching</string>
   <string name="express_inquiry_status_on_the_way">On the way</string>
-  <string name="express_inquiry_status_receipted">Recevied</string>
+  <string name="express_inquiry_status_receipted">Receipted</string>
   <string name="express_inquiry_status_return">Return</string>
   <string name="express_inquiry_status_sign_out">Sign out</string>
-  <string name="express_inquiry_status_unknown">Unknown</string>
+  <string name="express_inquiry_status_unknown">UNKNOWN</string>
   <string name="express_inquiry_trace">Track</string>
   <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
   <string name="express_inquiry_trace_success">Tracking</string>
@@ -276,7 +276,7 @@ Check your tracking number."</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">All coupons</string>
-  <string name="more_express_numbers">More courier numbers</string>
+  <string name="more_express_numbers">More express numbers</string>
   <string name="navigation_search_all_cities">All cities</string>
   <string name="navigation_search_automatically_positioned_city">Current city</string>
   <string name="navigation_search_default_hint">Search locations</string>
@@ -324,7 +324,7 @@ Check your tracking number."</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
-  <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. In order to reverse phone lookup, we need the permission to access your contacts."</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>

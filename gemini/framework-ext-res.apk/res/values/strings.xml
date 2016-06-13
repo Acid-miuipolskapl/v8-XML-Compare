@@ -106,7 +106,7 @@
   <string name="key_btn_space">Space</string>
   <string name="livetalk_not_enable">Top-up package off</string>
   <string name="location_usage_restricted_body">Tap to allow.</string>
-  <string name="location_usage_restricted_title">Location access restricted</string>
+  <string name="location_usage_restricted_title">Background location restricted</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
@@ -118,7 +118,7 @@
   <string name="paste">Paste</string>
   <string name="perm_send_push_dspt">Allow Mi push messages</string>
   <string name="perm_send_push_lab">Send push message</string>
-  <string name="permdesc_manageLocationPolicy">Allows app to change location-related permissions and define app-specific rules.</string>
+  <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
   <string name="permlab_manageLocationPolicy">Location access</string>
   <string name="reboot_confirm_title">Reboot device now?</string>
   <string name="reboot_info_auto_boot">Device is scheduled to power on at %s</string>

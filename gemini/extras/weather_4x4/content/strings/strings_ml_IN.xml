@@ -11,8 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_null">'ഡാറ്റ ഇല്ല'</string>
-	<string name="weather_type_0">തെളിഞ്ഞത്</string>
+    <string name="weather_type_0">തെളിഞ്ഞത്</string>
     <string name="weather_type_1">മേഘാവൃതമായ</string>
     <string name="weather_type_2">തെളിച്ചമില്ലാത്ത</string>
     <string name="weather_type_3">മൂടിക്കെട്ടിയ</string>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Agree</string>
-  <string name="agree_terms">"I've read and agree to the Terms of Service and Privacy Policy."</string>
+  <string name="agree_terms">"I've read and agreed to the Terms and Conditions"</string>
   <string name="back">Back</string>
   <string name="congratulation_label">"You're ready to rock!​"</string>
-  <string name="congratulation_title">Setup complete</string>
+  <string name="congratulation_title">All set</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>

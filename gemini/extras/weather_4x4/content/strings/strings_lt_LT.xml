@@ -11,8 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_null">'Nėra duomenų'</string>
-	<string name="weather_type_0">Giedra</string>
+    <string name="weather_type_0">Giedra</string>
     <string name="weather_type_1">Debesuota</string>
     <string name="weather_type_2">Miglota</string>
     <string name="weather_type_3">Rūkas</string>

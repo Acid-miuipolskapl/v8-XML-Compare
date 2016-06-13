@@ -115,16 +115,18 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_hint">Loading</string>
-  <string name="master_alert_notif_content">data did not sync.</string>
+  <string name="master_alert_notif_content">"Can't sync"</string>
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
-  <string name="master_alert_notif_title">Turn on MiCloud</string>
+  <string name="master_alert_notif_title">Turn on sync with Mi Cloud</string>
   <string name="micloud_all_sub_1_intl_sms">International SMS will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_1_sms">Regular SMS will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">2 text messages (regular and international) will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_2_intl_sms">2 international text messages will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_2_sms">2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_resend_sms">"When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+  <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
+  <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Account</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
@@ -165,21 +167,20 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_battery_low_title">Battery is low</string>
   <string name="micloud_detail_depend_wifi_message">Please connect to WLAN or check the sync settings.</string>
   <string name="micloud_detail_depend_wifi_title">Need WLAN</string>
-  <string name="micloud_detail_do_not_sync">Not sync</string>
+  <string name="micloud_detail_do_not_sync">"Don't sync"</string>
   <string name="micloud_detail_download_syncing">Downloading %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
-  <string name="micloud_detail_force_sync">sync now</string>
+  <string name="micloud_detail_force_sync">Sync now</string>
   <string name="micloud_detail_lastest">Synced</string>
-  <string name="micloud_detail_lastest_with_off">"Synced
-Please switch on all syncs"</string>
+  <string name="micloud_detail_lastest_with_off">Synced</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
-  <string name="micloud_detail_not_synced">not synced</string>
+  <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pending">Waiting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
-  <string name="micloud_detail_query_error">"Can't obtain sync state"</string>
-  <string name="micloud_detail_query_error_detail">"Can't check the sync state. Please contact the developers."</string>
-  <string name="micloud_detail_query_error_title">"Can't obtain sync state"</string>
+  <string name="micloud_detail_query_error">"Couldn't get info about sync progress"</string>
+  <string name="micloud_detail_query_error_detail">"Can't confirm if sync is complete for some services. You can contact the developers using the Feedback app."</string>
+  <string name="micloud_detail_query_error_title">"Couldn't get info about sync progress"</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_sync_now">Sync now</string>
   <string name="micloud_detail_syncing">Syncing</string>
@@ -192,7 +193,7 @@ Please switch on all syncs"</string>
   <string name="micloud_find_device_finish">Done</string>
   <string name="micloud_find_device_guide_button">Turn on Find device</string>
   <string name="micloud_find_device_guide_content">"When you switch your SIM card, a message will be sent automatically
-to make sure you can keep using this feature."</string>
+to reactivate this feature."</string>
   <string name="micloud_find_device_guide_fail_reopen">Turn on Find device in Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Check your network connection and try again.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connection timed out. Try again later.</string>
@@ -204,10 +205,10 @@ to make sure you can keep using this feature."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Turn on Find device to secure your Alipay data</string>
   <string name="micloud_find_device_guide_progress">Turning on Find device…</string>
   <string name="micloud_find_device_guide_title">"Sign in to %s to locate, lock,
-or erase data on your lost device"</string>
+or erase your device."</string>
   <string name="micloud_find_device_open_fail">"Couldn't turn on Find device"</string>
   <string name="micloud_find_device_opened">Find device on</string>
-  <string name="micloud_find_device_opened_content">Sign in to %s to find your device</string>
+  <string name="micloud_find_device_opened_content">Find your device at %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_first_login_summary"/>
@@ -220,27 +221,23 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
-  <string name="micloud_main_battery_low">low battery, stop syncing</string>
-  <string name="micloud_main_battery_message">Connect the charger and resync</string>
+  <string name="micloud_main_battery_low">Not enough battery to sync</string>
+  <string name="micloud_main_battery_message">Connect your device to a power source to sync</string>
   <string name="micloud_main_clear_now">Clear</string>
   <string name="micloud_main_data_unsynced">%d waiting to sync</string>
   <string name="micloud_main_detail">View details</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
-  <string name="micloud_main_memory_low_message">"Can't sync. Clear some data and make room"</string>
+  <string name="micloud_main_memory_low_message">"To sync, delete some items you've stored in the cloud."</string>
   <string name="micloud_main_memory_low_title">"Phone's internal storage is almost full"</string>
-  <string name="micloud_main_multi_user_error_message">"You login the same account with the first space and micloud stops. If you want to backup data:
-
-1.Use another accout
-2.Transfer data to first space"</string>
-  <string name="micloud_main_multi_user_error_title">MiCloud stops</string>
+  <string name="micloud_main_message_not_synced">%s data not synced</string>
   <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
   <string name="micloud_main_network_error">"Can't connect to the network"</string>
   <string name="micloud_main_not_sync">%d items waiting to sync</string>
-  <string name="micloud_main_query_error_message">"Can't assure whether sync is finished"</string>
-  <string name="micloud_main_query_error_title">"Can't obtain sync state"</string>
+  <string name="micloud_main_query_error_message">"Can't confirm if sync is complete for some services"</string>
+  <string name="micloud_main_query_error_title">"Couldn't get info about sync progress"</string>
   <string name="micloud_main_set_internet">Network</string>
-  <string name="micloud_main_space_full">Not enough storage space.</string>
-  <string name="micloud_main_space_full_title">Not enough storage space</string>
+  <string name="micloud_main_space_full">Cloud storage is full</string>
+  <string name="micloud_main_space_full_title">Cloud storage is full</string>
   <string name="micloud_main_space_low">Almost out of space…</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
   <string name="micloud_main_suggest_master_sync">"Couldn't sync everything"</string>
@@ -253,12 +250,13 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
   <string name="micloud_main_sync_pause">Sync paused</string>
-  <string name="micloud_main_sync_pending">Wait to sync</string>
+  <string name="micloud_main_sync_pending">Waiting to sync</string>
   <string name="micloud_main_sync_setting">Sync settings</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>
   <string name="micloud_main_synced_data_count">%d items synced</string>
   <string name="micloud_main_syncing">Syncing…</string>
-  <string name="micloud_main_title_master_sync_off">Auto sync off</string>
+  <string name="micloud_main_title_master_sync_off">Auto-sync is off</string>
+  <string name="micloud_main_title_not_synced">Not synced</string>
   <string name="micloud_main_title_sync_fail">"Can't sync"</string>
   <string name="micloud_main_title_sync_off">Sync off</string>
   <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
@@ -285,7 +283,6 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
-  <string name="micloud_notif_content_multi_user_error">You login the same account with original space.</string>
   <string name="micloud_notif_content_sync_finish">Account</string>
   <string name="micloud_notif_content_sync_not_finish">Detail</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
@@ -294,9 +291,8 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_title_depend_wifi">%d is waiting to sync</string>
   <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
-  <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_sync_finish">Synced</string>
-  <string name="micloud_notif_title_sync_not_finish">Not Synced</string>
+  <string name="micloud_notif_title_sync_not_finish">"Some items haven't been synced"</string>
   <string name="micloud_notif_title_sync_progress">Syncing</string>
   <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
   <string name="micloud_other_product_price">Compare prices</string>
@@ -338,7 +334,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-  <string name="micloud_upgrade_member">Upgrade</string>
+  <string name="micloud_upgrade_member">Get more storage space</string>
   <string name="micloud_upgrade_space">Get more storage space</string>
   <string name="micloud_user_space_title">Storage space</string>
   <string name="micloud_user_space_usage">Storage space</string>
@@ -350,11 +346,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_web_discription_international">Visit www.mi.com/micloud</string>
-  <string name="micloud_website">Cloud Data</string>
-  <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
-  <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
-  <string name="micloud_wipe_data_remove">Remove</string>
-  <string name="micloud_wipe_data_retain">Leave</string>
+  <string name="micloud_website">View items in Mi Cloud</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
@@ -413,7 +405,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="soundrecorder_sync_records">Sync with Mi Cloud</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Storage</string>
-  <string name="sub_alert_notif_content">Turn on MiCloud</string>
+  <string name="sub_alert_notif_content">Turn on sync with Mi Cloud to back up your data</string>
   <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="sub_alert_notif_dspt_no">Synced</string>
   <string name="sub_alert_notif_title">Sync with Mi Cloud</string>
@@ -471,11 +463,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="verify">Verify</string>
   <string name="view_storage_title">Storage space</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
-  <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
-  <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
-  <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>

@@ -11,8 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_null">'ไม่มีข้อมูลสภาพอากาศ'</string>
-	<string name="weather_type_0">แจ่มใส</string>
+    <string name="weather_type_0">แจ่มใส</string>
     <string name="weather_type_1">เมฆมาก</string>
     <string name="weather_type_2">หมอกหนา</string>
     <string name="weather_type_3">มีหมอกลง</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Just a sec…</string>
+  <string name="account_error">Account error</string>
   <string name="app_name">Mi Cloud backup​</string>
   <string name="as_new_device">Replace previous Home screen and settings</string>
   <string name="as_new_device_summary">Erase previous Mi Cloud backups</string>

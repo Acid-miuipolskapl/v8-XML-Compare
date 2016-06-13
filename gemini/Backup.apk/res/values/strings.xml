@@ -303,7 +303,7 @@ Keep devices close to each other."</string>
   <string name="trans_restoring_no_items">Syncing items</string>
   <string name="trans_retry">Retry</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
-  <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"Not enough storage on the new device
 Select files again or clear %s of storage on the new device"</string>

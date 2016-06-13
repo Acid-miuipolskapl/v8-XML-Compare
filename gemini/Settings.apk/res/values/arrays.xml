@@ -1103,6 +1103,7 @@
         <item>com.miui.providers.weather</item>
         <item>com.miui.yellowpage</item>
         <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
         <item>com.google.android.packageinstaller</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
@@ -1133,8 +1134,8 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_position_action">
-        <item>Overview button on the left, Back button on the right</item>
-        <item>Back button on the left, Overview button on the right</item>
+        <item>Menu button on the left, Back button on the right</item>
+        <item>Back button on the left, Menu button on the right</item>
     </string-array>
     <string-array name="screen_key_position_action_value">
         <item>0</item>
@@ -1716,22 +1717,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Child mode</item>
         <item>File Explorer</item>
         <item>App lock</item>
-    </string-array>
-    <string-array name="description_primary">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string-array name="description_secondary">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

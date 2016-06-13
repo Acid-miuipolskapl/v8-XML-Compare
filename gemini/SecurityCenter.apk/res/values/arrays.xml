@@ -118,10 +118,10 @@
         <item>Custom</item>
     </string-array>
     <integer-array name="pc_choice_dialog_over_heat_values">
+        <item>38</item>
         <item>40</item>
         <item>42</item>
         <item>45</item>
-        <item>48</item>
         <item>0</item>
     </integer-array>
     <integer-array name="pc_choice_dialog_battery_style_values">
