@@ -513,6 +513,7 @@
     <string-array name="pref_camera_exposuretime_entries">
         <item>@string/pref_camera_exposuretime_entry_auto</item>
         <item>@string/pref_camera_exposuretime_entry_1000</item>
+        <item>@string/pref_camera_exposuretime_entry_500</item>
         <item>@string/pref_camera_exposuretime_entry_250</item>
         <item>@string/pref_camera_exposuretime_entry_125</item>
         <item>@string/pref_camera_exposuretime_entry_60</item>
@@ -531,6 +532,7 @@
     <string-array name="pref_camera_exposuretime_entryvalues">
         <item>0</item>
         <item>1000</item>
+        <item>2000</item>
         <item>4000</item>
         <item>8000</item>
         <item>16667</item>
