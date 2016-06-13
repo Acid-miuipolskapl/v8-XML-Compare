@@ -15,9 +15,9 @@
   <string name="addPeopleToGroup">To add some, edit the group.</string>
   <string name="add_2sec_pause">Add 2-sec pause</string>
   <string name="add_account">Add account</string>
-  <string name="add_blacklist">Add to blocklist</string>
-  <string name="add_blacklist_dialog_message">Block this number?</string>
-  <string name="add_blacklist_dialog_title">Block this contact</string>
+  <string name="add_blacklist">Block</string>
+  <string name="add_blacklist_dialog_message">Block calls and messages from this number?</string>
+  <string name="add_blacklist_dialog_title">Block this phone number?</string>
   <string name="add_connection_button">Add connection</string>
   <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
   <string name="add_display_photo_entry">Add profile photo</string>
@@ -35,8 +35,8 @@
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
   <string name="aggregation_suggestion_join_dialog_message">Join the current contact with the selected contact?</string>
   <string name="all_list_empty">No contacts</string>
-  <string name="antispam_mark_my_contribution">"Show other users that I've reported this number."</string>
-  <string name="antispam_provider_format">Reported as spam by %s</string>
+  <string name="antispam_mark_my_contribution">Sharing flag info</string>
+  <string name="antispam_provider_format">Identified by %s</string>
   <string name="attach_photo_dialog_title">Contact photo</string>
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
@@ -103,18 +103,18 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
-  <string name="callrecordview_menu_batch_delete">Delete batch</string>
+  <string name="callrecordview_menu_batch_delete">Clear batch</string>
   <string name="callrecordview_menu_blocklist">Blocklist</string>
   <string name="callrecordview_menu_conference">Conference call</string>
-  <string name="callrecordview_menu_delete">Delete call history</string>
+  <string name="callrecordview_menu_delete">Clear call history</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
-  <string name="callrecordview_menu_delete_all">Delete call history</string>
+  <string name="callrecordview_menu_delete_all">Clear call history</string>
   <string name="callrecordview_menu_delete_called">Clear outgoing calls</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Clear missed calls</string>
-  <string name="callrecordview_menu_delete_new">Delete call histories of new contacts</string>
+  <string name="callrecordview_menu_delete_new">Clear call histories with new contacts</string>
   <string name="callrecordview_menu_delete_one">Remove from call history</string>
-  <string name="callrecordview_menu_delete_sim">Delete %s call histories</string>
+  <string name="callrecordview_menu_delete_sim">Clear %s call histories</string>
   <string name="callrecordview_menu_delete_stranger">Clear unknown numbers</string>
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="callrecordview_menu_ip">Auto IP dialing</string>
@@ -163,8 +163,8 @@
   <string name="clear_digits">Clear phone number</string>
   <string name="click_close">Tap to close</string>
   <string name="clip_dialog_title">Dial copied number?</string>
-  <string name="close_dial_pad">Close dial pad</string>
-  <string name="cloud_antispam_mark">Report</string>
+  <string name="close_dial_pad_description">Close dial pad</string>
+  <string name="cloud_antispam_mark">Flag</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
@@ -185,8 +185,8 @@
   <string name="config_export_vcard_type">v30_generic</string>
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">Delete call history?</string>
-  <string name="confirm_delete_selected_all_call_logs">Delete call history?</string>
+  <string name="confirm_delete_contact_all_call_logs">Clear call history?</string>
+  <string name="confirm_delete_selected_all_call_logs">Clear call history?</string>
   <string name="confirm_delete_sim_entry_miui_title">Delete</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
@@ -276,10 +276,10 @@ Contact cards are turned off"</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
   <string name="deleteConfirmation_title">Delete this contact?</string>
-  <string name="delete_call_log_message">Delete call history?</string>
-  <string name="delete_call_log_selected_title">Delete selected call history?</string>
+  <string name="delete_call_log_message">Clear call history?</string>
+  <string name="delete_call_log_selected_title">Clear selected call history?</string>
   <string name="delete_call_log_title">Choose call history</string>
-  <string name="delete_contact_calllog_title">Delete call history?</string>
+  <string name="delete_contact_calllog_title">Clear call history?</string>
   <string name="delete_dial_input">Delete</string>
   <string name="delete_duplicate">Merge</string>
   <string name="delete_duplicate_message">"Merging contacts… "</string>
@@ -288,7 +288,7 @@ Contact cards are turned off"</string>
   <string name="delete_selected_sim_entry_miui">Delete selected contacts</string>
   <string name="delete_sim_entries_finish">Contacts on SIM card deleted</string>
   <string name="delete_sim_entry_miui">Delete</string>
-  <string name="delete_unknown_contact_calllog_title">Delete call history?</string>
+  <string name="delete_unknown_contact_calllog_title">Clear call history?</string>
   <string name="deleting_sim_entry_miui">Deleting contacts on SIM card…</string>
   <string name="deleting_sim_entry_miui_prepare">Preparing contacts…</string>
   <string name="description_add_contact">Add contact</string>
@@ -367,7 +367,7 @@ Contact cards are turned off"</string>
   <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
-  <string name="dialer_menu_description">Show dialer</string>
+  <string name="dialer_menu_description">Show menus</string>
   <string name="dialer_menu_title">Menu options</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
@@ -413,7 +413,7 @@ Contact cards are turned off"</string>
   <string name="eventTypeCustom">Custom</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining%4$s</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>
@@ -761,7 +761,7 @@ Reason: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">To create groups you need an account.</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contact data using Mi Account</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contact data from Mi Account</string>
   <string name="noContacts">No contacts</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
 
@@ -849,6 +849,7 @@ To add a contact to your list of favorites:
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Dial pad</string>
   <string name="open_contact">View contact</string>
+  <string name="open_dial_pad_description">Open dial pad</string>
   <string name="option_delete_contact">Delete</string>
   <string name="option_delete_group">Delete</string>
   <string name="option_edit_contact">Edit</string>
@@ -1032,9 +1033,9 @@ To add a contact to your list of favorites:
   <string name="refresh">Refresh</string>
   <string name="relationLabelsGroup">Relationship</string>
   <string name="removePhoto">Remove photo</string>
-  <string name="remove_blacklist">Remove from blocklist</string>
-  <string name="remove_blacklist_dialog_message">Unblock this number?</string>
-  <string name="remove_blacklist_dialog_title">Unblock this contact</string>
+  <string name="remove_blacklist">Unblock</string>
+  <string name="remove_blacklist_dialog_message">Show calls and messages from this number?</string>
+  <string name="remove_blacklist_dialog_title">Unblock this phone number?</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
  To begin, tap the Merge icon at the bottom of your screen."</string>
@@ -1143,7 +1144,7 @@ To add a contact to your list of favorites:
   <string name="smart_group_frequency_4">Over 6 months ago</string>
   <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Smart groups</string>
-  <string name="smart_group_loading">Loading groups…</string>
+  <string name="smart_group_loading">Just a sec…</string>
   <string name="smart_group_location_label">Locations</string>
   <string name="smart_group_location_unavailable">No location info</string>
   <string name="sms">Text message</string>
@@ -1193,8 +1194,8 @@ To add a contact to your list of favorites:
   <string name="toast_copy_done">Done</string>
   <string name="toast_copying">Copying…</string>
   <string name="toast_displaying_all_contacts">Displaying all contacts</string>
-  <string name="toast_finish_delete_call_log">Call history deleted</string>
-  <string name="toast_finish_delete_selected_call_log">Call history deleted</string>
+  <string name="toast_finish_delete_call_log">Call history cleared</string>
+  <string name="toast_finish_delete_selected_call_log">Call history cleared</string>
   <string name="toast_for_failed_saving_nickname">"Couldn't save nickname"</string>
   <string name="toast_for_saving_nickname">Nickname saved</string>
   <string name="toast_join_with_empty_contact">Type contact name before merging with another</string>

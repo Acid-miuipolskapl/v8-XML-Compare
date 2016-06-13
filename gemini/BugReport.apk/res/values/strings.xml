@@ -103,6 +103,7 @@
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Camera</string>
   <string name="michat_back_to_detail">Go back to chat</string>
+  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
   <string name="michat_check_network">Check network settings</string>
   <string name="michat_close_text">Chat ended</string>
   <string name="michat_comment_net_error">"Couldn't connect to the network, try again later"</string>
@@ -123,6 +124,7 @@
   <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
   <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
   <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
+  <string name="michat_lose_artifical">网络出现异常，您将离开人工客服会话</string>
   <string name="michat_menu_copy_text">Copy</string>
   <string name="michat_mesage_resend_error_network">"Couldn't connect to the network"</string>
   <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
@@ -142,6 +144,7 @@
   <string name="michat_pull_to_refresh_pull_label">Pull down to view history</string>
   <string name="michat_pull_to_refresh_refreshing_label">Loading history…</string>
   <string name="michat_pull_to_refresh_release_label">Release to view history</string>
+  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
   <string name="michat_return_to_outside">Exit</string>
   <string name="michat_service_unavailiable">"Couldn't get info, try again later"</string>
   <string name="michat_skillset_business_type_title">Select service</string>
