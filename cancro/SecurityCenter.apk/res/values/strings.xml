@@ -196,6 +196,7 @@ or enter App lock password"</string>
   <string name="button_text_cleanup">Clean up</string>
   <string name="button_text_clear">Clear</string>
   <string name="button_text_create_shortcut">Create shortcut on Home screen</string>
+  <string name="button_text_deny">Deny</string>
   <string name="button_text_disconnect_now">Disconnect</string>
   <string name="button_text_fix">Fix</string>
   <string name="button_text_fix_now">Fix</string>
@@ -1463,6 +1464,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="virus_list_header_title">%d viruses detected</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="warning_open_mi_sim">Turn on Mi SIM</string>
   <string name="wifi_exception_summary">Test available WLAN networks</string>
   <string name="wifi_exception_title">Test WLAN network</string>
