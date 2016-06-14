@@ -52,6 +52,7 @@
   <string name="button_confirm">Allow</string>
   <string name="button_exit">Exit</string>
   <string name="button_not_allow">Cancel</string>
+  <string name="button_sure_abandon">Confirm discard changes?</string>
   <string name="close">Close</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
   <string name="daily_forcast_drawer_on_top">%1$s Day Forecast</string>
@@ -106,6 +107,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="location_tag">Locate</string>
   <string name="menu_add_city">Edit locations</string>
   <string name="menu_location">Locations</string>
+  <string name="mi_pad2">latte</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="no_data">--</string>
