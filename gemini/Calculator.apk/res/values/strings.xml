@@ -23,7 +23,7 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="currency_update_time_format">Updated %s</string>
+  <string name="currency_update_time_format">Currency rate provide by HeXun, Updated %s</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
@@ -70,7 +70,7 @@
   <string name="item_title_weight_conversion">Mass</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">left parenthesis</string>
-  <string name="lg">log</string>
+  <string name="lg">lg</string>
   <string name="lgDesc">logarithm</string>
   <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
@@ -130,6 +130,7 @@
   <string name="plusDesc">plus</string>
   <string name="power">^</string>
   <string name="powerDesc">power</string>
+  <string name="rate_data_provider">Interest rate provide by HeXun</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">right parenthesis</string>
   <string name="sin">sin</string>
@@ -169,7 +170,7 @@
   <string name="tax_thershold_native">%s (Mainland China)</string>
   <string name="tax_threshold">Tax-free threshold</string>
   <string name="tax_unemployment">Unemployment</string>
-  <string name="tax_update_time_format">Data in year %s</string>
+  <string name="tax_update_time_format">Data in year %s, provide by HeXun</string>
   <string name="title_bar">Length converter</string>
   <string name="to_num">62.7</string>
   <string name="unit_data_default_area_0">sq.m</string>

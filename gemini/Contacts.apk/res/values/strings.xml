@@ -35,7 +35,7 @@
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
   <string name="aggregation_suggestion_join_dialog_message">Join the current contact with the selected contact?</string>
   <string name="all_list_empty">No contacts</string>
-  <string name="antispam_mark_my_contribution">"Show other users that I've flagged this number."</string>
+  <string name="antispam_mark_my_contribution">Sharing flag info</string>
   <string name="antispam_provider_format">Identified by %s</string>
   <string name="attach_photo_dialog_title">Contact photo</string>
   <string name="audio_chat">Voice chat</string>
@@ -163,7 +163,7 @@
   <string name="clear_digits">Clear phone number</string>
   <string name="click_close">Tap to close</string>
   <string name="clip_dialog_title">Dial copied number?</string>
-  <string name="close_dial_pad">Close dial pad</string>
+  <string name="close_dial_pad_description">Close dial pad</string>
   <string name="cloud_antispam_mark">Flag</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
@@ -849,6 +849,7 @@ To add a contact to your list of favorites:
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Dial pad</string>
   <string name="open_contact">View contact</string>
+  <string name="open_dial_pad_description">Open dial pad</string>
   <string name="option_delete_contact">Delete</string>
   <string name="option_delete_group">Delete</string>
   <string name="option_edit_contact">Edit</string>

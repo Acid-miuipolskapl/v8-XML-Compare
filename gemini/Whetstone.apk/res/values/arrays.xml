@@ -39,12 +39,21 @@
         <item>com.xiaomi.xmsf</item>
         <item>com.xiaomi.metok</item>
         <item>com.lbe.security.miui</item>
+        <item>com.miui.touchassistant</item>
+        <item>com.miui.virtualsim</item>
+        <item>com.miui.voip</item>
     </string-array>
     <string-array name="deepclean_no_ui_white_list">
         <item>com.miui.powerkeeper</item>
         <item>com.android.updater</item>
         <item>com.android.incallui</item>
-        <item>com.miui.touchassistant</item>
+        <item>com.miui.antispam</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.virtualsim</item>
+        <item>com.amap.android.location​</item>
+        <item>com.baidu.map.location</item>
+        <item>com.google.android.gms​</item>
+        <item>com.miui.voip</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>

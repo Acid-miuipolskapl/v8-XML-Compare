@@ -689,7 +689,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="call_manager_enable_title">Enable Call Manager</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Call Manager</string>
-  <string name="call_settings_primary_user_only">Please change call settings in default space</string>
+  <string name="call_settings_primary_user_only">Change call settings in First space</string>
   <string name="call_settings_summary">Set up voicemail, call forwarding, call waiting, caller ID</string>
   <string name="call_settings_title">Call settings</string>
   <string name="calls_title">Calls</string>
@@ -1839,7 +1839,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpattern_need_to_unlock_wrong">Try again:</string>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
-  <string name="lockpattern_pattern_same_with_owner">Should be different from Default space password</string>
+  <string name="lockpattern_pattern_same_with_owner">Should be different from First space password</string>
   <string name="lockpattern_pattern_same_with_security_space">Should be different from Second space password</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again.</string>
   <string name="lockpattern_recording_inprogress">Release finger when done</string>
@@ -2377,13 +2377,14 @@ Select your operating system:"</string>
   <string name="path_oldman_mode">Settings/Lite Mode</string>
   <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
   <string name="path_other_advanced_settings">Settings/Additional settings</string>
-  <string name="path_owner_info_settings">Settings/Lock screen/Owner info</string>
+  <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
   <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
   <string name="path_power_mode_settings">Settings/Battery &amp; performance/Power settings</string>
   <string name="path_power_optimize">Settings/Additional/Beta features/Battery saver</string>
+  <string name="path_pref_volume_wake_title">Settings/Lock screen &amp; password/Wake with Volume buttons</string>
   <string name="path_preferred_network_type_settings">Settings/SIM cards &amp; mobile networks/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
   <string name="path_privacy_settings">Settings/Additional settings/Backup &amp; reset</string>
@@ -2392,13 +2393,14 @@ Select your operating system:"</string>
   <string name="path_safe_result_header_title_system">Settings/Additional settings/System Security</string>
   <string name="path_screen_effect_settings">Settings/Display/Colors &amp; saturation</string>
   <string name="path_screen_key_long_press_timeout">Settings/Additional settings/Buttons/Set long press time</string>
+  <string name="path_screen_on_proximity_sensor_title">Settings/Lock screen &amp; password/Prevent pocket dials</string>
   <string name="path_screen_optimize">Settings/Display/Colors &amp; contrast</string>
   <string name="path_screen_paper_mode">Settings/Display/Reading mode</string>
   <string name="path_screen_saver_settings">Settings/Display/Screensaver</string>
-  <string name="path_screen_timeout_settings">Settings/Lock Screen/Sleep</string>
+  <string name="path_screen_timeout_settings">Settings/Lock screen &amp; password/Sleep</string>
   <string name="path_second_space">Settings/Second Space</string>
   <string name="path_security_encryption_title">Settings/Additional settings/System Security/Encrypt device using lock screen password</string>
-  <string name="path_security_passwords_title">Settings/Lock screen &amp; password/Password</string>
+  <string name="path_security_passwords_title">Settings/Lock screen &amp; password/Screen Lock</string>
   <string name="path_security_settings">Settings/Additional settings/Privacy</string>
   <string name="path_slot_status_title">Settings/About phone/IMEI information</string>
   <string name="path_sms_delivered_sound_title">Settings/Sound &amp; vibration/Message delivered</string>
@@ -2427,7 +2429,8 @@ Select your operating system:"</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
-  <string name="path_unlock_set_settings">Settings/Lock Screen</string>
+  <string name="path_turn_on_security_lock">Settings/Lock screen &amp; password/Screen Lock/Change screen lock</string>
+  <string name="path_unlock_set_settings">Settings/Lock screen &amp; password</string>
   <string name="path_user_dict_settings_title">Settings/Additional settings/Language &amp; input/Personal dictionary</string>
   <string name="path_vibrate_in_silent_title">Settings/Sound &amp; vibration/Vibrate in silent mode</string>
   <string name="path_vibrate_on_touch_title">Settings/Sound &amp; vibration/Vibrate on touch</string>
@@ -2436,6 +2439,7 @@ Select your operating system:"</string>
   <string name="path_vpn_enable">Settings/More/VPN/VPN enable</string>
   <string name="path_vpn_settings">Settings/More/VPN</string>
   <string name="path_vpn_settings_password">Settings/More/VPN/VPN password</string>
+  <string name="path_wakeup_for_keyguard_notification_title">Settings/Lock screen &amp; password/Wake lock screen for notifications</string>
   <string name="path_wallpaper_settings">Settings/Wallpaper</string>
   <string name="path_wifi_advanced_ip_address_title">Settings/WLAN/Advanced settings/IP address</string>
   <string name="path_wifi_advanced_mac_address_title">Settings/WLAN/Advanced settings/WLAN MAC address</string>
@@ -3105,7 +3109,7 @@ To use screen pinning:
   <string name="search_xiaomi_account">Mi Account</string>
   <string name="search_xspace">XSpace</string>
   <string name="search_zen_mode_option_miui_silent">Silent mode</string>
-  <string name="second_space">Second Space</string>
+  <string name="second_space">Second space</string>
   <string name="secure_keyguard_business_title">Set screen lock</string>
   <string name="secure_lock_encryption_warning">Because you’ve turned on an accessibility service, your device won’t use your screen lock to enhance data encryption.</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
@@ -3637,7 +3641,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
-  <string name="tethering_settings_not_available">Please change tethering settings in default space</string>
+  <string name="tethering_settings_not_available">Change tethering settings in First space</string>
   <string name="theme_settings_title">Themes</string>
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
@@ -4058,6 +4062,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_name">Name</string>
   <string name="vpn_no_ca_cert">(don’t verify server)</string>
   <string name="vpn_no_network">There is no network connection. Please try again later.</string>
+  <string name="vpn_no_selected">Select VPN</string>
   <string name="vpn_no_server_cert">(received from server)</string>
   <string name="vpn_not_used">(not used)</string>
   <string name="vpn_off">Off</string>
@@ -4071,7 +4076,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_search_domains">DNS search domains</string>
   <string name="vpn_server">Server address</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
-  <string name="vpn_settings_password">VPN password</string>
+  <string name="vpn_settings_password">Add VPN password</string>
+  <string name="vpn_settings_summary">Protect VPN settings with Lock screen password</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Show advanced options</string>
   <string name="vpn_title">VPN</string>

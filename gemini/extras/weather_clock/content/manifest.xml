@@ -10,18 +10,12 @@
          </ContentProviderBinder>
     </VariableBinders>
     <Var name="weather_description" expression="eval('@weather_type_'+#weather_id)" type="string"/>
-    
-    <Var name="hour" expression="ifelse(#time_format,#hour24,#hour12,#hour12,12)"/>
-	<Var name="flag" expression="eq(int(#hour/10),1)"/>
-	<Var name="color" type="string" expression="ifelse(#applied_light_wallpaper,'#73000000','#ccffffff')" />
-	<Var name="offset_x" expression="ifelse(#flag,2,22)"/>
-	<Image name="dot" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s_dot.png'" />
-	<Image name="hour_first" x="#offset_x" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/l.png'" srcid="#hour/10"/>
-	<Image name="hour_second" x="#offset_x+#hour_first.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/l.png'" srcid="#hour%10"/>
-	<Image name="minute_first" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s.png'" srcid="#minute/10"/>
-	<Image name="minute_second" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width+#minute_first.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s.png'" srcid="#minute%10"/>
-	<DateTime enableFontScale="true" name="today_date_time" x="35" y="252" format="@date_time" size="37.5" color="@color" contentDescriptionFormat="@desc_date_format"/>
-	<Text enableFontScale="true" textExp="#weather_temperature+'&#xb0; '+@weather_description" x="35" y="276+#today_date_time.text_height" size="37.5" color="@color" visibility="#hasweather"/>
+    <Var name="color_time" type="string" expression="ifelse(#applied_light_wallpaper,'#7f000000','#ffffffff')" />
+	<Var name="color_date" type="string" expression="ifelse(#applied_light_wallpaper,'#73000000','#ccffffff')" />
+	<Text x="30" y="-39" size="175" color="@color_time" textExp="ifelse(#hour12,#hour12,12) + ':' + int(#minute/10) + int(#minute%10)" fontFamily="miui-thin" visibility="eq(#time_format,0)"/>
+	<DateTime x="30" y="-39" size="175" color="@color_time" format="HH:mm" fontFamily="miui-thin" visibility="eq(#time_format,1)"/>
+	<DateTime enableFontScale="true" name="today_date_time" x="35" y="194" format="@date_time" size="37.5" color="@color_date" contentDescriptionFormat="@desc_date_format"/>
+	<Text enableFontScale="true" textExp="#weather_temperature+'&#xb0; '+@weather_description" x="35" y="218+#today_date_time.text_height" size="37.5" color="@color_date" visibility="#hasweather"/>
 	<Button x="7" width="480" height="370" contentDescriptionExp="ifelse(#hasweather,eval(@desc_time),eval(@desc_time_1))">
 	    <Triggers>
 	        <Trigger action="up">

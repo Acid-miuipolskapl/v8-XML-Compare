@@ -90,7 +90,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_config_disable_description">"MIUI won't restrict background activities"</string>
   <string name="power_config_disable_title">Off</string>
   <string name="power_config_enhance_description">MIUI will restrict all background activity when possible</string>
-  <string name="power_config_enhance_title">Advanced</string>
+  <string name="power_config_enhance_title">On</string>
   <string name="power_config_event_delete">Delete</string>
   <string name="power_config_idle_notification_summary">Only show first notification from app</string>
   <string name="power_config_idle_notification_title">Only show first notification</string>
@@ -101,8 +101,6 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_config_location_summary">"Allow app to view your device's location"</string>
   <string name="power_config_location_title">Location access</string>
   <string name="power_config_mode_title">Power saving modes</string>
-  <string name="power_config_normal_description">Background access to the location services and the network will be restricted</string>
-  <string name="power_config_normal_title">Standard</string>
   <string name="power_config_phone_charging_title">Charging</string>
   <string name="power_config_phone_idle_title">Idle</string>
   <string name="power_config_select_apps_empty">Tap to select apps</string>

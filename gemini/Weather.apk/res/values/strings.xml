@@ -18,7 +18,7 @@
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
-  <string name="activity_main_time_format">E</string>
+  <string name="activity_main_time_format">EEEE</string>
   <string name="activity_main_update_time">Updated %1$s</string>
   <string name="activity_main_update_time_right_now">just now</string>
   <string name="activity_weathermain_locationg">Locating…</string>
@@ -47,14 +47,15 @@
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Max Pollution</string>
   <string name="button_abandon">Abandon changes</string>
-  <string name="button_add_city">Add city</string>
+  <string name="button_add_city">Add location</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Allow</string>
   <string name="button_exit">Exit</string>
   <string name="button_not_allow">Cancel</string>
+  <string name="button_sure_abandon">Confirm discard changes?</string>
   <string name="close">Close</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
-  <string name="daily_forcast_drawer_on_top">%1$s Days Forecast</string>
+  <string name="daily_forcast_drawer_on_top">%1$s Day Forecast</string>
   <string name="daily_forcast_no_stable_direction">No wind</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_temperature_connect"/>
@@ -80,7 +81,7 @@
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humidity %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-  <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_desc_pressure">%1$smb</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">None</string>
   <string name="indices_title">Recommended Activities</string>
@@ -104,8 +105,9 @@
 Tap the screen to manually add or reposition city"</string>
   <string name="location_management">Locations</string>
   <string name="location_tag">Locate</string>
-  <string name="menu_add_city">Add Or Delete city</string>
+  <string name="menu_add_city">Edit locations</string>
   <string name="menu_location">Locations</string>
+  <string name="mi_pad2">latte</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="no_data">--</string>
@@ -119,7 +121,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="share_btn_cancel">Cancel</string>
   <string name="share_btn_confirm">Share</string>
   <string name="share_button">Share</string>
-  <string name="share_menu_title">Share weather</string>
+  <string name="share_menu_title">Share</string>
   <string name="share_subject">Share</string>
   <string name="share_title">Share weather</string>
   <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
@@ -136,6 +138,10 @@ Tap the screen to manually add or reposition city"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="traffic_control_daty_after_tomorrow_numbers">The day after tomorrow: %1$s %2$s</string>
+  <string name="traffic_control_today_numbers">Today: %1$s %2$s</string>
+  <string name="traffic_control_tomorrow_numbers">Tomorrow: %1$s %2$s</string>
+  <string name="traffic_controls">Traffic controls</string>
   <string name="tts_report_aqi"/>
   <string name="tts_report_city_name"/>
   <string name="tts_report_defautl_head"/>

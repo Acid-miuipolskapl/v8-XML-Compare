@@ -28,6 +28,8 @@
   <string name="component_category_more_title">ADVANCED</string>
   <string name="component_title_ringtone">Ringtone</string>
   <string name="component_title_wallpaper">Wallpaper</string>
+  <string name="current_using_desktop_wallpaper_text">home screen</string>
+  <string name="current_using_lockscreen_wallpaper_text">lock screen</string>
   <string name="deleting">Deleting…</string>
   <string name="description_author">Author</string>
   <string name="description_designer">Designer</string>

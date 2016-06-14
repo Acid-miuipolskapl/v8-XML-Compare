@@ -56,6 +56,7 @@
   <string name="adblock_websites_settings_empyt_hint">"You haven't blocked any sites."</string>
   <string name="adblock_websites_settings_title">Blocked sites</string>
   <string name="add_bookmark_group">Add group</string>
+  <string name="add_bookshelf_popup_text">Already put this book to your bookshelf</string>
   <string name="add_new_bookmark">Add bookmark</string>
   <string name="add_new_quicklink">Add to start page</string>
   <string name="add_ql_bm_title">Save</string>
