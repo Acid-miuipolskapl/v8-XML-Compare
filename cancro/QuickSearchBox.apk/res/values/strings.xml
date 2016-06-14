@@ -49,7 +49,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
-  <string name="recent_apps">Recent apps</string>
+  <string name="recent_apps">Recommended apps</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
