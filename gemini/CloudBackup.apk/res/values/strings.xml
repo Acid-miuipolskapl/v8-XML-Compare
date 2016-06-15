@@ -96,6 +96,8 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="open_wifi_description">Connect to a WLAN network to restore app</string>
   <string name="open_wifi_setting">WLAN settings</string>
   <string name="process_whole_recovery">Restoring \"%s\"</string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Mi Cloud backup</string>
   <string name="query_restore_description">Restore Home screen apps and settings using this backup. This will overwrite app data for duplicate apps already installed on this device. Apps not included in the backup will be moved to the last Home screen.</string>
   <string name="query_restore_summary">Found a Mi Cloud backup for this device. Restore Home screen apps and settings or use it as a new device and erase previous Mi Cloud backups?</string>
