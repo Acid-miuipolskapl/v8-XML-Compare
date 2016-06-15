@@ -83,6 +83,7 @@
   <string name="record_downloading_notification_count">%d downloading</string>
   <string name="record_list">Recordings</string>
   <string name="record_list_call">Recorded calls</string>
+  <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Synced recordings</string>
   <string name="record_list_cloud_call">Synced recorded calls</string>
   <string name="record_list_cloud_fm">Synced FM recordings</string>

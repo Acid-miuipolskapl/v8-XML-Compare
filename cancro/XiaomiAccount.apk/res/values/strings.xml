@@ -132,6 +132,7 @@
   <string name="location_service_not_working">Location service not working</string>
   <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
+  <string name="mi_insurance">Mi Insurance</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identity</string>
   <string name="micloud_account_name">Mi Account</string>
