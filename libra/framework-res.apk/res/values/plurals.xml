@@ -115,9 +115,4 @@
         <item quantity="other">For %d hours</item>
         <item quantity="one">For one hour</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_1d">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1f">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_20">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_21">false</item>
 </resources>
