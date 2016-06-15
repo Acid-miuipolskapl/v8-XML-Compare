@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Agree</string>
+  <string name="app_label">Network Location</string>
+  <string name="disagree">Disagree</string>
+  <string name="location_warning_message">"Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running. Applicable data usage fees may apply during this process."</string>
+  <string name="location_warning_title">Location consent</string>
+</resources>

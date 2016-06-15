@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gadget version="1" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222" useVariableUpdater="DateTime.Minute">
+    <VariableBinders>
+         <ContentProviderBinder
+            uri="content://weather/weather"
+            columns="weather_type,temperature"
+            countName="hasweather">
+             <Variable name="weather_id" type="int" column="weather_type"/>
+             <Variable name="weather_temperature" type="int" column="temperature"/>
+         </ContentProviderBinder>
+    </VariableBinders>
+    <Var name="weather_description" expression="eval('@weather_type_'+#weather_id)" type="string"/>
+    <Var name="color_time" type="string" expression="ifelse(#applied_light_wallpaper,'#7f000000','#ffffffff')" />
+	<Var name="color_date" type="string" expression="ifelse(#applied_light_wallpaper,'#73000000','#ccffffff')" />
+	<Text x="30" y="-39" size="175" color="@color_time" textExp="ifelse(#hour12,#hour12,12) + ':' + int(#minute/10) + int(#minute%10)" fontFamily="miui-thin" visibility="eq(#time_format,0)"/>
+	<DateTime x="30" y="-39" size="175" color="@color_time" format="HH:mm" fontFamily="miui-thin" visibility="eq(#time_format,1)"/>
+	<DateTime enableFontScale="true" name="today_date_time" x="35" y="194" format="@date_time" size="37.5" color="@color_date" contentDescriptionFormat="@desc_date_format"/>
+	<Text enableFontScale="true" textExp="#weather_temperature+'&#xb0; '+@weather_description" x="35" y="218+#today_date_time.text_height" size="37.5" color="@color_date" visibility="#hasweather"/>
+	<Button x="7" width="480" height="370" contentDescriptionExp="ifelse(#hasweather,eval(@desc_time),eval(@desc_time_1))">
+	    <Triggers>
+	        <Trigger action="up">
+	            <ExternCommand command="start_activity" strPara="'#Intent;component=com.android.deskclock/.DeskClockTabActivity;end'"/>
+	        </Trigger>
+	    </Triggers>
+	</Button>
+</Gadget>
+
