@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">I trust this application.</string>
+  <string name="configure">Configure</string>
+  <string name="data_received">Received:</string>
+  <string name="data_transmitted">Sent:</string>
+  <string name="data_value_format">%1$s bytes / %2$s packets</string>
+  <string name="disconnect">Disconnect</string>
+  <string name="duration">Duration:</string>
+  <string name="legacy_title">VPN is connected</string>
+  <string name="prompt">%s attempts to create a VPN connection.</string>
+  <string name="session">Session:</string>
+  <string name="warning">By proceeding, you are giving the application permission to intercept all network traffic. &lt;b&gt;Do NOT accept unless you trust the application.&lt;/b&gt;" Otherwise, you run the risk of having your data compromised by a malicious software. "</string>
+</resources>
