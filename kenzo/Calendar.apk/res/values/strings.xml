@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_add_reminder">Add reminder</string>
   <string name="accessibility_all_day">All day event</string>
@@ -167,7 +166,6 @@
   <string name="drop_down_list_header_loading_text">加载中…</string>
   <string name="drop_down_list_header_pull_text">下拉可以刷新</string>
   <string name="drop_down_list_header_release_text">松开可以刷新</string>
-  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -292,7 +290,7 @@
   <string name="monthly">Monthly</string>
   <string name="monthly_on_day">Monthly (same date)</string>
   <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
-  <string name="more_string">+%1$d</string>
+  <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">简介</string>
   <string name="my_subscribe_events">我的订阅</string>
   <string name="network_not_available">"Can't connect to the network"</string>

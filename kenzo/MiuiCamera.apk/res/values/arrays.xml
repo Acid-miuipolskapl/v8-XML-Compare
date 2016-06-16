@@ -16,18 +16,6 @@
         <item>@string/pref_video_quality_default</item>
         <item>@string/pref_mtk_video_quality_default</item>
     </string-array>
-    <array name="video_quality_largeicons">
-        <item>@drawable/bg_indicator_quality_4kuhd</item>
-        <item>@drawable/bg_indicator_quality_1080p</item>
-        <item>@drawable/bg_indicator_quality_720p</item>
-        <item>@drawable/bg_indicator_quality_480p</item>
-    </array>
-    <array name="video_quality_icons">
-        <item>@drawable/bg_quality_4kuhd</item>
-        <item>@drawable/bg_quality_1080p</item>
-        <item>@drawable/bg_quality_720p</item>
-        <item>@drawable/bg_quality_480p</item>
-    </array>
     <string-array name="pref_video_time_lapse_frame_interval_entries">
         <item>@string/pref_video_time_lapse_frame_interval_entry_2</item>
         <item>@string/pref_video_time_lapse_frame_interval_entry_4</item>
@@ -169,29 +157,11 @@
         <item>torch</item>
     </string-array>
     <array name="camera_flashmode_icons">
-        <item>@drawable/v6_ic_flash_button_off</item>
-        <item>@drawable/v6_ic_flash_button_auto</item>
-        <item>@drawable/v6_ic_flash_button_on</item>
-        <item>@drawable/v6_ic_flash_button_torch</item>
+        <item>@drawable/ic_flash_button_off</item>
+        <item>@drawable/ic_flash_button_auto</item>
+        <item>@drawable/ic_flash_button_on</item>
+        <item>@drawable/ic_flash_button_torch</item>
     </array>
-    <array name="camera_skin_beautify_icons">
-        <item>@drawable/ic_camera_skin_beatify_close</item>
-        <item>@drawable/ic_camera_skin_beatify_i_1</item>
-        <item>@drawable/ic_camera_skin_beatify_i_2</item>
-        <item>@drawable/ic_camera_skin_beatify_i_3</item>
-    </array>
-    <string-array name="pref_camera_skin_beautify_entryvalues">
-        <item>@string/pref_face_beauty_close</item>
-        <item>@string/pref_face_beauty_low</item>
-        <item>@string/pref_face_beauty_medium</item>
-        <item>@string/pref_face_beauty_high</item>
-    </string-array>
-    <string-array name="pref_camera_skin_beautify_entries">
-        <item>@string/face_beauty_intelligent_level_0</item>
-        <item>@string/face_beauty_intelligent_level_1</item>
-        <item>@string/face_beauty_intelligent_level_2</item>
-        <item>@string/face_beauty_intelligent_level_3</item>
-    </string-array>
     <string-array name="pref_camera_video_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_on</item>
         <item>@string/pref_camera_flashmode_entry_off</item>
@@ -201,8 +171,8 @@
         <item>off</item>
     </string-array>
     <array name="video_flashmode_icons">
-        <item>@drawable/v6_ic_flash_button_on</item>
-        <item>@drawable/v6_ic_flash_button_off</item>
+        <item>@drawable/ic_flash_button_on</item>
+        <item>@drawable/ic_flash_button_off</item>
     </array>
     <string-array name="pref_camera_recordlocation_entryvalues">
         <item>on</item>
@@ -524,16 +494,6 @@
         <item>@string/pref_camera_volumekey_function_entryvalue_zoom</item>
         <item>@string/pref_camera_volumekey_function_entryvalue_volume</item>
     </string-array>
-    <string-array name="pref_camera_skinToneEnhancement_entries">
-        <item>@string/pref_camera_skinToneEnhancement_entry_auto</item>
-        <item>@string/pref_camera_skinToneEnhancement_entry_enable</item>
-        <item>@string/pref_camera_skinToneEnhancement_entry_disable</item>
-    </string-array>
-    <string-array name="pref_camera_skinToneEnhancement_entryvalues">
-        <item>@string/pref_camera_skinToneEnhancement_value_auto</item>
-        <item>@string/pref_camera_skinToneEnhancement_value_enable</item>
-        <item>@string/pref_camera_skinToneEnhancement_value_disable</item>
-    </string-array>
     <string-array name="pref_camera_zsl_entries">
         <item>@string/pref_camera_zsl_entry_on</item>
         <item>@string/pref_camera_zsl_entry_off</item>
@@ -588,17 +548,23 @@
         <item>16000000</item>
         <item>32000000</item>
     </string-array>
-    <string-array name="pref_face_beauty_entries">
-        <item>@string/face_beauty_intelligent_level_0</item>
-        <item>@string/face_beauty_intelligent_level_1</item>
-        <item>@string/face_beauty_intelligent_level_2</item>
-        <item>@string/face_beauty_intelligent_level_3</item>
-    </string-array>
-    <string-array name="pref_face_beauty_entryvalues">
+    <array name="camera_skin_beautify_icons">
+        <item>@drawable/ic_camera_skin_beatify_close</item>
+        <item>@drawable/ic_camera_skin_beatify_i_1</item>
+        <item>@drawable/ic_camera_skin_beatify_i_2</item>
+        <item>@drawable/ic_camera_skin_beatify_i_3</item>
+    </array>
+    <string-array name="pref_camera_skin_beautify_entryvalues">
         <item>@string/pref_face_beauty_close</item>
         <item>@string/pref_face_beauty_low</item>
         <item>@string/pref_face_beauty_medium</item>
         <item>@string/pref_face_beauty_high</item>
+    </string-array>
+    <string-array name="pref_camera_skin_beautify_entries">
+        <item>@string/face_beauty_intelligent_level_0</item>
+        <item>@string/face_beauty_intelligent_level_1</item>
+        <item>@string/face_beauty_intelligent_level_2</item>
+        <item>@string/face_beauty_intelligent_level_3</item>
     </string-array>
     <string-array name="pref_camera_show_gender_age_entries">
         <item>@string/pref_camera_show_gender_age_entry_on</item>
@@ -631,6 +597,14 @@
         <item>@string/face_beauty_age_alias_31_44</item>
         <item>@string/face_beauty_age_alias_45_60</item>
         <item>@string/face_beauty_age_alias_60_m</item>
+    </string-array>
+    <string-array name="pref_camera_tilt_shift_entries">
+        <item>@string/pref_camera_tilt_shift_entry_circle</item>
+        <item>@string/pref_camera_tilt_shift_entry_parallel</item>
+    </string-array>
+    <string-array name="pref_camera_tilt_shift_entryvalues">
+        <item>@string/pref_camera_tilt_shift_entryvalue_circle</item>
+        <item>@string/pref_camera_tilt_shift_entryvalue_parallel</item>
     </string-array>
     <string-array name="pref_camera_setting_switch_entryvalues">
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>
@@ -680,6 +654,12 @@
         <item>@string/pref_camera_hdr_entryvalue_normal</item>
         <item>@string/pref_camera_hdr_entryvalue_live</item>
     </string-array>
+    <array name="pref_camera_hdr_icons">
+        <item>@drawable/ic_hdr_off</item>
+        <item>@drawable/ic_hdr_auto</item>
+        <item>@drawable/ic_hdr_normal</item>
+        <item>@drawable/ic_hdr_live</item>
+    </array>
     <string-array name="pref_simple_hdr_entries">
         <item>@string/pref_simple_hdr_entry_off</item>
         <item>@string/pref_simple_hdr_entry_on</item>
@@ -688,6 +668,10 @@
         <item>off</item>
         <item>on</item>
     </string-array>
+    <array name="pref_simple_hdr_icons">
+        <item>@drawable/ic_hdr_off</item>
+        <item>@drawable/ic_hdr_normal</item>
+    </array>
     <string-array name="pref_camera_delay_capture_entries">
         <item>@string/pref_camera_delay_capture_entry_audio</item>
         <item>@string/pref_camera_delay_capture_entry_3s</item>
@@ -699,18 +683,6 @@
         <item>3</item>
         <item>5</item>
         <item>10</item>
-    </string-array>
-    <string-array name="pref_front_camera_delay_capture_entries">
-        <item>@string/pref_camera_delay_capture_entry_off</item>
-        <item>@string/pref_camera_delay_capture_entry_3s</item>
-        <item>@string/pref_camera_delay_capture_entry_5s</item>
-        <item>@string/pref_camera_delay_capture_entry_audio</item>
-    </string-array>
-    <string-array name="pref_front_camera_delay_capture_entryvalues">
-        <item>-1</item>
-        <item>3</item>
-        <item>5</item>
-        <item>0</item>
     </string-array>
     <string-array name="pref_camera_peak_entries">
         <item>@string/pref_camera_peak_entry_on</item>
@@ -755,5 +727,35 @@
         <item>2</item>
         <item>1</item>
         <item>0</item>
+    </string-array>
+    <string-array name="pref_skin_beautify_multi_level_entries">
+        <item>@string/pref_camera_beautify_entry_auto</item>
+        <item>@string/pref_camera_beautify_entry_low</item>
+        <item>@string/pref_camera_beautify_entry_normal</item>
+        <item>@string/pref_camera_beautify_entry_high</item>
+    </string-array>
+    <string-array name="pref_skin_beautify_skin_color_entryvalues">
+        <item>@string/pref_camera_beautify_entryvalue_auto</item>
+        <item>@string/pref_camera_beautify_entryvalue_low</item>
+        <item>@string/pref_camera_beautify_entryvalue_normal</item>
+        <item>@string/pref_camera_beautify_entryvalue_high</item>
+    </string-array>
+    <string-array name="pref_skin_beautify_slim_face_entryvalues">
+        <item>@string/pref_camera_beautify_entryvalue_auto</item>
+        <item>@string/pref_camera_beautify_entryvalue_low</item>
+        <item>@string/pref_camera_beautify_entryvalue_normal</item>
+        <item>@string/pref_camera_beautify_entryvalue_high</item>
+    </string-array>
+    <string-array name="pref_skin_beautify_enlarge_eye_entryvalues">
+        <item>@string/pref_camera_beautify_entryvalue_auto</item>
+        <item>@string/pref_camera_beautify_entryvalue_low</item>
+        <item>@string/pref_camera_beautify_entryvalue_normal</item>
+        <item>@string/pref_camera_beautify_entryvalue_high</item>
+    </string-array>
+    <string-array name="pref_skin_beautify_skin_smooth_entryvalues">
+        <item>@string/pref_camera_beautify_entryvalue_auto</item>
+        <item>@string/pref_camera_beautify_entryvalue_low</item>
+        <item>@string/pref_camera_beautify_entryvalue_normal</item>
+        <item>@string/pref_camera_beautify_entryvalue_high</item>
     </string-array>
 </resources>
