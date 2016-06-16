@@ -211,7 +211,7 @@
     <plurals name="file_notify_title_wechat_video_auto_backup">
         <item quantity="other">Backed up %1$d WeChat videos.</item>
         <item quantity="zero">Backed up %1$d WeChat videos.</item>
-        <item quantity="one">Backed up %1$d WeChat video.</item>
+        <item quantity="one">Backed up 1 WeChat video.</item>
         <item quantity="two">Backed up %1$d WeChat videos.</item>
         <item quantity="few">Backed up %1$d WeChat videos.</item>
         <item quantity="many">Backed up %1$d WeChat videos.</item>

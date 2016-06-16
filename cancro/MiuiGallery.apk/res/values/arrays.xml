@@ -51,13 +51,13 @@
         <item>maternalGrandmother</item>
     </string-array>
     <string-array name="relation_with_me">
-        <item>myself</item>
-        <item>child</item>
-        <item>family</item>
-        <item>collegue</item>
-        <item>classmate</item>
-        <item>friend</item>
-        <item>unknown</item>
+        <item>Me</item>
+        <item>Child</item>
+        <item>Family</item>
+        <item>Collegues</item>
+        <item>Classmates</item>
+        <item>Friends</item>
+        <item>Unknown</item>
     </string-array>
     <string-array name="relation_with_me_value">
         <item>myself</item>

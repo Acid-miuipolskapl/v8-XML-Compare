@@ -45,11 +45,11 @@
 "</item>
         <item>"Tap to create a note
 "</item>
-        <item>"Choose templates
+        <item>"Choose beautiful theme
 "</item>
-        <item>"Create folders
+        <item>"Create note folder
 "</item>
-        <item>"Hide notes
+        <item>"Protect private notes
 "</item>
         <item>"And more great features!
   - Sync with Mi Cloud
@@ -66,9 +66,9 @@
     <string-array name="welcome_notes_image">
         <item>guide_1</item>
         <item></item>
-        <item>guide_3_1</item>
-        <item></item>
-        <item></item>
+        <item>guide_3_1,guide_3_2</item>
+        <item>guide_4</item>
+        <item>guide_5_1,guide_5_2</item>
         <item></item>
     </string-array>
 </resources>

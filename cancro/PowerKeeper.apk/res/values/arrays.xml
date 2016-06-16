@@ -138,14 +138,6 @@
         <item>Custom</item>
         <item>Battery saver</item>
     </string-array>
-    <string-array name="power_checker_abnormal_groups">
-        <item>running</item>
-        <item>recently</item>
-    </string-array>
-    <string-array name="power_checker_rank_groups">
-        <item>high</item>
-        <item>normal</item>
-    </string-array>
     <string-array name="power_checker_group_prefix">
         <item>Now</item>
         <item>Background</item>

@@ -383,7 +383,7 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
 
-    const-string v0, "libra"
+    const-string v0, "land"
 
     sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
 
@@ -391,7 +391,7 @@
 
     move-result v0
 
-    sput-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+    sput-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
 
     const-string v0, "hydrogen"
 
@@ -402,6 +402,16 @@
     move-result v0
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
+
+    const-string v0, "libra"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
     const-string v0, "helium"
 
@@ -452,16 +462,6 @@
     move-result v0
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_C5:Z
-
-    const-string v0, "land"
-
-    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    sput-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
 
     const-string v0, "is_hongmi"
 
@@ -660,6 +660,10 @@
 .method public static isFrontVideoQualityShouldBe1080P()Z
     .locals 1
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
 
     if-nez v0, :cond_0
@@ -688,15 +692,23 @@
 
     if-nez v0, :cond_0
 
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
-
-    if-nez v0, :cond_0
-
     sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-eqz v0, :cond_1
 
@@ -861,6 +873,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-nez v0, :cond_0
 
@@ -1323,6 +1343,14 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
 
     if-nez v0, :cond_0
@@ -1357,6 +1385,28 @@
     return v0
 .end method
 
+.method public static isSupportedFingerCapture()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
+
+    if-eqz v0, :cond_0
+
+    sget-boolean v0, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
+
+    if-eqz v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedGPS()Z
     .locals 2
 
@@ -1374,27 +1424,14 @@
 .method public static isSupportedHFR()Z
     .locals 2
 
-    const/4 v0, 0x0
+    const-string v0, "support_camera_hfr"
 
-    sget-boolean v1, Lcom/android/camera/Device;->IS_H3C:Z
+    const/4 v1, 0x0
 
-    if-nez v1, :cond_0
+    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
 
-    sget-boolean v1, Lcom/android/camera/Device;->IS_B6:Z
+    move-result v0
 
-    if-nez v1, :cond_0
-
-    const-string v1, "support_camera_hfr"
-
-    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
-
-    move-result v1
-
-    if-eqz v1, :cond_0
-
-    const/4 v0, 0x1
-
-    :cond_0
     return v0
 .end method
 
@@ -1450,6 +1487,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-nez v0, :cond_0
 
@@ -1578,14 +1623,35 @@
 .method public static isSupportedShaderEffect()Z
     .locals 2
 
-    const-string v0, "support_camera_shader_effect"
+    const/4 v0, 0x0
 
-    const/4 v1, 0x0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI7:Z
 
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+    if-nez v1, :cond_0
 
-    move-result v0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI9:Z
 
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v1, :cond_0
+
+    const-string v1, "support_camera_shader_effect"
+
+    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_0
+
+    const/4 v0, 0x1
+
+    :cond_0
     return v0
 .end method
 
@@ -1599,6 +1665,14 @@
     invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
 
     move-result v0
+
+    return v0
+.end method
+
+.method public static isSupportedStereo()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_H3C:Z
 
     return v0
 .end method
@@ -1751,14 +1825,6 @@
 .method public static isUseGooglePanorama()Z
     .locals 1
 
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3_PRO:Z
-
-    if-nez v0, :cond_0
-
     sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
 
     if-nez v0, :cond_0
@@ -1768,6 +1834,22 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B3_PRO:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-nez v0, :cond_0
 
@@ -1815,14 +1897,6 @@
 .method public static isVideoSnapshotSizeLimited()Z
     .locals 1
 
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3_PRO:Z
-
-    if-nez v0, :cond_0
-
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
     if-nez v0, :cond_0
@@ -1848,6 +1922,22 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B3_PRO:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-eqz v0, :cond_1
 

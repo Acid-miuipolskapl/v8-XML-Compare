@@ -1103,6 +1103,7 @@
         <item>com.miui.providers.weather</item>
         <item>com.miui.yellowpage</item>
         <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
         <item>com.google.android.packageinstaller</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
@@ -1133,8 +1134,8 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_position_action">
-        <item>Overview button on the left, Back button on the right</item>
-        <item>Back button on the left, Overview button on the right</item>
+        <item>Menu button on the left, Back button on the right</item>
+        <item>Back button on the left, Menu button on the right</item>
     </string-array>
     <string-array name="screen_key_position_action_value">
         <item>0</item>
@@ -1575,6 +1576,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>fk</item>
         <item>fr</item>
         <item>gf</item>
+        <item>de</item>
         <item>gh</item>
         <item>gd</item>
         <item>gt</item>
@@ -1582,6 +1584,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ht</item>
         <item>hn</item>
         <item>hk</item>
+        <item>hu</item>
         <item>in</item>
         <item>id</item>
         <item>ir</item>
@@ -1659,8 +1662,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
+        <item>AE</item>
         <item>AG</item>
         <item>AR</item>
+        <item>BH</item>
         <item>BO</item>
         <item>BS</item>
         <item>BB</item>
@@ -1669,13 +1674,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>CL</item>
         <item>CO</item>
         <item>EC</item>
+        <item>EG</item>
         <item>GF</item>
         <item>GD</item>
         <item>GY</item>
         <item>IN</item>
         <item>IL</item>
+        <item>IR</item>
+        <item>JO</item>
+        <item>KW</item>
+        <item>OM</item>
         <item>PY</item>
         <item>PE</item>
+        <item>QA</item>
+        <item>SA</item>
         <item>SR</item>
         <item>KN</item>
         <item>LC</item>
@@ -1705,22 +1717,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Child mode</item>
         <item>File Explorer</item>
         <item>App lock</item>
-    </string-array>
-    <string-array name="description_primary">
-        <item>骁龙801</item>
-        <item>GB</item>
-        <item>GB</item>
-        <item>5英寸</item>
-        <item>4G</item>
-        <item>1300万像素</item>
-    </string-array>
-    <string-array name="description_secondary">
-        <item>四核2.5GHz</item>
-        <item>机身存储</item>
-        <item>LPDDR3内存</item>
-        <item>全高清屏幕</item>
-        <item>高速网络</item>
-        <item>高画质相机</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

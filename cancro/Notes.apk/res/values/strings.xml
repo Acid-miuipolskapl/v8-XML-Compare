@@ -13,9 +13,9 @@
   <string name="all_terms">%1$s and %2$s</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Take a photo</string>
+  <string name="attachment_camera">Camera</string>
   <string name="attachment_contact">Contacts</string>
-  <string name="attachment_gallery">Choose from Gallery</string>
+  <string name="attachment_gallery">Gallery</string>
   <string name="button_new_note">New</string>
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">Unnamed folder</string>
@@ -52,7 +52,6 @@ Tap the plus to create a folder"</string>
   <string name="menu_mark_privacy">Hide</string>
   <string name="menu_move_parent_folder">Parent folder</string>
   <string name="menu_move_to">Move to</string>
-  <string name="menu_send_as_image">Send as image</string>
   <string name="menu_send_to_desktop">Place on Home screen</string>
   <string name="menu_send_wechat">Send to WeChat</string>
   <string name="menu_send_weibo">Send to Weibo</string>
@@ -107,7 +106,6 @@ Tap the plus to create a folder"</string>
   <string name="sns_choose_quality_low">Low</string>
   <string name="sns_choose_quality_title">Choose image quality</string>
   <string name="sns_content_default">Share photo</string>
-  <string name="sns_desc_image_preview">Message preview</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
   <string name="sns_footer_text">Created with Mi Notes</string>

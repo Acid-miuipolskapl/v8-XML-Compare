@@ -11,8 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_null">'કોઈ ડેટા નથી'</string>
-	<string name="weather_type_0">સાફ</string>
+    <string name="weather_type_0">સાફ</string>
     <string name="weather_type_1">વાદળછાયું</string>
     <string name="weather_type_2">અસ્પષ્ટ</string>
     <string name="weather_type_3">ધુમ્મસભર્યું</string>

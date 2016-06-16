@@ -40,8 +40,8 @@
         <item>google</item>
     </string-array>
     <string-array name="bookmarks_cm_customization">
-        <item>MM综合门户</item>
-        <item>http://mm.10086.cn/a/j/2743/</item>
+        <item>MM网</item>
+        <item>http://a.10086.cn/j/6061/</item>
         <item>手机阅读</item>
         <item>http://wap.cmread.com</item>
         <item>手机游戏</item>
@@ -49,15 +49,15 @@
         <item>手机视频</item>
         <item>http://wap.cmvideo.cn</item>
         <item>无线音乐</item>
-        <item>http://m.10086.cn</item>
-        <item>12580</item>
-        <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
+        <item>http://m.10086.cn/wireless/html5/index.html</item>
+        <item>冲浪网址</item>
+        <item>http://go.10086.cn/?coc=6GG2GGRq</item>
         <item>飞信首页</item>
         <item>http://f.10086.cn</item>
         <item>139邮箱</item>
         <item>http://mail.10086.cn</item>
-        <item>冲浪网址</item>
-        <item>http://go.10086.cn/?coc=6GG2GGRq</item>
+        <item>12580</item>
+        <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
     </string-array>
     <string-array name="bookmarks_cu_customization">
         <item>沃门户</item>
@@ -330,6 +330,20 @@
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
     </string-array>
+    <integer-array name="readmode_content_font_size">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="readmode_title_font_size">
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+    </integer-array>
     <integer-array name="readmode_theme_bgcolors">
         <item>0xfff7f7f7</item>
         <item>0xffe6ddd1</item>
@@ -340,7 +354,7 @@
     </integer-array>
     <integer-array name="readmode_theme_fontcolors">
         <item>0xff000000</item>
-        <item>0xff737770</item>
+        <item>0xff000000</item>
         <item>0xff3e4042</item>
         <item>0xff543b20</item>
         <item>0xff2e3833</item>
@@ -388,17 +402,5 @@
     <string-array name="pref_nav_mode_summary">
         <item>Phone</item>
         <item>Pad</item>
-    </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>Message from Browser</item>
-        <item>Follow the Olypmpics with Mi</item>
-    </string-array>
-    <string-array name="shortcut_dialog_keep">
-        <item>OK</item>
-        <item>Follow</item>
-    </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>Delete</item>
-        <item>No thanks</item>
     </string-array>
 </resources>

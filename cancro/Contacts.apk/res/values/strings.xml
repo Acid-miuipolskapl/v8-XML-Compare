@@ -332,6 +332,7 @@ Contact cards are turned off"</string>
   <string name="description_view_contact_detail">View contact</string>
   <string name="description_voicemail_button">Voicemail</string>
   <string name="deselect_all">Deselect all</string>
+  <string name="details_list_group_header_more_action">More</string>
   <string name="details_list_group_header_other">OTHER</string>
   <string name="device_bluetooth_title">Transfer contacts</string>
   <string name="device_brand_title">Choose a brand</string>
@@ -393,8 +394,6 @@ Contact cards are turned off"</string>
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
   <string name="duplicate_group_name">A group with that name already exists</string>
   <string name="editContactDescription">Edit contact</string>
-  <string name="editContactNameExpandCloseDescription">Collapse name</string>
-  <string name="editContactNameExpandOpenDescription">Expand name</string>
   <string name="editGroupDescription">Edit group</string>
   <string name="edit_contact">Edit contact</string>
   <string name="edit_contact_card_title">Edit contact card</string>
@@ -413,8 +412,6 @@ Contact cards are turned off"</string>
   <string name="eventLabelsGroup">Birthday</string>
   <string name="eventTypeCustom">Custom</string>
   <string name="event_edit_field_hint_text">Date</string>
-  <string name="expandCloseViewDescription">Collapse</string>
-  <string name="expandOpenViewDescription">Expand</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
   <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining%4$s</string>
   <string name="export_to_sdcard">Export to storage</string>
@@ -616,7 +613,6 @@ Reason: \"%s\""</string>
   <string name="map_work">View work address</string>
   <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Invalid MEID</string>
-  <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
   <string name="menu_bar_group_add">Add</string>

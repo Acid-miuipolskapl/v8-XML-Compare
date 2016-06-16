@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_null">'ဒေတာ မရှိပါ'</string>
-	<string name="weather_type_0">ကြည်လင်သော</string>
+    <string name="weather_type_0">ကြည်လင်သော</string>
     <string name="weather_type_1">မိုးအုံ့</string>
     <string name="weather_type_2">ဝိုးတိုးဝါးတား</string>
     <string name="weather_type_3">မြူဆိုင်းသော</string>

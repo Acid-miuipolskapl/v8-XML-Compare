@@ -11,8 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_null">'Sin datos de clima'</string>
-	<string name="weather_type_0">Despejado</string>
+    <string name="weather_type_0">Despejado</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Bruma</string>
     <string name="weather_type_3">Niebla</string>

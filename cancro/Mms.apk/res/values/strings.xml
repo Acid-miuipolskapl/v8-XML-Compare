@@ -27,7 +27,6 @@
   <string name="adding_recipients">Adding recipients…</string>
   <string name="alert_dlg_cancel_button">Cancel</string>
   <string name="alert_dlg_ok_button">OK</string>
-  <string name="already_followed">"You're already following this number"</string>
   <string name="app_label">Messaging</string>
   <string name="app_name">Devices</string>
   <string name="attach_image">Pictures</string>
@@ -82,7 +81,7 @@
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
   <string name="confirm_dialog_title">Delete?</string>
   <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
-  <string name="confirm_dlg_title">Device Management</string>
+  <string name="confirm_dlg_title">Device management</string>
   <string name="confirm_export_dialog_description">Previous conversations with this contact will no longer be hidden.</string>
   <string name="confirm_export_dialog_title">Remove from private contacts</string>
   <string name="confirm_no_block_positive">Unblock</string>
@@ -117,7 +116,6 @@
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
   <string name="database_corruption">Repairing…</string>
-  <string name="del_private_contact">Remove all private contact</string>
   <string name="delete">Delete</string>
   <string name="delete_bookmark">Remove from starred</string>
   <string name="delete_message">Delete</string>
@@ -172,9 +170,9 @@
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+  <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
   <string name="festival_networking_title">Notice</string>
-  <string name="festival_never_remind">"Don't show again."</string>
+  <string name="festival_never_remind">"Don't show again"</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -184,8 +182,6 @@
   <string name="file_title">Name:</string>
   <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
-  <string name="follow_finished">Following number</string>
-  <string name="follow_forbidden">"Can't follow this number"</string>
   <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
@@ -204,7 +200,7 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
-  <string name="hms_add_image_progress_message">Processing…</string>
+  <string name="hms_add_image_progress_message">Working…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="i_know">OK</string>
@@ -270,10 +266,10 @@
   <string name="move_up">Move up</string>
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Mi Msg</string>
+  <string name="msg_type_hint_mx">Mi Message</string>
   <string name="msg_type_hint_mx_b2c">Network notification</string>
   <string name="msg_type_hint_mx_b2c_omit">Network notification</string>
-  <string name="msg_type_hint_mx_omit">Mi Message</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Text message</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
@@ -316,11 +312,11 @@
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
-  <string name="mx_current_status">Mi Message settings</string>
+  <string name="mx_current_status">Settings</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
-  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI devices without incurring charges. Your carrier may charge for an SMS message used to activate this service.</string>
-  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI devices without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring charges. Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
   <string name="mx_dspt_provision_ex2">Privacy Policy</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Voice</string>
@@ -337,9 +333,8 @@
   <string name="mx_online">Activated</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
-  <string name="mx_type_guide">Send messages to other MIUI devices without incurring charges</string>
+  <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring charges</string>
   <string name="need_download">Syncing…</string>
-  <string name="network_error">Network error</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
   <string name="networking_allow_title">Attention</string>
@@ -375,7 +370,7 @@
   <string name="prefDefault_vibrate_false">never</string>
   <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Additional settings</string>
-  <string name="pref_allow_network_access_summary">Get the latest info on delivery and other services</string>
+  <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
   <string name="pref_cell_broadcast">Cell Broadcasts</string>
   <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
   <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
@@ -411,7 +406,7 @@
   <string name="pref_title_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
-  <string name="pref_title_festival_networking">Connection notification</string>
+  <string name="pref_title_festival_networking">Internet connection</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
   <string name="pref_title_hide_festival">Hide Chinese language features</string>
   <string name="pref_title_manage_sim_messages">SIM card storage</string>
@@ -461,7 +456,6 @@
   <string name="refresh_failed">Update failed</string>
   <string name="refreshing">Refreshing…</string>
   <string name="release_cancel">Release to cancel</string>
-  <string name="remind_follow">Follow this number?</string>
   <string name="remove">Remove</string>
   <string name="remove_music">Remove music</string>
   <string name="remove_picture">Remove picture</string>
@@ -497,7 +491,9 @@
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
   <string name="search_title_mms">Messaging</string>
+  <string name="second_mms">second message</string>
   <string name="second_mms_introduction">please go to second space</string>
+  <string name="second_mms_notice">only display second message</string>
   <string name="second_mms_switch">switch user</string>
   <string name="secs">secs</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
@@ -533,7 +529,6 @@
   <string name="service_message_not_found">Message expired or unavailable</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
   <string name="service_not_activated">Service not activated on network</string>
-  <string name="service_unavailiable">Service unavailable</string>
   <string name="set">Set</string>
   <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>

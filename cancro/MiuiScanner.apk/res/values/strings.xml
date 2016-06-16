@@ -181,7 +181,7 @@
   <string name="allow_check_website_security">Show website security check notifications</string>
   <string name="app_details">App:</string>
   <string name="app_name">Scanner</string>
-  <string name="barcode_into_rectangle">Align code within frame to scan</string>
+  <string name="barcode_into_rectangle">Place the code inside the frame</string>
   <string name="birthday">Birthday:</string>
   <string name="camera_error_title">Camera error</string>
   <string name="cancel">Cancel</string>
@@ -315,7 +315,7 @@
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Phone:</string>
   <string name="picker_lable">Photo</string>
-  <string name="place_barcode_into_rectangle">Align code within frame to scan</string>
+  <string name="place_barcode_into_rectangle">Place the code inside the frame</string>
   <string name="pref_camera_focusmode_default">continuous-picture</string>
   <string name="pref_camera_jpeg_quality_fine">fine</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_null">'Tiada data cuaca'</string>
-	<string name="weather_type_0">Bersihkan</string>
+    <string name="weather_type_0">Bersihkan</string>
     <string name="weather_type_1">Mendung</string>
     <string name="weather_type_2">Jerebu</string>
     <string name="weather_type_3">Berkabus</string>
@@ -12,7 +11,7 @@
     <string name="weather_type_8">Hujan renyai-renyai</string>
     <string name="weather_type_9">Hujan lebat</string>
     <string name="weather_type_10">Hujan</string>
-    <string name="weather_type_11">Hujan renyai-renyai</string>
+    <string name="weather_type_11">Hujan renyai</string>
     <string name="weather_type_12">Hujan beku</string>
     <string name="weather_type_13">Ribut salji</string>
     <string name="weather_type_14">Tompok-tompok salji</string>

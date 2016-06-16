@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_null">'কোনো ডেটা নেই'</string>
     <string name="weather_type_0">আকাশ পরিষ্কার</string>
     <string name="weather_type_1">মেঘলা</string>
     <string name="weather_type_2">কুয়াশাচ্ছন্ন</string>

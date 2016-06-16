@@ -75,7 +75,7 @@
         <item>First times</item>
         <item>"What's the name of your first pet?"</item>
         <item>"What's the name of your first girlfriend/boyfriend?"</item>
-        <item>Name of the company where you got your first job</item>
+        <item>"What's the name of the company where you got your first job?"</item>
     </string-array>
     <string-array name="question_no5">
         <item>Marriage</item>
