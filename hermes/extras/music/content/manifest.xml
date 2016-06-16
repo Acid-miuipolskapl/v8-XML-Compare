@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gadget version="1" frameRate="0" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
+    <Group x="#view_width/2-482" y="#view_height/2-257" w="963" h="513" layered="true">
+        <MusicControl name="music_control" x="0" y="0" autoShow="true" enableProgress="true" frameRate="1">
+            <Image x="1" y="1" src="music_bg.png" w="961" h="511"/>
+            <Group x="0" y="0" w="962" h="512" layered="true">
+                <Image src="music_control.artwork" srcType="BitmapVar" x="963" y="257" w="963" h="963" align="right" alignV="center" scale="20"/>
+                <Image x="0" y="0" w="963" h="513" src="music_mask.9.png" xfermode="dst_in"/>
+            </Group>
+
+            <Group x="0" y="0" w="963" h="513" layered="true">
+                <Image name="music_album_cover" x="257" y="257" w="702" h="702" align="center" alignV="center"/>
+                <Image x="0" y="0" w="963" h="513" src="album_mask.9.png" xfermode="dst_in"/>
+            </Group>
+            <Image x="0" y="0" w="963" h="513" src="album_overlay.9.png"/>
+            <Text name="music_title" x="722" y="84" w="400" size="44" bold="true" color="#ffffffff" align="center" format="%s" paras="@music_control.title"/>
+            <Text x="722" y="96+#music_title.text_height" w="400" size="30" color="#99ffffff" align="center" format="%s" paras="@music_control.artist"/>
+            <Button name="music_prev" x="539" y="337" w="100" h="100">
+                <Normal>
+                    <Circle x="591" y="385" r="38" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner"/>
+                </Normal>
+                <Pressed>
+                    <Circle x="591" y="385" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
+                </Pressed>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_prev" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+            <Image x="591" y="385" align="center" alignV="center" src="music_pre.png"/>
+            <Button name="music_next" x="805" y="337" w="100" h="100">
+                <Normal>
+                    <Circle x="855" y="385" r="38" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner"/>
+                </Normal>
+                <Pressed>
+                    <Circle x="855" y="385" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
+                </Pressed>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_next" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+            <Image x="855" y="385" align="center" alignV="center" src="music_next.png"/>
+            <Button name="music_play" x="652" y="314" w="140" h="140">
+                <Normal>
+                    <Circle x="723" y="384" r="56" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner"/>
+                </Normal>
+                <Pressed>
+                    <Circle x="723" y="384" r="56" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
+                </Pressed>
+                <Image x="696" y="350" src="music_play.png"/>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_play" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+            <Button name="music_pause" x="652" y="314" w="140" h="140">
+                <Normal>
+                    <Circle x="723" y="384" r="56" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner"/>
+                </Normal>
+                <Pressed>
+                    <Circle x="723" y="384" r="56" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
+                </Pressed>
+                <Image x="710" y="364" src="music_pause.png"/>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_pause" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
+            </Button>
+
+            <Var name="progress" expression="ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0)" />
+            <Group x="653" y="314" w="140" h="140" layered="true">
+                <Image x="0" y="0" src="play_progress.png"/>
+                <Arc x="70" y="70" w="140" h="140" startAngle="-90" sweep="-360*(1-#progress)" close="true" fillColor="#ff000000" xfermode="clear"/>
+            </Group>
+        </MusicControl>
+        <Image x="0" y="0" w="963" h="513" src="music_mask.9.png" xfermode="dst_in"/>
+        <Rectangle w="963" h="513" cornerRadius="25,25" strokeColor="#1EFFFFFF" weight="1" strokeAlign="inner"/>
+    </Group>
+
+    <Button x="#view_width/2-482" y="#view_height/2-257" w="520" h="513" visibility="or(eqs(@music_control.package,'com.miui.player'), isnull(@music_control.package))">
+        <Triggers>
+            <Trigger action="up">
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.MAIN;component=com.miui.player/.ui.MusicBrowserActivity;S.intent_sender=home_widget;end'" condition="isnull(@music_control.title)"/>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.player.PLAYBACK_VIEWER;category=android.intent.category.DEFAULT;S.intent_sender=home_widget;end'" condition="not(isnull(@music_control.title))"/>
+                <ExternCommand command="track_music_enter" strPara="@music_control.package"/>
+            </Trigger>
+        </Triggers>
+    </Button>
+</Gadget>
