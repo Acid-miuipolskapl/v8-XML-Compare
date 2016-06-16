@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEEE, d MMMM</string>
+    <string name="language">en</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
+    <string name="desc_time">'လက်ရှိအချိန်' +#နာရီ ၁၂' '+ifelse(#မိနစ်၊#မိနစ်၊နာရီ')+၊ နာရီအပ်ဖ်အား ထည့်သွင်းရန် နှစ်ချက်ပုတ်ပါ'</string>
+    <string name="weather_type_0">ကြည်လင်သော</string>
+    <string name="weather_type_1">မိုးအုံ့</string>
+    <string name="weather_type_2">ဝိုးတိုးဝါးတား</string>
+    <string name="weather_type_3">မြူဆိုင်းသော</string>
+    <string name="weather_type_4">ပြင်းထန်သော မိုးလေမုန်တိုင်း</string>
+    <string name="weather_type_5">မိုးလေမုန်တိုင်း</string>
+    <string name="weather_type_6">မိုးရေချိန်အလွန်မြင့်ခြင်း</string>
+    <string name="weather_type_7">မိုးကြိုးမုန်တိုင်း</string>
+    <string name="weather_type_8">မိုးဖွဲဖွဲရွာသွန်း</string>
+    <string name="weather_type_9">မိုးသည်းထန်စွာရွာသွန်း</string>
+    <string name="weather_type_10">မိုး</string>
+    <string name="weather_type_11">မိုးဖွဲ</string>
+    <string name="weather_type_12">မိုးနှင်း</string>
+    <string name="weather_type_13">နှင်းမုန်တိုင်း</string>
+    <string name="weather_type_14">ကွက်ကျား ဆီးနှင်းကျခြင်း</string>
+    <string name="weather_type_15">ဆီးနှင်းအလွန်ကျခြင်း</string>
+    <string name="weather_type_16">ဆီးနှင်းကျခြင်း</string>
+    <string name="weather_type_17">ဆီးနှင်းပါးပါးကျခြင်း</string>
+    <string name="weather_type_18">သဲမုန်တိုင်းကြီး</string>
+    <string name="weather_type_19">သဲမုန်တိုင်း</string>
+    <string name="weather_type_20">အားနည်းသော သဲမုန်တိုင်း</string>
+    <string name="weather_type_21">သဲမုန်တိုင်း</string>
+    <string name="weather_type_22">မိုးသီးကြွေခြင်း</string>
+    <string name="weather_type_23">ဟိုပြေးဒီပြေး ဖုန်မှုန့်များ</string>
+    <string name="weather_type_24">မြူ</string>
+</resources>
