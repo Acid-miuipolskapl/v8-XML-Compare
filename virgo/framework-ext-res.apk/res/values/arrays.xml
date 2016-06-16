@@ -27,8 +27,8 @@
         <item>com.android.bluetooth</item>
         <item>com.whatsapp</item>
         <item>com.jeejen.family.miui</item>
-        <item>com.miui.networkassistant</item>
         <item>com.android.server.telecom</item>
+        <item>com.miui.networkassistant</item>
         <item>com.xiaomi.midrop</item>
         <item>com.miui.securitycenter</item>
         <item>com.miui.player</item>
@@ -42,6 +42,12 @@
         <item>none</item>
         <item>none</item>
         <item>show_menu</item>
+    </string-array>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.4</item>
     </string-array>
     <string-array name="organized_languages_international">
         <item>in_ID</item>
@@ -96,31 +102,7 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>en_US</item>
-    </string-array>
-    <string-array name="airtel_mcc_mnc">
-        <item>40552</item>
-        <item>40498</item>
-        <item>40431</item>
-        <item>40490</item>
-        <item>40493</item>
-        <item>40492</item>
-        <item>40551</item>
-        <item>40553</item>
-        <item>40470</item>
-        <item>40556</item>
-        <item>40416</item>
-        <item>40410</item>
-        <item>40440</item>
-        <item>40449</item>
-        <item>40496</item>
-        <item>40403</item>
-        <item>40555</item>
-        <item>40495</item>
-        <item>40445</item>
-        <item>40402</item>
-        <item>40494</item>
-        <item>40554</item>
-        <item>40497</item>
+        <item>bo_CN</item>
     </string-array>
     <array name="config_crossSpaceNotificationPackageNames" />
     <string-array name="securespaces_extension_accelerometer_userRestrictions">

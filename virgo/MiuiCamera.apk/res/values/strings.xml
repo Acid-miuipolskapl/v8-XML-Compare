@@ -15,6 +15,7 @@
   <string name="accessibility_setting_button">Additional settings button</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
+  <string name="accessibility_stereo_button">Dual Camera Mode</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
@@ -40,6 +41,11 @@
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="dialog_ok">OK</string>
+  <string name="dual_camera_lens_covered_toast">Lens covered.</string>
+  <string name="dual_camera_low_constract_toast">Low contract may affect Dual camera effects.</string>
+  <string name="dual_camera_lowlight_toast">Lowlight may affect Dual camera effects.</string>
+  <string name="dual_camera_too_close_toast">Too close to object for Dual camera effects.</string>
+  <string name="dual_camera_use_hint">Dual mode camera can shoot blur effect, the distance between camera and the subject should be less than two meters</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">"Couldn't start audio capture"</string>
   <string name="face_analyze_info">Age: %2$s (%1$s)</string>
@@ -347,7 +353,9 @@
   <string name="pref_camera_snap_value_take_picture">Picture</string>
   <string name="pref_camera_sound_title">Camera sounds</string>
   <string name="pref_camera_square_mode_title">Square</string>
-  <string name="pref_camera_tilt_shift_default">Circle</string>
+  <string name="pref_camera_stereo_default">7</string>
+  <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="pref_camera_tilt_shift_default">circle</string>
   <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
   <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
@@ -490,6 +498,7 @@
   <string name="simple_mode_button_text_scene">Turn off Scene mode</string>
   <string name="simple_mode_button_text_slow_video">Turn off time-lapse</string>
   <string name="simple_mode_button_text_square">Turn off Square</string>
+  <string name="simple_mode_button_text_stereo_mode">Turn off Stereo Mode</string>
   <string name="simple_mode_button_text_tilt_shift">Turn off Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
   <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>

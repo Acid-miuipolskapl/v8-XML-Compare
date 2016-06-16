@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_null">'કોઈ ડેટા નથી'</string>
-	<string name="weather_type_0">સાફ</string>
+    <string name="weather_type_0">સાફ</string>
     <string name="weather_type_1">વાદળછાયું</string>
     <string name="weather_type_2">ધૂંધળું</string>
     <string name="weather_type_3">ધુમ્મસભર્યું</string>

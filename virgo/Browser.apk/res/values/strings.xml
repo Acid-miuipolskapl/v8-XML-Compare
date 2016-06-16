@@ -62,8 +62,6 @@
   <string name="add_ql_bm_title">Save</string>
   <string name="add_quicklink_to_popular">Add to start page</string>
   <string name="add_quicklinks">Add to start page</string>
-  <string name="add_shortcut">Add shortcut</string>
-  <string name="add_shortcut_success">Add shortcut success</string>
   <string name="add_to_bookmark">Bookmarks</string>
   <string name="add_to_desk">Place on Home screen</string>
   <string name="add_to_desk_success">Placed on Home screen</string>
@@ -240,7 +238,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-  <string name="autofill_popup_content_description">Showing autofill popup</string>
+  <string name="autofill_popup_content_description">Showing autofill pop-up</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
   <string name="autologin_bar_hide_text">Hide</string>
   <string name="autologin_bar_login_text">Sign in</string>
@@ -509,7 +507,6 @@ Pages you view won't appear in history."</string>
   <string name="is_last_tab">This is the last tab</string>
   <string name="is_page_bottom">"You've reached the bottom of the page"</string>
   <string name="is_page_top">"You're at the top of the page"</string>
-  <string name="isreplace">File already exists, replace?</string>
   <string name="js_dialog_before_unload">"%s
 
 Leave this page?"</string>
@@ -533,7 +530,6 @@ Leave this page?"</string>
   <string name="media_error_action_replace_video_source">"Couldn't change source"</string>
   <string name="media_error_failure">"Can't play video"</string>
   <string name="media_error_format">"Video format isn't supported"</string>
-  <string name="media_error_network_unreachable">Network Unreachable</string>
   <string name="media_error_nomemory">Not enough memory</string>
   <string name="media_error_source">"Couldn't find source"</string>
   <string name="media_error_timeout">Network connection timed out</string>
@@ -644,7 +640,7 @@ Leave this page?"</string>
   <string name="page_info_address">Address:</string>
   <string name="page_info_view">View page info</string>
   <string name="password">Password</string>
-  <string name="password_generation_popup_content_description">Showing password generation popup</string>
+  <string name="password_generation_popup_content_description">Showing password generation pop-up</string>
   <string name="pause_download">Paused</string>
   <string name="paused_queued_for_wifi">Waiting for connection…</string>
   <string name="paused_unknown">Paused</string>
@@ -716,7 +712,7 @@ Leave this page?"</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Phone</string>
-  <string name="pref_nav_mode_title">Desktop</string>
+  <string name="pref_nav_mode_title">Browser Mode</string>
   <string name="pref_notifications_hint">Notifications</string>
   <string name="pref_notifications_receive">Notifications</string>
   <string name="pref_notifications_title">Notifications</string>
@@ -807,7 +803,6 @@ Leave this page?"</string>
   <string name="remove_history_item">Remove from history</string>
   <string name="remove_snapshot">Delete saved page</string>
   <string name="removed_from_bookmarks">Removed from bookmarks</string>
-  <string name="replace">Replace</string>
   <string name="reply_comment_title">Re: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">"Can't connect to the network"</string>
@@ -833,7 +828,6 @@ Leave this page?"</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
   <string name="save_password_remember">Remember</string>
-  <string name="save_to">Save to</string>
   <string name="save_to_camera">Save to camera</string>
   <string name="save_to_camera_failed">"Can't save picture"</string>
   <string name="save_to_camera_success">Saved to camera</string>
@@ -869,8 +863,6 @@ Leave this page?"</string>
   <string name="select_download_device">Choose device</string>
   <string name="send_comment_button">Send</string>
   <string name="send_comment_title">Comment</string>
-  <string name="senddesktop">Desktop</string>
-  <string name="sendstartpage">Startpage</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
   <string name="show_security_tip_dialog_title">Terms of Service</string>
@@ -984,9 +976,9 @@ Leave this page?"</string>
   <string name="video_downloaded_group">Downloaded</string>
   <string name="video_downloading_group">Downloading</string>
   <string name="video_edit">Edit</string>
-  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window">Pop-up</string>
   <string name="video_float_window_playing">Playing video</string>
-  <string name="video_float_window_text">PopUp</string>
+  <string name="video_float_window_text">Pop-up</string>
   <string name="video_fragment_name_collections">Favorites</string>
   <string name="video_fragment_name_download">Offline Video</string>
   <string name="video_fragment_name_historys">Watch History</string>

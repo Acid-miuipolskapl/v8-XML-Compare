@@ -13,13 +13,12 @@
         <intent android:targetPackage="com.miui.touchassistant" android:action="android.intent.action.TOUCH_ASSISTANT_SETTINGS" />
     </PreferenceScreen>
     <Preference android:title="@string/led_settings" android:key="led_settings" android:fragment="com.android.settings.LedSettings" />
+    <Preference android:title="@string/music_headset_settings" android:key="headset_settings" android:fragment="com.android.settings.HeadsetSettings" />
     <Preference android:title="@string/key_settings_title" android:key="key_settings" android:fragment="com.android.settings.KeySettings" />
     <Preference android:title="@string/handy_mode" android:key="handy_mode_settings" android:fragment="com.android.settings.display.HandyModeFragment" />
     <Preference android:title="@string/pref_edge_handgrip" android:key="edge_mode_settings" android:fragment="com.android.settings.EdgeModeSettings" />
     <Preference android:title="@string/accessibility_settings" android:key="accessibility_settings" android:fragment="com.android.settings.accessibility.AccessibilitySettings" />
     <Preference android:title="@string/print_settings" android:key="print_settings" android:fragment="com.android.settings.print.PrintSettingsFragment" />
-    <PreferenceCategory android:key="category_development_settings" />
-    <PreferenceScreen android:persistent="false" android:title="@string/lab_functions_title" android:key="lab_functions_settings" android:fragment="com.android.settings.LabFunctions" />
     <Preference android:title="@string/development_settings_title" android:key="development_settings" android:fragment="com.android.settings.DevelopmentSettings" />
     <PreferenceCategory android:key="category_privacy_settings" />
     <Preference android:title="@string/privacy_settings" android:key="privacy_settings" android:fragment="com.android.settings.PrivacySettings" />

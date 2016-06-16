@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_null">'ਕੋਈ ਡੇਟਾ ਨਹੀਂ'</string>
-	<string name="weather_type_0">ਸਾਫ਼</string>
+    <string name="weather_type_0">ਸਾਫ਼</string>
     <string name="weather_type_1">ਬੱਦਲਵਾਈ ਵਾਲਾ</string>
     <string name="weather_type_2">ਧੁੰਦਲਾ</string>
     <string name="weather_type_3">ਧੁੰਦ ਵਾਲਾ</string>

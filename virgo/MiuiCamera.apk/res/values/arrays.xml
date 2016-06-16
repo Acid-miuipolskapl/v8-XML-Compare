@@ -692,6 +692,42 @@
         <item>on</item>
         <item>off</item>
     </string-array>
+    <string-array name="pref_camera_stereo_entries">
+        <item>F0.8</item>
+        <item>F1.0</item>
+        <item>F1.2</item>
+        <item>F1.4</item>
+        <item>F1.8</item>
+        <item>F2.2</item>
+        <item>F2.8</item>
+        <item>F3.6</item>
+        <item>F4.5</item>
+        <item>F5.6</item>
+        <item>F6.3</item>
+        <item>F7.2</item>
+        <item>F8.0</item>
+        <item>F9.0</item>
+        <item>F10</item>
+        <item>F11</item>
+    </string-array>
+    <string-array name="pref_camera_stereo_entryvalues">
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="pref_skin_beautify_multi_level_entries">
         <item>@string/pref_camera_beautify_entry_auto</item>
         <item>@string/pref_camera_beautify_entry_low</item>

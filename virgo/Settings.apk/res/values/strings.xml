@@ -8,7 +8,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
-  <string name="ac_enable_title">App lock</string>
+  <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
   <string name="ac_set_apps_title">Choose apps to lock</string>
@@ -118,6 +118,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
   <string name="add_fingerprint_put_finger_msg">Put your finger on the sensor and lift after you feel a vibration.</string>
   <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
@@ -163,7 +164,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_off_summary">NFC content sharing is off</string>
   <string name="android_beam_on_summary">NFC content sharing is on</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
+  <string name="android_beam_tips">Make sure the two devices are touching, and then tap the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="anti_spam">Blocklist</string>
@@ -293,7 +294,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
-  <string name="attempt_other_network">Attempt other network</string>
+  <string name="attempt_other_network">Switch networks</string>
   <string name="audio_list_loading">Loading…</string>
   <string name="audio_profile_settings_title">Audio profiles</string>
   <string name="audio_record_proc_title">Noise cancellation</string>
@@ -301,6 +302,12 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_brightness_title">Adaptive brightness</string>
   <string name="auto_caps">Auto-capitalization</string>
   <string name="auto_caps_summary">Capitalize first letter in sentences</string>
+  <string name="auto_disable_screenbuttons_ask">Ask to disable</string>
+  <string name="auto_disable_screenbuttons_auto">Always disable</string>
+  <string name="auto_disable_screenbuttons_cancel">Cancel</string>
+  <string name="auto_disable_screenbuttons_no">Never disable</string>
+  <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
+  <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
   <string name="auto_launch_enable_text">You’ve chosen to launch this app by default for some actions.</string>
   <string name="auto_launch_label">Open by default</string>
@@ -620,7 +627,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Old device will be replaced with current device.</string>
   <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
   <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
-  <string name="bluetooth_unlock_confirm_device_text_2">Tap the key on device to unlock.</string>
   <string name="bluetooth_unlock_delete_device">Delete this device</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Delete this device?</string>
   <string name="bluetooth_unlock_device_matched_text">Use this device to unlock.</string>
@@ -640,7 +646,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="bootloader">Fastboot mode</string>
   <string name="bootloader_apply_step_1">Turn on Fastboot mode?</string>
-  <string name="bootloader_apply_step_2">When your device is in Fastboot mode and connected to the computer</string>
+  <string name="bootloader_apply_step_2">When your device is in Fastboot mode and connected to the computer,</string>
   <string name="bootloader_apply_step_3">the data (e.g., passwords, messages) on the device may be accessed without your permission.</string>
   <string name="bootloader_apply_step_4">It may lead to the disclosure or loss of the data, or even irrepairable hardware damage.</string>
   <string name="bootloader_apply_step_5">Make sure you know how to use Fastboot mode before you turn it on.</string>
@@ -668,10 +674,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="button_disconnect_network">Disconnect from network</string>
   <string name="button_light_timeout">Keep button lights on</string>
   <string name="button_text_accept">Accept</string>
-  <string name="button_text_accept_timer">Accept(%d)</string>
+  <string name="button_text_accept_timer">Accept (%d)</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_next_step">Next</string>
-  <string name="button_text_next_step_timer">Next step(%d)</string>
+  <string name="button_text_next_step_timer">Next step (%d)</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="button_text_reject">Reject</string>
   <string name="cache_header_label">Cache</string>
@@ -771,11 +777,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_failed_dlg_text">Couldn’t clear data for app.</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
-  <string name="cloud_backup_section_title">Mi Cloud backup</string>
-  <string name="cloud_backup_settings_section_title">Backup settings</string>
-  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
-  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
-  <string name="cmcc_hardware_version">Hardware version</string>
+  <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
+  <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
   <string name="color_calibration_none">Native</string>
@@ -822,7 +825,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
-  <string name="convenience_key_category_title">Convenience key</string>
+  <string name="convenience_key_category_title">Shortcuts</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
@@ -1143,7 +1146,7 @@ This setting affects all users on this phone."</string>
   <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do not disturb is on</string>
   <string name="dndm_open">Do not disturb</string>
-  <string name="dndm_repeated_call_setting_title">Repeat callers</string>
+  <string name="dndm_repeated_call_setting_title">Repeated calls</string>
   <string name="dndm_repeated_call_summary_3min">Ring when receiving a second call from the same number within 3 minutes</string>
   <string name="dndm_repeated_call_summary_none">Silence repeated calls from the same number</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
@@ -1610,14 +1613,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="keyboard_layout_picker_title">Keyboard layouts</string>
   <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
   <string name="keyboard_settings_title">Android keyboard</string>
-  <string name="keyguard_left_function_chooser_hint_text">Left shortcut changed to %s</string>
-  <string name="keyguard_left_function_chooser_title">App</string>
-  <string name="keyguard_left_function_title">Left</string>
-  <string name="keyguard_right_function_chooser_hint_text">Right shortcut changed to %s</string>
-  <string name="keyguard_right_function_chooser_title">App</string>
-  <string name="keyguard_right_function_title">Right</string>
-  <string name="keyguard_shortcut_summary">Set shortcuts for 2 apps on the Lock screen</string>
-  <string name="keyguard_shortcut_title">Lock screen shortcuts</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_all_apps">apps download applications system</string>
   <string name="keywords_app">RAM</string>
@@ -1657,7 +1652,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="keywords_wifi">wifi wi-fi network connection</string>
   <string name="keywords_wifi_calling">wifi wi-fi call calling</string>
   <string name="keywords_write_settings">write modify system settings</string>
-  <string name="lab_functions_title">Beta features</string>
   <string name="language_keyboard_settings_title">Language &amp; input</string>
   <string name="language_picker_title">Language</string>
   <string name="language_settings">Language &amp; input</string>
@@ -1782,7 +1776,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_screen_notifications_summary_hide">Hide sensitive notification content</string>
   <string name="lock_screen_notifications_summary_show">Show all notification content</string>
   <string name="lock_screen_notifications_title">When device is locked</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately.</string>
   <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
@@ -1810,16 +1804,12 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpassword_confirm_for_second_user">Confirm your Second space password</string>
   <string name="lockpassword_confirm_passwords_dont_match">Passwords don’t match</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
-  <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
-  <string name="lockpassword_confirm_your_lock_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue.</string>
   <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
   <string name="lockpassword_confirm_your_pattern_generic">Use your device pattern to continue.</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue.</string>
   <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
-  <string name="lockpassword_confirm_your_private_password_header">Confirm your password</string>
-  <string name="lockpassword_confirm_your_private_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_continue_label">Continue</string>
   <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
   <string name="lockpassword_invalid_password">Wrong password</string>
@@ -1874,9 +1864,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
-  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
-  <string name="login_account_dialog_title">Sign in with Mi Account</string>
-  <string name="login_action">Sign in</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -1899,7 +1886,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="managed_device_admin_title">Work</string>
   <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings &gt; Accounts</string>
   <string name="managed_profile_location_category">Work profile</string>
-  <string name="managed_profile_location_switch_lockdown">Turned off by your company</string>
+  <string name="managed_profile_location_switch_lockdown">Turned off by company administrator.</string>
   <string name="managed_profile_location_switch_title">Location for work profile</string>
   <string name="managed_profile_not_available_label">Work profile isn’t available yet</string>
   <string name="managed_user_title">Work profile</string>
@@ -1941,7 +1928,7 @@ There are other users present on this device.
   <string name="master_clear_title">Factory data reset</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
-  <string name="max_cpu6_info">Hexa-core Max</string>
+  <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
   <string name="max_fingerprint_number_reached">"Can't add more than 5 fingerprints. To add a new fingerprint, delete an existing fingerprint first."</string>
   <string name="maximum_memory_use">Maximum memory use</string>
@@ -2021,6 +2008,7 @@ There are other users present on this device.
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
+  <string name="miui_experience_optimization">Turn on MIUI optimization</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
@@ -2114,7 +2102,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby digital plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -2171,7 +2159,7 @@ Select your operating system:"</string>
   <string name="no_default_apps">No default Apps.</string>
   <string name="no_device_admins">No available device administrators</string>
   <string name="no_internet_access_remember">Don’t ask again for this network</string>
-  <string name="no_internet_access_text">This WLAN %1$s has no Internet access. Stay connected?</string>
+  <string name="no_internet_access_text">WLAN network %1$s has no access to the internet. Stay connected?</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_memory_use_summary">No memory used in last 3 hours</string>
   <string name="no_nearby_wifi">No networks detected</string>
@@ -2230,12 +2218,16 @@ Select your operating system:"</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
+  <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
+  <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">This work profile is managed by:</string>
+  <string name="optimization_cancel">Cancel</string>
+  <string name="optimization_close">Turn off &amp; reboot</string>
+  <string name="optimization_open">Turn on</string>
   <string name="other_advanced_settings">Additional settings</string>
-  <string name="other_device_info">Others</string>
-  <string name="other_personal_settings">Personal settings</string>
+  <string name="other_personal_settings">Additional settings</string>
   <string name="other_relative">Other</string>
   <string name="other_sound_settings">Other sounds</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
@@ -2667,9 +2659,9 @@ Select your operating system:"</string>
   <string name="query_hint_text">Search settings</string>
   <string name="quiet">Do not disturb</string>
   <string name="quiet_group">Do not disturb</string>
-  <string name="quiet_important_interruptions_mode">Allow selected exceptions</string>
-  <string name="quiet_no_interruptions_mode">Silence everything</string>
-  <string name="quiet_off_mode">Off</string>
+  <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
+  <string name="quiet_no_interruptions_mode">Silence all disturbances</string>
+  <string name="quiet_off_mode">Always allow disturbances</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Connected</string>
   <string name="radioInfo_data_connecting">Connecting</string>
@@ -2734,11 +2726,6 @@ Select your operating system:"</string>
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
-  <string name="recommend_item_1"/>
-  <string name="recommend_item_2"/>
-  <string name="recommend_item_3"/>
-  <string name="recommend_item_4"/>
-  <string name="recommend_item_title">Recommends</string>
   <string name="recompute_size">Recomputing size…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
@@ -2794,7 +2781,7 @@ Select your operating system:"</string>
   <string name="restriction_settings_title">Restrictions</string>
   <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
   <string name="restriction_wifi_config_title">WLAN and Mobile</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Try again</string>
   <string name="ring_volume_option_title">Ring volume</string>
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_mute">None</string>
@@ -3675,7 +3662,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="total_memory">Total memory</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Touch assistant</string>
+  <string name="touch_assistant">Shortcut menu</string>
   <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
@@ -3879,7 +3866,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
-  <string name="use_this_wlan">Use this WLAN</string>
+  <string name="use_this_wlan">Stay connected</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_max_count">You can add up to %1$d users</string>
   <string name="user_add_on_lockscreen_menu">Add users when device is locked</string>
@@ -3982,8 +3969,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">No SIM card is required to connect to a data network</string>
-  <string name="virtual_sim_global_title">Data traffic service</string>
+  <string name="virtual_sim_global_description">Connect to data network without a SIM card</string>
+  <string name="virtual_sim_global_title">Mobile data service</string>
   <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
@@ -4008,7 +3995,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
   <string name="virus_scanner_manual_update">Updated on %s</string>
   <string name="virus_scanner_provider">Powered by %s</string>
-  <string name="virus_scanner_scan">Touch to scan</string>
+  <string name="virus_scanner_scan">Tap to scan</string>
   <string name="virus_scanner_scanning">Scanning…</string>
   <string name="virus_scanner_select_Cancel">Cancel</string>
   <string name="virus_scanner_select_OK">OK</string>
@@ -4226,8 +4213,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">Enable data and WLAN roam</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Switch to data connection when both WLAN and data is connecting and the WLAN can not access the internet.</string>
+  <string name="wifi_enable_data_and_wifi_roam">Switch between data and WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and WLAN on to switch to data when WLAN connectivity is poor.</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
@@ -4366,9 +4353,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_back">Back</string>
   <string name="wifi_setup_cancel">Cancel</string>
   <string name="wifi_setup_connect">Connect</string>
-  <string name="wifi_setup_description_connected">Touch &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
+  <string name="wifi_setup_description_connected">Tap &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
 
-Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
+Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">"You can't configure an EAP WLAN connection during setup. After setup, you can go to Settings &gt; Wireless &amp; networks."</string>
@@ -4517,8 +4504,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
   <string name="work_sim_title">Work SIM</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
-  <string name="wps_connect_title">WPS push button</string>
+  <string name="wps_connect_summary">Make sure the router supports and has WPS enabled</string>
+  <string name="wps_connect_title">Connect WPS</string>
   <string name="write_settings">Modify system settings</string>
   <string name="write_settings_description">This permission allows an app to modify system settings.</string>
   <string name="write_settings_off">No</string>

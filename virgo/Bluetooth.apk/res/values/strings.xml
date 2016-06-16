@@ -96,7 +96,7 @@
   <string name="incoming_line2">Filename</string>
   <string name="incoming_line3">Size</string>
   <string name="insert_record">Insert record</string>
-  <string name="install_package">Install %1$s for more features</string>
+  <string name="install_package">Install %1$s for more functions</string>
   <string name="localPhoneName">My name</string>
   <string name="mi_band_vibrate_alarm">Vibrate when alarm sounds</string>
   <string name="mi_band_vibrate_incall">Vibrate when ringing</string>
@@ -147,9 +147,9 @@
   <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
   <string name="process"/>
   <string name="progress_scanning">Searching…</string>
-  <string name="reset_function_msg">Reseting this feature may cause %1$s to misbehave.</string>
+  <string name="reset_function_msg">Resetting this feature may prevent %1$s from working normally.</string>
   <string name="sharedUserId"/>
-  <string name="some_app_taking">(%1$s is using this feature)</string>
+  <string name="some_app_taking">(%1$s is already using this feature)</string>
   <string name="start_server">Start TCP server</string>
   <string name="status_canceled">Transfer canceled by user.</string>
   <string name="status_connection_error">Connection unsuccessful.</string>

@@ -85,7 +85,6 @@
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="close">Close</string>
-  <string name="close_debug_mode">Click %1$d to close debug switch</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Network connection for Security</string>
   <string name="connecting">Connecting…</string>
@@ -263,7 +262,6 @@
   <string name="ok">OK</string>
   <string name="open">Turn on</string>
   <string name="open_browser">Open in browser</string>
-  <string name="open_debug_mode">Click %1$d to open debug switch</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="petabyteShort">PB</string>
