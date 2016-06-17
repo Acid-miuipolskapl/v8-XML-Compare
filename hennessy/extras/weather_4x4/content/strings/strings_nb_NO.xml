@@ -1,0 +1,30 @@
+<resources>
+    <string name="weather_type_null">'Ingen værdata'</string>
+    <string name="today">I dag</string>
+    <string name="tomorrow">I morgen</string>
+    <string name="weather_type_0">Klart</string>
+    <string name="weather_type_1">Skyete</string>
+    <string name="weather_type_2">Disig</string>
+    <string name="weather_type_3">Tåkete</string>
+    <string name="weather_type_4">Kraftig regnvær</string>
+    <string name="weather_type_5">Regnvær</string>
+    <string name="weather_type_6">Svært kraftig regn</string>
+    <string name="weather_type_7">Tordenvær</string>
+    <string name="weather_type_8">Dusj</string>
+    <string name="weather_type_9">Kraftig regnskyll</string>
+    <string name="weather_type_10">Regn</string>
+    <string name="weather_type_11">Duskregn</string>
+    <string name="weather_type_12">Sludd</string>
+    <string name="weather_type_13">Snøstorm</string>
+    <string name="weather_type_14">Flekker av snøfall</string>
+    <string name="weather_type_15">Kraftig snøfall</string>
+    <string name="weather_type_16">Snøfall</string>
+    <string name="weather_type_17">Lett snøfall</string>
+    <string name="weather_type_18">Sterk sandstorm</string>
+    <string name="weather_type_19">Sandstorm</string>
+    <string name="weather_type_20">Lett sandstorm</string>
+    <string name="weather_type_21">Sandstorm</string>
+    <string name="weather_type_22">Hagl</string>
+    <string name="weather_type_23">Svevestøv</string>
+    <string name="weather_type_24">Dis</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="garbage_size_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="wechat_auto_backup_entries">
+        <item>@string/backup_checkbox_msg</item>
+    </string-array>
+    <string-array name="array_local_video">
+        <item>@string/make_private</item>
+        <item>@string/operation_move</item>
+        <item>@string/operation_copy</item>
+        <item>@string/operation_rename</item>
+        <item>@string/operation_info</item>
+    </string-array>
+    <string-array name="array_report_reason">
+        <item>@string/report_porn</item>
+        <item>@string/report_violence</item>
+        <item>@string/report_abuse</item>
+        <item>@string/report_advertisement</item>
+        <item>@string/report_politics</item>
+        <item>@string/report_other</item>
+    </string-array>
+    <array name="garbage_size_entryValues">
+        <item>@drawable/digit0</item>
+        <item>@drawable/digit1</item>
+        <item>@drawable/digit2</item>
+        <item>@drawable/digit3</item>
+        <item>@drawable/digit4</item>
+        <item>@drawable/digit5</item>
+        <item>@drawable/digit6</item>
+        <item>@drawable/digit7</item>
+        <item>@drawable/digit8</item>
+        <item>@drawable/digit9</item>
+        <item>@drawable/point</item>
+    </array>
+</resources>
