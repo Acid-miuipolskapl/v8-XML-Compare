@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
 <resources>
-    <string name="date_format">EEEE, dd/MM</string>
+    <string name="date_format">EEEE, MMMM d</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
