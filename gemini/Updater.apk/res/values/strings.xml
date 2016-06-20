@@ -16,7 +16,7 @@
   <string name="auto_dialog_msg">"We've updated our Privacy Policy. Please read it carefully before updating your system. "</string>
   <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
   <string name="auto_dialog_title_check_again">Cancel update?</string>
-  <string name="auto_update">Download updates automatically</string>
+  <string name="auto_update">Update automatically</string>
   <string name="auto_update_sum">Download updates automatically when connected to WLAN</string>
   <string name="autosetmode">Settings</string>
   <string name="best_update">Best update so far</string>
@@ -161,8 +161,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_agree_check_box_title">I understand the risks of root access</string>
   <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
   <string name="set_auto">Check for updates automatically</string>
-  <string name="set_auto_msg">"Download updates automatically when you're connected to WLAN?"</string>
-  <string name="set_auto_update_title">Download updates automatically?</string>
+  <string name="set_auto_msg">Download updates when connected to WLAN and install at night?</string>
+  <string name="set_auto_update_title">Updates automatically?</string>
   <string name="set_installfail_full_msg">Something went wrong. Touch OK to report this error.</string>
   <string name="set_installfail_msg">"You aren't connected to a WLAN network. Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="set_installfail_title">Try to download update again?</string>

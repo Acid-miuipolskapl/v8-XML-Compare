@@ -104,6 +104,31 @@
         <item>en_US</item>
         <item>bo_CN</item>
     </string-array>
+    <string-array name="airtel_mcc_mnc">
+        <item>40552</item>
+        <item>40498</item>
+        <item>40431</item>
+        <item>40490</item>
+        <item>40493</item>
+        <item>40492</item>
+        <item>40551</item>
+        <item>40553</item>
+        <item>40470</item>
+        <item>40556</item>
+        <item>40416</item>
+        <item>40410</item>
+        <item>40440</item>
+        <item>40449</item>
+        <item>40496</item>
+        <item>40403</item>
+        <item>40555</item>
+        <item>40495</item>
+        <item>40445</item>
+        <item>40402</item>
+        <item>40494</item>
+        <item>40554</item>
+        <item>40497</item>
+    </string-array>
     <array name="config_crossSpaceNotificationPackageNames" />
     <string-array name="securespaces_extension_accelerometer_userRestrictions">
         <item>ss_no_accelerometer_access,1</item>

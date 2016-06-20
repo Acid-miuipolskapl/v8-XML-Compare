@@ -10,6 +10,7 @@
     <string name="aqi_dangerous"/>
     <string name="aqi_hazardous"/>
     <string name="aqi_break"/>
+    <string name="weather_type_null">Δεν υπάρχουν δεδομένα</string>
     <string name="weather_type_0">Καθαρός</string>
     <string name="weather_type_1">Νεφελώδης</string>
     <string name="weather_type_2">Ομιχλώδης</string>

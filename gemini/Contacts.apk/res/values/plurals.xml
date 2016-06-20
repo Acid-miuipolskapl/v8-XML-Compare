@@ -82,6 +82,10 @@
         <item quantity="other">%1$d contact emails</item>
         <item quantity="one">1 contact email</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">found %1$d</item>
+        <item quantity="one">found 1</item>
+    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favorites</item>
         <item quantity="one">%1$d favorite</item>

@@ -239,6 +239,8 @@ or enter App lock password"</string>
   <string name="connect_internet_by_usbshare">Shared internet over USB</string>
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="continue_install">Install</string>
+  <string name="convenient_mode">Unlock all apps at once</string>
+  <string name="convenient_summary">"Don't require password after 1 app has been unlocked"</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Exit</string>
@@ -251,7 +253,7 @@ or enter App lock password"</string>
   <string name="daily_limit_network_available_body">Tap to view data usage stats.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
-  <string name="daily_pkg_traffic">peak data limit</string>
+  <string name="daily_pkg_traffic">Peak data limit</string>
   <string name="data_network_blocked_notification_title">No internet connection</string>
   <string name="data_usage_correction_timeout_body">Tap to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
