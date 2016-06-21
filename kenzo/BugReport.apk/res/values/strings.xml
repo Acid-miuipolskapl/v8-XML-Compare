@@ -197,6 +197,7 @@
   <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="refresh">Refresh</string>
   <string name="reply">Reply</string>
+  <string name="reply_failed">Reply failed</string>
   <string name="report_miui">Report bug</string>
   <string name="request_empty_data">No data</string>
   <string name="save_pic">Save</string>
