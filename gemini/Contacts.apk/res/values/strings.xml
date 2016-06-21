@@ -450,6 +450,8 @@ Reason: \"%s\""</string>
   <string name="favorites_list_empty">No favorites</string>
   <string name="firewall_setting">Blocklist</string>
   <string name="followed_yellowpage">Verified accounts</string>
+  <string name="force_touch_miprofile">Contact card</string>
+  <string name="force_touch_new_contact">New contact</string>
   <string name="foundTooManyContacts">More than %d found.</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
