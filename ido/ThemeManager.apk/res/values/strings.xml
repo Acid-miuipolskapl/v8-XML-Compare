@@ -81,6 +81,9 @@
   <string name="gift_use_confirmation_dlg_title">Send this gift?</string>
   <string name="gift_use_fail_dlg_title">Something went wrong</string>
   <string name="gift_used">Sent</string>
+  <string name="incompatible_dialog_message">This theme isnt fully compatible with MIUI 8. Some elements may be displayed incorrectly.</string>
+  <string name="incompatible_dialog_ok">Got it</string>
+  <string name="incompatible_dialog_title">Compatibility issues</string>
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_resource_detail_fail">"Can't load resource"</string>

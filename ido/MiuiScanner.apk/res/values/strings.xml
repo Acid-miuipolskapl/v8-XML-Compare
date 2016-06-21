@@ -335,6 +335,7 @@
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">Not enough space on the SD the card. Free up some space.</string>
   <string name="study_report_title">Report</string>
+  <string name="study_rotate_picture">Processing the photo</string>
   <string name="study_scan_result">Result</string>
   <string name="study_searching">Searching for result</string>
   <string name="study_title">Take a photo of the problem</string>

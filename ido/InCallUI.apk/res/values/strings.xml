@@ -33,7 +33,7 @@
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Forwarded unanswered call</string>
   <string name="call_button_dialer_text">Keyboard</string>
-  <string name="call_button_tools_text">Feature</string>
+  <string name="call_button_tools_text">Features</string>
   <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Recording…</string>
   <string name="call_extension_conference_mode">Conference mode</string>
@@ -120,12 +120,12 @@
   <string name="incall_error_supp_service_unknown">"This service isn't supported."</string>
   <string name="incoming_answer_voice_text">Voice answer</string>
   <string name="incoming_call_forwarded_title">Forward incoming calls</string>
-  <string name="incoming_circle_text_answer">Loosen answer</string>
-  <string name="incoming_circle_text_answer_p">Answering slide</string>
-  <string name="incoming_circle_text_message">Loosen SMS reply</string>
-  <string name="incoming_circle_text_message_p">SMS reply slide</string>
-  <string name="incoming_circle_text_reject">Loosen reject</string>
-  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
+  <string name="incoming_circle_text_answer">Release</string>
+  <string name="incoming_circle_text_answer_p">Slide up</string>
+  <string name="incoming_circle_text_message">Release</string>
+  <string name="incoming_circle_text_message_p">Slide up</string>
+  <string name="incoming_circle_text_reject">Release</string>
+  <string name="incoming_circle_text_reject_p">Slide up</string>
   <string name="ivr_menu_dialing_msg">Forwarding…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Tap %s</string>
@@ -208,7 +208,7 @@
   <string name="picking_participant">Getting contact info…</string>
   <string name="private_num">Private number</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
-  <string name="select_audio_dialog_title">Please select answering mode</string>
+  <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_one_sim_title">Can only use SIM %1$d</string>
   <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
   <string name="select_voice_call_sim">Choose SIM card</string>

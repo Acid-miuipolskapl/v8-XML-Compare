@@ -13,9 +13,9 @@
   <string name="all_terms">%1$s and %2$s</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Camera</string>
+  <string name="attachment_camera">Take a photo</string>
   <string name="attachment_contact">Contacts</string>
-  <string name="attachment_gallery">Gallery</string>
+  <string name="attachment_gallery">Choose from Gallery</string>
   <string name="button_new_note">New</string>
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">Unnamed folder</string>
