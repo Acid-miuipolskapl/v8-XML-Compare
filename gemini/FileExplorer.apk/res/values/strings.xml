@@ -4,6 +4,7 @@
   <string name="account_login_title">Account</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
+  <string name="activity_parse_video_title">Paste URL</string>
   <string name="activity_rule">Rules</string>
   <string name="ad_download">Download</string>
   <string name="ad_downloading">Just a sec…</string>
@@ -12,6 +13,8 @@
   <string name="add_private_files">Add files</string>
   <string name="add_task">Add tasks</string>
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
+  <string name="album_creator">Created by %s</string>
+  <string name="album_name">Daily selection: %s</string>
   <string name="all_topic">All topics</string>
   <string name="already_liked">"You've already starred this item"</string>
   <string name="already_signin_description">"You've already checked in today."</string>
@@ -175,6 +178,7 @@
   <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="drive_closed">Not signed in</string>
   <string name="drive_opened">Signed in</string>
+  <string name="editor_commend">Edit</string>
   <string name="email_platform">Email</string>
   <string name="empty_comment">"Comments can't be empty"</string>
   <string name="empty_file_download">"Can't download empty files"</string>
@@ -247,6 +251,7 @@
   <string name="hot_comments">Popular comments</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Videos</string>
+  <string name="hot_video_load_more">More &gt;</string>
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">Cancel this operation?</string>
   <string name="image_loading_error">"Couldn't load image"</string>
@@ -254,6 +259,8 @@
   <string name="installing">Installing…</string>
   <string name="instruction">Enter the following address into FTP client: </string>
   <string name="instruction_pre">Touch to start FTP server</string>
+  <string name="interest_recommend">Recommended videos</string>
+  <string name="join_activity">Participate</string>
   <string name="just_now">just now</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Category</string>
@@ -337,7 +344,7 @@ Sorry for the inconvenience."</string>
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
   <string name="midrop_send_files">Choose files to send</string>
-  <string name="migrate_announcement_msg">KuaiPan will stop working on June 30, 2016. We suggest that you move your files to Mi Drive now. No data connection is required for that, as the transfer will take place on our servers. During the transfer, current uploads and downloads will be stopped.</string>
+  <string name="migrate_announcement_msg">KuaiPan will stop working on June 30, 2016. We suggest that you move your files to Mi Drive now. No data connection is required for that, as the transfer will take place on our servers. During the transfer, current uploads and downloads will be stopped. Mi Drive and Mi Cloud will share storage.</string>
   <string name="migrate_announcement_title">KuaiPan is being replaced with Mi Drive</string>
   <string name="migrate_cancel">Cancel</string>
   <string name="migrate_confirm">Transfer</string>
@@ -581,7 +588,7 @@ and never miss the cool new ones!"</string>
   <string name="repair_error">"Couldn't restore"</string>
   <string name="repair_file">Restore encrypted files</string>
   <string name="repeat_upload_video">This video has already been shared, choose another one.</string>
-  <string name="reply_success">Comment will be posted after moderation.</string>
+  <string name="reply_success">Comment added</string>
   <string name="report_abuse">Abuse</string>
   <string name="report_advertisement">Advertisement</string>
   <string name="report_other">Other</string>
@@ -689,6 +696,7 @@ and never miss the cool new ones!"</string>
   <string name="stay_awake_summary">"Don't let display sleep while using FTP"</string>
   <string name="stay_awake_title">Keep display awake</string>
   <string name="stop_server">Stop server</string>
+  <string name="storage_cloned_app">Storage for cloned apps</string>
   <string name="storage_info">%1$s available</string>
   <string name="storage_info_detail">Available: %1$s Total: %2$s</string>
   <string name="storage_internal">Internal storage</string>
@@ -720,6 +728,7 @@ and never miss the cool new ones!"</string>
   <string name="tab_storage">STORAGE</string>
   <string name="tag_weixin_video">Video clips</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Albums</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">Turn on DocumentsUI</string>
   <string name="title_expire_video">About to expire</string>
@@ -753,6 +762,10 @@ and never miss the cool new ones!"</string>
   <string name="ui_main_toast_operation_failed">"Can't unfavorited %1$s"</string>
   <string name="unmount_inform_text">Unmount USB storage?</string>
   <string name="unreviewed_video_cannot_share">Videos should be reviewed before sharing</string>
+  <string name="upload_external_action_hint">Paste URL</string>
+  <string name="upload_external_notification_failed">"Couldn't publish"</string>
+  <string name="upload_external_notification_success">Published successfully</string>
+  <string name="upload_external_notification_title">Publishing, wait a moment026</string>
   <string name="upload_failed">"Couldn't upload"</string>
   <string name="upload_file_toolarge_message">"%1$d is too large. Can't upload files larger than 300MB."</string>
   <string name="upload_local_video">Share video clip</string>
@@ -768,6 +781,7 @@ and never miss the cool new ones!"</string>
   <string name="upload_video_dialog_message">"Your video will be featured after it's verified."</string>
   <string name="upload_video_dialog_title">Video shared</string>
   <string name="upload_video_failed">"Couldn't share video, try again."</string>
+  <string name="upload_video_forbidden">"Don't upload similar videos"</string>
   <string name="upload_video_success">Verifying video…</string>
   <string name="upload_video_tip">"Can't share more than 1 video clip at a time"</string>
   <string name="uploading">Uploading</string>
@@ -817,6 +831,13 @@ and never miss the cool new ones!"</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Uploading will require %1$s of mobile data</string>
   <string name="video_data_consumption_dialog_title">Mobile data warning</string>
+  <string name="video_parse_btn">Start</string>
+  <string name="video_parse_error_repeated">"Don't upload similar videos"</string>
+  <string name="video_parse_error_unknown">"This video service isn't supported, try a different one"</string>
+  <string name="video_parse_hint">Supported apps: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_success">Parsed successfully</string>
+  <string name="video_parse_timeout">Something went wrong, try again</string>
+  <string name="video_parsing_btn">Parsing…</string>
   <string name="video_play_failed">Unknown error</string>
   <string name="video_publish_hint">A good description will help other people find your video</string>
   <string name="video_releasing">Uploading…</string>

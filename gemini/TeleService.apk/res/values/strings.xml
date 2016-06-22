@@ -1251,6 +1251,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="simContacts_empty">No contacts on your SIM card.</string>
   <string name="simContacts_emptyLoading">Reading from SIM card…</string>
   <string name="simContacts_title">Manage SIM card contacts</string>
+  <string name="simFdnContacts_empty">No fixed dialing contacts.</string>
   <string name="sim_activated">Verified</string>
   <string name="sim_card_activate">SIM verification</string>
   <string name="sim_card_num">SIM %s</string>
