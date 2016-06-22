@@ -58,6 +58,8 @@
 
 .field public static final IS_HM3LTE:Z
 
+.field public static final IS_HM3X:Z
+
 .field public static final IS_HM3Y:Z
 
 .field public static final IS_HM3Z:Z
@@ -208,6 +210,16 @@
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_THREE:Z
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_HM3:Z
+
+    const-string v0, "gucci"
+
+    sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_HM3X:Z
 
     const-string v0, "hermes"
 
@@ -1314,6 +1326,52 @@
     return v0
 .end method
 
+.method public static isSupportedDynamicEffectPopup()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM2A:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_H2XLTE:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3LTE:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3X:Z
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedEdgeTouch()Z
     .locals 2
 
@@ -1623,35 +1681,14 @@
 .method public static isSupportedShaderEffect()Z
     .locals 2
 
-    const/4 v0, 0x0
+    const-string v0, "support_camera_shader_effect"
 
-    sget-boolean v1, Lcom/android/camera/Device;->IS_MI7:Z
+    const/4 v1, 0x0
 
-    if-nez v1, :cond_0
+    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
 
-    sget-boolean v1, Lcom/android/camera/Device;->IS_MI9:Z
+    move-result v0
 
-    if-nez v1, :cond_0
-
-    sget-boolean v1, Lcom/android/camera/Device;->IS_MI11:Z
-
-    if-nez v1, :cond_0
-
-    sget-boolean v1, Lcom/android/camera/Device;->IS_A10:Z
-
-    if-nez v1, :cond_0
-
-    const-string v1, "support_camera_shader_effect"
-
-    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
-
-    move-result v1
-
-    if-eqz v1, :cond_0
-
-    const/4 v0, 0x1
-
-    :cond_0
     return v0
 .end method
 

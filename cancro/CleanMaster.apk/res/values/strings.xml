@@ -222,6 +222,7 @@
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
   <string name="information_setting">News feed settings</string>
+  <string name="install_sucess">Installed %s successfully</string>
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
   <string name="item_title_process_mode">Choose an action</string>
@@ -261,6 +262,7 @@
   <string name="notify_when">Get a notification when trash size reaches 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Turn on</string>
+  <string name="open_app">Open</string>
   <string name="open_browser">Open in browser</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
