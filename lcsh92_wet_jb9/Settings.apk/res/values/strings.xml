@@ -1781,6 +1781,7 @@ Select your operating system:"</string>
   <string name="path_app_invisible">Settings/Additional/Beta features/App Invisible</string>
   <string name="path_app_permission">Settings/Permissions</string>
   <string name="path_app_switch_key">Settings/Additional settings/Buttons/Recents</string>
+  <string name="path_application_lock">Settings/App lock</string>
   <string name="path_applications_settings">Settings/Installed apps</string>
   <string name="path_back_key">Settings/Additional settings/Buttons/Back</string>
   <string name="path_battery_indicator_settings">Settings/Battery &amp; performance/Battery indicator</string>
@@ -2343,6 +2344,7 @@ This setting affects all users on this phone."</string>
   <string name="search_app_invisible">App Invisible</string>
   <string name="search_app_permission">Permissions;ROOT access</string>
   <string name="search_app_switch_key">Recents</string>
+  <string name="search_application_lock">App lock</string>
   <string name="search_application_settings">Installed apps</string>
   <string name="search_back_key">Back</string>
   <string name="search_battery">Battery &amp; performance</string>
@@ -2469,7 +2471,7 @@ This setting affects all users on this phone."</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Text-to-speech output</string>
   <string name="search_turn_on_security_lock">Change screen lock</string>
-  <string name="search_unlock_set">Auto Lock screen;Owner info;Sleep;Wake lock screen;Password;Prevent pocket dials;Unlock with Bluetooth device</string>
+  <string name="search_unlock_set">Auto Lock screen;Owner info;Sleep;Wake lock screen;Password;Prevent pocket dials;Unlock with Bluetooth device;Lock screen &amp; password</string>
   <string name="search_user_agreement">Terms of Service</string>
   <string name="search_user_dict_settings_title">Personal dictionary</string>
   <string name="search_vibrate_in_silent_title">Vibrate when silent</string>

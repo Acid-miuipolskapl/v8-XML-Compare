@@ -59,5 +59,9 @@
   <string name="turn_off_fm">Turn off FM</string>
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Sleep mode</string>
+  <string name="using_recorder_cancel">Decline</string>
+  <string name="using_recorder_confirm">Agree</string>
+  <string name="using_recorder_dialog_message">"Fm needs to use your device's recorder services to work normally."</string>
+  <string name="using_recorder_dialog_title">Access permission</string>
   <string name="view_stations_list">View stations list</string>
 </resources>

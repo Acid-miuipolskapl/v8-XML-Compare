@@ -137,6 +137,7 @@
   <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
   <string name="mi_pass">Mi Pass</string>
+  <string name="mi_pay_identity">Identity</string>
   <string name="micloud_account_name">Mi Account</string>
   <string name="micloud_space_info">%s available</string>
   <string name="mili_center">Mi Credits</string>
