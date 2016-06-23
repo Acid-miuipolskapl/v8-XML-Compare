@@ -167,6 +167,7 @@
   <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
   <string name="fake_cell_checking_hint">Safety checking…</string>
   <string name="fake_cell_safe_hint">This message is safe</string>
+  <string name="fake_cell_timeout_hint">Failed to check safety</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
