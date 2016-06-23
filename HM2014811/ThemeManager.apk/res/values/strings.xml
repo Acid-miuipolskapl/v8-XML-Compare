@@ -19,7 +19,7 @@
   <string name="backup_theme_progress_message">Backing up…</string>
   <string name="backup_theme_success_message">Your current theme settings have been backed up.</string>
   <string name="browser_local_resource">Local resources</string>
-  <string name="change_host_hint">change host</string>
+  <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Wallpaper</string>
   <string name="choose_new_themes">Themes</string>
   <string name="close">Close</string>
@@ -28,8 +28,8 @@
   <string name="component_category_more_title">ADVANCED</string>
   <string name="component_title_ringtone">Ringtone</string>
   <string name="component_title_wallpaper">Wallpaper</string>
-  <string name="current_using_desktop_wallpaper_text">home screen</string>
-  <string name="current_using_lockscreen_wallpaper_text">lock screen</string>
+  <string name="current_using_desktop_wallpaper_text">Home screen</string>
+  <string name="current_using_lockscreen_wallpaper_text">Lock screen</string>
   <string name="deleting">Deleting…</string>
   <string name="description_author">Author</string>
   <string name="description_designer">Designer</string>
@@ -81,6 +81,9 @@
   <string name="gift_use_confirmation_dlg_title">Send this gift?</string>
   <string name="gift_use_fail_dlg_title">Something went wrong</string>
   <string name="gift_used">Sent</string>
+  <string name="incompatible_dialog_message">This theme isnt fully compatible with MIUI 8. Some elements may be displayed incorrectly.</string>
+  <string name="incompatible_dialog_ok">Got it</string>
+  <string name="incompatible_dialog_title">Compatibility issues</string>
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
@@ -308,7 +311,7 @@
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Notification</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Ringtone</string>
-  <string name="theme_apply_failured">"Can't apply lock screen wallpaper"</string>
+  <string name="theme_apply_failured">"Can't apply Lock screen wallpaper"</string>
   <string name="theme_apply_success">Lock screen applied</string>
   <string name="theme_applying">Applying…</string>
   <string name="theme_batch_update_all">Update all</string>
@@ -316,7 +319,7 @@
   <string name="theme_batch_update_dlg_content_single">Update %1$s now?</string>
   <string name="theme_batch_update_dlg_title">Update theme</string>
   <string name="theme_batch_updating_text">Updating (%1$d)</string>
-  <string name="theme_bug_report">Bug Report</string>
+  <string name="theme_bug_report">Feedback</string>
   <string name="theme_changed_failed_message">"Can't apply theme"</string>
   <string name="theme_changed_message">Theme applied</string>
   <string name="theme_changing_dialog_title">"Applying "</string>
@@ -392,6 +395,6 @@
   <string name="wallpaper_loading_text">Just a sec…</string>
   <string name="wallpaper_set_as_both">Set both</string>
   <string name="wallpaper_set_as_destop">Set as Home screen</string>
-  <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
+  <string name="wallpaper_set_as_lockscreen">Set as Lock screen</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
 </resources>
