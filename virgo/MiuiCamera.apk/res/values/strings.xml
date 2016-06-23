@@ -25,7 +25,7 @@
   <string name="camera_error_title">Camera error</string>
   <string name="camera_label">Camera</string>
   <string name="camera_mode_options">Modes</string>
-  <string name="camera_setting">Camera Settings</string>
+  <string name="camera_setting">Camera</string>
   <string name="camera_settings_label">Camera</string>
   <string name="camera_snap_mode_title">Quick snap mode</string>
   <string name="camera_snap_mode_title_detail">Tap to view details</string>
@@ -87,7 +87,7 @@
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="pano_review_saving_indication_str">Saving…</string>
   <string name="pano_too_fast_prompt">Too fast</string>
-  <string name="path_settings">System App/Camera/Settings</string>
+  <string name="path_settings">System apps/Camera/Settings</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
   <string name="pref_audio_focus_entry_front">Front</string>
@@ -479,7 +479,7 @@
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
   <string name="preparing_sd">Checking internal storage…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
-  <string name="search_settings">Camera Settings;Quality;Image Quality;Image Location;Picture Location;Face Detection;Camera Sound</string>
+  <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
   <string name="see_qrcode_detals">View QR details</string>
   <string name="setting_top_text">Camera modes</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
