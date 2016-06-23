@@ -231,10 +231,10 @@ Slide down to lock"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Return to Recorder</string>
   <string name="status_bar_recording_pause">Recorder paused</string>
-  <string name="status_bar_safepay_risk">Payment environment is risky!</string>
-  <string name="status_bar_safepay_safe">Payment environment is secure.</string>
-  <string name="status_bar_safepay_scanning">Detecting payment environment...</string>
-  <string name="status_bar_safepay_unknown">Payment security is unknown.</string>
+  <string name="status_bar_safepay_risk">Payment risks found</string>
+  <string name="status_bar_safepay_safe">No payment risks found</string>
+  <string name="status_bar_safepay_scanning">Checking payment environment…</string>
+  <string name="status_bar_safepay_unknown">"Couldn't check payment environment"</string>
   <string name="status_bar_settings_airplane">Airplane mode</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>

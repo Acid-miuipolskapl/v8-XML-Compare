@@ -123,6 +123,7 @@ You can also download them separately."</string>
   <string name="private_space_setting">Manage</string>
   <string name="public_app">Both spaces</string>
   <string name="removeSuccess">Deleted successfully</string>
+  <string name="remove_second_space_msg">删除手机分身,分身内的所有数据将丢失且无法恢复.确定要删除手机分身吗?</string>
   <string name="removingSpace">Deleting…</string>
   <string name="restore_normal_show">"Don't show private messages"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
