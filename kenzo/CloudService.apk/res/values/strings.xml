@@ -52,7 +52,7 @@ Last backed up on %2$s"</string>
   <string name="connect_wlan">Connect to WLAN</string>
   <string name="contact">Contacts</string>
   <string name="deskclock_backup">Clocks Back up</string>
-  <string name="detect_sim_card">Search for SIM card again</string>
+  <string name="detect_sim_card">Search for SIM card</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
   <string name="disable_find_device_success">Find device is off.</string>
   <string name="enableAll">Sync all</string>

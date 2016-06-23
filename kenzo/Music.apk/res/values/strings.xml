@@ -300,6 +300,8 @@
   <string name="filter_by_size_summary">Hide small audio files</string>
   <string name="find_music">Discover songs</string>
   <string name="font_family">miui</string>
+  <string name="force_touch_audio_picker">Audio Picker</string>
+  <string name="force_touch_play_local_music_random">Play Local Music Random</string>
   <string name="format_not_support">"This format isn't supported."</string>
   <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
   <string name="fragment_more">More</string>
@@ -349,6 +351,8 @@
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Just a sec…</string>
   <string name="local_music">Offline</string>
+  <string name="local_music_empty">Local playList is empty</string>
+  <string name="local_music_empty_goto_online">No songs found</string>
   <string name="local_music_is_not_available">Local music is not available.</string>
   <string name="local_tracks_short">Offline</string>
   <string name="login_first">Sign in to your Mi Account first</string>
