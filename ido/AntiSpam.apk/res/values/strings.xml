@@ -22,7 +22,7 @@
   <string name="Call_DEFAULT">Smart blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
   <string name="Call_PRIVATE_CALL">Private calls</string>
-  <string name="MALICIOUS_URL">Malicious link</string>
+  <string name="MALICIOUS_URL">Malicious URL</string>
   <string name="NACaddnumcontent">Enter phone number</string>
   <string name="NACaddnumtitle">Add phone number to exceptions</string>
   <string name="PAST_BLOCK">Previously blocked</string>
@@ -54,7 +54,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
   <string name="antispam_notification_setting_title">Notifications</string>
-  <string name="antispam_xpace_text">Please switch to owner space to do antispam settings</string>
+  <string name="antispam_xpace_text">Switch to First space to set Blocklist</string>
   <string name="app_name">Blocklist</string>
   <string name="backsound_set_hint">Set your away message to %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>

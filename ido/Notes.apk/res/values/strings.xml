@@ -83,6 +83,7 @@ Tap the plus to create a folder"</string>
   <string name="pref_title_recover_help">Recover notes</string>
   <string name="privacy_hint">Privacy</string>
   <string name="privacy_notes_fragment_title">Hidden notes</string>
+  <string name="recover_notes_hint">Detected abnormal data of notes， try to recover it in i.mi.com</string>
   <string name="redo">Redo</string>
   <string name="rename_folder_dialog_tile">Rename folder</string>
   <string name="search">Notes</string>

@@ -94,7 +94,7 @@
   <string name="floor">%1$s#</string>
   <string name="from">from %1$s</string>
   <string name="loading_apps">Loading list…</string>
-  <string name="login_system_failed">"Couldn't sign in try again"</string>
+  <string name="login_system_failed">"Couldn't sign in, try again"</string>
   <string name="logo_title">Feedback</string>
   <string name="max_error">Your %1$s should be shorter.</string>
   <string name="menu_copy">Copy</string>
@@ -106,7 +106,7 @@
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Camera</string>
   <string name="michat_back_to_detail">Go back to chat</string>
-  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
+  <string name="michat_cant_join_artifical">"Couldn't connect due to network error"</string>
   <string name="michat_check_network">Check network settings</string>
   <string name="michat_close_text">Chat ended</string>
   <string name="michat_comment_net_error">"Couldn't connect to the network, try again later"</string>
@@ -119,7 +119,7 @@
   <string name="michat_error_need_login_btn">Sign in</string>
   <string name="michat_error_need_login_text">Sign in to be able to use online support</string>
   <string name="michat_failed_to_add_media">"Sorry, can't send %1$s"</string>
-  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
+  <string name="michat_failed_to_fetch_fql">"Couldn't get FAQ info, check network connection"</string>
   <string name="michat_feedback_title_name">Feedback survey</string>
   <string name="michat_finish_text">Finish</string>
   <string name="michat_in_artifical_customer_state">"Can't do this while being helped by a person"</string>
@@ -127,12 +127,12 @@
   <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
   <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
   <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
-  <string name="michat_lose_artifical">网络出现异常，您将离开人工客服会话</string>
+  <string name="michat_lose_artifical">A network error occurred, you left the chat</string>
   <string name="michat_menu_copy_text">Copy</string>
   <string name="michat_mesage_resend_error_network">"Couldn't connect to the network"</string>
   <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_message_copy_info">Copied to clipboard</string>
-  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_join_again">"Glad you're back!"</string>
   <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
   <string name="michat_msg_image_upload_error">"Couldn't send image, try again later"</string>
   <string name="michat_msg_input_info">Describe your issue briefly</string>
@@ -147,7 +147,7 @@
   <string name="michat_pull_to_refresh_pull_label">Pull down to view history</string>
   <string name="michat_pull_to_refresh_refreshing_label">Loading history…</string>
   <string name="michat_pull_to_refresh_release_label">Release to view history</string>
-  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
+  <string name="michat_queue_pos_update">There are %1$d people in front of you, wait a moment…</string>
   <string name="michat_return_to_outside">Exit</string>
   <string name="michat_service_unavailiable">"Couldn't get info, try again later"</string>
   <string name="michat_skillset_business_type_title">Select service</string>
@@ -156,7 +156,7 @@
   <string name="michat_try_again">Try again</string>
   <string name="michat_type_list_null">"Couldn't get info, try again later"</string>
   <string name="michat_type_picture">Image</string>
-  <string name="michat_user_quit">您已离开会话</string>
+  <string name="michat_user_quit">You left the chat</string>
   <string name="michat_wait_for_a_moment">Just a sec, help is on the way!</string>
   <string name="michat_webview_title">View details</string>
   <string name="min_error">Your %1$s should be longer.</string>
