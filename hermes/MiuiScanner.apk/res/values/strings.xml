@@ -302,7 +302,7 @@
   <string name="name">Name:</string>
   <string name="namecard_recognize_failed_tip">"Couldn't read the card"</string>
   <string name="namecard_recognizing">Reading…</string>
-  <string name="namecard_title">Align card within frame to scan</string>
+  <string name="namecard_title">Put the card inside the frame</string>
   <string name="namecard_vendor_info">Powered by CamCard</string>
   <string name="nickname">Nickname:</string>
   <string name="no_network">"Can't connect to the network"</string>
@@ -335,6 +335,7 @@
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">Not enough space on the SD the card. Free up some space.</string>
   <string name="study_report_title">Report</string>
+  <string name="study_rotate_picture">Processing the photo</string>
   <string name="study_scan_result">Result</string>
   <string name="study_searching">Searching for result</string>
   <string name="study_title">Take a photo of the problem</string>
@@ -353,13 +354,13 @@
   <string name="translation_language_korean">Korean</string>
   <string name="translation_language_spanish">Spanish</string>
   <string name="translation_prompt_cannot_find">"Couldn't find this word or phrase"</string>
-  <string name="translation_prompt_maintain_level">Align text along this line</string>
+  <string name="translation_prompt_maintain_level">Keep the text parallel to this line</string>
   <string name="translation_prompt_recapture">Photo is too blurry, take another one</string>
   <string name="translation_prompt_sentence">Select text to translate</string>
   <string name="translation_prompt_translating">Translating…</string>
   <string name="translation_prompt_translating_sentence">Translating…</string>
   <string name="translation_prompt_translating_word">Recognizing…</string>
-  <string name="translation_prompt_word">Align word within the frame</string>
+  <string name="translation_prompt_word">Put the word inside the frame</string>
   <string name="translation_see_more">View definition</string>
   <string name="translation_type_sentence">Phrase</string>
   <string name="translation_type_word">Word</string>
