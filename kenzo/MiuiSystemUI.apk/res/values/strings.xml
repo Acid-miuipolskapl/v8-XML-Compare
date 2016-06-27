@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Data three bars.</string>
   <string name="accessibility_data_two_bars">Data two bars.</string>
   <string name="accessibility_home">Home</string>
+  <string name="accessibility_ime_switch_button">Switch input method button.</string>
   <string name="accessibility_managed_profile">Work profile</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>

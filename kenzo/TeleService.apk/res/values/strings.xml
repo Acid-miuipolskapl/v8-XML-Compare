@@ -253,7 +253,7 @@
   <string name="close_dialog">OK</string>
   <string name="close_profile">Close</string>
   <string name="cloud_antispam_title">Identify unknown numbers</string>
-  <string name="cmcc_ut_data_enable_prompt">"Couldn't connect using VoLTE network. Turn on your mobile data connection now."</string>
+  <string name="cmcc_ut_data_enable_prompt">This service requires mobile data connection. Turn it on to continue.</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
   <string name="common_problem_message">Learn more in %1$s, or call our customer service at 400-100-5678</string>
   <string name="common_setting">General settings</string>

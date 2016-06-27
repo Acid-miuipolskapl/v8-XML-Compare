@@ -11,6 +11,7 @@
         <item>com.miui.voip/.service.RemoteMiuiVoipService</item>
         <item>com.miui.systemAdSolution/.splashscreen.SplashScreenService</item>
         <item>com.xiaomi.metok/.MetokClService</item>
+        <item>com.miui.sysbase/.MetokClService</item>
     </string-array>
     <string-array name="restart_persist_service">
         <item>com.miui.powerkeeper</item>
@@ -38,6 +39,7 @@
         <item>com.android.providers.media</item>
         <item>com.xiaomi.xmsf</item>
         <item>com.xiaomi.metok</item>
+        <item>com.miui.sysbase</item>
         <item>com.lbe.security.miui</item>
         <item>com.miui.touchassistant</item>
         <item>com.miui.virtualsim</item>

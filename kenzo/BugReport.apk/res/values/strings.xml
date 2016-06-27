@@ -51,7 +51,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s issue \"%2$s\"</string>
   <string name="feedback_collect_log_failed">"Couldn't get logs"</string>
   <string name="feedback_description">Description</string>
-  <string name="feedback_description_bugreport_hint">In some cases () my phone misbehaves ().</string>
+  <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
   <string name="feedback_description_label">Description</string>
   <string name="feedback_description_suggest_hint">"I'd like you to add a new feature () because I need ()."</string>
   <string name="feedback_detail_tile">Progress</string>
@@ -76,7 +76,7 @@
   <string name="feedback_status_recorded">Received feedback</string>
   <string name="feedback_status_replyed">Replied</string>
   <string name="feedback_status_reresolved">Resolved</string>
-  <string name="feedback_status_supplement">"Describe your issue's details"</string>
+  <string name="feedback_status_supplement">Describe your issue in details</string>
   <string name="feedback_submit_failed_notification_desc">View details</string>
   <string name="feedback_submit_failed_notification_retry">Send again</string>
   <string name="feedback_submit_failed_notification_title">"Couldn't send report"</string>
@@ -176,7 +176,7 @@
   <string name="network_errorbtntip_unknow">Try again</string>
   <string name="network_errortip_custom">Customization error</string>
   <string name="network_errortip_login">Sign in first</string>
-  <string name="network_errortip_noconnection">"Couldn't connect to the network, check network srttings"</string>
+  <string name="network_errortip_noconnection">"Couldn't connect to the network, check network settings"</string>
   <string name="network_errortip_parse">An error occured</string>
   <string name="network_errortip_server">A server error occurred, try again later</string>
   <string name="network_errortip_timeout">Connection timed out, try again later</string>

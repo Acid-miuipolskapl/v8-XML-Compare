@@ -908,7 +908,7 @@ To add a contact to your list of favorites:
   <string name="pref_key_sim_manage1">Set up SIM card 1</string>
   <string name="pref_key_sim_manage2">Set up SIM card 2</string>
   <string name="pref_rcs_backup_restore_title">Backup &amp; recovery settings</string>
-  <string name="pref_rcs_fetion_entry_title">Fetion settongs</string>
+  <string name="pref_rcs_fetion_entry_title">Fetion settings</string>
   <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
   <string name="pref_title_account_import">Import contacts</string>
   <string name="pref_title_import_from_account">Import to Mi Account</string>

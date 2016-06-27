@@ -2222,7 +2222,7 @@ Select your operating system:"</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
-  <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
+  <string name="path_touch_assistant_settings">Settings/Additional settings/Floating ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
@@ -2851,7 +2851,7 @@ To use screen pinning:
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>
   <string name="search_toggle_position">Toggle positions</string>
-  <string name="search_touch_assistant">Touch assistant</string>
+  <string name="search_touch_assistant">Floating ball</string>
   <string name="search_touch_sensitive_title">Glove mode</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Text-to-speech output</string>
