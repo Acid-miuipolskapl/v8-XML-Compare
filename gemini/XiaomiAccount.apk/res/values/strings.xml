@@ -142,8 +142,8 @@
   <string name="micloud_space_info">%s available</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your Default space Mi Account."</string>
-  <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space.To avoid this, don't turn on sync with Mi Cloud"</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
+  <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
   <string name="my_device_title">Current device</string>
   <string name="no_network_btn">Refresh</string>
@@ -240,8 +240,8 @@ To activate your account, follow the
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
-  <string name="passport_miui_provision_find_status_text">"This device is associated with existing Mi Account ID（%1$s）,you need to enter password to verify the device.
-(unlock number: %2$s)"</string>
+  <string name="passport_miui_provision_find_status_text">"This device is associated with an existing Mi Account (%1$s), enter password to verify the device.
+(Unlock number: %2$s)"</string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>

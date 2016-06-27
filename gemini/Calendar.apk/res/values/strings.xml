@@ -228,7 +228,7 @@
   <string name="insert_event_dialog_btn_positive">Yes</string>
   <string name="insert_event_dialog_message">Add this event to calendar?</string>
   <string name="insert_event_dialog_title">Attention</string>
-  <string name="insert_event_toast_add_failed">Add failed</string>
+  <string name="insert_event_toast_add_failed">"Couldn't add"</string>
   <string name="insert_event_toast_add_success">Event created</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date">Jump</string>
@@ -308,7 +308,7 @@
   <string name="preferences_default_reminder_title">Default reminder time</string>
   <string name="preferences_general_title">Calendar view setting</string>
   <string name="preferences_hide_declined_title">Hide declined events</string>
-  <string name="preferences_history_events">Show history events</string>
+  <string name="preferences_history_events">Show historic events</string>
   <string name="preferences_holidays">Show holidays</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Home time zone</string>
@@ -316,7 +316,7 @@
   <string name="preferences_notification_ringtone_title">Sound</string>
   <string name="preferences_reminder_title">Notification &amp; reminders</string>
   <string name="preferences_show_week_num_title">Show week number</string>
-  <string name="preferences_solar_terms">Show solar days</string>
+  <string name="preferences_solar_terms">Show solar terms</string>
   <string name="preferences_title">Calendar</string>
   <string name="preferences_use_home_tz_descrip">Displays calendars and event times in your home time zone when traveling</string>
   <string name="preferences_use_home_tz_title">Use home time zone</string>

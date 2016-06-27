@@ -86,7 +86,7 @@ You can also download them separately."</string>
   <string name="import_contacts_desc">Make imported contacts private</string>
   <string name="import_contacts_suc">Imported private contacts</string>
   <string name="import_file_suc">Items imported to folders</string>
-  <string name="import_now">Export</string>
+  <string name="import_now">Import</string>
   <string name="import_photo">Import photos</string>
   <string name="import_photo_desc">View shared items in Second space</string>
   <string name="import_photo_suc">Imported photos</string>
@@ -123,7 +123,7 @@ You can also download them separately."</string>
   <string name="private_space_setting">Manage</string>
   <string name="public_app">Both spaces</string>
   <string name="removeSuccess">Deleted successfully</string>
-  <string name="remove_second_space_msg">删除手机分身,分身内的所有数据将丢失且无法恢复.确定要删除手机分身吗?</string>
+  <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
   <string name="removingSpace">Deleting…</string>
   <string name="restore_normal_show">"Don't show private messages"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
@@ -181,7 +181,7 @@ You can also download them separately."</string>
   <string name="switching">Moving…</string>
   <string name="switching_apps">Moving apps…</string>
   <string name="switching_contacts">Moving contacts…</string>
-  <string name="switching_files">Movicng files…</string>
+  <string name="switching_files">Moving files…</string>
   <string name="switching_photos">Moving photos…</string>
   <string name="temporary_no_set">Not now</string>
   <string name="title_choose_app_status">Select app type</string>

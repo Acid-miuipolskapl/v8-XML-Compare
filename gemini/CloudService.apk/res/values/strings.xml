@@ -230,11 +230,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_memory_low_message">"To sync, delete some items you've stored in the cloud."</string>
   <string name="micloud_main_memory_low_title">"Phone's internal storage is almost full"</string>
   <string name="micloud_main_message_not_synced">%s data not synced</string>
-  <string name="micloud_main_multi_user_error_message">"You login the same account with the first space and micloud stops. If you want to backup data:
+  <string name="micloud_main_multi_user_error_message">"You signed in with the same account as in First space which caused a Mi Cloud error. If you want to back up files:
 
-1.Use another accout
-2.Transfer data to first space"</string>
-  <string name="micloud_main_multi_user_error_title">MiCloud stops</string>
+1. Use a different account.
+2. Move items to First space."</string>
+  <string name="micloud_main_multi_user_error_title">Mi Cloud error</string>
   <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
   <string name="micloud_main_network_error">"Can't connect to the network"</string>
   <string name="micloud_main_not_sync">%d items waiting to sync</string>
@@ -288,7 +288,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
-  <string name="micloud_notif_content_multi_user_error">You login the same account with original space.</string>
+  <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
   <string name="micloud_notif_content_sync_finish">Account</string>
   <string name="micloud_notif_content_sync_not_finish">Detail</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>

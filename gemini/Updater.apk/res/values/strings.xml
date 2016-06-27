@@ -162,7 +162,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates when connected to WLAN and install at night?</string>
-  <string name="set_auto_update_title">Updates automatically?</string>
+  <string name="set_auto_update_title">Update automatically?</string>
   <string name="set_installfail_full_msg">Something went wrong. Touch OK to report this error.</string>
   <string name="set_installfail_msg">"You aren't connected to a WLAN network. Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="set_installfail_title">Try to download update again?</string>

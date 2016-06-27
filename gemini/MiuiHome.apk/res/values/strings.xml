@@ -214,6 +214,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Empty</string>
   <string name="recommend_apps_notice">Recommended apps</string>
+  <string name="recommend_apps_notice_nodata">Recommended apps (No data)</string>
   <string name="recommend_apps_switch_title">Recommended apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
