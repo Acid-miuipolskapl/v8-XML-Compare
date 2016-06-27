@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">Setuju</string>
+  <string name="app_label">Lokasi Jaringan</string>
+  <string name="disagree">Tidak Setuju</string>
+  <string name="location_warning_do_not_show_again">"Jangan Tampilkan Lagi"</string>
+  <string name="location_warning_message">"Izinkan layanan lokasi AutoNaviuntuk mengumpulkan data lokasi anonim Beberapa data dapat disimpan pada perangkat Anda, dan koleksi dapat terjadi bahkan ketika tidak ada aplikasi yang berjalan. "</string>
+  <string name="location_warning_title">Persetujuan Lokasi</string>
+  <string name="persmission_close">TUTUP</string>
+  <string name="persmission_message">Untuk berfungsi dengan baik, layanan ini membutuhkan izin tambahan. Perkenankan izin ketika ditanya.</string>
+  <string name="persmission_message2">Untuk berfungsi dengan baik, layanan ini kebutuhan untuk mengakses penyimpanan Anda. Perkenankan izin ketika ditanya.</string>
+  <string name="persmission_message3">Untuk berfungsi dengan baik, layanan ini kebutuhan untuk mengakses lokasi Anda. Perkenankan izin ketika ditanya.</string>
+  <string name="persmission_message4">Untuk berfungsi dengan baik, layanan ini kebutuhan untuk mengakses Phone Anda. Perkenankan izin ketika ditanya.</string>
+  <string name="persmission_message5">"Untuk berfungsi dengan baik, layanan ini memerlukan izin tambahan Anda dapat mengelola Perizinan Lokasi Jaringan di Setelan"</string>
+  <string name="persmission_message6">"Untuk berfungsi dengan baik, Services ini perlu mengakses Lokasi Anda Anda dapat mengelola Perizinan Lokasi Jaringan di Setelan. "</string>
+  <string name="persmission_message7">"Untuk berfungsi dengan baik, Services ini perlu mengakses Phone Anda Anda dapat mengelola Perizinan Lokasi Jaringan di Setelan."</string>
+  <string name="persmission_message8">"Untuk berfungsi dengan baik, layanan ini perlu mengakses penyimpanan Anda Anda dapat mengelola Perizinan Lokasi Jaringan di Setelan."</string>
+  <string name="persmission_notification_text">Ketuk untuk memungkinkan</string>
+  <string name="persmission_notification_title">Lokasi Jaringan memerlukan izin</string>
+  <string name="persmission_ok">OK</string>
+  <string name="persmission_settings">PENGATURAN</string>
+</resources>

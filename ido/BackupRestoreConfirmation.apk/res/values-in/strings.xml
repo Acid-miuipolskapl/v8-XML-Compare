@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="allow_backup_button_label">Cadangkan data saya</string>
+  <string name="allow_restore_button_label">Pulihkan data saya</string>
+  <string name="backup_confirm_text">"Pencadangan menyeluruh dari semua data ke komputer desktop yang terhubung telah diminta. Apakah Anda ingin membiarkan hal ini terjadi?
+
+Jika Anda tidak meminta pencadangan sendiri, jangan izinkan operasi untuk dilanjutkan "</string>
+  <string name="backup_confirm_title">Pencadangan menyeluruh</string>
+  <string name="backup_enc_password_optional">Jika Anda ingin mengenkripsi data cadangan menyeluruh, masukkan password di bawah ini:.</string>
+  <string name="backup_enc_password_required">Karena perangkat dienkripsi, Anda diminta untuk mengenkripsi cadangan Anda masukkan password di bawah ini:.</string>
+  <string name="backup_enc_password_text">Masukkan password yang akan digunakan untuk mengenkripsi data pencadangan menyeluruh. Jika ini dibiarkan kosong, sandi cadangan Anda saat ini akan digunakan:</string>
+  <string name="current_password_text">Masukkan sandi cadangan Anda saat ini di bawah:</string>
+  <string name="deny_backup_button_label">Jangan cadangkan</string>
+  <string name="deny_restore_button_label">Jangan pulihkan</string>
+  <string name="device_encryption_backup_text">Masukkan perangkat enkripsi password Anda di bawah ini. Ini juga akan digunakan untuk mengenkripsi arsip cadangan.</string>
+  <string name="device_encryption_restore_text">Masukkan sandi enkripsi perangkat Anda di bawah ini.</string>
+  <string name="restore_confirm_text">"Memulihkan secara menyeluruhsemua data dari komputer desktop yang terhubung telah diminta. 
+Apakah Anda ingin membiarkan hal ini terjadi?
+
+Jika Anda tidak meminta pemulihan sendiri, jangan izinkan operasi untuk melanjutkan. Ini akan menggantikan data yang ada di perangkat tersebut! "</string>
+  <string name="restore_confirm_title">Pemulihan menyeluruh</string>
+  <string name="restore_enc_password_text">Jika memulihkan data dienkripsi, masukkan password di bawah ini:</string>
+  <string name="toast_backup_ended">Pencadangan selesai</string>
+  <string name="toast_backup_started">Pencadangan mulai...</string>
+  <string name="toast_restore_ended">Pemulihan berakhir</string>
+  <string name="toast_restore_started">Pemulihan mulai...</string>
+  <string name="toast_timeout">Operasi waktu habis</string>
+</resources>
