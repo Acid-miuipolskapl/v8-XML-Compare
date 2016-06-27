@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="btn_cancel_msg">Singkirkan</string>
+  <string name="btn_ok_msg">Tunda</string>
+  <string name="msg_battery_low_temperature">Peringatan! temperatur baterai Anda terlalu rendah!</string>
+  <string name="msg_battery_over_temperature">Baterai Anda atas suhu, silakan keluarkan baterai!</string>
+  <string name="msg_battery_over_temperature_nochange">Peringatan! baterai Anda kelebihan suhu!</string>
+  <string name="msg_battery_over_voltage">Peringatan! baterai Anda kelebihan tegangan!</string>
+  <string name="msg_charger_over_voltage">Charger Anda adalah lebih dari tegangan, silakan lepaskan pengisi!</string>
+  <string name="msg_over_current_protection">Baterai Anda melebihi arus-aman, silakan keluarkan baterai!</string>
+  <string name="msg_safety_timer_timeout">Mengisi waktu terlalu panjang, silakan lepaskan pengisi!</string>
+  <string name="schpwr_shutdown_message1">Perangkat Anda akan shutdown di %s detik</string>
+  <string name="schpwr_shutdown_message_lower_temperature">Suhu baterai terlalu rendah, perangkat Anda akan ditutup pada %s detik</string>
+  <string name="schpwr_shutdown_message_over_temperature">Suhu baterai lebih, perangkat Anda akan ditutup pada %s detik</string>
+  <string name="title_battery_low_temperature">Suhu Baterai Rendah</string>
+  <string name="title_battery_over_temperature">Baterai kelebihan suhu</string>
+  <string name="title_battery_over_voltage">Baterai kelebihan tegangan</string>
+  <string name="title_charger_over_voltage">lebih Charger Voltage</string>
+  <string name="title_over_current_protection">lebih Perlindungan sekarang</string>
+  <string name="title_safety_timer_timeout">kelamaan ngecas</string>
+</resources>
