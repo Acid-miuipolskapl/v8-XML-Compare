@@ -3,7 +3,7 @@
 
 
 
-#MIUI 8 Daily XML changes by xiaomi.eu / miui.com
+#XML Bahasa Indonesia dari xiaomi.eu / miui.com
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
@@ -21,3 +21,4 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 #####Credits:
 - ingbrzy
 - Acid
+- elmunibo
