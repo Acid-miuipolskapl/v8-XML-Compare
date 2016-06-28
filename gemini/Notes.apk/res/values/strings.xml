@@ -110,13 +110,13 @@ Tap the plus to create a folder"</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
   <string name="sns_footer_text">Created with Mi Notes</string>
-  <string name="sns_hint_content">"What's on your mind?"</string>
+  <string name="sns_hint_content">Enter message</string>
   <string name="sns_hint_title">Subject (optional)</string>
   <string name="sns_message_disconnect">"Can't connect to the network. Check your connection and try again."</string>
   <string name="sns_title_edit">Edit title</string>
   <string name="sns_title_send">Send message</string>
-  <string name="sns_toast_empty">"Can't send empty post"</string>
-  <string name="sns_toast_over_limit">Sent as image (over text limit)</string>
+  <string name="sns_toast_empty">"Can't send empty message"</string>
+  <string name="sns_toast_over_limit">Sent as image</string>
   <string name="sync_tips">Tap to sync notes with Mi Cloud.</string>
   <string name="theme_title_antique">Autumn</string>
   <string name="theme_title_arty">Floral</string>
