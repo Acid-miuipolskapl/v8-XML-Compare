@@ -2463,7 +2463,7 @@ Select your operating system:"</string>
   <string name="path_xiaomi_account">Settings/Mi Account</string>
   <string name="path_xiaomi_cloud_service">Apps</string>
   <string name="path_xiaomi_money_service">Apps</string>
-  <string name="path_xspace">Settings/Cloned apps</string>
+  <string name="path_xspace">Settings/Dual apps</string>
   <string name="path_zen_mode_option_miui_silent">Settings/Sound &amp; vibration/Silent mode</string>
   <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
@@ -3109,7 +3109,7 @@ To use screen pinning:
   <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate</string>
   <string name="search_wps_connect_title">WPS push button</string>
   <string name="search_xiaomi_account">Mi Account</string>
-  <string name="search_xspace">Cloned apps</string>
+  <string name="search_xspace">Dual apps</string>
   <string name="search_zen_mode_option_miui_silent">Silent mode</string>
   <string name="second_space">Second space</string>
   <string name="secure_keyguard_business_title">Set screen lock</string>
@@ -3742,9 +3742,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
   <string name="uninstall_text">Uninstall</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding cloned apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Uninstalling cloned app will remove all app data.</string>
-  <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
+  <string name="uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
   <string name="unknown">Unknown</string>
   <string name="unknown_app">Unknown app</string>
   <string name="unlock_change_lock_password_title">Change unlock password</string>
@@ -4525,7 +4525,7 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router available</string>
   <string name="xiaomi_router_notif_summary">Notify me when a Mi Router is available</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
-  <string name="xspace">Cloned apps</string>
+  <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>

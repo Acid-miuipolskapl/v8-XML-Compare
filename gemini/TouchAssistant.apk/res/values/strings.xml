@@ -12,6 +12,7 @@
   <string name="function_settings">Shortcut settings</string>
   <string name="hide_touch_assistant">Hide automatically</string>
   <string name="hide_touch_assistant_intro">Hide Floating ball in selected apps.</string>
+  <string name="motion_behavior">Motion mode</string>
   <string name="name_alipay_payment_code">Alipay payment</string>
   <string name="name_alipay_scan">Alipay scanner</string>
   <string name="name_long_press_power_key">Long press power button</string>

@@ -166,6 +166,7 @@
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
   <string name="fake_cell_checking_hint">Checking safety…</string>
+  <string name="fake_cell_detection_entry">Fake base station detection</string>
   <string name="fake_cell_safe_hint">This message is safe</string>
   <string name="fake_cell_timeout_hint">"Couldn't check safety"</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>

@@ -54,6 +54,9 @@
   <string name="continue_update_negative_btn">Continue</string>
   <string name="continue_update_positive_btn">Stop</string>
   <string name="daily_build">Nightly</string>
+  <string name="dialog_reboot_message">"MIUI is about to update. This process may take 5-20 minutes. Keep your device powered on, and don't reboot it while it's updating."</string>
+  <string name="dialog_reboot_title">System update</string>
+  <string name="dialog_reboot_yes">Update</string>
   <string name="download_again">Try again</string>
   <string name="download_cancel">Cancel</string>
   <string name="download_current_rom">Reboot to apply update</string>
