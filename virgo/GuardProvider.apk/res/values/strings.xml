@@ -21,7 +21,7 @@
   <string name="avast_virus_type_exploit_description">The virus is an exploit. It takes advantage of a bug or vulnerability in system in order to cause unintended or unanticipated behavior.</string>
   <string name="avast_virus_type_heuristic_description">The infection is inferred by using a specific heuristic. A specific heuristic analysis says that it is a virus.</string>
   <string name="avast_virus_type_joke_description">The virus is a joke. It creates some annoying or humorous effect as a joke. It normally has less damage on the system.</string>
-  <string name="avast_virus_type_pup_description">The virus is a potentially unwanted program (PUP). It is a program that may be unwanted (like spyware, adware, etc), despite the possibility that users give consen to download it.</string>
+  <string name="avast_virus_type_pup_description">"The virus is a potentially unwanted program (PUP). It's a program that may be harmful (spyware, adware, etc.), despite the fact that users give consent to download it."</string>
   <string name="avast_virus_type_rootkit_description">The virus is a rootkit. It is a type of software designed to hide the fact that an operating system has been compromised. It is used to gain control over the device by hiding deep inside the system. Rootkits allow viruses and malware to “hide in plain sight” by disguising as necessary files that normal antivirus software will overlook.</string>
   <string name="avast_virus_type_spyware_description">"The virus is a spyware. It a software that covertly gathers user information through the user' Internet connection without his or her knowledge."</string>
   <string name="avast_virus_type_suspicious_description">A common suspicious type. The antivirus system is trying to classify it.</string>

@@ -12,6 +12,7 @@
   <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
   <string name="backup_now">Back up now</string>
   <string name="backup_size">Size: %s</string>
+  <string name="backup_size_summary">Size: %1$s</string>
   <string name="backup_success">Backed up successfully</string>
   <string name="backup_successfully">Backed up successfully</string>
   <string name="backup_to_cloud">Back up app</string>

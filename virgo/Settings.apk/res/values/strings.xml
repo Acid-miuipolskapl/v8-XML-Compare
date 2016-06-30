@@ -215,7 +215,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
-  <string name="app_invisible">App Invisible</string>
+  <string name="app_invisible">Invisible apps</string>
   <string name="app_launch_domain_links_title">App links</string>
   <string name="app_launch_open_domain_urls_summary">Open without asking</string>
   <string name="app_launch_open_domain_urls_title">Open supported links</string>
@@ -1781,7 +1781,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Click to change</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
   <string name="lock_settings">Lock screen &amp; password</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_fingerprint_message">Choose your backup screen lock method</string>
@@ -2426,7 +2426,7 @@ Select your operating system:"</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
-  <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
+  <string name="path_touch_assistant_settings">Settings/Additional settings/Floating ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
@@ -2463,7 +2463,7 @@ Select your operating system:"</string>
   <string name="path_xiaomi_account">Settings/Mi Account</string>
   <string name="path_xiaomi_cloud_service">Apps</string>
   <string name="path_xiaomi_money_service">Apps</string>
-  <string name="path_xspace">Settings/Cloned apps</string>
+  <string name="path_xspace">Settings/Dual apps</string>
   <string name="path_zen_mode_option_miui_silent">Settings/Sound &amp; vibration/Silent mode</string>
   <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
@@ -2509,7 +2509,7 @@ Select your operating system:"</string>
   <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
   <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
-  <string name="power_checker">Power Checker</string>
+  <string name="power_checker">Power checker</string>
   <string name="power_discharge_remaining">%1$s remaining</string>
   <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
   <string name="power_flashlight">Flashlight</string>
@@ -3073,7 +3073,7 @@ To use screen pinning:
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>
   <string name="search_toggle_position">Toggle positions</string>
-  <string name="search_touch_assistant">Touch assistant</string>
+  <string name="search_touch_assistant">Floating ball</string>
   <string name="search_touch_sensitive_title">Glove mode</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Text-to-speech output</string>
@@ -3109,7 +3109,7 @@ To use screen pinning:
   <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate</string>
   <string name="search_wps_connect_title">WPS push button</string>
   <string name="search_xiaomi_account">Mi Account</string>
-  <string name="search_xspace">Cloned apps</string>
+  <string name="search_xspace">Dual apps</string>
   <string name="search_zen_mode_option_miui_silent">Silent mode</string>
   <string name="second_space">Second space</string>
   <string name="secure_keyguard_business_title">Set screen lock</string>
@@ -3664,7 +3664,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="total_memory">Total memory</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Shortcut menu</string>
+  <string name="touch_assistant">Floating ball</string>
   <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
@@ -3742,9 +3742,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
   <string name="uninstall_text">Uninstall</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding cloned apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Uninstalling cloned app will remove all app data.</string>
-  <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
+  <string name="uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
   <string name="unknown">Unknown</string>
   <string name="unknown_app">Unknown app</string>
   <string name="unlock_change_lock_password_title">Change unlock password</string>
@@ -4525,7 +4525,7 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router available</string>
   <string name="xiaomi_router_notif_summary">Notify me when a Mi Router is available</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
-  <string name="xspace">Cloned apps</string>
+  <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>

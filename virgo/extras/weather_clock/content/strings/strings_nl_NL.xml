@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">E d/MM</string>
+    <string name="date_time">E, d MMMM</string>
     <string name="language">nl</string>
     <string name="desc_date_format">EEEE d MMMM</string>
-	<string name="desc_time">'huidige tijd\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', dubbel tikken om klok te openen'</string>
+	<string name="desc_time">'huidige tijd\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', dubbeltikken om klok te openen'</string>
     <string name="weather_type_0">Helder</string>
     <string name="weather_type_1">Bewolkt</string>
     <string name="weather_type_2">Nevelig</string>
