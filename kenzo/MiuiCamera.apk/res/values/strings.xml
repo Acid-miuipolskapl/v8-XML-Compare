@@ -41,11 +41,12 @@
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="dialog_ok">OK</string>
-  <string name="dual_camera_lens_covered_toast">Lens covered.</string>
-  <string name="dual_camera_low_constract_toast">Low contract may affect Dual camera effects.</string>
-  <string name="dual_camera_lowlight_toast">Lowlight may affect Dual camera effects.</string>
-  <string name="dual_camera_too_close_toast">Too close to object for Dual camera effects.</string>
-  <string name="dual_camera_use_hint">Dual mode camera can shoot blur effect, the distance between camera and the subject should be less than two meters</string>
+  <string name="dual_camera_lens_covered_toast">The lens is covered.</string>
+  <string name="dual_camera_low_constract_toast">Looks like the contrast is too low.</string>
+  <string name="dual_camera_lowlight_toast">"Looks like it's too dark."</string>
+  <string name="dual_camera_too_close_toast">The camera is too close to the object.</string>
+  <string name="dual_camera_use_hint">"Stereo mode helps you blur the background.
+The object shouldn't be further than 2 meters."</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">"Couldn't start audio capture"</string>
   <string name="face_analyze_info">Age: %2$s (%1$s)</string>
@@ -429,11 +430,11 @@
   <string name="pref_simple_hdr_default">off</string>
   <string name="pref_simple_hdr_entry_off">Off</string>
   <string name="pref_simple_hdr_entry_on">On</string>
-  <string name="pref_skin_beautify_color_title">Color</string>
+  <string name="pref_skin_beautify_color_title">Tone</string>
   <string name="pref_skin_beautify_eye_title">Eyes</string>
-  <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
+  <string name="pref_skin_beautify_intelligent_title">Smart</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
-  <string name="pref_skin_beautify_smooth_title">Smooth</string>
+  <string name="pref_skin_beautify_smooth_title">Skin</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
@@ -481,7 +482,6 @@
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
   <string name="see_qrcode_detals">View QR details</string>
-  <string name="setting_top_text">Camera modes</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Turn off HDR capture</string>
   <string name="simple_mode_button_text_audio_capture">Turn off voice trigger</string>
@@ -498,7 +498,7 @@
   <string name="simple_mode_button_text_scene">Turn off Scene mode</string>
   <string name="simple_mode_button_text_slow_video">Turn off time-lapse</string>
   <string name="simple_mode_button_text_square">Turn off Square</string>
-  <string name="simple_mode_button_text_stereo_mode">Turn off Stereo Mode</string>
+  <string name="simple_mode_button_text_stereo_mode">Turn off Stereo</string>
   <string name="simple_mode_button_text_tilt_shift">Turn off Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
   <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>

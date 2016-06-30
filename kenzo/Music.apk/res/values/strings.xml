@@ -757,6 +757,7 @@
   <string name="warning_tip_title">Data usage warning</string>
   <string name="welcome_to_new_music">Welcome to the new version of Mi Music</string>
   <string name="wifi_required_body" formatted="false">"You should use WLAN to complete this %s download. 
-ap %s to start this download the next time you're connected to a WLAN network."</string>
+
+Tap %s to start this download the next time you're connected to a WLAN network."</string>
   <string name="wifi_required_title">You should connect to WLAN to download this file</string>
 </resources>

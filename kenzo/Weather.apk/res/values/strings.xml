@@ -87,7 +87,7 @@
   <string name="indices_title">Recommended activities</string>
   <string name="indices_title_Precip1hr">Precip 1hr</string>
   <string name="indices_title_car_wash">Wash car</string>
-  <string name="indices_title_feel">Feels like</string>
+  <string name="indices_title_feel">Real feel</string>
   <string name="indices_title_humidity">Humidity</string>
   <string name="indices_title_pressure">Pressure</string>
   <string name="indices_title_restriction">Road space</string>
@@ -102,7 +102,7 @@
   <string name="install">Install</string>
   <string name="international_detail_menu_title">Details</string>
   <string name="international_details_pressure_title">PRESSURE</string>
-  <string name="international_details_real_feel_title">FEELS LIKE</string>
+  <string name="international_details_real_feel_title">REAL FEEL®</string>
   <string name="international_details_title">Details</string>
   <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>

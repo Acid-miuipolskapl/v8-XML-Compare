@@ -62,7 +62,8 @@
   <string name="feedback_phone_model_label">Phone model</string>
   <string name="feedback_probability_label">Probability</string>
   <string name="feedback_remind_login_btn">Sign in</string>
-  <string name="feedback_report_remind_login_desc">"Sign in with your Mi Account so that our engineers could contact you. You can also view your report's progress in \"My reports\"."</string>
+  <string name="feedback_report_remind_login_desc">Sign in with your Mi Account so that our engineers could contact you.</string>
+  <string name="feedback_report_remind_login_desc2">"You can also view your report's progress in \"My reports\"."</string>
   <string name="feedback_retest_label">Steps to reproduce</string>
   <string name="feedback_select_images">Add images</string>
   <string name="feedback_select_upload_log">Add logs</string>
@@ -101,6 +102,7 @@
   <string name="message_label">Message</string>
   <string name="michat_app_name">Online support</string>
   <string name="michat_artifical_customer_phone">4001005678</string>
+  <string name="michat_artifical_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
   <string name="michat_artifical_customer_text">Support personnel</string>
   <string name="michat_attach_image">Image</string>
   <string name="michat_attach_smiley">Emoticon</string>
@@ -111,7 +113,7 @@
   <string name="michat_close_text">Chat ended</string>
   <string name="michat_comment_net_error">"Couldn't connect to the network, try again later"</string>
   <string name="michat_comment_submit">Rate and go back</string>
-  <string name="michat_comment_thx">Thank you for your freedback!</string>
+  <string name="michat_comment_thx">Thank you for your feedback!</string>
   <string name="michat_customer_join">Join chat</string>
   <string name="michat_customer_quit">Support personnel left the chat</string>
   <string name="michat_customer_text">Customer support</string>
@@ -187,7 +189,7 @@
   <string name="non_system_app_select">Downloaded apps</string>
   <string name="nothing">--</string>
   <string name="packaging_dialog_content">Creating report…</string>
-  <string name="pic_not_exist">"This imsge doesn't exist"</string>
+  <string name="pic_not_exist">"This image doesn't exist"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
   <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>

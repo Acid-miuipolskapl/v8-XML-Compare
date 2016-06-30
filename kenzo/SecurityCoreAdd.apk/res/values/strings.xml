@@ -44,7 +44,7 @@ to be able to view them anytime"</string>
   <string name="create_space_loading">Creating Second space…</string>
   <string name="creating_app_icon">Creating icon…</string>
   <string name="dataSafe">Using Second space is like having two devices.</string>
-  <string name="declare_dialog_title">About cloned apps</string>
+  <string name="declare_dialog_title">About dual apps</string>
   <string name="deleteAll">Delete all</string>
   <string name="deleteDataConfirm">All items will be deleted</string>
   <string name="deleteDataDes">"You didn't select items to move. You won't be able to restore items after they are deleted."</string>
@@ -199,15 +199,15 @@ You can also download them separately."</string>
   <string name="wating">Just a sec…</string>
   <string name="xspace_chocie">Other apps</string>
   <string name="xspace_creating">Cloning app…</string>
-  <string name="xspace_description">Clone apps to use them separately. Cloned apps will have specific Home screen icons.</string>
-  <string name="xspace_header">Cloned apps</string>
+  <string name="xspace_description">Create dual apps to use them separately. Dual apps will have specific Home screen icons.</string>
+  <string name="xspace_header">Dual apps</string>
   <string name="xspace_install_completed">Icon added to Home screen</string>
   <string name="xspace_installing">Installing…</string>
   <string name="xspace_introduce">Recommended</string>
-  <string name="xspace_label">Cloned apps</string>
+  <string name="xspace_label">Dual apps</string>
   <string name="xspace_loading_msg">Loading apps…</string>
-  <string name="xspace_uninstall_completed">Cloned app uninstalled successfully</string>
-  <string name="xspace_uninstall_dialog_content">Uninstalling cloned app will remove all app data.</string>
-  <string name="xspace_uninstall_dialog_title">Uninstall cloned app</string>
+  <string name="xspace_uninstall_completed">Dual app uninstalled successfully</string>
+  <string name="xspace_uninstall_dialog_content">Uninstalling dual app will remove all app data.</string>
+  <string name="xspace_uninstall_dialog_title">Uninstall dual app</string>
   <string name="xspace_uninstalling">Uninstalling…</string>
 </resources>
