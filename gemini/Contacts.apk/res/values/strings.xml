@@ -415,7 +415,7 @@ Contact cards are turned off"</string>
   <string name="expandCloseViewDescription">Collapse</string>
   <string name="expandOpenViewDescription">Expand</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining%4$s</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining %4$s</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>

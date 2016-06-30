@@ -803,10 +803,10 @@ Take more photos of your friends!"</string>
   <string name="login_and_enable_service">Sign in with Mi Account</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Press &amp; hold to refocus</string>
-  <string name="main_discard_confirm_message">Effects are not saved, Exit?</string>
+  <string name="main_discard_confirm_message">You have unsaved changes</string>
   <string name="main_discard_negative_btn">Discard</string>
-  <string name="main_discard_positive_btn">Save&amp;Exit</string>
-  <string name="main_save_error_msg">Error occurred when saving effects</string>
+  <string name="main_discard_positive_btn">Save &amp; Exit</string>
+  <string name="main_save_error_msg">"Couldn't save changes due to an error"</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">New album</string>
   <string name="menu_item_sort_date">Date</string>
@@ -898,7 +898,7 @@ Take more photos of your friends!"</string>
   <string name="phone_number_empty_alert">Add phone number</string>
   <string name="photo">Photos</string>
   <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
-  <string name="photo_editor_saving">Saving</string>
+  <string name="photo_editor_saving">Saving…</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Gallery"</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Gallery</string>
   <string name="photo_save_succeed">Saved successfully</string>
@@ -1035,7 +1035,7 @@ Take more photos of your friends!"</string>
   <string name="straighten">Adjust</string>
   <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Drag photo to straighten</string>
-  <string name="sub_discard_confirm_message">Save current operation?</string>
+  <string name="sub_discard_confirm_message">Save changes?</string>
   <string name="sub_discard_negative_btn">Discard</string>
   <string name="sub_discard_positive_btn">Save</string>
   <string name="success_create_quick_icon_on_desk">Created successfully</string>
