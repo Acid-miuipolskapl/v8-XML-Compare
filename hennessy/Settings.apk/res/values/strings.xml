@@ -619,10 +619,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="button_disconnect_network">Disconnect from network</string>
   <string name="button_light_timeout">Keep button lights on</string>
   <string name="button_text_accept">Accept</string>
-  <string name="button_text_accept_timer">Accept(%d)</string>
+  <string name="button_text_accept_timer">Accept (%d)</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_next_step">Next</string>
-  <string name="button_text_next_step_timer">Next step(%d)</string>
+  <string name="button_text_next_step_timer">Next (%d)</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="button_text_reject">Reject</string>
   <string name="cache_header_label">Cache</string>
@@ -634,7 +634,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="call_manager_enable_title">Enable Call Manager</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Call Manager</string>
-  <string name="call_settings_primary_user_only">Please change call settings in default space</string>
+  <string name="call_settings_primary_user_only">Change call settings in First space</string>
   <string name="call_settings_summary">Set up voicemail, call forwarding, call waiting, caller ID</string>
   <string name="call_settings_title">Call settings</string>
   <string name="calls_title">Calls</string>
@@ -1677,7 +1677,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
-  <string name="lockpattern_pattern_same_with_owner">Should be different from Default space password</string>
+  <string name="lockpattern_pattern_same_with_owner">Should be different from First space password</string>
   <string name="lockpattern_pattern_same_with_security_space">Should be different from Second space password</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again.</string>
   <string name="lockpattern_recording_inprogress">Release finger when done</string>
@@ -2222,7 +2222,7 @@ Select your operating system:"</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
-  <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
+  <string name="path_touch_assistant_settings">Settings/Additional settings/Floating ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
@@ -2568,7 +2568,7 @@ Select your operating system:"</string>
   <string name="restriction_settings_title">Restrictions</string>
   <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
   <string name="restriction_wifi_config_title">WLAN and Mobile</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Try again</string>
   <string name="ring_volume_option_title">Ring volume</string>
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_mute">None</string>
@@ -2849,7 +2849,7 @@ To use screen pinning:
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>
   <string name="search_toggle_position">Toggle positions</string>
-  <string name="search_touch_assistant">Touch assistant</string>
+  <string name="search_touch_assistant">Floating ball</string>
   <string name="search_touch_sensitive_title">Glove mode</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Text-to-speech output</string>
@@ -2887,7 +2887,7 @@ To use screen pinning:
   <string name="search_xiaomi_account">Mi Account</string>
   <string name="search_xspace">XSpace</string>
   <string name="search_zen_mode_option_miui_silent">Silent mode</string>
-  <string name="second_space">Second Space</string>
+  <string name="second_space">Second space</string>
   <string name="secure_keyguard_business_title">&gt;Set screen lock</string>
   <string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
@@ -3256,7 +3256,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
-  <string name="tethering_settings_not_available">Please change tethering settings in default space</string>
+  <string name="tethering_settings_not_available">Change tethering settings in First space</string>
   <string name="theme_settings_title">Themes</string>
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
@@ -3276,7 +3276,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="toast_need_login">Sign in to your Mi Account</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Shortcut menu</string>
+  <string name="touch_assistant">Floating ball</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
@@ -3367,9 +3367,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
   <string name="uninstall_text">Uninstall</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding cloned apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Uninstalling cloned app will remove all app data.</string>
-  <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
+  <string name="uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
   <string name="unknown">Unknown</string>
   <string name="unlock_backup_info_summary">"When Face Unlock can't see you, how do you want to unlock?"</string>
   <string name="unlock_change_lock_password_title">Change unlock password</string>
@@ -3948,9 +3948,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_back">Back</string>
   <string name="wifi_setup_cancel">Cancel</string>
   <string name="wifi_setup_connect">Connect</string>
-  <string name="wifi_setup_description_connected">Touch &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
+  <string name="wifi_setup_description_connected">Tap &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
 
-Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
+Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">"You can't configure an EAP WLAN connection during setup. After setup, you can go to Settings &gt; Wireless &amp; networks."</string>
@@ -4108,7 +4108,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router available</string>
   <string name="xiaomi_router_notif_summary">Notify me when a Mi Router is available</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
-  <string name="xspace">Cloned apps</string>
+  <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
   <string name="yes_all_caps">YES</string>
   <string name="zen_mode_alarm_info">Alarms are always priority interruptions</string>

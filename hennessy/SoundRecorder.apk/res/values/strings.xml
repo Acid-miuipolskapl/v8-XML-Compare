@@ -63,9 +63,9 @@
   <string name="recognition_error_cancel">Canceled</string>
   <string name="recognition_error_download_cancel">Later</string>
   <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
-  <string name="recognition_error_download_msg">Ddownload recognition engine to make this service available.</string>
+  <string name="recognition_error_download_msg">Download recognition engine to make this service available.</string>
   <string name="recognition_error_download_ok">Download</string>
-  <string name="recognition_error_download_title">Engine missed</string>
+  <string name="recognition_error_download_title">No recognition engine</string>
   <string name="recognition_error_downloading">Downloading</string>
   <string name="recognition_error_engine">Recognition engine error</string>
   <string name="recognition_error_engine_singleton">Recognition engine is busy</string>
@@ -102,6 +102,7 @@
   <string name="rename_duplicate">Another recording with the same name already exists.</string>
   <string name="rename_no_more_tip">"Don't show again"</string>
   <string name="retry">Retry</string>
+  <string name="runtime_permission_ungranted">Cannot use SoundRecorder because of ungranted permissions</string>
   <string name="search_app">Recorder</string>
   <string name="search_enable_earpiece_title">Use receiver to play audio</string>
   <string name="search_led_indicator">Lock screen notifications</string>

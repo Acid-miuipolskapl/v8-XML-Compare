@@ -162,7 +162,7 @@
         <item quantity="one">%s app is protected</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s apps are not protected</item>
-        <item quantity="one">%s app is not protected</item>
+        <item quantity="other">"%s apps aren't protected"</item>
+        <item quantity="one">"%s app isn't protected"</item>
     </plurals>
 </resources>

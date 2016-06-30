@@ -234,7 +234,7 @@
   <string name="close_dialog">OK</string>
   <string name="close_profile">Close</string>
   <string name="cloud_antispam_title">Identify unknown numbers</string>
-  <string name="cmcc_ut_data_enable_prompt">"Couldn't connect using VoLTE network. Turn on your mobile data connection now."</string>
+  <string name="cmcc_ut_data_enable_prompt">This service requires mobile data connection. Turn it on to continue.</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
   <string name="common_problem_message">Learn more in %1$s, or call our customer service at 400-100-5678</string>
   <string name="common_setting">General settings</string>
@@ -491,8 +491,6 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
   <string name="incall_error_supp_service_unknown">Unsupported service.</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
-  <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
-  <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
   <string name="international_calls">Only international</string>
   <string name="international_dial_complete_intention">Make international calls at lower rates</string>
   <string name="international_dial_complete_no">Not now</string>
@@ -860,7 +858,6 @@ Try again or call customer service for more options."</string>
   <string name="path_fdn">System apps/Phone/Advanced setting/Fixed Dialing Numbers</string>
   <string name="path_flash_when_ring_title">System apps/Phone/Incoming call settings/ Flash when ringing</string>
   <string name="path_handon_ringer_title">System apps/Phone/Incoming call settings/ Quiet ringer when lifted</string>
-  <string name="path_incoming_video_show_pref_title">"System apps/Phone/Advanced setting/ Show caller's profile video"</string>
   <string name="path_missed_call_notify_times_title">System apps/Phone/Advanced setting/ Missed call reminders</string>
   <string name="path_preference_dial_pad_touch_tone_title">System apps/Phone/Advanced setting/ Dial pad touch tones</string>
   <string name="path_preference_telocation_title">System apps/Phone/Location</string>
@@ -1069,7 +1066,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_fdn">@string/fdn</string>
   <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
   <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
-  <string name="search_incoming_video_show_pref_title">@string/incoming_video_show_pref_title</string>
   <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
   <string name="search_networks">Search networks</string>
   <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
