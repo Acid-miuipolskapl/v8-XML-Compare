@@ -19,8 +19,8 @@
   <string name="add_slide_hint">Touch to create new slide</string>
   <string name="add_smiley">Emoticon</string>
   <string name="add_timing">Timed</string>
-  <string name="add_to_browser_favorite_failed">failed</string>
-  <string name="add_to_browser_favorite_success">sucess</string>
+  <string name="add_to_browser_favorite_failed">"Couldn't add"</string>
+  <string name="add_to_browser_favorite_success">Added successfully</string>
   <string name="add_video">Add video</string>
   <string name="adding_attachments">Wait while the items are added to the slideshow.</string>
   <string name="adding_attachments_title">Adding attachments</string>
@@ -165,9 +165,10 @@
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
-  <string name="fake_cell_checking_hint">Safety checking…</string>
+  <string name="fake_cell_checking_hint">Checking safety…</string>
+  <string name="fake_cell_detection_entry">Fake base station detection</string>
   <string name="fake_cell_safe_hint">This message is safe</string>
-  <string name="fake_cell_timeout_hint">Failed to check safety</string>
+  <string name="fake_cell_timeout_hint">"Couldn't check safety"</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
@@ -492,10 +493,8 @@
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
   <string name="search_title_mms">Messaging</string>
-  <string name="second_mms">second message</string>
-  <string name="second_mms_introduction">please go to second space</string>
-  <string name="second_mms_notice">only display second message</string>
-  <string name="second_mms_switch">switch user</string>
+  <string name="second_mms_introduction">Go to Second space</string>
+  <string name="second_mms_switch">Switch</string>
   <string name="secs">secs</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
  "&lt;/font&gt;</string>
@@ -547,7 +546,7 @@
   <string name="slide_number">Slide %s</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slideshow_activity">Slideshow</string>
-  <string name="sms_card_partner_label">"Sms card partner: "</string>
+  <string name="sms_card_partner_label">"SMS card partner: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Content:</string>
   <string name="sms_full_body">"Incoming message rejected: There's not enough space on this device."</string>
@@ -558,7 +557,7 @@
   <string name="sms_report_success">Report sent</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
-  <string name="snippet_red_package">[Red Package]</string>
+  <string name="snippet_red_package">[Red Packet]</string>
   <string name="sp_category_all">All service messages</string>
   <string name="sp_category_bank">Bank notification messages</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -598,9 +597,9 @@
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
-  <string name="title_recv_red_package">Get Red Package</string>
-  <string name="title_red_package">Getting rich and good luck</string>
-  <string name="title_send_red_package">Check Red Package</string>
+  <string name="title_recv_red_package">Receive Red Packet</string>
+  <string name="title_red_package">Have a prosperous year!</string>
+  <string name="title_send_red_package">Send Red Packet</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
@@ -630,15 +629,15 @@ Attempt made: %s."</string>
   <string name="unstick_conversation">Unpin current conversation</string>
   <string name="unsticked_conversation">Conversation is already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
-  <string name="url_fraud_dangerous_alert">"The website you are trying to visit is a fraud link, can be harmful to your device and your property, are you sure to move on? 
+  <string name="url_fraud_dangerous_alert">"The website you are trying to visit may be dangerous. It could possibly damage your device and data. Visit anyway?
 %s"</string>
   <string name="url_fraud_insurance">Fraud insurance</string>
-  <string name="url_fraud_risky_alert">"The website you are trying to visit may be a fraud link, are you sure to move on? 
+  <string name="url_fraud_risky_alert">"The website you are trying to visit may be dangerous. Visit anyway?
 %s"</string>
-  <string name="url_fraud_title">Fraud suspicious</string>
+  <string name="url_fraud_title">Website can be fake</string>
   <string name="url_fraud_visit">&lt;u&gt;Visit anyway&lt;/u&gt;</string>
-  <string name="url_result_safe">This url is safe</string>
-  <string name="url_scanning">Url scanning…</string>
+  <string name="url_result_safe">This URL is safe</string>
+  <string name="url_scanning">Checking URL…</string>
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
   <string name="user_agreement2">Terms of Service</string>
   <string name="user_agreement3">" and "</string>

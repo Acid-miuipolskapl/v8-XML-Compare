@@ -53,7 +53,7 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunny</item>
+        <item>Clear</item>
         <item>Cloudy</item>
         <item>Overcast</item>
         <item>Foggy</item>

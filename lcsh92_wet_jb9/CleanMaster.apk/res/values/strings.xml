@@ -412,7 +412,7 @@
   <string name="total_clean_text">Clear</string>
   <string name="traffic_top">TOP 5 data consuming apps</string>
   <string name="unlike">No thanks</string>
-  <string name="update_date_format">yyyy-MM-dd</string>
+  <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
   <string name="white_list_ad_header">Ad files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>

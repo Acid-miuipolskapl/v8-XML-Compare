@@ -112,7 +112,7 @@
   <string name="copied">Copied</string>
   <string name="copy_failed">"Couldn't copy"</string>
   <string name="copy_failed_retry">"Can't copy, wait %1$s and try again"</string>
-  <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
+  <string name="copy_file_to_kuaipan">Copy file to KuaiPan</string>
   <string name="copy_file_to_midrive">Copy file to Mi Drive</string>
   <string name="copy_text">Copy text</string>
   <string name="copy_to">Copy to…</string>
@@ -339,7 +339,7 @@ Sorry for the inconvenience."</string>
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Mi Drive needs to connect to the internet to work normally.</string>
   <string name="midrive_space_full">Not enough space on Mi Drive</string>
-  <string name="midrive_welcome_message">Your Kuaipan files have been successfully moved to Mi Drive. We give you a three-month complementary Mi Cloud membership. Mi Cloud and Mi Drive are using the same storage. You can access your files at i.mi.com.</string>
+  <string name="midrive_welcome_message">Your KuaiPan files have been successfully moved to Mi Drive. We give you a three-month complementary Mi Cloud membership. Mi Cloud and Mi Drive are using the same storage. You can access your files at i.mi.com.</string>
   <string name="midrive_welcome_title">Welcome to Mi Drive</string>
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
@@ -474,7 +474,7 @@ and never miss the cool new ones!"</string>
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied.</string>
   <string name="open_file_failed">"Can't open"</string>
-  <string name="open_private_folder">Release to view hidden folders…</string>
+  <string name="open_private_folder">Release to view hidden folders</string>
   <string name="operate_confirm_in_3g">"Use your mobile data connection to download this file? You'll receive regular mobile data charges from your carrier."</string>
   <string name="operating">Processing…</string>
   <string name="operation_add_fav">Adding to favorites…</string>
@@ -696,7 +696,7 @@ and never miss the cool new ones!"</string>
   <string name="stay_awake_summary">"Don't let display sleep while using FTP"</string>
   <string name="stay_awake_title">Keep display awake</string>
   <string name="stop_server">Stop server</string>
-  <string name="storage_cloned_app">Storage for cloned apps</string>
+  <string name="storage_cloned_app">Storage for dual apps</string>
   <string name="storage_info">%1$s available</string>
   <string name="storage_info_detail">Available: %1$s Total: %2$s</string>
   <string name="storage_internal">Internal storage</string>
@@ -765,7 +765,7 @@ and never miss the cool new ones!"</string>
   <string name="upload_external_action_hint">Paste URL</string>
   <string name="upload_external_notification_failed">"Couldn't publish"</string>
   <string name="upload_external_notification_success">Published successfully</string>
-  <string name="upload_external_notification_title">Publishing, wait a moment026</string>
+  <string name="upload_external_notification_title">Publishing, wait a moment</string>
   <string name="upload_failed">"Couldn't upload"</string>
   <string name="upload_file_toolarge_message">"%1$d is too large. Can't upload files larger than 300MB."</string>
   <string name="upload_local_video">Share video clip</string>
