@@ -33,28 +33,28 @@
         <item quantity="one">Shared to %d person</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">Selected photos not on device, download using mobile data?</item>
-        <item quantity="one">Selected photo not on device, download using mobile data?</item>
+        <item quantity="other">"Selected photos aren't on device. Download them using mobile data?"</item>
+        <item quantity="one">"Selected photo isn't on device. Download it using mobile data?"</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">Selected photos not on device (%dMB), download using mobile data?</item>
-        <item quantity="one">Selected photo not on device (%dMB), download using mobile data?</item>
+        <item quantity="other">"Selected photos (%dMB) aren't on device. Download them using mobile data?"</item>
+        <item quantity="one">"Selected photo (%dMB) isn't on device. Download it using mobile data?"</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
-        <item quantity="other">Selected photos not on device, downloading</item>
-        <item quantity="one">Selected photo not on device, downloading</item>
+        <item quantity="other">"Selected photos aren't on device. They will be downloaded."</item>
+        <item quantity="one">"Selected photo isn't on device. It will be downloaded."</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d photos download failed, retry?</item>
-        <item quantity="one">one photo download failed, retry?</item>
+        <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
+        <item quantity="one">"Couldn't download photo, try again?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d photos (%2$dMB) download failed, retry?</item>
-        <item quantity="one">one photo (%2$dMB) download failed, retry?</item>
+        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
+        <item quantity="one">"Couldn't download photo (%2$dMB), try again?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Cancel downloading remaining %d photos?</item>
-        <item quantity="one">Cancel downloading the last one photo?</item>
+        <item quantity="other">Cancel downloading %d remaining photos?</item>
+        <item quantity="one">Cancel downloading the remaining photo?</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Delete %1$d photos %2$s?</item>

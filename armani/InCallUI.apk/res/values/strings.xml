@@ -205,12 +205,12 @@
   <string name="incall_error_supp_service_unknown">"This service isn't supported."</string>
   <string name="incall_toast_unhold">Unhold</string>
   <string name="incoming_call_forwarded_title">Forward incoming calls</string>
-  <string name="incoming_circle_text_answer">Loosen answer</string>
-  <string name="incoming_circle_text_answer_p">Answering slide</string>
-  <string name="incoming_circle_text_message">Loosen SMS reply</string>
-  <string name="incoming_circle_text_message_p">SMS reply slide</string>
-  <string name="incoming_circle_text_reject">Loosen reject</string>
-  <string name="incoming_circle_text_reject_p">Rejecting slide</string>
+  <string name="incoming_circle_text_answer">Release</string>
+  <string name="incoming_circle_text_answer_p">Slide up</string>
+  <string name="incoming_circle_text_message">Release</string>
+  <string name="incoming_circle_text_message_p">Slide up</string>
+  <string name="incoming_circle_text_reject">Release</string>
+  <string name="incoming_circle_text_reject_p">Slide up</string>
   <string name="international_dialing_add_country_code" formatted="false">"It's detected that you're dialing a %s number. Do you want to add the country code (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"It's detected that you are dialing a number in %1$s, %2$s. Do you want to add the country code and the area code (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Do you want to add the country code and the area code?</string>
@@ -409,7 +409,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="retries_left">%d retries left</string>
   <string name="ring_only_once_summary">Ring only once when choosing to accept a video call by voice call mode</string>
   <string name="ring_only_once_title">Ring only once</string>
-  <string name="select_audio_dialog_title">Please select answering mode</string>
+  <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="separate_from_conference">Separate call</string>
   <string name="service_3g_off">Off</string>

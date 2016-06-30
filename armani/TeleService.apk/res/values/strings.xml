@@ -34,7 +34,7 @@
   <string name="allContactdeleteSuccess">Deleted all contacts from SIM</string>
   <string name="always_enable_mms">Always receive MMS</string>
   <string name="always_enable_mms_summary">Receive MMS even when mobile data is off</string>
-  <string name="answer_features_setting_category">Answer</string>
+  <string name="answer_features_setting_category">Answering and Calls</string>
   <string name="answer_state_setting_summary">Additional incoming call options</string>
   <string name="answer_state_setting_title">Incoming call settings</string>
   <string name="antispam_notification_title">Unknown number</string>
@@ -89,6 +89,7 @@
   <string name="bad_puk">The PUK you typed is incorrect.</string>
   <string name="bad_puk2">The PUK2 you entered is incorrect.</string>
   <string name="bf_news_settings">Business and Financial News</string>
+  <string name="call_advanced_setting_title">Advanced setting</string>
   <string name="call_barring_sum">Voice call barring settings</string>
   <string name="call_description_recording">Recording…</string>
   <string name="call_forwarding_number_hint">Forward calls to</string>
@@ -103,8 +104,8 @@
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
   <string name="call_record_auto_whitelist_summary">%d numbers</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
-  <string name="call_record_off_summary">Call recording is turned off</string>
-  <string name="call_record_on_summary">Calls will be recorded automatically</string>
+  <string name="call_record_off_summary">Off</string>
+  <string name="call_record_on_summary">On</string>
   <string name="call_record_setting">Call record settings</string>
   <string name="call_record_whitelist_custom">Selected numbers</string>
   <string name="call_recording_notification_message">Touch to listen.</string>
@@ -606,6 +607,7 @@ Top up and start talking"</string>
   <string name="network_settings_sel_sub">SUBS Settings</string>
   <string name="network_settings_select_automatic_hint">"Can't register on the network you selected.
 Will use preferred network instead."</string>
+  <string name="network_settings_title">Mobile networks</string>
   <string name="network_settings_turn_off">off</string>
   <string name="network_settings_warn_message">Your device will only connect to networks you select manually.</string>
   <string name="network_unconnected_message_livetalk">Network error. Try to make a regular call. It will be charged by the carrier.</string>
@@ -731,6 +733,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preference_auto_ip_summary_disable">Disabled</string>
   <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
   <string name="preference_dial_pad_touch_tone_default">Default</string>
+  <string name="preference_dial_pad_touch_tone_off">Off</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
   <string name="preference_dial_pad_touch_tone_title">Dial pad touch tones</string>
   <string name="preference_telocation_summary_countrycode_off">"Don't auto-dial country code"</string>
