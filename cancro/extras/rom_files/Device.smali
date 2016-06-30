@@ -1361,6 +1361,10 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
+
+    if-nez v0, :cond_0
+
     const/4 v0, 0x1
 
     :goto_0
@@ -1452,14 +1456,20 @@
 
     sget-boolean v0, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
 
-    if-eqz v0, :cond_0
+    if-nez v0, :cond_1
 
+    :cond_0
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
+
+    if-eqz v0, :cond_2
+
+    :cond_1
     const/4 v0, 0x1
 
     :goto_0
     return v0
 
-    :cond_0
+    :cond_2
     const/4 v0, 0x0
 
     goto :goto_0
@@ -1894,7 +1904,7 @@
 
     if-nez v0, :cond_0
 
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3W:Z
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 

@@ -144,7 +144,7 @@
   <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
   <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
   <string name="security_permission_denied_text">Access denied</string>
-  <string name="security_permission_failed_text">Internal error, retry later</string>
+  <string name="security_permission_failed_text">An error occurred, try again later</string>
   <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
   <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>

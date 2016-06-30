@@ -27,6 +27,7 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>视频</item>
+        <item>截屏</item>
         <item>应用</item>
     </string-array>
     <string-array name="epg_channel_tab">

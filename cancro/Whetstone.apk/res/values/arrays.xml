@@ -11,6 +11,7 @@
         <item>com.miui.voip/.service.RemoteMiuiVoipService</item>
         <item>com.miui.systemAdSolution/.splashscreen.SplashScreenService</item>
         <item>com.xiaomi.metok/.MetokClService</item>
+        <item>com.miui.sysbase/.MetokClService</item>
     </string-array>
     <string-array name="restart_persist_service">
         <item>com.miui.powerkeeper</item>
@@ -22,6 +23,9 @@
     <string-array name="disable_trim_apps">
         <item>android</item>
         <item>com.miui.home</item>
+    </string-array>
+    <string-array name="forcestop_sys_apps">
+        <item>com.miui.player</item>
     </string-array>
     <string-array name="deepclean_normal_white_list">
         <item>com.miui.home</item>
@@ -38,10 +42,8 @@
         <item>com.android.providers.media</item>
         <item>com.xiaomi.xmsf</item>
         <item>com.xiaomi.metok</item>
+        <item>com.miui.sysbase</item>
         <item>com.lbe.security.miui</item>
-        <item>com.miui.touchassistant</item>
-        <item>com.miui.virtualsim</item>
-        <item>com.miui.voip</item>
     </string-array>
     <string-array name="deepclean_no_ui_white_list">
         <item>com.miui.powerkeeper</item>
@@ -54,6 +56,9 @@
         <item>com.baidu.map.location</item>
         <item>com.google.android.gms​</item>
         <item>com.miui.voip</item>
+        <item>com.miui.touchassistant</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.qualcomm.qcrilmsgtunnel</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
