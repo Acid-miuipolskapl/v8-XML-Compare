@@ -132,7 +132,7 @@ Check your tracking number."</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">Number: %s</string>
   <string name="express_inquiry_status_delivered">Delivered</string>
-  <string name="express_inquiry_status_difficult_goods">Difficult goods</string>
+  <string name="express_inquiry_status_difficult_goods">Unknown</string>
   <string name="express_inquiry_status_dispatch">Dispatching</string>
   <string name="express_inquiry_status_on_the_way">On the way</string>
   <string name="express_inquiry_status_receipted">Receipted</string>
