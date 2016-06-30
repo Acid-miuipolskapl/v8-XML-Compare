@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Data three bars.</string>
   <string name="accessibility_data_two_bars">Data two bars.</string>
   <string name="accessibility_home">Home</string>
+  <string name="accessibility_ime_switch_button">Switch input method button.</string>
   <string name="accessibility_managed_profile">Work profile</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>
@@ -126,11 +127,11 @@ Use only the supplied charger."</string>
   <string name="label_view">View</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
-  <string name="long_screenshot_not_support_msg">"Current app doesn't support long screenshots"</string>
+  <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
   <string name="long_screenshot_out_of_memory_error">Image size is too big</string>
   <string name="long_screenshot_processing">Processing…</string>
   <string name="long_screenshot_stop">Done</string>
-  <string name="long_screenshot_top_msg">Extending screenshot…</string>
+  <string name="long_screenshot_top_msg">Creating screenshot…</string>
   <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
@@ -196,7 +197,7 @@ Use only the supplied charger."</string>
   <string name="screen_pinning_title">Screen is pinned</string>
   <string name="screenshot_edit">Edit</string>
   <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
-  <string name="screenshot_long_screenshot">Extend</string>
+  <string name="screenshot_long_screenshot">Scroll</string>
   <string name="screenshot_saved_text">Touch to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
