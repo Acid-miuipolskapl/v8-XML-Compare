@@ -71,7 +71,7 @@
   <string name="receiver_transfer_interrupt">"Transfer interrupted, don't turn off WLAN hotspot during transfer"</string>
   <string name="receiver_video_file_current">Receiving %2$d​ videos from %1$s</string>
   <string name="receiver_video_file_num">%2$d​ videos from %1$s</string>
-  <string name="runtime_permission_ungranted">Cannot use Mi Drop because of ungranted permissions</string>
+  <string name="runtime_permission_ungranted">"Can't use Mi Drop due to ungranted permissions"</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Don't send"</string>
