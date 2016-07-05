@@ -121,8 +121,8 @@
   <string name="mortgage_years_amount">Mortgage period</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiply</string>
-  <string name="network_confirm_content">"Currency converter, tax and mortgage calculators need to use your device's network connection to work normally."</string>
-  <string name="network_confirm_title">Network connection required</string>
+  <string name="network_confirm_content">"Currency converter, tax and mortgage calculators need to use your device's network connection and location service to work normally."</string>
+  <string name="network_confirm_title">Authority required</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
   <string name="piDesc">pi</string>
@@ -366,9 +366,11 @@
   <string name="unit_year_format">Year %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Financial characters</string>
+  <string name="word_figure_big_unit_fen">分</string>
+  <string name="word_figure_big_unit_jiao">角</string>
   <string name="word_figure_big_unit_wan">万</string>
   <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_dot">点</string>
+  <string name="word_figure_big_unit_zhao">兆</string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
@@ -382,4 +384,6 @@
   <string name="word_figure_unit_bai">佰</string>
   <string name="word_figure_unit_qian">仟</string>
   <string name="word_figure_unit_shi">拾</string>
+  <string name="word_figure_yuan">元</string>
+  <string name="word_figure_zheng">整</string>
 </resources>
