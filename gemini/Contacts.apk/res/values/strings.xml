@@ -255,6 +255,7 @@ Contact cards are turned off"</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
   <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
   <string name="convenient_service">Services</string>
+  <string name="copy_number">Copy</string>
   <string name="copy_text">Copy to clipboard</string>
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen</string>
   <string name="create_group_dialog_title">Create new group</string>
@@ -1154,8 +1155,10 @@ To add a contact to your list of favorites:
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
-  <string name="t9_search_guide_pinyin">Enter 2 and 8 to search for Alan Turing</string>
-  <string name="t9_search_guide_zhuyin">Enter 2 and 8 to search for Alan Turing</string>
+  <string name="t9_search_guide_pinyin_title1">Quick search contacts by enter letters</string>
+  <string name="t9_search_guide_pinyin_title2">Enter 2 and 3 to search for &lt;font fgcolor="#ff28a763"&gt;A&lt;/font&gt;&amp;gt;lan &lt;font fgcolor="#ff28a763"&gt;F&lt;/font&gt;&amp;gt;rank</string>
+  <string name="t9_search_guide_zhuyin_title1">Quick search contacts by enter letters</string>
+  <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor="#ff28a763"&gt;J&lt;/font&gt;&amp;gt;eff &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ax</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>
