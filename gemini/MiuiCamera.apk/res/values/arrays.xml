@@ -693,16 +693,16 @@
         <item>off</item>
     </string-array>
     <string-array name="pref_camera_stereo_entries">
-        <item>F0.6</item>
-        <item>F0.8</item>
-        <item>F1.0</item>
+        <item>F0.95</item>
         <item>F1.4</item>
-        <item>F1.8</item>
         <item>F2.0</item>
         <item>F2.4</item>
         <item>F2.8</item>
+        <item>F3.2</item>
         <item>F3.6</item>
+        <item>F4.0</item>
         <item>F4.5</item>
+        <item>F5.0</item>
         <item>F5.6</item>
     </string-array>
     <string-array name="pref_camera_stereo_entryvalues">
