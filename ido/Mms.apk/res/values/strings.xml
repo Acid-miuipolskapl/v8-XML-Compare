@@ -46,6 +46,7 @@
   <string name="batch_deleting_progress_message">Deleting…</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Blocked SMS</string>
+  <string name="block_support_text">Supported by Antiy.</string>
   <string name="bookmark">Starred</string>
   <string name="bookmark_confirm_delete_message">Unstar selected messages?</string>
   <string name="bookmark_empty">No starred messages</string>
