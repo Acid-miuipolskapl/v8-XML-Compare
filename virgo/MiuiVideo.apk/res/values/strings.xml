@@ -159,6 +159,7 @@
   <string name="file_error">File error</string>
   <string name="file_not_exist">The file does not exist</string>
   <string name="filter">Filter</string>
+  <string name="finish_install">Installed Successfully</string>
   <string name="forecast">Forecast</string>
   <string name="forecast_empty_hint">Empty</string>
   <string name="forecasts">EPG</string>

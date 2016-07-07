@@ -43,17 +43,38 @@
     <string-array name="welcome_notes_content">
         <item>"Welcome to Notes
 "</item>
-        <item>"Tap to create a note
-"</item>
+        <item>"Create a note
+Tap the plus to create a note."</item>
         <item>"Choose templates
-"</item>
+Use templates to change backgrounds and styles of your notes.
+Tap the right button at the bottom of the note to choose a template."</item>
         <item>"Create folders
-"</item>
+Organize your notes in folders.
+There are 2 ways to create a folder:
+1. Tap the folder icon in the upper right corner, and then tap the plus.
+2. Hold a note until a pop-up menu appears, and choose \"Move to\" - \"New folder\"."</item>
         <item>"Hide notes
-"</item>
+Protect private notes with a password.
+There are 2 ways to hide a note:
+1. Tap the \"More\" button in the upper right corner of a note, and select \"Hide\".
+2. Hold a note until a pop-up menu appears, and select \"Hide\"."</item>
         <item>"And more great features!
-  - Sync with Mi Cloud
-  - Set reminders"</item>
+  - Images, checklists, reminders.
+
+Add images
+Tap the image icon at the bottom of a note to add an image.
+You can take a photo or choose one from the Gallery.
+When a note contains an image, this image will be used as the note's miniature in grid view.
+
+Create checklists
+Checkbox is an essential element of a to-do list.
+Tap the checkbox icon at the bottom of a note to add a checkbox to a paragraph of text.
+Check the box when the stuff is done.
+
+Set reminders
+Set reminders directly from notes.
+Tap the \"More\" button in the upper right corner of a note, select \"Reminders\", set the time.
+"</item>
     </string-array>
     <integer-array name="welcome_notes_color">
         <item>0</item>

@@ -34,6 +34,7 @@
         <item>com.miui.player</item>
         <item>com.android.cts.verifier</item>
         <item>com.miui.securitycore</item>
+        <item>com.lbe.security.miui</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
