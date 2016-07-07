@@ -240,7 +240,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-  <string name="autofill_popup_content_description">Showing autofill pop-up</string>
+  <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
   <string name="autologin_bar_hide_text">Hide</string>
   <string name="autologin_bar_login_text">Sign in</string>
@@ -642,7 +642,7 @@ Leave this page?"</string>
   <string name="page_info_address">Address:</string>
   <string name="page_info_view">View page info</string>
   <string name="password">Password</string>
-  <string name="password_generation_popup_content_description">Showing password generation pop-up</string>
+  <string name="password_generation_popup_content_description">Showing password generation popup</string>
   <string name="pause_download">Paused</string>
   <string name="paused_queued_for_wifi">Waiting for connection…</string>
   <string name="paused_unknown">Paused</string>
@@ -845,7 +845,7 @@ Leave this page?"</string>
   <string name="search_hint">Search</string>
   <string name="search_keyword_browser">Browser</string>
   <string name="search_label">Browser</string>
-  <string name="search_path_browser">Settings/System apps/Browser</string>
+  <string name="search_path_browser">Settings/Installed apps/Browser</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Bookmarks and web history</string>
   <string name="search_shipin">Video</string>
@@ -866,8 +866,8 @@ Leave this page?"</string>
   <string name="select_download_device">Choose device</string>
   <string name="send_comment_button">Send</string>
   <string name="send_comment_title">Comment</string>
-  <string name="senddesktop">Desktop</string>
-  <string name="sendstartpage">Startpage</string>
+  <string name="senddesktop">Home screen</string>
+  <string name="sendstartpage">Start page</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
   <string name="show_security_tip_dialog_title">Terms of Service</string>

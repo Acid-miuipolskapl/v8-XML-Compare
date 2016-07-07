@@ -228,7 +228,6 @@
   <string name="document_ocr_result_save">Save to Notes</string>
   <string name="document_ocr_result_title">Document photo</string>
   <string name="document_ocr_tip_msg">Reading…</string>
-  <string name="document_ocr_vendor_info">OCR powered by Kingsoft</string>
   <string name="document_recognize_fail_tip">"Couldn't read document"</string>
   <string name="document_rectify">Adjust</string>
   <string name="document_rectify_tip_msg">Adjusting…</string>

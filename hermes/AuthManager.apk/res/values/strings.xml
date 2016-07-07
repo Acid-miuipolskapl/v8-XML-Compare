@@ -261,7 +261,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Privacy_App_Uninstall">Uninstall</string>
   <string name="Privacy_Perm_Count">%1$d allowed | %2$d denied</string>
   <string name="Su_Enable_Dialog">%1$s is requesting root access.</string>
-  <string name="Su_Package_Forbidden">"%1$s doesn't have root access."</string>
+  <string name="Su_Package_Forbidden2">"doesn't have root access."</string>
   <string name="Su_Unavailable">Root access is unavailable in this version of MIUI. You need to flash the developer build of MIUI in order to give root access.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart permission</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
@@ -283,7 +283,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="permission_group_title_settings_related">Settings</string>
   <string name="permission_request_title">Permission request</string>
   <string name="permission_warning_template">Allow %1$s to %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" doesn't have permission to %2$s. You can change app permissions any time in Security &gt; Permissions."</string>
+  <string name="permisson_reject_notice_toast_text2">"doesn't have permission to %1$s."</string>
   <string name="screen_overlay_button">Open settings</string>
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
