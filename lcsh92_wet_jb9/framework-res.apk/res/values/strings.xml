@@ -188,6 +188,7 @@ Do you want to close it?"</string>
   <string name="config_geocoderProviderPackageName">@null</string>
   <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_isoImagePath"/>
+  <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
   <string name="config_mms_user_agent">Android-Mms/0.1</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
   <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
