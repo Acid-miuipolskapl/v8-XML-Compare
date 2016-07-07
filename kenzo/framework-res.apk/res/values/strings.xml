@@ -211,6 +211,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_isoImagePath"/>
+  <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
   <string name="config_mms_user_agent">Android-Mms/2.0</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
