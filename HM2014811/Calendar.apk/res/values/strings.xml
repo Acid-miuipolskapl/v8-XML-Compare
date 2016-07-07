@@ -191,6 +191,7 @@
   <string name="every_year_month_of_day">%1$s%2$s日</string>
   <string name="exist_calendar">已订阅</string>
   <string name="festival_detail_title">Festival</string>
+  <string name="force_touch_title_add_new_event">Add New Event</string>
   <string name="fortune_birthday">生日</string>
   <string name="fortune_card_caiwei">财位：</string>
   <string name="fortune_card_set_bazi">设置生辰八字</string>
@@ -371,7 +372,6 @@
   <string name="setting_holiday">Holidays</string>
   <string name="setting_others">Additional</string>
   <string name="setting_sms_import">导入短信事件</string>
-  <string name="setting_wifi_mode">内容仅在WLAN下同步大图</string>
   <string name="settings_calendar">Calendar</string>
   <string name="show_day_view">Show day</string>
   <string name="show_newer_events">Touch to view events after %1$s</string>
