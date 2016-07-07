@@ -199,10 +199,14 @@ to reactivate this feature."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connection timed out. Try again later.</string>
   <string name="micloud_find_device_guide_micloud">Turn on Sync with Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sync contacts, photos, notes, and more with Mi Cloud</string>
-  <string name="micloud_find_device_guide_noti_content">Turn on</string>
-  <string name="micloud_find_device_guide_noti_title">Turn on Find device to protect your data even when your device is lost</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Turn on Find device to secure your WeChat data</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Turn on Find device to secure your Alipay data</string>
+  <string name="micloud_find_device_guide_noti_content">Protect your data even when your device is lost</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Your QQ data will be safe even if you loose your device</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Your WeChat data will be safe even if you loose your device</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Your Alipay data will be safe even if you loose your device</string>
+  <string name="micloud_find_device_guide_noti_title">Turn on Find device</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ recommends you to turn on Find device</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recommends you to turn on Find device</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recommends you to turn on Find device</string>
   <string name="micloud_find_device_guide_progress">Turning on Find device…</string>
   <string name="micloud_find_device_guide_title">"Sign in to %s to locate, lock,
 or erase your device."</string>

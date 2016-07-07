@@ -31,6 +31,7 @@
   <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
   <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
@@ -50,8 +51,8 @@
   <string name="login_website_in_case_forget_password">To reset your password, go to www.mi.com/micloud</string>
   <string name="missed_call_text">%d missed calls</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
-  <string name="open_camera_hint_text">Swipe left to open Camera</string>
-  <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
+  <string name="open_camera_hint_text">Swipe left to open %s</string>
+  <string name="open_remote_center_hint_text">Swipe right to open %s</string>
   <string name="open_wifi_settings">Open network connection</string>
   <string name="phone_locked_string">Phone has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>

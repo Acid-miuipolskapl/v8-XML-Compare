@@ -1257,6 +1257,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
+  <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
   <string name="fingerprint_identify_msg">Reading fingerprint…</string>
   <string name="fingerprint_identify_try_again_msg">"Couldn't read fingerprint, try again"</string>
@@ -1479,6 +1480,14 @@ Some apps may not work until updated by their developers."</string>
   <string name="keyboard_layout_picker_title">Keyboard layouts</string>
   <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
   <string name="keyboard_settings_title">Android keyboard</string>
+  <string name="keyguard_left_function_chooser_hint_text">Left shortcut changed to %s</string>
+  <string name="keyguard_left_function_chooser_title">App</string>
+  <string name="keyguard_left_function_title">Left</string>
+  <string name="keyguard_right_function_chooser_hint_text">Right shortcut changed to %s</string>
+  <string name="keyguard_right_function_chooser_title">App</string>
+  <string name="keyguard_right_function_title">Right</string>
+  <string name="keyguard_shortcut_summary">Set shortcuts for 2 apps on the Lock screen</string>
+  <string name="keyguard_shortcut_title">Lock screen shortcuts</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_battery">power</string>
@@ -1627,7 +1636,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
-  <string name="lock_settings_title">Screen security</string>
+  <string name="lock_settings_title">Device security</string>
   <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
@@ -1642,13 +1651,22 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Set PIN 
  for Second space"</string>
   <string name="lockpassword_confirm_for_second_user">Confirm your Second space password</string>
-  <string name="lockpassword_confirm_passwords_dont_match">"Passwords don't match"</string>
+  <string name="lockpassword_confirm_passwords_dont_match">Passwords don’t match</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Confirm your pattern</string>
+  <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue.</string>
   <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
+  <string name="lockpassword_confirm_your_pattern_generic">Use your device pattern to continue.</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
+  <string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue.</string>
   <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
+  <string name="lockpassword_confirm_your_private_password_header">Confirm your password</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_continue_label">Continue</string>
   <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
+  <string name="lockpassword_invalid_password">Wrong password</string>
+  <string name="lockpassword_invalid_pin">Wrong PIN</string>
   <string name="lockpassword_ok_label">OK</string>
   <string name="lockpassword_password_recently_used">"Device administrator doesn't allow using a recent password."</string>
   <string name="lockpassword_password_requires_alpha">Password must contain at least one letter.</string>
@@ -1685,7 +1703,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
   <string name="lockpattern_recording_intro_header_second_space">Draw an unlock pattern for Second space:</string>
   <string name="lockpattern_restart_button_text">Redraw</string>
-  <string name="lockpattern_retry_button_text">Retry</string>
+  <string name="lockpattern_retry_button_text">Clear</string>
   <string name="lockpattern_settings_change_lock_pattern">Change unlock pattern</string>
   <string name="lockpattern_settings_choose_lock_pattern">Set unlock pattern</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Power button locks screen</string>
@@ -1696,6 +1714,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Except when kept unlocked by %1$s</string>
   <string name="lockpattern_settings_title">Unlock pattern</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
@@ -2892,6 +2911,7 @@ To use screen pinning:
   <string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
   <string name="security_enable_widgets_title">Enable widgets</string>
+  <string name="security_encryption_title">Encrypt device using lock screen password</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
   <string name="security_passwords_title">Passwords</string>
@@ -3135,7 +3155,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_notification_led">Notification light</string>
   <string name="status_bar_settings_notification_priority">Priority</string>
   <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Sound &amp; vibration</string>
+  <string name="status_bar_settings_notification_sound">Sound</string>
+  <string name="status_bar_settings_notification_vibrate">Vibration</string>
   <string name="status_bar_settings_show_carrier">Show carrier name</string>
   <string name="status_bar_settings_show_carrier_summary">Carrier name is still displayed on the lock screen and in the notification shade when this feature is off</string>
   <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
@@ -3276,7 +3297,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="toast_need_login">Sign in to your Mi Account</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Floating ball</string>
+  <string name="touch_assistant">Quick ball</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>

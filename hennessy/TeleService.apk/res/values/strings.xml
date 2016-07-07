@@ -593,7 +593,7 @@ Top up and start talking"</string>
   <string name="livetalk_setting">Top-up package</string>
   <string name="livetalk_terms_conditions">Terms and Conditions</string>
   <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
-  <string name="livetalk_user_config_title">Verify phone number</string>
+  <string name="livetalk_user_config_title">SIM Verification</string>
   <string name="livetalk_welcome_description_text">"• Save 70% on your calling charges.
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
@@ -729,6 +729,7 @@ Using preferred network instead."</string>
   <string name="no_data">No data</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
   <string name="no_more">No more</string>
+  <string name="no_number">No telephone number</string>
   <string name="no_sim_card">Insert SIM card</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
@@ -1119,6 +1120,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sim_roaming_settings_summary">Connect to mobile data networks while roaming</string>
   <string name="sim_roaming_settings_title">Mi Roaming</string>
   <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
+  <string name="sim_useless">SIM unavailable</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">SIP accounts</string>
   <string name="sip_accounts_title">Accounts</string>
