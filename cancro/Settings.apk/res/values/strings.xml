@@ -2362,6 +2362,7 @@ Select your operating system:"</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
   <string name="path_font_settings">Settings/Display/System font</string>
+  <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One_handed mode</string>
   <string name="path_home_key">Settings/Additional settings/Buttons/Home</string>
@@ -2706,6 +2707,7 @@ Select your operating system:"</string>
   <string name="radioInfo_unknown">unknown</string>
   <string name="radio_controls_summary">Manage WLAN, Bluetooth, Airplane mode, Mobile networks, &amp; VPNs</string>
   <string name="radio_controls_title">More</string>
+  <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
   <string name="radio_info_band_mode_label">Select radio band</string>
   <string name="radio_info_call_redirect_label">Call redirect:</string>
   <string name="radio_info_call_status_label">Call status:</string>
@@ -3002,6 +3004,7 @@ To use screen pinning:
   <string name="search_empty">No search results</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">System font</string>
+  <string name="search_gesture_wakeup_title">Double tap screen to wake</string>
   <string name="search_gps">GPS;Location Access</string>
   <string name="search_handy_mode">One handed mode</string>
   <string name="search_hint">Search settings</string>
