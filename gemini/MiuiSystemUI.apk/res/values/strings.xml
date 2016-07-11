@@ -248,6 +248,11 @@ Use only the supplied charger."</string>
   <string name="screen_pinning_negative">No thanks</string>
   <string name="screen_pinning_positive">Got it</string>
   <string name="screen_pinning_title">Screen is pinned</string>
+  <string name="screenshot_delete">Delete</string>
+  <string name="screenshot_delete_dlg_msg">Are you sure to delete this screenshot?</string>
+  <string name="screenshot_delete_dlg_title">Delete</string>
+  <string name="screenshot_dlg_cancel">Cancel</string>
+  <string name="screenshot_dlg_delete_button">Delete</string>
   <string name="screenshot_edit">Edit</string>
   <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
   <string name="screenshot_long_screenshot">Scroll</string>

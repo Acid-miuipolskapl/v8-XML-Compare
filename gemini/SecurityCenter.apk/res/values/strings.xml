@@ -225,6 +225,10 @@ or enter App lock password"</string>
   <string name="category_key_power_usage_details">key_power_usage_details</string>
   <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charging_text_battery_full_time">Last charge</string>
+  <string name="charging_text_battery_nearly_full">Nearly charged</string>
+  <string name="charging_text_battery_perfect">Fully charged</string>
+  <string name="charging_text_time_calculating">Calculating charging time…</string>
   <string name="chat_number">10 hours</string>
   <string name="chat_uint">" hours"</string>
   <string name="check_network_state">Test network</string>
