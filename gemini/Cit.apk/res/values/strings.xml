@@ -12,6 +12,8 @@
   <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
 Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
+  <string name="cit_apk_signature_failed">apk signature FAILED</string>
+  <string name="cit_apk_signature_passed">apk signature PASSED</string>
   <string name="cit_aud_current_state">Current State:</string>
   <string name="cit_aud_spk_l">spk_L</string>
   <string name="cit_aud_spk_r">spk_R</string>
@@ -90,6 +92,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_bluetooth_scanning_bluetooth_done">"Done. Didn't find any Bluetooth devices nearby."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">An error occurred while scanning for Bluetooth devices.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Opening Bluetooth device…</string>
+  <string name="cit_build_finger_failed">build fingerprint FAILED</string>
+  <string name="cit_build_finger_passed">build fingerprint PASSED</string>
   <string name="cit_button_light_off">Buttons light off</string>
   <string name="cit_button_light_on">Buttons light on</string>
   <string name="cit_calibration_fail">Calibration failed</string>
@@ -134,6 +138,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 3.Tap the Check icon. The system will save the photo automatically.
 4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_front_camera_check_title">Front camera</string>
+  <string name="cit_get_signature_failed">get signature FAILED</string>
   <string name="cit_gps_check_summary">The corresponding GPS info should be displayed below.</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"GPS hasn't started
@@ -214,6 +219,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
+  <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
+  <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_ese_summary">Reset eSE ,all your NFC bankcards and transcards will be deleted.</string>
@@ -235,6 +242,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sd_plugout_check_title">SD card (removal)</string>
   <string name="cit_sd_unmount">Unmount SD card</string>
   <string name="cit_sd_unmount_sucess">SD card unmounted</string>
+  <string name="cit_signature_check_label">signature check:</string>
   <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below</string>
   <string name="cit_sim_check_title">SIM card</string>
   <string name="cit_sim_error_unknown">Unknown</string>

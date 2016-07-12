@@ -185,6 +185,7 @@
   <string name="file_title">Name:</string>
   <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">New message</string>
   <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
