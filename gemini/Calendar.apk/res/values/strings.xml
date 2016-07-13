@@ -305,6 +305,7 @@
   <string name="preferences_clear_search_history_summary">"Remove all the searches you've performed"</string>
   <string name="preferences_clear_search_history_title">Clear search history</string>
   <string name="preferences_default_reminder_default">10</string>
+  <string name="preferences_default_reminder_default_value">10</string>
   <string name="preferences_default_reminder_dialog">Default reminder time</string>
   <string name="preferences_default_reminder_title">Default reminder time</string>
   <string name="preferences_general_title">Calendar view setting</string>
@@ -394,6 +395,7 @@
   <string name="subscribe_description_card_more_launch">展开</string>
   <string name="subscribe_detail_title">订阅详情</string>
   <string name="subscribe_ed">已订阅</string>
+  <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="sync_notice_cancel_toast_message">"Local Calendar won't be synced with Mi Cloud"</string>
   <string name="sync_notice_message">Sync your calendar with Mi Cloud?</string>
   <string name="sync_notice_ok">Sync now</string>

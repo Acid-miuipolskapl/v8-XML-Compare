@@ -51,6 +51,9 @@
   <string name="edit_systemtime">Edit system time</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Everyday</string>
+  <string name="force_touch_add_alarm">Add Alarm</string>
+  <string name="force_touch_enter_stopwatch">Stopwatch</string>
+  <string name="force_touch_enter_timer">Timer</string>
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="hour">1 hour</string>
   <string name="hour_unit">Hr +</string>
