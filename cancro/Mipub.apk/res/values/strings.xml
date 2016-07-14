@@ -9,7 +9,7 @@
   <string name="add_timing">Timed</string>
   <string name="already_followed">"You're already following this number"</string>
   <string name="app_name">com.miui.mipub</string>
-  <string name="attach_image">Pictures</string>
+  <string name="attach_image">Images</string>
   <string name="attach_slideshow">Slideshow</string>
   <string name="attach_sound">Audio</string>
   <string name="attach_subject">Subject</string>
@@ -23,7 +23,7 @@
   <string name="bookmark_list_title">Favorited</string>
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="check_network">Network settings</string>
-  <string name="compressing">Picture is too large. Compressing…</string>
+  <string name="compressing">Image is too large. Compressing…</string>
   <string name="confirm_delete_all_conversations">Delete all conversations?</string>
   <string name="confirm_delete_conversation">Delete this entire thread?</string>
   <string name="confirm_delete_group_message">Delete group messages?</string>
@@ -46,7 +46,7 @@
   <string name="converting_to_picture_message">Converting to multimedia message…</string>
   <string name="converting_to_text_message">Converting to text message…</string>
   <string name="copy_message_text">Copy text</string>
-  <string name="copy_message_text_success">Copy text done</string>
+  <string name="copy_message_text_success">Copied text successfully</string>
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
@@ -65,12 +65,12 @@
   <string name="english_subject_limit">40 character limit</string>
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>
-  <string name="exceed_message_size_limitation">Message size limit reached.</string>
+  <string name="exceed_message_size_limitation">Reached message size limit .</string>
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
-  <string name="failed_to_resize_image">Picture not resized.</string>
+  <string name="failed_to_resize_image">"Couldn't resize image."</string>
   <string name="feedback_description_hint">Write your feedback here</string>
   <string name="feedback_submit">Send</string>
-  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+  <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
   <string name="festival_never_remind">"Don't show again"</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="file_create_time">"Created: "</string>
@@ -121,9 +121,9 @@
   <string name="mx_dspt">Send messages to other MIUI devices without incurring charges</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_msg">Mi Message</string>
-  <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
-  <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
-  <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="mx_on_sim_1">Mi Message SIM 1</string>
+  <string name="mx_on_sim_2">Mi Message SIM 2</string>
+  <string name="mx_recommend_msg">Tap to turn Mi Message on.</string>
   <string name="need_download">Syncing…</string>
   <string name="network_error">Network error</string>
   <string name="new_message">Compose</string>
@@ -144,7 +144,7 @@
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Additional settings</string>
   <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
-  <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
+  <string name="pref_edit_smsc_address">Short Message Service Center (SMSC)</string>
   <string name="pref_forward_title">Forward</string>
   <string name="pref_key_mx_feedback">Feedback</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
@@ -158,7 +158,7 @@
   <string name="pref_summary_hide_festival">Hide Chinese language only features when system is set to a non-Chinese language</string>
   <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
   <string name="pref_summary_mx_feedback">Report bugs and send feedback</string>
-  <string name="pref_summary_notification_body_enabled">Show messages on the lock screen and in the notification shade</string>
+  <string name="pref_summary_notification_body_enabled">Show messages on the Lock screen and in the Notification shade</string>
   <string name="pref_summary_show_recent_contacts">Display recent contacts when composing a new text</string>
   <string name="pref_system_title">System</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other into the same thread</string>
@@ -171,7 +171,7 @@
   <string name="pref_title_hide_festival">Hide Chinese language features</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
   <string name="pref_title_miui_card">Send via card</string>
-  <string name="pref_title_notification_body_enabled">Show messages on lock screen</string>
+  <string name="pref_title_notification_body_enabled">Show messages on Lock screen</string>
   <string name="pref_title_ringtone_repeat">Number of notification sounds</string>
   <string name="pref_title_show_recent_contacts">Show recent contacts</string>
   <string name="pref_title_vcard">Send via vCard</string>
@@ -187,7 +187,7 @@
   <string name="remove">Remove</string>
   <string name="replace">Replace</string>
   <string name="resent_message">Resend</string>
-  <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
+  <string name="resize_image_error_information">This image is too large to send, even when resized.</string>
   <string name="restore_blocked_message">Restore message</string>
   <string name="retrive_hms_tips">Retrieving…</string>
   <string name="save">Save</string>
@@ -197,7 +197,7 @@
   <string name="search_label">Messaging</string>
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
-  <string name="secs">secs</string>
+  <string name="secs">sec</string>
   <string name="select_different_media">Choose a different %1$s.</string>
   <string name="select_link_title">Choose action</string>
   <string name="select_recipient">Choose recipients</string>
@@ -212,7 +212,7 @@
   <string name="sim_delete">Delete</string>
   <string name="sim_empty">No messages on SIM card</string>
   <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[picture]</string>
+  <string name="snippet_picture">[image]</string>
   <string name="sp_mark_as_read_title">Mark all as read</string>
   <string name="stick">Pin</string>
   <string name="sticked_conversation">Conversation is already pinned</string>
@@ -227,9 +227,9 @@
   <string name="try_again">Try again</string>
   <string name="type_attachment">attachment</string>
   <string name="type_audio">audio</string>
-  <string name="type_picture">picture</string>
-  <string name="type_to_compose_text_enter_to_send">Type message</string>
-  <string name="type_to_compose_text_or_leave_blank">Type message, or leave blank</string>
+  <string name="type_picture">image</string>
+  <string name="type_to_compose_text_enter_to_send">Enter message</string>
+  <string name="type_to_compose_text_or_leave_blank">Enter message, or leave blank</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>
