@@ -305,7 +305,7 @@
   <string name="namecard_vendor_info">Powered by CamCard</string>
   <string name="nickname">Nickname:</string>
   <string name="no_network">"Can't connect to the network"</string>
-  <string name="no_storage">Install SD card before using Camera</string>
+  <string name="no_storage">No internal storage</string>
   <string name="not_insert_contact">"Can't add contact"</string>
   <string name="not_recommend_access_web_url">Go anyway</string>
   <string name="not_tips">"Don't show again"</string>
@@ -319,7 +319,7 @@
   <string name="pref_camera_jpeg_quality_fine">fine</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
-  <string name="preparing_sd">Preparing SD card…</string>
+  <string name="preparing_sd">Preparing internal storage…</string>
   <string name="previous">Back</string>
   <string name="qr_code_details">QR code details:</string>
   <string name="recognize">Scan</string>
@@ -332,7 +332,7 @@
   <string name="shopping_searching">Searching…</string>
   <string name="shopping_title">Take a photo of the product</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
-  <string name="spaceIsLow_content">Not enough space on the SD card. Free up some space.</string>
+  <string name="spaceIsLow_content">Not enough space on internal storage. Free up some space.</string>
   <string name="study_report_title">Report</string>
   <string name="study_rotate_picture">Processing the photo</string>
   <string name="study_scan_result">Result</string>
