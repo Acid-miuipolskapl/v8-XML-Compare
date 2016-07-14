@@ -476,6 +476,9 @@ Pages you view won't appear in history."</string>
   <string name="find_on_page_next">Next</string>
   <string name="find_on_page_prev">Back</string>
   <string name="find_previous">Find previous</string>
+  <string name="force_quick_search_title">Search</string>
+  <string name="force_touch_bookmark_history_title">Bookmark And History</string>
+  <string name="force_touch_infoflow_title">Daily News</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
   <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>
