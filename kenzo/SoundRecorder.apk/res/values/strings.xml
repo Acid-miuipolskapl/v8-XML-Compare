@@ -26,6 +26,7 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
+  <string name="empty_recognition_tip">Empty</string>
   <string name="error_app_internal">Check if another app is currently using the recording feature.</string>
   <string name="error_app_internal_title">Sound recorder error</string>
   <string name="error_file_access">"File doesn't exist or has been corrupted"</string>

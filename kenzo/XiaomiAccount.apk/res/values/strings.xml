@@ -91,7 +91,6 @@
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_action">Delete</string>
-  <string name="delete_bank_card_failed">小米闪付删除银行卡失败，请重新再试</string>
   <string name="delete_device_btn">Remove</string>
   <string name="delete_device_failed">"Can't remove device"</string>
   <string name="delete_device_notice">"After device is removed, it will be signed out of your Mi Account automatically. You won't be able use this device to access the photos, messages, or other content stored in your account."</string>
