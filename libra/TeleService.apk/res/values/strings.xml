@@ -10,7 +10,9 @@
   <string name="activing_simcard_alone">Verifying SIM</string>
   <string name="add">Add</string>
   <string name="addSimEntries">Add SIM contact</string>
+  <string name="add_by_input">Add by input</string>
   <string name="add_fdn_contact">Add fixed dialing number</string>
+  <string name="add_from_contacts">Add from contacts</string>
   <string name="add_sip_account">Add account</string>
   <string name="add_vm_number_str">Add number</string>
   <string name="adding_fdn_contact">Adding fixed dialing number…</string>
@@ -966,6 +968,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
   <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
+  <string name="please_enter_phone_number">Please enter phone number</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Off</string>
