@@ -42,6 +42,7 @@
   <string name="all_tracks">All songs</string>
   <string name="all_tracks_short">All songs</string>
   <string name="already_download">Downloading…</string>
+  <string name="already_download_btn">Downloading…</string>
   <string name="already_favorited">Already favorited</string>
   <string name="android_sdk_too_low">Update Android to be able to update Music.</string>
   <string name="apk_filter">APK</string>
@@ -183,10 +184,12 @@
   <string name="download_cloud_error_retryable">Mi Cloud server error, try again later.</string>
   <string name="download_cloud_error_unknow">"Couldn't connect to Mi Cloud"</string>
   <string name="download_complete">Download complete</string>
+  <string name="download_complete_btn">Installed…</string>
   <string name="download_complete_start_install">Installing…</string>
   <string name="download_completed">Downloaded</string>
   <string name="download_confirm_button_text">Install</string>
   <string name="download_confirm_text">Mi Music will download and install %s</string>
+  <string name="download_done_btn">Downloaded</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Not enough space</string>
   <string name="download_filesize_unknown">Unknown</string>
@@ -215,6 +218,7 @@
   <string name="download_share_dialog">Share using</string>
   <string name="download_speed_null"/>
   <string name="download_start">Starting download…</string>
+  <string name="download_start_btn">Free Download…</string>
   <string name="download_success">Complete</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>

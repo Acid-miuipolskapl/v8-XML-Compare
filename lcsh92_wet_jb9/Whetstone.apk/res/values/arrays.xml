@@ -44,6 +44,7 @@
         <item>com.xiaomi.metok</item>
         <item>com.miui.sysbase</item>
         <item>com.lbe.security.miui</item>
+        <item>com.google.android.marvin.talkback</item>
     </string-array>
     <string-array name="deepclean_no_ui_white_list">
         <item>com.miui.powerkeeper</item>
@@ -57,8 +58,9 @@
         <item>com.google.android.gms​</item>
         <item>com.miui.voip</item>
         <item>com.miui.touchassistant</item>
-        <item>com.google.android.marvin.talkback</item>
         <item>com.qualcomm.qcrilmsgtunnel</item>
+        <item>com.qualcomm.uimremoteclient</item>
+        <item>com.android.vpndialogs</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
