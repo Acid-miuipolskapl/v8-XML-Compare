@@ -341,6 +341,7 @@
   <string name="need_download">Syncing…</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc_without_mx">"Smart messages allow you to recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
   <string name="networking_allow_title">Attention</string>
   <string name="new_message">Compose</string>
   <string name="new_message_arrived">You have a new message</string>
