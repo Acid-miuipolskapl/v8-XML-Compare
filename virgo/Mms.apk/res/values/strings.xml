@@ -185,6 +185,7 @@
   <string name="file_title">Name:</string>
   <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">New message</string>
   <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
@@ -340,6 +341,7 @@
   <string name="need_download">Syncing…</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc_without_mx">"Smart messages allow you to recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
   <string name="networking_allow_title">Attention</string>
   <string name="new_message">Compose</string>
   <string name="new_message_arrived">You have a new message</string>
@@ -376,6 +378,7 @@
   <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
   <string name="pref_cell_broadcast">Cell Broadcasts</string>
   <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
+  <string name="pref_delivery_ringtone">Sound notification</string>
   <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
   <string name="pref_forward_title">Forward</string>
   <string name="pref_message_recovery_introduction_title">Recover messages</string>
@@ -390,6 +393,7 @@
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
   <string name="pref_summary_delivery_reports">Show delivery status for sent messages</string>
+  <string name="pref_summary_delivery_ringtone">Receive sound notification for sent message.</string>
   <string name="pref_summary_hide_festival">Hide Chinese language only features when system is set to a non-Chinese language</string>
   <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
   <string name="pref_summary_mms_auto_retrieval">Download photos and videos in messages automatically</string>
