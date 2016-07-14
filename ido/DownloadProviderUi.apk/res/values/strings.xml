@@ -65,7 +65,7 @@
   <string name="dialog_insufficient_space_on_cache">Cannot finish download. There is not enough space on internal download storage.</string>
   <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not enough space on external storage.</string>
   <string name="dialog_media_not_found">Cannot download. The external media is not available.</string>
-  <string name="dialog_msg_disabled_net">%1$s restricted downloads for the current network.Tap Network settings to go to the Security app.</string>
+  <string name="dialog_msg_disabled_net">%1$s restricted downloads in the current network. Tap Network settings to go to the Security app.</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_disabled_net">Internet access</string>
   <string name="dialog_title_not_available">Download Failed</string>
@@ -140,7 +140,7 @@
   <string name="experience_xunlei_account_speed">Xunlei members can enjoy downloads at lightening speed.</string>
   <string name="expire_notification_msg">Xunlei membership expires soon.</string>
   <string name="expire_today_notification_msg">Xunlei membership expires today.</string>
-  <string name="extend">extend</string>
+  <string name="extend">More</string>
   <string name="extract_file">Unpacking file…</string>
   <string name="file_exist_hint">This file already exists</string>
   <string name="file_picker">Choose a location</string>
@@ -276,7 +276,7 @@ across all your devices with Xunlei"</string>
   <string name="search_history_today">Today</string>
   <string name="search_history_year">MM/dd/yyyy</string>
   <string name="search_history_yesterday">Yesterday</string>
-  <string name="search_home_download_popup">Go back to downloads</string>
+  <string name="search_home_download_popup">Go back to Downloads</string>
   <string name="search_home_vif_show_more">More</string>
   <string name="search_hot_anime">Cartoons</string>
   <string name="search_hot_movie">Movies</string>
@@ -342,7 +342,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_terms_check_text">Agree to Terms of Service</string>
   <string name="sniff_terms_msg">You should accept \"Terms of Use\" to start using a third party search engine.</string>
   <string name="sniff_terms_msg_a">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it.</string>
-  <string name="sniff_terms_msg_b">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it. If you agree to the Terms, tap the check mark below.</string>
+  <string name="sniff_terms_msg_b">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it. If you agree, check the box below.</string>
   <string name="sniff_terms_msg_bold">Terms of Use</string>
   <string name="sniff_terms_msg_bold_new">Terms of Service</string>
   <string name="sniff_terms_reject">Decline</string>
@@ -364,7 +364,7 @@ across all your devices with Xunlei"</string>
   <string name="subfile_list">Files</string>
   <string name="task_detail">Tasks</string>
   <string name="task_detail_notfound_confirm">OK</string>
-  <string name="task_fail">fail</string>
+  <string name="task_fail">Failed</string>
   <string name="text_showmore_infoflow">View more sources</string>
   <string name="third_web_cancel">Cancel</string>
   <string name="third_web_confirm">OK</string>

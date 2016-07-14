@@ -1134,6 +1134,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_text_none">None</string>
   <string name="video_editor_text_preview_text">Text</string>
   <string name="video_editor_trim">Trim</string>
+  <string name="video_editor_unsupport_audio_file">Unsupport audio file</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
   <string name="view_baby_album">View Baby album</string>
