@@ -225,6 +225,10 @@ or enter App lock password"</string>
   <string name="category_key_power_usage_details">key_power_usage_details</string>
   <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charging_text_battery_full_time">Last charge</string>
+  <string name="charging_text_battery_nearly_full">Nearly charged</string>
+  <string name="charging_text_battery_perfect">Fully charged</string>
+  <string name="charging_text_time_calculating">Calculating charging time…</string>
   <string name="chat_number">10 hours</string>
   <string name="chat_uint">" hours"</string>
   <string name="check_network_state">Test network</string>
@@ -483,7 +487,6 @@ For more info check the message you received from your carrier"</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
   <string name="keywords_antispam">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents</string>
   <string name="keywords_antivirus">Virus;Risk;Antivirus;Scan</string>
-  <string name="keywords_applicationlock">Password;Privacy;App lock;Access;Protection</string>
   <string name="keywords_cleanmaster">Trash;Clear;Speed;Storage;Cache</string>
   <string name="keywords_monthreport">Report;Monthly report;Annual report;Security report</string>
   <string name="keywords_networkassistant_1">Data;Traffic</string>
@@ -735,7 +738,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="passwordIncorrect">Username or password is incorrect</string>
   <string name="path_antispam">System apps/Security/Blocklist</string>
   <string name="path_antivirus">System apps/Security/Virus scan</string>
-  <string name="path_applicationlock">System apps/Security</string>
   <string name="path_cleanmaster">System apps/Security/Cleaner</string>
   <string name="path_monthreport">System apps/Security</string>
   <string name="path_networkassistant_1">System apps/Security/Data usage</string>
@@ -1009,7 +1011,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="replace_dns">Replace DNS automatically</string>
   <string name="resource_antispam">Blocklist</string>
   <string name="resource_antivirus">Virus scan</string>
-  <string name="resource_applicationlock">App lock</string>
   <string name="resource_cleanmaster">Cleaner</string>
   <string name="resource_monthreport">Security report</string>
   <string name="resource_networkassistant_1">Data usage</string>

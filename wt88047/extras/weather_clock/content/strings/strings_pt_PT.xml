@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
     <string name="date_time">E, d 'de' MMMM</string>
+    <string name="date_time_12">E, d 'de' MMMM</string>
     <string name="language">pt_PT</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
     <string name="desc_time">'tempo actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', toque duplo para ver relógio'</string>
