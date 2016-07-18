@@ -1356,6 +1356,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_last_delete_message">"You won't be able to use your fingerprints to unlock your phone, authorize purchases, or sign in to apps with them."</string>
   <string name="fingerprint_last_delete_title">Remove all fingerprints?</string>
   <string name="fingerprint_list_title">Fingerprint</string>
+  <string name="fingerprint_lock_first">Unlock First space</string>
+  <string name="fingerprint_lock_second">Unlock Second space</string>
   <string name="fingerprint_manage_category_title">Manage fingerprints</string>
   <string name="fingerprint_not_recognized">Not recognized</string>
   <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>
