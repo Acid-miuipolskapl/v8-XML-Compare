@@ -145,6 +145,9 @@ You can also download them separately."</string>
   <string name="restore_show_toast">Not showing private messages</string>
   <string name="retain_src_file">Keep files</string>
   <string name="retain_src_photo">Keep photos</string>
+  <string name="scanner_fingerprint">Scanning fingerprint…</string>
+  <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
+to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_error_tips_desc">Cant find matches. Add Second space fingerprint?</string>
   <string name="scanner_fingerprint_error_tips_title">Cant find matches</string>
   <string name="scanner_fingerprint_tips_desc">Select existing fingerprint to enter Second space. You wont be able to use it in First space.</string>
