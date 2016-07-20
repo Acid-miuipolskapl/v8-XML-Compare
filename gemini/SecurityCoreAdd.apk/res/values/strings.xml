@@ -74,7 +74,7 @@ to be able to view them anytime"</string>
   <string name="exit_private_space">Switch</string>
   <string name="finger_print_num">Fingerprint %d</string>
   <string name="finger_print_of_use">Use fingerprint</string>
-  <string name="fingerprint_removal_failed">Couldnt delete fingerprint</string>
+  <string name="fingerprint_removal_failed">"Couldn't delete fingerprint"</string>
   <string name="goToSecondSpacce">Go to Second space</string>
   <string name="go_on_import">Keep importing</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -112,7 +112,7 @@ You can also download them separately."</string>
   <string name="need_set_second_space_pwd_first">Set Second space password first</string>
   <string name="newSecondSpace">Turn on Second space</string>
   <string name="next_setp">Next</string>
-  <string name="no_match_repate_scanner">Couldnt find matches, scan again</string>
+  <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
   <string name="not_support_multiple_users">"Multiple spaces aren't supported"</string>
   <string name="notificationSetPassword">Set password</string>
@@ -129,7 +129,8 @@ You can also download them separately."</string>
   <string name="otherSettings">Other settings</string>
   <string name="passWordGuardSummary">Enter Second space from Lock screen using a password</string>
   <string name="passwordProtect">Password</string>
-  <string name="please_diff_finger_print">Make sure different fingerprints are used in First space and Second space./nOtherwise you may not be able to enter Second space from Lock screen.</string>
+  <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
+Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="privacyContactsSummary">Show private items in Second space</string>
   <string name="privacyContactsTitle">Private messages and contacts</string>
   <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
@@ -148,8 +149,8 @@ You can also download them separately."</string>
   <string name="scanner_fingerprint">Scanning fingerprint…</string>
   <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
 to enter Second space from Lock screen"</string>
-  <string name="scanner_fingerprint_error_tips_desc">Cant find matches. Add Second space fingerprint?</string>
-  <string name="scanner_fingerprint_error_tips_title">Cant find matches</string>
+  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
   <string name="scanner_fingerprint_tips_desc">Select existing fingerprint to enter Second space. You wont be able to use it in First space.</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>

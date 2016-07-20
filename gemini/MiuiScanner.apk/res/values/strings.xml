@@ -326,6 +326,7 @@
   <string name="recognize_fail">"Couldn't read code"</string>
   <string name="scan_fail">"Couldn't scan code"</string>
   <string name="scan_result">Result</string>
+  <string name="sdk_not_ready">Preparing SDK. Try again later.</string>
   <string name="secure_access_web_url">Go to website</string>
   <string name="see_app_details">View app details</string>
   <string name="settings">Settings</string>

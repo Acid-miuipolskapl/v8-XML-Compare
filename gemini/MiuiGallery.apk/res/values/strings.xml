@@ -585,7 +585,7 @@
   <string name="crop_tooltip">Drag markers to crop</string>
   <string name="crossprocess">Cross-process</string>
   <string name="custom_select_title_deselect_all">Deselect</string>
-  <string name="custom_select_title_quickly_share">Quickly share</string>
+  <string name="custom_select_title_quickly_share">Share</string>
   <string name="custom_select_title_select_all">Select all</string>
   <string name="custom_select_title_select_item">Select items</string>
   <string name="debugging_tip">Generating debug data</string>
@@ -918,7 +918,7 @@ Take more photos of your friends!"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
   <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
-  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"One photo isn't on device, skip"&lt;/item&gt; &lt;item quantity="other"&gt;"%d photos aren't on device, skip"&lt;/item&gt;" "</string>
+  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Skipped a photo which isn't on device."&lt;/item&gt; &lt;item quantity="other"&gt;"Skipped %d photos which aren't on device."&lt;/item&gt;" "</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
   <string name="picker_title_unlimit">Select photos</string>

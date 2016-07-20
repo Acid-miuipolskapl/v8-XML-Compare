@@ -137,7 +137,7 @@
         <item quantity="one">%d item selected</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
-        <item quantity="other">%1$d photos render failed, skip</item>
-        <item quantity="one">One photo render failed, skip</item>
+        <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
+        <item quantity="one">"Skipped a photo which couldn't be rendered."</item>
     </plurals>
 </resources>
