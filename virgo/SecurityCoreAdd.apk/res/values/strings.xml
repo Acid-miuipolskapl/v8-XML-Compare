@@ -6,8 +6,10 @@
 Messages will only appear in Second space."</string>
   <string name="PrivacyContactDes2">"If you used private messages in First space,
 this feature will be added to Second space automatically."</string>
+  <string name="add_finger_print">Add fingerprint</string>
   <string name="appData">Installed apps</string>
   <string name="app_name">Security Core Component</string>
+  <string name="back">Back</string>
   <string name="cancelClosePassword">"Don't turn off"</string>
   <string name="cancel_button">Cancel</string>
   <string name="changePassword">Change password</string>
@@ -48,6 +50,9 @@ to be able to view them anytime"</string>
   <string name="deleteAll">Delete all</string>
   <string name="deleteDataConfirm">All items will be deleted</string>
   <string name="deleteDataDes">"You didn't select items to move. You won't be able to restore items after they are deleted."</string>
+  <string name="delete_fingerprint">Delete fingerprint</string>
+  <string name="delete_fingerprint_desc">Second space fingerprint will be deleted together with the password</string>
+  <string name="delete_phone_fingerprint">Delete Second space fingerprint</string>
   <string name="delete_src_file">Delete files</string>
   <string name="delete_src_photo">Delete photos</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
@@ -67,6 +72,9 @@ to be able to view them anytime"</string>
   <string name="err_unknown">Unknown error</string>
   <string name="err_volume_not_enough">Not enough storage space</string>
   <string name="exit_private_space">Switch</string>
+  <string name="finger_print_num">Fingerprint %d</string>
+  <string name="finger_print_of_use">Use fingerprint</string>
+  <string name="fingerprint_removal_failed">"Couldn't delete fingerprint"</string>
   <string name="goToSecondSpacce">Go to Second space</string>
   <string name="go_on_import">Keep importing</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -94,19 +102,24 @@ You can also download them separately."</string>
   <string name="loading_apps">Loading apps…</string>
   <string name="loading_space">Just a sec…</string>
   <string name="loading_success">Loaded successfully</string>
+  <string name="lock_screen_open_second_space">Enter Second space from Lock screen</string>
   <string name="messageData">Messages</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
   <string name="msg_switch_photo">Delete these photos in First space after they are moved?</string>
   <string name="needSetKeyguardFirst">Set First space password</string>
   <string name="needSetKeyguardFirstDes">Set First space password before you set Second space password</string>
+  <string name="need_set_second_space_desc">Add Second space password before adding Second space fingerprint</string>
+  <string name="need_set_second_space_pwd_first">Set Second space password first</string>
   <string name="newSecondSpace">Turn on Second space</string>
   <string name="next_setp">Next</string>
+  <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
   <string name="not_support_multiple_users">"Multiple spaces aren't supported"</string>
   <string name="notificationSetPassword">Set password</string>
   <string name="notificationSetPasswordDes">Protect Second space data</string>
   <string name="notificationSummary">Switch between spaces from Notification shade</string>
   <string name="notificationTitle">Notification shade shortcut</string>
+  <string name="notification_recommend_title">Top 12 apps for Second space</string>
   <string name="notification_setting_second_space">Set up Second space</string>
   <string name="notification_setting_second_space_desc">Add Second space password and move data</string>
   <string name="ok_button">OK</string>
@@ -116,6 +129,8 @@ You can also download them separately."</string>
   <string name="otherSettings">Other settings</string>
   <string name="passWordGuardSummary">Enter Second space from Lock screen using a password</string>
   <string name="passwordProtect">Password</string>
+  <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
+Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="privacyContactsSummary">Show private items in Second space</string>
   <string name="privacyContactsTitle">Private messages and contacts</string>
   <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
@@ -125,12 +140,25 @@ You can also download them separately."</string>
   <string name="removeSuccess">Deleted successfully</string>
   <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
   <string name="removingSpace">Deleting…</string>
+  <string name="repeat_scanner_fingerprint">Add again</string>
   <string name="restore_normal_show">"Don't show private messages"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
   <string name="restore_show_toast">Not showing private messages</string>
   <string name="retain_src_file">Keep files</string>
   <string name="retain_src_photo">Keep photos</string>
+  <string name="scanner_fingerprint">Scanning fingerprint…</string>
+  <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
+to enter Second space from Lock screen"</string>
+  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
+  <string name="scanner_fingerprint_tips_desc">Select existing fingerprint to enter Second space. You wont be able to use it in First space.</string>
+  <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
+  <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
   <string name="secondSpace">Second space</string>
+  <string name="second_owner_finger_print">Second space fingerprint</string>
+  <string name="second_space_finger_printf_desc">Add fingerprint specifically used to enter Second space</string>
+  <string name="second_space_finger_printf_title">Second space fingerprint</string>
+  <string name="select_existed_fingerprint">Select fingerprint</string>
   <string name="serNameSummary">Second space</string>
   <string name="setSecondSpacePassword">Set Second space password</string>
   <string name="setSecondSpacePasswordGuide">Set Second space password</string>
@@ -139,6 +167,9 @@ You can also download them separately."</string>
   <string name="setSuccess">Passwords set successfully</string>
   <string name="set_space_pwd_detail">You can enter Second space using the password</string>
   <string name="set_space_pwd_suc">Added Second space password</string>
+  <string name="setting_finger_print_sub_title">Make sure the fingerprint is different from the one in First space</string>
+  <string name="setting_finger_print_title">Add Second space fingerprint</string>
+  <string name="setting_fingerprint_title">Add Second space password</string>
   <string name="setting_is_show_text_contacts">Set up private contacts and messages</string>
   <string name="settings_cross_notification_summary">Receive notifications from the other space</string>
   <string name="settings_cross_notification_title">Notifications</string>
@@ -157,8 +188,13 @@ You can also download them separately."</string>
   <string name="spaceSetting">Settings</string>
   <string name="startSet">Set</string>
   <string name="startTransfer">Move</string>
+  <string name="start_input_finger_print">Add fingerprint</string>
+  <string name="start_new_fingerprint">Add a new fingerprint</string>
+  <string name="start_new_fingerprint_tips">"Use Second space fingerprint
+to enter Second space from Lock screen"</string>
   <string name="start_setting_guide_desc_title">There are a few things to set up</string>
   <string name="summary_switch_apps_settings">Select apps used in Second space</string>
+  <string name="sure_to_use">Confirm</string>
   <string name="switchDataSummary">Move items between spaces</string>
   <string name="switch_apps_settings">App settings</string>
   <string name="switch_data_app">Move items to Second space</string>
@@ -197,11 +233,12 @@ You can also download them separately."</string>
   <string name="transferMessage">Messages from Second space will be moved to First space</string>
   <string name="tryNow">Try now</string>
   <string name="wating">Just a sec…</string>
-  <string name="xspace_chocie">Other apps</string>
-  <string name="xspace_creating">Cloning app…</string>
+  <string name="xspace_chocie">Dual app support</string>
+  <string name="xspace_creating">Creating dual app…</string>
   <string name="xspace_description">Create dual apps to use them separately. Dual apps will have specific Home screen icons.</string>
   <string name="xspace_header">Dual apps</string>
   <string name="xspace_install_completed">Icon added to Home screen</string>
+  <string name="xspace_install_failed">"Couldn't create"</string>
   <string name="xspace_installing">Installing…</string>
   <string name="xspace_introduce">Recommended</string>
   <string name="xspace_label">Dual apps</string>

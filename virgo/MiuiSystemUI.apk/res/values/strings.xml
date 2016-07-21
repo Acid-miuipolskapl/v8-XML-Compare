@@ -269,7 +269,7 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+  <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
   <string name="status_bar_date_format">"EEEE
 MMMM d"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -344,8 +344,7 @@ Slide down to lock"</string>
   <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
   <string name="vpn_title">VPN activated</string>
   <string name="vpn_title_long">Connecting to VPN using %s</string>
-  <string name="weather_description">%1$s | %2$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Updated %1$s</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
