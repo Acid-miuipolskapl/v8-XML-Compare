@@ -36,6 +36,7 @@
   <string name="answer_state_setting_summary">Additional incoming call options</string>
   <string name="answer_state_setting_title">Incoming call settings</string>
   <string name="antispam_notification_title">Unknown number</string>
+  <string name="antispam_setting">Blocklist</string>
   <string name="apn_settings">Access Point Names</string>
   <string name="associate_sim_missing_message">The %1$s SIM is unavailable. Would you like to place the call via %2$s</string>
   <string name="associate_sim_missing_other">Other</string>
