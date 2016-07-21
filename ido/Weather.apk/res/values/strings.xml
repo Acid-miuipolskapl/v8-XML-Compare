@@ -127,7 +127,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="no_network_btn">Try again</string>
   <string name="open">Open</string>
   <string name="open_browser">Open in browser</string>
-  <string name="pressure_connect">%1$s MB</string>
+  <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">Relative humidity</string>
   <string name="realtime_wind_default_title">Wind</string>
