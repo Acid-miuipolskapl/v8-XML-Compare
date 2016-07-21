@@ -209,14 +209,14 @@ To activate your account, follow the
   <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_device_activate_account">Activate account</string>
-  <string name="passport_find_device_display_id">unlock number:%s</string>
+  <string name="passport_find_device_display_id">Unlock number: %s</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
   <string name="passport_get_back_pwd">Retrieve account password</string>
   <string name="passport_get_verify_code">Get code</string>
   <string name="passport_getting_verify_code">Getting</string>
-  <string name="passport_i_know">I know</string>
+  <string name="passport_i_know">Got it</string>
   <string name="passport_identitfication_expired">Verification code expired, start over</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
@@ -277,8 +277,8 @@ To activate your account, follow the
   <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
-  <string name="passport_registered_phone_user_ID">user ID:%s</string>
-  <string name="passport_registered_phone_user_name">user Name:%s</string>
+  <string name="passport_registered_phone_user_ID">User ID: %s</string>
+  <string name="passport_registered_phone_user_name">Username: %s</string>
   <string name="passport_reject_recycle_account">Nope</string>
   <string name="passport_relogin">Sign in again</string>
   <string name="passport_relogin_notice">You need to sign in again</string>
@@ -291,7 +291,7 @@ To activate your account, follow the
   <string name="passport_restart">Start over</string>
   <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
   <string name="passport_restart_register_title">Create a Mi Account</string>
-  <string name="passport_retry">Retry</string>
+  <string name="passport_retry">Try again</string>
   <string name="passport_select_reg_ways_title">Other ways to sign up</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_setting">Setting up…</string>

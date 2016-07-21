@@ -123,7 +123,7 @@
   <string name="notification_load_title_alpha">Sign in to your Mi Account</string>
   <string name="notification_load_title_dev">Sign in to your Mi Account</string>
   <string name="notification_reboot_btn">Reboot</string>
-  <string name="notification_reboot_seccess_des">Tap to share update info.</string>
+  <string name="notification_reboot_seccess_des">Tap to view update info.</string>
   <string name="notification_reboot_seccess_title">Device updated</string>
   <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
   <string name="notification_reboot_title">Reboot to apply update</string>
