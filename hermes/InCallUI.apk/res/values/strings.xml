@@ -106,6 +106,7 @@
   <string name="dialog_call_ordinary_telephone">Regular call</string>
   <string name="dialog_purchase">Top up</string>
   <string name="do_not_ask">Dont show again</string>
+  <string name="do_not_support_video_calls_by_remote">"Video calls aren't supported on the other device"</string>
   <string name="emergency_call_dialog_number_for_display">Emergency number</string>
   <string name="fraud_call_answer">Answer</string>
   <string name="fraud_call_decline">Decline</string>
