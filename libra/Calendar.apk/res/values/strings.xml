@@ -191,7 +191,7 @@
   <string name="every_year_month_of_day">%1$s%2$s日</string>
   <string name="exist_calendar">已订阅</string>
   <string name="festival_detail_title">Festival</string>
-  <string name="force_touch_title_add_new_event">Add New Event</string>
+  <string name="force_touch_title_add_new_event">Add event</string>
   <string name="fortune_birthday">生日</string>
   <string name="fortune_card_caiwei">财位：</string>
   <string name="fortune_card_set_bazi">设置生辰八字</string>
