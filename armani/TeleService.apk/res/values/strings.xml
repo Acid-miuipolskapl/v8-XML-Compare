@@ -38,6 +38,7 @@
   <string name="answer_state_setting_summary">Additional incoming call options</string>
   <string name="answer_state_setting_title">Incoming call settings</string>
   <string name="antispam_notification_title">Unknown number</string>
+  <string name="antispam_setting">Blocklist</string>
   <string name="apn_settings">Access Point Names</string>
   <string name="area_code_preference_summary">Auto dial area code</string>
   <string name="areacode_set_default">Default</string>
