@@ -88,7 +88,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint, put your finger on the sensor and lift after you feel a vibration.</string>
   <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint.</string>
   <string name="add_fingerprint_instruction_title">Add your fingerprint</string>
   <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
@@ -1051,6 +1050,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_identify_msg">Reading fingerprint…</string>
   <string name="fingerprint_identify_try_again_msg">"Couldn't read fingerprint, try again"</string>
   <string name="fingerprint_list_title">Fingerprint</string>
+  <string name="fingerprint_lock_first">Unlock First space</string>
+  <string name="fingerprint_lock_second">Unlock Second space</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
@@ -1386,11 +1387,11 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_sounds_enable_title">Screen locking sounds</string>
   <string name="lockpassword_cancel_label">Cancel</string>
   <string name="lockpassword_choose_for_second_user">Set Second space password</string>
-  <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
-  <string name="lockpassword_choose_your_password_header">Choose your password</string>
+  <string name="lockpassword_choose_lock_generic_header">Choose screen lock</string>
+  <string name="lockpassword_choose_your_password_header">Set your password</string>
   <string name="lockpassword_choose_your_password_second_space">"Set password 
  for Second space"</string>
-  <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
+  <string name="lockpassword_choose_your_pattern_header">Set your pattern</string>
   <string name="lockpassword_choose_your_pin_header">Set your PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Set PIN 
  for Second space"</string>
@@ -1409,8 +1410,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_continue_label">Continue</string>
   <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
-  <string name="lockpassword_invalid_password">Wrong password</string>
-  <string name="lockpassword_invalid_pin">Wrong PIN</string>
+  <string name="lockpassword_invalid_password">Incorrect password</string>
+  <string name="lockpassword_invalid_pin">Incorrect PIN</string>
   <string name="lockpassword_ok_label">OK</string>
   <string name="lockpassword_password_recently_used">"Device administrator doesn't allow using a recent password."</string>
   <string name="lockpassword_password_requires_alpha">Password must contain at least one letter.</string>
@@ -1445,7 +1446,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
   <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
   <string name="lockpattern_recording_intro_header_second_space">Draw an unlock pattern for Second space:</string>
-  <string name="lockpattern_restart_button_text">Redraw</string>
+  <string name="lockpattern_restart_button_text">Draw again</string>
   <string name="lockpattern_retry_button_text">Clear</string>
   <string name="lockpattern_settings_change_lock_pattern">Change unlock pattern</string>
   <string name="lockpattern_settings_choose_lock_pattern">Set unlock pattern</string>
@@ -1807,7 +1808,7 @@ Select your operating system:"</string>
   <string name="path_alarm_sound_title">Settings/Sound &amp; vibration/Alarm sound</string>
   <string name="path_android_beam_settings">Settings/More/Android Beam</string>
   <string name="path_apn_settings">Settings/SIM cards &amp; mobile networks/Access Point Names</string>
-  <string name="path_app_invisible">Settings/Additional/Beta features/App Invisible</string>
+  <string name="path_app_invisible">Settings/Additional settings/Beta features/App Invisible</string>
   <string name="path_app_permission">Settings/Permissions</string>
   <string name="path_app_switch_key">Settings/Additional settings/Buttons/Recents</string>
   <string name="path_application_lock">Settings/App lock</string>
@@ -1851,7 +1852,7 @@ Select your operating system:"</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One_handed mode</string>
   <string name="path_home_key">Settings/Additional settings/Buttons/Home</string>
   <string name="path_key_settings">Settings/Additional settings/Buttons</string>
-  <string name="path_lab_functions_title">Settings/Additional/Beta features</string>
+  <string name="path_lab_functions_title">Settings/Additional settings/Beta features</string>
   <string name="path_language_picker_title">Settings/Additional settings/Language &amp; input/Language</string>
   <string name="path_language_settings">Settings/Additional settings/Language &amp; input</string>
   <string name="path_led_settings">Settings/Additional settings/Notification light</string>
@@ -1882,10 +1883,10 @@ Select your operating system:"</string>
   <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
-  <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
+  <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
   <string name="path_power_mode_settings">Settings/Battery &amp; performance/Power settings</string>
-  <string name="path_power_optimize">Settings/Additional/Beta features/Battery saver</string>
+  <string name="path_power_optimize">Settings/Additional settings/Beta features/Battery saver</string>
   <string name="path_pref_volume_wake_title">Settings/Lock screen &amp; password/Wake with Volume buttons</string>
   <string name="path_preferred_network_type_settings">Settings/SIM cards &amp; mobile networks/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
@@ -1927,7 +1928,7 @@ Select your operating system:"</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
-  <string name="path_touch_assistant_settings">Settings/Additional settings/Floating ball</string>
+  <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
@@ -2497,7 +2498,7 @@ This setting affects all users on this phone."</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>
   <string name="search_toggle_position">Toggle positions</string>
-  <string name="search_touch_assistant">Floating ball</string>
+  <string name="search_touch_assistant">Quick ball</string>
   <string name="search_touch_sensitive_title">Glove mode</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Text-to-speech output</string>
