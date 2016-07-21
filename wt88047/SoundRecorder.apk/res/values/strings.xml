@@ -56,7 +56,7 @@
   <string name="preference_enable_earpiece_summary">Use receiver speaker for external playback</string>
   <string name="preference_enable_earpiece_title">Use receiver to play audio</string>
   <string name="preference_led_indicator">Lock screen notifications</string>
-  <string name="preference_led_indicator_prompt">While recording, show in status bar and pulse notification light at lock screen</string>
+  <string name="preference_led_indicator_prompt">While recording, show status bar shortcut and pulse notification light at Lock screen</string>
   <string name="preference_record_scenes_dialog_title">Choose recording type</string>
   <string name="preference_scenes">Recording type</string>
   <string name="preference_silent_mode">Mute ringer when recording</string>
@@ -103,11 +103,11 @@
   <string name="rename_duplicate">Another recording with the same name already exists.</string>
   <string name="rename_no_more_tip">"Don't show again"</string>
   <string name="retry">Retry</string>
-  <string name="runtime_permission_ungranted">Cannot use SoundRecorder because of ungranted permissions</string>
+  <string name="runtime_permission_ungranted">"Can't use Recorder due to ungranted permissions"</string>
   <string name="search_app">Recorder</string>
   <string name="search_enable_earpiece_title">Use receiver to play audio</string>
   <string name="search_led_indicator">Lock screen notifications</string>
-  <string name="search_led_indicator_prompt">While recording, show in status bar and pulse notification light at lock screen</string>
+  <string name="search_led_indicator_prompt">While recording, show status bar shortcut and pulse notification light at Lock screen</string>
   <string name="search_quliaty_title">Recording quality</string>
   <string name="search_scenes">Recording type</string>
   <string name="search_silent_mode">Mute ringer when recording</string>
