@@ -233,12 +233,17 @@ Check your tracking number."</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
   <string name="login_ok">Sign in</string>
+  <string name="mark_number_check_choose_others">Choose others</string>
+  <string name="mark_number_check_dialog_title">Mark number</string>
+  <string name="mark_number_check_most_choice">(Most Users Choice)</string>
   <string name="mark_number_custom_mark_deleted">Flag info removed</string>
   <string name="mark_number_dialog_maintitle">Flag this phone number</string>
   <string name="mark_number_dialog_subtitle">%1$s (flagged by %2$d people)</string>
   <string name="mark_number_feedback">Flag</string>
   <string name="mark_number_feedback_hint">Enter feedback</string>
   <string name="mark_number_feedback_invalid_hint">Enter your feedback</string>
+  <string name="mark_number_feedback_not_number">"It's not %s number"</string>
+  <string name="mark_number_feedback_personal_number">"It's personal number"</string>
   <string name="mark_number_feedback_success">Flag info sent successfully</string>
   <string name="mark_number_marked_maintitle">Change flag info</string>
   <string name="mark_number_marked_subtitle">%s (current flag)</string>

@@ -519,7 +519,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
   <string name="incall_error_power_off">To place a call, first turn off Airplane mode.</string>
   <string name="incall_error_supp_service_conference">Unable to conference calls.</string>
-  <string name="incall_error_supp_service_hangup">Unable to release call(s).</string>
+  <string name="incall_error_supp_service_hangup">Unable to end call.</string>
   <string name="incall_error_supp_service_reject">Unable to reject call.</string>
   <string name="incall_error_supp_service_separate">Unable to separate call.</string>
   <string name="incall_error_supp_service_switch">Unable to switch calls.</string>
