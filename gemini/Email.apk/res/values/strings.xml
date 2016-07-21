@@ -25,7 +25,7 @@
   <string name="account_setting_keywords">Accounts;mail accounts</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
-  <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Download attachments using WLAN</string>
   <string name="account_settings_data_usage">Sync settings</string>
   <string name="account_settings_description_label">Account name</string>
   <string name="account_settings_edit_quick_responses_label">Quick reply</string>
@@ -101,7 +101,7 @@
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
   <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
-  <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
+  <string name="account_setup_failed_too_many_partnerships">"Couldn't sign in, too many connections."</string>
   <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
   <string name="account_setup_incoming_delete_policy_never_label">Never</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>

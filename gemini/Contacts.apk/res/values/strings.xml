@@ -217,7 +217,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
   <string name="contact_detail_miprofile_save">Tap to get contact card</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Received contact card</string>
+  <string name="contact_detail_miprofile_save_success_toast">Receiving contact card</string>
   <string name="contact_detail_miprofile_settings_header">ADDITIONAL SETTINGS</string>
   <string name="contact_detail_miprofile_subtitle">Already exchanged cards</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Can't connect to the network"</string>
@@ -453,6 +453,7 @@ Reason: \"%s\""</string>
   <string name="force_touch_miprofile">Contact card</string>
   <string name="force_touch_new_contact">New contact</string>
   <string name="foundTooManyContacts">More than %d found.</string>
+  <string name="fraud_more_indemnity">More indemnity</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
@@ -1161,6 +1162,8 @@ To add a contact to your list of favorites:
   <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
+  <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
+  <string name="telecom_fraud_insurance_description">Guarantee ten thousand RMB | Xiaomi customize | 9.9 RMB one year</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>
   <string name="title_other_devices">Other available devices</string>
   <string name="title_paired_devices">Paired devices</string>
