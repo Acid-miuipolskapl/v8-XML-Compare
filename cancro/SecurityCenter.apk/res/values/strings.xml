@@ -104,7 +104,7 @@ or enter App lock password"</string>
   <string name="apps_item_sms_reset_button_text">Restore defaults</string>
   <string name="apps_item_sms_title">Default messaging settings</string>
   <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
-  <string name="apps_item_summary_system_rooted">Root access has been allowed, restore to default settings to avoid security risks!</string>
+  <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
   <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
   <string name="apps_item_title_system">System update</string>
   <string name="apps_item_virus_cleanup_success">Cleared successfully!</string>
@@ -1104,7 +1104,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_info_monitor">Monitor system environment when payment apps are started</string>
   <string name="sp_settings_plugin_monitor_summary">Scan payment plug-ins when they are started</string>
   <string name="sp_settings_plugin_monitor_title">Monitor payment plug-ins</string>
-  <string name="sp_settings_root_title_omit">ROOT check</string>
+  <string name="sp_settings_root_title_omit">Check root access</string>
   <string name="sp_settings_title_input_method">Secure IME</string>
   <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
@@ -1146,7 +1146,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus">Remove viruses to keep your device secure</string>
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
-  <string name="summary_xiaomi_roaming">0.01 yuan per MB for international network traffic.</string>
+  <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content">%1$d risks</string>
@@ -1281,10 +1281,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
   <string name="toast_lockscreen_glogin_empty_password">Password required</string>
   <string name="toast_network_switch">This app can connect to the internet</string>
-  <string name="toast_reject_sms_read_permission_success">Set successfully!</string>
+  <string name="toast_reject_sms_read_permission_success">Set successfully</string>
   <string name="toast_root_apply_accept">Root access granted to %s</string>
   <string name="toast_root_apply_reject">Denied root access for %s</string>
-  <string name="toast_set_success">Turned on successfully!</string>
+  <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_shortcut_install">Shortcut placed on Home screen</string>
   <string name="toast_shortcut_uninstall">Shortcut removed</string>
   <string name="toast_show_notification">Pinned to notification shade</string>

@@ -30,6 +30,8 @@
 
 .field public static final IS_C5:Z
 
+.field public static final IS_C6:Z
+
 .field public static final IS_CM:Z
 
 .field public static final IS_CM_TEST:Z
@@ -474,6 +476,16 @@
     move-result v0
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_C5:Z
+
+    sget-object v0, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    const-string v1, "mido"
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->startsWith(Ljava/lang/String;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_C6:Z
 
     const-string v0, "is_hongmi"
 
@@ -1913,6 +1925,42 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_H3C:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B6:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B5:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_C5:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_C6:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
 
     if-nez v0, :cond_0
 

@@ -499,6 +499,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"Couldn't take photo"</string>
   <string name="ubifocus_capture_warning_message">For best results, your photo should contain objects both near (less than 1 meter from the lens) and far</string>
+  <string name="video_camera_label">Camcorder</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Size limit reached.</string>
   <string name="wait">Just a sec…</string>

@@ -92,6 +92,7 @@
   <string name="later">Later</string>
   <string name="loading">Requesting…</string>
   <string name="log_share">Share</string>
+  <string name="menu_more_button">menu</string>
   <string name="menu_title_current_version_log">"What's new"</string>
   <string name="menu_title_download_current_rom">Download update</string>
   <string name="menu_title_pick_rom_file">Choose update package</string>
