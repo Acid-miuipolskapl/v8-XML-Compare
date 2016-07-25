@@ -592,7 +592,7 @@
   <string name="default_album_name">New album</string>
   <string name="delete">Delete</string>
   <string name="delete_album_failed">"Couldn't delete album"</string>
-  <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s %3$s?</string>
   <string name="delete_album_success">Album deleted</string>
   <string name="delete_finish_format">%d deleted</string>
   <string name="delete_from_album">from \"%s\" album (all devices)</string>
