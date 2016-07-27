@@ -68,6 +68,7 @@
   <string name="album_share_subtitle_quitting">Exiting…</string>
   <string name="album_share_subtitle_requesting">Getting album info…</string>
   <string name="album_share_title_new_album">Share new album</string>
+  <string name="album_show_local_only">Only show local albums</string>
   <string name="album_type_baby">Baby album</string>
   <string name="album_type_share">Shared albums</string>
   <string name="album_type_system">System albums</string>
@@ -598,6 +599,7 @@
   <string name="delete_from_album">from \"%s\" album (all devices)</string>
   <string name="delete_from_album_no_account">from \"%s\" album</string>
   <string name="delete_from_all_devices">from all devices</string>
+  <string name="delete_from_cloud">Delete items from cloud album</string>
   <string name="delete_from_devices">All synced devices</string>
   <string name="delete_from_devices_album">All devices to which the album has been synced</string>
   <string name="delete_from_homepage_album">Albums shown in Gallery</string>
@@ -925,6 +927,7 @@ Take more photos of your friends!"</string>
   <string name="posterize">Posterize</string>
   <string name="preparing_data">Just a sec…</string>
   <string name="projection_checkbox_text">Remember this display</string>
+  <string name="projection_device_connection_failed">Failed connecting to projection device</string>
   <string name="projection_local_mobile">This phone</string>
   <string name="projection_multi_title">Devices</string>
   <string name="projection_single_title">Cast to %s</string>

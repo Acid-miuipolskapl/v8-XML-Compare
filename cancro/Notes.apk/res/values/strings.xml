@@ -40,6 +40,7 @@ Tap the plus to create a folder"</string>
   <string name="error_unsupport_content">This note contains unsupported content, touch here to update</string>
   <string name="error_widget_exist_for_send_to_desktop">This note is already on your Home screen</string>
   <string name="folder_exist">A folder with the same name already exists</string>
+  <string name="force_touch_menu_add">Add note</string>
   <string name="format_move_notes_out_folder">Moved %1$s out</string>
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
   <string name="hint_foler_name">Name</string>
@@ -91,7 +92,7 @@ Tap the plus to create a folder"</string>
   <string name="search_hint">Search Notes</string>
   <string name="search_keyword_notes">Notes;Memo</string>
   <string name="search_label">Searching…</string>
-  <string name="search_path_notes">Settings/System apps/Notes</string>
+  <string name="search_path_notes">System apps/Notes</string>
   <string name="search_setting_description">Search text in your notes</string>
   <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Sync notes</string>
