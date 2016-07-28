@@ -41,7 +41,7 @@
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
   <string name="clean_up_button">Clean up</string>
-  <string name="comment_invalid">Rate this update (touch the stars)</string>
+  <string name="comment_invalid">Rate this update (tap the stars)</string>
   <string name="comment_publish">Submit</string>
   <string name="comment_sending">Sending…</string>
   <string name="comment_upload_failed">"Can't send comment"</string>
@@ -92,7 +92,7 @@
   <string name="later">Later</string>
   <string name="loading">Requesting…</string>
   <string name="log_share">Share</string>
-  <string name="menu_more_button">menu</string>
+  <string name="menu_more_button">Menu</string>
   <string name="menu_title_current_version_log">"What's new"</string>
   <string name="menu_title_download_current_rom">Download update</string>
   <string name="menu_title_pick_rom_file">Choose update package</string>
@@ -126,7 +126,7 @@
   <string name="notification_reboot_btn">Reboot</string>
   <string name="notification_reboot_seccess_des">Tap to view update info.</string>
   <string name="notification_reboot_seccess_title">Device updated</string>
-  <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
+  <string name="notification_reboot_summary_hm">Tap to reboot your device.</string>
   <string name="notification_reboot_title">Reboot to apply update</string>
   <string name="notification_reboot_title_hm">Reboot to apply update</string>
   <string name="notification_restart">Update again</string>
@@ -167,7 +167,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates when connected to WLAN and install at night?</string>
   <string name="set_auto_update_title">Update automatically?</string>
-  <string name="set_installfail_full_msg">Something went wrong. Touch OK to report this error.</string>
+  <string name="set_installfail_full_msg">Something went wrong. Tap OK to report this error.</string>
   <string name="set_installfail_msg">"You aren't connected to a WLAN network. Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="set_installfail_title">Try to download update again?</string>
   <string name="set_installfail_title_full">"Can't update"</string>

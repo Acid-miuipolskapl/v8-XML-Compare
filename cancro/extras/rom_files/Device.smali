@@ -954,6 +954,14 @@
     return v0
 .end method
 
+.method public static isOrientationIndicatorEnabled()Z
+    .locals 1
+
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
 .method public static isPad()Z
     .locals 2
 
@@ -1032,122 +1040,6 @@
     move-result v0
 
     return v0
-.end method
-
-.method public static isSupportBeautyDetail()Z
-    .locals 1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3W:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
-
-    if-eqz v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2A:Z
-
-    if-eqz v0, :cond_1
-
-    :cond_0
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3_PRO:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_H3C:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B6:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_C5:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B5:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3B:Z
-
-    if-nez v0, :cond_1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
-
-    if-eqz v0, :cond_2
-
-    :cond_1
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_2
-    const/4 v0, 0x0
-
-    goto :goto_0
 .end method
 
 .method public static isSupportGradienter()Z
