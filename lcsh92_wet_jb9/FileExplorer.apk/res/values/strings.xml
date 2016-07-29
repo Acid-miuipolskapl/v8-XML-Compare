@@ -222,6 +222,8 @@
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
   <string name="folder_name_invalid">"Folder names can't contain the following characters: /\\:*?&lt;&gt;"</string>
+  <string name="force_touch_clean">Clear trash</string>
+  <string name="force_touch_search">Search files</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to trash</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">USB storage connected</string>

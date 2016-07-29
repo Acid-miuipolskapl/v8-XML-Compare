@@ -5,7 +5,8 @@
     <string name="language">nl</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
 	<string name="desc_time">'huidige tijd\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', dubbeltikken om klok te openen'</string>
-    <string name="weather_type_0">Helder</string>
+    <string name="desc_time_1">'huidige tijd' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dubbeltikken om klok te openen'</string>
+	<string name="weather_type_0">Helder</string>
     <string name="weather_type_1">Bewolkt</string>
     <string name="weather_type_2">Nevelig</string>
     <string name="weather_type_3">Mistig</string>
