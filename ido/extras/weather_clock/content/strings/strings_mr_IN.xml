@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
+    <string name="date_time_12">EEEE, d MMMM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'सद्य वेळ' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', घड्याळ अॅपमध्ये प्रवेश करण्यासाठी डबल टॅप करा'</string>

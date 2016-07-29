@@ -217,7 +217,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
   <string name="contact_detail_miprofile_save">Tap to get contact card</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Receiving contact card</string>
+  <string name="contact_detail_miprofile_save_success_toast">Received contact card</string>
   <string name="contact_detail_miprofile_settings_header">ADDITIONAL SETTINGS</string>
   <string name="contact_detail_miprofile_subtitle">Already exchanged cards</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Can't connect to the network"</string>
@@ -453,7 +453,7 @@ Reason: \"%s\""</string>
   <string name="force_touch_miprofile">Contact card</string>
   <string name="force_touch_new_contact">New contact</string>
   <string name="foundTooManyContacts">More than %d found.</string>
-  <string name="fraud_more_indemnity">More indemnity</string>
+  <string name="fraud_more_indemnity">More</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
@@ -674,7 +674,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_finding_label">Find contact cards</string>
   <string name="miprofile_name">My profile</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
-  <string name="miprofile_nick_name_edit">Edit card nick name</string>
+  <string name="miprofile_nick_name_edit">"Edit contact's nickname"</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Enter nickname</string>
   <string name="miprofile_nick_name_edit_dialog_message">Nickname will appear in call history and profile info</string>
   <string name="miprofile_nick_name_edit_dialog_title">Edit nickname</string>
@@ -1156,14 +1156,14 @@ To add a contact to your list of favorites:
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
-  <string name="t9_search_guide_pinyin_title1">Quick search contacts by enter letters</string>
-  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;X&lt;/font&gt;enia &lt;font fgcolor=""&gt;H&lt;/font&gt;oney</string>
-  <string name="t9_search_guide_zhuyin_title1">Quick search contacts by enter letters</string>
+  <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
+  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
+  <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
   <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
-  <string name="telecom_fraud_insurance_description">Guarantee ten thousand RMB | Xiaomi customize | 9.9 RMB one year</string>
+  <string name="telecom_fraud_insurance_description">10,000 CNY insurance | Exclusive Xiaomi offer | 9.9 CNY per year</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>
   <string name="title_other_devices">Other available devices</string>
   <string name="title_paired_devices">Paired devices</string>
