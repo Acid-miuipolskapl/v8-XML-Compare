@@ -98,23 +98,23 @@
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Password should contain at least %d lowercase letters.</item>
-        <item quantity="one">Password should contain at least 1 lowercase …</item>
+        <item quantity="one">Password should contain at least 1 lowercase letter.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Password should contain at least %d uppercase letters.</item>
-        <item quantity="one">Password should contain at least 1 uppercase …</item>
+        <item quantity="one">Password should contain at least 1 uppercase letter.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Password should contain at least %d numbers.</item>
-        <item quantity="one">Password should contain at least 1 …</item>
+        <item quantity="one">Password should contain at least 1 number.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Password should contain at least %d special symbols.</item>
-        <item quantity="one">Password should contain at least 1 special …</item>
+        <item quantity="one">Password should contain at least 1 special symbol.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Password should contain at least %d characters other than letters.</item>
-        <item quantity="one">Password should contain at least 1 character other than …</item>
+        <item quantity="one">Password should contain at least 1 character other than letters.</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d apps locked</item>
