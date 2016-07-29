@@ -457,7 +457,7 @@
 	<Button x="#datum_x-465" y="#datum_y-555" w="930" h="184">
 		<Triggers>
 			<Trigger action="up">
-				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.MAIN;component=com.android.calculator2/.Calculator;end'"/>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.MAIN;component=com.miui.calculator/.cal.CalculatorActivity;end'"/>
 			</Trigger>
 		</Triggers>
 	</Button>

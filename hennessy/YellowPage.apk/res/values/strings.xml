@@ -135,10 +135,10 @@ Check your tracking number."</string>
   <string name="express_inquiry_status_difficult_goods">Unknown</string>
   <string name="express_inquiry_status_dispatch">Dispatching</string>
   <string name="express_inquiry_status_on_the_way">On the way</string>
-  <string name="express_inquiry_status_receipted">Receipted</string>
+  <string name="express_inquiry_status_receipted">Received</string>
   <string name="express_inquiry_status_return">Return</string>
-  <string name="express_inquiry_status_sign_out">Sign out</string>
-  <string name="express_inquiry_status_unknown">UNKNOWN</string>
+  <string name="express_inquiry_status_sign_out">Rejected</string>
+  <string name="express_inquiry_status_unknown">Unknown</string>
   <string name="express_inquiry_trace">Track</string>
   <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
   <string name="express_inquiry_trace_success">Tracking</string>
@@ -405,7 +405,7 @@ Total: RMB %3$s"</string>
   <string name="turn_on_phone_event_dialog_title">Update Caller ID database</string>
   <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
   <string name="turn_on_phone_event_title">Receive service info</string>
-  <string name="turn_on_smart_antispam_hint">Indentify calls from unknown numbers</string>
+  <string name="turn_on_smart_antispam_hint">Identify calls from unknown numbers</string>
   <string name="turn_on_smart_antispam_summary_off">Upload and identify unknown phone numbers from call history and text messages</string>
   <string name="turn_on_smart_antispam_summary_on">Upload and identify unknown phone numbers from call history and text messages</string>
   <string name="turn_on_smart_antispam_title">Caller ID</string>

@@ -524,20 +524,32 @@
         <item>16000000</item>
         <item>32000000</item>
     </string-array>
+    <array name="camera_face_beautify_icons">
+        <item>@drawable/ic_camera_face_beatify_smart</item>
+        <item>@drawable/ic_camera_face_beatify_advanced</item>
+        <item>@drawable/ic_camera_face_beatify_close</item>
+    </array>
+    <string-array name="pref_camera_face_beautify_entryvalues">
+        <item>pref_camera_face_beauty_key</item>
+        <item>pref_camera_face_beauty_advanced_key</item>
+        <item>@string/pref_face_beauty_close</item>
+    </string-array>
+    <string-array name="pref_camera_face_beautify_entries">
+        <item>@string/face_beauty_smart</item>
+        <item>@string/face_beauty_advanced</item>
+        <item>@string/face_beauty_close</item>
+    </string-array>
     <array name="camera_skin_beautify_icons">
-        <item>@drawable/ic_camera_skin_beatify_close</item>
         <item>@drawable/ic_camera_skin_beatify_i_1</item>
         <item>@drawable/ic_camera_skin_beatify_i_2</item>
         <item>@drawable/ic_camera_skin_beatify_i_3</item>
     </array>
     <string-array name="pref_camera_skin_beautify_entryvalues">
-        <item>@string/pref_face_beauty_close</item>
         <item>@string/pref_face_beauty_low</item>
         <item>@string/pref_face_beauty_medium</item>
         <item>@string/pref_face_beauty_high</item>
     </string-array>
     <string-array name="pref_camera_skin_beautify_entries">
-        <item>@string/face_beauty_intelligent_level_0</item>
         <item>@string/face_beauty_intelligent_level_1</item>
         <item>@string/face_beauty_intelligent_level_2</item>
         <item>@string/face_beauty_intelligent_level_3</item>
@@ -705,33 +717,33 @@
         <item>0</item>
     </string-array>
     <string-array name="pref_skin_beautify_multi_level_entries">
-        <item>@string/pref_camera_beautify_entry_auto</item>
-        <item>@string/pref_camera_beautify_entry_low</item>
-        <item>@string/pref_camera_beautify_entry_normal</item>
-        <item>@string/pref_camera_beautify_entry_high</item>
+        <item>@string/pref_camera_beautify_entry_0</item>
+        <item>@string/pref_camera_beautify_entry_1</item>
+        <item>@string/pref_camera_beautify_entry_2</item>
+        <item>@string/pref_camera_beautify_entry_3</item>
+        <item>@string/pref_camera_beautify_entry_4</item>
+        <item>@string/pref_camera_beautify_entry_5</item>
+        <item>@string/pref_camera_beautify_entry_6</item>
+        <item>@string/pref_camera_beautify_entry_7</item>
+        <item>@string/pref_camera_beautify_entry_8</item>
+        <item>@string/pref_camera_beautify_entry_9</item>
+        <item>@string/pref_camera_beautify_entry_10</item>
+        <item>@string/pref_camera_beautify_entry_11</item>
+        <item>@string/pref_camera_beautify_entry_12</item>
     </string-array>
-    <string-array name="pref_skin_beautify_skin_color_entryvalues">
-        <item>@string/pref_camera_beautify_entryvalue_auto</item>
-        <item>@string/pref_camera_beautify_entryvalue_low</item>
-        <item>@string/pref_camera_beautify_entryvalue_normal</item>
-        <item>@string/pref_camera_beautify_entryvalue_high</item>
-    </string-array>
-    <string-array name="pref_skin_beautify_slim_face_entryvalues">
-        <item>@string/pref_camera_beautify_entryvalue_auto</item>
-        <item>@string/pref_camera_beautify_entryvalue_low</item>
-        <item>@string/pref_camera_beautify_entryvalue_normal</item>
-        <item>@string/pref_camera_beautify_entryvalue_high</item>
-    </string-array>
-    <string-array name="pref_skin_beautify_enlarge_eye_entryvalues">
-        <item>@string/pref_camera_beautify_entryvalue_auto</item>
-        <item>@string/pref_camera_beautify_entryvalue_low</item>
-        <item>@string/pref_camera_beautify_entryvalue_normal</item>
-        <item>@string/pref_camera_beautify_entryvalue_high</item>
-    </string-array>
-    <string-array name="pref_skin_beautify_skin_smooth_entryvalues">
-        <item>@string/pref_camera_beautify_entryvalue_auto</item>
-        <item>@string/pref_camera_beautify_entryvalue_low</item>
-        <item>@string/pref_camera_beautify_entryvalue_normal</item>
-        <item>@string/pref_camera_beautify_entryvalue_high</item>
+    <string-array name="pref_skin_beautify_multi_level_entryvalues">
+        <item>@string/pref_camera_beautify_entryvalue_0</item>
+        <item>@string/pref_camera_beautify_entryvalue_1</item>
+        <item>@string/pref_camera_beautify_entryvalue_2</item>
+        <item>@string/pref_camera_beautify_entryvalue_3</item>
+        <item>@string/pref_camera_beautify_entryvalue_4</item>
+        <item>@string/pref_camera_beautify_entryvalue_5</item>
+        <item>@string/pref_camera_beautify_entryvalue_6</item>
+        <item>@string/pref_camera_beautify_entryvalue_7</item>
+        <item>@string/pref_camera_beautify_entryvalue_8</item>
+        <item>@string/pref_camera_beautify_entryvalue_9</item>
+        <item>@string/pref_camera_beautify_entryvalue_10</item>
+        <item>@string/pref_camera_beautify_entryvalue_11</item>
+        <item>@string/pref_camera_beautify_entryvalue_12</item>
     </string-array>
 </resources>

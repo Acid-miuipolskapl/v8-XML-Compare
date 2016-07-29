@@ -5,6 +5,7 @@
     <string name="language">hr</string>
     <string name="desc_date_format">dd.MM. EEEE</string>
     <string name="desc_time">'vrijeme' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dodirnite dva puta za prikaz sata'</string>
+	<string name="desc_time_1">'trenutno vrijeme' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dodirnite dva puta za otvaranje aplikacije Sat'</string>
     <string name="weather_type_null">'Nema podataka'</string>
     <string name="weather_type_0">Vedro</string>
     <string name="weather_type_1">Oblačno</string>
