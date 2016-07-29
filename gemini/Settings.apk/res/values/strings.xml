@@ -2335,7 +2335,7 @@ Select your operating system:"</string>
   <string name="path_battery_settings">Settings/Battery &amp; performance</string>
   <string name="path_bluetooth_device_name">Settings/Bluetooth/Device name</string>
   <string name="path_bluetooth_device_searchable">Settings/Bluetooth/Discoverable</string>
-  <string name="path_bluetooth_enable">Settings/Bluetooth/Bluetooth enable</string>
+  <string name="path_bluetooth_enable">Settings/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">Settings/Bluetooth</string>
   <string name="path_brightness_settings">Settings/Display/Brightness</string>
   <string name="path_button_light_timeout">Settings/Additional settings/Buttons/Keep button lights on</string>
@@ -2345,7 +2345,7 @@ Select your operating system:"</string>
   <string name="path_cloud_backup_settings_section_title">Settings/Additional settings/Backup &amp; reset/Backup settings</string>
   <string name="path_cloud_restore_section_title">Settings/Additional settings/Backup &amp; reset/Restore from Mi Cloud</string>
   <string name="path_copyright">Settings/About phone/Legal information/Copyright</string>
-  <string name="path_credentials_install">Settings/Additional settings/System Security/Install from storage</string>
+  <string name="path_credentials_install">Settings/Additional settings/Privacy/Install from storage</string>
   <string name="path_date_time_settings">Settings/Additional settings/Date &amp; time</string>
   <string name="path_development_settings">Settings/Additional settings/Developer options</string>
   <string name="path_device_info_memory">Settings/Storage</string>
@@ -2355,7 +2355,7 @@ Select your operating system:"</string>
   <string name="path_dndm_alarm_content">Settings/Do not disturb/Exceptions</string>
   <string name="path_dndm_auto_button_title">Settings/Do not disturb/Set time</string>
   <string name="path_dndm_auto_time_setting">Settings/Do not disturb/Set time</string>
-  <string name="path_dndm_open">Settings/Do not disturb/Do not disturb enable</string>
+  <string name="path_dndm_open">Settings/Do not disturb/Do not disturb</string>
   <string name="path_dndm_repeated_call_setting_title">Settings/Do not disturb/Repeat callers</string>
   <string name="path_dndm_vip_call_setting_title">Settings/Do not disturb/Exceptions</string>
   <string name="path_dndm_wristband">Settings/Do not disturb/Activate with Mi Band</string>
@@ -2366,7 +2366,7 @@ Select your operating system:"</string>
   <string name="path_font_settings">Settings/Display/System font</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
-  <string name="path_handy_mode_settings">Settings/Additional settings/One_handed mode</string>
+  <string name="path_handy_mode_settings">Settings/Additional settings/One-handed mode</string>
   <string name="path_home_key">Settings/Additional settings/Buttons/Home</string>
   <string name="path_key_settings">Settings/Additional settings/Buttons</string>
   <string name="path_lab_functions_title">Settings/Additional settings/Beta features</string>
@@ -2377,10 +2377,10 @@ Select your operating system:"</string>
   <string name="path_legal_user_agreement">Settings/About phone/Legal information/Terms of Service</string>
   <string name="path_local_auto_backup_section_title">Settings/Additional settings/Backup &amp; reset/Auto backups</string>
   <string name="path_local_backup_section_title">Settings/Additional settings/Backup &amp; reset/Local backups</string>
-  <string name="path_location_settings_title">Settings/Additional settings/System Security/Location</string>
+  <string name="path_location_settings_title">Settings/Additional settings/Privacy/Location</string>
   <string name="path_lock_sounds_enable_title">Settings/Sound &amp; vibration/Screen lock sound</string>
-  <string name="path_manage_device_admin">Settings/Additional settings/System Security/Device administrators</string>
-  <string name="path_manage_notification_access_title">Settings/Additional settings/System Security/Notification access</string>
+  <string name="path_manage_device_admin">Settings/Additional settings/Privacy/Device administrators</string>
+  <string name="path_manage_notification_access_title">Settings/Additional settings/Privacy/Notification access</string>
   <string name="path_master_clear_title">Settings/Additional settings/Backup &amp; reset/Factory data reset</string>
   <string name="path_music_audio_effect_optimize">Settings/Sound &amp; vibration/Audio settings</string>
   <string name="path_music_headset_calibrate">Settings/Sound &amp; vibration/Audio settings/Assign buttons</string>
@@ -2393,7 +2393,7 @@ Select your operating system:"</string>
   <string name="path_notification_app_list_settings">Settings/Notifications &amp; status bar/App notifications</string>
   <string name="path_notification_sound">Settings/Sound &amp; vibration/Default notification sound</string>
   <string name="path_notification_sound_title">Settings/Sound &amp; vibration/Default notification sound</string>
-  <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/tts_settings_title</string>
+  <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/Text-to-speech output</string>
   <string name="path_oldman_mode">Settings/Lite Mode</string>
   <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
   <string name="path_other_advanced_settings">Settings/Additional settings</string>
@@ -2408,9 +2408,9 @@ Select your operating system:"</string>
   <string name="path_preferred_network_type_settings">Settings/SIM cards &amp; mobile networks/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
   <string name="path_privacy_settings">Settings/Additional settings/Backup &amp; reset</string>
-  <string name="path_ringer_volume_settings">Settings/Sound &amp; vibration/Volumes/Ringtone &amp; notifications</string>
+  <string name="path_ringer_volume_settings">Settings/Sound &amp; vibration/Ringtone &amp; notification sounds</string>
   <string name="path_ringtone_settings">Settings/Sound &amp; vibration/Phone ringtone</string>
-  <string name="path_safe_result_header_title_system">Settings/Additional settings/System Security</string>
+  <string name="path_safe_result_header_title_system">Settings/Additional settings/Privacy</string>
   <string name="path_screen_effect_settings">Settings/Display/Colors &amp; saturation</string>
   <string name="path_screen_key_long_press_timeout">Settings/Additional settings/Buttons/Set long press time</string>
   <string name="path_screen_on_proximity_sensor_title">Settings/Lock screen &amp; password/Prevent pocket dials</string>
@@ -2419,7 +2419,7 @@ Select your operating system:"</string>
   <string name="path_screen_saver_settings">Settings/Display/Screensaver</string>
   <string name="path_screen_timeout_settings">Settings/Lock screen &amp; password/Sleep</string>
   <string name="path_second_space">Settings/Second space</string>
-  <string name="path_security_encryption_title">Settings/Additional settings/System Security/Encrypt device using lock screen password</string>
+  <string name="path_security_encryption_title">Settings/Additional settings/Privacy/Encrypt device using lock screen password</string>
   <string name="path_security_passwords_title">Settings/Lock screen &amp; password/Screen lock</string>
   <string name="path_security_settings">Settings/Additional settings/Privacy</string>
   <string name="path_slot_status_title">Settings/About phone/IMEI information</string>
@@ -2447,7 +2447,7 @@ Select your operating system:"</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
   <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
-  <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
+  <string name="path_trusted_credentials">Settings/Additional settings/Privacy/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
   <string name="path_turn_on_security_lock">Settings/Lock screen &amp; password/Screen lock/Change screen lock</string>
   <string name="path_unlock_set_settings">Settings/Lock screen &amp; password</string>
@@ -2456,7 +2456,7 @@ Select your operating system:"</string>
   <string name="path_vibrate_on_touch_title">Settings/Sound &amp; vibration/Vibrate on touch</string>
   <string name="path_vibrate_when_ringing_title">Settings/Sound &amp; vibration/Also vibrate for calls</string>
   <string name="path_virtual_sim">Settings/More/International mobile data</string>
-  <string name="path_vpn_enable">Settings/More/VPN/VPN enable</string>
+  <string name="path_vpn_enable">Settings/More/VPN/VPN</string>
   <string name="path_vpn_settings">Settings/More/VPN</string>
   <string name="path_vpn_settings_password">Settings/More/VPN/VPN password</string>
   <string name="path_wakeup_for_keyguard_notification_title">Settings/Lock screen &amp; password/Wake lock screen for notifications</string>
@@ -2953,7 +2953,7 @@ To use screen pinning:
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
   <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number;Status;Legal information "</string>
-  <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Lanscape</string>
+  <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
   <string name="search_accessibility">Accessibility</string>
   <string name="search_accessibility_captioning_title">Captions</string>
@@ -2973,7 +2973,7 @@ To use screen pinning:
   <string name="search_application_lock">App lock</string>
   <string name="search_application_settings">Installed apps</string>
   <string name="search_back_key">Back;Back button;Back key</string>
-  <string name="search_battery">Battery &amp; performance;Battery and performance;Battery:performance;Battery saver;Save battery</string>
+  <string name="search_battery">Battery &amp; performance;Battery and performance;Battery;performance;Battery saver;Save battery</string>
   <string name="search_battery_indicator">Battery indicator</string>
   <string name="search_bluetooth">Bluetooth;Device name;Discoverable;Bluetooth name;Phone name</string>
   <string name="search_bluetooth_device_name">Device name;Bluetooth name</string>
@@ -3034,7 +3034,7 @@ To use screen pinning:
   <string name="search_music_headset_mode_settings">Headphone remote buttons;remote controls</string>
   <string name="search_music_headset_settings">Headphones &amp; audio effects;Headphones and audio effects;Headphones;Earphones;Audio effects</string>
   <string name="search_music_mi_effect_title">Mi Sound Enhancer;enhance sound</string>
-  <string name="search_network">Mobile Network Work;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Access Point Names;APN;Preferred network type;Network type;Cellular networks;WLAN Direct;Wifi Direct;WLAN Direct</string>
+  <string name="search_network">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Access Point Names;APN;Preferred network type;Network type;Cellular networks;WLAN Direct;Wifi Direct;WLAN Direct</string>
   <string name="search_networks_title">Mobile networks;Carrier;Mobile carrier</string>
   <string name="search_nfc_se_route_title">Secure element position</string>
   <string name="search_notification_app_list_settings">App Notifications;Notifications</string>
@@ -3059,10 +3059,10 @@ To use screen pinning:
   <string name="search_results_label">Results</string>
   <string name="search_results_title">Settings</string>
   <string name="search_ring_volume">Volumes;volume;Ringtone &amp; notifications;ringtone;ringtones;Alarm;Music</string>
-  <string name="search_ringtone">Phone ringtone;ringtone;tingtones</string>
-  <string name="search_safe_result_header_title_system">Privacy;Security;Unknown sources;Show password;App signature;App signatures</string>
+  <string name="search_ringtone">Phone ringtone;ringtone;ringtones</string>
+  <string name="search_safe_result_header_title_system">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
   <string name="search_screen_effect">Colors &amp; saturation;Colors &amp; contrast;color;colors;saturation;contrast</string>
-  <string name="search_screen_key_long_press_timeout">Set long press time;Longp ress;Press;Touch and hold</string>
+  <string name="search_screen_key_long_press_timeout">Set long press time;Long press;Press;Touch and hold</string>
   <string name="search_screen_on_proximity_sensor_title">Prevent pocket dials;pocket;pocket dial;pocket dials</string>
   <string name="search_screen_paper_mode">Reading mode;read mode;read;blue light;yellow light;night mode</string>
   <string name="search_screen_saver_settings">Screensaver</string>
@@ -3085,7 +3085,7 @@ To use screen pinning:
   <string name="search_status_bar_settings_show_network_speed">Show connection speed;connection speed</string>
   <string name="search_status_bar_settings_show_notification_icon">Show notification icons;notification icons;show notification icons</string>
   <string name="search_status_bar_settings_show_screenshot_notification">Show screenshot notification;Screenshot notification;Screenshot</string>
-  <string name="search_status_bar_settings_style">Notifications &amp; toggles layout;toggles;toggle layout;separate toggles</string>
+  <string name="search_status_bar_settings_style">Notifications &amp; toggles layout;toggles;toggle layout;separate toggles;combined;separate;combine</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch;collapse;hide</string>
   <string name="search_status_sim">SIM status;SIM</string>
   <string name="search_storage">Storage;Memory</string>
@@ -3093,7 +3093,7 @@ To use screen pinning:
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">System apps</string>
   <string name="search_tether">Tethering &amp; portable hotspot;Hotspot;Personal Hotspot;Tether;tethering;share internet;WLAN hotspot;Wifi hotspot;WLAN hotspot</string>
-  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering; tether</string>
+  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering;tether</string>
   <string name="search_tether_settings_title_usb">USB tethering;Tethering;tether;USB</string>
   <string name="search_theme_settings">Themes;Theme;Personalization;Personalize</string>
   <string name="search_toggle_position">Toggle positions;Toggles;toggle;change toggles</string>
@@ -3108,7 +3108,7 @@ To use screen pinning:
   <string name="search_vibrate_in_silent_title">Vibrate when silent;vibrate;vibration</string>
   <string name="search_vibrate_on_touch_title">Turn on Vibrate on touch;Vibrate on touch;vibrate;vibration</string>
   <string name="search_vibrate_when_ringing_title">Also vibrate for calls;vibrate;vibration</string>
-  <string name="search_virtual_sim">International mobile data;Data roming;Roaming;Mobile data roaming</string>
+  <string name="search_virtual_sim">International mobile data;Data roaming;Roaming;Mobile data roaming;Lab functions</string>
   <string name="search_vpn">VPN;Add VPN;Turn on VPN</string>
   <string name="search_vpn_enable">Turn on VPN;VPN</string>
   <string name="search_vpn_settings_password">VPN password;Protect VPN</string>
@@ -3125,8 +3125,8 @@ To use screen pinning:
   <string name="search_wifi_menu_wps_pin">WPS PIN entry;WPS;WPS PIN</string>
   <string name="search_wifi_more_settings">More;Airplane mode;Flight mode;Aeroplane;Flight;VPN;Tethering &amp; portable hotspot;tethering;hotspot;Wireless display;Wireless;International mobile data;Roaming;NFC;Android Beam;Beam;Secure element position</string>
   <string name="search_wifi_scan_always_available">Scanning always available;Scan networks;Scan Wifi;Scan WLAN</string>
-  <string name="search_wifi_setting_frequency_band_title">WLAN frequency band;WIFI frequency;WI-FI frequency;WLAN frequency;Frequency nband</string>
-  <string name="search_wifi_setting_sleep_policy_title">Keep WLAN on during sleep;Keep WLAN on during sleep;Keep WLAN on during sleep;WLAN on during sleep;WLAN on during sleep;WLAN on during sleep;</string>
+  <string name="search_wifi_setting_frequency_band_title">WLAN frequency band;WIFI frequency;WI-FI frequency;WLAN frequency;Frequency band</string>
+  <string name="search_wifi_setting_sleep_policy_title">Keep WLAN on during sleep;Keep WLAN on during sleep;Keep WLAN on during sleep;WLAN on during sleep;WLAN on during sleep;WLAN on during sleep</string>
   <string name="search_wifi_tether_checkbox">Portable hotspot;hotspot;portable</string>
   <string name="search_wifi_tether_configure_ap_text">Set up portable hotspot;Set up hotspot;add hotspot;configure hotspot</string>
   <string name="search_wifi_wapi_cert_install">Install WAPI certificate;WAPI certificates;WAPI</string>

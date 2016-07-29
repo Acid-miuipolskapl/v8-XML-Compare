@@ -54,6 +54,7 @@ Tap the plus to create a folder"</string>
   <string name="menu_move_parent_folder">Parent folder</string>
   <string name="menu_move_to">Move to</string>
   <string name="menu_send_as_image">Send as image</string>
+  <string name="menu_send_as_text">Send as text</string>
   <string name="menu_send_to_desktop">Place on Home screen</string>
   <string name="menu_send_wechat">Send to WeChat</string>
   <string name="menu_send_weibo">Send to Weibo</string>
