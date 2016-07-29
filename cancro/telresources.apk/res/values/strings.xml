@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="telephony_plugin_class_name">com.qti.internal.telephony.QtiTelephonyPlugin</string>
+  <string name="telephony_plugin_jar_name">qti-telephony-common.jar</string>
+</resources>
