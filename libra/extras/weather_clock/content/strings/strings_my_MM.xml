@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
+    <string name="date_time_12">EEEE, d MMMM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'လက်ရှိအချိန်' +#နာရီ ၁၂' '+ifelse(#မိနစ်၊#မိနစ်၊နာရီ')+၊ နာရီအပ်ဖ်အား ထည့်သွင်းရန် နှစ်ချက်ပုတ်ပါ'</string>
