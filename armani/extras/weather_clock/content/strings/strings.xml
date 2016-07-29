@@ -5,6 +5,7 @@
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, MMMM d</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
+    <string name="desc_time_1">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
     <string name="weather_type_0">Clear</string>
     <string name="weather_type_1">Cloudy</string>
     <string name="weather_type_2">Hazy</string>

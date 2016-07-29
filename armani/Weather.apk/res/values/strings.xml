@@ -5,7 +5,7 @@
   <string name="act_set_city_find_side">Locating…</string>
   <string name="act_set_city_find_side_error">"Can't locate device"</string>
   <string name="act_weather_find_city_added">Added</string>
-  <string name="act_weather_find_city_click_retry">Retry</string>
+  <string name="act_weather_find_city_click_retry">Try again</string>
   <string name="act_weather_find_city_net_no_good">"Can't connect to the network."</string>
   <string name="act_weather_find_city_no_result">No results</string>
   <string name="act_weather_find_city_searching">Searching…</string>
@@ -27,7 +27,7 @@
   <string name="ads_extension"/>
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
-  <string name="alert_warning">Alert Warning</string>
+  <string name="alert_warning">Weather alerts</string>
   <string name="app_name">Weather</string>
   <string name="aqi_data_source">Powered by Caiyun Weather</string>
   <string name="aqi_desc">Air Quality Index</string>
@@ -42,12 +42,12 @@
   <string name="aqi_detail_sub_title">AQI details</string>
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Air Quality Index</string>
-  <string name="aqi_detail_unit">Unit:µg/m3(CO:mg/m3)</string>
+  <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
   <string name="aqi_publish_time">Updated %1$s</string>
   <string name="aqi_short_desc">AQI %1$s</string>
   <string name="aqi_sub_desc">AQI</string>
-  <string name="aqi_top_pollution">Max Pollution</string>
+  <string name="aqi_top_pollution">Major pollutants</string>
   <string name="button_abandon">Abandon changes</string>
   <string name="button_add_city">Add location</string>
   <string name="button_allow">OK</string>
@@ -102,7 +102,7 @@
   <string name="information_manager_information">Weather info</string>
   <string name="information_manager_wlan">Show when connected to WLAN</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Information Set</string>
+  <string name="information_set">Start page settings</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Install</string>
@@ -131,7 +131,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">Relative humidity</string>
   <string name="realtime_wind_default_title">Wind</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Try again</string>
   <string name="set">Settings</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
@@ -172,8 +172,8 @@ Tap the screen to manually add or reposition city"</string>
   <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
   <string name="unit">Unit</string>
-  <string name="unit_temperature">Temperature Unit</string>
-  <string name="unit_wind">Wind Power Unit</string>
+  <string name="unit_temperature">Temperature units</string>
+  <string name="unit_wind">Wind speed units</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
