@@ -97,17 +97,17 @@ or enter App lock password"</string>
   <string name="app_not_installed_toast">"App isn't installed on your device."</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
-  <string name="apps_item_sign_dialog_content">\"%s\"signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data.</string>
+  <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
   <string name="apps_item_sign_dialog_title">Install official app</string>
   <string name="apps_item_sign_install_button_text">Replace</string>
-  <string name="apps_item_sms_default_set_success">Set successfully!</string>
+  <string name="apps_item_sms_default_set_success">Set successfully</string>
   <string name="apps_item_sms_reset_button_text">Restore defaults</string>
   <string name="apps_item_sms_title">Default messaging settings</string>
   <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
-  <string name="apps_item_summary_system_rooted">Root access has been allowed, restore to default settings to avoid security risks!</string>
+  <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
   <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
   <string name="apps_item_title_system">System update</string>
-  <string name="apps_item_virus_cleanup_success">Cleared successfully!</string>
+  <string name="apps_item_virus_cleanup_success">Cleared successfully</string>
   <string name="apps_item_virus_cleanup_text">Clear</string>
   <string name="apps_item_virus_summary_installed">Installed app</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
@@ -533,7 +533,7 @@ For more info check the message you received from your carrier"</string>
   <string name="lockpattern_recording_intro_header">Connect at least 4 dots to create a pattern</string>
   <string name="lockpattern_retry_button_text">Draw again</string>
   <string name="lockpattern_settings_help_how_to_record">Draw a pattern</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for%dseconds and try again.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %ds and try again.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
@@ -767,7 +767,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pm_auto_start_by_system_event">Allow apps to start automatically</string>
   <string name="pm_auto_start_proc_is_running">Running</string>
   <string name="pm_remember_choice">Remember my choice</string>
-  <string name="pm_root_success_notification_title">Root access enabled</string>
+  <string name="pm_root_success_notification_infomation">Make sure you understand the risks related with root access</string>
+  <string name="pm_root_success_notification_title">Allowed root access</string>
   <string name="power_20s_shutdown">Device will power off in %d seconds</string>
   <string name="power_analysis_consume_title">Battery usage</string>
   <string name="power_analysis_suggestion_need_optimize">Battery usage issues detected.</string>
@@ -909,6 +910,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
+  <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
@@ -927,6 +929,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
   <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
+  <string name="preference_key_payment_security">key_module_payment_security</string>
   <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
   <string name="preference_key_permission_manager">key_permission_manager</string>
   <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
@@ -999,7 +1002,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="result_autoscan_info">Automatically monitor system environment when payment apps are started</string>
   <string name="result_sign_header">Found %d unofficial apps</string>
   <string name="result_sms_header">Messaging risks detected</string>
-  <string name="result_sms_info_antispam">Turn on Antispam to protect the device from malicious URLs</string>
+  <string name="result_sms_info_antispam">Turn on Blocklist to protect the device from malicious URLs</string>
   <string name="result_sms_info_auth">Restrict access of third-party apps to verification codes.</string>
   <string name="result_sms_title_antispam">Threatened by malicious SMS URLs</string>
   <string name="result_sms_title_auth">Financial SMS leak risk exists</string>
@@ -1074,6 +1077,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_category_overheat">Heating</string>
   <string name="settings_choice_no_notification">Off</string>
   <string name="settings_power_save_ontime_title">Schedule</string>
+  <string name="settings_title_payment_security">Payment security settings</string>
   <string name="settings_title_permission">Permissions settings</string>
   <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
   <string name="show_traffic_dialog_title">Show usage in notification shade</string>
@@ -1104,7 +1108,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_info_monitor">Monitor system environment when payment apps are started</string>
   <string name="sp_settings_plugin_monitor_summary">Scan payment plug-ins when they are started</string>
   <string name="sp_settings_plugin_monitor_title">Monitor payment plug-ins</string>
-  <string name="sp_settings_root_title_omit">ROOT check</string>
+  <string name="sp_settings_root_title_omit">Check root access</string>
   <string name="sp_settings_title_input_method">Secure IME</string>
   <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
@@ -1146,7 +1150,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus">Remove viruses to keep your device secure</string>
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
-  <string name="summary_xiaomi_roaming">0.01 yuan per MB for international network traffic.</string>
+  <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content">%1$d risks</string>
@@ -1281,10 +1285,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
   <string name="toast_lockscreen_glogin_empty_password">Password required</string>
   <string name="toast_network_switch">This app can connect to the internet</string>
-  <string name="toast_reject_sms_read_permission_success">Set successfully!</string>
+  <string name="toast_reject_sms_read_permission_success">Set successfully</string>
   <string name="toast_root_apply_accept">Root access granted to %s</string>
   <string name="toast_root_apply_reject">Denied root access for %s</string>
-  <string name="toast_set_success">Turned on successfully!</string>
+  <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_shortcut_install">Shortcut placed on Home screen</string>
   <string name="toast_shortcut_uninstall">Shortcut removed</string>
   <string name="toast_show_notification">Pinned to notification shade</string>
