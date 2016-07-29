@@ -380,7 +380,7 @@
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Edit</string>
   <string name="edit_fdn_contact">Edit fixed dialing number</string>
-  <string name="emergencyDialerIconLabel">Emergency Dialer</string>
+  <string name="emergencyDialerIconLabel">Emergency dialer</string>
   <string name="emergency_broadcast_disable">Emergency Broadcast disabled</string>
   <string name="emergency_broadcast_enable">Emergency Broadcast enabled</string>
   <string name="emergency_call_area_code_edit_dialog_button">Call</string>
@@ -448,7 +448,7 @@
   <string name="error_updating_title">Call settings error</string>
   <string name="exception_error">Network or SIM card error.</string>
   <string name="exportAllcontatsFailed">"Couldn't export all contacts to SIM"</string>
-  <string name="exportAllcontatsNoContacts">No Contacts found to export to SIM</string>
+  <string name="exportAllcontatsNoContacts">No contacts found to export to SIM</string>
   <string name="exportAllcontatsSuccess">Succesfully exported all contacts to SIM</string>
   <string name="exportContactScreen">Export phone contacts to SIM</string>
   <string name="exportContacts">Exporting contacts to SIM card…</string>

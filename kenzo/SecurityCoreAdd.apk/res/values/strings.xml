@@ -151,7 +151,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
 to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
   <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
-  <string name="scanner_fingerprint_tips_desc">Select existing fingerprint to enter Second space. You wont be able to use it in First space.</string>
+  <string name="scanner_fingerprint_tips_desc">"Select existing fingerprint to enter Second space. You won't be able to use it in First space."</string>
   <string name="scanner_fingerprint_tips_title">Enter Second space using existing fingerprint</string>
   <string name="scanner_second_space_fingerprint">Scan Second space fingerprint</string>
   <string name="secondSpace">Second space</string>
