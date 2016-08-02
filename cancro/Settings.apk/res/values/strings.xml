@@ -1673,6 +1673,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
   <string name="last_time_used_label">Last time used</string>
+  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">Open by default</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
