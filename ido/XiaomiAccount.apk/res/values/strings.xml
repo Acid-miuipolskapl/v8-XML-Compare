@@ -150,6 +150,10 @@
   <string name="no_response_retry">No response, please retry.</string>
   <string name="no_sim_card">No SIM card</string>
   <string name="nobind">Not connected</string>
+  <string name="notify_network_restricted_content_bg_network">"Mi Account's internet access is restricted. Tap to allow."</string>
+  <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
+  <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
+  <string name="notify_network_restricted_title">"Mi Account couldn't connect to the network"</string>
   <string name="other_devices">Other devices</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>

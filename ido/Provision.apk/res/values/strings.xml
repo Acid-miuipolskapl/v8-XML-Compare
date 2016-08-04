@@ -5,6 +5,8 @@
   <string name="back">Back</string>
   <string name="congratulation_label">"You're ready to rock!​"</string>
   <string name="congratulation_title">Setup complete</string>
+  <string name="content_description_complete">Complete</string>
+  <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
