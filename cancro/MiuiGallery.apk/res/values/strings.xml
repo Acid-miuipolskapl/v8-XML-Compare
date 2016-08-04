@@ -864,11 +864,11 @@ Take more photos of your friends!"</string>
   <string name="operation_force_top">Pin</string>
   <string name="operation_hide">Hide</string>
   <string name="operation_in_process">Processing…</string>
-  <string name="operation_move_to_other_albums">Move to Other albums</string>
+  <string name="operation_move_to_other_albums">Move to other albums</string>
   <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
   <string name="operation_projection">Cast</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
-  <string name="operation_remove_from_other_albums">Remove from Other albums</string>
+  <string name="operation_remove_from_other_albums">Move from other albums</string>
   <string name="operation_remove_secret">Unhide</string>
   <string name="operation_save">Save</string>
   <string name="operation_send">Send</string>
