@@ -493,6 +493,7 @@ Pages you view won't appear in history."</string>
   <string name="geolocation_settings_page_title">Clear location access</string>
   <string name="go_supermarket_button">Go</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
+  <string name="gold_medals">Gold medals</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="history_saved_webpage">Save page</string>
@@ -907,6 +908,7 @@ Leave this page?"</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_music">Mi Music</string>
+  <string name="suggest_item_delete_text">Delete</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
