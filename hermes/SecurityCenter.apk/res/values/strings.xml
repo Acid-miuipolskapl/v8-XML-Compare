@@ -274,35 +274,6 @@ or enter App lock password"</string>
   <string name="data_usage_warning_body">Tap to view data usage details.</string>
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
-  <string name="datausage_purchase_backto_ns">Back</string>
-  <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
-  <string name="datausage_purchase_buy">Buy</string>
-  <string name="datausage_purchase_confirm_tip">Your order:</string>
-  <string name="datausage_purchase_get_captcha">Get code (%d)</string>
-  <string name="datausage_purchase_get_captcha_again">Send a new code</string>
-  <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
-  <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
-  <string name="datausage_purchase_none_history">Empty</string>
-  <string name="datausage_purchase_order_failure">"Couldn't purchase"</string>
-  <string name="datausage_purchase_order_failure_cause">"Couldn't complete purchase"</string>
-  <string name="datausage_purchase_order_history">History</string>
-  <string name="datausage_purchase_ordering">Purchasing…</string>
-  <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
-  <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap \"Buy\" to complete your purchase. Note that the code is only valid for 10 minutes.</string>
-  <string name="datausage_purchase_pay_confirm">Buy</string>
-  <string name="datausage_purchase_pay_hint">To cancel, dial %s</string>
-  <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
-  <string name="datausage_purchase_pkglist_nodata">"There's conflict between your current data package and the data package you're attempting to purchase.
- Check with your carrier for more info."</string>
-  <string name="datausage_purchase_pkglist_servererror">Something went wrong with our server.</string>
-  <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
-  <string name="datausage_purchase_result_ok">"You bought %s
-For more info check the message you received from your carrier"</string>
-  <string name="datausage_purchase_time_in">" on "</string>
-  <string name="datausage_purchase_title_confirm">Purchase details</string>
-  <string name="datausage_purchase_title_order">Top up</string>
-  <string name="datausage_purchase_title_pkglist">Top up</string>
-  <string name="datausage_purchase_view_detail">View details</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deep_clean_disconnect_data_title">Turn off mobile data when device is locked</string>
   <string name="deep_clean_memory_clean_title">Clear cache when device is locked</string>
@@ -395,8 +366,6 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
   <string name="five_percent_total_pkg">%s (5%% of monthly data)</string>
-  <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
-  <string name="force_stop_dlg_title">Restrict background data</string>
   <string name="foreground_traffic">Foreground %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
@@ -550,8 +519,6 @@ For more info check the message you received from your carrier"</string>
   <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">Set data limit</string>
-  <string name="main_alert_message_slot_no_data_connection">"SIM card slot doesn't support
-a mobile data connection"</string>
   <string name="main_button_idel_traffic">Off-peak</string>
   <string name="main_button_normal_traffic">Peak</string>
   <string name="main_button_usage_adjust">Sync mobile data usage</string>
@@ -686,6 +653,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
   <string name="networkchanged_exception_title">Connection changed</string>
   <string name="never">1 time</string>
+  <string name="next_step_button">Next</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notification_battery_consume_abnormal_summary">Drained %2$s of the battery during last %1$d minutes</string>
   <string name="notification_battery_consume_abnormal_title">Battery is being drained too fast</string>
@@ -1067,7 +1035,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
-  <string name="setting_traffic_pkg">Set data package</string>
   <string name="settings">Data usage settings</string>
   <string name="settings_battery_consume_abnormal_summary">Receive notifications when battery is being drained fast</string>
   <string name="settings_battery_consume_abnormal_title">Battery drain notifications</string>
@@ -1329,13 +1296,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_over_purchase_body">Tap to view details.</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Data limit exceeded</string>
-  <string name="traffic_protection_data_usage_summary">"Set data usage alerts to avoid exceeding your carrier plan's monthly data limits."</string>
-  <string name="traffic_protection_label">Data usage warning</string>
-  <string name="traffic_protection_next">Next</string>
-  <string name="traffic_protection_summary">Set alerts for when your data usage reaches a certain level</string>
-  <string name="traffic_protection_text_hint">Set data usage limit for %s</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Set up later&lt;/u&gt;</string>
-  <string name="traffic_protection_use_data">Mobile data</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
   <string name="traffic_setting_app_count">%d apps</string>

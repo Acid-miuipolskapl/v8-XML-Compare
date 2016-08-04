@@ -272,6 +272,7 @@
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Not set&gt;</string>
   <string name="default_transport">UDP</string>
+  <string name="delete">Delete</string>
   <string name="delete_fdn_contact">Delete fixed dialing number</string>
   <string name="deleting_fdn_contact">Deleting fixed dialing number…</string>
   <string name="description_delete_button">backspace</string>

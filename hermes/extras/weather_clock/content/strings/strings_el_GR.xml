@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
     <string name="date_time">EEEE d MMM</string>
+    <string name="date_time_12">EEEE d MMM</string>
     <string name="language">el</string>
     <string name="desc_date_format">EEEE, dd MMM</string>
     <string name="desc_time">'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό tap για το άνοιγμα της εφαρμογής'</string>
+    <string name="desc_time_1">'τρέχουσα ώρα' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', διπλό tap για το άνοιγμα της εφαρμογής'</string>
     <string name="weather_type_0">Καθαρός</string>
     <string name="weather_type_1">Νεφελώδης</string>
     <string name="weather_type_2">Ομιχλώδης</string>
