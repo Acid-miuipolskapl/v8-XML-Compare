@@ -152,6 +152,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_epg">No EPG Information</string>
   <string name="error_empty_filter_title">No results</string>
+  <string name="error_empty_live_favor">No Collection of TV Channels</string>
   <string name="error_empty_title">Something went wrong.</string>
   <string name="expire_time">expire time</string>
   <string name="favorite">Favorite</string>
@@ -160,6 +161,7 @@
   <string name="file_not_exist">The file does not exist</string>
   <string name="filter">Filter</string>
   <string name="finish_install">Installed Successfully</string>
+  <string name="font_family">miui</string>
   <string name="forecast">Forecast</string>
   <string name="forecast_empty_hint">Empty</string>
   <string name="forecasts">EPG</string>

@@ -1016,10 +1016,10 @@ Some apps may not work until updated by their developers."</string>
   <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos</string>
   <string name="erase_internal_storage">Erase stored content</string>
   <string name="erase_internal_storage_description">Erase music, photos, videos, and other user data</string>
-  <string name="erase_optional">Content</string>
+  <string name="erase_optional">Optional</string>
   <string name="erase_personal_data">Personal data</string>
   <string name="erase_personal_data_description">Erase your Mi Account info, app data, and system settings</string>
-  <string name="erase_sure">Personal data</string>
+  <string name="erase_sure">Mandatory</string>
   <string name="error_apn_empty">"The APN can't be empty."</string>
   <string name="error_mcc_not3">MCC field must be 3 digits.</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
@@ -1972,7 +1972,7 @@ Select your operating system:"</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d security | %2$d privacy | %3$d other</string>
   <string name="permission_manage">Permission manager</string>
-  <string name="permission_manage_summary">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
+  <string name="permission_manage_summary">Manage security and permissions</string>
   <string name="permission_manage_title">%s permissions</string>
   <string name="permission_manager">Permissions</string>
   <string name="permission_mgr">Permissions</string>
