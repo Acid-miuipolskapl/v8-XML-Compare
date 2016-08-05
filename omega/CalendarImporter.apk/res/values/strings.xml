@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_lable">"Calendar: "</string>
+  <string name="cancel">Cancel</string>
+  <string name="date_lable">"Date: "</string>
+  <string name="done">Done</string>
+  <string name="give_up">Abort</string>
+  <string name="import_button">Import</string>
+  <string name="import_complete">Importing complete</string>
+  <string name="import_message">Do you want to import # to Calendar?</string>
+  <string name="import_title">Import Calendar Event</string>
+  <string name="import_to">Import to</string>
+  <string name="import_vcs_failed">Failed in importing event.</string>
+  <string name="importing">Importing ...</string>
+  <string name="loading">Loading…</string>
+  <string name="no_access_toast">Account not found. Please add an account first</string>
+  <string name="no_calendars_found">This account does not support calendar sync, or last sync has not finished yet.</string>
+  <string name="no_syncable_calendars">Unable to import</string>
+  <string name="not_support_multi_events">File with multiple events is not supported.</string>
+  <string name="null_name">None</string>
+  <string name="open">Open</string>
+  <string name="open_calendar_failed">Calendar is not available.</string>
+  <string name="progresshundred">100%</string>
+  <string name="progresszero">0%</string>
+  <string name="retry">Retry</string>
+  <string name="title_lable">"Title: "</string>
+</resources>
