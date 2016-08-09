@@ -324,6 +324,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="available_via_passpoint">Available via %1$s</string>
   <string name="average_memory_use">Average memory use</string>
   <string name="average_used">Average used (%)</string>
+  <string name="avoid_ui">Avoid UI</string>
   <string name="awake">Device awake time</string>
   <string name="back_key">Back</string>
   <string name="background_data">Background data</string>
