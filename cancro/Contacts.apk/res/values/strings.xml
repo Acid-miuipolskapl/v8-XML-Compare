@@ -876,7 +876,7 @@ To add a contact to your list of favorites:
   <string name="photo_fragment">Photo</string>
   <string name="photo_labels_group">Profile photo</string>
   <string name="photo_load_failed">"Couldn't load photo"</string>
-  <string name="pick_new_photo">Select new photo from %s</string>
+  <string name="pick_new_photo">Choose new photo from %s</string>
   <string name="pick_photo">Choose photo from %s</string>
   <string name="pickerNewContactHeader">Create new contact</string>
   <string name="pickerNewContactText">Create new contact</string>

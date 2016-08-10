@@ -231,7 +231,7 @@
   <string name="insert_event_dialog_title">Attention</string>
   <string name="insert_event_toast_add_failed">"Couldn't add"</string>
   <string name="insert_event_toast_add_success">Event created</string>
-  <string name="joke_card_icon_text">%1$s 人笑过</string>
+  <string name="joke_card_icon_text">%1$s人笑过</string>
   <string name="jump_date">Jump</string>
   <string name="jump_date_full">Jump to date</string>
   <string name="live_text">直播</string>
@@ -282,7 +282,6 @@
   <string name="no_syncable_calendars">No calendars</string>
   <string name="no_title_label">(No title)</string>
   <string name="not_synced">not synced</string>
-  <string name="olympic_county">国家</string>
   <string name="olympic_rank">排名</string>
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">VS</string>
@@ -376,14 +375,14 @@
   <string name="select_date">Jump to date</string>
   <string name="select_synced_calendars_title">Calendars to sync</string>
   <string name="set_as_wallpaper">Set as wallpaper</string>
-  <string name="setting_about_calendar_version">Calendar Version:</string>
+  <string name="setting_about_calendar_version">Calendar version:</string>
   <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">MIUI Version:</string>
+  <string name="setting_about_miui_version">MIUI version:</string>
   <string name="setting_about_summary">Version:</string>
-  <string name="setting_holiday_display_desc">Holiday cards located in calendar homepage</string>
-  <string name="setting_holiday_display_title">Show Holidays</string>
-  <string name="setting_holiday_reminder">Holiday Reminder</string>
-  <string name="setting_homepage">Homepage Display</string>
+  <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
+  <string name="setting_holiday_display_title">Show holidays</string>
+  <string name="setting_holiday_reminder">Holiday reminder</string>
+  <string name="setting_homepage">Home page settings</string>
   <string name="setting_others">Additional</string>
   <string name="setting_sms_import">导入短信事件</string>
   <string name="setting_title_about">About</string>
