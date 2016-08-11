@@ -151,8 +151,8 @@
   <string name="mark_agent_time_setting">Block numbers that have been reported as agencies a specified number of times</string>
   <string name="mark_courier">Block reported couriers</string>
   <string name="mark_courier_block">Reported as courier</string>
-  <string name="mark_courier_block_large">Courier</string>
-  <string name="mark_courier_time_setting">Block numbers that have been reported for couriers a specified number of times</string>
+  <string name="mark_courier_block_large">Couriers</string>
+  <string name="mark_courier_time_setting">Block numbers that have been reported as couriers a specified number of times</string>
   <string name="mark_fraud">Block reported scams</string>
   <string name="mark_fraud_block">Reported as scam</string>
   <string name="mark_fraud_block_large">Scams</string>
@@ -160,7 +160,7 @@
   <string name="mark_harass">Block reported nuisances</string>
   <string name="mark_harass_block">Reported as nuisance</string>
   <string name="mark_harass_block_large">Nuisances</string>
-  <string name="mark_harass_time_setting">Block numbers that have been reported for nuisances a specified number of times</string>
+  <string name="mark_harass_time_setting">Block numbers that have been reported as nuisances a specified number of times</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_courier">Courier</string>
   <string name="mark_number_fraud">Fraud</string>
@@ -175,7 +175,7 @@
   <string name="mark_sell">Block reported telemarketers</string>
   <string name="mark_sell_block">Reported as telemarketer</string>
   <string name="mark_sell_block_large">Telemarketers</string>
-  <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers calls a specified number of times</string>
+  <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">Report number</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
