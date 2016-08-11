@@ -18,7 +18,7 @@
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
-  <string name="activity_main_time_format">EEEE</string>
+  <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Updated %1$s</string>
   <string name="activity_main_update_time_right_now">just now</string>
   <string name="activity_weathermain_locationg">Locating…</string>
