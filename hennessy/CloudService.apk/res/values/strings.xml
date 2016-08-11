@@ -389,10 +389,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
-  <string name="pref_summary_sync_video_on_wifi_only">"Only sync contacts' profile videos when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
-  <string name="pref_title_sync_video_on_wifi_only">Only use WLAN to sync video</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="provision_arrow_back">&lt;</string>
   <string name="provision_arrow_next">&gt;</string>
