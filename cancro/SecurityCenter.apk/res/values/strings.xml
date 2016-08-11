@@ -716,7 +716,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="open">open</string>
+  <string name="open">Open</string>
   <string name="open_now">Allow app to use mobile data</string>
   <string name="operator_diagnostic">Carrier diagnostics</string>
   <string name="operator_mi_sim">Mi SIM</string>
@@ -741,7 +741,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_to_open">Turn on</string>
   <string name="optimize_result_button_to_set">Set</string>
   <string name="optimize_result_button_update_now">Update</string>
-  <string name="optimize_result_summary_sucurity_risk">Some security features aren off. Turn on these features to make your device more secure:</string>
+  <string name="optimize_result_summary_sucurity_risk">Some security features are off. Turn on these features to make your device more secure:</string>
   <string name="optimize_result_summary_system_default_settings">"Using default MIUI apps increases the level of the system's stability and security."</string>
   <string name="optimize_result_title_sucurity_risk">Security risks found</string>
   <string name="optimize_result_title_system_default_settings">Default settings have been changed</string>
