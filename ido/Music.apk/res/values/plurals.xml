@@ -99,7 +99,7 @@
         <item quantity="one">%d comment</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d readers</item>
-        <item quantity="one">%d reader</item>
+        <item quantity="other">%d followers</item>
+        <item quantity="one">%d follower</item>
     </plurals>
 </resources>
