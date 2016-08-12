@@ -590,7 +590,7 @@ Switch to the new provider anyway?"</string>
   <string name="lable_disable">Off</string>
   <string name="lable_enable">On</string>
   <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
-  <string name="lable_network_not_supported">"Network doesn't support"</string>
+  <string name="lable_network_not_supported">"Network isn't supported"</string>
   <string name="lafs_disable">Local Airport Flight Schedules disabled</string>
   <string name="lafs_enable">Local Airport Flight Schedules enabled</string>
   <string name="left_minutes">min</string>

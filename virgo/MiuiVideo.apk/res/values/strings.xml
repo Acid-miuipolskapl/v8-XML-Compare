@@ -130,6 +130,7 @@
   <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
   <string name="download_finished">Complete</string>
   <string name="download_geturl_fail">"Couldn't get URL"</string>
+  <string name="download_insufficient_space">Insufficient space</string>
   <string name="download_is_in_tasklist">Queued</string>
   <string name="download_paused">Paused</string>
   <string name="download_percent_hint">Downloading %d%%</string>
@@ -238,7 +239,7 @@
   <string name="notification_default_title">Offline video</string>
   <string name="notification_sub_title">Total %d download task(s) completed</string>
   <string name="notification_ticker_text">Offline video download completion</string>
-  <string name="notification_title">\"%s\" download completion</string>
+  <string name="notification_title">\"%1$s\" download completion</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
   <string name="nowifi_alert_dialog_message">"Using your mobile data connection to stream video will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>

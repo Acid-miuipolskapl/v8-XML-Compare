@@ -492,7 +492,7 @@
   <string name="search">Messaging</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messaging</string>
-  <string name="search_keyword_mms">Messaging</string>
+  <string name="search_keyword_mms">Messaging;SMS;MMS;Text;Texting;Message;Messages</string>
   <string name="search_label">Messaging</string>
   <string name="search_path_mms">Settings/System apps/Messaging</string>
   <string name="search_setting_description">Text in your messages</string>

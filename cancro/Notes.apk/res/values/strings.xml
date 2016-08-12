@@ -86,7 +86,7 @@ Tap the plus to create a folder"</string>
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permlab_accessNote">Access notes</string>
   <string name="pref_desc_alarm_when_silent">Alarms for reminders will still sound when ringer is silenced</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">"Don't show confirm dialog when delete note by gesture"</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">"Don't ask for confirmation when deleting a note using gesture"</string>
   <string name="pref_title_alarm_when_silent">"Don't silence reminders"</string>
   <string name="pref_title_common">Additional settings</string>
   <string name="pref_title_font_size">Font size</string>
@@ -143,7 +143,7 @@ Tap the plus to create a folder"</string>
   <string name="theme_title_yellow">Yellow</string>
   <string name="toast_message_add_image_fail">"Couldn't add image"</string>
   <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
-  <string name="toast_notes_delete_success">Delete successfully</string>
+  <string name="toast_notes_delete_success">Deleted successfully</string>
   <string name="toast_notes_hidden">Hidden successfully</string>
   <string name="toast_notes_hidden_count">Hid %1$s successfully</string>
   <string name="toast_notes_unhidden">Unhidden successfully</string>

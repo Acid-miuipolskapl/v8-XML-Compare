@@ -35,8 +35,6 @@
   <string name="account_user_education">Education</string>
   <string name="account_user_email">Email</string>
   <string name="account_user_gender">Gender</string>
-  <string name="account_user_gender_female">Female</string>
-  <string name="account_user_gender_male">Male</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_income">Income</string>
   <string name="account_user_location">Location</string>

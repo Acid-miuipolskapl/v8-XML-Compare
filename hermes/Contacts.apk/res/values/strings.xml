@@ -203,7 +203,7 @@
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Record call</string>
-  <string name="contact_detail_calllog_empty">No Calllog</string>
+  <string name="contact_detail_calllog_empty">No history</string>
   <string name="contact_detail_menu_delete_miprofile">Delete card</string>
   <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
@@ -876,7 +876,7 @@ To add a contact to your list of favorites:
   <string name="photo_fragment">Photo</string>
   <string name="photo_labels_group">Profile photo</string>
   <string name="photo_load_failed">"Couldn't load photo"</string>
-  <string name="pick_new_photo">Select new photo from %s</string>
+  <string name="pick_new_photo">Choose new photo from %s</string>
   <string name="pick_photo">Choose photo from %s</string>
   <string name="pickerNewContactHeader">Create new contact</string>
   <string name="pickerNewContactText">Create new contact</string>

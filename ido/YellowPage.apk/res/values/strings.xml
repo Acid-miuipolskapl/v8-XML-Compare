@@ -228,7 +228,7 @@ Check your tracking number."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(No subject)</string>
   <string name="hms_notification">Messages</string>
-  <string name="homepage_barcode_prompt">Scan to open homepage.</string>
+  <string name="homepage_barcode_prompt">Scan to open home page</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
