@@ -41,8 +41,8 @@
     <string-array name="epg_channel_tab_actionbar">
         <item>All Channels</item>
         <item>Favorite channels</item>
-        <item>CCTV Channel</item>
-        <item>Satellite TV Channel</item>
+        <item>CCTV Channels</item>
+        <item>Satellite TV Channels</item>
         <item>HD channels</item>
         <item>Recently Watched</item>
     </string-array>
