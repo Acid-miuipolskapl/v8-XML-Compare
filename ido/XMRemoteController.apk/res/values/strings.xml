@@ -103,7 +103,7 @@
   <string name="auto_tune_hint_text">Automatically change the channel after start，the phone will send a certain interval code&lt;Channel+&gt;Button</string>
   <string name="auto_tune_running">Auto tune running…</string>
   <string name="back">Back</string>
-  <string name="backup">Backup to cloud</string>
+  <string name="backup">Backup to MiCloud</string>
   <string name="backup_failed">Backup failed，please try again</string>
   <string name="backup_succeed">Backup successful</string>
   <string name="backuping">Being backed up</string>
@@ -224,7 +224,7 @@
   <string name="epg_change_channel_not_casting">Change channel （broadcasted in %1$s）</string>
   <string name="epg_channel_group_open">Show all</string>
   <string name="epg_channel_operation_tip">Press the channel to edit or add to favorites</string>
-  <string name="epg_channel_search_hint">Add the channel number/Chanel name search</string>
+  <string name="epg_channel_search_hint">Add the channel number/name</string>
   <string name="epg_comment_action_bar_title">Comment: %1$s</string>
   <string name="epg_comment_list_title">Comments （%1$d）</string>
   <string name="epg_detail_title_text">Desciption</string>
@@ -402,8 +402,8 @@
   <string name="management_settings">Settings</string>
   <string name="management_video_favor">History &amp; favorites</string>
   <string name="management_video_recent_watch">Recently watched</string>
-  <string name="match_ac_intro_mode">Release when AC changes to cooling mode</string>
-  <string name="match_ac_intro_power">Release when AC powers off</string>
+  <string name="match_ac_intro_mode">Try different buttons until AC changes to cooling mode</string>
+  <string name="match_ac_intro_power">Try different buttons until AC powers off</string>
   <string name="match_ac_name_mode">Cooling</string>
   <string name="match_ac_name_power">Power off</string>
   <string name="match_ch_inc">Does it switch to the next channel?</string>
@@ -415,23 +415,23 @@
 Go back to continue"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Do direction buttons work?</string>
-  <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
-  <string name="match_dvd_intro_play">Release when DVD starts playing</string>
-  <string name="match_dvd_intro_stop">Release when DVD playback stops</string>
+  <string name="match_dvd_intro_pause">Try different buttons until DVD playback pauses</string>
+  <string name="match_dvd_intro_play">Try different buttons until DVD starts playing</string>
+  <string name="match_dvd_intro_stop">Try different buttons until DVD playback stops</string>
   <string name="match_dvd_name_pause">Pause</string>
   <string name="match_dvd_name_play">Play</string>
   <string name="match_dvd_name_stop">Stop</string>
   <string name="match_fail_frame">"Couldn't pair remote %1$d"</string>
   <string name="match_fail_model_hint">Enter remote model number</string>
   <string name="match_failed">No more data, please try again or return</string>
-  <string name="match_fan_intro_open">Release when fan powers on</string>
+  <string name="match_fan_intro_open">Try different buttons until fan powers on</string>
   <string name="match_fan_name_open">Power on</string>
   <string name="match_guide_main_frame">Point your device at %1$s</string>
   <string name="match_guide_sub_frame">Paired %1$d buttons</string>
-  <string name="match_intro_power">Release when device powers on</string>
+  <string name="match_intro_power">Try different buttons until device powers on</string>
   <string name="match_is_respond">Does the device respond?</string>
   <string name="match_main_tip_frame">"Point the remote at %1$s and press the button
-Release when %1$s responds"</string>
+Try different buttons until %1$s responds"</string>
   <string name="match_main_tip_frame_click">"Point the remote at %1$s and Tap the button
 Then answer the question"</string>
   <string name="match_mibox_first">    Mi TV found</string>
@@ -439,11 +439,11 @@ Then answer the question"</string>
   <string name="match_mibox_third">    · Add other Mi devices automatically</string>
   <string name="match_name_power">Power</string>
   <string name="match_number_default">Do number buttons work?</string>
-  <string name="match_power_confirm_tip_frame">%1$s is power?</string>
-  <string name="match_power_main_tip_frame">%1$s is power?</string>
-  <string name="match_stb_intro_left">Release when cursor moves left</string>
-  <string name="match_stb_intro_ok">Release when change is displayed on screen</string>
-  <string name="match_stb_intro_up">Release when cursor moves up</string>
+  <string name="match_power_confirm_tip_frame">Is the %1$s turned on?</string>
+  <string name="match_power_main_tip_frame">Is the %1$s turned on?</string>
+  <string name="match_stb_intro_left">Try different buttons until cursor moves left</string>
+  <string name="match_stb_intro_ok">Try different buttons until change is displayed on screen</string>
+  <string name="match_stb_intro_up">Try different buttons until cursor moves up</string>
   <string name="match_stb_name_left">Left</string>
   <string name="match_stb_name_ok">OK</string>
   <string name="match_stb_name_up">Up</string>
@@ -469,15 +469,15 @@ Then answer the question"</string>
   <string name="match_top_tips">"Device needs some time to respond,
 wait a moment after the action."</string>
   <string name="match_total_frame">%1$d total</string>
-  <string name="match_tv_intro_ch_inc">Release when channel changes</string>
-  <string name="match_tv_intro_source">Release when input source changes</string>
-  <string name="match_tv_intro_volume">Release when volume gets louder</string>
+  <string name="match_tv_intro_ch_inc">Try different buttons until channel changes</string>
+  <string name="match_tv_intro_source">Try different buttons until input source changes</string>
+  <string name="match_tv_intro_volume">Try different buttons until volume gets louder</string>
   <string name="match_tv_name_ch_inc">Channel +</string>
   <string name="match_tv_name_source">Source</string>
   <string name="match_tv_name_volume">Volume +</string>
   <string name="match_type_selection_des">Choose the device to pair</string>
   <string name="match_type_selection_title">Type</string>
-  <string name="match_voh_intro_open">Release when projector switches on</string>
+  <string name="match_voh_intro_open">Try different buttons until projector switches on</string>
   <string name="match_vol_dec">Does the volume go down?</string>
   <string name="match_vol_inc">Does the volume go up?</string>
   <string name="max_enter">"Can't exceed %d characters"</string>
@@ -510,7 +510,7 @@ wait a moment after the action."</string>
   <string name="mute">Mute</string>
   <string name="my_activity">My activities</string>
   <string name="my_appointment">My bookings</string>
-  <string name="my_backup">RC backup</string>
+  <string name="my_backup">Backup Remote into MiCloud</string>
   <string name="my_favorite">My favorites</string>
   <string name="my_setting">Settings</string>
   <string name="network_diagnosis">Test network</string>
@@ -755,7 +755,7 @@ To activate your account, follow the
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Remote</string>
-  <string name="recover">Recover from Drive</string>
+  <string name="recover">Recover from MiCloud</string>
   <string name="recovering">Is recovering</string>
   <string name="refreshing">Refreshing…</string>
   <string name="refreshing_no_point">Refreshing…</string>
