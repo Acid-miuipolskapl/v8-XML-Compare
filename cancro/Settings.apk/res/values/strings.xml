@@ -1381,6 +1381,7 @@ Some apps may not work until updated by their developers."</string>
 "</string>
   <string name="font_size_summary1">"If your system's text is still too small, try "</string>
   <string name="font_size_summary2">Lite mode.</string>
+  <string name="forbidden_switch_apn_string">"Selected APN settings don't match current network type"</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
