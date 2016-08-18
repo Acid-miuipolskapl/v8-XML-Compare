@@ -648,7 +648,7 @@ Attempt made: %s."</string>
   <string name="user_agreement2">Terms of Service</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
-  <string name="user_agreement5">By touching OK, you agree to our Terms of Service and Privacy Policy.</string>
+  <string name="user_agreement5">By tapping OK, you agree to our Terms of Service and Privacy Policy.</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>
