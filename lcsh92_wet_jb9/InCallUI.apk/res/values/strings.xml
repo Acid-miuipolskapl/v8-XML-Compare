@@ -42,7 +42,7 @@
   <string name="callFailed_number_unreachable">Number unreachable</string>
   <string name="callFailed_outOfService">Out of service area</string>
   <string name="callFailed_out_of_network">Called from out-of-network</string>
-  <string name="callFailed_powerOff">Radio off</string>
+  <string name="callFailed_powerOff">Antenna is off</string>
   <string name="callFailed_server_error">Server error. Try again later.</string>
   <string name="callFailed_server_unreachable">"Can't reach server"</string>
   <string name="callFailed_simError">SIM card error</string>
