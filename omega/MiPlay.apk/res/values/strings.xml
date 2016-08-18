@@ -2,6 +2,9 @@
 <resources>
   <string name="app_name">MiPlay</string>
   <string name="cancel">Cancel</string>
+  <string name="enable_wifi_btn">Enable</string>
+  <string name="enable_wifi_message">Enable WLAN to use search and connect nearby devices.</string>
+  <string name="enable_wifi_title">Enable WLAN</string>
   <string name="media_feature_projection">Mirror screen</string>
   <string name="media_status_error">Error</string>
   <string name="media_status_started">Connected</string>

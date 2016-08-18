@@ -113,6 +113,9 @@
   <string name="download_share_dialog">Share via</string>
   <string name="download_speed">Download speed:</string>
   <string name="download_spend_time">Time</string>
+  <string name="download_status_continue">Resume</string>
+  <string name="download_status_fail">Try again</string>
+  <string name="download_status_paused">Pause</string>
   <string name="download_success">Complete</string>
   <string name="download_title">Downloads</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
@@ -150,6 +153,9 @@
   <string name="file_exist_hint">This file already exists</string>
   <string name="file_picker">Choose a location</string>
   <string name="file_size">Size:</string>
+  <string name="force_touch_newdownload">New download</string>
+  <string name="force_touch_rank">Rankings</string>
+  <string name="force_touch_search">Search the web</string>
   <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
   <string name="free_speedup_exp">Try Xunlei download accelerator for free</string>
   <string name="get_account_dialog_msg">Getting account info…</string>
@@ -208,7 +214,8 @@
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>
   <string name="notify_disabled_net_by_app">Internet access restricted</string>
-  <string name="notify_install_guide_msg">Open</string>
+  <string name="notify_install_guide_forward_text">Open</string>
+  <string name="notify_install_guide_msg">Installed successfully</string>
   <string name="notify_install_guide_title">Installed %s successfully</string>
   <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
   <string name="notify_only_wifi_download">Waiting for WLAN</string>

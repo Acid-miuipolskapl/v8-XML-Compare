@@ -2,9 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
   <string name="aaid_info">"
-Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
-
-If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
+Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
@@ -324,6 +322,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="available_via_passpoint">Available via %1$s</string>
   <string name="average_memory_use">Average memory use</string>
   <string name="average_used">Average used (%)</string>
+  <string name="avoid_ui">Avoid UI</string>
   <string name="awake">Device awake time</string>
   <string name="back_key">Back</string>
   <string name="background_data">Background data</string>
@@ -1382,6 +1381,7 @@ Some apps may not work until updated by their developers."</string>
 "</string>
   <string name="font_size_summary1">"If your system's text is still too small, try "</string>
   <string name="font_size_summary2">Lite mode.</string>
+  <string name="forbidden_switch_apn_string">"Selected APN settings don't match current network type"</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
@@ -1946,6 +1946,7 @@ There are other users present on this device.
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -2121,7 +2122,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -2174,6 +2175,7 @@ Select your operating system:"</string>
   <string name="no_application">Nothing</string>
   <string name="no_applications">No apps.</string>
   <string name="no_battery_summary">No battery use since last full charge</string>
+  <string name="no_connected_devices">No connected devices</string>
   <string name="no_data_usage">No data used</string>
   <string name="no_default_apps">No default Apps.</string>
   <string name="no_device_admins">No available device administrators</string>
@@ -2923,6 +2925,8 @@ To use screen pinning:
   <string name="screensaver_settings_summary_sleep">While charging</string>
   <string name="screensaver_settings_title">Daydream</string>
   <string name="screensaver_settings_when_to_dream">When to daydream</string>
+  <string name="screenshot">Screenshot</string>
+  <string name="screenshot_three_gesture">Slide three fingers simultaneously will triger screenshot</string>
   <string name="sd_card_settings_label">USB storage</string>
   <string name="sd_card_storage">USB storage</string>
   <string name="sd_eject">Unmount shared storage</string>
@@ -2951,7 +2955,7 @@ To use screen pinning:
   <string name="sdcard_unmount">Unmount USB storage</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
-  <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number;Status;Legal information "</string>
+  <string name="search_about">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
   <string name="search_accessibility">Accessibility</string>
@@ -2974,8 +2978,8 @@ To use screen pinning:
   <string name="search_back_key">Back;Back button;Back key</string>
   <string name="search_battery">Battery &amp; performance;Battery and performance;Battery;performance;Battery saver;Save battery</string>
   <string name="search_battery_indicator">Battery indicator</string>
-  <string name="search_bluetooth">Bluetooth;Device name;Discoverable;Bluetooth name;Phone name</string>
-  <string name="search_bluetooth_device_name">Device name;Bluetooth name</string>
+  <string name="search_bluetooth">Bluetooth;Discoverable</string>
+  <string name="search_bluetooth_device_name">Device name;Bluetooth name;Phone name</string>
   <string name="search_bluetooth_device_searchable">Discoverable;Visible;Bluetooth name</string>
   <string name="search_bluetooth_enable">Bluetooth;Turn on Bluetooth;Bluetooth on</string>
   <string name="search_brightness">Brightness;Screen brightness;Display brightness</string>
@@ -2993,7 +2997,7 @@ To use screen pinning:
   <string name="search_development_settings">Developer options</string>
   <string name="search_device_name">Device name</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Display;Screen;Brightness;Screen brightness;Display brightness;Ambient light;Colors;Pocket;Pocket dial;Colors saturation;Glove mode;Screensaver;Autorotate screen;Rotate screen</string>
+  <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial</string>
   <string name="search_dndm_alarm_content">Exceptions</string>
   <string name="search_dndm_auto_button_title">Set time</string>
   <string name="search_dndm_auto_time_setting">Set time;DND</string>
@@ -3001,7 +3005,7 @@ To use screen pinning:
   <string name="search_dndm_repeated_call_setting_title">Repeat callers;Repeated calls</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Exceptions;Whitelist;white list</string>
   <string name="search_dndm_wristband">Activate with Mi Band;Mi Band</string>
-  <string name="search_do_not_disturb">Do not disturb;DND;VIP;Set time;Exceptions;Repeated calls</string>
+  <string name="search_do_not_disturb">Do not disturb</string>
   <string name="search_dtmf_tone_enable_title">Turn on Dial pad touch tones;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
   <string name="search_edge_handgrip">Edge controls</string>
   <string name="search_empty">No search results</string>
@@ -3034,7 +3038,7 @@ To use screen pinning:
   <string name="search_music_headset_mode_settings">Headphone remote buttons;remote controls</string>
   <string name="search_music_headset_settings">Headphones &amp; audio effects;Headphones and audio effects;Headphones;Earphones;Audio effects</string>
   <string name="search_music_mi_effect_title">Mi Sound Enhancer;enhance sound</string>
-  <string name="search_network">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Access Point Names;APN;Preferred network type;Network type;Cellular networks;WLAN Direct;Wifi Direct;WLAN Direct</string>
+  <string name="search_network">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Cellular networks;</string>
   <string name="search_networks_title">Mobile networks;Carrier;Mobile carrier</string>
   <string name="search_nfc_se_route_title">Secure element position</string>
   <string name="search_notification_app_list_settings">App Notifications;Notifications</string>
@@ -3042,7 +3046,7 @@ To use screen pinning:
   <string name="search_ntts_settings_title">TTS;TTS settings</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
-  <string name="search_other_advanced_settings">Additional settings;More settings;Privacy settings;Privacy;Date&amp;time;Date and time;Date;Time;Language &amp; input;Language;Language and input;Input;Keyboard;One handed mode;One-handed mode;Battery &amp; performance;Battery and performance;Battery;Performance;Storage;Memory;Notification light;LED light;LED;Headphones &amp; audio effects;Headphones and audio effects;Headphones;Earphones;Audio effects;Buttons;Keys;Accessibility;Beta features;Lab functions;Developer options;Backup &amp; reset;Backup;Reset;Restore;Back up;Transfer;Mi Mover;One key migrate</string>
+  <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">Owner info</string>
   <string name="search_page_layout_settings">Text size;Font size;Small font;Big font;Medium font;XXL font;Huge font;Font sizes</string>
   <string name="search_pointer_speed">Pointer speed</string>
@@ -3050,7 +3054,7 @@ To use screen pinning:
   <string name="search_power_hide_mode_title">Manage apps battery usage;App battery usage;Battery usage;Battery stats</string>
   <string name="search_power_mode">Power settings;Power</string>
   <string name="search_power_optimize">Battery saver;Save battery</string>
-  <string name="search_pref_volume_wake_title">Wake with Volume buttons;wake;volume buttons</string>
+  <string name="search_pref_volume_wake_title">Wake with Volume buttons;volume buttons</string>
   <string name="search_preferred_network_type_title">Preferred network type;Preferred network;Network type</string>
   <string name="search_privacy">Backup &amp; reset;Backup and reset;Backup;reset;Back up</string>
   <string name="search_privacy_policy">Privacy Policy</string>
@@ -3061,12 +3065,12 @@ To use screen pinning:
   <string name="search_ring_volume">Volumes;volume;Ringtone &amp; notifications;ringtone;ringtones;Alarm;Music</string>
   <string name="search_ringtone">Phone ringtone;ringtone;ringtones</string>
   <string name="search_safe_result_header_title_system">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
-  <string name="search_screen_effect">Colors &amp; saturation;Colors &amp; contrast;color;colors;saturation;contrast</string>
+  <string name="search_screen_effect">Colors &amp; saturation;Colors &amp; contrast;color;colors saturation;contrast</string>
   <string name="search_screen_key_long_press_timeout">Set long press time;Long press;Press;Touch and hold</string>
   <string name="search_screen_on_proximity_sensor_title">Prevent pocket dials;pocket;pocket dial;pocket dials</string>
   <string name="search_screen_paper_mode">Reading mode;read mode;read;blue light;yellow light;night mode</string>
   <string name="search_screen_saver_settings">Screensaver</string>
-  <string name="search_screen_timeout">Sleep;Auto Lock Screen;Lock screen</string>
+  <string name="search_screen_timeout">Sleep;Auto Lock Screen;Screen lock</string>
   <string name="search_second_space">Second space</string>
   <string name="search_security_encryption_title">Encrypt device using lock screen password;Encrypt;Encryption;Encrypt device;Encrypt phone</string>
   <string name="search_security_passwords_title">Password;Screen lock;PIN;Pattern</string>
@@ -3077,8 +3081,8 @@ To use screen pinning:
   <string name="search_sms_delivered_sound_title">Message delivered;delivered message;message sound;delivery report</string>
   <string name="search_sms_received">Message received;message sound;received message;message ringtone</string>
   <string name="search_sound_effects_enable_title">Touch sounds;Turn on touch sounds</string>
-  <string name="search_sound_settings">Sound;Volumes;volume;Silent mode;silent;silence;Alarm;Music;Vibrate;vibration;Phone ringtone;Ringtone;Default notification sound;notification sound;notification sounds;Message received;received message;Message delivered;delivered message;Touch;touch tones;tones;Screen lock sound;Audio settings;audio;Suppress noise;noise;suppression;noise suppression</string>
-  <string name="search_status_bar">Notifications &amp; status bar;Notifications;Status bar;status;App notifications;Toggle position;toggle;toggles;Connection speed;Carrier name;Carrier;Screenshot notification;Screenshot;Lock screen</string>
+  <string name="search_sound_settings">Sound;Volumes;vibration;Suppress noise;noise suppression</string>
+  <string name="search_status_bar">Notifications &amp; status bar;Notifications;Status bar</string>
   <string name="search_status_bar_settings_custom_carrier">Edit carrier name;Carrier name</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Show on lock screen;show on lockscreen</string>
   <string name="search_status_bar_settings_show_carrier">Show carrier name;Carrier name</string>
@@ -3092,9 +3096,9 @@ To use screen pinning:
   <string name="search_storage_settings">Cleaner;Clear cache;Cache</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">System apps</string>
-  <string name="search_tether">Tethering &amp; portable hotspot;Hotspot;Personal Hotspot;Tether;tethering;share internet;WLAN hotspot;Wifi hotspot;WLAN hotspot</string>
-  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering;tether</string>
-  <string name="search_tether_settings_title_usb">USB tethering;Tethering;tether;USB</string>
+  <string name="search_tether">Tethering &amp; portable hotspot;Tether;share internet;WLAN hotspot;Wifi hotspot;WLAN hotspot</string>
+  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering</string>
+  <string name="search_tether_settings_title_usb">USB tethering;Tethering;USB</string>
   <string name="search_theme_settings">Themes;Theme;Personalization;Personalize</string>
   <string name="search_toggle_position">Toggle positions;Toggles;toggle;change toggles</string>
   <string name="search_touch_assistant">Quick ball;Touch assistant</string>
@@ -3102,17 +3106,17 @@ To use screen pinning:
   <string name="search_trusted_credentials">Trusted credentials;App signature;App signatures;Credentials;Signature</string>
   <string name="search_tts_settings_title">Text-to-speech output;Text-to-speech</string>
   <string name="search_turn_on_security_lock">Change screen lock;Screen lock;Edit screen lock;edit screenlock;screenlock</string>
-  <string name="search_unlock_set">Auto Lock screen;Lock screen;Screen lock;Owner info;Sleep;Wake lock screen;Wake;Wake phone;Wake device;Password;Prevent pocket dials;pocket dials;pocket;Bluetooth unlock;unlock;passcode;screenlock;PIN;Unlock with Bluetooth device;Lock screen &amp; password</string>
+  <string name="search_unlock_set">Lock Screen &amp; password;Bluetooth unlock;passcode;Unlock with Bluetooth device</string>
   <string name="search_user_agreement">Terms of Service</string>
   <string name="search_user_dict_settings_title">Personal dictionary;Dictionary</string>
   <string name="search_vibrate_in_silent_title">Vibrate when silent;vibrate;vibration</string>
   <string name="search_vibrate_on_touch_title">Turn on Vibrate on touch;Vibrate on touch;vibrate;vibration</string>
   <string name="search_vibrate_when_ringing_title">Also vibrate for calls;vibrate;vibration</string>
-  <string name="search_virtual_sim">International mobile data;Data roaming;Roaming;Mobile data roaming;Lab functions</string>
+  <string name="search_virtual_sim">International mobile data;Data roaming;Mobile data roaming</string>
   <string name="search_vpn">VPN;Add VPN;Turn on VPN</string>
   <string name="search_vpn_enable">Turn on VPN;VPN</string>
   <string name="search_vpn_settings_password">VPN password;Protect VPN</string>
-  <string name="search_wakeup_for_keyguard_notification_title">Wake lock screen for notifications;wake screen;wake device</string>
+  <string name="search_wakeup_for_keyguard_notification_title">Wake lock screen for notifications;wake screen;wake device;wake phone</string>
   <string name="search_wallpaper">Wallpaper;Home screen;Lock screen</string>
   <string name="search_wifi">Wifi;WLAN;Advanced settings;WLAN;Wireless networks;Wireless</string>
   <string name="search_wifi_advanced_ip_address_title">IP address;IP</string>
@@ -3123,7 +3127,7 @@ To use screen pinning:
   <string name="search_wifi_install_credentials">Install certificates;Certificates</string>
   <string name="search_wifi_menu_p2p">WLAN Direct;WLAN Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN entry;WPS;WPS PIN</string>
-  <string name="search_wifi_more_settings">More;Airplane mode;Flight mode;Aeroplane;Flight;VPN;Tethering &amp; portable hotspot;tethering;hotspot;Wireless display;Wireless;International mobile data;Roaming;NFC;Android Beam;Beam;Secure element position</string>
+  <string name="search_wifi_more_settings">More;Wireless</string>
   <string name="search_wifi_scan_always_available">Scanning always available;Scan networks;Scan Wifi;Scan WLAN</string>
   <string name="search_wifi_setting_frequency_band_title">WLAN frequency band;WIFI frequency;WI-FI frequency;WLAN frequency;Frequency band</string>
   <string name="search_wifi_setting_sleep_policy_title">Keep WLAN on during sleep;Keep WLAN on during sleep;Keep WLAN on during sleep;WLAN on during sleep;WLAN on during sleep;WLAN on during sleep</string>
@@ -3251,6 +3255,8 @@ To use screen pinning:
   <string name="show_all_anrs">Show all ANRs</string>
   <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
   <string name="show_background_processes">Show cached processes</string>
+  <string name="show_connected_devices_summary">View connected devices</string>
+  <string name="show_connected_devices_title">Connected devices</string>
   <string name="show_cpu_usage">Show CPU usage</string>
   <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
   <string name="show_dev_already">No need, you are already a developer.</string>
@@ -3662,6 +3668,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
+  <string name="tether_devices_management_title">Manage devices</string>
+  <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>

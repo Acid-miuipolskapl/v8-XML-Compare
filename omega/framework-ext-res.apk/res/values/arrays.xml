@@ -36,6 +36,7 @@
         <item>com.miui.securitycore</item>
         <item>com.lbe.security.miui</item>
         <item>com.bsb.hike</item>
+        <item>com.fihtdc.fqc</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
@@ -64,6 +65,7 @@
         <item>it_IT</item>
         <item>lt_LT</item>
         <item>hu_HU</item>
+        <item>uz_UZ</item>
         <item>pl_PL</item>
         <item>pt_BR</item>
         <item>pt_PT</item>

@@ -21,9 +21,9 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Turn off Audio focus</string>
   <string name="burst_shoot_exit_button_text">Turn off Burst shoot</string>
-  <string name="button_fisheye_camera_title">Fisheye lens</string>
-  <string name="button_front_camera_title">Selfie</string>
-  <string name="button_normal_video_title">Video recording</string>
+  <string name="button_fisheye_camera_title">Fisheye</string>
+  <string name="button_front_camera_title">Make a selfie</string>
+  <string name="button_normal_video_title">Record video</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
   <string name="camera_label">Camera</string>
@@ -140,7 +140,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
   <string name="pref_camera_beautify_entry_auto">Off</string>
-  <string name="pref_camera_beautify_entry_close">Off</string>
+  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">High</string>
   <string name="pref_camera_beautify_entry_low">Low</string>
   <string name="pref_camera_beautify_entry_normal">Medium</string>

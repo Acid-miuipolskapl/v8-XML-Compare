@@ -24,6 +24,7 @@
   <string name="add_to_album_exist">This photo already exists</string>
   <string name="add_to_album_failed">"Couldn't add to album"</string>
   <string name="add_to_album_success">Added to album</string>
+  <string name="add_to_album_tip">Cloud photos</string>
   <string name="add_to_secret_exist">Photo already exists in hidden album</string>
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
@@ -78,7 +79,7 @@
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_video_album_display_name">All videos</string>
   <string name="already_create_baby_album">Baby album already exists in Mi Cloud.</string>
-  <string name="app_error">Error occurs. App will quit.</string>
+  <string name="app_error">An error occurred, closing the app…</string>
   <string name="app_name">Gallery</string>
   <string name="app_name_view_picture">View photos</string>
   <string name="apply">Apply</string>
@@ -120,7 +121,7 @@
   <string name="baby_nick_name">Nickname</string>
   <string name="baby_sexy">Gender</string>
   <string name="baby_suffix">baby</string>
-  <string name="background_effect">Background Effects</string>
+  <string name="background_effect">Background effects</string>
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">Back up and sync automatically</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
@@ -691,8 +692,8 @@ Take more photos of your friends!"</string>
   <string name="fail_to_pick_email">Invalid email address</string>
   <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
   <string name="family_member_invitation_text">Other family member</string>
-  <string name="fancy_color_tip">Click on the image to adjust focus of the main area</string>
-  <string name="fancycolor_title">Background effect</string>
+  <string name="fancy_color_tip">Tap the photo to adjust the sweet spot</string>
+  <string name="fancycolor_title">Background effects</string>
   <string name="fast_share_auto_render">Beautify</string>
   <string name="fast_share_auto_render_finish">Beautified</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
@@ -737,7 +738,7 @@ Take more photos of your friends!"</string>
   <string name="frame_white">White</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Custom</string>
-  <string name="free_view_tip">Preview 3D effect by tilting the phone slightly</string>
+  <string name="free_view_tip">Tilt the phone slightly to preview 3D effect</string>
   <string name="gallery_setting">Settings</string>
   <string name="gallery_sync_disable_toast">Sync is off for Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
@@ -768,7 +769,7 @@ Take more photos of your friends!"</string>
   <string name="ignore_album">"Don't show"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
-  <string name="illegal_arguments_error">Illegal arguments</string>
+  <string name="illegal_arguments_error">An error occurred</string>
   <string name="image_download_item_title">Download photo (%s)</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
@@ -799,7 +800,7 @@ Take more photos of your friends!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be &gt; 0</string>
   <string name="limit_width">Width should be &gt; 0</string>
-  <string name="load_image_error">Cannot load the image.</string>
+  <string name="load_image_error">"Can't load photo"</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
@@ -810,7 +811,7 @@ Take more photos of your friends!"</string>
   <string name="loading_image_thumbnail">Downloading thumbnail…</string>
   <string name="loading_members">Loading members026</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
-  <string name="loading_tip">Loading...</string>
+  <string name="loading_tip">Just a sec…</string>
   <string name="loading_video">Downloading video…</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
   <string name="local_space_full_button_text">Clear space</string>
@@ -824,7 +825,7 @@ Take more photos of your friends!"</string>
   <string name="m_fancy_color_effect_posterize">Posterize</string>
   <string name="m_fancy_color_effect_radial_blur">Radial blur</string>
   <string name="m_fancy_color_effect_silhouette">Silhouette</string>
-  <string name="m_fancy_color_effect_stroke">Stroke</string>
+  <string name="m_fancy_color_effect_stroke">Strokes</string>
   <string name="m_fancy_color_effect_whiteboard">Whiteboard</string>
   <string name="main_discard_confirm_message">You have unsaved changes</string>
   <string name="main_discard_negative_btn">Discard</string>
@@ -843,7 +844,7 @@ Take more photos of your friends!"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face_album_name">More people</string>
   <string name="move_to_other_albums_tip">Sync with Mi Cloud will be turned off if you move this album to other albums. Move now?</string>
-  <string name="multi_view">3D View</string>
+  <string name="multi_view">3D view</string>
   <string name="must_pick_file">Select a photo</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"Device isn't connected to the internet"</string>
@@ -939,6 +940,7 @@ Take more photos of your friends!"</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
   <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
+  <string name="picker_no_network_message">network is unavailble,please connect network and download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
@@ -966,7 +968,7 @@ Take more photos of your friends!"</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eye</string>
   <string name="refocus">Refocus</string>
-  <string name="refocus_tip">Click on photo for refocusing</string>
+  <string name="refocus_tip">Tap the photo to refocus</string>
   <string name="relation_text_empty_alert">Add relationship info</string>
   <string name="relation_text_family">Family member</string>
   <string name="relation_text_father">Father</string>
@@ -1005,13 +1007,13 @@ Take more photos of your friends!"</string>
   <string name="saturation_abbr">S</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Save</string>
-  <string name="save_dialog_message">Whether to save the current changes?</string>
+  <string name="save_dialog_message">Save the current changes?</string>
   <string name="save_dialog_title">Save</string>
-  <string name="save_error">Failed to save</string>
+  <string name="save_error">"Couldn't save photo"</string>
   <string name="save_photo">Save edited photo?</string>
   <string name="saving_failure">"Can't save photo"</string>
-  <string name="saving_image">Saving picture...</string>
-  <string name="saving_image_to_album">Saving picture to%1$s…</string>
+  <string name="saving_image">Saving photo…</string>
+  <string name="saving_image_to_album">Saving photo to %1$s…</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
@@ -1028,6 +1030,8 @@ Take more photos of your friends!"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>
+  <string name="set_as_wallpaper_description">This picture is thumbnail, do you need download original first？</string>
+  <string name="set_as_wallpaper_title">Set as Wallpaper</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
@@ -1039,6 +1043,7 @@ Take more photos of your friends!"</string>
   <string name="share">Share</string>
   <string name="share_album">Share album</string>
   <string name="share_album_needs_auto_upload_tip">"Can't turn off backups for shared albums"</string>
+  <string name="share_app_is_launching">Target app is launching</string>
   <string name="share_by_email_start">Share %1$s in background</string>
   <string name="share_by_email_successfully">Shared %1$s</string>
   <string name="share_public_url_text">"I've shared the album %1$s with you. View it at %2$s"</string>
@@ -1179,7 +1184,7 @@ Take more photos of your friends!"</string>
   <string name="view_queuing_status">Check status</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-  <string name="wait_error">Please wait</string>
+  <string name="wait_error">Just a sec…</string>
   <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Welcome to Mi Cloud</string>
   <string name="welcome_to_slim">Optimize local storage</string>
