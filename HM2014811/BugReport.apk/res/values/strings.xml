@@ -7,6 +7,8 @@
   <string name="app_label">Feedback</string>
   <string name="app_name">Feedback</string>
   <string name="btn_send">Send</string>
+  <string name="bugreport_dialog_not_show_again">"Don't show again"</string>
+  <string name="bugreport_dialog_submit_content">Your feedback may contain personal information.</string>
   <string name="bugreport_dump_complete_notification_summary">Tap to view.</string>
   <string name="bugreport_dump_complete_notification_title">Created bug report</string>
   <string name="bugreport_dump_start_notification_summary">This takes several minutes.</string>
@@ -85,6 +87,7 @@
   <string name="feedback_submit_hint2">Go to \"My reports\" to view details</string>
   <string name="feedback_submit_succ">Sent successfully</string>
   <string name="feedback_submit_succ_button">Done</string>
+  <string name="feedback_submitting">Submitting…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
   <string name="feedback_title">Title</string>
   <string name="feedback_title_hint">Describe the issue briefly</string>
@@ -132,11 +135,11 @@
   <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
   <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
   <string name="michat_menu_copy_text">Copy</string>
-  <string name="michat_mesage_resend_error_network">"Couldn't connect to the network"</string>
-  <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_message_copy_info">Copied to clipboard</string>
+  <string name="michat_message_error_network">"Couldn't connect to the network"</string>
   <string name="michat_message_join_again">"Glad you're back!"</string>
   <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
+  <string name="michat_message_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_motto">Mi Support is ready to help</string>
   <string name="michat_msg_image_upload_error">"Couldn't send image, try again later"</string>
   <string name="michat_msg_input_info">Describe your issue briefly</string>
@@ -214,7 +217,7 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Send</string>
-  <string name="submit_dialog_content">"Your feedback along with attachments and logs will be sent to Mi's servers. If any network errors occur while the items are being sent, you'll be asked to try again."</string>
+  <string name="submit_dialog_content">Your feedback along with attachments and logs will be sent to MIUI’s servers. It may contain personal information.</string>
   <string name="submit_dialog_title">Send report</string>
   <string name="submit_feedback_info_failed">"Couldn't send report"</string>
   <string name="suggestion_description">Add description here</string>
