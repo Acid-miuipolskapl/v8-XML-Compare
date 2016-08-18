@@ -729,7 +729,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_cloudspace">Add cloud storage</string>
   <string name="optimize_result_button_consume_power_analysis">Scan battery</string>
   <string name="optimize_result_button_cooldown_now">Cool down</string>
-  <string name="optimize_result_button_correct_now">Calibrate</string>
+  <string name="optimize_result_button_correct_now">Adjust</string>
   <string name="optimize_result_button_fix_now">Fix</string>
   <string name="optimize_result_button_onekey_open">Turn on</string>
   <string name="optimize_result_button_onekey_restore">Restore</string>
@@ -1181,7 +1181,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_flow_purchase">"Looks like there isn't much data left. Buy data to stay connected."</string>
   <string name="summary_flow_purchase_beyond">"You've exceeded your carrier plan's monthly data limit by %sMB"</string>
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
-  <string name="summary_flow_verify_failed">Calibrate</string>
+  <string name="summary_flow_verify_failed">Auto adjust data usage to avoid additional fees</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
@@ -1307,7 +1307,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="title_flow_purchase">Buy mobile data</string>
   <string name="title_flow_rank">Mobile data usage</string>
   <string name="title_flow_verify">Compare accounting</string>
-  <string name="title_flow_verify_failed">"Couldn't calibrate for 5 days in a row"</string>
+  <string name="title_flow_verify_failed">"Couldn't adjust for 5 days in a row"</string>
   <string name="title_garbage_lib">Update trash definitions</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
@@ -1323,7 +1323,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="title_permission_yes">Permission manager on</string>
   <string name="title_power_optimizer">Battery saver</string>
   <string name="title_show_notification">Notification shade widget</string>
-  <string name="title_telecom_operator">Calibrate</string>
+  <string name="title_telecom_operator">Auto adjust</string>
   <string name="title_usb_no">USB debugging on</string>
   <string name="title_usb_yes">USB debugging off</string>
   <string name="title_virus_cloudscan">Cloud virus scan</string>
@@ -1332,7 +1332,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="title_virus_update_yes">Auto-update for virus definitions on</string>
   <string name="title_virus_yes">No viruses found</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_auto_traffic_correct">Automatic calibration is on</string>
+  <string name="toast_auto_traffic_correct">Data usage is adjusted automatically</string>
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
   <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
   <string name="toast_flow_notification">Turned on data usage notifications</string>

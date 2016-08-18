@@ -131,6 +131,9 @@
   <string name="notification_reboot_title_hm">Reboot to apply update</string>
   <string name="notification_restart">Update again</string>
   <string name="notification_share">Share</string>
+  <string name="notification_uncrypt_summary_hm">Touch to reboot your device.</string>
+  <string name="notification_uncrypt_title_hm">Reboot to apply update</string>
+  <string name="notification_uncrypting">Uncrypting update</string>
   <string name="notification_update_new_version">Update available</string>
   <string name="notification_update_now">Update now</string>
   <string name="notification_updating">Updating…</string>
@@ -202,6 +205,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="title_toast_auto">Updates will download automatically</string>
   <string name="top_secret_build">Top-secret</string>
+  <string name="uncrypt_title">Uncrypting (%s)</string>
   <string name="unkown_error_title">"Can't download"</string>
   <string name="unstable_build">Unstable</string>
   <string name="update_comment_hint"/>
