@@ -1282,6 +1282,7 @@ Some apps may not work until updated by their developers."</string>
 "</string>
   <string name="font_size_summary1">"If your system's text is still too small, try "</string>
   <string name="font_size_summary2">Lite mode.</string>
+  <string name="forbidden_switch_apn_string">"Selected APN settings don't match current network type"</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
@@ -1782,6 +1783,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -1986,6 +1988,7 @@ Select your operating system:"</string>
   <string name="no_application">Nothing</string>
   <string name="no_applications">No apps.</string>
   <string name="no_condition_providers">No condition providers are installed.</string>
+  <string name="no_connected_devices">No connected devices</string>
   <string name="no_device_admins">No available device administrators</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_nearby_wifi">No networks detected</string>
@@ -2976,6 +2979,8 @@ To use screen pinning:
   <string name="show_all_anrs">Show all ANRs</string>
   <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
   <string name="show_background_processes">Show cached processes</string>
+  <string name="show_connected_devices_summary">View connected devices</string>
+  <string name="show_connected_devices_title">Connected devices</string>
   <string name="show_cpu_usage">Show CPU usage</string>
   <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
   <string name="show_dev_already">No need, you are already a developer.</string>
@@ -3275,6 +3280,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
+  <string name="tether_devices_management_title">Manage devices</string>
+  <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
