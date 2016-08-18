@@ -21,7 +21,6 @@
   <string name="browser_local_resource">Local resources</string>
   <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Wallpaper</string>
-  <string name="choose_new_themes">Themes</string>
   <string name="close">Close</string>
   <string name="component_backup_preference_title">Back up theme</string>
   <string name="component_category_finest_title">GENERAL</string>
@@ -164,6 +163,7 @@
   <string name="resource_comment_upload_not_logined">You need to sign in first</string>
   <string name="resource_comment_upload_success">Your comment will be displayed after a brief review.</string>
   <string name="resource_continue">Next</string>
+  <string name="resource_data_empty">The content is empty.</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete">Delete</string>

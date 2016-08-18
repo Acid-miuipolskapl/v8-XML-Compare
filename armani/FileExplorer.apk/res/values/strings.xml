@@ -172,7 +172,9 @@
   <string name="dislike_toast">"Such videos won't be recommended to you."</string>
   <string name="dislike_video">"I'm not interested"</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage."</string>
+  <string name="download">Download</string>
   <string name="download_current_progress">%1$d%%</string>
+  <string name="download_fail">"Couldn't download"</string>
   <string name="download_failed">"Couldn't download"</string>
   <string name="download_link_completed">%1$s shared using KuaiPan. Tap the link below to view: </string>
   <string name="downloaded_sticker_str">Downloaded</string>
@@ -220,6 +222,7 @@
   <string name="file_too_large">File is too big to upload.</string>
   <string name="files">Files</string>
   <string name="finished">Complete</string>
+  <string name="flow_setting">Settings</string>
   <string name="folder_exist">The folder already exists.</string>
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
@@ -252,6 +255,7 @@
   <string name="homepage_tab_category">Categories</string>
   <string name="homepage_tab_file_view">Storage</string>
   <string name="homepage_tab_recent">Recent</string>
+  <string name="hot_app">Popular apps</string>
   <string name="hot_comments">Popular comments</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Videos</string>
@@ -260,6 +264,7 @@
   <string name="if_cancel">Cancel this operation?</string>
   <string name="image_loading_error">"Couldn't load image"</string>
   <string name="input_memo_hint">Enter additional reasons (optional)</string>
+  <string name="install_fail">"Couldn't install"</string>
   <string name="installing">Installing…</string>
   <string name="instruction">Enter the following address into FTP client: </string>
   <string name="instruction_pre">Touch to start FTP server</string>
@@ -476,6 +481,8 @@ and never miss the cool new ones!"</string>
   <string name="oauth_failed_tip">"Couldn't complete authorization"</string>
   <string name="oauth_success_tip">Authorized successfully</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
+  <string name="only_wifi">Download when connected to WLAN</string>
+  <string name="open_app">Open</string>
   <string name="open_changed_file_message">"The file you are trying to open has been changed. Please:
 1. Download the file again to update it.
 2. Upload it your KuaiPan account."</string>
@@ -587,6 +594,7 @@ and never miss the cool new ones!"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s available, %2$s total</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Recent</string>
   <string name="recommend">Recommended</string>
   <string name="recommend_topic">Recommended topics</string>
   <string name="recommend_user">Recommended profiles</string>
@@ -666,6 +674,7 @@ and never miss the cool new ones!"</string>
   <string name="select_image">Images</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
+  <string name="select_volume">Please select volume</string>
   <string name="send_comment">Send</string>
   <string name="send_error">"Couldn't add comment"</string>
   <string name="send_sticker">Send sticker</string>
