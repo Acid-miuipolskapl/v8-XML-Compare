@@ -15,7 +15,7 @@ Based on a work at http://miui.com
 For more info visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translation XML check http://translators.xiaomi.eu/XML_MIUI8-Czech-cs.html
+Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
 
 #####Credits:
