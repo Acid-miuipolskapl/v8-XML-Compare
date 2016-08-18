@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Miui Bluetooth</string>
+  <string name="app_name">MIUI Bluetooth</string>
   <string name="ble_device_address">Bluetooth Smart device MAC</string>
   <string name="ble_device_profile">Bluetooth device profile</string>
   <string name="ble_device_profile_header_title">Settings</string>
