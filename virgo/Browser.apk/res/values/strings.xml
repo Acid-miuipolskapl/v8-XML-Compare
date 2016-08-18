@@ -543,7 +543,7 @@ Leave this page?"</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
   <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
-  <string name="media_player_error_title">"Can't play video"</string>
+  <string name="media_player_error_title">Cannot play video</string>
   <string name="media_player_loading_video">Loading video</string>
   <string name="menu_addtodesk">Add to Home screen</string>
   <string name="menu_exit_nightmode">Exit</string>
