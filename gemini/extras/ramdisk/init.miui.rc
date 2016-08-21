@@ -1,0 +1,120 @@
+# miui init rc
+import /init.miui8.rc
+
+on init
+    # Create cgroup mount point for memory and freezer
+    mount tmpfs none /sys/fs/cgroup mode=0750,uid=0,gid=1000
+    mkdir /sys/fs/cgroup/memory 0750 root system
+    mount cgroup none /sys/fs/cgroup/memory memory
+    mkdir /sys/fs/cgroup/freezer 0750 root system
+    mount cgroup none /sys/fs/cgroup/freezer freezer
+
+on post-fs-data
+    mkdir /data/system 0775 system system
+    mkdir /data/system/mcd 0755 system system
+    restorecon_recursive /data/system/mcd
+
+# secureboot
+service setlockstate /sbin/setlockstate
+    class core
+    oneshot
+    seclabel u:r:vold:s0
+
+#mdbd
+service mdbd /sbin/mdbd
+    class core
+    socket mdbd stream 660 system system
+    disabled
+    seclabel u:r:mdbd:s0
+
+service shelld /system/xbin/shelld
+    class main
+
+#service for su
+service su_daemon /system/xbin/su --daemon
+    class main
+    oneshot
+
+# service for mcd init
+service mcd_init /system/bin/mcd init 4
+    user root
+    group system
+    class main
+    disabled
+    oneshot
+
+on property:init.svc.zygote=running
+    start mcd_init
+
+#service for mcd main service
+service mcd_service /system/bin/mcd
+    class main
+    disabled
+
+on property:sys.boot_completed=1
+    start mcd_service
+
+service mdb_svc  /system/xbin/mdb_svc
+    class late_start
+    disabled
+
+service tunman /system/xbin/tunman
+    socket tunman stream 0666 system system
+    class main
+    disabled
+
+on property:net.svc.tunman=start
+    start tunman
+
+service otad /bin/otad
+    class main
+    socket otad stream 0660 updater updater
+    seclabel u:r:otad:s0
+
+# will delete this service, /system may be invalidate yet when post-fs-data triggered
+service checkpath /system/xbin/miuioneshots check-sdk-path
+    class main
+    user root
+    group system
+    disabled
+    oneshot
+
+on post-fs-data
+    start checkpath
+
+service checksdkpath /system/xbin/miuioneshots check-sdk-path
+    class main
+    user root
+    group system
+    disabled
+    oneshot
+
+on property:init.svc.zygote=running
+    start checksdkpath
+
+on property:sys.miui.nativedebug.coredump=on
+    mkdir /data/system/nativedebug/core 0777 root root
+    restorecon /data/system/nativedebug/core
+    write /proc/sys/kernel/core_pattern "/data/system/nativedebug/core/core-%e-%p"
+
+on property:sys.miui.nativedebug.coredump=off
+    write /proc/sys/kernel/core_pattern "/dev/null"
+
+# for theme
+on post-fs-data
+    mkdir /data/system/theme 0755 theme theme
+    chown theme theme /data/system/theme
+    chmod 0755 /data/system/theme
+    restorecon /data/system/theme
+    chown theme theme /data/system/theme/lock_wallpaper
+    chmod 0755 /data/system/theme/lock_wallpaper
+    restorecon /data/system/theme/lock_wallpaper
+    mkdir /data/system/theme_magic 0755 theme theme
+    chown theme theme /data/system/theme_magic
+    chmod 0775 /data/system/theme_magic
+    restorecon /data/system/theme_magic
+
+service fdpp /system/bin/fdpp daemon
+    class main
+    user root
+    group root

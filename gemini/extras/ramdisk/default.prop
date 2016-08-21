@@ -1,0 +1,25 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.adb.secure=1
+ro.debuggable=0
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+persist.sys.timezone=Asia/Shanghai
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Aug 18 00:40:36 CST 2016
+ro.bootimage.build.date.utc=1471452036
+ro.bootimage.build.fingerprint=Xiaomi/gemini/gemini:6.0.1/MXB48T/6.8.18:user/test-keys
+persist.sys.usb.config=none
