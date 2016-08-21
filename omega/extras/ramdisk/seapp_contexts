@@ -1,0 +1,25 @@
+isSystemServer=true domain=system_server
+user=system seinfo=platform domain=system_app type=system_app_data_file
+user=bluetooth seinfo=platform domain=bluetooth type=bluetooth_data_file
+user=nfc seinfo=platform domain=nfc type=nfc_data_file
+user=radio seinfo=platform domain=radio type=radio_data_file
+user=shared_relro domain=shared_relro
+user=shell seinfo=platform domain=shell type=shell_data_file
+user=_isolated domain=isolated_app levelFrom=user
+user=_app seinfo=platform domain=platform_app type=app_data_file levelFrom=user
+user=_app domain=untrusted_app type=app_data_file levelFrom=user
+user=theme seinfo=platform domain=theme type=app_data_file
+user=system seinfo=platform name=com.xiaomi.mitunes domain=miassistant type=app_data_file
+user=updater seinfo=platform domain=updater type=app_data_file levelFrom=user
+user=backup seinfo=platform domain=backup type=app_data_file levelFrom=user
+user=system seinfo=platform name=com.miui.networkassistant domain=networkassistant levelFrom=user
+user=system seinfo=platform name=com.miui.networkassistant.deamon domain=networkassistant levelFrom=user
+user=system seinfo=platform name=com.miui.networkassistant.shandow domain=networkassistant levelFrom=user
+user=system seinfo=platform name=com.miui.networkassistant:deamon domain=networkassistant levelFrom=user
+user=system seinfo=platform name=com.miui.networkassistant:shandow domain=networkassistant levelFrom=user
+user=_app seinfo=media name=com.android.providers.media type=app_data_file levelFrom=user
+user=_app seinfo=media name=com.android.providers.downloaders type=app_data_file levelFrom=user
+user=_app seinfo=media name=com.android.providers.downloaders.ui type=app_data_file levelFrom=user
+user=_app seinfo=media name=android.process.media domain=downloader levelFrom=user
+user=_app seinfo=media name=android.process.mediaUI domain=downloader levelFrom=user
+user=smartcard_svc seinfo=platform domain=platform_app type=platform_app_data_file levelFrom=user

@@ -1,0 +1,28 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.adb.secure=1
+persist.service.acm.enable=0
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.debuggable=0
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+persist.sys.usb.config=mtp
+ro.mount.fs=EXT4
+camera.disable_zsl_mode=1
+persist.sys.timezone=Asia/Shanghai
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Aug 18 00:44:56 CST 2016
+ro.bootimage.build.date.utc=1471452296
+ro.bootimage.build.fingerprint=Xiaomi/omega/omega:6.0/MRA58K/6.8.18:user/test-keys

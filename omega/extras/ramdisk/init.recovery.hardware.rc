@@ -1,0 +1,7 @@
+on post-fs
+    write /sys/module/lpm_levels/parameters/sleep_disabled 0
+    # Always start adbd on userdebug and eng builds
+    write /sys/class/android_usb/android0/enable 1
+    # Please remove follow comment in debug mode.
+    # mount ext4 /dev/block/bootdevice/by-name/system /system wait rw barrier=1
+    start adbd

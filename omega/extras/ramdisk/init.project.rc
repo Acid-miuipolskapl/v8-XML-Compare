@@ -1,0 +1,569 @@
+# MTK project .rc configure
+
+import init.mt6797.usb.rc
+
+on init
+    mkdir /mnt/media_rw/usbotg 0700 media_rw media_rw
+    mkdir /storage/usbotg 0700 root root
+
+on boot
+    # update foreground cpuset now that processors are up
+    write /dev/cpuset/foreground/cpus 0-9
+    write /dev/cpuset/foreground/boost/cpus 4-9
+    write /dev/cpuset/background/cpus 0,4
+    write /dev/cpuset/system-background/cpus 0-7
+
+on post-fs-data
+
+#
+# Connectivity related device nodes & configuration (begin)
+#
+
+#/dev/ttyMT2 for Connectivity BT/FM/GPS usage
+    chmod 0660 /dev/ttyMT2
+    chown system system /dev/ttyMT2
+#LCSH ADD: guodandan 2016-04-13 [IRTX]start
+   chown root shell /dev/irtx
+   chmod 0777 /dev/irtx
+#LCSH ADD: guodandan 2016-04-13 [IRTX]end
+#LCSH ADD: zhengbaojiang 2016-02-17 [nfcnci] start
+#LCSH ADD again: zhengbaojiang 2016-04-11 [nfcnci] start
+	chmod 0666 /dev/pn548
+	chown nfc nfc /dev/pn548
+#LCSH ADD agin: zhengbaojiang 2016-04-11 [nfcnci] end
+#LCSH ADD: zhengbaojiang 2016-02-17 [nfcnci] end
+
+# STP, WMT, GPS, FM and BT Driver
+#   insmod /system/lib/modules/mtk_hif_sdio.ko
+#   insmod /system/lib/modules/mtk_stp_wmt.ko
+#   insmod /system/lib/modules/mtk_stp_uart.ko
+#   insmod /system/lib/modules/mtk_stp_gps.ko
+#   insmod /system/lib/modules/mtk_stp_bt.ko
+#   insmod /system/lib/modules/mtk_fm_drv.ko
+#   insmod /system/lib/modules/mtk_wmt_wifi.ko
+
+
+# Create char device file for WMT, GPS, BT, FM, WIFI
+#    mknod /dev/stpwmt c 190 0;
+#    mknod /dev/stpgps c 191 0;
+#    mknod /dev/stpbt  c 192 0;
+
+#    chmod 0660 /dev/stpwmt
+#    chown system system /dev/stpwmt
+
+#    chmod 0660 /dev/wmtdetect
+#    chown system system /dev/wmtdetect
+
+    mknod /dev/wmtWifi c 153 0
+    chmod 0660 /dev/wmtWifi
+    chown system system /dev/wmtWifi
+
+#Camera
+    chmod 0660 /dev/MAINAF
+    chown system camera /dev/MAINAF
+
+    chmod 0660 /dev/MAINAF2
+    chown system camera /dev/MAINAF2
+
+    chmod 0660 /dev/SUBAF
+    chown system camera /dev/SUBAF
+
+    chmod 0660 /dev/GAF001AF
+    chown system camera /dev/GAF001AF
+
+    chmod 0660 /dev/DW9714AF
+    chown system camera /dev/DW9714AF
+
+    chmod 0660 /dev/LC898212AF
+    chown system camera /dev/LC898212AF
+
+    chmod 0660 /dev/BU64745GWZAF
+    chown system camera /dev/BU64745GWZAF
+
+#SMB
+    chown system system /proc/smb/ScreenComm
+    chmod 0660 /proc/smb/ScreenComm
+
+# BT
+#    chmod 0660 /dev/stpbt
+#    chown bluetooth radio /dev/stpbt
+
+# GPS
+#    chown gps gps /dev/stpgps
+    chown gps gps /sys/class/gpsdrv/gps/pwrctl
+    chown gps gps /sys/class/gpsdrv/gps/suspend
+    chown gps gps /sys/class/gpsdrv/gps/state
+    chown gps gps /sys/class/gpsdrv/gps/pwrsave
+    chown gps gps /sys/class/gpsdrv/gps/status
+#    chmod 0660 /dev/stpgps
+
+# WiFi
+    mkdir /data/misc/wifi 0770 wifi wifi
+    mkdir /data/misc/wifi/sockets 0770 wifi wifi
+    mkdir /data/misc/wpa_supplicant 0770 wifi wifi
+    chown wifi wifi /data/misc/wifi
+
+#Define device for ATCID
+    chmod 660 /dev/ttyGS0
+    chown system /dev/ttyGS0
+    chmod 660 /dev/ttyGS1
+    chown system /dev/ttyGS1
+
+#Disable for one Single loader
+# Load WiFi Driver
+#   insmod /system/lib/modules/wlan_mt.ko
+
+# Char device for BT 3.0 HS
+    mknod /dev/ampc0 c 151 0
+    chown bluetooth bluetooth /dev/ampc0
+    chmod 0660 /dev/ampc0
+
+# LCSH ADD lizhiye 2015-01-25 for vol key wake system
+chmod 0660  /sys/bus/platform/drivers/mtk-kpd/kpd_as_wake
+chown system system /sys/bus/platform/drivers/mtk-kpd/kpd_as_wake
+
+#LCSH ADD by dingyin for smartpa 20160126
+chmod 0660 /etc/firmware/tfa98xx.cnt
+chmod 0660 /dev/smartpa_i2c
+chown system system /dev/smartpa_i2c
+chown system system /etc/firmware/tfa98xx.cnt
+
+#LCSH ADD by longcheer_liml for smartpa 20160616
+chmod 0664 /system/bin/init_atmel
+chown system system /system/bin/init_atmel
+
+#LCSH MOD by qinhai for MIUI theme chmod 755 20160329
+mkdir /data/system 0775 root system
+chown root system /data/system/yas_lib.cfg
+chown root system /data/system/yas_set.cfg
+
+#start akm09911 daemon
+start akmd09911 -p 0
+
+
+
+#add bosch driver node 
+chown system system /sys/bus/platform/drivers/gsensor/acc_event_mode
+chown system system /sys/bus/platform/drivers/gsensor/acc_odr
+chown system system /sys/bus/platform/drivers/gsensor/acc_op_mode
+chown system system /sys/bus/platform/drivers/gsensor/acc_range
+chown system system /sys/bus/platform/drivers/gsensor/bmi_ring_buf
+chown system system /sys/bus/platform/drivers/gsensor/bmi_value
+chown system system /sys/bus/platform/drivers/gsensor/cali
+chown system system /sys/bus/platform/drivers/gsensor/chipinfo
+chown system system /sys/bus/platform/drivers/gsensor/cpsdata
+chown system system /sys/bus/platform/drivers/gsensor/delay
+chown system system /sys/bus/platform/drivers/gsensor/enable_timer
+chown system system /sys/bus/platform/drivers/gsensor/fifo_bytecount
+chown system system /sys/bus/platform/drivers/gsensor/fifo_data_frame
+chown system system /sys/bus/platform/drivers/gsensor/fifo_data_sel
+chown system system /sys/bus/platform/drivers/gsensor/fifo_flush
+chown system system /sys/bus/platform/drivers/gsensor/fifo_watermark
+chown system system /sys/bus/platform/drivers/gsensor/firlen
+chown system system /sys/bus/platform/drivers/gsensor/layout
+chown system system /sys/bus/platform/drivers/gsensor/powerstatus
+chown system system /sys/bus/platform/drivers/gsensor/register
+chown system system /sys/bus/platform/drivers/gsensor/sensordata
+chown system system /sys/bus/platform/drivers/gsensor/status
+chown system system /sys/bus/platform/drivers/gsensor/trace
+
+chmod 0660 /sys/bus/platform/drivers/gsensor/acc_event_mode
+chmod 0660 /sys/bus/platform/drivers/gsensor/acc_odr
+chmod 0660 /sys/bus/platform/drivers/gsensor/acc_op_mode
+chmod 0660 /sys/bus/platform/drivers/gsensor/acc_range
+chmod 0660 /sys/bus/platform/drivers/gsensor/bmi_ring_buf
+chmod 0660 /sys/bus/platform/drivers/gsensor/bmi_value
+chmod 0660 /sys/bus/platform/drivers/gsensor/cali
+chmod 0660 /sys/bus/platform/drivers/gsensor/chipinfo
+chmod 0660 /sys/bus/platform/drivers/gsensor/cpsdata
+chmod 0660 /sys/bus/platform/drivers/gsensor/delay
+chmod 0660 /sys/bus/platform/drivers/gsensor/enable_timer
+chmod 0660 /sys/bus/platform/drivers/gsensor/fifo_bytecount
+chmod 0660 /sys/bus/platform/drivers/gsensor/fifo_data_frame
+chmod 0660 /sys/bus/platform/drivers/gsensor/fifo_data_sel
+chmod 0660 /sys/bus/platform/drivers/gsensor/fifo_flush
+chmod 0660 /sys/bus/platform/drivers/gsensor/fifo_watermark
+chmod 0660 /sys/bus/platform/drivers/gsensor/firlen
+chmod 0660 /sys/bus/platform/drivers/gsensor/layout
+chmod 0660 /sys/bus/platform/drivers/gsensor/powerstatus
+chmod 0660 /sys/bus/platform/drivers/gsensor/register
+chmod 0660 /sys/bus/platform/drivers/gsensor/sensordata
+chmod 0660 /sys/bus/platform/drivers/gsensor/status
+chmod 0660 /sys/bus/platform/drivers/gsensor/trace
+
+chown system system /sys/bus/platform/drivers/gyroscope/cali
+chown system system /sys/bus/platform/drivers/gyroscope/chipinfo
+chown system system /sys/bus/platform/drivers/gyroscope/firlen
+chown system system /sys/bus/platform/drivers/gyroscope/gyro_odr
+chown system system /sys/bus/platform/drivers/gyroscope/gyro_op_mode
+chown system system /sys/bus/platform/drivers/gyroscope/gyro_range
+chown system system /sys/bus/platform/drivers/gyroscope/rawdata
+chown system system /sys/bus/platform/drivers/gyroscope/selftest
+chown system system /sys/bus/platform/drivers/gyroscope/sensordata
+chown system system /sys/bus/platform/drivers/gyroscope/status
+chown system system /sys/bus/platform/drivers/gyroscope/trace
+chmod 0660 /sys/bus/platform/drivers/gyroscope/cali
+chmod 0660 /sys/bus/platform/drivers/gyroscope/chipinfo
+chmod 0660 /sys/bus/platform/drivers/gyroscope/firlen
+chmod 0660 /sys/bus/platform/drivers/gyroscope/gyro_odr
+chmod 0660 /sys/bus/platform/drivers/gyroscope/gyro_op_mode
+chmod 0660 /sys/bus/platform/drivers/gyroscope/gyro_range
+chmod 0660 /sys/bus/platform/drivers/gyroscope/rawdata
+chmod 0660 /sys/bus/platform/drivers/gyroscope/selftest
+chmod 0660 /sys/bus/platform/drivers/gyroscope/sensordata
+chmod 0660 /sys/bus/platform/drivers/gyroscope/status
+chmod 0660 /sys/bus/platform/drivers/gyroscope/trace
+
+chown system system /sys/bus/platform/drivers/msensor/daemon
+chown system system /sys/bus/platform/drivers/msensor/rawdata
+chown system system /sys/bus/platform/drivers/msensor/op_mode
+chmod 0660 /sys/bus/platform/drivers/msensor/op_mode
+chmod 0660 /sys/bus/platform/drivers/msensor/rawdata
+chmod 0660 /sys/bus/platform/drivers/msensor/daemon
+
+# yamaha 
+chown system system /system/bin/fusiond
+chown system system /system/bin/fusionda
+chown system system /sys/class/input/input10/mag_average_sample
+chown system system /sys/class/input/input10/mag_data
+chown system system /sys/class/input/input10/mag_delay
+chown system system /sys/class/input/input10/mag_enable
+chown system system /sys/class/input/input10/mag_hard_offset
+chown system system /sys/class/input/input10/mag_ouflow_thresh
+chown system system /sys/class/input/input10/mag_position
+chown system system /sys/class/input/input10/mag_self_test
+chown system system /sys/class/input/input10/mag_self_test_noise
+chown system system /sys/class/input/input10/mag_static_matrix
+chown system system /sys/class/input/input10/name
+
+chmod 0660 /sys/class/input/input10/mag_average_sample
+chmod 0660 /sys/class/input/input10/mag_data
+chmod 0660 /sys/class/input/input10/mag_delay
+chmod 0660 /sys/class/input/input10/mag_enable
+chmod 0660 /sys/class/input/input10/mag_hard_offset
+chmod 0660 /sys/class/input/input10/mag_ouflow_thresh
+chmod 0660 /sys/class/input/input10/mag_position
+chmod 0660 /sys/class/input/input10/mag_self_test
+chmod 0660 /sys/class/input/input10/mag_self_test_noise
+chmod 0660 /sys/class/input/input10/mag_static_matrix
+chmod 0660 /sys/class/input/input10/name
+
+chown system system /sys/class/input/input11/euler_data
+chown system system /sys/class/input/input11/euler_delay
+chown system system /sys/class/input/input11/euler_enable
+chown system system /sys/class/input/input11/name
+
+chmod 0660 /sys/class/input/input11/euler_data
+chmod 0660 /sys/class/input/input11/euler_delay
+chmod 0660 /sys/class/input/input11/euler_enable    
+chmod 0660 /sys/class/input/input11/name
+
+chown system system /sys/class/input/input9/name
+chmod 0660 /sys/class/input/input9/name
+
+chown system system /sys/class/input/input0/name
+chmod 0660 /sys/class/input/input0/name
+
+chown system system /sys/class/input/input1/name
+chmod 0660 /sys/class/input/input1/name
+
+chown system system /sys/class/input/input2/name
+chmod 0660 /sys/class/input/input2/name
+
+chown system system /sys/class/input/input3/name
+chmod 0660 /sys/class/input/input3/name
+
+chown system system /sys/class/input/input4/name
+chmod 0660 /sys/class/input/input4/name
+
+
+chown system system /sys/class/input/input5/name
+chmod 0660 /sys/class/input/input5/name
+
+chown system system /sys/class/input/input6/name
+chmod 0660 /sys/class/input/input6/name
+
+chown system system /sys/class/input/input7/name
+chmod 0660 /sys/class/input/input7/name
+
+chown system system /sys/class/input/input8/name
+chmod 0660 /sys/class/input/input8/name
+
+chown system system /sys/class/input/input9/name
+chmod 0660 /sys/class/input/input9/name
+
+chown system system /sys/class/input/input10/name
+chmod 0660 /sys/class/input/input10/name
+
+chown system system /sys/class/input/input11/name
+chmod 0660 /sys/class/input/input11/name
+
+
+
+chown system system /sys/class/input/input12/name
+chmod 0660 /sys/class/input/input12/name
+
+chown system system /sys/class/input/input13/name
+chmod 0660 /sys/class/input/input13/name
+
+chown system system /sys/class/input/input14/name
+chmod 0660 /sys/class/input/input14/name
+
+chown system system /sys/class/input/input15/name
+chmod 0660 /sys/class/input/input15/name
+
+chown system system /sys/class/input/input16/name
+chmod 0660 /sys/class/input/input16/name
+
+chown system system /sys/class/input/input17/name
+chmod 0660 /sys/class/input/input17/name
+
+chown system system /dev/input/event0
+chown system system /dev/input/event1
+chown system system /dev/input/event2
+chown system system /dev/input/event3
+chown system system /dev/input/event4
+
+chown system system /dev/input/event5
+chown system system /dev/input/event6
+chown system system /dev/input/event7
+chown system system /dev/input/event8
+chown system system /dev/input/event9
+
+chown system system /dev/input/event10
+chown system system /dev/input/event11
+chown system system /dev/input/event12
+chown system system /dev/input/event13
+chown system system /dev/input/event14
+
+chown system system /dev/input/event15
+chown system system /dev/input/event16
+chown system system /dev/input/event17
+
+############ 
+chown system system /sys/class/input/input18/name
+chmod 0660 /sys/class/input/input18/name
+
+
+# 
+chown system system /system/bin/akmd09911
+
+chmod 0755 /system/bin/akmd09911
+
+
+#LCSH ADD by yangbo for fpc fingerprint 20160229,start
+chown system system sys/bus/platform/devices/soc/soc:fpc_interrupt@0/irq
+chown system system sys/bus/platform/devices/soc/soc:fpc_interrupt@0/clk_enable
+chown system system sys/bus/platform/devices/soc/soc:fpc_interrupt@0/do_wakeup
+chown system system sys/bus/platform/devices/soc/soc:fpc_interrupt@0/wakeup_enable
+mkdir /data/fpc
+chown system system /data/fpc
+chown system system /data/fpc/socket
+chmod 0770  /data/fpc
+chmod 0770  /data/fpc/socket
+#mkdir /data/fpc 0664 system system
+#LCSH ADD end for fpc fingerprint,end
+
+#yangbo add for TP double click 20160621
+chown system system /sys/class/power_supply/usb/device/wakeup_onoff
+chmod 0666 /sys/class/power_supply/usb/device/wakeup_onoff
+#end by lct ybo
+
+#
+# Connectivity related device nodes & configuration (end)
+#
+
+#    chmod 0660 /dev/spm
+#    chown system system /dev/spm
+
+
+on init
+    # Refer to http://source.android.com/devices/tech/storage/index.html
+    # It said, "Starting in Android 4.4, multiple external storage devices are surfaced to developers through
+    #           Context.getExternalFilesDirs(), Context.getExternalCacheDirs(), and Context.getObbDirs().
+    #           External storage devices surfaced through these APIs must be a semi-permanent part of the device (such as an SD card slot in a battery compartment).
+    #           Developers expect data stored in these locations to be available over long periods of time."
+    # Therefore, if the target doesn't support sd hot-plugging (Ex: the SD card slot in a battery compartment), we need to export SECONDARY_STORAGE in 'boot' section
+    #
+    # export SECONDARY_STORAGE /storage/sdcard1
+
+service fuse_usbotg /system/bin/sdcard -u 1023 -g 1023 -w 1023 -d /mnt/media_rw/usbotg /storage/usbotg
+    class late_start
+    disabled
+
+#
+# Connectivity related services (Begin)
+#
+
+service atci_service /system/bin/atci_service
+	socket atci-service stream 660 radio system
+	socket atci-serv-fw stream 660 radio system
+	user root
+        disabled
+	group radio system
+service atcid-daemon-u /system/bin/atcid
+	user system
+	group radio system media
+	disabled
+	oneshot
+
+service atcid-daemon-e /system/bin/atcid
+	user root
+	group radio system
+	disabled
+	oneshot
+
+on early_property:ro.build.type=eng
+start atci_service
+start atcid-daemon-e
+service audio-daemon /system/bin/audiocmdservice_atci
+    class main
+    socket atci-audio stream 660 media system
+    user media
+    group nvram media system sdcard_rw
+    disabled
+    oneshot
+
+service wmtLoader /system/bin/wmt_loader
+    user root
+    group root
+   class core
+    oneshot
+
+
+service conn_launcher /system/bin/6620_launcher -p /system/etc/firmware/
+    user system
+    group system
+    class core
+
+on property:service.wcn.coredump.mode=2
+start stp_dump
+
+service stp_dump /system/bin/stp_dump3
+    user root
+    group root
+    class core
+    disabled
+    oneshot
+
+#
+# Connectivity related services (End)
+#
+
+service spm_script /system/bin/spm_loader
+    user root
+    group root
+    class core
+    oneshot
+
+#
+# Rilproxy used to control ril request/urc/response for gsm rild and c2k rild
+#
+service ril-proxy /system/bin/rilproxy -l mtk-rilproxy.so
+    class core
+    socket rild stream 660 root radio
+    socket rild2 stream 660 root radio
+    socket rild3 stream 660 root radio
+    socket rild4 stream 660 root radio
+    socket rilproxy-atci stream 660 root radio
+    socket rilproxy-mal stream 660 radio system
+    socket sap_uim_socket1 stream 660 bluetooth bluetooth
+    socket sap_uim_socket2 stream 660 bluetooth bluetooth
+    socket sap_uim_socket3 stream 660 bluetooth bluetooth
+    socket sap_uim_socket4 stream 660 bluetooth bluetooth
+    user root
+    group radio cache inet misc audio sdcard_r sdcard_rw log system
+    oneshot
+    disabled
+
+service ril-daemon-mtk /system/bin/mtkrild
+    class core
+    socket mrild stream 660 root radio
+    socket mrild2 stream 660 root radio
+    socket mrild3 stream 660 root radio
+    socket mrild4 stream 660 root radio
+    socket rild-ims stream 660 root radio
+    socket rild-debug stream 660 radio system
+    socket rild-oem stream 660 radio system
+    socket rild-mtk-ut stream 660 radio net_bt
+    socket rild-mtk-ut-2 stream 660 radio net_bt
+    socket rild-mtk-modem stream 660 radio system
+    socket rild-atci stream 660 root radio
+    socket rild-mal stream 660 radio system
+    socket rild-mal-at stream 660 radio system
+    socket rild-vsim stream 660 root radio
+    socket msap_uim_socket1 stream 660 radio radio
+    socket msap_uim_socket2 stream 660 radio radio
+    socket msap_uim_socket3 stream 660 radio radio
+    socket msap_uim_socket4 stream 660 radio radio
+    user root
+    group radio cache inet misc audio sdcard_r sdcard_rw log system
+    disabled
+    oneshot
+
+on property:ril.rilproxy=1
+    start ril-proxy
+
+#LCSH ADD:yangbo merge from CX865 for miui lcd test start
+service screencolor /system/bin/screencolor
+    class core
+    user root
+    group root
+    oneshot
+
+on property:persist.sys.display_prefer=*
+    start screencolor
+
+on property:persist.sys.display_ce=*
+    start screencolor
+    
+#add by lidongjie start
+on property:persist.sys.ltm_enable=*
+    start screencolor
+#add by lidongjie end
+
+#add by lizhiye start
+on property:persist.sys.display_eyecare=*
+    start screencolor
+#add by lizhiye end
+#LCSH ADD:merge from CX865 for miui lcd test end 
+
+# LCSH ADD by dingyin for goodix fingerprint 20160316 start
+on fs
+    chown system system /dev/goodix_fp
+    chown system system /system/bin/fingerprintd
+    #chmod 0760 /system/bin/fingerprintd
+    chown system system /system/bin/consumerird
+    chown system system /system/bin/fusiond
+
+service goodixfpd /system/bin/goodixfingerprintd
+    class main
+    user system
+    group system
+#LCSH ADD by yangbo for fpc fingerprint 20160229,start
+service fingerprintd /system/bin/fingerprintd
+    class late_start
+    user system
+    group system
+#LCSH ADD end for fpc fingerprint,end
+
+#add fusiond service
+service fusiond /system/bin/fusiond
+    class late_start
+    user system
+    group system
+    oneshot
+
+#service akmd09911 /system/bin/akmd09911
+#    class late_start
+#    user root
+#    group root
+#    oneshot
+
+
+# LCSH xuwenda for hangdebug begin
+service hangdebug /system/bin/hangdebug
+    user system
+    group radio system
+    class core
+# LCSH xuwenda for hangdebug end
