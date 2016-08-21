@@ -1,0 +1,34 @@
+on early-init
+    # Configuration for namespaces support
+    mkdir /var 0770 root system
+    mount tmpfs none /var mode=0770,uid=0,gid=1000
+    mkdir /var/run 0750 root system
+    mkdir /var/run/netns 0700 root root
+
+on late-init
+    # set vr related cpuset
+    mkdir /dev/cpuset/vr
+    write /dev/cpuset/vr/mems 0
+
+    # change permissions for vr cpusets as we'll touch at runtime
+    chown system system /dev/cpuset/foreground/boost/cpus
+    chown system system /dev/cpuset/foreground/cpus
+    chown system system /dev/cpuset/vr
+    chown system system /dev/cpuset/vr/cpu_exclusive
+    chown system system /dev/cpuset/vr/cpus
+    chown system system /dev/cpuset/vr/tasks
+    chmod 0664 /dev/cpuset/vr/cpu_exclusive
+    chmod 0664 /dev/cpuset/vr/cpus
+    chmod 0664 /dev/cpuset/vr/tasks
+
+on boot
+    # increase limits for the kernel key retention service
+    # this is required for space-encryption
+    write /proc/sys/kernel/keys/maxbytes 200000
+    write /proc/sys/kernel/keys/maxkeys 2000
+    write /proc/sys/kernel/keys/root_maxbytes 200000
+    write /proc/sys/kernel/keys/root_maxkeys 2000
+
+service ssService /system/bin/ssServices
+    class core
+

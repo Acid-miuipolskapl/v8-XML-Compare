@@ -1,0 +1,26 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.allow.mock.location=0
+ro.adb.secure=1
+ro.debuggable=0
+ro.zygote=zygote32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+persist.sys.strict_op_enable=false
+persist.sys.whitelist=/system/etc/whitelist_appops.xml
+camera2.portability.force_api=1
+persist.sys.timezone=Asia/Shanghai
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Aug 18 00:34:19 CST 2016
+ro.bootimage.build.date.utc=1471451659
+ro.bootimage.build.fingerprint=Xiaomi/cancro/cancro:6.0.1/MMB29M/6.8.18:user/test-keys
+persist.sys.usb.config=none
