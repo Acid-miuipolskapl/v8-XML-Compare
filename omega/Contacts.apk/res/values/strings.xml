@@ -1041,6 +1041,7 @@ To add a contact to your list of favorites:
   <string name="search_import_from_other_phone">Contacts;Import;other phone</string>
   <string name="search_import_from_sdcard">Contacts;Import;storage</string>
   <string name="search_import_from_sim">Contacts;Import;SIM card</string>
+  <string name="search_input_hint">You can search phone numbers or services</string>
   <string name="search_key_photo_word">Assign;contact;photos;Contacts</string>
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>

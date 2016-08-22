@@ -184,7 +184,7 @@
   <string name="drive_opened">Signed in</string>
   <string name="editor_commend">Edit</string>
   <string name="email_platform">Email</string>
-  <string name="empty_comment">"Comments can't be empty"</string>
+  <string name="empty_comment">"Comment can't be empty"</string>
   <string name="empty_file_download">"Can't download empty files"</string>
   <string name="empty_file_upload">"Can't upload empty files"</string>
   <string name="enable_documentsui">Turn on %s in Settings &gt; Installed apps first</string>
@@ -674,7 +674,7 @@ and never miss the cool new ones!"</string>
   <string name="select_image">Images</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
-  <string name="select_volume">Please select volume</string>
+  <string name="select_volume">Select volume</string>
   <string name="send_comment">Send</string>
   <string name="send_error">"Couldn't add comment"</string>
   <string name="send_sticker">Send sticker</string>
@@ -846,7 +846,7 @@ and never miss the cool new ones!"</string>
   <string name="user_setting_follow_new_msg">Notifications from the people you follow</string>
   <string name="user_setting_follow_new_msg_tip">Receive notifications about new videos</string>
   <string name="user_setting_followed_msg">Notifications about followers</string>
-  <string name="user_setting_followed_msg_tip">Receive notifications when people start following you</string>
+  <string name="user_setting_followed_msg_tip">"You'll be notified when people start following you"</string>
   <string name="user_setting_new_comment">Notifications about new comments</string>
   <string name="user_setting_new_comment_tip">"You'll be notified about replies to your comments and videos"</string>
   <string name="user_setting_new_liked">Notifications about likes</string>

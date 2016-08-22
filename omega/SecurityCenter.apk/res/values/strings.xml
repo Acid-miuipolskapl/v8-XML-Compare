@@ -252,7 +252,7 @@ or enter App lock password"</string>
   <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Last charge</string>
-  <string name="charging_text_battery_nearly_full">Nearly charged</string>
+  <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
   <string name="charging_text_time_calculating">Calculating charging time…</string>
   <string name="check_network_state">Test network</string>
@@ -876,8 +876,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_allow_connect_network_title">Overseas data roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Allow exceptions to use mobile data while roaming</string>
   <string name="pref_app_traffic_managent">Restrict data usage by app</string>
-  <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
-  <string name="pref_auto_adjust_traffic">Auto-sync data usage stats</string>
+  <string name="pref_auto_adjust_settings">Auto adjust data usage stats settings</string>
+  <string name="pref_auto_adjust_traffic">Auto adjust data usage stats</string>
   <string name="pref_automatic_adjust">Sync carrier data usage</string>
   <string name="pref_avaible_traffic">Data plan</string>
   <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>

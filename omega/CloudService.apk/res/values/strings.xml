@@ -228,7 +228,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_battery_low">Not enough battery to sync</string>
   <string name="micloud_main_battery_message">Connect your device to a power source to sync</string>
   <string name="micloud_main_clear_now">Clear</string>
-  <string name="micloud_main_data_unsynced">%d waiting to sync</string>
+  <string name="micloud_main_data_unsynced">Items waiting to sync: %d</string>
   <string name="micloud_main_detail">View details</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
   <string name="micloud_main_memory_low_message">"To sync, delete some items you've stored in the cloud."</string>
@@ -247,7 +247,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_set_internet">Network</string>
   <string name="micloud_main_space_full">Cloud storage is full</string>
   <string name="micloud_main_space_full_title">Cloud storage is full</string>
-  <string name="micloud_main_space_low">Almost out of space…</string>
+  <string name="micloud_main_space_low">Almost out of space</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
   <string name="micloud_main_suggest_master_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync.
@@ -298,7 +298,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
-  <string name="micloud_notif_title_depend_wifi">%d is waiting to sync</string>
+  <string name="micloud_notif_title_depend_wifi">Items waiting to sync: %d</string>
   <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
@@ -352,7 +352,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_warn_full_sum">"New items won't be synced with Mi Cloud."</string>
   <string name="micloud_warn_full_title">Out of space</string>
   <string name="micloud_warn_low_sum">Your Mi Cloud is 90% full.</string>
-  <string name="micloud_warn_low_title">Almost out of space…</string>
+  <string name="micloud_warn_low_title">Almost out of space</string>
   <string name="micloud_web_discription">Visit i.mi.com</string>
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
