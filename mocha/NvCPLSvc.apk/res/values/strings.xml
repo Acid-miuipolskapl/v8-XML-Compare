@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">NVIDIA Tegra Services</string>
+  <string name="nvcplsvc_bind">nvcplsvc client</string>
+  <string name="nvcplsvc_desc_bind">Allows the application to bind to NvCPLSvc</string>
+  <string name="permdesc_sysfsWrite">Allows the application to change power-saving settings</string>
+  <string name="permlab_sysfsWrite">adjust power-saving</string>
+</resources>
