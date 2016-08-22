@@ -892,8 +892,8 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Current Keyboard</string>
   <string name="current_screen_lock">Current screen lock</string>
-  <string name="current_use_ese">Using embedded secure element</string>
-  <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="current_use_ese">using MIPay, could use MI Pay and transit card</string>
+  <string name="current_use_uicc_se">using HCE wallet</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -2165,7 +2165,7 @@ Select your operating system:"</string>
   <string name="nfc_payment_use_default">Use default</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="nfc_se_route_title">Secure element position</string>
+  <string name="nfc_se_route_title">Select Wallet</string>
   <string name="night_mode_auto">Automatic</string>
   <string name="night_mode_no">Light</string>
   <string name="night_mode_summary">%s</string>
@@ -2952,8 +2952,8 @@ To use screen pinning:
   <string name="sdcard_settings_unmounted_status">It’s now safe to remove the USB storage.</string>
   <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
   <string name="sdcard_unmount">Unmount USB storage</string>
-  <string name="se_route_ese">Embedded secure element</string>
-  <string name="se_route_uicc">Secure element on SIM card</string>
+  <string name="se_route_ese">use xiaomi wallet, could use MI Pay and transit card</string>
+  <string name="se_route_uicc">use HCE wallet</string>
   <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number;Status;Legal information "</string>
   <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
@@ -3343,6 +3343,8 @@ Possibly incorrect PIN."</string>
   <string name="sim_slot_empty">SIM empty</string>
   <string name="sim_status_title">SIM status</string>
   <string name="simulate_color_space">Simulate color space</string>
+  <string name="single_key_use">Single key use</string>
+  <string name="single_key_use_summary">Home-key instead of the other two buttons for normal operation</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
