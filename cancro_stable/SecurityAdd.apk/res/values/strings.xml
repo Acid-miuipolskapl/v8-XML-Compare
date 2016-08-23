@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Security service plugin</string>
+  <string name="app_not_installed_toast">"App isn't installed on your device."</string>
+  <string name="cancel_button">Cancel</string>
+  <string name="empty">" "</string>
+  <string name="main_toolbar_purchase">Top up</string>
+  <string name="miuishare_title_more">More</string>
+  <string name="miuishare_title_share">Share</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_report_activity_label">Monthly report</string>
+  <string name="month_report_click_reconnect_network">Try again</string>
+  <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
+  <string name="month_report_follow_service_negative">No thanks</string>
+  <string name="month_report_follow_service_positive">Follow</string>
+  <string name="month_report_follow_service_summary">"Stay up to date with security news and info by following MIUI Security app's official account."</string>
+  <string name="month_report_follow_service_title">Security updates</string>
+  <string name="month_report_history_activity_label">Report history</string>
+  <string name="month_report_network_dialog_description">Allow this app to connect to the internet to get report info?</string>
+  <string name="month_report_network_dialog_positive">Allow</string>
+  <string name="month_report_network_dialog_title">"Can't get report info"</string>
+  <string name="month_report_result_share">Share</string>
+  <string name="month_report_share_img_fail">"Couldn't share"</string>
+  <string name="month_report_share_loading">Just a sec…</string>
+  <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
+  <string name="month_report_warning_dialog_positive">Turn on</string>
+  <string name="month_report_warning_dialog_title">Monthly security report</string>
+  <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="no_network_btn">Try again</string>
+  <string name="ok_button">OK</string>
+  <string name="open_browser">Open in browser</string>
+  <string name="pc_activity_title">Optimize battery</string>
+  <string name="pm_lable_name">About root access</string>
+  <string name="privacy_declare_dialog_title">Terms of Service</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
+  <string name="share">Share</string>
+  <string name="title_share_link">Share URL</string>
+  <string name="usage_sorted_loading_text">Just a sec…</string>
+</resources>

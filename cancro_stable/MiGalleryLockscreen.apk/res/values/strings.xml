@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Wallpaper Carousel</string>
+  <string name="at_least_one">Choose at least one category</string>
+  <string name="auto_interval">Auto</string>
+  <string name="cancel">Cancel</string>
+  <string name="cancel_international">Cancel</string>
+  <string name="cancel_lockscreen">Cancel</string>
+  <string name="change_time">Switch wallpapers</string>
+  <string name="day">Once a day</string>
+  <string name="declaration">Get new wallpapers delivered straight to your lock screen every day for free.</string>
+  <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+  <string name="declaration_title">Terms and Conditions</string>
+  <string name="hour_1">Every hour</string>
+  <string name="hour_3">Every 3 hours</string>
+  <string name="lockscreen_magazine_summary">Add your wallpaper in folder Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="lockscreen_magazine_system_title">Offline</string>
+  <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+  <string name="minutes_15">15 minutes</string>
+  <string name="no_long_show">"Don't show again"</string>
+  <string name="ok_enable_network_prov">Agree</string>
+  <string name="ok_international">Agree</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Agree</string>
+  <string name="resource_apply">Apply</string>
+  <string name="resource_no_network_text">"Can't connect to the network."</string>
+  <string name="setting_head">Settings</string>
+  <string name="sst_favor_desc">View favorite wallpapers</string>
+  <string name="sst_favor_title">Favorites</string>
+  <string name="sst_grid_view_select_all">Select all</string>
+  <string name="sst_grid_view_unselect_all">Deselect all</string>
+  <string name="sst_no_favor_wallpaper_hint">No wallpapers in Favorites</string>
+  <string name="sst_prov_enable_desc">Turn on wallpapers carousel on lock screen</string>
+  <string name="sst_prov_enable_title">Turn on Wallpaper Carousel</string>
+  <string name="sst_require_one_category_hint">Select at least 1 category</string>
+  <string name="sst_sti_desc">Set wallpaper update frequency</string>
+  <string name="sst_sti_title">Update frequency</string>
+  <string name="sst_subscribe_title">My categories</string>
+  <string name="sst_wifi_only_desc">Turn this feature off to save mobile data</string>
+  <string name="sst_wifi_only_title">Update wallpapers using mobile data</string>
+  <string name="summary">"By using this feature, you're agreeing to our &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally."</string>
+  <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;User Agreement&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
+  <string name="theme_apply_success">Lock screen applied</string>
+  <string name="theme_applying">Applying…</string>
+  <string name="wlan_download">Update over Wi-Fi</string>
+  <string name="wlan_download_cn">Update over WLAN</string>
+</resources>
