@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="check_schedule_contents">
+        <item>@string/setting_autocheck_schedule1</item>
+        <item>@string/setting_autocheck_schedule2</item>
+        <item>@string/setting_autocheck_schedule3</item>
+        <item>@string/setting_autocheck_schedule4</item>
+    </string-array>
+</resources>
