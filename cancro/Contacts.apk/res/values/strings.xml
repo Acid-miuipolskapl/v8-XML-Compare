@@ -165,6 +165,7 @@
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad_description">Close dial pad</string>
   <string name="cloud_antispam_mark">Flag</string>
+  <string name="cloud_antispam_marked">Flagged</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
