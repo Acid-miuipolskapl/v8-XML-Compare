@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d selected</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="confirm_delete_broadcast">
+        <item quantity="other">%1$s selected alert messages will be deleted</item>
+        <item quantity="one">1 selected alert message will be deleted</item>
+    </plurals>
+</resources>
