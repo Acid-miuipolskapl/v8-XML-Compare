@@ -922,7 +922,7 @@ Take more photos of your friends!"</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
   <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
-  <string name="picker_no_network_message">network is unavailble,please connect network and download</string>
+  <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
@@ -1005,7 +1005,7 @@ Take more photos of your friends!"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>
-  <string name="set_as_wallpaper_description">This picture is thumbnail, do you need download original first？</string>
+  <string name="set_as_wallpaper_description">This image is a thumbnail, download the original？</string>
   <string name="set_as_wallpaper_title">Set as Wallpaper</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
@@ -1018,7 +1018,7 @@ Take more photos of your friends!"</string>
   <string name="share">Share</string>
   <string name="share_album">Share album</string>
   <string name="share_album_needs_auto_upload_tip">"Can't turn off backups for shared albums"</string>
-  <string name="share_app_is_launching">Target app is launching</string>
+  <string name="share_app_is_launching">Launching app…</string>
   <string name="share_by_email_start">Share %1$s in background</string>
   <string name="share_by_email_successfully">Shared %1$s</string>
   <string name="share_public_url_text">"I've shared the album %1$s with you. View it at %2$s"</string>

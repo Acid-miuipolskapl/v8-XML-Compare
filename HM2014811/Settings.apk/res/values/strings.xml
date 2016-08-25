@@ -1847,6 +1847,7 @@ Select your operating system:"</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
   <string name="path_fluency_mode">Settings/Battery &amp; performance/System animations</string>
   <string name="path_font_settings">Settings/Display/System font</string>
+  <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One-handed mode</string>
@@ -2413,6 +2414,7 @@ This setting affects all users on this phone."</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_fluency_mode">System animations</string>
   <string name="search_font">System font;Font;Fonts;Font sizes;Font size</string>
+  <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">Double tap screen to wake;double tap to wake;wake screen;double tap screen;double tap</string>
   <string name="search_gps">GPS;Location Access;Location services</string>
   <string name="search_handy_mode">One handed mode;One-handed mode;Onehanded mode;One hand</string>
