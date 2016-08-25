@@ -1373,7 +1373,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Gallery</item>
         <item>Music</item>
         <item>Email</item>
-        <item>Video</item>
+        <item>Play video</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
@@ -1738,6 +1738,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>File Explorer</item>
         <item>App lock</item>
         <item>Second space</item>
+    </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10s</item>
+        <item>20s</item>
+        <item>30s</item>
+        <item>1min</item>
+    </string-array>
+    <string-array name="anr_record_interval_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

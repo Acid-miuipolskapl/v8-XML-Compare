@@ -164,6 +164,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_tips">Make sure the two devices are touching, and then tap the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
+  <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Blocklist</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentication type</string>
@@ -2047,6 +2048,7 @@ There are other users present on this device.
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
+  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">OSX: Download the driver and install AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Get the driver at http://www.android.com/filetransfer/</string>
@@ -2239,6 +2241,7 @@ Select your operating system:"</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
+  <string name="open_anr_debug">Turn on ANR debugging</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
@@ -2756,6 +2759,7 @@ Select your operating system:"</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
   <string name="recompute_size">Recomputing size…</string>
+  <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
