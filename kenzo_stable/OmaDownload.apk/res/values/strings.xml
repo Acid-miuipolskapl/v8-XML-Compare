@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="cancel">Cancel</string>
+  <string name="cannot_download">Cannot download dd file without SD card</string>
+  <string name="description">Description:</string>
+  <string name="download">Download</string>
+  <string name="download_complete">Download complete</string>
+  <string name="download_info">Download information</string>
+  <string name="download_sucessful">Download successful</string>
+  <string name="filename">File name:</string>
+  <string name="filesize">File size:</string>
+  <string name="filetype">File type:</string>
+  <string name="filevendor">File vendor:</string>
+  <string name="invalid_dd">Invalid descriptor file</string>
+  <string name="invalid_version">Invalid version</string>
+  <string name="mimemismatch">Mime type mismatch</string>
+  <string name="next_page">Next page</string>
+  <string name="nonacceptable">Non acceptable content</string>
+  <string name="server_error">Server error!</string>
+</resources>
