@@ -5,6 +5,7 @@
   <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
@@ -55,7 +56,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
   <string name="search_apps">Search apps</string>
-  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_group_fold">Hide</string>
   <string name="search_group_unfold">More</string>
   <string name="search_history">History</string>
