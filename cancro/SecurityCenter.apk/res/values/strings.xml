@@ -742,7 +742,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_open_now">Turn on</string>
   <string name="optimize_result_button_operators_diagnose">Carrier diagnostics</string>
   <string name="optimize_result_button_purchase">Buy</string>
-  <string name="optimize_result_button_purchase_flow">Complete ranking</string>
+  <string name="optimize_result_button_purchase_flow">View all</string>
   <string name="optimize_result_button_see_detaills">Details</string>
   <string name="optimize_result_button_to_open">Turn on</string>
   <string name="optimize_result_button_to_set">Set</string>
