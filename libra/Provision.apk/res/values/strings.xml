@@ -2,10 +2,13 @@
 <resources>
   <string name="agree">Agree</string>
   <string name="agree_terms">"I've read and agree to the Terms of Service and Privacy Policy."</string>
+  <string name="app_name">Provision</string>
   <string name="back">Back</string>
   <string name="congratulation_label">"You're ready to rock!​"</string>
   <string name="congratulation_title">Setup complete</string>
   <string name="content_description_complete">Complete</string>
+  <string name="content_description_language_picker">Language Picker</string>
+  <string name="content_description_miui_version">MIUI8</string>
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -22,7 +25,6 @@
   <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
   <string name="multisim_settings_category">SIM card settings</string>
   <string name="multisim_settings_title">2 SIM cards detected</string>
-  <string name="network_access_warning">You need to connect to the internet to activate Mi services and Find device.</string>
   <string name="next">Next</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">Additional settings</string>
@@ -50,7 +52,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="terms_of_use">Terms and Conditions</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. You need to connect to the internet to activate Mi services and Find device."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. You need to connect to the internet to activate Mi services, Find device and Mi Home."</string>
   <string name="title_fingerprint">Add your fingerprint</string>
   <string name="user_agreement">Terms of Service</string>
   <string name="welcome">Welcome</string>
