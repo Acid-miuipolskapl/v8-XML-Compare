@@ -240,6 +240,7 @@
   <string name="colon">:</string>
   <string name="compose">Compose</string>
   <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
+  <string name="compose_paste_address_oob">You paste the character is too long, has been truncated</string>
   <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>

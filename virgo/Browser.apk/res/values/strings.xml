@@ -410,6 +410,16 @@ Pages you view won't appear in history."</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_not_available">"Couldn't download"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
+  <string name="document_download_background_btn">Background download</string>
+  <string name="document_download_cancel_btn">Cancel</string>
+  <string name="document_download_failed">Download failed</string>
+  <string name="document_download_official">Official download</string>
+  <string name="document_download_open_direct">Open direct</string>
+  <string name="document_download_title">Downloading</string>
+  <string name="document_open_file">Open %s</string>
+  <string name="document_open_message">To improve your reading experience and ensure security, recommend to use WPS official customized version</string>
+  <string name="document_open_other">Other apps</string>
+  <string name="document_open_title">Open With</string>
   <string name="dont_remind_again">Remember this choice</string>
   <string name="download_btn_select_all">Select all</string>
   <string name="download_btn_select_none">Deselect all</string>
@@ -423,12 +433,14 @@ Pages you view won't appear in history."</string>
   <string name="download_dialog_file_length_nolength_txt">Just a sec…</string>
   <string name="download_failed">"Couldn't complete download"</string>
   <string name="download_filter_all">All</string>
+  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Apps</string>
   <string name="download_filter_audio">Music</string>
   <string name="download_filter_image">Photos</string>
   <string name="download_filter_others">Other</string>
   <string name="download_filter_text">Files</string>
   <string name="download_filter_video">Videos</string>
+  <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">Dowloading…</string>
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_memory_info_avai">" available %s|"</string>
@@ -464,8 +476,8 @@ Pages you view won't appear in history."</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Syncing with your Mi Account has been turned off due to too many sign-in attempts.</string>
   <string name="exit_browser_warning">Exit Browser now?</string>
-  <string name="file_dir">Directory</string>
-  <string name="file_name">Name</string>
+  <string name="file_dir">Modify Directory</string>
+  <string name="file_name">"Name : "</string>
   <string name="file_picker">Select path</string>
   <string name="filename_empty_alert_message">Enter file name</string>
   <string name="filename_illegal_alert_message">An invalid character was removed from the file name</string>
@@ -630,6 +642,7 @@ Leave this page?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi network available</string>
   <string name="new_folder_name_lable">Group name</string>
   <string name="next_button_label">Next</string>
+  <string name="no_app_open_document">No app was found to handle this action</string>
   <string name="no_matches">No matches</string>
   <string name="no_space_alert_cancel">Later</string>
   <string name="no_space_alert_clean">Free up space</string>
@@ -823,6 +836,7 @@ Leave this page?"</string>
   <string name="same_folder_name_warning">A group with the same name already exists</string>
   <string name="save_button_text">Save</string>
   <string name="save_dialog_title">Save</string>
+  <string name="save_file">Save %s file</string>
   <string name="save_file_already_exist_alert_message">A file with the same name already exists, do you want to overwrite it?</string>
   <string name="save_file_already_exist_alert_title">Overwrite file?</string>
   <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
@@ -1006,6 +1020,7 @@ Leave this page?"</string>
   <string name="video_subtitle_prefix_message">"Watched: "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
   <string name="view_certificate">View certificate</string>
+  <string name="view_document_downloaded_files">View downloaded files in Manager downloads</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">Processing…</string>
