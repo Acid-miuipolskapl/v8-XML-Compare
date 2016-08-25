@@ -179,7 +179,6 @@
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
   <string name="resource_detail_recommend_desiner_other_themes">Themes designed by %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
   <string name="resource_detail_recommend_other_themes">Users also liked</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_vertical_divider">|</string>
