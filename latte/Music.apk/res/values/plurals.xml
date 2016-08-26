@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d songs found</item>
+        <item quantity="one">%d song found</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d days remaining</item>
+        <item quantity="one">%d day remaining</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d songs will be downloaded</item>
+        <item quantity="one">1 song will be downloaded</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d new</item>
+        <item quantity="one">1 new</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d similar songs</item>
+        <item quantity="one">%d similar song</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d songs added to playlist</item>
+        <item quantity="one">Song added to playlist</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d songs removed from playlist</item>
+        <item quantity="one">Song removed from playlist</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d songs will be sent</item>
+        <item quantity="one">1 song will be sent</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d songs added</item>
+        <item quantity="one">%d song added</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Test server</item>
+        <item>Online server</item>
+    </string-array>
+    <string-array name="server_list_entries_value">
+        <item>mv.mitvos.com</item>
+        <item>mvideo.duokanbox.com</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>稳定版本</item>
+        <item>荣誉内测</item>
+    </string-array>
+    <string-array name="version_list_entries_value">
+        <item>90</item>
+        <item>00</item>
+    </string-array>
+</resources>
