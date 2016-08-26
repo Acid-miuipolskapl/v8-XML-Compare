@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_all_day">All day event</string>
   <string name="accessibility_pick_start_date">Start date</string>
@@ -29,7 +30,6 @@
   <string name="ad_card_installing">安装中</string>
   <string name="ad_card_network_error">无网络连接，请稍后重试！</string>
   <string name="ad_card_spread">推广</string>
-  <string name="add_account">Add account</string>
   <string name="add_calendar">订阅</string>
   <string name="add_card">添加卡片</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
@@ -147,6 +147,7 @@
   <string name="drop_down_list_header_loading_text">加载中…</string>
   <string name="drop_down_list_header_pull_text">下拉可以刷新</string>
   <string name="drop_down_list_header_release_text">松开可以刷新</string>
+  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -267,18 +268,19 @@
   <string name="monthly_on_day">Monthly (same date)</string>
   <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
   <string name="more_match">更多赛事</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">简介</string>
   <string name="my_subscribe_events">我的订阅</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
-  <string name="no_calendars_found">Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.</string>
   <string name="no_local_calendar">没有订阅日历 :)</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">Try again</string>
-  <string name="no_syncable_calendars">No calendars</string>
   <string name="no_title_label">(No title)</string>
+  <string name="no_visiable_calendar_message">You need select a calendar account, please click Select Account to next step.</string>
+  <string name="no_visiable_calendar_select_account">Select Account</string>
+  <string name="no_visiable_calendar_title">Select Calendar Account</string>
   <string name="not_synced">not synced</string>
   <string name="olympic_rank">排名</string>
   <string name="olympic_total">总数</string>
@@ -316,6 +318,7 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Home time zone</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
+  <string name="preferences_import_travel">机票火车票</string>
   <string name="preferences_notification_ringtone_title">Sound</string>
   <string name="preferences_reminder_title">Notification &amp; reminders</string>
   <string name="preferences_show_week_num_title">Show week number</string>
@@ -417,6 +420,7 @@
   <string name="taishen">胎神</string>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Event %1$s of %2$s.</string>
+  <string name="template_week_num">Week %1$s</string>
   <string name="text_year">年</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
   <string name="ticket_card_description">今日可预定</string>

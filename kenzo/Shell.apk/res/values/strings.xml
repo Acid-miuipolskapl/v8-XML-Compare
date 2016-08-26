@@ -5,4 +5,5 @@
   <string name="bugreport_confirm_repeat">Show this message next time</string>
   <string name="bugreport_finished_text">Touch to share your bug report</string>
   <string name="bugreport_finished_title">Bug report captured</string>
+  <string name="bugreport_storage_title">Bug reports</string>
 </resources>

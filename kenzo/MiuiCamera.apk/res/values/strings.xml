@@ -139,7 +139,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_beautify_entry_7">7</string>
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
-  <string name="pref_camera_beautify_entry_auto">Auto</string>
+  <string name="pref_camera_beautify_entry_auto">Off</string>
   <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">High</string>
   <string name="pref_camera_beautify_entry_low">Low</string>
@@ -369,7 +369,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_snap_value_take_picture">Picture</string>
   <string name="pref_camera_sound_title">Camera sounds</string>
   <string name="pref_camera_square_mode_title">Square</string>
-  <string name="pref_camera_stereo_default">7</string>
+  <string name="pref_camera_stereo_default">5</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
   <string name="pref_camera_tilt_shift_default">circle</string>
   <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
