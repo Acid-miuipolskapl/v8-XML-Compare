@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">CMAS</string>
+  <string name="cmas">CMAS</string>
+  <string name="cmas_exercise_summary">Display the exercise alerts</string>
+  <string name="cmas_exercise_title">Show Exercise Alerts</string>
+  <string name="cmas_rmt_summary">Display RMT alert</string>
+  <string name="cmas_rmt_title">Show RMT Alerts</string>
+</resources>
