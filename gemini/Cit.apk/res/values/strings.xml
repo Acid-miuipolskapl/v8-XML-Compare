@@ -227,6 +227,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
+  <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
+  <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
   <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
   <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
