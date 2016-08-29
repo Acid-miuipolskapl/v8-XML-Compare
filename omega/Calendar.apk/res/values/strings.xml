@@ -278,9 +278,9 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">Try again</string>
   <string name="no_title_label">(No title)</string>
-  <string name="no_visiable_calendar_message">You need select a calendar account, please click Select Account to next step.</string>
-  <string name="no_visiable_calendar_select_account">Select Account</string>
-  <string name="no_visiable_calendar_title">Select Calendar Account</string>
+  <string name="no_visiable_calendar_message">You need to select a calendar account. Tap Select Account to continue.</string>
+  <string name="no_visiable_calendar_select_account">Select account</string>
+  <string name="no_visiable_calendar_title">Select a calendar account</string>
   <string name="not_synced">not synced</string>
   <string name="olympic_rank">排名</string>
   <string name="olympic_total">总数</string>

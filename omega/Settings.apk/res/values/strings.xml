@@ -318,6 +318,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
+  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="auto_upload_debug_log_title">Send Diagnostic Data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="available_via_passpoint">Available via %1$s</string>
@@ -1022,7 +1024,6 @@ This setting affects all users on this phone."</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Show layout bounds</string>
   <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
-  <string name="debug_log">User Experience Program</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
@@ -2572,6 +2573,7 @@ Select your operating system:"</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
+  <string name="preferred_app_settings_not_selected">Not selected</string>
   <string name="preferred_app_settings_reset">Reset to defaults</string>
   <string name="preferred_app_settings_reset_button">Reset</string>
   <string name="preferred_app_settings_reset_message">Default app preferences will be reset to factory presets.</string>
@@ -3676,6 +3678,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
+  <string name="tether_and_hotspot_title">Tethering and hotspot</string>
   <string name="tether_devices_management_title">Manage devices</string>
   <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
@@ -3839,8 +3842,6 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
-  <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
-  <string name="upload_debug_log_title">User Experience Program</string>
   <string name="usage_access">Usage access</string>
   <string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
   <string name="usage_access_title">Apps with usage access</string>
@@ -3969,6 +3970,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_exit_guest_confirm_title">Remove guest?</string>
   <string name="user_exit_guest_dialog_remove">Remove</string>
   <string name="user_exit_guest_title">Remove guest</string>
+  <string name="user_experience_program">User Experience Program</string>
+  <string name="user_experience_program_summary">Help improve MIUI by sending anonymous usage data</string>
+  <string name="user_experience_program_title">User Experience Program</string>
   <string name="user_guest">Guest</string>
   <string name="user_image_choose_photo">Choose photo from Gallery</string>
   <string name="user_image_photo_selector">Select photo</string>
