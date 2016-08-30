@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">UPTsmAddon</string>
+  <string name="error_crash">抱歉，程序出现异常，即将退出</string>
+  <string name="error_download_file">文件下载失败</string>
+  <string name="error_network">网络不给力</string>
+  <string name="error_storage_not_enough">存储空间不足，请预留足够空间后重试</string>
+  <string name="error_unrecognized">未知错误</string>
+  <string name="servicedesc">TSM Service</string>
+  <string name="subscription">AID Group</string>
+  <string name="unit_rmb">元</string>
+</resources>
