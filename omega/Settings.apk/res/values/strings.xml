@@ -1466,6 +1466,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
+  <string name="has_screenshot_sound">Screenshot sound</string>
   <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
   <string name="hdcp_checking_title">HDCP checking</string>
   <string name="hdmi_3d_display_enable_summary">Support 3D games</string>
@@ -2933,7 +2934,8 @@ To use screen pinning:
   <string name="screensaver_settings_title">Daydream</string>
   <string name="screensaver_settings_when_to_dream">When to daydream</string>
   <string name="screenshot">Screenshot</string>
-  <string name="screenshot_three_gesture">Slide three fingers simultaneously will triger screenshot</string>
+  <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
+  <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
   <string name="sd_card_settings_label">USB storage</string>
   <string name="sd_card_storage">USB storage</string>
   <string name="sd_eject">Unmount shared storage</string>
