@@ -28,6 +28,8 @@
 
 .field public static final IS_B7:Z
 
+.field public static final IS_C3A:Z
+
 .field public static final IS_C5:Z
 
 .field public static final IS_C6:Z
@@ -487,6 +489,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_C6:Z
 
+    const-string v0, "rolex"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_C3A:Z
+
     const-string v0, "is_hongmi"
 
     invoke-static {v0, v2}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
@@ -883,6 +895,29 @@
     move-result v0
 
     return v0
+.end method
+
+.method public static isNeedForceRecycleEffectPopup()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_H2X_LC:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isNewHdrParamKeyUsed()Z
@@ -1349,34 +1384,6 @@
     move-result v0
 
     return v0
-.end method
-
-.method public static isSupportedFingerCapture()Z
-    .locals 1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
-
-    if-eqz v0, :cond_0
-
-    sget-boolean v0, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
-
-    if-nez v0, :cond_1
-
-    :cond_0
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
-
-    if-eqz v0, :cond_2
-
-    :cond_1
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_2
-    const/4 v0, 0x0
-
-    goto :goto_0
 .end method
 
 .method public static isSupportedGPS()Z
@@ -1853,6 +1860,50 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3B:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_C3A:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_H2XLTE:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3LTE:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3X:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM2A:Z
 
     if-nez v0, :cond_0
 
