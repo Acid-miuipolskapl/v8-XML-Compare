@@ -382,9 +382,9 @@
 is about to happen"</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
-  <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
-  <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
-  <string name="data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
+  <string name="data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+  <string name="data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+  <string name="data_traffic_prompt_message_short">"Using mobile data to stream video may cause you to go over your plan's data usage limit."</string>
   <string name="data_traffic_prompt_title">Data usage warning</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
@@ -525,6 +525,7 @@ Pages you view won't appear in history."</string>
   <string name="is_last_tab">This is the last tab</string>
   <string name="is_page_bottom">"You've reached the bottom of the page"</string>
   <string name="is_page_top">"You're at the top of the page"</string>
+  <string name="isreplace">File already exists, replace?</string>
   <string name="js_dialog_before_unload">"%s
 
 Leave this page?"</string>
@@ -553,9 +554,9 @@ Leave this page?"</string>
   <string name="media_error_timeout">Network connection timed out</string>
   <string name="media_error_video_not_exist">"Video doesn't exist"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
-  <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
-  <string name="media_player_error_title">Cannot play video</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"This video can't be streamed on this device."</string>
+  <string name="media_player_error_text_unknown">"This video can't be played."</string>
+  <string name="media_player_error_title">"Can't play video"</string>
   <string name="media_player_loading_video">Loading video</string>
   <string name="menu_addtodesk">Add to Home screen</string>
   <string name="menu_exit_nightmode">Exit</string>
@@ -649,6 +650,7 @@ Leave this page?"</string>
   <string name="no_space_alert_text">Not enough storage space</string>
   <string name="no_space_alert_title">Download paused</string>
   <string name="no_space_clean_failed">Could not free up space on your device​</string>
+  <string name="not_allowed_open">"Couldn't use Browser in boot-strap"</string>
   <string name="not_remind_again">Remember my choice</string>
   <string name="notif_install_successful">Download complete</string>
   <string name="ok">OK</string>
@@ -822,6 +824,7 @@ Leave this page?"</string>
   <string name="remove_history_item">Remove from history</string>
   <string name="remove_snapshot">Delete saved page</string>
   <string name="removed_from_bookmarks">Removed from bookmarks</string>
+  <string name="replace">Replace</string>
   <string name="reply_comment_title">Re: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">"Can't connect to the network"</string>
@@ -990,6 +993,7 @@ Leave this page?"</string>
   <string name="video_download_exists">Download already exists.</string>
   <string name="video_download_fail">Failed</string>
   <string name="video_download_failed">"Couldn't download"</string>
+  <string name="video_download_finding_address">Finding for address</string>
   <string name="video_download_pause">Paused</string>
   <string name="video_download_start">Downloading…</string>
   <string name="video_download_success">Complete</string>
@@ -1010,6 +1014,7 @@ Leave this page?"</string>
   <string name="video_group_noupdates_list">No updates available</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">No history</string>
+  <string name="video_manager_action_bar_end_view">Videos</string>
   <string name="video_play_error">"Couldn't play video"</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
@@ -1017,8 +1022,11 @@ Leave this page?"</string>
   <string name="video_push_multi_message">%1$d updates available.</string>
   <string name="video_push_multi_title">Update available</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
-  <string name="video_subtitle_prefix_message">"Watched: "</string>
+  <string name="video_subtitle_last_message1">Remain less than one minute</string>
+  <string name="video_subtitle_prefix1">Watched</string>
+  <string name="video_subtitle_prefix2">"Watched "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
+  <string name="video_unknown_duration">Unknown Duration</string>
   <string name="view_certificate">View certificate</string>
   <string name="view_document_downloaded_files">View downloaded files in Manager downloads</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
