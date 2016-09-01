@@ -38,6 +38,7 @@
         <item>com.bsb.hike</item>
         <item>com.fihtdc.fqc</item>
         <item>com.android.soundrecorder</item>
+        <item>com.miui.home</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />

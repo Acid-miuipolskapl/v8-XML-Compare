@@ -22,7 +22,6 @@
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
-  <string name="account_none_binded_secure_phone">No phone number</string>
   <string name="account_none_user_name">None</string>
   <string name="account_security_question">Security question</string>
   <string name="account_settings">Account</string>
@@ -364,9 +363,7 @@ Make sure you remember the answers to these questions."</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">Turning off Find device…</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
-  <string name="unbind_weibo_description">"After you disconnect this account, you won't be able to sync your contacts from Weibo or use your Sina Weibo Account to sign in."</string>
   <string name="update_contacts">Update address book</string>
-  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to sync contacts across platforms</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
   <string name="update_email_address_dialog_title">Update Email</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
