@@ -12,7 +12,7 @@
   <string name="clear">C</string>
   <string name="clearDesc">clear</string>
   <string name="clear_history">Clear history</string>
-  <string name="combine_loan">Combin loan</string>
+  <string name="combine_loan">Combined loan</string>
   <string name="commercial_loan">Commercial loan</string>
   <string name="convert_currency">Currency converter</string>
   <string name="convertion_unit">Unit converter</string>
@@ -29,7 +29,7 @@
   <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
-  <string name="dateformat">MM,dd,yyyy</string>
+  <string name="dateformat">MM/dd/yyyy</string>
   <string name="day">day</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
