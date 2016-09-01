@@ -244,6 +244,7 @@
   <string name="toast_title_required">Describe your issue</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Try again</string>
+  <string name="upload_log_failed">"Couldn't send logs"</string>
   <string name="warning_field_empty">Enter %1$s</string>
   <string name="warning_field_invalid">Select a valid %1$s</string>
 </resources>
