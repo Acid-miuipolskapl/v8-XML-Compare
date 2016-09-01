@@ -234,6 +234,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
+  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="auto_upload_debug_log_title">Send Diagnostic Data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="awake">Device awake time</string>
@@ -811,7 +813,6 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Show layout bounds</string>
   <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
-  <string name="debug_log">User Experience Program</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Choose default keyboard</string>
@@ -1142,6 +1143,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
+  <string name="has_screenshot_sound">Screenshot sound</string>
   <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
   <string name="hdcp_checking_title">HDCP checking</string>
   <string name="hdmi_3d_display_enable_summary">Support 3D games</string>
@@ -2028,6 +2030,7 @@ Select your operating system:"</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
+  <string name="preferred_app_settings_not_selected">Not selected</string>
   <string name="preferred_app_settings_reset">Reset to defaults</string>
   <string name="preferred_app_settings_reset_button">Reset</string>
   <string name="preferred_app_settings_reset_message">Default app preferences will be reset to factory presets.</string>
@@ -2328,7 +2331,8 @@ This setting affects all users on this phone."</string>
   <string name="screensaver_settings_title">Daydream</string>
   <string name="screensaver_settings_when_to_dream">When to daydream</string>
   <string name="screenshot">Screenshot</string>
-  <string name="screenshot_three_gesture">Slide three fingers simultaneously will triger screenshot</string>
+  <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
+  <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
   <string name="sd_card_settings_label">SD card</string>
   <string name="sd_card_storage">SD card storage</string>
   <string name="sd_eject">Unmount SD card</string>
@@ -2826,6 +2830,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
+  <string name="tether_and_hotspot_title">Tethering and hotspot</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
@@ -2964,8 +2969,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unmount_inform_text">SD card will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
-  <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
-  <string name="upload_debug_log_title">User Experience Program</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Usage statistics</string>
@@ -3056,6 +3059,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_dict_settings_more_languages">More languages…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Personal dictionary</string>
+  <string name="user_experience_program">User Experience Program</string>
+  <string name="user_experience_program_summary">Help improve MIUI by sending anonymous usage data</string>
+  <string name="user_experience_program_title">User Experience Program</string>
   <string name="user_image_choose_photo">Choose photo from Gallery</string>
   <string name="user_image_take_photo">Take photo</string>
   <string name="user_info_settings_title">User info</string>
