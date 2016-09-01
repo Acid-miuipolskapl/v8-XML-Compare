@@ -351,6 +351,7 @@
   <string name="no">Cancel</string>
   <string name="no_block_button_msg">Unblock</string>
   <string name="no_conversations">No conversations</string>
+  <string name="no_delivery_report">No delivery report</string>
   <string name="no_subject">(No subject)</string>
   <string name="no_subject_view">(No subject)</string>
   <string name="non_english_subject_limit">13 character limit</string>
@@ -390,6 +391,7 @@
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
   <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+  <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
@@ -508,7 +510,7 @@
   <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>
-  <string name="select_copy_text">select and copy message text</string>
+  <string name="select_copy_text">Select and copy message text</string>
   <string name="select_different_media">Choose a different %1$s.</string>
   <string name="select_link_title">Choose action</string>
   <string name="select_local_audio">Select audio</string>
@@ -537,6 +539,7 @@
   <string name="set">Set</string>
   <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
+  <string name="show_delivery_status">Show delivery status</string>
   <string name="show_sender">Show sender info</string>
   <string name="sim_card1">SIM card 1</string>
   <string name="sim_card2">SIM card 2</string>
