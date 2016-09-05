@@ -277,7 +277,7 @@
   <string name="cell_bc_sms_enable">Cell Broadcast SMS enabled</string>
   <string name="cell_broadcast_settings">Emergency broadcasts</string>
   <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
-  <string name="cf_mobile_date">Turn on mobile data and make sure WLAN is off</string>
+  <string name="cf_mobile_date">Turn on mobile data and make sure Wi-Fi is off</string>
   <string name="cfb_title">Forward when busy</string>
   <string name="cfnrc_title">Forward when unreachable</string>
   <string name="cfnrc_title_cta">Forward when unreachable</string>
@@ -824,7 +824,7 @@ Using preferred network instead."</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="no_voip">SIP calling not supported</string>
-  <string name="no_wifi_available">You need to be connected to a WLAN network for SIP calls (use the Wireless &amp; Network settings).</string>
+  <string name="no_wifi_available">You need to be connected to a Wi-Fi network for SIP calls (use the Wireless &amp; Network settings).</string>
   <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
   <string name="not_activate_sim_card_content">"Top-up package hasn't been verified for the SIM card you selected. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="not_activate_sim_card_content_title">"Phone number hasn't been verified"</string>
@@ -894,7 +894,7 @@ This can take up to 5 minutes."</string>
   <string name="ota_listen">Follow the spoken instructions until you hear that activation is complete.</string>
   <string name="ota_next">Next</string>
   <string name="ota_progress">Programming your phone…</string>
-  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
+  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
   <string name="ota_skip_activation_dialog_skip_label">Skip</string>
   <string name="ota_skip_activation_dialog_title">Skip activation?</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
@@ -1103,7 +1103,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="registration_status_failed_try_later">Account registration unsuccessful: (%s); will try later</string>
   <string name="registration_status_invalid_credentials">Account registration unsuccessful: Incorrect username or password.</string>
   <string name="registration_status_no_data">Account registration stopped because there is no Internet connection.</string>
-  <string name="registration_status_no_wifi_data">Account registration stopped because there is no WLAN connection.</string>
+  <string name="registration_status_no_wifi_data">Account registration stopped because there is no Wi-Fi connection.</string>
   <string name="registration_status_not_receiving">Not receiving calls.</string>
   <string name="registration_status_not_running">Account registration unsuccessful.</string>
   <string name="registration_status_registering">Registering…</string>
@@ -1260,7 +1260,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_call_options_entry_3">Ask for each call</string>
   <string name="sip_call_options_title">Use SIP calling</string>
   <string name="sip_call_options_wifi_only_entry_1">For all calls</string>
-  <string name="sip_call_options_wifi_only_title">Use SIP calling (WLAN only)</string>
+  <string name="sip_call_options_wifi_only_title">Use SIP calling (Wi-Fi only)</string>
   <string name="sip_connection_service_label">Built-in SIP calling</string>
   <string name="sip_edit_new_title">SIP account details</string>
   <string name="sip_edit_title">SIP account details</string>
@@ -1273,8 +1273,8 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="sports_news_settings">Sports News</string>
-  <string name="status_hint_label_incoming_wifi_call">Incoming WLAN call</string>
-  <string name="status_hint_label_wifi_call">WLAN call</string>
+  <string name="status_hint_label_incoming_wifi_call">Incoming Wi-Fi call</string>
+  <string name="status_hint_label_wifi_call">Wi-Fi call</string>
   <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
   <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
   <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
@@ -1439,7 +1439,7 @@ Contact your carrier if this problem persists."</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
   <string name="whole_calls">All calls</string>
-  <string name="wifi_calling">WLAN calling</string>
+  <string name="wifi_calling">Wi-Fi calling</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wild_prompt_str">Replace wild character with</string>
   <string name="wrong_password">The password you entered is incorrect</string>

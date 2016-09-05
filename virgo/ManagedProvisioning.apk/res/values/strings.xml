@@ -29,7 +29,7 @@
   <string name="device_owner_error_package_name_invalid">"Can't install the admin app. The package name is invalid. Contact your IT department."</string>
   <string name="device_owner_error_package_not_installed">"The admin app isn't installed on your device"</string>
   <string name="device_owner_error_reset">RESET</string>
-  <string name="device_owner_error_wifi">"Couldn't connect to WLAN"</string>
+  <string name="device_owner_error_wifi">"Couldn't connect to Wi-Fi"</string>
   <string name="device_owner_exists">Work profiles can not be setup on a managed device</string>
   <string name="encrypt_device_cancel">CANCEL</string>
   <string name="encrypt_device_launch_settings">ENCRYPT</string>
@@ -52,7 +52,7 @@
   <string name="profile_owner_cancel_message">Stop setting up?</string>
   <string name="profile_owner_cancel_ok">YES</string>
   <string name="profile_owner_cancelling">Canceling…</string>
-  <string name="progress_connect_to_wifi">Connecting to WLAN…</string>
+  <string name="progress_connect_to_wifi">Connecting to Wi-Fi…</string>
   <string name="progress_data_process">Processing setup data…</string>
   <string name="progress_download">Downloading the admin app…</string>
   <string name="progress_install">Installing the admin app…</string>
