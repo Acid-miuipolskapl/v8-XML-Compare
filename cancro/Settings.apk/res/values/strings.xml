@@ -318,14 +318,14 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
-  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
-  <string name="auto_upload_debug_log_title">Send Diagnostic Data automatically</string>
+  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="auto_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="available_via_passpoint">Available via %1$s</string>
   <string name="average_memory_use">Average memory use</string>
   <string name="average_used">Average used (%)</string>
-  <string name="avoid_ui">Avoid UI</string>
+  <string name="avoid_ui">Touch block</string>
   <string name="awake">Device awake time</string>
   <string name="back_key">Back</string>
   <string name="background_data">Background data</string>
@@ -1395,8 +1395,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demo show</string>
-  <string name="force_touch_enable">Enable 3D Touch</string>
-  <string name="force_touch_enable_tips">"Deep press App icon on launcher will show App's shortcut menu, while 3D Touch enabled."</string>
+  <string name="force_touch_enable">Turn on 3D Touch</string>
+  <string name="force_touch_enable_tips">Press app icons in the launcher with an effort to view shortcut menus when 3D Touch is on.</string>
   <string name="forget">Forget</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
@@ -1447,7 +1447,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gadget_sync">Sync</string>
   <string name="gadget_title">Power control</string>
   <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
-  <string name="gadget_toggle_wifi">Updating WLAN setting</string>
+  <string name="gadget_toggle_wifi">Updating WLAN settings</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Game Controller</string>
   <string name="gesture_wakeup_title">Double tap screen to wake</string>
@@ -1466,6 +1466,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
+  <string name="hardware_version">Hardware version</string>
   <string name="has_screenshot_sound">Screenshot sound</string>
   <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
   <string name="hdcp_checking_title">HDCP checking</string>
@@ -2126,7 +2127,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby digital plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -3007,7 +3008,7 @@ To use screen pinning:
   <string name="search_development_settings">Developer options</string>
   <string name="search_device_name">Device name</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial</string>
+  <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial;Color temperature;Color;Colors;Saturation;Auto-rotate;Auto rotate;Auto rotate;Rotate screen;Brightness;Font;Fonts;Font size</string>
   <string name="search_dndm_alarm_content">Exceptions</string>
   <string name="search_dndm_auto_button_title">Set time</string>
   <string name="search_dndm_auto_time_setting">Set time;DND</string>
@@ -3358,15 +3359,15 @@ Possibly incorrect PIN."</string>
   <string name="sim_slot_empty">SIM empty</string>
   <string name="sim_status_title">SIM status</string>
   <string name="simulate_color_space">Simulate color space</string>
-  <string name="single_key_use">Single key use</string>
-  <string name="single_key_use_summary">Home-key instead of the other two buttons for normal operation</string>
+  <string name="single_key_use">Single button</string>
+  <string name="single_key_use_summary">Use Home button for functions performed by the other 2 buttons</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
-  <string name="smallwindow_smartcover_title">Transparent front cover</string>
+  <string name="smallwindow_smartcover_title">Transparent window</string>
   <string name="smartcover_sensitive_title">Smartcover mode</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
@@ -3681,7 +3682,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
-  <string name="tether_and_hotspot_title">Tethering and hotspot</string>
+  <string name="tether_and_hotspot_title">Tethering &amp; portable hotspot</string>
   <string name="tether_devices_management_title">Manage devices</string>
   <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
@@ -3959,7 +3960,7 @@ Any user can update apps for all other users."</string>
   <string name="user_dict_settings_context_menu_edit_title">Edit</string>
   <string name="user_dict_settings_edit_dialog_title">Edit word</string>
   <string name="user_dict_settings_empty_text">"You don't have any dictionaries
-Add a word by touching the Add (+) button"</string>
+Tap the plus to add words."</string>
   <string name="user_dict_settings_more_languages">More languages…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Personal dictionary</string>

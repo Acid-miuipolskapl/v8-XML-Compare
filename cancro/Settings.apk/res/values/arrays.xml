@@ -1152,11 +1152,11 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
-        <item>Show recent apps tray</item>
+        <item>Show recent apps</item>
         <item>Launch Assistant</item>
-        <item>Launch Google now</item>
+        <item>Launch Google Now</item>
         <item>Close current app</item>
-        <item>Launch Quick Search</item>
+        <item>Launch quick search</item>
         <item>Show menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
@@ -1740,10 +1740,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Second space</item>
     </string-array>
     <string-array name="anr_record_interval_entries">
-        <item>10s</item>
-        <item>20s</item>
-        <item>30s</item>
-        <item>1min</item>
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
     </string-array>
     <string-array name="anr_record_interval_values">
         <item>10</item>
