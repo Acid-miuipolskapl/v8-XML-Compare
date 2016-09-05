@@ -1582,6 +1582,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
   <string name="install_unknown_applications_title">Lets you install apps from sources other than Google Play</string>
   <string name="install_whole_rom">Download ROM</string>
+  <string name="instruction_title">Instructions</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
