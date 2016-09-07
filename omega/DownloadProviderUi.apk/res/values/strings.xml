@@ -36,6 +36,7 @@
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
   <string name="cancle">Cancel</string>
+  <string name="choose_open_picture">选择操作</string>
   <string name="choose_open_time">"Choose when you'd like to begin"</string>
   <string name="clear_data">Clear</string>
   <string name="complete_time">Completed:</string>

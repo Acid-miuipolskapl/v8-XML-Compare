@@ -75,7 +75,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
-  <string name="settings_description">Names of installed applications</string>
+  <string name="settings_description">Names of installed apps</string>
   <string name="show_more">Show more</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="system_search_category_title">Phone</string>

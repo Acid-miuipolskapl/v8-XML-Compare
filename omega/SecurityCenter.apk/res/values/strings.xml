@@ -501,7 +501,7 @@ or enter App lock password"</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
+  <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
