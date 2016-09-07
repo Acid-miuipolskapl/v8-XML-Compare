@@ -894,6 +894,8 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_input_method">Current Keyboard</string>
   <string name="current_screen_lock">Current screen lock</string>
   <string name="current_use_ese">Using embedded secure element</string>
+  <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and use your phone as a transport card."</string>
+  <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
@@ -2172,6 +2174,7 @@ Select your operating system:"</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Secure element position</string>
+  <string name="nfc_se_wallet_title">Default Wallet</string>
   <string name="night_mode_auto">Automatic</string>
   <string name="night_mode_no">Light</string>
   <string name="night_mode_summary">%s</string>
@@ -2967,6 +2970,8 @@ To use screen pinning:
   <string name="sdcard_unmount">Unmount USB storage</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
+  <string name="se_wallet_ese">Mi Wallet allows you to use Mi Pay and use your phone as a transport card.</string>
+  <string name="se_wallet_hce">Use HCE Wallet</string>
   <string name="search_about">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
