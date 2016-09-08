@@ -63,6 +63,7 @@
   <string name="phone_locked_string">Pad has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
   <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>
+  <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">Unlock SIM</string>
   <string name="unlock_string">Unlock</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>

@@ -395,6 +395,14 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="provision_arrow_next">&gt;</string>
   <string name="remind_later">Not now</string>
   <string name="restoreSync">Sync now</string>
+  <string name="search_cloudbackup_pref">Cloud Backup</string>
+  <string name="search_cloudbackup_pref_desc">Turn on/off Cloud Backup</string>
+  <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud backup</string>
+  <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP AND RESTORE</string>
+  <string name="search_finddevice_pref">Find Device</string>
+  <string name="search_finddevice_pref_desc">Turn on/off Find Device</string>
+  <string name="search_finddevice_pref_key_words">finddevice, find device</string>
+  <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/FIND DEVICE</string>
   <string name="setting">Settings</string>
   <string name="settings_backup_title">Back up system settings</string>
   <string name="share_cancel">Share canceled</string>

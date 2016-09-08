@@ -49,4 +49,12 @@
         <item>@drawable/digit9</item>
         <item>@drawable/point</item>
     </array>
+    <string-array name="array_upload_avatar">
+        <item>@string/upload_avatar_local</item>
+        <item>@string/upload_avatar_camera</item>
+    </string-array>
+    <string-array name="array_user_sex">
+        <item>@string/male</item>
+        <item>@string/female</item>
+    </string-array>
 </resources>
