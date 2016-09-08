@@ -60,6 +60,7 @@
   <string name="feedback_empty_report_list">No reports yet</string>
   <string name="feedback_history_remind_login_desc">"Sign in with your Mi Account to view details and your report's progress"</string>
   <string name="feedback_id">ID: %d</string>
+  <string name="feedback_jira_key">JIRA Key: %s</string>
   <string name="feedback_package_log_failed">"Couldn't compress logs"</string>
   <string name="feedback_phone_model_label">Phone model</string>
   <string name="feedback_probability_label">Probability</string>
