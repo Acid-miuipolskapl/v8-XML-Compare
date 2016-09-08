@@ -4,6 +4,7 @@
   <string name="aaid_info">"
 Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
+  <string name="abort_restore_confirm">"Restore hasn't finished. Stop anyway?"</string>
   <string name="about_settings">About tablet</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
@@ -292,8 +293,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
-  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
-  <string name="auto_upload_debug_log_title">Send Diagnostic Data automatically</string>
+  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="auto_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="awake">Device awake time</string>
@@ -1469,6 +1470,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
+  <string name="hardware_version">Hardware version</string>
   <string name="has_screenshot_sound">Screenshot sound</string>
   <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
   <string name="hdcp_checking_title">HDCP checking</string>
@@ -1857,6 +1859,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="long_press_volume_down">Long press volume down</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -2088,7 +2091,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby digital plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -2963,7 +2966,7 @@ To use screen pinning:
   <string name="search_development_settings">Developer options</string>
   <string name="search_device_name">Device name</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial</string>
+  <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial;Color temperature;Color;Colors;Saturation;Auto-rotate;Auto rotate;Auto rotate;Rotate screen;Brightness;Font;Fonts;Font size</string>
   <string name="search_dndm_alarm_content">Exceptions</string>
   <string name="search_dndm_auto_button_title">Set time</string>
   <string name="search_dndm_auto_time_setting">Set time;DND</string>

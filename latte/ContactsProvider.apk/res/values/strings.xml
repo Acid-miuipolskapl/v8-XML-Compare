@@ -19,9 +19,9 @@
   <string name="read_write_all_voicemail_label">Access all voicemails</string>
   <string name="sharedUserLabel">Android Core Apps</string>
   <string name="unknown">Unknown number</string>
-  <string name="upgrade_msg">Upgrading contacts database.</string>
-  <string name="upgrade_out_of_memory_notification_text">Touch to complete the upgrade.</string>
-  <string name="upgrade_out_of_memory_notification_ticker">Contacts upgrade needs more memory.</string>
-  <string name="upgrade_out_of_memory_notification_title">Upgrading storage for contacts</string>
+  <string name="upgrade_msg">Updating contacts database.</string>
+  <string name="upgrade_out_of_memory_notification_text">Tap to complete the update.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Update requires more memory.</string>
+  <string name="upgrade_out_of_memory_notification_title">Updating storage for contacts</string>
   <string name="voicemail_from_column">"Voicemail from "</string>
 </resources>
