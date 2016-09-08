@@ -51,7 +51,7 @@
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="artist">Artists</string>
-  <string name="artist_album">Ablums</string>
+  <string name="artist_album">Albums</string>
   <string name="artist_favor">Featured</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
@@ -649,7 +649,7 @@
   <string name="settings_search_key_desktop_lyric">Home screen lyrics;Lyrics;Music;Songs</string>
   <string name="settings_search_key_download_quality">Download quality;Quality;Music;Download;Songs</string>
   <string name="settings_search_key_download_when_favorite">Download favorites;Download;Favorites;Music;Songs</string>
-  <string name="settings_search_key_main">Music;Songs</string>
+  <string name="settings_search_key_main">Music;Songs;Song</string>
   <string name="settings_search_key_notification">Music notifications;Music;Notifications;songs</string>
   <string name="settings_search_key_vip_service">Premium songs;VIP;Song pack;Premium Song Pack;Member;Subscription;Music;Songs</string>
   <string name="settings_search_path_advance">System apps/Music/Service and settings/Advanced settings</string>
