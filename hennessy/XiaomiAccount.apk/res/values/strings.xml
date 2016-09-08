@@ -229,7 +229,7 @@ To activate your account, follow the
   <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="passport_loading">Loading…</string>
   <string name="passport_login">Sign in</string>
-  <string name="passport_login_check_find_device">Checking Find device status…</string>
+  <string name="passport_login_check_find_device">Getting device security info…</string>
   <string name="passport_login_check_find_device_failed_title">"Couldn't check Find device status"</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
