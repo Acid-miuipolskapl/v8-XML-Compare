@@ -1152,11 +1152,11 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
-        <item>Show recent apps tray</item>
+        <item>Show recent apps</item>
         <item>Launch Assistant</item>
-        <item>Launch Google now</item>
+        <item>Launch Google Now</item>
         <item>Close current app</item>
-        <item>Launch Quick Search</item>
+        <item>Launch quick search</item>
         <item>Show menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
@@ -1179,6 +1179,16 @@
         <item>1000</item>
         <item>1500</item>
         <item>2000</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>None</item>
+        <item>Street-snap(need to select mode in camera)</item>
+        <item>Public Transportation Shortcuts</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action_value">
+        <item>none</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 second</item>
@@ -1740,10 +1750,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Second space</item>
     </string-array>
     <string-array name="anr_record_interval_entries">
-        <item>10s</item>
-        <item>20s</item>
-        <item>30s</item>
-        <item>1min</item>
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
     </string-array>
     <string-array name="anr_record_interval_values">
         <item>10</item>

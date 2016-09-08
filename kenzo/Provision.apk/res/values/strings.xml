@@ -7,8 +7,8 @@
   <string name="congratulation_label">"You're ready to rock!​"</string>
   <string name="congratulation_title">Setup complete</string>
   <string name="content_description_complete">Complete</string>
-  <string name="content_description_language_picker">Language Picker</string>
-  <string name="content_description_miui_version">MIUI8</string>
+  <string name="content_description_language_picker">Select language</string>
+  <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -28,8 +28,12 @@
   <string name="next">Next</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">Additional settings</string>
+  <string name="other_settings_auto_update">Update automatically</string>
+  <string name="other_settings_auto_update_summary">MIUI will select the idle time to download and install updates.</string>
   <string name="other_settings_location">Location</string>
   <string name="other_settings_location_summary">Allow apps to access your location</string>
+  <string name="other_settings_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="other_settings_upload_debug_log_title">Send Diagnostic Data automatically</string>
   <string name="other_settings_user_experience">User Experience Program</string>
   <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data (%s)</string>
   <string name="other_settings_user_experience_summary1">view Privacy Policy</string>

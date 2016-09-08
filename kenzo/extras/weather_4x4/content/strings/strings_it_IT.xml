@@ -1,7 +1,7 @@
 <resources>
-    <string name="date_format">E, dd MMMM</string>
-    <string name="today">oggi</string>
-    <string name="tomorrow">domani</string>
+    <string name="date_format">EEEE, dd MMMM</string>
+    <string name="today">Oggi</string>
+    <string name="tomorrow">Domani</string>
     <string name="aqi_pure"/>
     <string name="aqi_good"/>
     <string name="aqi_moderate"/>
