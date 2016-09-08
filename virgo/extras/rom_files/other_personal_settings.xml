@@ -13,7 +13,9 @@
     <PreferenceScreen android:title="@string/touch_assistant" android:key="touch_assistant">
         <intent android:targetPackage="com.miui.touchassistant" android:action="android.intent.action.TOUCH_ASSISTANT_SETTINGS" />
     </PreferenceScreen>
-    <Preference android:title="@string/force_touch" android:key="force_touch_settings" android:fragment="com.android.settings.display.ForceTouchFragment" />
+    <PreferenceScreen android:title="@string/force_touch" android:key="force_touch_settings">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.FORCE_TOUCH_GUIDE" />
+    </PreferenceScreen>
     <Preference android:title="@string/screenshot" android:key="screenshot_settings" android:fragment="com.android.settings.display.ScreenshotFragment" />
     <Preference android:title="@string/led_settings" android:key="led_settings" android:fragment="com.android.settings.LedSettings" />
     <Preference android:title="@string/music_headset_settings" android:key="headset_settings" android:fragment="com.android.settings.HeadsetSettings" />

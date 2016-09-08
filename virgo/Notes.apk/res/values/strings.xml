@@ -102,7 +102,7 @@ Tap the plus to create a folder"</string>
   <string name="rename_folder_dialog_tile">Rename folder</string>
   <string name="root_folder_name">Quick notes</string>
   <string name="search">Notes</string>
-  <string name="search_hint">Search Notes</string>
+  <string name="search_hint">Search notes</string>
   <string name="search_keyword_notes">Notes;Memo</string>
   <string name="search_label">Searching…</string>
   <string name="search_path_notes">System apps/Notes</string>
