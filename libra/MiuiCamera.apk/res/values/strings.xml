@@ -8,7 +8,6 @@
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR switch button</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
-  <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
   <string name="accessibility_peak">Focus Peak button</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
@@ -83,16 +82,11 @@ The object shouldn't be further than 2 meters."</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">SD card is full</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
-  <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
-  <string name="pano_dialog_title">Panorama</string>
-  <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
-  <string name="pano_review_saving_indication_str">Saving…</string>
-  <string name="pano_too_fast_prompt">Too fast</string>
   <string name="path_settings">System apps/Camera/Settings</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
