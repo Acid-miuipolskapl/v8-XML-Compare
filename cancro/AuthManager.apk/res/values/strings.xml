@@ -141,7 +141,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Network_Recv">Receive data</string>
   <string name="HIPS_Perm_Network_Send">Send data</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Unknown address</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Display notifications</string>
   <string name="HIPS_Perm_Notification_Desc">display notifications in notification shade</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s apps can display notifications</string>
@@ -204,12 +204,12 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_VideoRecorder">Access camera</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">access camera for image or video capture</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s apps can access camera for image or video capture</string>
-  <string name="HIPS_Perm_WIFINetwork">Use WLAN network</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">connect to the internet using WLAN</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps can connect to the internet using WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Change WLAN connectivity</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">turn WLAN on or off</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s apps can turn WLAN on or off</string>
+  <string name="HIPS_Perm_WIFINetwork">Use Wi-Fi network</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">connect to the internet using Wi-Fi</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps can connect to the internet using Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Change Wi-Fi connectivity</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">turn Wi-Fi on or off</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s apps can turn Wi-Fi on or off</string>
   <string name="HIPS_Perm_Wakelock">Prevent device from sleeping</string>
   <string name="HIPS_Perm_Wakelock_Desc">prevent device from sleeping</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s apps can prevent device from sleeping</string>
