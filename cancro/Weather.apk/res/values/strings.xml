@@ -102,7 +102,7 @@
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Visibility</string>
   <string name="information_manager_information">Weather info</string>
-  <string name="information_manager_wlan">Show when connected to Wi-Fi</string>
+  <string name="information_manager_wlan">Show when connected to WLAN</string>
   <string name="information_menu_title"/>
   <string name="information_set">Start page settings</string>
   <string name="information_time_source">%1$s | %2$s</string>

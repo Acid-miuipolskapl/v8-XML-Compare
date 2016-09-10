@@ -987,7 +987,7 @@
         <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>Wi-Fi preferred</item>
+        <item>WLAN preferred</item>
         <item>Cellular preferred</item>
     </string-array>
     <string-array name="wifi_calling_mode_values">
