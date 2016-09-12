@@ -23,6 +23,7 @@
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
   <string name="account_none_user_name">None</string>
+  <string name="account_protection">Account protection</string>
   <string name="account_security_question">Security question</string>
   <string name="account_settings">Account</string>
   <string name="account_user_avatar">Profile photo</string>
@@ -48,14 +49,15 @@
   <string name="account_user_using_facebook_avatar">Use Facebook profile photo</string>
   <string name="account_user_using_qq_avatar">Use QQ profile photo</string>
   <string name="account_user_using_weibo_avatar">Use Sina Weibo profile photo</string>
-  <string name="account_vip_achievements">Achievements</string>
   <string name="account_vip_level">Account</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
-  <string name="activity_not_found_notice">"Can't find the app"</string>
+  <string name="activity_not_found_notice">"Can't find the application"</string>
   <string name="add_account">Connect account</string>
+  <string name="add_this_verified_device">Add this device to verified devices</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
+  <string name="auth_fail_warning">Account sign-in has expired, try again later</string>
   <string name="authorize_title">Authorization</string>
   <string name="barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Connect your Facebook Account</string>
@@ -75,6 +77,9 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">All set</string>
   <string name="confirm_activate_email">Verified</string>
+  <string name="confirm_delete_app_message">After deleting this app, youll have to verify your phone number next time you sign in to your Mi Account in it.</string>
+  <string name="confirm_delete_browser_message">After deleting this browser, youll have to verify your phone number next time you sign in to your Mi Account in it.</string>
+  <string name="confirm_delete_device_message">After deleting this device, youll have to verify your phone number next time you sign in to your Mi Account on it.</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
   <string name="confirm_unbind">Disconnect this account?</string>
@@ -88,14 +93,18 @@
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_action">Delete</string>
+  <string name="delete_app">Delete App</string>
+  <string name="delete_browser">Delete Browser</string>
+  <string name="delete_device">Delete Device</string>
   <string name="delete_device_btn">Remove</string>
   <string name="delete_device_failed">"Can't remove device"</string>
   <string name="delete_device_notice">"After device is removed, it will be signed out of your Mi Account automatically. You won't be able use this device to access the photos, messages, or other content stored in your account."</string>
-  <string name="device_delete_loading">Just a sec…</string>
+  <string name="delete_lock_device_success">Deleted successfully</string>
   <string name="device_delete_success_message">"If you didn't sign in on this device, change your password immediately."</string>
   <string name="device_delete_success_title">Signed out</string>
   <string name="device_list__header">My devices</string>
   <string name="device_list_title">My devices</string>
+  <string name="device_name">Device name</string>
   <string name="device_trust_info">Trusted device</string>
   <string name="empty_device_list_notice">No devices</string>
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
@@ -109,7 +118,9 @@
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="find_device_access_denied">"Can't get status, access denied"</string>
   <string name="find_device_account_error">"Can't get status due to account error"</string>
+  <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">"Can't get status due to server error, try again later"</string>
+  <string name="find_device_display_id">Unlock number: %s</string>
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, try again later</string>
@@ -121,6 +132,7 @@
   <string name="find_device_request_error">"Can't request status info, try again later"</string>
   <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
   <string name="find_device_unknown_error">"Can't get status, try again later"</string>
+  <string name="first_login_time">First sign in attempt: %s</string>
   <string name="forward_to_bind">Add</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
@@ -128,8 +140,13 @@
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="loading_micloud_sync_data">Just a sec…</string>
+  <string name="local_device">(this device)</string>
   <string name="locating_current_location">Locating</string>
   <string name="location_service_not_working">Location service not working</string>
+  <string name="login_check_find_device">Getting device security info…</string>
+  <string name="login_check_find_device_failed_title">"Couldn't check Find device status"</string>
+  <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
+  <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
   <string name="mi_insurance">Mi Insurance</string>
@@ -138,6 +155,8 @@
   <string name="micloud_space_info">%s available</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
+  <string name="miui_provision_find_status_text">"This device is associated with an existing Mi Account (%1$s), enter password to verify the device.
+(Unlock number: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
@@ -145,13 +164,13 @@
   <string name="no_network_btn">Refresh</string>
   <string name="no_network_title">"Can't connect to the network."</string>
   <string name="no_response_retry">No response, please retry.</string>
-  <string name="no_sim_card">No SIM card</string>
+  <string name="no_sim_card_or_unactivated">No SIM card or Not activated</string>
   <string name="nobind">Not connected</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_title">"Mi Account couldn't connect to the network"</string>
-  <string name="other_devices">Other devices</string>
+  <string name="other_devices_title">Other devices</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
@@ -180,6 +199,8 @@ To activate your account, follow the
   <string name="passport_completed">Finish</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Yes</string>
+  <string name="passport_copy_message_text_success">Copy text done</string>
+  <string name="passport_copy_message_vcode">Copy verify code</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_downlink_reg">Create account using phone number</string>
   <string name="passport_email">Email address</string>
@@ -209,8 +230,6 @@ To activate your account, follow the
   <string name="passport_error_user_name">The username you entered is invalid.</string>
   <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
-  <string name="passport_find_device_activate_account">Activate account</string>
-  <string name="passport_find_device_display_id">Unlock number: %s</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
@@ -229,10 +248,7 @@ To activate your account, follow the
   <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="passport_loading">Loading…</string>
   <string name="passport_login">Sign in</string>
-  <string name="passport_login_check_find_device">Getting device security info…</string>
-  <string name="passport_login_check_find_device_failed_title">"Couldn't check Find device status"</string>
   <string name="passport_login_failed">"Can't sign in"</string>
-  <string name="passport_login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
   <string name="passport_login_instead_reg">Use this number</string>
   <string name="passport_login_instead_reg_with_email">Use this Email</string>
   <string name="passport_login_notice">Signing in…</string>
@@ -240,8 +256,7 @@ To activate your account, follow the
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
-  <string name="passport_miui_provision_find_status_text">"This device is associated with an existing Mi Account (%1$s), enter password to verify the device.
-(Unlock number: %2$s)"</string>
+  <string name="passport_message_dialog_title">Verify code message</string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -324,8 +339,6 @@ To activate your account, follow the
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="phone_activated">%s activated</string>
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
-  <string name="phone_unactivated">Not activated</string>
-  <string name="phone_unknown">Unknown</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">What would you like to do with the messages, contacts, and other data that has been synced from your Mi Account?</string>
@@ -356,9 +369,12 @@ Make sure you remember the answers to these questions."</string>
   <string name="service_error">Service error</string>
   <string name="set_security_question_title">Set security questions</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="sms_send_success">Sent</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
   <string name="submit_answers">Submit</string>
   <string name="success">Done</string>
+  <string name="trusted_browsers">Trusted browsers</string>
+  <string name="trusted_browsers_prompt">The browser will no longer be trusted if you delete cookies.</string>
   <string name="trying_read_verify_code_sms">Getting verification code…</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">Turning off Find device…</string>
@@ -370,6 +386,10 @@ Make sure you remember the answers to these questions."</string>
   <string name="updated_nothing">Updated</string>
   <string name="user_avatar_update_title">Change profile photo</string>
   <string name="user_avatar_uploading">Just a sec…</string>
+  <string name="verified_apps">Verified apps</string>
+  <string name="verified_devices">Verified devices</string>
+  <string name="verify_phone_prompt">Select phone number to verify</string>
+  <string name="verify_phone_title">Verify phone number</string>
   <string name="wipe_data_dialog_msg">%s will be deleted if you continue.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>

@@ -318,8 +318,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
-  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
-  <string name="auto_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="available_via_passpoint">Available via %1$s</string>
@@ -349,6 +347,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="band_mode_succeeded">Successful</string>
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
+  <string name="batch_delete_saved_network">Delete saved network: %s?</string>
   <string name="battery_action_app_details">App info</string>
   <string name="battery_action_app_settings">App settings</string>
   <string name="battery_action_bluetooth">Bluetooth settings</string>
@@ -764,7 +763,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="children_mode_title">Child mode</string>
   <string name="choose_assist_title">Choose Assist app</string>
   <string name="choose_profile">Choose Profile</string>
-  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="choose_voice_input_title">Choose voice input</string>
   <string name="cleaner">Cleaner</string>
@@ -1045,6 +1043,7 @@ This setting affects all users on this phone."</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
+  <string name="delete_saved_network">Delete saved network</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1679,7 +1678,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
   <string name="last_time_used_label">Last time used</string>
-  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">Open by default</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
@@ -2202,7 +2200,6 @@ Select your operating system:"</string>
   <string name="no_updates_warning">Your system is up to date</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
-  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed for this user</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
@@ -2318,6 +2315,8 @@ Select your operating system:"</string>
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="paper_mode_end_time_title">End time</string>
+  <string name="paper_mode_start_time_title">Start time</string>
   <string name="passpoint_content">%1$s credentials</string>
   <string name="passpoint_label">Saved via</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
@@ -2865,6 +2864,8 @@ This setting affects all users on this phone."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">No permissions requested</string>
   <string name="save">Save</string>
   <string name="saved_network">Saved by %1$s</string>
+  <string name="saved_wifi">Saved network</string>
+  <string name="saved_wifi_delete">Delete</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
@@ -2896,6 +2897,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_range_title">Settings</string>
   <string name="screen_paper_mode_set_apps_title">Reading mode apps</string>
   <string name="screen_paper_mode_summary">"Reduce display's background glare"</string>
+  <string name="screen_paper_mode_time_title">Scheduled</string>
   <string name="screen_paper_mode_title">Reading mode</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
@@ -3175,6 +3177,8 @@ To use screen pinning:
   <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
   <string name="security_encryption_diaglog_continue">Next</string>
   <string name="security_encryption_is_used">On</string>
+  <string name="security_encryption_progress_dialog_close">Decrypting…</string>
+  <string name="security_encryption_progress_dialog_open">Encrypting…</string>
   <string name="security_encryption_title">Encrypt device using lock screen password</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
@@ -3373,8 +3377,7 @@ Possibly incorrect PIN."</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
-  <string name="smallwindow_smartcover_title">Transparent window</string>
-  <string name="smartcover_sensitive_title">Smartcover mode</string>
+  <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Change SMS app?</string>
@@ -3852,6 +3855,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
+  <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="usage_access">Usage access</string>
   <string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
   <string name="usage_access_title">Apps with usage access</string>
