@@ -131,7 +131,7 @@
   <string name="notification_reboot_title_hm">Reboot to apply update</string>
   <string name="notification_restart">Update again</string>
   <string name="notification_share">Share</string>
-  <string name="notification_uncrypt_summary_hm">Touch to reboot your device.</string>
+  <string name="notification_uncrypt_summary_hm">Tap to reboot your device</string>
   <string name="notification_uncrypt_title_hm">Reboot to apply update</string>
   <string name="notification_uncrypting">Decrypting update…</string>
   <string name="notification_update_new_version">Update available</string>

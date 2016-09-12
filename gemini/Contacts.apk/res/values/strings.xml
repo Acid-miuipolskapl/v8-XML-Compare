@@ -165,6 +165,7 @@
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad_description">Close dial pad</string>
   <string name="cloud_antispam_mark">Flag</string>
+  <string name="cloud_antispam_marked">Flagged</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
@@ -203,6 +204,7 @@
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Record call</string>
+  <string name="contact_detail_calllog_empty">No history</string>
   <string name="contact_detail_menu_delete_miprofile">Delete card</string>
   <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
@@ -457,6 +459,7 @@ Reason: \"%s\""</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
+  <string name="gallery">Gallery</string>
   <string name="generic_no_account_prompt">Keep your contacts safe even if you lose your phone: synchronize with an online service.</string>
   <string name="generic_no_account_prompt_title">Add an account</string>
   <string name="ghostData_company">Company</string>
@@ -872,8 +875,8 @@ To add a contact to your list of favorites:
   <string name="photo_fragment">Photo</string>
   <string name="photo_labels_group">Profile photo</string>
   <string name="photo_load_failed">"Couldn't load photo"</string>
-  <string name="pick_new_photo">Select new photo from Gallery</string>
-  <string name="pick_photo">Choose photo from Gallery</string>
+  <string name="pick_new_photo">Choose new photo from %s</string>
+  <string name="pick_photo">Choose photo from %s</string>
   <string name="pickerNewContactHeader">Create new contact</string>
   <string name="pickerNewContactText">Create new contact</string>
   <string name="picker_all_list_empty">No contacts</string>
@@ -1039,6 +1042,7 @@ To add a contact to your list of favorites:
   <string name="search_import_from_other_phone">Contacts;Import;other phone</string>
   <string name="search_import_from_sdcard">Contacts;Import;storage</string>
   <string name="search_import_from_sim">Contacts;Import;SIM card</string>
+  <string name="search_input_hint">You can search phone numbers or services</string>
   <string name="search_key_photo_word">Assign;contact;photos;Contacts</string>
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>

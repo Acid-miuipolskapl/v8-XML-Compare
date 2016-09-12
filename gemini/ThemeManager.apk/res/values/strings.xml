@@ -21,7 +21,6 @@
   <string name="browser_local_resource">Local resources</string>
   <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Wallpaper</string>
-  <string name="choose_new_themes">Themes</string>
   <string name="close">Close</string>
   <string name="component_backup_preference_title">Back up theme</string>
   <string name="component_category_finest_title">GENERAL</string>
@@ -48,9 +47,6 @@
   <string name="fail_to_add_account">"Can't add account"</string>
   <string name="favorite_list">Favorites</string>
   <string name="favorite_list_format">Favorite %1$s</string>
-  <string name="forcetouch_featured">Featured</string>
-  <string name="forcetouch_free_themes">Free themes</string>
-  <string name="forcetouch_offline">Offline</string>
   <string name="gift_anonymous">Anonymous</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel</string>
@@ -167,6 +163,7 @@
   <string name="resource_comment_upload_not_logined">You need to sign in first</string>
   <string name="resource_comment_upload_success">Your comment will be displayed after a brief review.</string>
   <string name="resource_continue">Next</string>
+  <string name="resource_data_empty">The content is empty.</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete">Delete</string>
@@ -182,7 +179,6 @@
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
   <string name="resource_detail_recommend_desiner_other_themes">Themes designed by %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
   <string name="resource_detail_recommend_other_themes">Users also liked</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_vertical_divider">|</string>
