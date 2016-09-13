@@ -54,7 +54,6 @@
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="activity_not_found_notice">"Can't find the application"</string>
   <string name="add_account">Connect account</string>
-  <string name="add_this_verified_device">Add this device to verified devices</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">Account sign-in has expired, try again later</string>
@@ -276,7 +275,6 @@ To activate your account, follow the
   <string name="passport_reg_failed">"Can't set up account"</string>
   <string name="passport_reg_new">Create a Mi Account for free</string>
   <string name="passport_reg_prompt">"Don't have a Mi Account? Create one for free."</string>
-  <string name="passport_reg_sms_send_prompt">Send verification code to %s</string>
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been added to your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">Use email address</string>
@@ -317,7 +315,8 @@ To activate your account, follow the
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
   <string name="passport_title_reg">Create an account</string>
-  <string name="passport_trust_device">Trust this device</string>
+  <string name="passport_trust_device">Add this device to verified devices</string>
+  <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
   <string name="passport_uplink_reg">Use phone number</string>
   <string name="passport_uplink_slot1_reg">Use SIM 1</string>
   <string name="passport_uplink_slot2_reg">Use SIM 2</string>
@@ -330,6 +329,7 @@ To activate your account, follow the
   <string name="passport_user_agreement_p4">Privacy Policy</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
+  <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
   <string name="passport_verification_failed">Authentication failed</string>
   <string name="passport_verify">Verify</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
@@ -338,7 +338,6 @@ To activate your account, follow the
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="phone_activated">%s activated</string>
-  <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">What would you like to do with the messages, contacts, and other data that has been synced from your Mi Account?</string>
@@ -375,7 +374,6 @@ Make sure you remember the answers to these questions."</string>
   <string name="success">Done</string>
   <string name="trusted_browsers">Trusted browsers</string>
   <string name="trusted_browsers_prompt">The browser will no longer be trusted if you delete cookies.</string>
-  <string name="trying_read_verify_code_sms">Getting verification code…</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">Turning off Find device…</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
