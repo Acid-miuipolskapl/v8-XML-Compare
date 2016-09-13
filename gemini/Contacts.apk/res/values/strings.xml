@@ -598,9 +598,9 @@ Reason: \"%s\""</string>
   <string name="menu_bar_group_batch_remove">Delete group</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
-  <string name="menu_bar_group_ringtone">Group ringtone</string>
+  <string name="menu_bar_group_ringtone">Ringtone</string>
   <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
-  <string name="menu_bar_group_sms">Group SMS</string>
+  <string name="menu_bar_group_sms">SMS</string>
   <string name="menu_call">Call contact</string>
   <string name="menu_callNumber">Call %s</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>

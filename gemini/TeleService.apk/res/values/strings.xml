@@ -178,6 +178,9 @@
   <string name="callFailed_user_not_member_of_CUG"/>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_advanced_setting_title">Advanced setting</string>
+  <string name="call_background_default">Default Image</string>
+  <string name="call_background_lock_wallpaper">Lock Screen Wallpaper</string>
+  <string name="call_background_setting">Call Background</string>
   <string name="call_barring">Call barring</string>
   <string name="call_barring_incoming">Incoming call barring</string>
   <string name="call_barring_outgoing">Outgoing call barring</string>
@@ -923,6 +926,7 @@ Try again or call customer service for more options."</string>
   <string name="path_app_name">System apps/Phone</string>
   <string name="path_auto_answer_pref_title">System apps/Phone/Auto-answer</string>
   <string name="path_autoip">System apps/Phone/Advanced setting/Auto IP dialing</string>
+  <string name="path_call_background_setting_name">System apps/Phone/Advanced setting/Call Background</string>
   <string name="path_call_forwarding_settings">System apps/Phone/Call forwarding settings</string>
   <string name="path_call_record_auto_title">System apps/Phone/Call recording/Record calls automatically</string>
   <string name="path_call_record_setting">System apps/Phone/Call recording</string>
@@ -1198,6 +1202,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_app_name">Phone</string>
   <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
   <string name="search_autoip">@string/autoip</string>
+  <string name="search_call_background_setting">@string/call_background_setting</string>
   <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
   <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
   <string name="search_call_record_setting">@string/call_record_setting</string>
