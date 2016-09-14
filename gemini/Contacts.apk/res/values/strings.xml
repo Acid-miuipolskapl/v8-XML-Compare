@@ -133,7 +133,7 @@
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
-  <string name="callrecordview_menu_voip">VoIP</string>
+  <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
@@ -866,7 +866,7 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
-  <string name="phone_call_type_livetalk">LiveTalk</string>
+  <string name="phone_call_type_livetalk">Top-up package</string>
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Number is too long</string>
@@ -1114,8 +1114,8 @@ To add a contact to your list of favorites:
   <string name="smart_group_company_label">Companies</string>
   <string name="smart_group_company_unavailable">No company info</string>
   <string name="smart_group_frequency_1">Within the past month</string>
-  <string name="smart_group_frequency_2">Within the past 3 months</string>
-  <string name="smart_group_frequency_3">Within the past 6 months</string>
+  <string name="smart_group_frequency_2">Over 1 and within 3 months</string>
+  <string name="smart_group_frequency_3">Over 3 and within 6 months</string>
   <string name="smart_group_frequency_4">Over 6 months ago</string>
   <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Smart groups</string>
