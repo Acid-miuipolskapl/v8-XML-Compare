@@ -257,7 +257,7 @@ or enter App lock password"</string>
   <string name="category_key_power_usage_details">key_power_usage_details</string>
   <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
-  <string name="charging_text_battery_full_time">Last charge</string>
+  <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
   <string name="charging_text_time_calculating">Calculating charging time…</string>
@@ -817,8 +817,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_btn_analyze">Analyze battery usage</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
-  <string name="power_center_battery_full">Battery fully charged</string>
-  <string name="power_center_charge_time">%1$s until full</string>
+  <string name="power_center_battery_full">"Battery fully charged "</string>
+  <string name="power_center_charge_time">%1$suntil full</string>
   <string name="power_center_consume_rank">Battery use</string>
   <string name="power_center_consume_time">%1$s remaining</string>
   <string name="power_center_custom_title">Battery profiles</string>
