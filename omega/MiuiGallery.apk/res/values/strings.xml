@@ -121,7 +121,7 @@
   <string name="baby_suffix">baby</string>
   <string name="background_effect">Background effects</string>
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
-  <string name="backup_automatically_title">Back up and sync automatically</string>
+  <string name="backup_automatically_title">Back up automatically</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
@@ -537,7 +537,7 @@
   <string name="cloud_guide_slim_title">Optimize local storage to save %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
-  <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_settings">Gallery backups</string>
   <string name="cloud_space_full_button_text">Get more Mi Cloud storage</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
@@ -589,7 +589,7 @@
   <string name="delete_from_album">from \"%s\" album (all devices)</string>
   <string name="delete_from_album_no_account">from \"%s\" album</string>
   <string name="delete_from_all_devices">from all devices</string>
-  <string name="delete_from_cloud">Delete items from cloud album</string>
+  <string name="delete_from_cloud">Delete items from Mi Cloud</string>
   <string name="delete_from_devices">All synced devices</string>
   <string name="delete_from_devices_album">All devices to which the album has been synced</string>
   <string name="delete_from_homepage_album">Albums shown in Gallery</string>
@@ -725,7 +725,10 @@ Take more photos of your friends!"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
   <string name="illegal_arguments_error">An error occurred</string>
+  <string name="image_decode_failed">"Couldn't decode image"</string>
   <string name="image_download_item_title">Download photo (%s)</string>
+  <string name="image_invalid_path">Invalid path</string>
+  <string name="image_not_found">"Couldn't find image"</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
@@ -756,7 +759,7 @@ Take more photos of your friends!"</string>
   <string name="limit_height">Height should be &gt; 0</string>
   <string name="limit_width">Width should be &gt; 0</string>
   <string name="load_image_error">"Can't load photo"</string>
-  <string name="loading_dual_tip">Loading dual photo...</string>
+  <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
@@ -883,7 +886,7 @@ Take more photos of your friends!"</string>
   <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
-  <string name="picker_title_format">Selected photos: %d</string>
+  <string name="picker_title_format">You can select %d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
   <string name="picker_title_unlimit">Select photos</string>
   <string name="preparing_data">Just a sec…</string>
@@ -1071,6 +1074,8 @@ Take more photos of your friends!"</string>
   <string name="video_editor_filter_sunny">Sunny</string>
   <string name="video_editor_invalid_trim_arguments">Should be longer than 1 second</string>
   <string name="video_editor_loading_plugin">Loading…</string>
+  <string name="video_editor_loading_warning_msg">"Due to an encoding error, some features and previews may be unavailable during the editing process. This won't affect the final video file, though."</string>
+  <string name="video_editor_loading_warning_title">Encoding error</string>
   <string name="video_editor_more">Advanced</string>
   <string name="video_editor_not_support_tips">"Such video files aren't supported"</string>
   <string name="video_editor_ok">OK</string>
