@@ -345,10 +345,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_05e5</item>
-        <item>@string/APKTOOL_DUMMY_05e3</item>
-        <item>@string/APKTOOL_DUMMY_05e4</item>
-        <item>@string/APKTOOL_DUMMY_05e6</item>
+        <item>@string/APKTOOL_DUMMY_05ea</item>
+        <item>@string/APKTOOL_DUMMY_05e8</item>
+        <item>@string/APKTOOL_DUMMY_05e9</item>
+        <item>@string/APKTOOL_DUMMY_05eb</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -382,6 +382,14 @@
         <item>@string/t9_indexing_method_zhuyin</item>
     </string-array>
     <string-array name="t9_indexing_method_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_background_entries">
+        <item>@string/call_background_default</item>
+        <item>@string/call_background_lock_wallpaper</item>
+    </string-array>
+    <string-array name="call_background_values">
         <item>0</item>
         <item>1</item>
     </string-array>
