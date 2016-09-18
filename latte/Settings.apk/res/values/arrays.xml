@@ -1147,12 +1147,12 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
-        <item>Street-snap(need to select mode in camera)</item>
-        <item>Public Transportation Shortcuts</item>
+        <item>Quick snap mode (turn on in Camera)</item>
+        <item>Public transport card shortcut</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>none</item>
-        <item>Street-snap</item>
+        <item>one</item>
+        <item>Quick snap mode</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
