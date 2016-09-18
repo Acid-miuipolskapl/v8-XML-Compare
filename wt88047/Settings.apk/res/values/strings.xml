@@ -270,8 +270,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
-  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
-  <string name="auto_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="awake">Device awake time</string>
@@ -297,6 +295,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="band_mode_succeeded">Successful</string>
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
+  <string name="batch_delete_saved_network">Delete saved network: %s?</string>
   <string name="battery_action_app_details">App info</string>
   <string name="battery_action_app_settings">App settings</string>
   <string name="battery_action_bluetooth">Bluetooth settings</string>
@@ -697,7 +696,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
   <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen.</string>
   <string name="children_mode_title">Child mode</string>
-  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="cleaner">Cleaner</string>
   <string name="clear_activities">Clear defaults</string>
@@ -711,6 +709,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
   <string name="close_dialog">OK</string>
+  <string name="close_gesture">Close using gesture</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change. Note: turning this feature off will bring major changes to layouts and other elements of the UI.</string>
   <string name="color_black">Black</string>
@@ -793,6 +792,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
   <string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
   <string name="crypt_keeper_decrypt_methods">After you encrypt your phone, assuming you’ve set up a screen lock (that is, a pattern or numeric PIN or password), you’ll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"If you've encrypted your phone, you'll have to enter your password, PIN, or pattern every time you reboot the device in order to decrypt it."</string>
   <string name="crypt_keeper_decrypt_methods_title">Decrypting your device</string>
   <string name="crypt_keeper_desc">"You can encrypt your accounts, settings, downloaded apps and their data, media, and other files. After you encrypt your phone, assuming you've set up a screen lock (that is, a pattern or numeric PIN or password), you'll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.
 
@@ -961,6 +961,7 @@ This setting affects all users on this phone."</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
+  <string name="delete_saved_network">Delete saved network</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1162,7 +1163,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
   <string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
   <string name="enable_service_title">Use %1$s?</string>
-  <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
+  <string name="enable_snapshot_screenlock">Long press Back to take a photo</string>
   <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
   <string name="enable_terminal_title">Local terminal</string>
   <string name="enable_text">Enable</string>
@@ -1349,6 +1350,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="google_wallet">Google Wallet</string>
+  <string name="got_it">Got it</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="handy_mode">One-handed mode</string>
   <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
@@ -1403,6 +1405,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="hide">Hide</string>
+  <string name="hide_screen_button">Hide screen buttons</string>
   <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
   <string name="high_performance_notif_title">Performance mode is on</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
@@ -1725,7 +1729,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
-  <string name="long_press_volume_down">Long press volume down</string>
+  <string name="long_press_volume_down">Long press Volume down</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -1910,6 +1914,7 @@ Select your operating system:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
   <string name="music_audio_effect_settings">Effects settings</string>
   <string name="music_dirac_control">Optimize audio quality</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General</string>
@@ -2006,7 +2011,6 @@ Select your operating system:"</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
-  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
@@ -2110,6 +2114,8 @@ Select your operating system:"</string>
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">Extra small</string>
+  <string name="paper_mode_end_time_title">End time</string>
+  <string name="paper_mode_start_time_title">Start time</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_entrance_title">Screen lock</string>
   <string name="password_guard">Password</string>
@@ -2356,6 +2362,8 @@ Select your operating system:"</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
   <string name="pref_edge_handgrip">Edge controls</string>
   <string name="pref_operational_key">Navigation buttons</string>
+  <string name="pref_volume_launch_camera_summary">Press Volume down twice to launch Camera</string>
+  <string name="pref_volume_launch_camera_title">Launch camera</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
@@ -2634,8 +2642,12 @@ This setting affects all users on this phone."</string>
   <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
+  <string name="saved_wifi">Saved network</string>
+  <string name="saved_wifi_delete">Delete</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
+  <string name="screen_button">Screen buttons</string>
+  <string name="screen_button_tips">Swipe down to hide screen buttons</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>
@@ -2664,6 +2676,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_range_title">Settings</string>
   <string name="screen_paper_mode_set_apps_title">Reading mode apps</string>
   <string name="screen_paper_mode_summary">"Reduce display's background glare"</string>
+  <string name="screen_paper_mode_time_title">Scheduled</string>
   <string name="screen_paper_mode_title">Reading mode</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
@@ -3101,8 +3114,7 @@ Attempts Remaining :"</string>
   <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
-  <string name="smallwindow_smartcover_title">Transparent front cover</string>
-  <string name="smartcover_sensitive_title">Smartcover mode</string>
+  <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">Default SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Change SMS app?</string>
@@ -3148,7 +3160,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_app_enable_floating">Floating notifications</string>
   <string name="status_bar_app_enable_keyguard">Lock screen</string>
   <string name="status_bar_app_enable_message">Badges</string>
-  <string name="status_bar_key_position_custom">Custom button position</string>
+  <string name="status_bar_key_position_custom">Change button position</string>
   <string name="status_bar_screen_button_key">Screen buttons</string>
   <string name="status_bar_screen_key_back">Back button</string>
   <string name="status_bar_screen_key_home">Home button</string>
@@ -3402,7 +3414,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uicc_mount">Mount UICC storage</string>
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC storage will be ejected.</string>
-  <string name="under_keyguard">Lock screen</string>
+  <string name="under_keyguard">Screen off</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
@@ -3448,6 +3460,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unmount_inform_text">SD card will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
+  <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="usage_access_title">Apps with usage access</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
