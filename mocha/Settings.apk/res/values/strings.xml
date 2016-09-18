@@ -257,8 +257,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
-  <string name="auto_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
-  <string name="auto_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="awake">Device awake time</string>
@@ -304,6 +302,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
   <string name="batch_delete_backup_confirm">Delete selected backups?</string>
+  <string name="batch_delete_saved_network">Delete saved network: %s?</string>
   <string name="battery_action_app_details">App info</string>
   <string name="battery_action_app_settings">App settings</string>
   <string name="battery_action_bluetooth">Bluetooth settings</string>
@@ -662,7 +661,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
   <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen.</string>
   <string name="children_mode_title">Child mode</string>
-  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="cleaner">Cleaner</string>
   <string name="clear_activities">Clear defaults</string>
@@ -676,6 +674,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
   <string name="click_to_view">Tap to view</string>
+  <string name="close_gesture">Close using gesture</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
   <string name="cloud_backup_hint">To access your backups, sign in now</string>
   <string name="cloud_backup_login">Sign in to your Mi Account</string>
@@ -904,6 +903,7 @@ Since data usage is measured by your pad, and your carrier may account for usage
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
+  <string name="delete_saved_network">Delete saved network</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1247,6 +1247,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="global_font_change_title">Change font size</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
+  <string name="got_it">Got it</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="guarded_mode_dialog_backup_message">"Backups aren't allowed in Guest mode."</string>
   <string name="guarded_mode_dialog_title">"You're in Guest mode"</string>
@@ -1301,6 +1302,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="hide">Hide</string>
+  <string name="hide_screen_button">Hide screen buttons</string>
   <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
   <string name="high_performance_notif_title">Performance mode is on</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
@@ -1427,7 +1430,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_app_name">Backup</string>
   <string name="local_auto_backup_off">Off</string>
   <string name="local_auto_backup_on">On</string>
-  <string name="local_auto_backup_section_title">Backup automatically</string>
+  <string name="local_auto_backup_section_title">Back up automatically</string>
   <string name="local_backup_password_summary_change">Touch to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>
   <string name="local_backup_password_title">Desktop backup password</string>
@@ -1924,7 +1927,6 @@ Select your operating system:"</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
-  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">No results.</string>
@@ -2022,6 +2024,8 @@ Select your operating system:"</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">Extra small</string>
   <string name="page_loading">Just a sec…</string>
+  <string name="paper_mode_end_time_title">End time</string>
+  <string name="paper_mode_start_time_title">Start time</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_entrance_title">Screen lock</string>
   <string name="password_guard">Password</string>
@@ -2256,6 +2260,8 @@ Select your operating system:"</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
   <string name="pref_edge_handgrip">Edge controls</string>
   <string name="pref_operational_key">Navigation buttons</string>
+  <string name="pref_volume_launch_camera_summary">Press volume down button twice launch camera</string>
+  <string name="pref_volume_launch_camera_title">Rapid camera</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
@@ -2534,6 +2540,8 @@ This setting affects all users on this tablet."</string>
   <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
+  <string name="saved_wifi">Saved network</string>
+  <string name="saved_wifi_delete">Delete</string>
   <string name="sc_bad_request">Invalid request</string>
   <string name="sc_internal_server_error">Internal server error</string>
   <string name="sc_network_unavailable">Check your connection and try again.</string>
@@ -2545,6 +2553,8 @@ This setting affects all users on this tablet."</string>
   <string name="sc_unauthorized">Sign in again</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
+  <string name="screen_button">Screen buttons</string>
+  <string name="screen_button_tips">Swipe down to hide screen buttons</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_temperature">Colors</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
@@ -2571,6 +2581,7 @@ This setting affects all users on this tablet."</string>
   <string name="screen_paper_mode_range_title">Settings</string>
   <string name="screen_paper_mode_set_apps_title">Reading mode apps</string>
   <string name="screen_paper_mode_summary">"Reduce display's background glare"</string>
+  <string name="screen_paper_mode_time_title">Scheduled</string>
   <string name="screen_paper_mode_title">Reading mode</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
@@ -2940,8 +2951,7 @@ Possibly incorrect PIN."</string>
   <string name="skip_step">Skip</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
-  <string name="smallwindow_smartcover_title">Transparent front cover</string>
-  <string name="smartcover_sensitive_title">Smartcover mode</string>
+  <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Default SMS app</string>
   <string name="sms_change_default_dialog_text" formatted="false">Use %s instead of %s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Change SMS app?</string>
@@ -3378,6 +3388,8 @@ and Mi Mover is on"</string>
   <string name="unmount_inform_text">SD card will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
+  <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Usage statistics</string>
