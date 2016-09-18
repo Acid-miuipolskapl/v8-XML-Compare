@@ -50,4 +50,9 @@
         <item>MP3, ~100kbit/s, ~45MB/h</item>
         <item>MP3, ~75kbit/s, ~32MB/h</item>
     </string-array>
+    <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
+    </string-array>
 </resources>
