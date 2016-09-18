@@ -8,7 +8,6 @@
     <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
     <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
     <string-array name="float_notification_whitelist">
-        <item>cn.com.fetion</item>
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
         <item>com.tencent.qq</item>
@@ -17,11 +16,9 @@
         <item>com.android.calendar</item>
         <item>com.android.phone</item>
         <item>com.android.mms</item>
-        <item>com.immomo.momo</item>
         <item>com.google.android.gm</item>
         <item>com.android.email</item>
         <item>android</item>
-        <item>com.android.providers.downloads.ui</item>
         <item>com.android.updater</item>
         <item>com.android.settings</item>
         <item>com.android.bluetooth</item>
@@ -29,9 +26,7 @@
         <item>com.jeejen.family.miui</item>
         <item>com.android.server.telecom</item>
         <item>com.miui.networkassistant</item>
-        <item>com.xiaomi.midrop</item>
         <item>com.miui.securitycenter</item>
-        <item>com.miui.player</item>
         <item>com.android.cts.verifier</item>
         <item>com.miui.securitycore</item>
         <item>com.lbe.security.miui</item>
