@@ -470,7 +470,7 @@
   <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">New</string>
   <string name="vp_next_ci">Next</string>
-  <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
+  <string name="vp_notify_apk_installed">Install application successfully</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_offline_status_done">Finished</string>
   <string name="vp_offline_status_dowloading">Downloading</string>
