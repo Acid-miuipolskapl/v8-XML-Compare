@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_settings_activity_title">Accessibility</string>
+  <string name="actionBarCBVideo">Video call barring (%s)</string>
+  <string name="actionBarCBVoice">Voice call barring (%s)</string>
+  <string name="actionBarCFVideo">Video call forwarding (%s)</string>
+  <string name="actionBarCFVoice">Voice call forwarding (%s)</string>
   <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
   <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
   <string name="active_phone_sim_absent">Insert SIM card now</string>
@@ -618,12 +622,16 @@ Switch to the new provider anyway?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Data plan settings</string>
   <string name="ivr_type_settings_hint">Enter your data plan code</string>
+  <string name="labelCBVideo">Video call barring</string>
+  <string name="labelCBVoice">Voice call barring</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
   <string name="labelCFB">When busy</string>
   <string name="labelCFNRc">When unreachable</string>
   <string name="labelCFNRy">When unanswered</string>
   <string name="labelCFU">Always forward</string>
+  <string name="labelCFVideo">Video call forwarding</string>
+  <string name="labelCFVoice">Voice call forwarding</string>
   <string name="labelCW">Call waiting</string>
   <string name="labelCallerId">Caller ID</string>
   <string name="labelCdmaMore_with_label">CDMA call settings (%s)</string>
