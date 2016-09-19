@@ -1581,6 +1581,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
+  <string name="input_password_hint_text">Enter password</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
@@ -4604,6 +4605,7 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
   <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>
   <string name="zen_access_warning_dialog_title">Allow access to Do Not Disturb for %1$s?</string>

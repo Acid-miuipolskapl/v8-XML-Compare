@@ -9,8 +9,8 @@
   <string name="Settings_title_power_center">Battery settings</string>
   <string name="ac_enable_title">Turn on App lock</string>
   <string name="ac_enter_applock">Enter App lock</string>
-  <string name="ac_firstUseApplock_subTitle">Use App lock to protect your privacy</string>
-  <string name="ac_firstUseApplock_title">Require password to open selected apps</string>
+  <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
+  <string name="ac_firstUseApplock_title">Set a password to protect your apps</string>
   <string name="ac_summaryOff">Turned off, no password is required to open apps</string>
   <string name="ac_summaryOn">Turned on, password is required to open apps</string>
   <string name="access_control_need_password">"%s added successfully
@@ -1120,6 +1120,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
+  <string name="set_applock_password">Set password</string>
   <string name="settings">Data usage settings</string>
   <string name="settings_battery_consume_abnormal_summary">Receive notifications when battery is being drained fast</string>
   <string name="settings_battery_consume_abnormal_title">Battery drain notifications</string>
@@ -1258,6 +1259,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
+  <string name="tc_sms_report_get_sms_bill">Get SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Get SMS</string>
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
   <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
@@ -1279,6 +1282,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
+  <string name="tc_sms_report_title_bill">Report data usage bug</string>
+  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">Getting info…</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
