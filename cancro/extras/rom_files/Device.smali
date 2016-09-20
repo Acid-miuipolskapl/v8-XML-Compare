@@ -90,6 +90,8 @@
 
 .field public static final IS_MI9:Z
 
+.field public static final IS_NEXUS5:Z
+
 .field public static final IS_PAD1:Z
 
 .field public static final IS_STABLE:Z
@@ -97,6 +99,17 @@
 .field public static final IS_XIAOMI:Z
 
 .field public static final MODULE:Ljava/lang/String;
+
+.field private static sFpNavEventNameList:Ljava/util/ArrayList;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/ArrayList",
+            "<",
+            "Ljava/lang/String;",
+            ">;"
+        }
+    .end annotation
+.end field
 
 
 # direct methods
@@ -515,6 +528,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_XIAOMI:Z
 
+    const-string v0, "hammerhead"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_NEXUS5:Z
+
     sget-boolean v0, Lmiui/os/Build;->IS_CM_CUSTOMIZATION:Z
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_CM:Z
@@ -614,6 +637,61 @@
     move-result-object v0
 
     return-object v0
+.end method
+
+.method public static getFpNavEventNameList()Ljava/util/ArrayList;
+    .locals 6
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/ArrayList",
+            "<",
+            "Ljava/lang/String;",
+            ">;"
+        }
+    .end annotation
+
+    sget-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    if-nez v5, :cond_0
+
+    new-instance v5, Ljava/util/ArrayList;
+
+    invoke-direct {v5}, Ljava/util/ArrayList;-><init>()V
+
+    sput-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    const-string v5, "fp_nav_event_name_list"
+
+    invoke-static {v5}, Lmiui/util/FeatureParser;->getStringArray(Ljava/lang/String;)[Ljava/lang/String;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_0
+
+    move-object v0, v4
+
+    array-length v2, v0
+
+    const/4 v1, 0x0
+
+    :goto_0
+    if-ge v1, v2, :cond_0
+
+    aget-object v3, v0, v1
+
+    sget-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    invoke-virtual {v5, v3}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+
+    add-int/lit8 v1, v1, 0x1
+
+    goto :goto_0
+
+    :cond_0
+    sget-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    return-object v5
 .end method
 
 .method public static isCaptureStopFaceDetection()Z
