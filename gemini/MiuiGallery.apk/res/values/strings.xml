@@ -237,7 +237,7 @@
   <string name="cityname_174">Lingao</string>
   <string name="cityname_175">Linxia Hui Autonomous Prefecture</string>
   <string name="cityname_176">Linyi</string>
-  <string name="cityname_177">Linzhi Area</string>
+  <string name="cityname_177">Linzhi</string>
   <string name="cityname_178">Lingshui Li Autonomous County</string>
   <string name="cityname_179">Liuzhou</string>
   <string name="cityname_18">Baishan</string>
@@ -268,7 +268,7 @@
   <string name="cityname_201">Nanyang</string>
   <string name="cityname_202">Nanzhang</string>
   <string name="cityname_203">Neijiang</string>
-  <string name="cityname_204">Nagqu Area</string>
+  <string name="cityname_204">Nagqu</string>
   <string name="cityname_205">Ningbo</string>
   <string name="cityname_206">Ningde</string>
   <string name="cityname_207">Nujiang Lisu Autonomous Prefecture</string>
@@ -306,7 +306,7 @@
   <string name="cityname_236">Sansha</string>
   <string name="cityname_237">Sanya</string>
   <string name="cityname_238">Xiamen</string>
-  <string name="cityname_239">Shannan Area</string>
+  <string name="cityname_239">Shannan</string>
   <string name="cityname_24">Baoji</string>
   <string name="cityname_240">Shantou</string>
   <string name="cityname_241">Shanwei</string>
@@ -451,7 +451,7 @@
   <string name="cityname_367">Zhoushan</string>
   <string name="cityname_368">Zhuhai</string>
   <string name="cityname_369">Zhuzhou</string>
-  <string name="cityname_37">Changdu Area</string>
+  <string name="cityname_37">Changdu</string>
   <string name="cityname_370">Zhumadian</string>
   <string name="cityname_371">Zibo</string>
   <string name="cityname_372">Ziyang</string>
@@ -920,6 +920,15 @@ Take more photos of your friends!"</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
   <string name="secret_album_display_name">Hidden album</string>
+  <string name="secret_album_password_update_dialog_cancel">Cancel</string>
+  <string name="secret_album_password_update_dialog_msg">Gallery will use Privacy protection password from now on.</string>
+  <string name="secret_album_password_update_dialog_ok">OK</string>
+  <string name="secret_album_password_update_dialog_title">Upgrade password</string>
+  <string name="secret_album_set_pc_password_dialog_msg">Privacy protection password works for apps, photos, notes, hidden folders, etc.</string>
+  <string name="secret_album_set_pc_password_dialog_ok">Set password</string>
+  <string name="secret_album_set_pc_password_dialog_title">Set a new password</string>
+  <string name="secret_album_set_pc_password_first_use_msg">Privacy protection password will be used. It works for works for apps, photos, notes, hidden folders, etc.</string>
+  <string name="secret_album_set_pc_password_first_use_title">Privacy protection password</string>
   <string name="secret_reason_space_full">Cloud albums are full</string>
   <string name="secret_reason_too_large">File is too big</string>
   <string name="secret_reason_type_not_support">"This file type isn't supported"</string>
