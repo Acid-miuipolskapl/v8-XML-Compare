@@ -716,6 +716,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_item">Protect selected apps with App lock</string>
   <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+  <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
+  <string name="notification_sysapp_cracked_title">Security risk is detected</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
@@ -1222,6 +1224,15 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
+  <string name="sys_app_prot_cracked_confirm">Got it</string>
+  <string name="sys_app_prot_cracked_login">Sign in with Mi Account</string>
+  <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
+
+Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
+
+If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
+  <string name="sys_app_prot_cracked_title">Security risk</string>
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content_none">Safe</string>
