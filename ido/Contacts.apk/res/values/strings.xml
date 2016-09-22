@@ -1114,8 +1114,8 @@ To add a contact to your list of favorites:
   <string name="smart_group_company_label">Companies</string>
   <string name="smart_group_company_unavailable">No company info</string>
   <string name="smart_group_frequency_1">Within the past month</string>
-  <string name="smart_group_frequency_2">Over 1 and within 3 months</string>
-  <string name="smart_group_frequency_3">Over 3 and within 6 months</string>
+  <string name="smart_group_frequency_2">1 to 3 months</string>
+  <string name="smart_group_frequency_3">3 to 6 months</string>
   <string name="smart_group_frequency_4">Over 6 months ago</string>
   <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Smart groups</string>

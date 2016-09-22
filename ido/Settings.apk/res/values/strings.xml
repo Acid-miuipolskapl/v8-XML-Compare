@@ -195,6 +195,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
   <string name="app_invisible">App Invisible</string>
+  <string name="app_lock_role_instruction">Protect your private apps</string>
   <string name="app_memory_use">Memory use</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
@@ -387,6 +388,11 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_sugg_radio">Switch to airplane mode to save power in areas with no cell coverage</string>
   <string name="battery_sugg_wifi">"Turn off WLAN when not using it or when it isn't available"</string>
   <string name="bearer">Bearer</string>
+  <string name="bind_xiaomi_account_cancel">Cancel</string>
+  <string name="bind_xiaomi_account_confirm">Add</string>
+  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
+  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="binded_xiaomi_summary">Current account: %s</string>
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
   <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
   <string name="biometric_weak_liveliness_title">Liveness check</string>
@@ -689,8 +695,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
+  <string name="checking_decryption">Checking…</string>
   <string name="checking_find_device_status">Checking Find device status…</string>
   <string name="checking_for_updates">Checking for updates…</string>
+  <string name="childmod_privacy_password_role_instruction">Turn on Child mode to prevent unwanted actions when the device is used by a child</string>
   <string name="children_mode_enable_title">Child mode</string>
   <string name="children_mode_set_apps_title">Accessible apps</string>
   <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
@@ -740,10 +748,14 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Set up input methods</string>
   <string name="confirm_action">OK</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Add</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
+  <string name="confirm_privacy_password">Enter Privacy protection password</string>
+  <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
+  <string name="confirm_privacy_password_instruction">This password protects apps, messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
@@ -807,6 +819,7 @@ Encryption takes an hour or more. You must start with a charged battery and keep
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
   <string name="crypt_keeper_failed_title">Encryption unsuccessful</string>
   <string name="crypt_keeper_final_desc">"The encryption operation is irreversible and if you interrupt it, you'll lose data. Encryption takes an hour or more, during which the phone will restart several times."</string>
+  <string name="crypt_keeper_force_power_cycle">To unlock your phone, turn it off and then on.</string>
   <string name="crypt_keeper_low_charge_text">Charge your battery and try again.</string>
   <string name="crypt_keeper_settings_title">Encryption</string>
   <string name="crypt_keeper_setup_description">Wait while your phone is being encrypted. ^1% complete.</string>
@@ -817,6 +830,9 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="cryptkeeper_return_to_call">Return to call</string>
+  <string name="cryptkeeper_wrong_password">Wrong Password</string>
+  <string name="cryptkeeper_wrong_pattern">Wrong Pattern</string>
+  <string name="cryptkeeper_wrong_pin">Wrong PIN</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Current Keyboard</string>
   <string name="current_use_ese">Using embedded secure element</string>
@@ -1247,6 +1263,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="field_info_tracking_area_label">Tracking area code:</string>
   <string name="field_info_tx_power_label">Tx Power:</string>
   <string name="field_test_info_label">Field test info</string>
+  <string name="file_privacy_password_role_instruction">Your private files will be stored here.</string>
   <string name="filter">Filter</string>
   <string name="filter_apps_all">All</string>
   <string name="filter_apps_cached">Cached</string>
@@ -1263,6 +1280,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="fingerprint_lock_first">Unlock First space</string>
   <string name="fingerprint_lock_second">Unlock Second space</string>
+  <string name="fingerprint_not_identified_msg">"Couldn't read fingerprint. Enter your password"</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
@@ -1296,6 +1314,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget">FORGET</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
+  <string name="forget_privacy_password_setting">Add Mi Account</string>
+  <string name="forget_privacy_password_summary">Use Mi Account to reset your password</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
   <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
@@ -1341,6 +1362,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
   <string name="gadget_toggle_wifi">Updating WLAN setting</string>
   <string name="gadget_wifi">WLAN</string>
+  <string name="gallery_privacy_password_role_instruction">Your private photos will be stored here.</string>
   <string name="game_controller_settings_category">Game Controller</string>
   <string name="gesture_wakeup_title">Double tap screen to wake</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -1441,6 +1463,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
+  <string name="input_password_hint_text">Enter password</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
@@ -1452,6 +1475,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
   <string name="install_unknown_applications_title">Lets you install apps from sources other than Google Play</string>
   <string name="install_whole_rom">Download ROM</string>
+  <string name="instruction_privacy_password">This password protects the following items</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1722,8 +1746,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Except when kept unlocked by %1$s</string>
   <string name="lockpattern_settings_title">Unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %d seconds and try again.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
@@ -1870,11 +1894,14 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="miui_silent_title">Silent mode</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
+  <string name="mms_privacy_password_role_instruction">Your conversations with private contacts will be stored here.</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
   <string name="mobile_insert_sim_card">Please insert SIM card and restart</string>
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
   <string name="mobile_unknown_sim_operator">Unknown SIM operator</string>
   <string name="model_number">Model number</string>
+  <string name="modify_instruction_password_settings">Set password</string>
+  <string name="modify_privacy_password">Change password</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2012,6 +2039,7 @@ Select your operating system:"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
   <string name="not_installed">Not installed</string>
+  <string name="notes_privacy_password_role_instruction">Your private notes will be stored here.</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
   <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
@@ -2423,10 +2451,29 @@ Select your operating system:"</string>
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
+  <string name="privacy_applock">App lock</string>
+  <string name="privacy_childmode">Child mode</string>
+  <string name="privacy_file">Files</string>
+  <string name="privacy_gallery">Photos</string>
+  <string name="privacy_mms">Messages</string>
   <string name="privacy_mode_dialog_message">Hide messages, notes, photos, settings, and incoming calls?</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, photos, settings, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
+  <string name="privacy_notes">Notes</string>
+  <string name="privacy_password">Privacy protection password</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
+  <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
+  <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint,try again"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Put your finger on sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
+  <string name="privacy_password_settings">Use Privacy protection password</string>
+  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
+  <string name="privacy_password_title">Privacy protection password</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Show pattern</string>
   <string name="privacy_protect_title">Privacy protection</string>
   <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Backup &amp; reset</string>
@@ -2974,6 +3021,7 @@ To use screen pinning:
   <string name="set_password_action">Set password</string>
   <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
   <string name="set_password_title">Set password</string>
+  <string name="setting_privacy_password">Set Privacy protection password</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
@@ -3152,6 +3200,7 @@ For more information, contact your administrator."</string>
 
 A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
+  <string name="starting_android">Starting Android</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
@@ -3532,6 +3581,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_nuplayer">Use NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Use NuPlayer instead of AwesomePlayer</string>
   <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_on_lockscreen_menu">Add users when device is locked</string>
@@ -4172,6 +4222,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
   <string name="yes_all_caps">YES</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_mode_alarm_info">Alarms are always priority interruptions</string>
   <string name="zen_mode_alarm_use">Sounds</string>
   <string name="zen_mode_automation_category">Automation</string>
