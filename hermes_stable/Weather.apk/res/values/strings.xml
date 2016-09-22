@@ -76,6 +76,7 @@
   <string name="empty">" "</string>
   <string name="first_start_network_msg">This app needs to connect to the internet and access your location to work normally.</string>
   <string name="first_start_network_title">Internet connection and location access</string>
+  <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">Current location</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Now</string>
