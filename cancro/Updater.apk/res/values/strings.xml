@@ -35,7 +35,7 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
   <string name="check_local_package_wipe_btn">Erase and update</string>
-  <string name="check_local_package_wipe_msg">"You're going to revert to MIUI version %s, which is older than the current version. Your personal data will be erased. Make sure to back up anything you want to keep before you start the process."</string>
+  <string name="check_local_package_wipe_msg">"You're going to revert to MIUI version %s. Your personal data will be erased. Make sure to back up anything you want to keep before you start the process."</string>
   <string name="check_local_package_wipe_title">Erase data</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
