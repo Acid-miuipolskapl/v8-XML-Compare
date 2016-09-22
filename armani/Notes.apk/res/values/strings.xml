@@ -22,16 +22,23 @@
   <string name="call_folder_name">Call notes</string>
   <string name="default_folder_name">Unnamed folder</string>
   <string name="delete_folder_dialog_tile">Delete folder</string>
+  <string name="dlg_btn_set_password">Set password</string>
   <string name="dlg_check_reminder">"Don't show again"</string>
   <string name="dlg_delete_message">Deleting…</string>
   <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
   <string name="dlg_hide_message">Hiding…</string>
   <string name="dlg_info_creating_message">Creating message…</string>
+  <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for apps, photos, and hidden folders"</string>
+  <string name="dlg_message_set_password">Privacy protection password works for apps, photos, and hidden folders</string>
+  <string name="dlg_message_use_privacy_password">Use Privacy protection password. It works for apps, photos, and hidden folders</string>
   <string name="dlg_move_message">Moving…</string>
   <string name="dlg_quick_delete_title">Quick delete</string>
   <string name="dlg_restore_message">Restoring…</string>
   <string name="dlg_stick_message">Pinning…</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
+  <string name="dlg_title_password_reset">Upgrade your password</string>
+  <string name="dlg_title_set_password">Set password</string>
+  <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
   <string name="dlg_unhide_message">Unhiding…</string>
   <string name="empty_folder_hint">"No folders
 Tap the plus to create a folder"</string>
@@ -51,6 +58,7 @@ Tap the plus to create a folder"</string>
   <string name="format_move_notes_out_folder">Moved %1$s out</string>
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
   <string name="hidden_notes_fragment_title">Hidden notes</string>
+  <string name="hint_cannot_view_hidden_note_content">"Can't view content in hidden notes"</string>
   <string name="hint_foler_name">Name</string>
   <string name="info_note_enter_desktop">Added to Home screen</string>
   <string name="loading_text">Just a sec…</string>
