@@ -148,8 +148,6 @@
   <string name="edit_phrase">Edit quick responses</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
-  <string name="enable_password_protect">Require password</string>
-  <string name="enable_visible_pattern_title">Make pattern visible</string>
   <string name="english_subject_limit">40 character limit</string>
   <string name="enter_edit_mode">Edit messages</string>
   <string name="error_code_label">"Error code: "</string>
@@ -446,6 +444,14 @@
   <string name="priority_low">Low</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">"Can't send messages in Guest mode"</string>
+  <string name="privacy_password_message1">Privacy protection password works for apps, photos, notes and hidden folders.</string>
+  <string name="privacy_password_message2">Use Privacy protection password. It works for apps, photos, notes and hidden folders.</string>
+  <string name="privacy_password_message3">"Private messaging's password will be replaced with Privacy protection password which works for apps, photos, notes and hidden folders."</string>
+  <string name="privacy_password_set_password">Set</string>
+  <string name="privacy_password_title1">Set password</string>
+  <string name="privacy_password_title2">Use Privacy protection password</string>
+  <string name="privacy_password_title3">Upgrade your password</string>
+  <string name="privacy_password_title4">Password upgraded</string>
   <string name="private_message">Private messaging</string>
   <string name="private_new_notification">Message notifications</string>
   <string name="private_protect">Passwords</string>
