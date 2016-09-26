@@ -53,6 +53,12 @@ or enter Privacy protection password"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Virus detail</string>
   <string name="activity_title_virus_settings">Settings</string>
+  <string name="adb_install_no_network">Connect to the network and try again</string>
+  <string name="adb_install_open">Allowing…</string>
+  <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
+  <string name="adb_install_reject_notiy">"Didn't allow installing %s via USB"</string>
+  <string name="adb_install_reject_notiy_desc">You can allow installing via USB in Developer options</string>
+  <string name="adb_login_xiaomi_account">Sign in to your Mi Account first</string>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming exceptions</string>
@@ -716,6 +722,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_item">Protect selected apps with App lock</string>
   <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+  <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
+  <string name="notification_sysapp_cracked_title">Security risk is detected</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
@@ -1222,6 +1230,15 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
+  <string name="sys_app_prot_cracked_confirm">Got it</string>
+  <string name="sys_app_prot_cracked_login">Sign in with Mi Account</string>
+  <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
+
+Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
+
+If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
+  <string name="sys_app_prot_cracked_title">Security risk</string>
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content_none">Safe</string>
@@ -1459,6 +1476,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
+  <string name="usb_adb_input_apply_step_1">Your computer will be able to change settings and grant permissions without you knowing when your device is connected via USB</string>
+  <string name="usb_adb_input_apply_step_2">This may lead to leaks of private information, such as accounts or messages</string>
+  <string name="usb_adb_input_apply_step_3">Make sure you understand the related risks before you allow. Allow now?</string>
   <string name="usb_install_desc">Install this app via USB?</string>
   <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
