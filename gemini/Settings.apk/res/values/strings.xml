@@ -1598,7 +1598,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
-  <string name="input_password_hint_text">Enter password</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
@@ -3944,6 +3943,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
+  <string name="usb_adb_input">USB debugging (Security settings)</string>
+  <string name="usb_adb_input_desc">Allow granting permissions and simulating input via USB debugging</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
@@ -3956,6 +3957,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="usb_host_mode_subtext">Using game controllers and other peripherals on USB port may consume more power</string>
   <string name="usb_host_mode_text">USB host mode</string>
   <string name="usb_insert_summary">Connect USB storage</string>
+  <string name="usb_install_app">Install via USB</string>
+  <string name="usb_install_app_desc">Allow installing apps via USB</string>
   <string name="usb_midi_summary">Lets MIDI enabled applications work over USB with MIDI software on your computer.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Mount USB storage</string>
@@ -4650,7 +4653,6 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
   <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
-  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>
   <string name="zen_access_warning_dialog_title">Allow access to Do Not Disturb for %1$s?</string>
