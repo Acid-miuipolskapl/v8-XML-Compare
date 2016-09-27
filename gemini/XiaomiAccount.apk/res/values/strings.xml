@@ -93,8 +93,8 @@
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_action">Delete</string>
   <string name="delete_app">Delete app</string>
-  <string name="delete_bank_card_message">To protected your property,will delete your bank card After signing out</string>
-  <string name="delete_bank_card_title">Delete your bank card</string>
+  <string name="delete_bank_card_message">Your bank card will be deleted due to security reasons after you sign out</string>
+  <string name="delete_bank_card_title">Deleting your bank card</string>
   <string name="delete_browser">Delete browser</string>
   <string name="delete_device">Delete device</string>
   <string name="delete_device_btn">Remove</string>
@@ -366,7 +366,7 @@ Make sure you remember the answers to these questions."</string>
 · If you forgot your password, go to id.mi.com to reset it.
 · If you can't unlock the device, go to i.mi.com to turn off Find device
 · Tell this unlock number to the customer service: %s"</string>
-  <string name="update_contacts">Update address book</string>
+  <string name="update_contacts">Update contacts</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
   <string name="update_email_address_dialog_title">Update Email</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
