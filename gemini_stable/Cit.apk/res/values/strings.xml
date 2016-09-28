@@ -227,6 +227,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
+  <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
+  <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
   <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
   <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
@@ -296,6 +298,16 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
   <string name="cit_tool_nfc">NFC test tools</string>
+  <string name="cit_tool_nfc_bbgain">BB gain</string>
+  <string name="cit_tool_nfc_card_mode">Card mode</string>
+  <string name="cit_tool_nfc_config_save">save</string>
+  <string name="cit_tool_nfc_cw">CW</string>
+  <string name="cit_tool_nfc_detector">Detector level</string>
+  <string name="cit_tool_nfc_fdt">FDT</string>
+  <string name="cit_tool_nfc_mod">MOD</string>
+  <string name="cit_tool_nfc_phaseoff">Phase off</string>
+  <string name="cit_tool_nfc_phaseon">Phase on</string>
+  <string name="cit_tool_nfc_rf">NFC Tune</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Run</string>
@@ -375,6 +387,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="error_sdcard_access">Unable to access system space!</string>
   <string name="keyboard">KEY</string>
   <string name="lcminfo">LCM information</string>
+  <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC＆ SPK</string>
@@ -383,6 +396,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="start">Start</string>
   <string name="testagain">You can Press key HOME to test again</string>
   <string name="testing">AutoTest Running...</string>
+  <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
   <string name="tp_color">TP Color:</string>
   <string name="tp_version">TP Version:</string>
   <string name="waiting">Waiting for 4s.</string>

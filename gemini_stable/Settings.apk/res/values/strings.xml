@@ -324,6 +324,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="available_via_passpoint">Available via %1$s</string>
   <string name="average_memory_use">Average memory use</string>
   <string name="average_used">Average used (%)</string>
+  <string name="avoid_ui">Avoid UI</string>
   <string name="awake">Device awake time</string>
   <string name="back_key">Back</string>
   <string name="background_data">Background data</string>
@@ -762,7 +763,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="children_mode_title">Child mode</string>
   <string name="choose_assist_title">Choose Assist app</string>
   <string name="choose_profile">Choose Profile</string>
-  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="choose_voice_input_title">Choose voice input</string>
   <string name="cleaner">Cleaner</string>
@@ -776,6 +776,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_failed_dlg_text">Couldn’t clear data for app.</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
+  <string name="close_gesture">Close gesture</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="color_black">Black</string>
@@ -891,8 +892,10 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Current Keyboard</string>
   <string name="current_screen_lock">Current screen lock</string>
-  <string name="current_use_ese">using MIPay, could use MI Pay and transit card</string>
-  <string name="current_use_uicc_se">using HCE wallet</string>
+  <string name="current_use_ese">Using embedded secure element</string>
+  <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and use your phone as a transport card."</string>
+  <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
+  <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -1456,6 +1459,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_enable">Turn on backups</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
+  <string name="got_it">Got it</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="handy_mode">One-handed mode</string>
   <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
@@ -1521,6 +1525,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="hide">Hide</string>
+  <string name="hide_screen_button">Hide screen button</string>
   <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
   <string name="high_performance_notif_title">Performance mode is on</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
@@ -1947,6 +1953,7 @@ There are other users present on this device.
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -2165,7 +2172,8 @@ Select your operating system:"</string>
   <string name="nfc_payment_use_default">Use default</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="nfc_se_route_title">Select Wallet</string>
+  <string name="nfc_se_route_title">Secure element position</string>
+  <string name="nfc_se_wallet_title">Default Wallet</string>
   <string name="night_mode_auto">Automatic</string>
   <string name="night_mode_no">Light</string>
   <string name="night_mode_summary">%s</string>
@@ -2192,7 +2200,6 @@ Select your operating system:"</string>
   <string name="no_updates_warning">Your system is up to date</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
-  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed for this user</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
@@ -2366,6 +2373,7 @@ Select your operating system:"</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
   <string name="path_font_settings">Settings/Display/System font</string>
+  <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One-handed mode</string>
@@ -2561,6 +2569,8 @@ Select your operating system:"</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
   <string name="pref_edge_handgrip">Edge controls</string>
   <string name="pref_operational_key">Navigation buttons</string>
+  <string name="pref_volume_launch_camera_summary">Press volume down button twice launch camera</string>
+  <string name="pref_volume_launch_camera_title">Rapid camera</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
@@ -2854,6 +2864,8 @@ This setting affects all users on this phone."</string>
   <string name="saved_network">Saved by %1$s</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
+  <string name="screen_button">Screen button</string>
+  <string name="screen_button_tips">Hidden key decline</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>
@@ -2952,8 +2964,10 @@ To use screen pinning:
   <string name="sdcard_settings_unmounted_status">It’s now safe to remove the USB storage.</string>
   <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
   <string name="sdcard_unmount">Unmount USB storage</string>
-  <string name="se_route_ese">use xiaomi wallet, could use MI Pay and transit card</string>
-  <string name="se_route_uicc">use HCE wallet</string>
+  <string name="se_route_ese">Embedded secure element</string>
+  <string name="se_route_uicc">Secure element on SIM card</string>
+  <string name="se_wallet_ese">Mi Wallet allows you to use Mi Pay and use your phone as a transport card.</string>
+  <string name="se_wallet_hce">Use HCE Wallet</string>
   <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number;Status;Legal information "</string>
   <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
@@ -3010,6 +3024,7 @@ To use screen pinning:
   <string name="search_empty">No search results</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">System font;Font;Fonts;Font sizes;Font size</string>
+  <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">Double tap screen to wake;double tap to wake;wake screen;double tap screen;double tap</string>
   <string name="search_gps">GPS;Location Access;Location services</string>
   <string name="search_handy_mode">One handed mode;One-handed mode;Onehanded mode;One hand</string>
@@ -3349,8 +3364,7 @@ Possibly incorrect PIN."</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
-  <string name="smallwindow_smartcover_title">Transparent front cover</string>
-  <string name="smartcover_sensitive_title">Smartcover mode</string>
+  <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Change SMS app?</string>
@@ -3400,8 +3414,10 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_app_enable_floating">Floating notifications</string>
   <string name="status_bar_app_enable_keyguard">Lock screen</string>
   <string name="status_bar_app_enable_message">Badges</string>
-  <string name="status_bar_key_position_custom">Custom button position</string>
+  <string name="status_bar_key_position_custom">Change button positions</string>
+  <string name="status_bar_screen_button_desc">Slide gestures to hide the screen button</string>
   <string name="status_bar_screen_button_key">Screen buttons</string>
+  <string name="status_bar_screen_button_key_can_hide">Screen buttons can hide</string>
   <string name="status_bar_screen_key_back">Back button</string>
   <string name="status_bar_screen_key_home">Home button</string>
   <string name="status_bar_screen_key_menu">Menu button</string>
@@ -3613,11 +3629,15 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="suspension_ball_enable">Switch suspension ball</string>
+  <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
   <string name="suw_back_button_label">Back</string>
   <string name="suw_more_button_label">More</string>
   <string name="suw_next_button_label">Next</string>
   <string name="switch_off_text">Off</string>
   <string name="switch_on_text">On</string>
+  <string name="switch_screen_button_order">Switch screen button order</string>
+  <string name="switch_screen_button_order_desc">After opening , down gesture to hide the screen button</string>
   <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
   <string name="sync_active">Sync active</string>
   <string name="sync_automatically">Auto-sync app data</string>

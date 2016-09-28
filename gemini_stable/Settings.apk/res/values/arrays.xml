@@ -1370,7 +1370,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
-        <item>0</item>
+        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>

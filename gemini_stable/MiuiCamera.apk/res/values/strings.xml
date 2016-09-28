@@ -8,7 +8,6 @@
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR switch button</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
-  <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
   <string name="accessibility_peak">Focus Peak button</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
@@ -21,9 +20,9 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Turn off Audio focus</string>
   <string name="burst_shoot_exit_button_text">Turn off Burst shoot</string>
-  <string name="button_fisheye_camera_title">Fisheye lens</string>
-  <string name="button_front_camera_title">Selfie</string>
-  <string name="button_normal_video_title">Video recording</string>
+  <string name="button_fisheye_camera_title">Fisheye</string>
+  <string name="button_front_camera_title">Make a selfie</string>
+  <string name="button_normal_video_title">Record video</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
   <string name="camera_label">Camera</string>
@@ -84,16 +83,11 @@ The object shouldn't be further than 2 meters."</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">Internal storage is full</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
-  <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
-  <string name="pano_dialog_title">Panorama</string>
-  <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
-  <string name="pano_review_saving_indication_str">Saving…</string>
-  <string name="pano_too_fast_prompt">Too fast</string>
   <string name="path_settings">System apps/Camera/Settings</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
@@ -227,6 +221,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
+  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -435,6 +430,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
+  <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -512,6 +508,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_fisheye">Turn off Fisheye</string>
   <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
+  <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>

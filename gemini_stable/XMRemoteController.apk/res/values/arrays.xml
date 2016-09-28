@@ -26,36 +26,36 @@
         <item>Can I use Mi 3, Mi 2, and Redmi as an IR remote?</item>
     </string-array>
     <string-array name="assistant_tab">
-        <item>Video</item>
-        <item>Screenshots</item>
-        <item>App</item>
+        <item>视频</item>
+        <item>截屏</item>
+        <item>应用</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>Complete</item>
-        <item>Collect</item>
-        <item>CCTV</item>
-        <item>TV</item>
-        <item>HD</item>
-        <item>Recent</item>
+        <item>全部</item>
+        <item>收藏</item>
+        <item>央视</item>
+        <item>卫视</item>
+        <item>高清</item>
+        <item>常看</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
-        <item>All Channels</item>
-        <item>Favorite channels</item>
-        <item>CCTV Channel</item>
-        <item>Satellite TV Channel</item>
-        <item>HD channels</item>
-        <item>Recently Watched</item>
+        <item>全部频道</item>
+        <item>收藏频道</item>
+        <item>央视频道</item>
+        <item>卫视频道</item>
+        <item>高清频道</item>
+        <item>经常观看</item>
     </string-array>
     <string-array name="epg_default_hot_channels">
-        <item>Hunan TV</item>
+        <item>湖南卫视</item>
         <item>CCTV-6</item>
-        <item>Zhejiang Satellite TV</item>
+        <item>浙江卫视</item>
         <item>CCTV-5</item>
         <item>CCTV-3</item>
-        <item>Dragon TV</item>
-        <item>Anhui TV</item>
-        <item>Beijing TV</item>
-        <item>Guangdong TV</item>
+        <item>东方卫视</item>
+        <item>安徽卫视</item>
+        <item>北京卫视</item>
+        <item>广东卫视</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>

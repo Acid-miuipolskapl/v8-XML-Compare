@@ -105,10 +105,12 @@
   <string name="stat_repeat_weekends">周末</string>
   <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">Stopwatch</string>
+  <string name="symbol_colon">:</string>
   <string name="system_time_setting">Settings</string>
   <string name="time">Time</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Tap on the screen to stop ringing</string>
+  <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
   <string name="timer_clock_alert_text">Set timer</string>
   <string name="timer_continue">Continue</string>
