@@ -55,8 +55,8 @@
   <string name="data_error">An error occurred</string>
   <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
-  <string name="didi_back">Back</string>
-  <string name="didi_close">Close</string>
+  <string name="didi_back">back</string>
+  <string name="didi_close">close</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dont_enable">Turn off</string>
   <string name="download_completed">Download saved to %s</string>
@@ -84,7 +84,7 @@
   <string name="express_address_warning_no_phone">Phone required</string>
   <string name="express_addressee_info">Addressee info</string>
   <string name="express_addressee_name">Addressee name</string>
-  <string name="express_addressee_region">"Addressee's region"</string>
+  <string name="express_addressee_region">Addressee locale</string>
   <string name="express_banner_header">%1$s / Tracking number</string>
   <string name="express_cancel_order">Cancel</string>
   <string name="express_company_list_empty">No companies</string>
@@ -183,7 +183,7 @@ Check your tracking number."</string>
   <string name="express_send_notice">Prohibited items</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
-  <string name="express_sender_region">"Sender's region"</string>
+  <string name="express_sender_region">Sender locale</string>
   <string name="express_shortcut_name">Query or send express</string>
   <string name="express_show_all_inquiry_history">Show all inquiry history</string>
   <string name="express_submit_order">Submit</string>

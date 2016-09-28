@@ -1750,7 +1750,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="local_backup_section_summary">Backup system settings, account info, and apps</string>
   <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
-  <string name="locale_settings">Region</string>
+  <string name="locale_settings">Locale</string>
   <string name="location_access_summary">Apps can get your location info</string>
   <string name="location_access_title">Location access</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1875,7 +1875,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpassword_pin_no_sequential_digits">An ascending, descending or repeated sequence of digits is forbidden</string>
   <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow PIN unlock"</string>
   <string name="lockpassword_pin_set_toast">PIN set</string>
-  <string name="lockpassword_pin_too_long">PIN can contain up to %d digits</string>
+  <string name="lockpassword_pin_too_long">PIN must be fewer than %d digits long</string>
   <string name="lockpassword_pin_too_short">PIN must be %d digits long</string>
   <string name="lockpassword_press_continue">Touch Continue when done</string>
   <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
@@ -1907,7 +1907,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpattern_settings_title">Unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %d seconds and try again.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
@@ -2678,8 +2678,8 @@ Select your operating system:"</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
-  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
-  <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint,try again"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Put your finger on sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
@@ -3916,7 +3916,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
-  <string name="upload_debug_log_summary">The information we collect may contain your personal data. It will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
   <string name="upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="usage_access">Usage access</string>
   <string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
