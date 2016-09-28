@@ -20,7 +20,7 @@
   <string name="input_method_category">"Choose the default keyboard that you'll use for writing messages, notes, and just about everything else. Note that you can install other third-party keyboards later."</string>
   <string name="input_method_setting">Choose keyboard</string>
   <string name="install_preinstall_app">Loading apps…</string>
-  <string name="locale_picker_title">Choose your locale</string>
+  <string name="locale_picker_title">Choose your region</string>
   <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
   <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
   <string name="multisim_settings_category">SIM card settings</string>
@@ -45,7 +45,7 @@
   <string name="provision_inputmethod_policy_description">"
 View the selected keyboard's Privacy Policy."</string>
   <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
-  <string name="setting_locale">Setting locale…</string>
+  <string name="setting_locale">Setting region…</string>
   <string name="shut_down">Shut down</string>
   <string name="sim_card_detecting">Checking for SIM card…</string>
   <string name="sim_card_detecting_title">Check for SIM card</string>
