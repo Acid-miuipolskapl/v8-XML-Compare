@@ -126,7 +126,7 @@
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Waiting for network</string>
   <string name="wait_sdcard">Waiting for SD card…</string>
-  <string name="wait_wifi">Waiting for Wi-Fi</string>
+  <string name="wait_wifi">Waiting for WLAN</string>
   <string name="waiting">Waiting</string>
   <string name="wangpan_root_path">My drive</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>

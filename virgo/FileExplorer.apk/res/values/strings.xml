@@ -100,7 +100,7 @@
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">"Don't show again"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">This app needs to connect to the internet using Wi-Fi to work normally.</string>
+  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
   <string name="data_consumption_message1">Device should be connected to the internet to view popular stickers and videos.</string>
   <string name="data_consumption_title">Internet connection</string>
   <string name="decompress_cancel">Cancel</string>
@@ -328,7 +328,7 @@
   <string name="oauth_failed_tip">"Couldn't complete authorization"</string>
   <string name="one_account_bind_needed">Add at least one account</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
-  <string name="only_wifi">Download when connected to Wi-Fi</string>
+  <string name="only_wifi">Download when connected to WLAN</string>
   <string name="open_app">Open</string>
   <string name="open_private_folder">Release to view hidden folders</string>
   <string name="operation_add_fav">Adding to favorites…</string>
@@ -657,7 +657,7 @@
   <string name="wechat_video">Video at %s</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
   <string name="weixin_sticker_tag_str">Stickers</string>
-  <string name="wifi_state">Wi-Fi network</string>
+  <string name="wifi_state">WLAN network</string>
   <string name="wx_title1">"Here's a cool video!"</string>
   <string name="wx_title2">I shared a video, take a look!</string>
   <string name="wx_title3">Watch viral videos from around the world!</string>

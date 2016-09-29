@@ -385,9 +385,9 @@
   <string name="wf_word_figure">Financial characters</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">万</string>
-  <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_big_unit_zhao">兆</string>
+  <string name="word_figure_big_unit_wan">万 </string>
+  <string name="word_figure_big_unit_yi">亿 </string>
+  <string name="word_figure_big_unit_zhao">兆 </string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
