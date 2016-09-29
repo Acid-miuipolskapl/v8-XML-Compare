@@ -340,11 +340,6 @@
         <item>Go ahead and start without me.</item>
         <item>"Sorry, I can't make it. We'll have to reschedule."</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Always</item>
-        <item>Only when ringer is silenced</item>
-        <item>Never</item>
-    </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
         <item>silent</item>
@@ -494,5 +489,10 @@
         <item>Never</item>
         <item>Time</item>
         <item>Count</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Always</item>
+        <item>Only when ringer is silenced</item>
+        <item>Never</item>
     </string-array>
 </resources>
