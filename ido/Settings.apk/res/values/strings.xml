@@ -7,6 +7,7 @@ Advertising identifier is a permanent ID unique to your device. Vendors use it t
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App Lock</string>
+  <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
   <string name="ac_set_apps_title">Choose apps to lock</string>
@@ -191,6 +192,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
   <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
   <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
+  <string name="app_forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
@@ -695,7 +697,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
-  <string name="checking_decryption">Checking…</string>
   <string name="checking_find_device_status">Checking Find device status…</string>
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="childmod_privacy_password_role_instruction">Turn on Child mode to prevent unwanted actions when the device is used by a child</string>
@@ -819,7 +820,6 @@ Encryption takes an hour or more. You must start with a charged battery and keep
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
   <string name="crypt_keeper_failed_title">Encryption unsuccessful</string>
   <string name="crypt_keeper_final_desc">"The encryption operation is irreversible and if you interrupt it, you'll lose data. Encryption takes an hour or more, during which the phone will restart several times."</string>
-  <string name="crypt_keeper_force_power_cycle">To unlock your phone, turn it off and then on.</string>
   <string name="crypt_keeper_low_charge_text">Charge your battery and try again.</string>
   <string name="crypt_keeper_settings_title">Encryption</string>
   <string name="crypt_keeper_setup_description">Wait while your phone is being encrypted. ^1% complete.</string>
@@ -830,9 +830,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="cryptkeeper_return_to_call">Return to call</string>
-  <string name="cryptkeeper_wrong_password">Wrong Password</string>
-  <string name="cryptkeeper_wrong_pattern">Wrong Pattern</string>
-  <string name="cryptkeeper_wrong_pin">Wrong PIN</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Current Keyboard</string>
   <string name="current_use_ese">Using embedded secure element</string>
@@ -1463,7 +1460,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
-  <string name="input_password_hint_text">Enter password</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
@@ -1595,7 +1591,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_section_summary">Backup system settings, account info, and apps</string>
   <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
-  <string name="locale_settings">Locale</string>
+  <string name="locale_settings">Region</string>
   <string name="location_access_summary">Apps can get your location info</string>
   <string name="location_access_title">Location access</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1712,7 +1708,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpassword_pin_no_sequential_digits">An ascending, descending or repeated sequence of digits is forbidden</string>
   <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow PIN unlock"</string>
   <string name="lockpassword_pin_set_toast">PIN set</string>
-  <string name="lockpassword_pin_too_long">PIN must be fewer than %d digits long</string>
+  <string name="lockpassword_pin_too_long">PIN can contain up to %d digits</string>
   <string name="lockpassword_pin_too_short">PIN must be %d digits long</string>
   <string name="lockpassword_press_continue">Touch Continue when done</string>
   <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
@@ -1747,7 +1743,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_settings_title">Unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %d seconds and try again.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
@@ -2092,6 +2088,8 @@ Select your operating system:"</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Owner info</string>
   <string name="packages_subtitle">Included packages</string>
+  <string name="pad_applock">App lock</string>
+  <string name="pad_bind_xiaomi_account_success">Mi Account added successfully</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
   <string name="page_layout_11">Weather</string>
@@ -2147,6 +2145,11 @@ Select your operating system:"</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_entrance_title">Screen lock</string>
   <string name="password_guard">Password</string>
+  <string name="password_promotion_button_text">Add Mi Account</string>
+  <string name="password_promotion_message">Add your Mi Account (%s) to be able to reset your password in case you forget it.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Add your Mi Account to be able to reset your password in case you forget it.</string>
+  <string name="password_promotion_postbutton_text">Add</string>
+  <string name="password_promotion_title">Add Mi Account</string>
   <string name="path_about_about_settings">Settings/About phone</string>
   <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
   <string name="path_access_control_settings">Settings/Additional settings/Privacy/Privacy settings</string>
@@ -2466,8 +2469,8 @@ Select your operating system:"</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
-  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint,try again"</string>
-  <string name="privacy_password_fingerprint_dialog_message">Put your finger on sensor</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
@@ -3200,7 +3203,6 @@ For more information, contact your administrator."</string>
 
 A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
-  <string name="starting_android">Starting Android</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
@@ -3509,7 +3511,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
-  <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="upload_debug_log_summary">The information we collect may contain your personal data. It will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
   <string name="upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="usage_access_title">Apps with usage access</string>
   <string name="usage_log">App usage statistics</string>
@@ -3534,6 +3536,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
+  <string name="usb_adb_input">USB debugging (Security settings)</string>
+  <string name="usb_adb_input_desc">Allow granting permissions and simulating input via USB debugging</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
@@ -3546,6 +3550,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usb_host_mode_subtext">Using game controllers and other peripherals on USB port may consume more power</string>
   <string name="usb_host_mode_text">USB host mode</string>
   <string name="usb_insert_summary">Insert an USB storage for mounting</string>
+  <string name="usb_install_app">Install via USB</string>
+  <string name="usb_install_app_desc">Allow installing apps via USB</string>
   <string name="usb_label_installer_cd">Install file-transfer tools</string>
   <string name="usb_media_format_button_text">Erase USB storage</string>
   <string name="usb_media_format_desc">Erase the USB storage? You will lose &lt;b&gt;all&lt;/b&gt; data on the storage!</string>
@@ -4222,7 +4228,6 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
   <string name="yes_all_caps">YES</string>
-  <string name="you_wont_see_this">:)</string>
   <string name="zen_mode_alarm_info">Alarms are always priority interruptions</string>
   <string name="zen_mode_alarm_use">Sounds</string>
   <string name="zen_mode_automation_category">Automation</string>
