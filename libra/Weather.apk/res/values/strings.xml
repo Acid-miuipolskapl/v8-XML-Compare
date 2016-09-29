@@ -56,7 +56,7 @@
   <string name="button_sure_abandon">Discard changes?</string>
   <string name="close">Close</string>
   <string name="commercial">Commercial</string>
-  <string name="common_loading_text">loading...</string>
+  <string name="common_loading_text">Just a sec…</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
   <string name="daily_forcast_drawer_on_top">%1$s day forecast</string>
   <string name="daily_forcast_no_stable_direction">No wind</string>
