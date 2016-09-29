@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state">
+        <item>@string/st_antispam_mode_smart_state</item>
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state_international">
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0003">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0004">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0005">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0006">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0007">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0008">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0009">false</item>
+</resources>
