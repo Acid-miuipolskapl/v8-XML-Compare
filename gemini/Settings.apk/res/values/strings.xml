@@ -3425,6 +3425,13 @@ Possibly incorrect PIN."</string>
   <string name="simulate_color_space">Simulate color space</string>
   <string name="single_key_use">Single button</string>
   <string name="single_key_use_summary">Use Home button for functions performed by the other 2 buttons</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
