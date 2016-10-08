@@ -2186,7 +2186,9 @@ Select your operating system:"</string>
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
   <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_receiving_failed">Data received failed</string>
   <string name="notif_trans_sending_completed">Data sent successfully</string>
+  <string name="notif_trans_sending_failed">Data sent failed</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
   <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
@@ -3356,6 +3358,9 @@ Attempts Remaining :"</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
