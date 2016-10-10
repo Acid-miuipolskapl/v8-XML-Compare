@@ -444,9 +444,9 @@
   <string name="priority_low">Low</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">"Can't send messages in Guest mode"</string>
-  <string name="privacy_password_message1">Privacy protection password works for apps, photos, notes, and hidden folders.</string>
-  <string name="privacy_password_message2">Use Privacy protection password. It works for apps, photos, notes and hidden folders.</string>
-  <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for apps, photos, notes, and hidden folders.</string>
+  <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
+  <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
+  <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
   <string name="privacy_password_set_password">Set</string>
   <string name="privacy_password_title1">Set password</string>
   <string name="privacy_password_title2">Use Privacy protection password</string>
