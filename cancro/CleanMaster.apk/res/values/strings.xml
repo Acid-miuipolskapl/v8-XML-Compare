@@ -459,7 +459,7 @@
   <string name="summary_delete_apk">Delete selected APKs permanently?</string>
   <string name="summary_delete_cache">Clear cache of the selected apps?</string>
   <string name="summary_delete_large_file">Delete selected files permanently?</string>
-  <string name="summary_delete_video">&gt;Delete selected videos permanently?</string>
+  <string name="summary_delete_video">Delete selected videos permanently?</string>
   <string name="summary_optimizer">"This feature uploads folder names to update Cheetah Mobile's online database and requires your device's ID."</string>
   <string name="sys_cache_on_sdcard_item_name">缓存</string>
   <string name="terabyteShort">TB</string>

@@ -224,7 +224,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_link_open_never">Don’t open in this app</string>
   <string name="app_list_memory_use">App usage</string>
   <string name="app_list_preference_none">None</string>
-  <string name="app_lock_role_instruction">Protect your private apps</string>
   <string name="app_memory_use">Memory use</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">The app wasn’t found in the list of installed apps.</string>
@@ -826,7 +825,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_privacy_password">Enter Privacy protection password</string>
   <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
-  <string name="confirm_privacy_password_instruction">This password protects apps, messages, photos, and contacts.</string>
+  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
@@ -850,7 +849,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="credentials_install_summary">Install certificates from storage</string>
   <string name="credentials_not_erased">Credential storage couldn’t be erased.</string>
   <string name="credentials_old_password">Current password:</string>
-  <string name="credentials_password_too_short">8 character minimum</string>
+  <string name="credentials_password_too_short">8 characters minimum</string>
   <string name="credentials_reset">Clear credentials</string>
   <string name="credentials_reset_hint">Remove all the contents?</string>
   <string name="credentials_reset_summary">Remove all certificates</string>
@@ -2682,7 +2681,7 @@ Select your operating system:"</string>
   <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
-  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
+  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Show pattern</string>
