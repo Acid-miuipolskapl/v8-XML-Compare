@@ -759,6 +759,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_operators_diagnose">Carrier diagnostics</string>
   <string name="optimize_result_button_purchase">Buy</string>
   <string name="optimize_result_button_purchase_flow">View all</string>
+  <string name="optimize_result_button_realname_now">Verify</string>
   <string name="optimize_result_button_see_detaills">Details</string>
   <string name="optimize_result_button_to_open">Turn on</string>
   <string name="optimize_result_button_to_set">Set</string>
@@ -1173,6 +1174,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_back_title_text_zero">Secure</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
   <string name="sp_monitored_apps_list_title">Monitoring settings</string>
+  <string name="sp_network_privacy_dialog_message">"Security app can't check payments because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+  <string name="sp_network_privacy_dialog_title">"Can't check payments"</string>
   <string name="sp_safe_score_text">Payment is secure</string>
   <string name="sp_scan_item_monitor">Monitor payments</string>
   <string name="sp_scan_item_url_antispam">Protection from malicious URLs</string>
@@ -1223,6 +1226,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_permission">Avoid unwanted payments and protect personal data</string>
   <string name="summary_permission_root">Looks like this device has root access. It may damage the security of your device.</string>
   <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
+  <string name="summary_realname_verify">Verify your identity to make payments more secure.</string>
   <string name="summary_show_notification">Clear cache, view battery status, and block items in Notification shade</string>
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
   <string name="summary_usb">Prevent malware from being transmitted via USB</string>
@@ -1366,6 +1370,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_permission_root">Root access</string>
   <string name="title_permission_yes">Permission manager on</string>
   <string name="title_power_optimizer">Battery saver</string>
+  <string name="title_realname_verify">ID verification</string>
   <string name="title_show_notification">Notification shade widget</string>
   <string name="title_telecom_operator">Auto adjust</string>
   <string name="title_usb_no">USB debugging on</string>
