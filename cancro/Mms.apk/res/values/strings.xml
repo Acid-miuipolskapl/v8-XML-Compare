@@ -388,7 +388,7 @@
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
-  <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+  <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
