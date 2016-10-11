@@ -33,12 +33,11 @@
   <string name="other_settings_location">Location</string>
   <string name="other_settings_location_summary">Allow apps to access your location</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
-  <string name="other_settings_mifg_online_content_summary">Connect to internet to get new wallpapers for your lock screen regularly.</string>
-  <string name="other_settings_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="other_settings_mifg_online_content_summary">Get new wallpapers delivered to your Lock screen regularly.</string>
+  <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
   <string name="other_settings_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="other_settings_user_experience">User Experience Program</string>
-  <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data (%s)</string>
-  <string name="other_settings_user_experience_summary1">view Privacy Policy</string>
+  <string name="other_settings_user_experience_summary">Help improve our products and services by sending anonymous usage data.</string>
   <string name="pref_title_data_slot">Preferred data SIM card</string>
   <string name="pref_title_voice_slot">Preferred voice SIM card</string>
   <string name="privacy_policy">Privacy Policy</string>
