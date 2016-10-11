@@ -298,6 +298,9 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
   <string name="cit_tool_nfc">NFC test tools</string>
+  <string name="cit_tool_nfc_ce_disable">Disable Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Enable Ce</string>
+  <string name="cit_tool_nfc_ce_status">Ce Status:</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Run</string>
