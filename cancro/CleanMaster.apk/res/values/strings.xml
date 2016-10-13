@@ -515,6 +515,7 @@
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">Clear</string>
   <string name="traffic_top">TOP 5 data consuming apps</string>
+  <string name="unlike">No thanks</string>
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
   <string name="vungle_ad_name">Vungle广告</string>
