@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">"Couldn't download audio"</string>
+  <string name="audio_message_expired">This voice message has expired.</string>
+  <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
   <string name="batch_delete_confirm_dialog_message">Delete %1$s messages?</string>
@@ -388,7 +391,7 @@
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
-  <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+  <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
