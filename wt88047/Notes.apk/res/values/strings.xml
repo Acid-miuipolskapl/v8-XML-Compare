@@ -8,11 +8,9 @@
   <string name="alert_message_delete">Delete %1$s?</string>
   <string name="alert_message_delete_note">Delete this note?</string>
   <string name="alert_message_edit_anyway">If you edit this note, some of its contents may be lost.</string>
-  <string name="alert_message_restore">"Could't open this note. Restore it to edit its content."</string>
   <string name="alert_title_delete">Delete note?</string>
   <string name="alert_title_edit_anyway">This note contains unsupported contents</string>
   <string name="alert_title_hidden_note">Received a hidden note reminder</string>
-  <string name="alert_title_restore">Restore note</string>
   <string name="all_folder_name">All notes</string>
   <string name="all_terms">%1$s and %2$s</string>
   <string name="app_name">Notes</string>
@@ -30,9 +28,9 @@
   <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
   <string name="dlg_hide_message">Hiding…</string>
   <string name="dlg_info_creating_message">Creating message…</string>
-  <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for messages, photos, and hidden folders"</string>
-  <string name="dlg_message_set_password">Privacy protection password works for messages, photos, and hidden folders</string>
-  <string name="dlg_message_use_privacy_password">Use Privacy protection password. It works for messages, photos, and hidden folders</string>
+  <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for apps, photos, and hidden folders"</string>
+  <string name="dlg_message_set_password">Privacy protection password works for apps, photos, and hidden folders</string>
+  <string name="dlg_message_use_privacy_password">Use Privacy protection password. It works for apps, photos, and hidden folders</string>
   <string name="dlg_move_message">Moving…</string>
   <string name="dlg_quick_delete_title">Quick delete</string>
   <string name="dlg_restore_message">Restoring…</string>
@@ -106,7 +104,6 @@ Tap the plus to create a folder"</string>
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Style</string>
   <string name="pref_title_recover_help">Recover notes</string>
-  <string name="pref_title_show_root_folder_in_homepage">Show quick notes in homepage</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">An error occurred, go to i.mi.com to restore notes.</string>
   <string name="redo">Redo</string>
