@@ -6,7 +6,6 @@ Advertising identifier is a permanent ID unique to your device. Vendors use it t
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App Lock</string>
-  <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
   <string name="ac_set_apps_title">Choose apps to lock</string>
@@ -170,12 +169,10 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
   <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
   <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
-  <string name="app_forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
   <string name="app_invisible">Invisible apps</string>
-  <string name="app_lock_role_instruction">Protect your private apps</string>
   <string name="app_memory_use">Memory use</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
@@ -663,7 +660,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_privacy_password">Enter Privacy protection password</string>
   <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
-  <string name="confirm_privacy_password_instruction">This password protects apps, messages, photos, and contacts.</string>
+  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
@@ -686,7 +683,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="credentials_install_summary">Install certificates from SD card</string>
   <string name="credentials_not_erased">"Credential storage couldn't be erased."</string>
   <string name="credentials_old_password">Current password:</string>
-  <string name="credentials_password_too_short">8 character minimum</string>
+  <string name="credentials_password_too_short">8 characters minimum</string>
   <string name="credentials_reset">Clear credentials</string>
   <string name="credentials_reset_hint">Remove all the contents?</string>
   <string name="credentials_reset_summary">Remove all certificates</string>
@@ -1770,8 +1767,6 @@ Select your operating system:"</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Owner info</string>
   <string name="packages_subtitle">Included packages</string>
-  <string name="pad_applock">App lock</string>
-  <string name="pad_bind_xiaomi_account_success">Mi Account added successfully</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
   <string name="page_layout_11">Weather</string>
@@ -1827,11 +1822,6 @@ Select your operating system:"</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_entrance_title">Screen lock</string>
   <string name="password_guard">Password</string>
-  <string name="password_promotion_button_text">Add Mi Account</string>
-  <string name="password_promotion_message">Add your Mi Account (%s) to be able to reset your password in case you forget it.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Add your Mi Account to be able to reset your password in case you forget it.</string>
-  <string name="password_promotion_postbutton_text">Add</string>
-  <string name="password_promotion_title">Add Mi Account</string>
   <string name="path_about_about_settings">Settings/About phone</string>
   <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
   <string name="path_access_control_settings">Settings/Additional settings/Privacy/Privacy settings</string>
@@ -2139,7 +2129,7 @@ Select your operating system:"</string>
   <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
-  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
+  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Show pattern</string>
@@ -2723,6 +2713,13 @@ Possibly incorrect PIN."</string>
   <string name="sim_radio_off">Off</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_status_title">SIM status</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
