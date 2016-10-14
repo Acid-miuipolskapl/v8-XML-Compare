@@ -38,6 +38,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="device_settings_category_title">Clear shortcuts</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">Opening search</string>
   <string name="google_app_label">Google Search</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -52,7 +53,6 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
-  <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
   <string name="recent_apps">Recent apps</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
@@ -78,6 +78,8 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="settings_description">Names of installed apps</string>
   <string name="show_more">Show more</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
+  <string name="swipe_up_summary">Swipe up to open global search</string>
+  <string name="swipe_up_title">Swipe up</string>
   <string name="system_search_category_title">Phone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
