@@ -156,6 +156,12 @@ or enter App lock password"</string>
   <string name="auto_task_manager_group_title">My automated tasks</string>
   <string name="auto_task_notify_do_task_title">Automated task started</string>
   <string name="auto_task_notify_exit_task_title">Automated task ended</string>
+  <string name="auto_task_notify_task_cancel_count_down">Automated action will be canceled in 5 seconds</string>
+  <string name="auto_task_notify_task_cancel_do">Cancel action</string>
+  <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
+  <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
+  <string name="auto_task_notify_task_continue_do">Start action</string>
+  <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
   <string name="auto_task_operation_airplane_mode">Airplane mode</string>
   <string name="auto_task_operation_auto_brightness">Auto brightness</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
