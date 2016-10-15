@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="callrecordview_menu_show_values">
-        <item>@string/callrecordview_menu_show_all</item>
-        <item>@string/callrecordview_menu_show_missed</item>
-        <item>@string/callrecordview_menu_show_called</item>
-        <item>@string/callrecordview_menu_show_accepted</item>
-        <item>@string/callrecordview_menu_show_stranger</item>
-        <item>@string/callrecordview_menu_show_new</item>
-    </string-array>
-    <string-array name="preference_dial_pad_touch_tone_entries">
-        <item>@string/preference_dial_pad_touch_tone_default</item>
-        <item>@string/preference_dial_pad_touch_tone_piano</item>
-    </string-array>
-    <string-array name="preference_dial_pad_touch_tone_entry_values">
-        <item>-1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="auto_answer_phone_operator_bluetooth_select">
-        <item>@string/my_phone_provider_bluetooth</item>
-        <item>@string/my_phone_not_provider_bluetooth</item>
-    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
     <string-array name="otherLabels">
         <item>Organization</item>
         <item>Note</item>

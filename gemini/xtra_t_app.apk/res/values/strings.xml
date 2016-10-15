@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="IZAT_AGREE">Agree</string>
+  <string name="IZAT_DISAGREE">Disagree</string>
+  <string name="IZat_MENU_TEXT">Accelerated Location</string>
+  <string name="IZat_SUB_TITLE_TEXT">Use Qualcomm® IZat™ hardware accelerated location</string>
+  <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;Terms and Privacy Policy&lt;/a&gt;</string>
+  <string name="POPUP_BOX_TEXT">To enable hardware acceleration, allow IZat to collect location data. IZat stores some data on your device and may operate even when no apps are running.</string>
+  <string name="POPUP_BOX_TITLE">Location consent</string>
+  <string name="XT_APP_TITLE">Qualcomm IZat</string>
+  <string name="setup_wizard_back_button_label">Back</string>
+  <string name="setup_wizard_next_button_label">Next</string>
+  <string name="suw_back_button_label">Back</string>
+  <string name="suw_more_button_label">More</string>
+  <string name="suw_next_button_label">Next</string>
+</resources>

@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_35">false</string>
+  <string name="APKTOOL_DUMMY_36">false</string>
+  <string name="APKTOOL_DUMMY_37">false</string>
+  <string name="APKTOOL_DUMMY_38">false</string>
+  <string name="APKTOOL_DUMMY_39">false</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Altitude</string>
