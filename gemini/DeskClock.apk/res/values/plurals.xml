@@ -1,52 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="alarm_alert_snooze_duration">
-        <item quantity="other">%d min</item>
-        <item quantity="one">1 min</item>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d hours "</item>
+        <item quantity="one">"%1$d hour "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minutes "</item>
+        <item quantity="one">"%1$d minute "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">%1$d second</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Snooze for %d mins</item>
+        <item quantity="one">Snooze for %d min</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Snoozing for %d minutes.</item>
-        <item quantity="one">Snoozing for 1 minute.</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%s days</item>
-        <item quantity="one">1 day</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%s hours</item>
-        <item quantity="one">1 hour</item>
-    </plurals>
-    <plurals name="minutes">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">1 minute</item>
-    </plurals>
-    <plurals name="snooze_duration">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">1 minute</item>
-    </plurals>
-    <plurals name="snooze_picker_label">
-        <item quantity="other">minutes</item>
-        <item quantity="one">minute</item>
+        <item quantity="one">Snoozing for %d minute.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">Alarms will silence after %d minutes</item>
+        <item quantity="one">Alarms will silence after %d minute</item>
     </plurals>
-    <plurals name="Nhours_description">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">1 hour</item>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Delete the selected alarms?</item>
+        <item quantity="one">Delete this alarm?</item>
     </plurals>
-    <plurals name="Nminutes_description">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">1 minute</item>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Delete the selected timezone?</item>
+        <item quantity="one">Delete this timezone?</item>
     </plurals>
-    <plurals name="Nseconds_description">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">1 second</item>
-    </plurals>
-    <plurals name="alarm_delete_confirmation">
-        <item quantity="other">Delete selected alarms?</item>
-        <item quantity="one">Delete selected alarm?</item>
-    </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_c">false</item>
 </resources>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1b">false</string>
-  <string name="APKTOOL_DUMMY_1c">false</string>
   <string name="alphabet">Alphabets</string>
   <string name="app_name">SIM Toolkit</string>
   <string name="button_cancel">Cancel</string>
@@ -23,6 +21,9 @@
   <string name="menu_end_session">End session</string>
   <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
   <string name="service_name">Service name</string>
+  <string name="sim_type_sim_name">SIM Toolkit</string>
+  <string name="sim_type_uim_name">UIM Toolkit</string>
+  <string name="sim_type_usim_name">USIM Toolkit</string>
   <string name="stk_app_state">Application state</string>
   <string name="stk_dialog_accept">YES</string>
   <string name="stk_dialog_reject">NO</string>
