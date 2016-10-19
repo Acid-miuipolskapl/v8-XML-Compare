@@ -177,6 +177,7 @@ If you re-enable data, you may be charged by the operator."</string>
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>

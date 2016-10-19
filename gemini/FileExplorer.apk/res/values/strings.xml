@@ -259,7 +259,6 @@
   <string name="menu_item_sort_by_added_time">Added</string>
   <string name="menu_item_sort_date">Date modified</string>
   <string name="menu_item_sort_name">Name</string>
-  <string name="menu_item_sort_size">Size</string>
   <string name="menu_item_sort_type">Type</string>
   <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Comment: "</string>
@@ -509,6 +508,8 @@
   <string name="shared_sticker_use_tip_title">How to use stickers</string>
   <string name="shared_str">Shared by %s</string>
   <string name="smb_loading">Just a sec…</string>
+  <string name="sort_size_asc">Smaller to bigger</string>
+  <string name="sort_size_desc">Bigger to smaller</string>
   <string name="start_server">Start server</string>
   <string name="stay_awake_summary">"Don't let display sleep while using FTP"</string>
   <string name="stay_awake_title">Keep display awake</string>
