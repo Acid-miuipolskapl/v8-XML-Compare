@@ -3167,6 +3167,8 @@ To use screen pinning:
   <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
   <string name="security_encryption_diaglog_continue">Next</string>
   <string name="security_encryption_is_used">On</string>
+  <string name="security_encryption_progress_dialog_close">Decrypting…</string>
+  <string name="security_encryption_progress_dialog_open">Encrypting…</string>
   <string name="security_encryption_title">Encrypt device using lock screen password</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
