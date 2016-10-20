@@ -2645,7 +2645,7 @@ Select your operating system:"</string>
   <string name="preferred_network_type_title">Preferred network type</string>
   <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
   <string name="preferred_sms_title">Default messaging app</string>
-  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase mobile data usage or put your personal data at risk.</string>
+  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase mobile data usage or put your personal data at risk, and can not use RCS.</string>
   <string name="preferred_sms_warning_use_system">"Don't use"</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">Cancel</string>
