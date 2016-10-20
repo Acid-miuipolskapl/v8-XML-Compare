@@ -126,6 +126,7 @@ If you re-enable data, you may be charged by the operator."</string>
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
@@ -146,6 +147,10 @@ Use only the supplied charger."</string>
   <string name="media_projection_remember_text">"Don't show again"</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mount_storage">Yes</string>
+  <string name="nav_guide_cancel">Ignore</string>
+  <string name="nav_guide_message">You can use gestures to hide/show screen button after setting.</string>
+  <string name="nav_guide_ok">Settings</string>
+  <string name="nav_guide_title">Hide screen buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>
