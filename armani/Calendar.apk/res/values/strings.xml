@@ -505,6 +505,7 @@
   <string name="weekly">Weekly (every %s)</string>
   <string name="when_label">When</string>
   <string name="widget_events">Next event</string>
+  <string name="widget_get_weather_info">Get weather info &gt;</string>
   <string name="widget_no_events">No events</string>
   <string name="widget_select_style">Choose a style</string>
   <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
