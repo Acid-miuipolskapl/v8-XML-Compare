@@ -385,6 +385,14 @@
         <item>0</item>
         <item>1</item>
     </string-array>
+    <string-array name="call_background_entries">
+        <item>@string/call_background_default</item>
+        <item>@string/call_background_lock_wallpaper</item>
+    </string-array>
+    <string-array name="call_background_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="missed_call_notify_times_entries">
         <item>@string/missed_call_notify_none</item>
         <item>@string/missed_call_notify_once</item>

@@ -23,6 +23,7 @@
   <string name="action_settings">Settings</string>
   <string name="ad_close">Close</string>
   <string name="ad_extension">Promotion</string>
+  <string name="ad_mark">AD</string>
   <string name="add_music">Add songs</string>
   <string name="add_to_last_of_playlist">Add to the end of playlist</string>
   <string name="alaka_required">"This song isn't available."</string>
@@ -109,7 +110,8 @@
   <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Renew</string>
-  <string name="cp_info_first">Online music streaming service is mainly provided by Ultimate Inc.</string>
+  <string name="cp_info_first">"Online music streaming service
+is mainly provided by Ultimate Inc."</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"Couldn't create order, try again."</string>
   <string name="create_playlist">Create playlist</string>
@@ -200,6 +202,7 @@
   <string name="download_done_btn">Downloaded</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Not enough space</string>
+  <string name="download_fail_to_fetch_info">"Couldn't download, try again"</string>
   <string name="download_filesize_unknown">Unknown</string>
   <string name="download_in_process">DOWNLOADING</string>
   <string name="download_info_count_deleted_tasks">%s downloads removed</string>
@@ -276,7 +279,7 @@
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Create</string>
   <string name="eq_preset_format">User preset %d</string>
-  <string name="eq_preset_hint">Preset name</string>
+  <string name="eq_preset_hint">Effect name</string>
   <string name="eq_preset_rename">Rename</string>
   <string name="eq_preset_select">Choose a preset</string>
   <string name="eq_rock">Rock</string>
@@ -363,6 +366,7 @@
   <string name="list_item_play_FM_radio">Touch to play FM radio</string>
   <string name="list_item_play_all_tracks">Play all</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">Just a sec…</string>
   <string name="loading_hint">Just a sec…</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Local playlist is empty</string>
@@ -426,6 +430,7 @@
   <string name="monthly_price">Mi Credits</string>
   <string name="more">More</string>
   <string name="more_about_artist">More about %s</string>
+  <string name="more_add_song_list">Add to playlist</string>
   <string name="more_online_artist">More</string>
   <string name="more_online_billboard">More</string>
   <string name="more_online_fm">More</string>
@@ -435,6 +440,7 @@
   <string name="more_online_suggest">More</string>
   <string name="more_settings">Advanced settings</string>
   <string name="more_settings_summary">Download settings, sleep timer, mobile data management, filters for files, etc.</string>
+  <string name="more_share">Share</string>
   <string name="multichoice">Select</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
@@ -455,6 +461,7 @@
   <string name="nav_online_billboard">Charts</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Playlists</string>
+  <string name="network_error_and_retry">"Couldn't connect, tap to try again"</string>
   <string name="network_failure">Check your connection and try again.</string>
   <string name="network_request_error">"Can't connect to the network"</string>
   <string name="network_settings_error">"Can't connect to the network"</string>
@@ -512,7 +519,7 @@
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
-  <string name="online_recommend">Recommended</string>
+  <string name="online_recommend">Playlist</string>
   <string name="online_special">Special</string>
   <string name="open_download">Open</string>
   <string name="order_pending">Awaiting confirmation</string>
@@ -665,6 +672,7 @@
   <string name="share_chooser_title">Share using</string>
   <string name="share_description">From Mi Music</string>
   <string name="share_end_note">From Mi Music</string>
+  <string name="share_image_error">"Couldn't share image due to a download error"</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
   <string name="show_more">Show %s more</string>
@@ -715,6 +723,19 @@
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
+  <string name="talkback_back">Go back</string>
+  <string name="talkback_device">Play on other devices</string>
+  <string name="talkback_download">Download</string>
+  <string name="talkback_favorite">Like this song</string>
+  <string name="talkback_mode">Loop playlist</string>
+  <string name="talkback_more">More menus</string>
+  <string name="talkback_next">Next song</string>
+  <string name="talkback_play">Play / Pause</string>
+  <string name="talkback_pre">Previous song</string>
+  <string name="talkback_progress">Progress bar</string>
+  <string name="talkback_radar">Music recognition</string>
+  <string name="talkback_search">Search</string>
+  <string name="talkback_share">Share</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
   <string name="ticket_title">Show tickets</string>
@@ -732,6 +753,7 @@
   <string name="toast_cancel_download">Download canceled</string>
   <string name="toast_cancel_play">Play canceled</string>
   <string name="toast_download_error_by_count_limit">You have used up your download quota for this month.</string>
+  <string name="toast_download_error_by_not_login">Sign in to Mi Account and try again.</string>
   <string name="toast_download_error_by_vip_required">Get Premium Song Pack to download this song.</string>
   <string name="toast_download_in_process">Download in process</string>
   <string name="toast_normal_songs_for_download">Downloading quality set to Standard</string>

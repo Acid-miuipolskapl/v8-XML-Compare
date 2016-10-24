@@ -9,8 +9,8 @@
   <string name="Settings_title_power_center">Battery settings</string>
   <string name="ac_enable_title">Turn on App lock</string>
   <string name="ac_enter_applock">Enter App lock</string>
-  <string name="ac_firstUseApplock_subTitle">Use App lock to protect your privacy</string>
-  <string name="ac_firstUseApplock_title">Require password to open selected apps</string>
+  <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
+  <string name="ac_firstUseApplock_title">Set a password to protect your apps</string>
   <string name="ac_summaryOff">Turned off, no password is required to open apps</string>
   <string name="ac_summaryOn">Turned on, password is required to open apps</string>
   <string name="access_control_need_password">"%s added successfully
@@ -53,6 +53,12 @@ or enter App lock password"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Virus detail</string>
   <string name="activity_title_virus_settings">Settings</string>
+  <string name="adb_install_no_network">Connect to the network and try again</string>
+  <string name="adb_install_open">Allowing…</string>
+  <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
+  <string name="adb_install_reject_notiy">"Didn't allow installing %s via USB"</string>
+  <string name="adb_install_reject_notiy_desc">You can allow installing via USB in Developer options</string>
+  <string name="adb_login_xiaomi_account">Sign in to your Mi Account first</string>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming exceptions</string>
@@ -77,7 +83,7 @@ or enter App lock password"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Upload app names and details</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to AVL and Tencent's servers (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to Avast, AVL and Tencent's servers (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">view Privacy Policy</string>
   <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
   <string name="antivirus_sec_support">Powered by %s</string>
@@ -117,7 +123,67 @@ or enter App lock password"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Check messaging app</string>
   <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
+  <string name="auto_atsk_condition_battery_level_text_down">When battery reaches %s</string>
+  <string name="auto_atsk_condition_battery_level_text_up">When battery is charged to %s</string>
   <string name="auto_handle_title">GENERAL</string>
+  <string name="auto_task_condition_choose_battery_level_down">When battery reaches a certain level</string>
+  <string name="auto_task_condition_choose_battery_level_up">When battery is charged to a certain level</string>
+  <string name="auto_task_condition_choose_end_time">End time</string>
+  <string name="auto_task_condition_choose_ontime">Timer</string>
+  <string name="auto_task_condition_choose_start_time">Start time</string>
+  <string name="auto_task_condition_choose_time_duration">Set time</string>
+  <string name="auto_task_condition_number_pick_title">Set battery condition</string>
+  <string name="auto_task_condition_restore_task_when_charged">Switch to the previous mode after charging</string>
+  <string name="auto_task_condition_time_duration_text">From %1$s to %2$s</string>
+  <string name="auto_task_condition_time_pick_title">Set timer</string>
+  <string name="auto_task_condition_time_text">At %s</string>
+  <string name="auto_task_dialog_button_close">Done</string>
+  <string name="auto_task_edit_abandon_change">Discard changes?</string>
+  <string name="auto_task_edit_activity_title">My automated tasks</string>
+  <string name="auto_task_edit_adandon_button_text">Discard</string>
+  <string name="auto_task_edit_choose_condition_title">Select condition</string>
+  <string name="auto_task_edit_choose_new_operation">Add action</string>
+  <string name="auto_task_edit_choose_operation_title">Select action</string>
+  <string name="auto_task_edit_condition_summary">For example, \"At 23:00\"</string>
+  <string name="auto_task_edit_condition_title">Add condition</string>
+  <string name="auto_task_edit_my_custom_task">Name</string>
+  <string name="auto_task_edit_operation_summary">For example, \"Turn on Airplane mode\"</string>
+  <string name="auto_task_edit_task_name">Name</string>
+  <string name="auto_task_main_summary">Change system settings for certain periods of time or according to the battery level</string>
+  <string name="auto_task_main_title">Automated tasks</string>
+  <string name="auto_task_mamange_activity_title">Settings</string>
+  <string name="auto_task_manage_delete_prompt">Delete selected tasks?</string>
+  <string name="auto_task_manager_group_title">My automated tasks</string>
+  <string name="auto_task_notify_do_task_title">Automated task started</string>
+  <string name="auto_task_notify_exit_task_title">Automated task ended</string>
+  <string name="auto_task_notify_task_cancel_count_down">Automated action will be canceled in 5 seconds</string>
+  <string name="auto_task_notify_task_cancel_do">Cancel action</string>
+  <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
+  <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
+  <string name="auto_task_notify_task_continue_do">Start action</string>
+  <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
+  <string name="auto_task_operation_airplane_mode">Airplane mode</string>
+  <string name="auto_task_operation_auto_brightness">Auto brightness</string>
+  <string name="auto_task_operation_bluetooth">Bluetooth</string>
+  <string name="auto_task_operation_brightness">Screen brightness</string>
+  <string name="auto_task_operation_close">Off</string>
+  <string name="auto_task_operation_close_string">Turn off %s</string>
+  <string name="auto_task_operation_gps">GPS</string>
+  <string name="auto_task_operation_lockscreen_time">Lock screen</string>
+  <string name="auto_task_operation_memory_clean_lockscreen">Clear memory</string>
+  <string name="auto_task_operation_mobile_data">Mobile data</string>
+  <string name="auto_task_operation_modify_string">Edit%s</string>
+  <string name="auto_task_operation_mute">Silent mode</string>
+  <string name="auto_task_operation_no_op">"Don't select this action"</string>
+  <string name="auto_task_operation_open">On</string>
+  <string name="auto_task_operation_open_string">Turn on %s</string>
+  <string name="auto_task_operation_string_comma">,</string>
+  <string name="auto_task_operation_string_etc">, etc.</string>
+  <string name="auto_task_operation_string_modify">Edit</string>
+  <string name="auto_task_operation_string_split">;</string>
+  <string name="auto_task_operation_sync">Sync</string>
+  <string name="auto_task_operation_vibration">Vibration</string>
+  <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back">Back</string>
   <string name="background_traffic">Background %s</string>
   <string name="battery_capacity_title">Battery capacity</string>
@@ -162,6 +228,12 @@ or enter App lock password"</string>
   <string name="battery_status_unknown">Unknown error</string>
   <string name="battery_temperature_title">Temperature</string>
   <string name="begin_date">Usage reset date</string>
+  <string name="bind_xiaomi_account_cancel">Cancel</string>
+  <string name="bind_xiaomi_account_confirm">Add</string>
+  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it. Account will be removed automatically if you sign out."</string>
+  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="bind_xiaomi_account_summary">Use Mi Account to reset your password</string>
+  <string name="bind_xiaomi_account_title">Add Mi Account</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
   <string name="boot_time">On at %1$s</string>
   <string name="boot_time_day">On in %1$dd at %2$s</string>
@@ -235,6 +307,8 @@ or enter App lock password"</string>
   <string name="card_main_deepclean_action">Clear</string>
   <string name="card_main_deepclean_summary">Delete unnecessary files</string>
   <string name="card_main_deepclean_title">Deep clean</string>
+  <string name="card_main_gamebooster_summary">Boost speed &amp; improve gaming experience</string>
+  <string name="card_main_gamebooster_title">Gaming speed boost</string>
   <string name="card_main_monthreport_action">View</string>
   <string name="card_main_monthreport_summary">View monthly reports</string>
   <string name="card_main_monthreport_title">Security stats</string>
@@ -257,7 +331,7 @@ or enter App lock password"</string>
   <string name="category_key_power_usage_details">key_power_usage_details</string>
   <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
-  <string name="charging_text_battery_full_time">Last charge</string>
+  <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
   <string name="charging_text_time_calculating">Calculating charging time…</string>
@@ -269,6 +343,8 @@ or enter App lock password"</string>
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Restart now</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
+  <string name="confirmSecondSpacePassword">Confirm Second space password</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
   <string name="connect_internet_by_mobiledata">Mobile data connection</string>
@@ -632,6 +708,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_text_antispam">Blocklist</string>
   <string name="menu_text_antivirus">Virus scan</string>
   <string name="menu_text_garbage_cleanup">Cleaner</string>
+  <string name="menu_text_garbage_cleanup_danger">%s over</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
   <string name="menu_text_networkassistants_danger">%s over</string>
@@ -708,6 +785,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_item">Protect selected apps with App lock</string>
   <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+  <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
+  <string name="notification_sysapp_cracked_title">Security risk is detected</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
@@ -743,6 +822,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="optimize_result_button_operators_diagnose">Carrier diagnostics</string>
   <string name="optimize_result_button_purchase">Buy</string>
   <string name="optimize_result_button_purchase_flow">View all</string>
+  <string name="optimize_result_button_realname_now">Verify</string>
   <string name="optimize_result_button_see_detaills">Details</string>
   <string name="optimize_result_button_to_open">Turn on</string>
   <string name="optimize_result_button_to_set">Set</string>
@@ -768,6 +848,11 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="passwordIncorrect">Username or password is incorrect</string>
+  <string name="password_promotion_button_text">Got it</string>
+  <string name="password_promotion_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it. Add your Mi Account to be able to do that.</string>
+  <string name="password_promotion_postbutton_text">Go to Settings</string>
+  <string name="password_promotion_title">Privacy protection password</string>
   <string name="path_antispam">System apps/Security/Blocklist</string>
   <string name="path_antivirus">System apps/Security/Virus scan</string>
   <string name="path_cleanmaster">System apps/Security/Cleaner</string>
@@ -816,8 +901,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_btn_analyze">Analyze battery usage</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
-  <string name="power_center_battery_full">Battery fully charged</string>
-  <string name="power_center_charge_time">%1$s until full</string>
+  <string name="power_center_battery_full">"Battery fully charged "</string>
+  <string name="power_center_charge_time">%1$suntil full</string>
   <string name="power_center_consume_rank">Battery use</string>
   <string name="power_center_consume_time">%1$s remaining</string>
   <string name="power_center_custom_title">Battery profiles</string>
@@ -1108,7 +1193,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="scanning_bar_system_title">Scanning system…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="section_clear_acc_item_title">"Freed %s. If there's still not enough storage, try using Cleaner."</string>
+  <string name="section_clear_acc_item_title">"%s. If there's still not enough storage, try using Cleaner."</string>
   <string name="section_security_defend_item_title">Protect your data with App lock</string>
   <string name="section_system_item_fixed">Fixed</string>
   <string name="section_title_clear_acc">Clear cache</string>
@@ -1119,6 +1204,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
+  <string name="set_applock_password">Set password</string>
+  <string name="setting_privacy_password">Set App lock password</string>
   <string name="settings">Data usage settings</string>
   <string name="settings_battery_consume_abnormal_summary">Receive notifications when battery is being drained fast</string>
   <string name="settings_battery_consume_abnormal_title">Battery drain notifications</string>
@@ -1150,6 +1237,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="sp_back_title_text_zero">Secure</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
   <string name="sp_monitored_apps_list_title">Monitoring settings</string>
+  <string name="sp_network_privacy_dialog_message">"Security app can't check payments because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+  <string name="sp_network_privacy_dialog_title">"Can't check payments"</string>
   <string name="sp_safe_score_text">Payment is secure</string>
   <string name="sp_scan_item_monitor">Monitor payments</string>
   <string name="sp_scan_item_url_antispam">Protection from malicious URLs</string>
@@ -1172,6 +1261,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="suffix_virus_count_top">risks</string>
   <string name="suggest_app_tolock">Suggestions</string>
   <string name="summary_app_lock_disable">Protect your data with App lock</string>
+  <string name="summary_auto_update">MIUI will select the most suitable time to download and install updates.</string>
   <string name="summary_cleaner_cloudscan">Upload and compare folder names with online definitions</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Sync your photos, contacts, and more across all your devices</string>
@@ -1188,6 +1278,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="summary_flow_purchase_beyond">"You've exceeded your carrier plan's monthly data limit by %sMB"</string>
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_flow_verify_failed">Auto adjust data usage to avoid additional fees</string>
+  <string name="summary_garbage_clean">Clear cache to free up space</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
@@ -1199,6 +1290,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="summary_permission">Avoid unwanted payments and protect personal data</string>
   <string name="summary_permission_root">Looks like this device has root access. It may damage the security of your device.</string>
   <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
+  <string name="summary_realname_verify">Verify your identity to make payments more secure.</string>
   <string name="summary_show_notification">Clear cache, view battery status, and block items in Notification shade</string>
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
   <string name="summary_usb">Prevent malware from being transmitted via USB</string>
@@ -1206,6 +1298,15 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
+  <string name="sys_app_prot_cracked_confirm">Got it</string>
+  <string name="sys_app_prot_cracked_login">Sign in with Mi Account</string>
+  <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
+
+Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
+
+If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
+  <string name="sys_app_prot_cracked_title">Security risk</string>
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content_none">Safe</string>
@@ -1256,6 +1357,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
+  <string name="tc_sms_report_get_sms_bill">Get SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Get SMS</string>
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
   <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
@@ -1277,6 +1380,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
+  <string name="tc_sms_report_title_bill">Report data usage bug</string>
+  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">Getting info…</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
@@ -1296,6 +1401,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="tips_message">"To view your data plan's details, dial %2$s (%1$s)."</string>
   <string name="title_app_lock_disable">Lock apps</string>
   <string name="title_app_update">Updates available</string>
+  <string name="title_auto_update">Update automatically</string>
   <string name="title_cleaner_cloudscan">Cloud trash scan</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -1314,6 +1420,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="title_flow_rank">Mobile data usage</string>
   <string name="title_flow_verify">Compare accounting</string>
   <string name="title_flow_verify_failed">"Couldn't adjust for 5 days in a row"</string>
+  <string name="title_garbage_clean">App cache size reached %s</string>
   <string name="title_garbage_lib">Update trash definitions</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
@@ -1328,6 +1435,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="title_permission_root">Root access</string>
   <string name="title_permission_yes">Permission manager on</string>
   <string name="title_power_optimizer">Battery saver</string>
+  <string name="title_realname_verify">ID verification</string>
   <string name="title_show_notification">Notification shade widget</string>
   <string name="title_telecom_operator">Auto adjust</string>
   <string name="title_usb_no">USB debugging on</string>
@@ -1438,6 +1546,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">Wi-Fi running</string>
+  <string name="usb_adb_input_apply_step_1">Your computer will be able to change settings and grant permissions without you knowing when your device is connected via USB</string>
+  <string name="usb_adb_input_apply_step_2">This may lead to leaks of private information, such as accounts or messages</string>
+  <string name="usb_adb_input_apply_step_3">Make sure you understand the related risks before you allow. Allow now?</string>
   <string name="usb_install_desc">Install this app via USB?</string>
   <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>

@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">"Couldn't download audio"</string>
+  <string name="audio_message_expired">This voice message has expired.</string>
+  <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
   <string name="batch_delete_confirm_dialog_message">Delete %1$s messages?</string>
@@ -148,8 +151,6 @@
   <string name="edit_phrase">Edit quick responses</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
-  <string name="enable_password_protect">Require password</string>
-  <string name="enable_visible_pattern_title">Make pattern visible</string>
   <string name="english_subject_limit">40 character limit</string>
   <string name="enter_edit_mode">Edit messages</string>
   <string name="error_code_label">"Error code: "</string>
@@ -390,7 +391,7 @@
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
-  <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+  <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
@@ -446,6 +447,14 @@
   <string name="priority_low">Low</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">"Can't send messages in Guest mode"</string>
+  <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
+  <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
+  <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
+  <string name="privacy_password_set_password">Set</string>
+  <string name="privacy_password_title1">Set password</string>
+  <string name="privacy_password_title2">Use Privacy protection password</string>
+  <string name="privacy_password_title3">Upgrade your password</string>
+  <string name="privacy_password_title4">Password upgraded</string>
   <string name="private_message">Private messaging</string>
   <string name="private_new_notification">Message notifications</string>
   <string name="private_protect">Passwords</string>
