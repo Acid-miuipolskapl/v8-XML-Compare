@@ -131,7 +131,6 @@
   <string name="day_view_new_event_hint">New event</string>
   <string name="default_reminder_mode">Reminders</string>
   <string name="delete_calendar">退订</string>
-  <string name="delete_label">Delete</string>
   <string name="delete_recurring_event_title">Delete %s?</string>
   <string name="delete_this_event_title">Delete this event?</string>
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
@@ -418,6 +417,7 @@
   <string name="subscribe_card_recommend_default_text">推荐订阅</string>
   <string name="subscribe_card_success">订阅成功，可在首页查看</string>
   <string name="subscribe_card_success_for_homepage">订阅“%1$s”成功</string>
+  <string name="subscribe_channel_bottom_hint">—— 小米日历 ——</string>
   <string name="subscribe_channel_click_hint">订阅后可阅读</string>
   <string name="subscribe_channel_footer_button">订阅管理</string>
   <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
