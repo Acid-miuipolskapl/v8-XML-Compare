@@ -315,6 +315,7 @@ or enter App lock password"</string>
   <string name="card_main_netcheck_action">Test</string>
   <string name="card_main_netcheck_summary">Test connection for networking issues</string>
   <string name="card_main_netcheck_title">Test network</string>
+  <string name="card_main_overscroll_tips">Security at its best</string>
   <string name="card_main_paysafe_action">Turn on</string>
   <string name="card_main_paysafe_summary">Scan payment environment for potential risks</string>
   <string name="card_main_paysafe_title">Payment security</string>
@@ -492,6 +493,7 @@ or enter App lock password"</string>
   <string name="gateway_exception_title">Test router</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Settings</string>
+  <string name="handle_bar_summary_wifi_unknown">Unknown</string>
   <string name="handle_bar_title_apps">Apps</string>
   <string name="handle_bar_title_paysms">Messages</string>
   <string name="handle_bar_title_system">System</string>
@@ -1103,7 +1105,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="quick_optimize_no_issue">No battery issues</string>
   <string name="quick_optimize_no_issue_subtitle">Everything looks good</string>
   <string name="quick_optimize_no_issue_title">"Couldn't find battery issues"</string>
-  <string name="quick_optimize_sub_summary_text">Added %s to battery life</string>
+  <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
   <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
   <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
@@ -1235,6 +1237,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
   <string name="sp_back_title_text_zero">Secure</string>
+  <string name="sp_button_text_ignore_alert_title">Ignore this check item ?</string>
+  <string name="sp_empty_title_sign_exception">Lone click the app item in result page to add exceptions</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
   <string name="sp_monitored_apps_list_title">Monitoring settings</string>
   <string name="sp_network_privacy_dialog_message">"Security app can't check payments because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
@@ -1242,6 +1246,14 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_safe_score_text">Payment is secure</string>
   <string name="sp_scan_item_monitor">Monitor payments</string>
   <string name="sp_scan_item_url_antispam">Protection from malicious URLs</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Manage the sign exceptions</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Manage the virus exceptions</string>
+  <string name="sp_settings_check_item_title_root">ROOT</string>
+  <string name="sp_settings_check_item_title_sign_exception">Sign Exceptions</string>
+  <string name="sp_settings_check_item_title_update">System Update</string>
+  <string name="sp_settings_check_item_title_virus_exception">Virus Exceptions</string>
+  <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_group_title_check_item">Check Items Settings</string>
   <string name="sp_settings_group_title_ime">Secure IME settings</string>
   <string name="sp_settings_group_title_omit">Omitted items</string>
   <string name="sp_settings_info_input_method">Using system input method in payment apps</string>
@@ -1446,6 +1458,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_virus_update_yes">Auto-update for virus definitions on</string>
   <string name="title_virus_yes">No viruses found</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">The virus exception is already exist!</string>
   <string name="toast_auto_traffic_correct">Data usage is adjusted automatically</string>
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
   <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
@@ -1527,6 +1540,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_step_num">Data plan settings</string>
   <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
   <string name="unable_connect_internet">No internet connection</string>
+  <string name="uninstall_app_dialog_msg">Uninstalling will remove all app data.</string>
+  <string name="uninstall_app_dialog_title">Uninstall now?</string>
+  <string name="uninstall_app_done">Uninstall finished</string>
   <string name="unlike">No thanks</string>
   <string name="updating_diagnostic_botton">Analyzing data…</string>
   <string name="usage_sorted_activity_lable">Data usage</string>

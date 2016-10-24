@@ -1450,7 +1450,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="free_wifi_connect_title">WLAN available</string>
   <string name="free_wifi_connected">Connected to free WLAN</string>
-  <string name="free_wifi_connected_count">%1$s users connected</string>
+  <string name="free_wifi_connected_count">%1$d people connected</string>
   <string name="free_wifi_connected_time">Duration: %1$s</string>
   <string name="free_wifi_connecting">Connecting…</string>
   <string name="free_wifi_login_again">Sign in again</string>
@@ -3044,7 +3044,7 @@ To use screen pinning:
   <string name="sdcard_unmount">Unmount USB storage</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
-  <string name="se_wallet_ese">Mi Wallet allows you to use Mi Pay and NFC transport card.</string>
+  <string name="se_wallet_ese">Mi Pay and NFC transport card</string>
   <string name="se_wallet_hce">Use HCE Wallet</string>
   <string name="search_about">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
