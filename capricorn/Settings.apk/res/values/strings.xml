@@ -2082,7 +2082,7 @@ Select your operating system:"</string>
   <string name="multi_touch_points_preference">This setting will take effect after you reboot your device</string>
   <string name="music_audio_effect_optimize">Audio settings</string>
   <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
-  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HD Sound, headphones and other audio settings</string>
   <string name="music_audio_effect_settings">Effects settings</string>
   <string name="music_dirac_control">Optimize audio quality</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
@@ -2123,8 +2123,8 @@ Select your operating system:"</string>
   <string name="music_headset_no_contected">No headphones detected</string>
   <string name="music_headset_settings">Headphones &amp; audio effects</string>
   <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
-  <string name="music_hifi_title">Hi-Fi audio</string>
-  <string name="music_hifi_volume">Hi-Fi volume</string>
+  <string name="music_hifi_title">HD Sound audio</string>
+  <string name="music_hifi_volume">HD Sound volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
