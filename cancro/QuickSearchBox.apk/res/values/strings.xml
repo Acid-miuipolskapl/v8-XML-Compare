@@ -48,7 +48,6 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_settings_category_title">Google Search</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
-  <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"小米\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"视频\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"音乐\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"主题\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"小说\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"游戏\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"论坛\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"商城\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"阅读\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"新闻\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"搞笑\",\"type\":\"unknown\",\"url\":\"\"}]</string>
   <string name="loading">Just a sec…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
@@ -106,6 +105,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
   <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
   <string name="xiaomi_search_label">Results</string>
-  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
+  <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
   <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
 </resources>

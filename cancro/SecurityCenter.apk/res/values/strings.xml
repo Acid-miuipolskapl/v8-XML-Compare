@@ -1299,6 +1299,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_check_item_title_update">System Update</string>
   <string name="sp_settings_check_item_title_virus_exception">Virus Exceptions</string>
   <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_exception_count_zero">No Item</string>
   <string name="sp_settings_group_title_check_item">Check Items Settings</string>
   <string name="sp_settings_group_title_ime">Secure IME settings</string>
   <string name="sp_settings_group_title_omit">Omitted items</string>
@@ -1308,6 +1309,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_plugin_monitor_title">Monitor payment plug-ins</string>
   <string name="sp_settings_root_title_omit">Check root access</string>
   <string name="sp_settings_title_input_method">Secure IME</string>
+  <string name="sp_toast_removed_from_sign_white_list">Removed from Exceptions. Item will be scanned next time.</string>
   <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="sponsored">Sponsored</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
