@@ -138,6 +138,7 @@
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="ignore">Not now</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
+  <string name="io_error_title">Confirm your network</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="loading_micloud_sync_data">Just a sec…</string>
   <string name="local_device">(this device)</string>

@@ -92,6 +92,7 @@ Tap the plus to create a folder"</string>
   <string name="note_link_select">Select text</string>
   <string name="note_link_tel">Call</string>
   <string name="note_link_web">View in browser</string>
+  <string name="note_sort_way">Select how you want to sort your notes</string>
   <string name="notealert_enter">Open note</string>
   <string name="notealert_ok">Dismiss</string>
   <string name="notelist_menu_new">Add note</string>
@@ -106,7 +107,7 @@ Tap the plus to create a folder"</string>
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Style</string>
   <string name="pref_title_recover_help">Recover notes</string>
-  <string name="pref_title_show_root_folder_in_homepage">Show quick notes in homepage</string>
+  <string name="pref_title_show_root_folder_in_homepage">Show only quick notes on the start page</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">An error occurred, go to i.mi.com to restore notes.</string>
   <string name="redo">Redo</string>
