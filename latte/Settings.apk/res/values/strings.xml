@@ -338,7 +338,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
   <string name="batch_delete_backup_confirm">Delete selected backups?</string>
-  <string name="batch_delete_saved_network">Delete saved network: %s?</string>
+  <string name="batch_delete_saved_network">Delete selected network: %s?</string>
+  <string name="batch_delete_saved_networks">Delete all the selected networks</string>
   <string name="battery_action_app_details">App info</string>
   <string name="battery_action_app_settings">App settings</string>
   <string name="battery_action_bluetooth">Bluetooth settings</string>
@@ -1283,7 +1284,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="enable_service_password_reason">Because turning on %1$s affects data encryption, you need to confirm your password.</string>
   <string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
   <string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
-  <string name="enable_service_title">Use %1$s?</string>
+  <string name="enable_service_title">The service will perform these actions:</string>
   <string name="enable_snapshot_screenlock">Long press Back to take a photo</string>
   <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
   <string name="enable_terminal_title">Local terminal</string>
@@ -2091,6 +2092,7 @@ Select your operating system:"</string>
   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="music_audio_effect_optimize">Audio settings</string>
   <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, headphones and other audio settings</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
   <string name="music_audio_effect_settings">Effects settings</string>
   <string name="music_dirac_control">Optimize audio quality</string>
@@ -2112,6 +2114,7 @@ Select your operating system:"</string>
   <string name="music_dolby_mode_off">Off</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Adjust individual levels for different types of music</string>
+  <string name="music_hd_title">HD Sound audio</string>
   <string name="music_headphone_settings">Choose headphones type</string>
   <string name="music_headset_button_settings">Assign buttons</string>
   <string name="music_headset_calibrate">Assign buttons</string>
@@ -2131,7 +2134,6 @@ Select your operating system:"</string>
   <string name="music_headset_settings">Headphones &amp; audio effects</string>
   <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
-  <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
@@ -2908,8 +2910,8 @@ This setting affects all users on this tablet."</string>
   <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_locking_sounds_title">Screen locking sounds</string>
   <string name="screen_never_timeout_title">Never sleep</string>
-  <string name="screen_on_proximity_sensor_summary">Lock automatically when placed in a bag</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_on_proximity_sensor_summary">Lock touch gestures when placed in a bag</string>
+  <string name="screen_on_proximity_sensor_title">Pocket mode</string>
   <string name="screen_optimize">Contrast</string>
   <string name="screen_paper_mode_adjust_level">Strength</string>
   <string name="screen_paper_mode_apps_loading">Just a sec…</string>
@@ -3643,7 +3645,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Turn off prevent pocket dials as well?</string>
+  <string name="touch_sensitive_turn_off_summary">Turn off pocket mode as well?</string>
   <string name="touch_sensitive_turn_off_title">Glove mode is off</string>
   <string name="touch_sounds_title">Touch sounds</string>
   <string name="touch_title">Touch</string>
