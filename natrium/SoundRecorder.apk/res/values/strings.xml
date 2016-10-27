@@ -50,7 +50,7 @@
   <string name="notification_playback">Playing…</string>
   <string name="notification_recording">Recording…</string>
   <string name="notification_recording_ticker">Phone muted</string>
-  <string name="notification_stopped">Recording stopped</string>
+  <string name="notification_stopped">Recording complete</string>
   <string name="notification_title_all_paused">Download paused</string>
   <string name="notification_warning">Storage low (less than %d minutes)</string>
   <string name="path_soundrecorder_setting">System apps/Recorder</string>
