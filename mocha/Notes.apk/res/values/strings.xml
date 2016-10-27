@@ -92,6 +92,7 @@ Tap the plus to create a folder"</string>
   <string name="note_link_select">Select text</string>
   <string name="note_link_tel">Call</string>
   <string name="note_link_web">View in browser</string>
+  <string name="note_sort_way">Select how you want to sort your notes</string>
   <string name="notealert_enter">Open note</string>
   <string name="notealert_ok">Dismiss</string>
   <string name="notelist_menu_new">Add note</string>
