@@ -54,6 +54,7 @@
   <string name="button_exit">Exit</string>
   <string name="button_not_allow">Cancel</string>
   <string name="button_sure_abandon">Discard changes?</string>
+  <string name="change_alert">Check your network connection and try again</string>
   <string name="close">Close</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">Just a sec…</string>
