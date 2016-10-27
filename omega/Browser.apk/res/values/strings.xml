@@ -57,6 +57,7 @@
   <string name="adblock_websites_settings_title">Blocked sites</string>
   <string name="add_bookmark_group">Add group</string>
   <string name="add_bookshelf_popup_text">Added to bookshelf</string>
+  <string name="add_favorites_to">Add favorites to</string>
   <string name="add_new_bookmark">Add bookmark</string>
   <string name="add_new_quicklink">Add to start page</string>
   <string name="add_ql_bm_title">Save</string>
@@ -519,13 +520,13 @@ Pages you view won't appear in history."</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">"You're incognito! Web pages you view in this tab won't appear in your browser history."</string>
   <string name="in_secureaccess">Browser switched to Safe mode</string>
+  <string name="isReplacePage">File already exists, replace?</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>
   <string name="is_first_tab">This is the first tab</string>
   <string name="is_last_history_item">This is the last page in Browser history</string>
   <string name="is_last_tab">This is the last tab</string>
   <string name="is_page_bottom">"You've reached the bottom of the page"</string>
   <string name="is_page_top">"You're at the top of the page"</string>
-  <string name="isreplace">File already exists, replace?</string>
   <string name="js_dialog_before_unload">"%s
 
 Leave this page?"</string>
@@ -852,7 +853,6 @@ Leave this page?"</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
   <string name="save_password_remember">Remember</string>
-  <string name="save_to">Save to</string>
   <string name="save_to_camera">Save to camera</string>
   <string name="save_to_camera_failed">"Can't save picture"</string>
   <string name="save_to_camera_success">Saved to camera</string>
