@@ -152,6 +152,7 @@
   <string name="description_search_button">search</string>
   <string name="description_target_answer">Answer</string>
   <string name="dial_with_gsm_phone">Regular call</string>
+  <string name="dialog_call_ordinary_telephone">Regular call</string>
   <string name="dialog_network_priority_title">Priority</string>
   <string name="disable_data_connection_msg">Searching for all available networks will disconnect the data connection which is in use. Do you want to continue?</string>
   <string name="dm_lock">DM Locked</string>
@@ -435,6 +436,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="sum_voice_call">Voice call related settings</string>
   <string name="sum_voice_mail">Voicemail service and number</string>
   <string name="suspect_info">Be careful with your personal info.</string>
+  <string name="time_left_livetalk">(%ds)</string>
   <string name="turn_on_3g_service_message">3G service is off now, would you like to turn it on?</string>
   <string name="umts_preferred_network_mode_dialogtitle">Network mode</string>
   <string name="unblock_pin2">Unblock PIN2</string>
