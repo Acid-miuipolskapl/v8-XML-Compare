@@ -817,6 +817,7 @@ Top up and start talking"</string>
   <string name="network_info_message">Network message</string>
   <string name="network_lte">LTE (recommended)</string>
   <string name="network_message">Network message</string>
+  <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
   <string name="network_query_error">Error while searching for networks.</string>
   <string name="network_settings_auto_select_title">Choose network manually?</string>
   <string name="network_settings_automatically_option">Automatically choose preferred network (%s)</string>
