@@ -2,9 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
   <string name="aaid_info">"
-Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
-
-If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
+Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
@@ -166,6 +164,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_tips">Make sure the two devices are touching, and then tap the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
+  <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Blocklist</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentication type</string>
@@ -324,7 +323,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="available_via_passpoint">Available via %1$s</string>
   <string name="average_memory_use">Average memory use</string>
   <string name="average_used">Average used (%)</string>
-  <string name="avoid_ui">Avoid UI</string>
+  <string name="avoid_ui">Touch block</string>
   <string name="awake">Device awake time</string>
   <string name="back_key">Back</string>
   <string name="background_data">Background data</string>
@@ -348,6 +347,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="band_mode_succeeded">Successful</string>
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
+  <string name="batch_delete_saved_network">Delete saved network: %s?</string>
   <string name="battery_action_app_details">App info</string>
   <string name="battery_action_app_settings">App settings</string>
   <string name="battery_action_bluetooth">Bluetooth settings</string>
@@ -444,6 +444,11 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_sugg_wifi">"Turn off WLAN when not using it or when it isn't available"</string>
   <string name="battery_summary">%1$d%% use since last full charge</string>
   <string name="bearer">Bearer</string>
+  <string name="bind_xiaomi_account_cancel">Cancel</string>
+  <string name="bind_xiaomi_account_confirm">Add</string>
+  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
+  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="binded_xiaomi_summary">Current account: %s</string>
   <string name="ble_scan_notify_text">To improve location accuracy, system apps and services can still detect Bluetooth devices. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
@@ -651,7 +656,26 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bootloader_apply_step_4">It may lead to the disclosure or loss of the data, or even irrepairable hardware damage.</string>
   <string name="bootloader_apply_step_5">Make sure you know how to use Fastboot mode before you turn it on.</string>
   <string name="bootloader_apply_title">Important warning</string>
+  <string name="bootloader_device_bind_already">Added successfully. Mi Account is associated with this device now.</string>
+  <string name="bootloader_device_bind_fail">"Couldn't verify, wait a minute or two and try again"</string>
+  <string name="bootloader_device_bind_msg">Preparing to add account and device…</string>
+  <string name="bootloader_device_bind_no_account">Sign in to your Mi Account first</string>
+  <string name="bootloader_device_bind_no_network">Connect to the network and try again</string>
+  <string name="bootloader_locked_answer_1">"We lock devices to make sure they are secure and your personal info isn't disclosed to third parties. If you need to enter Fastboot mode and flash your device, you can unlock it."</string>
+  <string name="bootloader_locked_answer_1_warning">"Remember: You won't be able to use \"Find device\" after the phone is unlocked."</string>
+  <string name="bootloader_locked_answer_2">"Tap the button below to associate your Mi Account with this device. Then go to MIUI website to download the unlock tool and install it on your computer. Here's the address:"</string>
+  <string name="bootloader_locked_check_status">Add account and device</string>
+  <string name="bootloader_locked_question_1">Why should devices be locked?</string>
+  <string name="bootloader_locked_question_2">I understand the risks, but still want to unlock my device.</string>
+  <string name="bootloader_status">Mi Unlock status</string>
+  <string name="bootloader_status_locked">Locked</string>
+  <string name="bootloader_status_locked_info">This device is locked</string>
+  <string name="bootloader_status_locked_summary">The phone is secured</string>
+  <string name="bootloader_status_summary">Check if the device is locked</string>
+  <string name="bootloader_status_unlocked">Unlocked</string>
+  <string name="bootloader_status_unlocked_info">This device is unlocked</string>
   <string name="bootloader_summary">Flash your device via USB</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Light color</string>
   <string name="breathing_light_color_summary">Light color when receiving new notification</string>
   <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
@@ -756,6 +780,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="checking_decryption">Checking…</string>
   <string name="checking_find_device_status">Checking Find device status…</string>
   <string name="checking_for_updates">Checking for updates…</string>
+  <string name="childmod_privacy_password_role_instruction">Turn on Child mode to prevent unwanted actions when the device is used by a child</string>
   <string name="children_mode_enable_title">Child mode</string>
   <string name="children_mode_set_apps_title">Accessible apps</string>
   <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
@@ -776,7 +801,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_failed_dlg_text">Couldn’t clear data for app.</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
-  <string name="close_gesture">Close gesture</string>
+  <string name="close_gesture">Close using gesture</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="color_black">Black</string>
@@ -807,6 +832,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="configure_apps">Configure apps</string>
   <string name="configure_input_method">Set up input methods</string>
   <string name="confirm_action">OK</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Add</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_enable_multi_window_text">WARNING: This is a highly experimental feature that allows multiple activities on-screen at the same time through the Recent apps UI. Some apps may crash or not function correctly when used with this feature.</string>
   <string name="confirm_enable_multi_window_title">Enable multi-window mode?</string>
@@ -816,6 +842,9 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
+  <string name="confirm_privacy_password">Enter Privacy protection password</string>
+  <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
+  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
@@ -861,6 +890,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you’ll have an opportunity to restore any data that was backed up to your Google Account."</string>
   <string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
   <string name="crypt_keeper_decrypt_methods">After you encrypt your phone, assuming you’ve set up a screen lock (that is, a pattern or numeric PIN or password), you’ll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"If you've encrypted your phone, you'll have to enter your password, PIN, or pattern every time you reboot the device in order to decrypt it."</string>
   <string name="crypt_keeper_decrypt_methods_title">Decrypting your device</string>
   <string name="crypt_keeper_desc">"You can encrypt your accounts, settings, downloaded apps and their data, media, and other files. After you encrypt your phone, assuming you’ve set up a screen lock (that is, a pattern or numeric PIN or password), you’ll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.
 
@@ -893,7 +923,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_input_method">Current Keyboard</string>
   <string name="current_screen_lock">Current screen lock</string>
   <string name="current_use_ese">Using embedded secure element</string>
-  <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and use your phone as a transport card."</string>
+  <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and NFC transport card."</string>
   <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
@@ -1025,7 +1055,6 @@ This setting affects all users on this phone."</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Show layout bounds</string>
   <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
-  <string name="debug_log">User Experience Program</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
@@ -1045,6 +1074,7 @@ This setting affects all users on this phone."</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
+  <string name="delete_saved_network">Delete saved network</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1301,12 +1331,12 @@ Some apps may not work until updated by their developers."</string>
   <string name="erase_external_storage_description">Erase all the data on the internal USB storage, such as music or photos</string>
   <string name="erase_internal_storage">Erase stored content</string>
   <string name="erase_internal_storage_description">Erase music, photos, videos, and other user data</string>
-  <string name="erase_optional">Content</string>
+  <string name="erase_optional">Optional</string>
   <string name="erase_personal_data">All files on the phone</string>
   <string name="erase_personal_data_description">All files and data, including accounts, contacts, photos, and apps</string>
   <string name="erase_sd_data">Format SD card</string>
   <string name="erase_sd_data_description">Formatting will erase all files and data on the SD card</string>
-  <string name="erase_sure">Personal data</string>
+  <string name="erase_sure">Mandatory</string>
   <string name="error_apn_empty">The APN can’t be empty.</string>
   <string name="error_mcc_not3">MCC field must be 3 digits.</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
@@ -1325,6 +1355,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
   <string name="failed_to_shut_down_find_device_title">"Couldn't turn off"</string>
   <string name="fcc_equipment_id">Equipment ID</string>
+  <string name="file_privacy_password_role_instruction">Your private files will be stored here.</string>
   <string name="filter">Filter</string>
   <string name="filter_all_apps">All apps</string>
   <string name="filter_apps_all">All</string>
@@ -1361,6 +1392,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_lock_first">Unlock First space</string>
   <string name="fingerprint_lock_second">Unlock Second space</string>
   <string name="fingerprint_manage_category_title">Manage fingerprints</string>
+  <string name="fingerprint_not_identified_msg">"Couldn't read fingerprint. Enter your password"</string>
   <string name="fingerprint_not_recognized">Not recognized</string>
   <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
@@ -1385,6 +1417,7 @@ Some apps may not work until updated by their developers."</string>
 "</string>
   <string name="font_size_summary1">"If your system's text is still too small, try "</string>
   <string name="font_size_summary2">Lite mode.</string>
+  <string name="forbidden_switch_apn_string">"Selected APN settings don't match current network type"</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
@@ -1396,10 +1429,13 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demo show</string>
-  <string name="force_touch_enable">Enable 3D Touch</string>
-  <string name="force_touch_enable_tips">"Deep press App icon on launcher will show App's shortcut menu, while 3D Touch enabled."</string>
+  <string name="force_touch_enable">Turn on 3D Touch</string>
+  <string name="force_touch_enable_tips">Press app icons in the launcher with an effort in order to view shortcut menus when 3D Touch is on.</string>
   <string name="forget">Forget</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
+  <string name="forget_privacy_password_setting">Add Mi Account</string>
+  <string name="forget_privacy_password_summary">Use Mi Account to reset your password</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
   <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
@@ -1448,8 +1484,9 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gadget_sync">Sync</string>
   <string name="gadget_title">Power control</string>
   <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
-  <string name="gadget_toggle_wifi">Updating WLAN setting</string>
+  <string name="gadget_toggle_wifi">Updating WLAN settings</string>
   <string name="gadget_wifi">WLAN</string>
+  <string name="gallery_privacy_password_role_instruction">Your private photos will be stored here.</string>
   <string name="game_controller_settings_category">Game Controller</string>
   <string name="gesture_wakeup_title">Double tap screen to wake</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -1468,6 +1505,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
+  <string name="hardware_version">Hardware version</string>
+  <string name="has_screenshot_sound">Screenshot sound</string>
   <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
   <string name="hdcp_checking_title">HDCP checking</string>
   <string name="hdmi_3d_display_enable_summary">Support 3D games</string>
@@ -1526,7 +1565,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
   <string name="hide">Hide</string>
-  <string name="hide_screen_button">Hide screen button</string>
+  <string name="hide_screen_button">Hide screen buttons</string>
   <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
   <string name="high_performance_notif_title">Performance mode is on</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
@@ -1588,6 +1627,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
   <string name="install_unknown_applications_title">Lets you install apps from sources other than Google Play</string>
   <string name="install_whole_rom">Download ROM</string>
+  <string name="instruction_privacy_password">This password protects the following items</string>
   <string name="instruction_title">Instructions</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
@@ -1728,7 +1768,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="local_backup_section_summary">Backup system settings, account info, and apps</string>
   <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
-  <string name="locale_settings">Locale</string>
+  <string name="locale_settings">Region</string>
   <string name="location_access_summary">Apps can get your location info</string>
   <string name="location_access_title">Location access</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1853,7 +1893,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpassword_pin_no_sequential_digits">An ascending, descending or repeated sequence of digits is forbidden</string>
   <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow PIN unlock"</string>
   <string name="lockpassword_pin_set_toast">PIN set</string>
-  <string name="lockpassword_pin_too_long">PIN must be fewer than %d digits long</string>
+  <string name="lockpassword_pin_too_long">PIN can contain up to %d digits</string>
   <string name="lockpassword_pin_too_short">PIN must be %d digits long</string>
   <string name="lockpassword_press_continue">Touch Continue when done</string>
   <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
@@ -1884,12 +1924,14 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Except when kept unlocked by %1$s</string>
   <string name="lockpattern_settings_title">Unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in %d seconds.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %d seconds and try again.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
-  <string name="long_press_volume_down">Long press volume down</string>
+  <string name="long_press_volume_down">Long press Volume down</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -2038,6 +2080,7 @@ There are other users present on this device.
   <string name="miui_experience_optimization">Turn on MIUI optimization</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
+  <string name="mms_privacy_password_role_instruction">Your conversations with private contacts will be stored here.</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
   <string name="mobile_data_always_on">Cellular data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
@@ -2048,12 +2091,15 @@ There are other users present on this device.
   <string name="mock_location_app_not_set">No mock location app set</string>
   <string name="mock_location_app_set">Mock location app: %1$s</string>
   <string name="model_number">Model number</string>
+  <string name="modify_instruction_password_settings">Set password</string>
+  <string name="modify_privacy_password">Change password</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">Couldn’t move app. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
+  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">OSX: Download the driver and install AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Get the driver at http://www.android.com/filetransfer/</string>
@@ -2087,6 +2133,7 @@ Select your operating system:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
   <string name="music_audio_effect_settings">Effects settings</string>
   <string name="music_dirac_control">Optimize audio quality</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General</string>
@@ -2173,7 +2220,7 @@ Select your operating system:"</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Secure element position</string>
-  <string name="nfc_se_wallet_title">Default Wallet</string>
+  <string name="nfc_se_wallet_title">Default wallet</string>
   <string name="night_mode_auto">Automatic</string>
   <string name="night_mode_no">Light</string>
   <string name="night_mode_summary">%s</string>
@@ -2183,6 +2230,7 @@ Select your operating system:"</string>
   <string name="no_application">Nothing</string>
   <string name="no_applications">No apps.</string>
   <string name="no_battery_summary">No battery use since last full charge</string>
+  <string name="no_connected_devices">No connected devices</string>
   <string name="no_data_usage">No data used</string>
   <string name="no_default_apps">No default Apps.</string>
   <string name="no_device_admins">No available device administrators</string>
@@ -2201,6 +2249,7 @@ Select your operating system:"</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="not_installed">Not installed for this user</string>
+  <string name="notes_privacy_password_role_instruction">Your private notes will be stored here.</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
   <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
@@ -2245,6 +2294,7 @@ Select your operating system:"</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
+  <string name="open_anr_debug">Turn on ANR debugging</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
@@ -2314,6 +2364,8 @@ Select your operating system:"</string>
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="paper_mode_end_time_title">End time</string>
+  <string name="paper_mode_start_time_title">Start time</string>
   <string name="passpoint_content">%1$s credentials</string>
   <string name="passpoint_label">Saved via</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
@@ -2372,6 +2424,7 @@ Select your operating system:"</string>
   <string name="path_dtmf_tone_enable_title">Settings/Sound &amp; vibration/Dial pad tones</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
+  <string name="path_fluency_mode">Settings/Battery &amp; performance/System animations</string>
   <string name="path_font_settings">Settings/Display/System font</string>
   <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
@@ -2499,7 +2552,7 @@ Select your operating system:"</string>
   <string name="permission_detail_info_summary">%1$d security | %2$d privacy | %3$d other</string>
   <string name="permission_manage">Permission manager</string>
   <string name="permission_manage_global_build_title">Other permissions</string>
-  <string name="permission_manage_summary">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
+  <string name="permission_manage_summary">Manage security and permissions</string>
   <string name="permission_manage_title">%s permissions</string>
   <string name="permission_manager">Permissions</string>
   <string name="permission_mgr">Permissions</string>
@@ -2569,13 +2622,14 @@ Select your operating system:"</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
   <string name="pref_edge_handgrip">Edge controls</string>
   <string name="pref_operational_key">Navigation buttons</string>
-  <string name="pref_volume_launch_camera_summary">Press volume down button twice launch camera</string>
-  <string name="pref_volume_launch_camera_title">Rapid camera</string>
+  <string name="pref_volume_launch_camera_summary">Press Volume down twice to launch Camera</string>
+  <string name="pref_volume_launch_camera_title">Launch Camera</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
+  <string name="preferred_app_settings_not_selected">Not selected</string>
   <string name="preferred_app_settings_reset">Reset to defaults</string>
   <string name="preferred_app_settings_reset_button">Reset</string>
   <string name="preferred_app_settings_reset_message">Default app preferences will be reset to factory presets.</string>
@@ -2626,10 +2680,29 @@ Select your operating system:"</string>
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
+  <string name="privacy_applock">App lock</string>
+  <string name="privacy_childmode">Child mode</string>
+  <string name="privacy_file">Files</string>
+  <string name="privacy_gallery">Photos</string>
+  <string name="privacy_mms">Messages</string>
   <string name="privacy_mode_dialog_message">Hide messages, notes, photos, settings, and incoming calls?</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, photos, settings, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
+  <string name="privacy_notes">Notes</string>
+  <string name="privacy_password">Privacy protection password</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
+  <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
+  <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
+  <string name="privacy_password_settings">Use Privacy protection password</string>
+  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
+  <string name="privacy_password_title">Privacy protection password</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Show pattern</string>
   <string name="privacy_protect_title">Privacy protection</string>
   <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Backup &amp; reset</string>
@@ -2763,6 +2836,7 @@ Select your operating system:"</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
   <string name="recompute_size">Recomputing size…</string>
+  <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
@@ -2802,9 +2876,6 @@ Select your operating system:"</string>
   <string name="restore_default_apn">Restoring default APN settings.</string>
   <string name="restore_default_apn_completed">Reset default APN settings completed.</string>
   <string name="restr_pin_enter_admin_pin">Enter administrator PIN</string>
-  <string name="restrict_background_data_dialog_summary">"Apps running in the background can't receive messages."</string>
-  <string name="restrict_background_data_notification_summary">"Apps can't connect to network if background data is restricted"</string>
-  <string name="restrict_background_data_title">Restrict background data</string>
   <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Let apps use your location information</string>
@@ -2862,10 +2933,12 @@ This setting affects all users on this phone."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">No permissions requested</string>
   <string name="save">Save</string>
   <string name="saved_network">Saved by %1$s</string>
+  <string name="saved_wifi">Saved network</string>
+  <string name="saved_wifi_delete">Delete</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
-  <string name="screen_button">Screen button</string>
-  <string name="screen_button_tips">Hidden key decline</string>
+  <string name="screen_button">Screen buttons</string>
+  <string name="screen_button_tips">Swipe down to hide screen buttons</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>
@@ -2895,6 +2968,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_range_title">Settings</string>
   <string name="screen_paper_mode_set_apps_title">Reading mode apps</string>
   <string name="screen_paper_mode_summary">"Reduce display's background glare"</string>
+  <string name="screen_paper_mode_time_title">Scheduled</string>
   <string name="screen_paper_mode_title">Reading mode</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
@@ -2938,6 +3012,9 @@ To use screen pinning:
   <string name="screensaver_settings_summary_sleep">While charging</string>
   <string name="screensaver_settings_title">Daydream</string>
   <string name="screensaver_settings_when_to_dream">When to daydream</string>
+  <string name="screenshot">Screenshot</string>
+  <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
+  <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
   <string name="sd_card_settings_label">USB storage</string>
   <string name="sd_card_storage">USB storage</string>
   <string name="sd_eject">Unmount shared storage</string>
@@ -2966,9 +3043,9 @@ To use screen pinning:
   <string name="sdcard_unmount">Unmount USB storage</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
-  <string name="se_wallet_ese">Mi Wallet allows you to use Mi Pay and use your phone as a transport card.</string>
+  <string name="se_wallet_ese">Mi Wallet allows you to use Mi Pay and NFC transport card.</string>
   <string name="se_wallet_hce">Use HCE Wallet</string>
-  <string name="search_about">"About phone;Device name;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number;Status;Legal information "</string>
+  <string name="search_about">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
   <string name="search_accessibility">Accessibility</string>
@@ -2991,8 +3068,8 @@ To use screen pinning:
   <string name="search_back_key">Back;Back button;Back key</string>
   <string name="search_battery">Battery &amp; performance;Battery and performance;Battery;performance;Battery saver;Save battery</string>
   <string name="search_battery_indicator">Battery indicator</string>
-  <string name="search_bluetooth">Bluetooth;Device name;Discoverable;Bluetooth name;Phone name</string>
-  <string name="search_bluetooth_device_name">Device name;Bluetooth name</string>
+  <string name="search_bluetooth">Bluetooth;Discoverable</string>
+  <string name="search_bluetooth_device_name">Device name;Bluetooth name;Phone name</string>
   <string name="search_bluetooth_device_searchable">Discoverable;Visible;Bluetooth name</string>
   <string name="search_bluetooth_enable">Bluetooth;Turn on Bluetooth;Bluetooth on</string>
   <string name="search_brightness">Brightness;Screen brightness;Display brightness</string>
@@ -3010,7 +3087,7 @@ To use screen pinning:
   <string name="search_development_settings">Developer options</string>
   <string name="search_device_name">Device name</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Display;Screen;Brightness;Screen brightness;Display brightness;Ambient light;Colors;Pocket;Pocket dial;Colors saturation;Glove mode;Screensaver;Autorotate screen;Rotate screen</string>
+  <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial;Color temperature;Color;Colors;Saturation;Auto-rotate;Auto rotate;Auto rotate;Rotate screen;Brightness;Font;Fonts;Font size</string>
   <string name="search_dndm_alarm_content">Exceptions</string>
   <string name="search_dndm_auto_button_title">Set time</string>
   <string name="search_dndm_auto_time_setting">Set time;DND</string>
@@ -3018,11 +3095,12 @@ To use screen pinning:
   <string name="search_dndm_repeated_call_setting_title">Repeat callers;Repeated calls</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Exceptions;Whitelist;white list</string>
   <string name="search_dndm_wristband">Activate with Mi Band;Mi Band</string>
-  <string name="search_do_not_disturb">Do not disturb;DND;VIP;Set time;Exceptions;Repeated calls</string>
+  <string name="search_do_not_disturb">Do not disturb</string>
   <string name="search_dtmf_tone_enable_title">Turn on Dial pad touch tones;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
   <string name="search_edge_handgrip">Edge controls</string>
   <string name="search_empty">No search results</string>
   <string name="search_equalizer">Equalizer</string>
+  <string name="search_fluency_mode">System animations</string>
   <string name="search_font">System font;Font;Fonts;Font sizes;Font size</string>
   <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">Double tap screen to wake;double tap to wake;wake screen;double tap screen;double tap</string>
@@ -3051,7 +3129,7 @@ To use screen pinning:
   <string name="search_music_headset_mode_settings">Headphone remote buttons;remote controls</string>
   <string name="search_music_headset_settings">Headphones &amp; audio effects;Headphones and audio effects;Headphones;Earphones;Audio effects</string>
   <string name="search_music_mi_effect_title">Mi Sound Enhancer;enhance sound</string>
-  <string name="search_network">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Access Point Names;APN;Preferred network type;Network type;Cellular networks;WLAN Direct;Wifi Direct;WLAN Direct</string>
+  <string name="search_network">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Cellular networks;</string>
   <string name="search_networks_title">Mobile networks;Carrier;Mobile carrier</string>
   <string name="search_nfc_se_route_title">Secure element position</string>
   <string name="search_notification_app_list_settings">App Notifications;Notifications</string>
@@ -3059,7 +3137,7 @@ To use screen pinning:
   <string name="search_ntts_settings_title">TTS;TTS settings</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
-  <string name="search_other_advanced_settings">Additional settings;More settings;Privacy settings;Privacy;Date&amp;time;Date and time;Date;Time;Language &amp; input;Language;Language and input;Input;Keyboard;One handed mode;One-handed mode;Battery &amp; performance;Battery and performance;Battery;Performance;Storage;Memory;Notification light;LED light;LED;Headphones &amp; audio effects;Headphones and audio effects;Headphones;Earphones;Audio effects;Buttons;Keys;Accessibility;Beta features;Lab functions;Developer options;Backup &amp; reset;Backup;Reset;Restore;Back up;Transfer;Mi Mover;One key migrate</string>
+  <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">Owner info</string>
   <string name="search_page_layout_settings">Text size;Font size;Small font;Big font;Medium font;XXL font;Huge font;Font sizes</string>
   <string name="search_pointer_speed">Pointer speed</string>
@@ -3067,7 +3145,7 @@ To use screen pinning:
   <string name="search_power_hide_mode_title">Manage apps battery usage;App battery usage;Battery usage;Battery stats</string>
   <string name="search_power_mode">Power settings;Power</string>
   <string name="search_power_optimize">Battery saver;Save battery</string>
-  <string name="search_pref_volume_wake_title">Wake with Volume buttons;wake;volume buttons</string>
+  <string name="search_pref_volume_wake_title">Wake with Volume buttons;volume buttons</string>
   <string name="search_preferred_network_type_title">Preferred network type;Preferred network;Network type</string>
   <string name="search_privacy">Backup &amp; reset;Backup and reset;Backup;reset;Back up</string>
   <string name="search_privacy_policy">Privacy Policy</string>
@@ -3078,12 +3156,12 @@ To use screen pinning:
   <string name="search_ring_volume">Volumes;volume;Ringtone &amp; notifications;ringtone;ringtones;Alarm;Music</string>
   <string name="search_ringtone">Phone ringtone;ringtone;ringtones</string>
   <string name="search_safe_result_header_title_system">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
-  <string name="search_screen_effect">Colors &amp; saturation;Colors &amp; contrast;color;colors;saturation;contrast</string>
+  <string name="search_screen_effect">Colors &amp; saturation;Colors &amp; contrast;color;colors saturation;contrast</string>
   <string name="search_screen_key_long_press_timeout">Set long press time;Long press;Press;Touch and hold</string>
   <string name="search_screen_on_proximity_sensor_title">Prevent pocket dials;pocket;pocket dial;pocket dials</string>
   <string name="search_screen_paper_mode">Reading mode;read mode;read;blue light;yellow light;night mode</string>
   <string name="search_screen_saver_settings">Screensaver</string>
-  <string name="search_screen_timeout">Sleep;Auto Lock Screen;Lock screen</string>
+  <string name="search_screen_timeout">Sleep;Auto Lock Screen;Screen lock</string>
   <string name="search_second_space">Second space</string>
   <string name="search_security_encryption_title">Encrypt device using lock screen password;Encrypt;Encryption;Encrypt device;Encrypt phone</string>
   <string name="search_security_passwords_title">Password;Screen lock;PIN;Pattern</string>
@@ -3094,8 +3172,8 @@ To use screen pinning:
   <string name="search_sms_delivered_sound_title">Message delivered;delivered message;message sound;delivery report</string>
   <string name="search_sms_received">Message received;message sound;received message;message ringtone</string>
   <string name="search_sound_effects_enable_title">Touch sounds;Turn on touch sounds</string>
-  <string name="search_sound_settings">Sound;Volumes;volume;Silent mode;silent;silence;Alarm;Music;Vibrate;vibration;Phone ringtone;Ringtone;Default notification sound;notification sound;notification sounds;Message received;received message;Message delivered;delivered message;Touch;touch tones;tones;Screen lock sound;Audio settings;audio;Suppress noise;noise;suppression;noise suppression</string>
-  <string name="search_status_bar">Notifications &amp; status bar;Notifications;Status bar;status;App notifications;Toggle position;toggle;toggles;Connection speed;Carrier name;Carrier;Screenshot notification;Screenshot;Lock screen</string>
+  <string name="search_sound_settings">Sound;Volumes;vibration;Suppress noise;noise suppression</string>
+  <string name="search_status_bar">Notifications &amp; status bar;Notifications;Status bar</string>
   <string name="search_status_bar_settings_custom_carrier">Edit carrier name;Carrier name</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Show on lock screen;show on lockscreen</string>
   <string name="search_status_bar_settings_show_carrier">Show carrier name;Carrier name</string>
@@ -3109,9 +3187,9 @@ To use screen pinning:
   <string name="search_storage_settings">Cleaner;Clear cache;Cache</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
   <string name="search_system_app_settings">System apps</string>
-  <string name="search_tether">Tethering &amp; portable hotspot;Hotspot;Personal Hotspot;Tether;tethering;share internet;WLAN hotspot;Wifi hotspot;WLAN hotspot</string>
-  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering;tether</string>
-  <string name="search_tether_settings_title_usb">USB tethering;Tethering;tether;USB</string>
+  <string name="search_tether">Tethering &amp; portable hotspot;Tether;share internet;WLAN hotspot;Wifi hotspot;WLAN hotspot</string>
+  <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering</string>
+  <string name="search_tether_settings_title_usb">USB tethering;Tethering;USB</string>
   <string name="search_theme_settings">Themes;Theme;Personalization;Personalize</string>
   <string name="search_toggle_position">Toggle positions;Toggles;toggle;change toggles</string>
   <string name="search_touch_assistant">Quick ball;Touch assistant</string>
@@ -3119,17 +3197,17 @@ To use screen pinning:
   <string name="search_trusted_credentials">Trusted credentials;App signature;App signatures;Credentials;Signature</string>
   <string name="search_tts_settings_title">Text-to-speech output;Text-to-speech</string>
   <string name="search_turn_on_security_lock">Change screen lock;Screen lock;Edit screen lock;edit screenlock;screenlock</string>
-  <string name="search_unlock_set">Auto Lock screen;Lock screen;Screen lock;Owner info;Sleep;Wake lock screen;Wake;Wake phone;Wake device;Password;Prevent pocket dials;pocket dials;pocket;Bluetooth unlock;unlock;passcode;screenlock;PIN;Unlock with Bluetooth device;Lock screen &amp; password</string>
+  <string name="search_unlock_set">Lock Screen &amp; password;Bluetooth unlock;passcode;Unlock with Bluetooth device</string>
   <string name="search_user_agreement">Terms of Service</string>
   <string name="search_user_dict_settings_title">Personal dictionary;Dictionary</string>
   <string name="search_vibrate_in_silent_title">Vibrate when silent;vibrate;vibration</string>
   <string name="search_vibrate_on_touch_title">Turn on Vibrate on touch;Vibrate on touch;vibrate;vibration</string>
   <string name="search_vibrate_when_ringing_title">Also vibrate for calls;vibrate;vibration</string>
-  <string name="search_virtual_sim">International mobile data;Data roaming;Roaming;Mobile data roaming;Lab functions</string>
+  <string name="search_virtual_sim">International mobile data;Data roaming;Mobile data roaming</string>
   <string name="search_vpn">VPN;Add VPN;Turn on VPN</string>
   <string name="search_vpn_enable">Turn on VPN;VPN</string>
   <string name="search_vpn_settings_password">VPN password;Protect VPN</string>
-  <string name="search_wakeup_for_keyguard_notification_title">Wake lock screen for notifications;wake screen;wake device</string>
+  <string name="search_wakeup_for_keyguard_notification_title">Wake lock screen for notifications;wake screen;wake device;wake phone</string>
   <string name="search_wallpaper">Wallpaper;Home screen;Lock screen</string>
   <string name="search_wifi">Wifi;WLAN;Advanced settings;WLAN;Wireless networks;Wireless</string>
   <string name="search_wifi_advanced_ip_address_title">IP address;IP</string>
@@ -3140,7 +3218,7 @@ To use screen pinning:
   <string name="search_wifi_install_credentials">Install certificates;Certificates</string>
   <string name="search_wifi_menu_p2p">WLAN Direct;WLAN Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN entry;WPS;WPS PIN</string>
-  <string name="search_wifi_more_settings">More;Airplane mode;Flight mode;Aeroplane;Flight;VPN;Tethering &amp; portable hotspot;tethering;hotspot;Wireless display;Wireless;International mobile data;Roaming;NFC;Android Beam;Beam;Secure element position</string>
+  <string name="search_wifi_more_settings">More;Wireless</string>
   <string name="search_wifi_scan_always_available">Scanning always available;Scan networks;Scan Wifi;Scan WLAN</string>
   <string name="search_wifi_setting_frequency_band_title">WLAN frequency band;WIFI frequency;WI-FI frequency;WLAN frequency;Frequency band</string>
   <string name="search_wifi_setting_sleep_policy_title">Keep WLAN on during sleep;Keep WLAN on during sleep;Keep WLAN on during sleep;WLAN on during sleep;WLAN on during sleep;WLAN on during sleep</string>
@@ -3170,6 +3248,8 @@ To use screen pinning:
   <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
   <string name="security_encryption_diaglog_continue">Next</string>
   <string name="security_encryption_is_used">On</string>
+  <string name="security_encryption_progress_dialog_close">Decrypting…</string>
+  <string name="security_encryption_progress_dialog_open">Encrypting…</string>
   <string name="security_encryption_title">Encrypt device using lock screen password</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
@@ -3241,6 +3321,7 @@ To use screen pinning:
   <string name="set_password_action">Set password</string>
   <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
   <string name="set_password_title">Set password</string>
+  <string name="setting_privacy_password">Set Privacy protection password</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
@@ -3268,6 +3349,8 @@ To use screen pinning:
   <string name="show_all_anrs">Show all ANRs</string>
   <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
   <string name="show_background_processes">Show cached processes</string>
+  <string name="show_connected_devices_summary">View connected devices</string>
+  <string name="show_connected_devices_title">Connected devices</string>
   <string name="show_cpu_usage">Show CPU usage</string>
   <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
   <string name="show_dev_already">No need, you are already a developer.</string>
@@ -3358,13 +3441,15 @@ Possibly incorrect PIN."</string>
   <string name="sim_slot_empty">SIM empty</string>
   <string name="sim_status_title">SIM status</string>
   <string name="simulate_color_space">Simulate color space</string>
+  <string name="single_key_use">Single button</string>
+  <string name="single_key_use_summary">Use Home button for functions performed by the other 2 buttons</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
-  <string name="smartcover_sensitive_title">Smart Cover</string>
+  <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Change SMS app?</string>
@@ -3415,9 +3500,9 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_app_enable_keyguard">Lock screen</string>
   <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Change button positions</string>
-  <string name="status_bar_screen_button_desc">Slide gestures to hide the screen button</string>
+  <string name="status_bar_screen_button_desc">Swipe down to hide screen buttons</string>
   <string name="status_bar_screen_button_key">Screen buttons</string>
-  <string name="status_bar_screen_button_key_can_hide">Screen buttons can hide</string>
+  <string name="status_bar_screen_button_key_can_hide">Screen buttons can be hidden</string>
   <string name="status_bar_screen_key_back">Back button</string>
   <string name="status_bar_screen_key_home">Home button</string>
   <string name="status_bar_screen_key_menu">Menu button</string>
@@ -3629,15 +3714,15 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
-  <string name="suspension_ball_enable">Switch suspension ball</string>
-  <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
+  <string name="suspension_ball_enable">Quick ball shortcut</string>
+  <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
   <string name="suw_back_button_label">Back</string>
   <string name="suw_more_button_label">More</string>
   <string name="suw_next_button_label">Next</string>
   <string name="switch_off_text">Off</string>
   <string name="switch_on_text">On</string>
-  <string name="switch_screen_button_order">Switch screen button order</string>
-  <string name="switch_screen_button_order_desc">After opening , down gesture to hide the screen button</string>
+  <string name="switch_screen_button_order">Mirror buttons</string>
+  <string name="switch_screen_button_order_desc">Mirror Back and Menu buttons</string>
   <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
   <string name="sync_active">Sync active</string>
   <string name="sync_automatically">Auto-sync app data</string>
@@ -3684,11 +3769,15 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
+  <string name="tether_and_hotspot_title">Tethering &amp; portable hotspot</string>
+  <string name="tether_devices_management_title">Manage devices</string>
+  <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
+  <string name="tether_share_qrcode_title">Share QR code</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="tethering_settings_not_available">Change tethering settings in First space</string>
   <string name="theme_settings_title">Themes</string>
@@ -3784,7 +3873,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
   <string name="turn_on_security_lock">Choose screen lock</string>
-  <string name="under_keyguard">Lock screen</string>
+  <string name="under_keyguard">Screen off</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
@@ -3844,8 +3933,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
-  <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
-  <string name="upload_debug_log_title">User Experience Program</string>
+  <string name="upload_debug_log_summary">The information we collect may contain your personal data. It will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="usage_access">Usage access</string>
   <string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
   <string name="usage_access_title">Apps with usage access</string>
@@ -3872,6 +3961,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
+  <string name="usb_adb_input">USB debugging (Security settings)</string>
+  <string name="usb_adb_input_desc">Allow granting permissions and simulating input via USB debugging</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
@@ -3884,6 +3975,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="usb_host_mode_subtext">Using game controllers and other peripherals on USB port may consume more power</string>
   <string name="usb_host_mode_text">USB host mode</string>
   <string name="usb_insert_summary">Connect USB storage</string>
+  <string name="usb_install_app">Install via USB</string>
+  <string name="usb_install_app_desc">Allow installing apps via USB</string>
   <string name="usb_midi_summary">Lets MIDI enabled applications work over USB with MIDI software on your computer.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Mount USB storage</string>
@@ -3914,6 +4007,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="use_this_wlan">Stay connected</string>
   <string name="user_account_title">Account for content</string>
@@ -3960,7 +4054,7 @@ Any user can update apps for all other users."</string>
   <string name="user_dict_settings_context_menu_edit_title">Edit</string>
   <string name="user_dict_settings_edit_dialog_title">Edit word</string>
   <string name="user_dict_settings_empty_text">"You don't have any dictionaries
-Add a word by touching the Add (+) button"</string>
+Tap the plus to add words."</string>
   <string name="user_dict_settings_more_languages">More languages…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Personal dictionary</string>
@@ -3974,6 +4068,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_exit_guest_confirm_title">Remove guest?</string>
   <string name="user_exit_guest_dialog_remove">Remove</string>
   <string name="user_exit_guest_title">Remove guest</string>
+  <string name="user_experience_program">User Experience Program</string>
+  <string name="user_experience_program_summary">Help improve MIUI by sending anonymous usage data</string>
+  <string name="user_experience_program_title">User Experience Program</string>
   <string name="user_guest">Guest</string>
   <string name="user_image_choose_photo">Choose photo from Gallery</string>
   <string name="user_image_photo_selector">Select photo</string>

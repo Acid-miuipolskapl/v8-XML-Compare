@@ -33,6 +33,7 @@
   <string name="camera_snap_mode_title_detail">Tap to view details</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your device."</string>
+  <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
   <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
@@ -135,7 +136,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
   <string name="pref_camera_beautify_entry_auto">Off</string>
-  <string name="pref_camera_beautify_entry_close">Off</string>
+  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">High</string>
   <string name="pref_camera_beautify_entry_low">Low</string>
   <string name="pref_camera_beautify_entry_normal">Medium</string>
@@ -221,7 +222,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -430,7 +430,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
-  <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -508,7 +507,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_fisheye">Turn off Fisheye</string>
   <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
-  <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>

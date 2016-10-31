@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Call muted.</string>
   <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
   <string name="add_vm_number_str">Add number</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
   <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
   <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
@@ -10,7 +11,7 @@
   <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
   <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
-  <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
+  <string name="duplicate_video_call_not_allowed">"Call can't be added right now."</string>
   <string name="enable_account_preference_title">Calling accounts</string>
   <string name="handle_restricted">RESTRICTED</string>
   <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
@@ -26,7 +27,7 @@
   <string name="notification_missedCallsMsg">%s missed calls</string>
   <string name="notification_missedCallsTitle">Missed calls</string>
   <string name="outgoing_call_error_no_phone_number_supplied">To place a call, enter a valid number.</string>
-  <string name="outgoing_call_not_allowed_no_permission">This application cannot make outgoing calls without the Phone permission.</string>
+  <string name="outgoing_call_not_allowed_no_permission">"This app can't make outgoing calls without the Phone's permission."</string>
   <string name="outgoing_call_not_allowed_user_restriction">Only emergency calls are allowed by the device owner.</string>
   <string name="respond_via_sms_canned_response_1">"Can't talk now. What's up?"</string>
   <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
@@ -50,7 +51,7 @@
   <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unknown">Unknown</string>
   <string name="userCallActivityLabel">Phone</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY Mode to make video calls.</string>
   <string name="voice_dial_out">Voice call</string>
   <string name="voice_report_incoming_call">Incoming call</string>
   <string name="voice_report_unknown_num">Unknown number</string>
