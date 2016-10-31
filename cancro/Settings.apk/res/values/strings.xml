@@ -304,6 +304,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_disable_screenbuttons_auto">Always disable</string>
   <string name="auto_disable_screenbuttons_cancel">Cancel</string>
   <string name="auto_disable_screenbuttons_no">Never disable</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">When your device is in landscape mode, the navigation buttons will be blocked</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Block navigation buttons in landscape</string>
   <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
   <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
@@ -1617,6 +1619,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
+  <string name="input_password_hint_text">Enter password</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
@@ -3669,9 +3672,9 @@ After formatting, this ^1 will only work in this device.
 "&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
   <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
-
 "&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
+  <string name="storage_wizard_format_confirm_third_body">The ^1 is being formatted</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
   <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
   <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
@@ -3681,7 +3684,6 @@ After formatting, this ^1 will only work in this device.
   <string name="storage_wizard_init_internal_title">Use as internal storage</string>
   <string name="storage_wizard_init_title">Set up your ^1</string>
   <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
-
 The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Move</string>
@@ -4681,6 +4683,7 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
   <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>
   <string name="zen_access_warning_dialog_title">Allow access to Do Not Disturb for %1$s?</string>
