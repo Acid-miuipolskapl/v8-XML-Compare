@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="default_icon_colors">
+        <item>0xffe43c42</item>
+        <item>0xfff7c934</item>
+        <item>0xff5bc4be</item>
+        <item>0xff74c2ed</item>
+        <item>0xffaf3e25</item>
+        <item>0xffe8a623</item>
+        <item>0xff58a163</item>
+        <item>0xff008e8e</item>
+        <item>0xff3484ae</item>
+    </integer-array>
+    <string-array name="exit_on_sleep_labels">
+        <item>@string/never</item>
+        <item>@string/fifteen_seconds</item>
+        <item>@string/thirty_seconds</item>
+        <item>@string/one_minute</item>
+        <item>@string/two_minutes</item>
+        <item>@string/five_minutes</item>
+        <item>@string/ten_minutes</item>
+        <item>@string/thirty_minutes</item>
+    </string-array>
+    <integer-array name="exit_on_sleep_values">
+        <item>0</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </integer-array>
+    <string-array name="ignored_apps">
+        <item>com.android.voicedialer</item>
+        <item>com.android.dialer</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.seandroid_admin</item>
+        <item>com.securespaces.android.navigator</item>
+        <item>com.securespaces.android.shortcuts</item>
+        <item>com.android.settings</item>
+        <item>com.google.android.gms</item>
+        <item>com.securespaces.android.agent</item>
+        <item>ch.blackphone.android.blackphonesetupwizard.setupwizard</item>
+        <item>com.securespaces.android.amazonspace</item>
+        <item>com.android.securespaces.kidsspace</item>
+        <item>com.securespaces.android.example.hiddenspace</item>
+        <item>com.securespaces.android.settings</item>
+        <item>com.securespaces.android.kidspace</item>
+        <item>com.securespaces.android.verizonspace</item>
+        <item>com.securespaces.android.disneykidsspace</item>
+        <item>com.securespaces.android.virtualphone</item>
+    </string-array>
+    <string-array name="notification_update_delay_labels">
+        <item>@string/never</item>
+        <item>@string/one_minute</item>
+        <item>@string/two_minutes</item>
+        <item>@string/five_minutes</item>
+        <item>@string/ten_minutes</item>
+        <item>@string/fifteen_minutes</item>
+        <item>@string/thirty_minutes</item>
+        <item>@string/one_hour</item>
+        <item>@string/two_hours</item>
+    </string-array>
+    <integer-array name="notification_update_delay_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>7200000</item>
+    </integer-array>
+    <string-array name="space_icons">
+        <item>personal_space_1</item>
+        <item>personal_space_2</item>
+        <item>personal_space_3</item>
+        <item>personal_space_4</item>
+        <item>personal_space_5</item>
+        <item>personal_space_6</item>
+        <item>personal_space_7</item>
+        <item>personal_space_8</item>
+        <item>personal_space_9</item>
+    </string-array>
+</resources>
