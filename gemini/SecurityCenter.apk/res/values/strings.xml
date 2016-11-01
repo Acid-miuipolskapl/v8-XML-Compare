@@ -78,6 +78,11 @@ or enter App lock password"</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
   <string name="antivirus_choose_engine_settings">Virus definition settings</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Delete risky apps</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Delete viruses</string>
+  <string name="antivirus_monitor_clean_tips">Deleted %s item</string>
+  <string name="antivirus_monitor_risk_advice">"This app isn't secure, delete it"</string>
+  <string name="antivirus_monitor_virus_advice">This app may contain a virus, delete it</string>
   <string name="antivirus_more_engine_dialog_summary">Using multiple sets of definitions to scan may take more time.</string>
   <string name="antivirus_more_engine_dialog_title">Attention</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
