@@ -50,7 +50,7 @@
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
-  <string name="current_service_number">current service number</string>
+  <string name="current_service_number">Current service number</string>
   <string name="delete">Delete</string>
   <string name="delete_message">Delete</string>
   <string name="delete_unlocked">Delete locked messages</string>

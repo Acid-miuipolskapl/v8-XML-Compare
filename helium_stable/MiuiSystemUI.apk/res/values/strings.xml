@@ -221,7 +221,7 @@ Use only the supplied charger."</string>
   <string name="notification_otg_trackball_out">Trackball disconnected</string>
   <string name="notification_otg_unknow_in">OTG device connected</string>
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
-  <string name="notification_template_text">" has a notification. Touch to view."</string>
+  <string name="notification_template_text">" has a notification. Tap to view."</string>
   <string name="oldman_airplane_mode_text">airplane</string>
   <string name="oldman_incall_text">incall</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -301,6 +301,7 @@ Slide down to lock"</string>
   <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN connected</string>
   <string name="status_bar_style_settings">Notifications</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Turned on app lock</string>
   <string name="title_usb_accessory">USB accessory</string>
   <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>
