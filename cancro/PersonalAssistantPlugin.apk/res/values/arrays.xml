@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_status_detail">
+        <item>在途中</item>
+        <item>派件中</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>在途中</item>
+        <item>派件中</item>
+        <item>已发货</item>
+        <item>疑难件</item>
+        <item>已签收</item>
+        <item>退签</item>
+        <item>退回</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>半夜</item>
+        <item>凌晨</item>
+        <item>上午</item>
+        <item>中午</item>
+        <item>下午</item>
+        <item>傍晚</item>
+        <item>晚上</item>
+    </string-array>
+    <string-array name="default_corpora">
+        <item>apps</item>
+        <item>function_launch</item>
+        <item>express</item>
+        <item>recharge</item>
+        <item>map</item>
+        <item>sport</item>
+        <item>music</item>
+        <item>smarthome</item>
+        <item>duokan</item>
+        <item>taxiuber</item>
+        <item>sms_ticket</item>
+        <item>sms_group</item>
+        <item>sms_movie</item>
+        <item>suggestion</item>
+        <item>custom</item>
+        <item>cta</item>
+    </string-array>
+    <string-array name="default_corpora_suggest_uris">
+        <item>content://com.android.contacts/search_suggest_query</item>
+    </string-array>
+    <array name="hidden_corpora" />
+</resources>
