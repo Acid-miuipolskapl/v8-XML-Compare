@@ -265,22 +265,19 @@
         <item quantity="many"> %1$d items</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> days</item>
-        <item quantity="one">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> day</item>
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> days</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> day</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• You uploaded &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> videos,</item>
-        <item quantity="one">• You uploaded &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> video,</item>
+        <item quantity="other">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videos,</item>
+        <item quantity="one">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> video,</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">You made &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> people happy!</item>
-        <item quantity="one">You made &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> person happy!</item>
+        <item quantity="other">You made &lt;font color=#fc7050>%1$s&lt;/font> people happy!</item>
+        <item quantity="one">You made &lt;font color=#fc7050>%1$s&lt;/font> person happy!</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• You got &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> followers!</item>
-        <item quantity="one">• You got &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> follower!</item>
+        <item quantity="other">• You got &lt;font color=#fc7050>%1$s&lt;/font> followers!</item>
+        <item quantity="one">• You got &lt;font color=#fc7050>%1$s&lt;/font> follower!</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_26">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_27">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_28">false</item>
 </resources>

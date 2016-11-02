@@ -383,9 +383,9 @@
 is about to happen"</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
-  <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
-  <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
-  <string name="data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
+  <string name="data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+  <string name="data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+  <string name="data_traffic_prompt_message_short">"Using mobile data to stream video may cause you to go over your plan's data usage limit."</string>
   <string name="data_traffic_prompt_title">Data usage warning</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
@@ -557,8 +557,8 @@ Leave this page?"</string>
   <string name="media_error_timeout">Network connection timed out</string>
   <string name="media_error_video_not_exist">"Video doesn't exist"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
-  <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"This video can't be streamed on this device."</string>
+  <string name="media_player_error_text_unknown">"This video can't be played."</string>
   <string name="media_player_error_title">"Can't play video"</string>
   <string name="media_player_loading_video">Loading video</string>
   <string name="menu_addtodesk">Add to Home screen</string>
@@ -612,7 +612,7 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_reload">Refresh</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
-  <string name="miuichromium_error_page_title">An error occurred</string>
+  <string name="miuichromium_error_page_title">An error occured</string>
   <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
   <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
@@ -736,7 +736,7 @@ Leave this page?"</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Phone</string>
-  <string name="pref_nav_mode_title">Desktop</string>
+  <string name="pref_nav_mode_title">Browser Mode</string>
   <string name="pref_notifications_hint">Notifications</string>
   <string name="pref_notifications_receive">Notifications</string>
   <string name="pref_notifications_title">Notifications</string>
@@ -1008,7 +1008,7 @@ Leave this page?"</string>
   <string name="video_edit">Edit</string>
   <string name="video_float_window">Pop-up</string>
   <string name="video_float_window_playing">Playing video</string>
-  <string name="video_float_window_text">PopUp</string>
+  <string name="video_float_window_text">Pop-up</string>
   <string name="video_fragment_name_collections">Favorites</string>
   <string name="video_fragment_name_download">Offline video</string>
   <string name="video_fragment_name_historys">History</string>
