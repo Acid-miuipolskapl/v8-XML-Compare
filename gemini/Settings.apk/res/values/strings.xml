@@ -1093,7 +1093,7 @@ This setting affects all users on this phone."</string>
   <string name="development_settings_not_available">Developer options are not available for this user</string>
   <string name="development_settings_summary">Set options for app development</string>
   <string name="development_settings_title">Developer options</string>
-  <string name="device_actionbar_title">Mi 5</string>
+  <string name="device_actionbar_title">All specs</string>
   <string name="device_admin_add_title">Device administrator</string>
   <string name="device_admin_settings_title">Device administration settings</string>
   <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
@@ -1106,7 +1106,7 @@ This setting affects all users on this phone."</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
-  <string name="device_display_layout_title">Mi 5 Features</string>
+  <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_feedback">Send feedback about this device</string>
   <string name="device_info_default">Unknown</string>
