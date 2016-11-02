@@ -32,7 +32,6 @@
   <string name="pkcs12_file_password_dialog_title">Extract from %s</string>
   <string name="pkcs12_password_dialog_title">Extract certificate</string>
   <string name="sdcard_not_present">USB storage not available.</string>
-  <string name="storage_error">"Couldn't save the certificate. Touch OK to retry."</string>
   <string name="unable_to_save_cert">"Couldn't save the certificate. The credential storage isn't enabled or properly initialized."</string>
   <string name="wifi_cancel_label">Cancel</string>
   <string name="wifi_config_text">"Name: %1$s

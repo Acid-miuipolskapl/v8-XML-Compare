@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_447">false</string>
+  <string name="APKTOOL_DUMMY_448">false</string>
+  <string name="APKTOOL_DUMMY_449">false</string>
+  <string name="APKTOOL_DUMMY_44a">false</string>
+  <string name="APKTOOL_DUMMY_44b">false</string>
+  <string name="APKTOOL_DUMMY_44c">false</string>
+  <string name="APKTOOL_DUMMY_44d">false</string>
+  <string name="APKTOOL_DUMMY_44e">false</string>
+  <string name="APKTOOL_DUMMY_44f">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>
