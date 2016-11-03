@@ -3,6 +3,7 @@
   <string name="Accounts_settings_title">Accounts</string>
   <string name="aaid_info">"
 Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
+  <string name="about_phone_enter_xiaomi_net">Learn more</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
@@ -304,6 +305,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_disable_screenbuttons_auto">Always disable</string>
   <string name="auto_disable_screenbuttons_cancel">Cancel</string>
   <string name="auto_disable_screenbuttons_no">Never disable</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">When your device is in landscape mode, the navigation buttons will be blocked</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Block navigation buttons in landscape</string>
   <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
   <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
@@ -805,6 +808,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="close_gesture">Close using gesture</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
+  <string name="cmcc_hardware_version">Hardware version</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
   <string name="color_calibration_none">Native</string>
@@ -823,6 +827,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="color_white">White</string>
   <string name="color_yellow">Yellow</string>
   <string name="common_settings">Quick settings</string>
+  <string name="complete_parameters">All specs</string>
   <string name="complete_settings">General settings</string>
   <string name="computing_size">Computing…</string>
   <string name="config_charging_function_name">charging</string>
@@ -1088,17 +1093,20 @@ This setting affects all users on this phone."</string>
   <string name="development_settings_not_available">Developer options are not available for this user</string>
   <string name="development_settings_summary">Set options for app development</string>
   <string name="development_settings_title">Developer options</string>
+  <string name="device_actionbar_title">All specs</string>
   <string name="device_admin_add_title">Device administrator</string>
   <string name="device_admin_settings_title">Device administration settings</string>
   <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
+  <string name="device_complete_parameters">Complete</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
+  <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_feedback">Send feedback about this device</string>
   <string name="device_info_default">Unknown</string>
@@ -1107,7 +1115,9 @@ This setting affects all users on this phone."</string>
   <string name="device_info_settings">Phone status</string>
   <string name="device_internal_memory">Internal memory</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">View more</string>
   <string name="device_miui_version">MIUI version</string>
+  <string name="device_miui_version_update">MIUI update is available</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
@@ -1115,6 +1125,7 @@ This setting affects all users on this phone."</string>
   <string name="device_picker">Choose Bluetooth device</string>
   <string name="device_reset_title">Reset device</string>
   <string name="device_sd_memory">SD card</string>
+  <string name="device_share_loading">Creating image</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
@@ -1617,6 +1628,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
+  <string name="input_password_hint_text">Enter password</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
@@ -2047,6 +2059,7 @@ There are other users present on this device.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s avg memory used in last 3 hours</string>
   <string name="menu_cancel">Discard</string>
+  <string name="menu_check">Experience</string>
   <string name="menu_delete">Delete APN</string>
   <string name="menu_duration_12h">12 hours</string>
   <string name="menu_duration_1d">1 day</string>
@@ -2063,6 +2076,7 @@ There are other users present on this device.
   <string name="menu_proc_stats_type_foreground">Foreground</string>
   <string name="menu_restore">Reset</string>
   <string name="menu_save">Save</string>
+  <string name="menu_share">Share</string>
   <string name="menu_show_percentage">Show percentages</string>
   <string name="menu_show_system">Show system</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
@@ -2182,6 +2196,7 @@ Select your operating system:"</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
+  <string name="my_device">My device</string>
   <string name="nearby_wifi">Available networks</string>
   <string name="need_reboot_now">Reboot to install update.</string>
   <string name="network_assistant">Data usage</string>
@@ -2306,6 +2321,7 @@ Select your operating system:"</string>
   <string name="optimization_close">Turn off &amp; reboot</string>
   <string name="optimization_open">Turn on</string>
   <string name="other_advanced_settings">Additional settings</string>
+  <string name="other_device_info">Others</string>
   <string name="other_personal_settings">Additional settings</string>
   <string name="other_relative">Other</string>
   <string name="other_sound_settings">Other sounds</string>
@@ -2830,6 +2846,7 @@ Select your operating system:"</string>
   <string name="radio_info_smsc_refresh_label">Refresh</string>
   <string name="radio_info_smsc_update_label">Update</string>
   <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
+  <string name="rank_title">Rankings</string>
   <string name="rarely_running">Rarely running (%s)</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the phone!</string>
   <string name="really_remove_account_title">Remove account?</string>
@@ -2837,6 +2854,11 @@ Select your operating system:"</string>
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
+  <string name="recommend_item_1">Phone case</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Earphones</string>
+  <string name="recommend_item_title">Recommendations</string>
   <string name="recompute_size">Recomputing size…</string>
   <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
@@ -3668,9 +3690,9 @@ After formatting, this ^1 will only work in this device.
 "&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
   <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
-
 "&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
+  <string name="storage_wizard_format_confirm_third_body">The ^1 is being formatted</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
   <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
   <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
@@ -3680,7 +3702,6 @@ After formatting, this ^1 will only work in this device.
   <string name="storage_wizard_init_internal_title">Use as internal storage</string>
   <string name="storage_wizard_init_title">Set up your ^1</string>
   <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
-
 The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Move</string>
@@ -4680,6 +4701,7 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
   <string name="xspace">Dual apps</string>
   <string name="yes">Yes</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
   <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>
   <string name="zen_access_warning_dialog_title">Allow access to Do Not Disturb for %1$s?</string>
