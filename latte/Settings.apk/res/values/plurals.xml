@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s apps can't show notifications"</item>
+        <item quantity="one">"1 app can't show notifications"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s apps can show notifications</item>
+        <item quantity="one">1 app can show notifications</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d items</item>
         <item quantity="one">%d item</item>
@@ -11,14 +19,6 @@
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d hours</item>
         <item quantity="one">%d hour</item>
-    </plurals>
-    <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s apps can't show notifications"</item>
-        <item quantity="one">"1 app can't show notifications"</item>
-    </plurals>
-    <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s apps can show notifications</item>
-        <item quantity="one">1 app can show notifications</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">You are now %1$d steps away from being a developer.</item>
