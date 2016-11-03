@@ -26,7 +26,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="corpus_hint_apps">Search apps</string>
   <string name="corpus_label_apps">Apps</string>
   <string name="corpus_label_global">All</string>
-  <string name="corpus_label_web">Search apps, music, videos, yellow page…</string>
+  <string name="corpus_label_web">Web</string>
   <string name="corpus_selection_heading">Search</string>
   <string name="cta_declaration">"This feature needs to connect to the internet, access your device's location, and view your call history and contacts to work normally."</string>
   <string name="cta_declaration_ignore">"Don't show again"</string>

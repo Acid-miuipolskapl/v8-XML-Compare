@@ -19,7 +19,6 @@
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Updated %1$s</string>
-  <string name="activity_main_update_time_expire">Data expired</string>
   <string name="activity_main_update_time_right_now">just now</string>
   <string name="activity_weathermain_locationg">Locating…</string>
   <string name="activity_weathermain_locationg_error">"Can't locate"</string>
@@ -56,6 +55,7 @@
   <string name="button_not_allow">Cancel</string>
   <string name="button_sure_abandon">Discard changes?</string>
   <string name="change_alert">Check your network connection and try again</string>
+  <string name="close">Close</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">Just a sec…</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
@@ -79,6 +79,7 @@
   <string name="first_start_network_title">Internet connection and location access</string>
   <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">Current location</string>
+  <string name="hide_topic">Hide</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Now</string>
   <string name="hourly_forecast_title">Hourly forecast</string>
