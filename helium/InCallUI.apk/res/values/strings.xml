@@ -189,7 +189,9 @@
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Voice</string>
   <string name="notification_action_dismiss">Dismiss</string>
+  <string name="notification_action_earpiece">Earpiece</string>
   <string name="notification_action_end_call">Hang up</string>
+  <string name="notification_action_speaker">Speaker</string>
   <string name="notification_dialing">Dialing</string>
   <string name="notification_incoming_call">Incoming call</string>
   <string name="notification_incoming_video_call">Incoming video call</string>
