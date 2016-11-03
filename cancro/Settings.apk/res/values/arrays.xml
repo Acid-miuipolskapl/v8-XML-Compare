@@ -1834,14 +1834,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>0.3秒极速对焦</item>
     </string-array>
     <string-array name="standard_configuration_version_device_display_summary">
-        <item>NVIDIA Tegra 4 四核 1.8GHz</item>
-        <item>2GB LPDDR3 内存</item>
-        <item>1300万像素相机</item>
+        <item>骁龙801四核处理器</item>
+        <item>5英寸阳光屏</item>
+        <item>1300万像素极速相机</item>
     </string-array>
-    <string-array name="standard_configuration_version_device_display_secondary" formatted="false">
-        <item>全 A15 架构28nm 制程工艺，4+1 省电核芯</item>
-        <item>极速LPDDR3内存，较LPDDR2提升50%，同时功耗降低20%</item>
-        <item>索尼1300万像素相机，配备飞利浦双LED闪光灯</item>
+    <string-array name="standard_configuration_version_device_display_secondary">
+        <item>内含四个Krait 400 2.5GHz 处理核心，运算速度提升14%</item>
+        <item>采用了高色彩饱和度夏普/ JDI屏幕，达到95% NTSC色域</item>
+        <item>采用索尼/三星堆栈式图像传感器，对焦最快至0.3秒</item>
     </string-array>
     <string-array name="standard_configuration_version_device_display_description_text_1">
         <item>GB</item>
