@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Combined</item>
+        <item>Separate</item>
+    </string-array>
+    <string-array name="status_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="font_size_scale">
         <item>0.86</item>
         <item>1.0</item>
@@ -18,14 +26,6 @@
         <item>@string/st_antispam_mode_only_contacts_state</item>
         <item>@string/st_antispam_mode_only_whitelist_state</item>
         <item>@string/st_antispam_mode_only_all_deny_state</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Combined</item>
-        <item>Separate</item>
-    </string-array>
-    <string-array name="status_bar_style_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
