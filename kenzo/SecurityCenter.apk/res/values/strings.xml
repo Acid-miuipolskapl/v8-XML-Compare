@@ -78,6 +78,11 @@ or enter App lock password"</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
   <string name="antivirus_choose_engine_settings">Virus definition settings</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Delete risky apps</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Delete viruses</string>
+  <string name="antivirus_monitor_clean_tips">Deleted %s item</string>
+  <string name="antivirus_monitor_risk_advice">"This app isn't secure, delete it"</string>
+  <string name="antivirus_monitor_virus_advice">This app may contain a virus, delete it</string>
   <string name="antivirus_more_engine_dialog_summary">Using multiple sets of definitions to scan may take more time.</string>
   <string name="antivirus_more_engine_dialog_title">Attention</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
@@ -152,6 +157,8 @@ or enter App lock password"</string>
   <string name="auto_task_edit_condition_title">Add condition</string>
   <string name="auto_task_edit_my_custom_task">Name</string>
   <string name="auto_task_edit_operation_summary">For example, \"Turn on Airplane mode\"</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Name</string>
   <string name="auto_task_main_summary">Change system settings for certain periods of time or according to the battery level</string>
   <string name="auto_task_main_title">Automated tasks</string>
@@ -667,6 +674,7 @@ or enter App lock password"</string>
   <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">Set data limit</string>
+  <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
   <string name="main_button_idel_traffic">Off-peak</string>
   <string name="main_button_normal_traffic">Peak</string>
   <string name="main_button_usage_adjust">Sync mobile data usage</string>
@@ -674,6 +682,7 @@ or enter App lock password"</string>
   <string name="main_button_usage_adjusting">Changing…</string>
   <string name="main_button_usage_package_setting">Set data usage limit</string>
   <string name="main_message_no_package_by_dual">Set data limit for %s</string>
+  <string name="main_open_traffic_ctrl_button">Restrict data usage</string>
   <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
   <string name="main_primary_message_traffic_cur_normal">Under peak data limit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Data limit exceeded</string>
@@ -1067,6 +1076,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Data usage notifications</string>
   <string name="pref_title_virus_white_list">Exceptions</string>
+  <string name="pref_traffic_manage_title">Data usage</string>
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="pref_whitelist_setting">Data roaming exceptions</string>
