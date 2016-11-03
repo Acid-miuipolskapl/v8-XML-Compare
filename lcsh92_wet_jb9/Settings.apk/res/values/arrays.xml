@@ -1652,4 +1652,118 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Notes</item>
         <item>Child mode</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高1.8GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>骁龙400</item>
+        <item>3100mAh</item>
+        <item>8GB机身存储</item>
+        <item>5.5英寸</item>
+        <item>双频WLAN</item>
+        <item>13MP</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>四核主频1.6GHz</item>
+        <item>大电池超省电</item>
+        <item>机身存储</item>
+        <item>全贴合IPS大屏</item>
+        <item>支持802.11ac协议</item>
+        <item>28mm广角相机</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_summary">
+        <item>骁龙400处理器</item>
+        <item>1300万像素相机</item>
+        <item>5.5英寸全贴合IPS屏幕</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_secondary">
+        <item>四核1.6GHz主频</item>
+        <item>配备28mm大广角相机，拍摄视野更大</item>
+        <item>IPS技术可视角度可达178°，色彩更加细腻丰富</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_1">
+        <item>GB</item>
+        <item>16MP</item>
+        <item>95%NTSC</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_2">
+        <item>GB</item>
+        <item>蓝宝石</item>
+        <item>600nit</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_3">
+        <item>内存</item>
+        <item>索尼iMX298相机</item>
+        <item>高色彩饱和度</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_4">
+        <item>内存</item>
+        <item>镜头保护玻璃</item>
+        <item>屏幕亮度</item>
+    </string-array>
+    <string-array name="hardware_parameters_title">
+        <item>"处理器
+与存储"</item>
+        <item>外观尺寸</item>
+        <item>电池</item>
+        <item>"拍照
+与摄像"</item>
+        <item>屏幕显示</item>
+        <item>"无线连接
+与制式"</item>
+        <item>感应器</item>
+    </string-array>
+    <string-array name="hardware_parameters_summary">
+        <item>"高通骁龙400
+四核核1.6GHz
+内存2GB LPDDR3
+高速闪存8GB
+最大存储扩展64GB"</item>
+        <item>"高度：154 mm
+宽度：78.7 mm
+厚度：9.45 mm"</item>
+        <item>3100/3200mAh(min/typ)锂离子聚合物电池</item>
+        <item>"后置摄像头
+1300 万像素
+F2.2光圈
+28mm广角
+前置摄像头
+500 万像素
+视频拍摄
+1080p（1920x1080）高清摄像
+720p（1280x720）准高清摄像"</item>
+        <item>"5.5英寸IPS全贴合屏幕
+1280x720像素
+多点触控电容屏"</item>
+        <item>"移动版
+支持中国移动4G / 3G /2G网络，同时支持中国联通2G网络
+联通版
+支持中国联通4G / 3G / 2G网络，同时支持中国移动2G网络
+蓝牙4.0/ WLAN支持2.4 GHz和5 GHz频段/GPS+AGPS +GLONASS+北斗定位"</item>
+        <item>"电子罗盘
+重力感应
+光线感应
+陀螺仪
+距离感应器"</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_info_title">
+        <item>红米Note</item>
+        <item>红米Note 特色功能</item>
+    </string-array>
+    <string-array name="standard_configuration_version_share_text">
+        <item>"红米Note，快的有点狠!
+http://m.mi.com"</item>
+    </string-array>
 </resources>
