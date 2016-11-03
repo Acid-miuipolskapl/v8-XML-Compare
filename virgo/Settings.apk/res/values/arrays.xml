@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Combined</item>
+        <item>Separate</item>
+    </string-array>
+    <string-array name="status_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scanning…</item>
@@ -27,14 +35,6 @@
         <item>Unsuccessful</item>
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Combined</item>
-        <item>Separate</item>
-    </string-array>
-    <string-array name="status_bar_style_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -1801,5 +1801,153 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
         <item>Child mode</item>
+    </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高1.8GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>骁龙801</item>
+        <item>3000mAh</item>
+        <item>64GB</item>
+        <item>5.7英寸</item>
+        <item>双卡双待</item>
+        <item>13MP</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>强大性能</item>
+        <item>大容量电池</item>
+        <item>机身存储</item>
+        <item>夏普/ JDI深度定制</item>
+        <item>双4G</item>
+        <item>光学防抖相机</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_summary">
+        <item>骁龙801处理器</item>
+        <item>1300万像素相机</item>
+        <item>5.7 英寸全高清屏幕</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_secondary">
+        <item>更痛快地玩大型3D游戏，看高清电影，在同时处理多项任务时快速切换</item>
+        <item>索尼1300万像素光学防抖相机，飞利浦双色温闪光灯</item>
+        <item>屏幕更大，表现也更出色（这媲美一般24英寸电脑显示器的分辨率，是1080p分辨率的 1.7 倍之多）</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_1">
+        <item>GB</item>
+        <item>16MP</item>
+        <item>95%NTSC</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_2">
+        <item>GB</item>
+        <item>蓝宝石</item>
+        <item>600nit</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_3">
+        <item>内存</item>
+        <item>索尼iMX298相机</item>
+        <item>高色彩饱和度</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_4">
+        <item>内存</item>
+        <item>镜头保护玻璃</item>
+        <item>屏幕亮度</item>
+    </string-array>
+    <string-array name="hardware_parameters_title">
+        <item>"CPU、
+存储
+与电池"</item>
+        <item>外观尺寸</item>
+        <item>"拍照
+与摄像"</item>
+        <item>屏幕显示</item>
+        <item>"无线连接
+与制式"</item>
+        <item>感应器</item>
+    </string-array>
+    <string-array name="hardware_parameters_summary" formatted="false">
+        <item>"标准版
+骁龙801处理器
+Adreno 330 图形处理器
+3GB LPDDR3
+LPDDR3 933 MHz
+16GB / 64GB 存储空间
+eMMC 5.0
+锂离子聚合物大电池
+典型容量值3000mAh（typ）
+最小容量值2900mAh（min）
+
+顶配版
+骁龙810处理器
+Adreno 430 图形处理器
+4GB LPDDR4
+LPDDR4 1600 MHz
+64GB存储空间
+eMMC 5.0
+锂离子聚合物大电池
+典型容量值3090mAh（typ）
+最小容量值3010mAh（min）
+
+SIM卡槽
+顶配版与标准版均支持 micro SIM卡、 nano SIM卡"</item>
+        <item>"高度：155.1 mm
+宽度：77.6 mm
+厚度：6.95mm"</item>
+        <item>"1300万像素光学防抖相机
+索尼 1300万像素堆栈式二代图像传感器
+支持 OIS 光学防抖
+6片式镜头，ƒ/2.0 光圈
+飞利浦双色温LED闪光灯，显色指数高达93
+支持32秒手动曝光
+支持手动模式、实时HDR模式、动态追焦、魔术对焦
+支持补光模式，自动识别场景色温
+支持4K超高清视频录制
+暗光画质增强技术
+400万大像素前置相机
+单个像素大至2微米
+ƒ/2.0光圈
+第二代36级智能美颜
+支持1080p视频录制 "</item>
+        <item>"标准版
+5.7英寸夏普/JDI 全高清屏幕
+1920 x 1080像素分辨率，386 PPI
+95% NTSC色域，高色彩饱和度
+Nega 负液晶技术，高达1400:1对比度
+阳光屏 - 像素级动态对比度调整技术
+顶配版
+5.7英寸夏普/JDI 2K超高清大屏
+2560 x 1440像素分辨率，515 PPI
+95% NTSC色域，高色彩饱和度
+Nega 负液晶技术，高达1400:1对比度
+阳光屏 - 像素级动态对比度调整技术"</item>
+        <item>"双网通版支持移动联通4G/3G/2G
+全网通版支持移动联通电信4G/3G/2G
+蓝牙4.1/蓝牙HID/双频WIFI 2.4/5 GHz/WIFI Display/WIFI Direct
+GPS/AGPS/GLONASS/北斗定位"</item>
+        <item>"电子罗盘
+重力感应
+光线感应
+陀螺仪
+距离感应器
+气压计
+霍尔感应器"</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_info_title">
+        <item>小米Note</item>
+        <item>小米Note 特色功能</item>
+    </string-array>
+    <string-array name="standard_configuration_version_share_text">
+        <item>"小米Note，快的有点狠!
+http://m.mi.com"</item>
     </string-array>
 </resources>
