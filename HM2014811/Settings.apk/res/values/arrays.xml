@@ -1652,4 +1652,126 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Notes</item>
         <item>Child mode</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高1.8GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>骁龙410</item>
+        <item>2200mAh</item>
+        <item>8GB/16GB机身存储</item>
+        <item>4.7英寸</item>
+        <item>4G</item>
+        <item>8MP</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>64位4核处理器</item>
+        <item>可更换电池</item>
+        <item>32GB存储扩展</item>
+        <item>全贴合IPS屏</item>
+        <item>双卡双待</item>
+        <item>背照式相机</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_summary">
+        <item>骁龙410处理器</item>
+        <item>4.7英寸屏幕</item>
+        <item>800 万像素背照式相机</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_secondary">
+        <item>64位4核高性能，玩游戏、看高清视频均游刃有余</item>
+        <item>采用 IPS 技术，和朋友一起看电影不正对屏幕也能看清楚</item>
+        <item>相机支持特效滤镜、全景、连拍、声控快门等多种拍摄玩法</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_1">
+        <item>GB</item>
+        <item>16MP</item>
+        <item>95%NTSC</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_2">
+        <item>GB</item>
+        <item>蓝宝石</item>
+        <item>600nit</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_3">
+        <item>内存</item>
+        <item>索尼iMX298相机</item>
+        <item>高色彩饱和度</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_4">
+        <item>内存</item>
+        <item>镜头保护玻璃</item>
+        <item>屏幕亮度</item>
+    </string-array>
+    <string-array name="hardware_parameters_title">
+        <item>"CPU、
+存储
+与电池"</item>
+        <item>外观尺寸</item>
+        <item>"拍照
+与摄像"</item>
+        <item>屏幕显示</item>
+        <item>"无线连接
+与制式"</item>
+        <item>感应器</item>
+    </string-array>
+    <string-array name="hardware_parameters_summary">
+        <item>"高通骁龙410四核1.2GHz处理器
+1GB极速内存/增强版2GB极速内存
+8GB高速闪存/增强版16GB高速闪存
+最大可扩展32GB
+SIM卡槽
+支持Micro-SIM卡,双卡双待，双4G
+2200mAh电池"</item>
+        <item>"高度：134 mm
+宽度：67.2 mm
+厚度：9.4mm"</item>
+        <item>"800万像素背照式相机
+
+美国 OmniVision 感光元件 
+5片式镜头
+28mm广角
+F2.2光圈，28mm广角
+支持面部检测
+全景模式、连拍模式、曝光控制、实时滤镜
+每秒10连拍
+支持1080P高清视频录制 
+在保证产品技术指标不变的情况下，可能在生产中出现供应商的变化
+
+200万像素前置相机
+
+支持二代智能美颜
+支持720P高清视频录制"</item>
+        <item>"5英寸IPS视网膜屏
+441 PPI
+1920x1080全高清
+超敏触控"</item>
+        <item>"移动4G版支持移动4G/3G/2G，以及联通2G
+联通4G版支持联通4G/3G/2G，以及移动2G
+电信4G版支持电信4G/3G/2G，以及移动2G/联通2G
+蓝牙4.0/WIFI Display/WIFI Direct /GPS+AGPS +GLONASS+北斗定位"</item>
+        <item>"电子罗盘
+重力感应
+光线感应
+陀螺仪
+距离感应器"</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_info_title">
+        <item>红米手机 2</item>
+        <item>红米手机 2 特色功能</item>
+    </string-array>
+    <string-array name="standard_configuration_version_share_text">
+        <item>"红米手机2，快的有点狠!
+http://m.mi.com"</item>
+    </string-array>
 </resources>

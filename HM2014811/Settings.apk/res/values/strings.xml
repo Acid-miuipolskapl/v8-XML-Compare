@@ -2,6 +2,7 @@
 <resources>
   <string name="aaid_info">"
 Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
+  <string name="about_phone_enter_xiaomi_net">Learn more</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Set a password for individual apps</string>
@@ -220,6 +221,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="auto_disable_screenbuttons_auto">Always disable</string>
   <string name="auto_disable_screenbuttons_cancel">Cancel</string>
   <string name="auto_disable_screenbuttons_no">Never disable</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">When your device is in landscape mode, the navigation buttons will be blocked</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Block navigation buttons in landscape</string>
   <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
   <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
@@ -645,6 +648,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="color_white">White</string>
   <string name="color_yellow">Yellow</string>
   <string name="common_settings">Quick settings</string>
+  <string name="complete_parameters">All specs</string>
   <string name="complete_settings">General settings</string>
   <string name="computing_size">Computing…</string>
   <string name="config_charging_function_name">charging</string>
@@ -845,17 +849,20 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="development_settings_not_available">Developer options are not available for this user</string>
   <string name="development_settings_summary">Set options for app development</string>
   <string name="development_settings_title">Developer options</string>
+  <string name="device_actionbar_title">All specs</string>
   <string name="device_admin_add_title">Device administrator</string>
   <string name="device_admin_settings_title">Device administration settings</string>
   <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
+  <string name="device_complete_parameters">All specs</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
+  <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
@@ -863,7 +870,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_info_settings">Phone status</string>
   <string name="device_internal_memory">Internal memory</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">View more</string>
   <string name="device_miui_version">MIUI version</string>
+  <string name="device_miui_version_update">MIUI update is available</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
@@ -871,6 +880,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD card</string>
   <string name="device_security_settings_title">Security</string>
+  <string name="device_share_loading">Creating image</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
@@ -1572,6 +1582,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="memory_size">Total space</string>
   <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_cancel">Discard</string>
+  <string name="menu_check">Check out</string>
   <string name="menu_delete">Delete APN</string>
   <string name="menu_duration_12h">12 hours</string>
   <string name="menu_duration_1d">1 day</string>
@@ -1587,6 +1598,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="menu_proc_stats_type_foreground">Foreground</string>
   <string name="menu_restore">Reset</string>
   <string name="menu_save">Save</string>
+  <string name="menu_share">Share</string>
   <string name="menu_show_system">Show system</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
   <string name="menu_stats_refresh">Refresh</string>
@@ -1692,6 +1704,7 @@ Select your operating system:"</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
+  <string name="my_device">My device</string>
   <string name="nearby_wifi">Available networks</string>
   <string name="need_reboot_now">Reboot to install update.</string>
   <string name="network_assistant">Data usage</string>
@@ -1762,6 +1775,7 @@ Select your operating system:"</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="other_advanced_settings">Additional settings</string>
+  <string name="other_device_info">Others</string>
   <string name="other_personal_settings">Personal settings</string>
   <string name="other_relative">Other</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
@@ -2253,6 +2267,7 @@ Select your operating system:"</string>
   <string name="radio_info_smsc_refresh_label">Refresh</string>
   <string name="radio_info_smsc_update_label">Update</string>
   <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
+  <string name="rank_title">Rankings</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the phone!</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="rebootiing_for_updates">Rebooting…</string>
@@ -2262,6 +2277,11 @@ Select your operating system:"</string>
   <string name="recognizer_settings_summary">"Settings for '%s'"</string>
   <string name="recognizer_settings_title">Voice Search</string>
   <string name="recognizer_title">Voice recognizer</string>
+  <string name="recommend_item_1">Phone case</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Earphones</string>
+  <string name="recommend_item_title">Recommendations</string>
   <string name="recompute_size">Recomputing size…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
