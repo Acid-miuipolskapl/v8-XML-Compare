@@ -1652,4 +1652,129 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Notes</item>
         <item>Child mode</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高1.8GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>骁龙400</item>
+        <item>HiFi系统</item>
+        <item>8GB</item>
+        <item>4.7英寸</item>
+        <item>米音HiFi</item>
+        <item>8MP</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>四核处理器</item>
+        <item>专业级音频芯片</item>
+        <item>高速闪存</item>
+        <item>IPS 视网膜屏</item>
+        <item>音乐神器</item>
+        <item>F2.2 大光圈</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_summary">
+        <item>高通骁龙400处理器</item>
+        <item>8GB高速闪存</item>
+        <item>4.7英寸IPS视网膜屏</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_secondary">
+        <item>采用Cortex-A7架构，在超低功耗的同时拥有强劲处理性能</item>
+        <item>可存储更多应用、音乐、视频及照片</item>
+        <item>分辨率高达1280 x 720，显示精度高达312PPI</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_1">
+        <item>GB</item>
+        <item>16MP</item>
+        <item>95%NTSC</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_2">
+        <item>GB</item>
+        <item>蓝宝石</item>
+        <item>600nit</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_3">
+        <item>内存</item>
+        <item>索尼iMX298相机</item>
+        <item>高色彩饱和度</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_4">
+        <item>内存</item>
+        <item>镜头保护玻璃</item>
+        <item>屏幕亮度</item>
+    </string-array>
+    <string-array name="hardware_parameters_title">
+        <item>"CPU、
+存储
+与电池"</item>
+        <item>外观尺寸</item>
+        <item>屏幕显示</item>
+        <item>"拍照
+与摄像"</item>
+        <item>"无线连接
+与制式"</item>
+        <item>感应器</item>
+    </string-array>
+    <string-array name="hardware_parameters_summary">
+        <item>"移动版
+CPU频率 四核1.3GHz
+CPU型号MTK MT6582
+双卡槽，支持双卡双待单通（均为标准SIM卡）
+
+联通 / 电信版
+CPU频率 四核1.6GHz
+CPU型号 高通骁龙400
+卡槽双卡槽，支持双卡双待单通（均为标准SIM卡）
+
+内存1GB
+高速闪存8GB
+
+2000mAh可换锂离子聚合物电池"</item>
+        <item>"高度：137 mm
+宽度：69 mm
+厚度：9.9 mm"</item>
+        <item>"屏幕尺寸4.7英寸
+屏幕材质IPS屏幕
+分辨率1280x720像素"</item>
+        <item>"后置摄像头800万像素
+前置摄像头160万像素
+闪光灯LED闪光灯
+光圈F2.2大光圈
+广角28mm
+连拍功能每秒8连拍
+视频拍摄
+1080p （1920x1080）全高清摄像
+720p （1280x720）高清摄像"</item>
+        <item>"移动版
+支持中国移动 3G(TD-SCDMA) 及中国移动、中国联通 2G(GSM) 网络
+联通版
+支持中国联通 3G(WCDMA) 及中国移动、中国联通 2G(GSM) 网络
+电信版
+支持中国电信、中国联通 3G(CDMA / WCDMA) 及中国移动、中国联通、中国电信 2G(GSM / CDMA1x) 网络
+
+蓝牙4.0/WIFI/GPS+AGPS+GLONASS"</item>
+        <item>"电子罗盘
+重力感应
+光线感应
+陀螺仪
+距离感应器"</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_info_title">
+        <item>小米手机 1s</item>
+        <item>小米手机 1s 特色功能</item>
+    </string-array>
+    <string-array name="standard_configuration_version_share_text">
+        <item>"小米手机1s，快的有点狠!
+http://m.mi.com"</item>
+    </string-array>
 </resources>
