@@ -538,10 +538,6 @@
         <item>120</item>
         <item>255</item>
     </integer-array>
-    <string-array name="ss_disable_package_notifications">
-        <item>com.securespaces.android.settings</item>
-        <item>com.securespaces.android.agent</item>
-    </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Try again</item>
         <item></item>
