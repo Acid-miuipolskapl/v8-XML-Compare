@@ -508,7 +508,7 @@ Reason: \"%s\""</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
@@ -595,7 +595,7 @@ Reason: \"%s\""</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">Accounts</string>
@@ -1255,7 +1255,6 @@ Choose one of the following options:"</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
-  <string name="yellowpage_mi_family">Mi Family</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
