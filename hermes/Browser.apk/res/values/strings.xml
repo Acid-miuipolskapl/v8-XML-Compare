@@ -544,6 +544,7 @@ Leave this page?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">"Couldn't sign in, refresh and try again"</string>
   <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
+  <string name="low_memory_toast">"Can't use Browser because of low memory"</string>
   <string name="max_tabs_warning">"Can't open more tabs"</string>
   <string name="maximum_input_alert">"Can't enter more than 2048 characters"</string>
   <string name="media_error_action_refresh">Refresh</string>

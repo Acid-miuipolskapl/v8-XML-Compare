@@ -496,6 +496,7 @@ Switch to the new provider anyway?"</string>
   <string name="handon_ringer_summary">"Reduce ringer volume for incoming call when phone is raised. This feature doesn't work when vibration for incoming calls is on."</string>
   <string name="handon_ringer_title">Quiet ringer when lifted</string>
   <string name="help_view">Help</string>
+  <string name="home_screen_shortcut">Home screen shortcut</string>
   <string name="importAllSimEntries">Import all</string>
   <string name="importSimEntry">Import</string>
   <string name="importToFDNfromContacts">Import from contacts</string>
@@ -616,6 +617,7 @@ Top up and start talking"</string>
   <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_remain_minutes_title">Remaining call time</string>
   <string name="livetalk_setting">Top-up package</string>
+  <string name="livetalk_shortcut_title">Top-up package</string>
   <string name="livetalk_terms_conditions">Terms and Conditions</string>
   <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
   <string name="livetalk_user_config_title">SIM Verification</string>
