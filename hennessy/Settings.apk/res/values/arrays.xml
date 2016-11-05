@@ -1730,4 +1730,134 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Notes</item>
         <item>Child mode</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高1.8GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>MTK Helio X10</item>
+        <item>3060mAh</item>
+        <item>2GB双通道</item>
+        <item>5.5英寸</item>
+        <item>4G</item>
+        <item>13MP</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>八核64位</item>
+        <item>可换式大电池</item>
+        <item>存储空间</item>
+        <item>1080p 全高清</item>
+        <item>双卡双待</item>
+        <item>相位对焦相机</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_summary">
+        <item>Helio X10处理器</item>
+        <item>1300万像素相机</item>
+        <item>5.5英寸全高清屏幕</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_secondary">
+        <item>MTK旗舰级Helio X10处理器，8核64位Cortex-A53构架</item>
+        <item>快至0.1秒相位对焦，捕捉每一个幸福瞬间</item>
+        <item>专为年轻人优化，支持阳光屏、夜光屏</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_1">
+        <item>GB</item>
+        <item>16MP</item>
+        <item>95%NTSC</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_2">
+        <item>GB</item>
+        <item>蓝宝石</item>
+        <item>600nit</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_3">
+        <item>内存</item>
+        <item>索尼iMX298相机</item>
+        <item>高色彩饱和度</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_display_description_text_4">
+        <item>内存</item>
+        <item>镜头保护玻璃</item>
+        <item>屏幕亮度</item>
+    </string-array>
+    <string-array name="hardware_parameters_title">
+        <item>"CPU、
+存储
+与电池"</item>
+        <item>外观尺寸</item>
+        <item>电池</item>
+        <item>"拍照
+与摄像"</item>
+        <item>"屏幕
+与显示"</item>
+        <item>"无线连接
+与制式"</item>
+        <item>"传感器
+与导航"</item>
+    </string-array>
+    <string-array name="hardware_parameters_summary">
+        <item>"MTK X10 八核64位处理器
+标准版 MTK X10 八核 2.0 GHz处理器
+高配版 MTK X10 八核 2.2 GHz处理器
+Power VR G6200 图形处理器
+2GB极速内存
+LPDDR3
+16GB容量/高配版32GB容量
+支持最大 32GB 扩展存储卡
+SIM卡槽
+支持Micro-SIM卡，双卡双待
+3060mAh电池
+锂离子聚合物电池
+典型容量3060mAh，额定容量3020mAh"</item>
+        <item>"高度：152 mm
+宽度：76 mm
+厚度：8.25mm"</item>
+        <item>典型容量3060mAh，额定容量3020mAh</item>
+        <item>"三星等1300万像素相机
+0.1秒相位对焦
+5片式镜头
+F2.2光圈，78°广角
+支持全景模式、水平仪、手动模式、场景模式
+倒计时、HDR模式
+支持1080p高清视频录制
+500万像素前置相机
+支持36级智能美颜
+支持1080p高清视频录制"</item>
+        <item>"5.5英寸全高清屏幕
+1920 x 1080分辨率，400PPI"</item>
+        <item>"移动版
+支持中国移动4G/3G/2G、中国联通2G网络
+标准版/高配版双网通
+支持中国移动及中国联通4G/3G/2G 网络
+蓝牙4.0/2.4/5GHz双WLAN/WIFI Display/WIFI Direct"</item>
+        <item>"电子罗盘
+重力感应
+光线感应
+陀螺仪
+距离感应器
+红外
+GPS
+A-GPS
+GPS+GLONASS
+北斗定位"</item>
+    </string-array>
+    <string-array name="standard_configuration_version_device_info_title">
+        <item>红米Note 2</item>
+        <item>红米Note 2特色功能</item>
+    </string-array>
+    <string-array name="standard_configuration_version_share_text">
+        <item>"红米Note 2，快的有点狠!
+http://m.mi.com"</item>
+    </string-array>
 </resources>
