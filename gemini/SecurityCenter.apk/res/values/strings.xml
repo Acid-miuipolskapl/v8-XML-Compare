@@ -611,6 +611,7 @@ or enter App lock password"</string>
   <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
+  <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
   <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
   <string name="kilobyteShort">KB</string>
@@ -844,6 +845,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
+  <string name="old_sdk_deny_warning">"The app isn't compatible with the latest Android permission requirements. Denied permissions may affect the way this app works."</string>
   <string name="open">Open</string>
   <string name="open_app">Open</string>
   <string name="open_browser">Open in browser</string>
@@ -907,6 +909,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_networkassistant_4">System apps/Security/Data usage/Test network</string>
   <string name="path_permcenter">System apps/Security/Permissions</string>
   <string name="path_powercenter">System apps/Security/Battery usage</string>
+  <string name="path_powercenter_powerrank">Battery &amp; performance/Battery use</string>
   <string name="path_securitycenter">System apps/Security</string>
   <string name="path_securitycenter_settings">System apps/Security</string>
   <string name="pay_charge">Purchase additional data</string>
@@ -1181,6 +1184,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="resource_networkassistant_4">Test network</string>
   <string name="resource_permcenter">Permissions</string>
   <string name="resource_powercenter">Battery usage</string>
+  <string name="resource_powercenter_powerrank">Battery &amp; performance</string>
   <string name="resource_securitycenter">Security</string>
   <string name="resource_securitycenter_settings">Security</string>
   <string name="result_autoscan_header">Payment monitoring</string>
@@ -1637,9 +1641,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
-  <string name="usb_adb_input_apply_step_1">Your computer will be able to change settings and grant permissions without you knowing when your device is connected via USB</string>
-  <string name="usb_adb_input_apply_step_2">This may lead to leaks of private information, such as accounts or messages</string>
-  <string name="usb_adb_input_apply_step_3">Make sure you understand the related risks before you allow. Allow now?</string>
+  <string name="usb_adb_input_apply_step_1">"This might lead to leaks and loss of private information. We don't recommend doing this unless you're a developer."</string>
+  <string name="usb_adb_input_apply_step_2">Developers can use special software to imitate gestures, change settings, and grant permissions via USB.</string>
+  <string name="usb_adb_input_apply_step_3">Allow now?</string>
   <string name="usb_install_desc">Install this app via USB?</string>
   <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
