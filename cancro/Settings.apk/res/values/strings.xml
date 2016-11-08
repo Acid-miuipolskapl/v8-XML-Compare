@@ -276,6 +276,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="apply_now_button_text">Update</string>
   <string name="apply_password_to_category_title">Require unlock</string>
   <string name="apply_update_fail">"Couldn't update"</string>
+  <string name="approve_title">Verification</string>
   <string name="apps_storage">Apps storage</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
