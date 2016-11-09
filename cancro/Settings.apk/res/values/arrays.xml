@@ -1878,7 +1878,6 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="hardware_parameters_summary" formatted="false">
         <item>"骁龙四核2.5GHz处理器
-
 骁龙801处理器 主频 2.5GHz
 Adreno 330图形处理器 主频578MHz
 3GB / 2GB极速内存 LPDDR3 933 MHz
@@ -1891,23 +1890,19 @@ Adreno 330图形处理器 主频578MHz
 典型容量为3080mAh
 最小容量为3000mAh"</item>
         <item>"索尼/三星1300万像素相机
-
 索尼 / 三星1300 万像素堆栈式图像传感器
-6片式镜头，ƒ/1.8 光圈
+6片式镜头，f/1.8 光圈
 最快至0.3秒对焦
 蓝玻璃红外线滤镜
 高动态智能闪光灯
 支持面部检测、实时HDR 模式、全景模式、连拍模式
 支持动态追焦、魔术对焦
 支持4K高清视频录制
-
 索尼/三星800万像素前置相机
-
 索尼 / 三星800 万像素背照式图像传感器
-5片式镜头，ƒ/1.8 光圈
+5片式镜头，f/1.8 光圈
 智能二代美颜"</item>
         <item>"高色彩饱和度屏
-
 5英寸夏普/JDI 高色彩饱和度显示屏
 1920 x 1080 像素分辨率，441 PPI
 高灵敏触摸屏
@@ -1923,7 +1918,6 @@ Adreno 330图形处理器 主频578MHz
 支持电信4G/3G/2G，联通4G/3G/2G，以及移动2G
 电信3G版
 支持电信3G/2G，以及联通3G/2G，以及移动2G
-
 蓝牙4.0/蓝牙HID/双频WLAN 2.4/5 GHz/WLAN Display/WLAN Direct"</item>
         <item>"GPS
 AGPS
@@ -2022,7 +2016,6 @@ http://m.mi.com"</item>
     <string-array name="hardware_parameters_summary_mi3">
         <item>"移动版
 NVIDIA Tegra 4四核 主频 1.8GHz
-
 联通 / 电信版
 高通骁龙800四核 主频 2.3GHz"</item>
         <item>"高度：144 mm
@@ -2034,10 +2027,8 @@ NVIDIA Tegra 4四核 主频 1.8GHz
 F2.2光圈
 28mm广角
 双 LED 闪光灯
-
 前置摄像头
 200 万像素
-
 前后摄像头均支持 1080P 视频录像"</item>
         <item>"5英寸IPS视网膜屏
 441 PPI
@@ -2049,7 +2040,6 @@ F2.2光圈
 支持中国联通 3G(WCDMA) 及中国移动、中国联通 2G(GSM) 网络
 电信版
 支持中国电信、中国联通 3G(CDMA / WCDMA) 及中国移动、中国联通、中国电信 2G(GSM / CDMA1x) 网络
-
 NFC功能/蓝牙4.0/蓝牙HID/双频WLAN 2.4/5 GHz/WLAN Display/WLAN Direct"</item>
         <item>GPS/AGPS/GLONASS</item>
         <item>"电子罗盘
