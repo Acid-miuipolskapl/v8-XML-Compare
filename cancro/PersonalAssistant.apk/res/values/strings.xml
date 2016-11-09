@@ -55,7 +55,7 @@
   <string name="express_taobao">淘宝</string>
   <string name="express_tmall">天猫</string>
   <string name="flow_open">开启流量统计卡片</string>
-  <string name="flow_setting_brief">随时了解流量使用情况。</string>
+  <string name="flow_setting_brief">随时了解流量使用情况（需在安全中心-网络助手中设置流量套餐）。</string>
   <string name="focus">关注动态</string>
   <string name="focus_on_dynamic">关注动态</string>
   <string name="go_to_school">上下班或者上学</string>
