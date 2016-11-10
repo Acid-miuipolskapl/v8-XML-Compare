@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">FingerprintEnroll</string>
+  <string name="checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="error">Error</string>
+  <string name="fingerprint_authen">Authenticate</string>
+  <string name="fingerprint_enroll">Enroll</string>
+  <string name="fingerprint_no">no fingerprint</string>
+  <string name="fingerprint_remove">Remove fingerprint</string>
+  <string name="fingerprint_tips">Click Enroll or Authenticate, then put your finger on the sensor</string>
+  <string name="image_quality_test">IMAGE QUALITY TEST</string>
+  <string name="ok">Ok</string>
+  <string name="selftest">SELF-TEST</string>
+</resources>
