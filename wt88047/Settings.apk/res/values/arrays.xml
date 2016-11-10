@@ -1590,6 +1590,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>rs</item>
         <item>sg</item>
         <item>sk</item>
+        <item>si</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -1602,6 +1603,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>se</item>
         <item>ch</item>
         <item>sy</item>
         <item>tw</item>
@@ -1815,7 +1817,6 @@ SIM卡槽
 宽度：67.2 mm
 厚度：9.4mm"</item>
         <item>"800万像素背照式相机
-
 美国 OmniVision 感光元件 
 5片式镜头
 28mm广角
@@ -1825,9 +1826,7 @@ F2.2光圈，28mm广角
 每秒10连拍
 支持1080P高清视频录制 
 在保证产品技术指标不变的情况下，可能在生产中出现供应商的变化
-
 200万像素前置相机
-
 支持二代智能美颜
 支持720P高清视频录制"</item>
         <item>"5英寸IPS视网膜屏
