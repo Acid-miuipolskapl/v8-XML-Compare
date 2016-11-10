@@ -21,13 +21,12 @@
   <string name="browser_local_resource">Local resources</string>
   <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Wallpaper</string>
-  <string name="choose_new_themes">Themes</string>
   <string name="close">Close</string>
   <string name="component_backup_preference_title">Back up theme</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">ADVANCED</string>
-  <string name="component_title_ringtone">Ringtone</string>
-  <string name="component_title_wallpaper">Wallpaper</string>
+  <string name="component_title_ringtone">Ringtones</string>
+  <string name="component_title_wallpaper">Wallpapers</string>
   <string name="current_using_desktop_wallpaper_text">Home screen</string>
   <string name="current_using_lockscreen_wallpaper_text">Lock screen</string>
   <string name="deleting">Deleting…</string>
@@ -40,17 +39,14 @@
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Size: %2$s</string>
   <string name="desktop_wallpaper">Home screen</string>
-  <string name="dev_options">DEV OPTIONS</string>
-  <string name="dev_options_summary">Web Resource</string>
+  <string name="dev_options">Developer options</string>
+  <string name="dev_options_summary">Web resources</string>
   <string name="download_failed">Download failed</string>
   <string name="download_preview_failed">"Can't load preview"</string>
   <string name="download_success">Download finished</string>
   <string name="fail_to_add_account">"Can't add account"</string>
   <string name="favorite_list">Favorites</string>
   <string name="favorite_list_format">Favorite %1$s</string>
-  <string name="forcetouch_featured">Featured</string>
-  <string name="forcetouch_free_themes">Free themes</string>
-  <string name="forcetouch_offline">Offline</string>
   <string name="gift_anonymous">Anonymous</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel</string>
@@ -113,7 +109,8 @@
   <string name="provision_second_title">Select one of the several default themes</string>
   <string name="provision_title">Choose a theme</string>
   <string name="purchased_list">Purchased</string>
-  <string name="purchased_list_format">%1$s purchased</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Legacy themes</string>
   <string name="reload">Try again</string>
   <string name="resource_account_abnormal_state">Account error. Wait a minute or two and try again.</string>
   <string name="resource_account_fail_to_add">"Can't add account"</string>
@@ -167,6 +164,7 @@
   <string name="resource_comment_upload_not_logined">You need to sign in first</string>
   <string name="resource_comment_upload_success">Your comment will be displayed after a brief review.</string>
   <string name="resource_continue">Next</string>
+  <string name="resource_data_empty">The content is empty.</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete">Delete</string>
@@ -182,7 +180,6 @@
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
   <string name="resource_detail_recommend_desiner_other_themes">Themes designed by %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
   <string name="resource_detail_recommend_other_themes">Users also liked</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_vertical_divider">|</string>
@@ -244,8 +241,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Free</string>
   <string name="resource_price_unit"> Mi Credits</string>
+  <string name="resource_purchase_common_error">Operation Failed.please try again.</string>
+  <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
   <string name="resource_purchase_getting_order">Retrieving order info…</string>
   <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
+  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
   <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">Free</string>
@@ -334,7 +334,7 @@
   <string name="theme_component_title_boot_audio">Boot audio</string>
   <string name="theme_component_title_clock">Clock</string>
   <string name="theme_component_title_contact">Dial pad</string>
-  <string name="theme_component_title_font">Font</string>
+  <string name="theme_component_title_font">Fonts</string>
   <string name="theme_component_title_framework">Borders</string>
   <string name="theme_component_title_icon">Icons</string>
   <string name="theme_component_title_launcher">Favorites tray</string>
@@ -398,6 +398,6 @@
   <string name="wallpaper_loading_text">Just a sec…</string>
   <string name="wallpaper_set_as_both">Set both</string>
   <string name="wallpaper_set_as_destop">Set as Home screen</string>
-  <string name="wallpaper_set_as_lockscreen">Set as Lock screen</string>
+  <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
 </resources>
