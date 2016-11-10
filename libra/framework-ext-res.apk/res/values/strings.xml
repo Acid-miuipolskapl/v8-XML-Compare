@@ -78,6 +78,7 @@
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">" or "</string>
   <string name="cancel_action">Cancel</string>
+  <string name="configure_input_methods">Choose keyboards</string>
   <string name="copy">Copy</string>
   <string name="cut">Cut</string>
   <string name="default_name">Default</string>
@@ -212,6 +213,7 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_more">More</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
   <string name="turn_off">Turn off</string>
