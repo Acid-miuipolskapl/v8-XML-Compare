@@ -5,36 +5,6 @@
         <item>@drawable/action_bar_back_normal_light</item>
         <item>@drawable/action_bar_back_pressed_dark</item>
         <item>@drawable/action_bar_back_pressed_light</item>
-        <item>@drawable/action_button_bg_first_disable_dark</item>
-        <item>@drawable/action_button_bg_first_disable_light</item>
-        <item>@drawable/action_button_bg_first_normal_dark</item>
-        <item>@drawable/action_button_bg_first_normal_light</item>
-        <item>@drawable/action_button_bg_first_pressed_dark</item>
-        <item>@drawable/action_button_bg_first_pressed_light</item>
-        <item>@drawable/action_button_bg_first_selected_dark</item>
-        <item>@drawable/action_button_bg_first_selected_light</item>
-        <item>@drawable/action_button_bg_first_selected_pressed_dark</item>
-        <item>@drawable/action_button_bg_first_selected_pressed_light</item>
-        <item>@drawable/action_button_bg_last_disable_dark</item>
-        <item>@drawable/action_button_bg_last_disable_light</item>
-        <item>@drawable/action_button_bg_last_normal_dark</item>
-        <item>@drawable/action_button_bg_last_normal_light</item>
-        <item>@drawable/action_button_bg_last_pressed_dark</item>
-        <item>@drawable/action_button_bg_last_pressed_light</item>
-        <item>@drawable/action_button_bg_last_selected_dark</item>
-        <item>@drawable/action_button_bg_last_selected_light</item>
-        <item>@drawable/action_button_bg_last_selected_pressed_dark</item>
-        <item>@drawable/action_button_bg_last_selected_pressed_light</item>
-        <item>@drawable/action_button_bg_middle_disable_dark</item>
-        <item>@drawable/action_button_bg_middle_disable_light</item>
-        <item>@drawable/action_button_bg_middle_normal_dark</item>
-        <item>@drawable/action_button_bg_middle_normal_light</item>
-        <item>@drawable/action_button_bg_middle_pressed_dark</item>
-        <item>@drawable/action_button_bg_middle_pressed_light</item>
-        <item>@drawable/action_button_bg_middle_selected_dark</item>
-        <item>@drawable/action_button_bg_middle_selected_light</item>
-        <item>@drawable/action_button_bg_middle_selected_pressed_dark</item>
-        <item>@drawable/action_button_bg_middle_selected_pressed_light</item>
         <item>@drawable/action_button_bg_single_disable_dark</item>
         <item>@drawable/action_button_bg_single_disable_light</item>
         <item>@drawable/action_button_bg_single_normal_dark</item>
@@ -72,21 +42,6 @@
         <item>@drawable/action_button_stick_normal_light</item>
         <item>@drawable/action_button_stick_pressed_light</item>
         <item>@drawable/action_mode_bg_light</item>
-        <item>@drawable/action_mode_button_bg_first_disable_light</item>
-        <item>@drawable/action_mode_button_bg_first_normal_light</item>
-        <item>@drawable/action_mode_button_bg_first_pressed_light</item>
-        <item>@drawable/action_mode_button_bg_first_selected_light</item>
-        <item>@drawable/action_mode_button_bg_first_selected_pressed_light</item>
-        <item>@drawable/action_mode_button_bg_last_disable_light</item>
-        <item>@drawable/action_mode_button_bg_last_normal_light</item>
-        <item>@drawable/action_mode_button_bg_last_pressed_light</item>
-        <item>@drawable/action_mode_button_bg_last_selected_light</item>
-        <item>@drawable/action_mode_button_bg_last_selected_pressed_light</item>
-        <item>@drawable/action_mode_button_bg_middle_disable_light</item>
-        <item>@drawable/action_mode_button_bg_middle_normal_light</item>
-        <item>@drawable/action_mode_button_bg_middle_pressed_light</item>
-        <item>@drawable/action_mode_button_bg_middle_selected_light</item>
-        <item>@drawable/action_mode_button_bg_middle_selected_pressed_light</item>
         <item>@drawable/action_mode_button_bg_single_disable_light</item>
         <item>@drawable/action_mode_button_bg_single_normal_light</item>
         <item>@drawable/action_mode_button_bg_single_pressed_light</item>
@@ -133,20 +88,16 @@
         <item>@drawable/btn_checkbox_on_disabled_light</item>
         <item>@drawable/btn_checkbox_on_normal_dark</item>
         <item>@drawable/btn_checkbox_on_normal_light</item>
-        <item>@drawable/list_item_first_bg_normal_dark</item>
-        <item>@drawable/list_item_first_bg_pressed_dark</item>
-        <item>@drawable/list_item_first_bg_selected_dark</item>
-        <item>@drawable/list_item_last_bg_normal_dark</item>
-        <item>@drawable/list_item_last_bg_pressed_dark</item>
-        <item>@drawable/list_item_last_bg_selected_dark</item>
-        <item>@drawable/list_item_middle_bg_normal_dark</item>
-        <item>@drawable/list_item_middle_bg_pressed_dark</item>
-        <item>@drawable/list_item_middle_bg_selected_dark</item>
+        <item>@drawable/list_item_bg_activated_dark</item>
+        <item>@drawable/list_item_bg_activated_light</item>
+        <item>@drawable/list_item_bg_normal_dark</item>
+        <item>@drawable/list_item_bg_normal_light</item>
+        <item>@drawable/list_item_bg_pressed_dark</item>
+        <item>@drawable/list_item_bg_pressed_light</item>
+        <item>@drawable/list_item_bg_selected_dark</item>
+        <item>@drawable/list_item_bg_selected_light</item>
         <item>@drawable/list_item_overstepped_pressed_dark</item>
         <item>@drawable/list_item_overstepped_pressed_light</item>
-        <item>@drawable/list_item_single_bg_normal_dark</item>
-        <item>@drawable/list_item_single_bg_pressed_dark</item>
-        <item>@drawable/list_item_single_bg_selected_dark</item>
         <item>@drawable/list_small_item_first_bg_normal_light</item>
         <item>@drawable/list_small_item_first_bg_pressed_light</item>
         <item>@drawable/list_small_item_last_bg_normal_light</item>

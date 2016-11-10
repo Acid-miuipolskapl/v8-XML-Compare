@@ -196,6 +196,7 @@
   <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
   <string name="found_wild_messages_title">Sync messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
+  <string name="from_pkg_name">From the app:</string>
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
   <string name="group_resend_message">Resend (%d)</string>
