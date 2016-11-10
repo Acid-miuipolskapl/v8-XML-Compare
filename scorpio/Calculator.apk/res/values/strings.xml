@@ -8,9 +8,12 @@
   <string name="cal_text_copied">Text copied</string>
   <string name="choose_currency">Select currency</string>
   <string name="choose_unit">Select unit</string>
+  <string name="city">City</string>
   <string name="clear">C</string>
   <string name="clearDesc">clear</string>
   <string name="clear_history">Clear history</string>
+  <string name="combine_loan">Combined loan</string>
+  <string name="commercial_loan">Commercial loan</string>
   <string name="convert_currency">Currency converter</string>
   <string name="convertion_unit">Unit converter</string>
   <string name="convertion_unit_area">Area converter</string>
@@ -24,6 +27,10 @@
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
+  <string name="current_rate_remind_commercial"/>
+  <string name="current_rate_remind_fund"/>
+  <string name="dateformat">MM/dd/yyyy</string>
+  <string name="day">day</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
@@ -53,6 +60,9 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer per hour</string>
   <string name="from_unit_short">km/h</string>
+  <string name="fund"/>
+  <string name="fund_loan"/>
+  <string name="income_type"/>
   <string name="item_title_aa_payment">Split the bill</string>
   <string name="item_title_area_conversion">Area</string>
   <string name="item_title_calculator">Calculator</string>
@@ -87,6 +97,7 @@
   <string name="loan_unit">×10K</string>
   <string name="minus">−</string>
   <string name="minusDesc">minus</string>
+  <string name="month"/>
   <string name="mortgage_amount">Total</string>
   <string name="mortgage_average_repayment_first_month">First month repayment</string>
   <string name="mortgage_average_repayment_monthly">Monthly repayment</string>
@@ -136,8 +147,10 @@
   <string name="sin">sin</string>
   <string name="sinDesc">sine</string>
   <string name="sin_mathematical_value">sin</string>
+  <string name="social_security"/>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">square root</string>
+  <string name="start_calculate"/>
   <string name="tan">tan</string>
   <string name="tanDesc">tangent</string>
   <string name="tan_mathematical_value">tan</string>
@@ -150,6 +163,7 @@
   <string name="tax_city">City</string>
   <string name="tax_city_located">Location</string>
   <string name="tax_city_picker">City</string>
+  <string name="tax_edittext_hint"/>
   <string name="tax_endowment">Retirement fund</string>
   <string name="tax_fixed_salary_hint">Enter your income before tax</string>
   <string name="tax_income_before_tax">Before tax</string>
@@ -169,8 +183,11 @@
   <string name="tax_thershold_foreign">%s (Foreign nationals)</string>
   <string name="tax_thershold_native">%s (Mainland China)</string>
   <string name="tax_threshold">Tax-free threshold</string>
+  <string name="tax_title_primary"/>
+  <string name="tax_title_secondary"/>
   <string name="tax_unemployment">Unemployment</string>
   <string name="tax_update_time_format">Data in year %s, provide by HeXun</string>
+  <string name="times"/>
   <string name="title_bar">Length converter</string>
   <string name="to_num">62.7</string>
   <string name="unit_data_default_area_0">sq.m</string>
@@ -368,9 +385,9 @@
   <string name="wf_word_figure">Financial characters</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">万</string>
-  <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_big_unit_zhao">兆</string>
+  <string name="word_figure_big_unit_wan">万 </string>
+  <string name="word_figure_big_unit_yi">亿 </string>
+  <string name="word_figure_big_unit_zhao">兆 </string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
@@ -386,4 +403,5 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="year"/>
 </resources>
