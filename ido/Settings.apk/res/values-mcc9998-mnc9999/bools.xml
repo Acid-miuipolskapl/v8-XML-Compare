@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <bool name="has_translation_contributors">true</bool>
-    <bool name="APKTOOL_DUMMY_0009">false</bool>
-    <bool name="APKTOOL_DUMMY_0011">false</bool>
+    <bool name="APKTOOL_DUMMY_0007">false</bool>
+    <bool name="APKTOOL_DUMMY_000f">false</bool>
 </resources>

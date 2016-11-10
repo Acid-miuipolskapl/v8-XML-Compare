@@ -2206,6 +2206,7 @@ Select your operating system:"</string>
   <string name="path_brightness_settings">Settings/Display/Brightness</string>
   <string name="path_button_light_timeout">Settings/Additional settings/Buttons/Keep button lights on</string>
   <string name="path_calendar_sound_title">Settings/Sound &amp; vibration/Calendar sound</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Settings/Additional settings/Screenshot</string>
   <string name="path_children_mode_settings">Settings/Additional settings/Child mode</string>
   <string name="path_choose_timezone">Settings/Additional settings/Date &amp; time/Choose time zone</string>
   <string name="path_cloud_backup_settings_section_title">Settings/Additional settings/Backup &amp; reset/Backup settings</string>
@@ -2228,6 +2229,7 @@ Select your operating system:"</string>
   <string name="path_do_not_disturb_settings">Settings/Do not disturb</string>
   <string name="path_dtmf_tone_enable_title">Settings/Sound &amp; vibration/Dial pad tones</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
+  <string name="path_enable_adb">Settings/Additional settings/Developer options/USB debugging</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
   <string name="path_fluency_mode">Settings/Battery &amp; performance/System animations</string>
   <string name="path_font_settings">Settings/Display/System font</string>
@@ -2267,6 +2269,7 @@ Select your operating system:"</string>
   <string name="path_other_advanced_settings">Settings/Additional settings</string>
   <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
+  <string name="path_permission_settings_title">Settings/Permissions/App permissions</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
   <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
@@ -2855,6 +2858,7 @@ To use screen pinning:
   <string name="search_brightness">Brightness;Screen brightness;Display brightness</string>
   <string name="search_button_light_timeout">Keep button lights on;Button lights</string>
   <string name="search_calendar_sound_title">Calendar sound;calendar ringtone;calendar</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="search_children_mode_settings">Child mode;Lock sms;Parental controls;Child parental;Restrict SMS</string>
   <string name="search_children_mode_title">Child mode;Child;Parental controls</string>
   <string name="search_choose_timezone">Choose time zone;Time zone;Time zones</string>
@@ -2864,7 +2868,7 @@ To use screen pinning:
   <string name="search_credentials_install">Install from storage;Direct install;Install APK</string>
   <string name="search_date_time">Date &amp; time;Date and time;Date;Time</string>
   <string name="search_description">Search settings</string>
-  <string name="search_development_settings">Developer options</string>
+  <string name="search_development_settings">Developer options;Assist</string>
   <string name="search_device_name">Device name</string>
   <string name="search_device_status">Status</string>
   <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial;Color temperature;Color;Colors;Saturation;Auto-rotate;Auto rotate;Auto rotate;Rotate screen;Brightness;Font;Fonts;Font size</string>
@@ -2879,6 +2883,7 @@ To use screen pinning:
   <string name="search_dtmf_tone_enable_title">Turn on Dial pad touch tones;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
   <string name="search_edge_handgrip">Edge controls</string>
   <string name="search_empty">No search results</string>
+  <string name="search_enable_adb">USB debugging</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_fluency_mode">System animations</string>
   <string name="search_font">System font;Font;Fonts;Font sizes;Font size</string>
@@ -2920,6 +2925,7 @@ To use screen pinning:
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">Owner info</string>
   <string name="search_page_layout_settings">Text size;Font size;Small font;Big font;Medium font;XXL font;Huge font;Font sizes</string>
+  <string name="search_permission_settings_title">App permissions</string>
   <string name="search_pointer_speed">Pointer speed</string>
   <string name="search_power_checker">Power Checker</string>
   <string name="search_power_hide_mode_title">Manage apps battery usage;App battery usage;Battery usage;Battery stats</string>
