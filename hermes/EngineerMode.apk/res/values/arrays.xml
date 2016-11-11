@@ -1062,6 +1062,9 @@ HSPA+ on"</item>
         <item>EMM</item>
         <item>MMDC</item>
         <item>EL1</item>
+        <item>TDD TAS</item>
+        <item>GSM TAS</item>
+        <item>WCDMA TAS</item>
     </string-array>
     <string-array name="ct_network_selection">
         <item>Global mode</item>

@@ -1590,6 +1590,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>rs</item>
         <item>sg</item>
         <item>sk</item>
+        <item>si</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -1602,6 +1603,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>se</item>
         <item>ch</item>
         <item>sy</item>
         <item>tw</item>
@@ -1796,7 +1798,6 @@ Note: Only for Ubuntu 8.04!"</item>
 存储
 与电池"</item>
         <item>外观尺寸</item>
-        <item>电池</item>
         <item>"拍照
 与摄像"</item>
         <item>"屏幕
@@ -1823,7 +1824,6 @@ SIM卡槽
         <item>"高度：152 mm
 宽度：76 mm
 厚度：8.25mm"</item>
-        <item>典型容量3060mAh，额定容量3020mAh</item>
         <item>"三星等1300万像素相机
 0.1秒相位对焦
 5片式镜头
