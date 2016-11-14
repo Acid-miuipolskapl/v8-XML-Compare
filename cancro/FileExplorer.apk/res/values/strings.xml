@@ -202,6 +202,8 @@
   <string name="follow_fail">"Couldn't follow, try again later"</string>
   <string name="follow_tip_1">Follow me to watch more videos</string>
   <string name="follow_tip_2">Follow me to watch more videos</string>
+  <string name="force_touch_clean">Clean up</string>
+  <string name="force_touch_search">Search files</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">USB storage connected</string>
   <string name="ftp_account_req_notice">4–16 characters, letters and digits, case sensitive</string>

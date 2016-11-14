@@ -793,6 +793,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="children_mode_title">Child mode</string>
   <string name="choose_assist_title">Choose Assist app</string>
   <string name="choose_profile">Choose Profile</string>
+  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="choose_voice_input_title">Choose voice input</string>
   <string name="cleaner">Cleaner</string>
@@ -1477,6 +1478,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+  <string name="full_transparent_smarrcover_title">Transparent front cover</string>
   <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
 
 When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
@@ -1734,6 +1736,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
   <string name="last_time_used_label">Last time used</string>
+  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">Open by default</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
@@ -2266,6 +2269,7 @@ Select your operating system:"</string>
   <string name="no_updates_warning">Your system is up to date</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
+  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed for this user</string>
   <string name="notes_privacy_password_role_instruction">Your private notes will be stored here.</string>
   <string name="notification_app_settings_button">Notification settings</string>
@@ -3488,6 +3492,9 @@ Possibly incorrect PIN."</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
+  <string name="smallwindow_smartcover_title">Transparent front cover</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover lock or unlock screen</string>
+  <string name="smartcover_sensitive_summary">lock or unlock the phone easily with smart cover</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>

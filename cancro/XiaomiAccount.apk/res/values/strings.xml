@@ -57,7 +57,6 @@
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">Session expired, sign in again later</string>
   <string name="authorize_title">Authorization</string>
-  <string name="barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Connect your Facebook Account</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Accounts</string>
@@ -183,6 +182,7 @@
   <string name="passport_auto_generate_pwd">Generate secure password</string>
   <string name="passport_back">Back</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
+  <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
