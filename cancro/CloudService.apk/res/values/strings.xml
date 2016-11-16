@@ -50,7 +50,7 @@ Last backed up on %2$s"</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
-  <string name="cloud_storage_full">Cloud storage</string>
+  <string name="cloud_storage_full">Cloud storage is full</string>
   <string name="cloud_storage_is_full">Full</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
@@ -185,7 +185,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
-  <string name="micloud_detail_not_synced">not synced</string>
+  <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pending">Waiting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
@@ -390,7 +390,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-  <string name="network_unconnected">Not connected to the network</string>
+  <string name="network_unconnected">"Couldn't connect to the network"</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>

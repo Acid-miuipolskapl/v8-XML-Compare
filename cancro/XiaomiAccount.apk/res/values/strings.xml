@@ -167,6 +167,10 @@
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_title">"Mi Account couldn't connect to the network"</string>
+  <string name="oauth_get_scopes_failed">"Couldn't get account info"</string>
+  <string name="oauth_getting_scopes">Verifying account…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; will get following permissions:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Sign in with Mi Account</string>
   <string name="other_devices_title">Other devices</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>
