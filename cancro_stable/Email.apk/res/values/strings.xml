@@ -4,7 +4,7 @@
   <string name="SMTP_password_text">Password</string>
   <string name="SMTP_username_text">Username</string>
   <string name="account_cache_provider">Account Cache Provider</string>
-  <string name="account_duplicate_dlg_message_fmt">"        You're already using this username for the account \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
@@ -25,7 +25,7 @@
   <string name="account_setting_keywords">Accounts;mail accounts</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
-  <string name="account_settings_background_attachments_summary">Download attachments using WLAN</string>
+  <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
   <string name="account_settings_data_usage">Sync settings</string>
   <string name="account_settings_description_label">Account name</string>
   <string name="account_settings_edit_quick_responses_label">Quick reply</string>
@@ -80,7 +80,7 @@
   <string name="account_setup_exchange_no_certificate">None</string>
   <string name="account_setup_failed_certificate_inaccessible">The certificate is invalid or inaccessible.</string>
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
-  <string name="account_setup_failed_check_credentials_message">"         The server responded with an error. Check your username and password, then try again."</string>
+  <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
   <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
   <string name="account_setup_failed_dlg_bar_title">Ways to sign in to %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
@@ -111,9 +111,9 @@
   <string name="account_setup_incoming_security_label">Security type</string>
   <string name="account_setup_incoming_security_none_label">None</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS (Accept all certificates)"</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (accept all certificates)"</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Accept all certificates)</string>
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_username_label">Username</string>
   <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
@@ -127,6 +127,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
   <string name="account_setup_options_mail_window_1day">Yesterday</string>
   <string name="account_setup_options_mail_window_1month">Past month</string>
+  <string name="account_setup_options_mail_window_1quarter">Past quarter</string>
   <string name="account_setup_options_mail_window_1week">Past week</string>
   <string name="account_setup_options_mail_window_2weeks">Past 2 weeks</string>
   <string name="account_setup_options_mail_window_3days">Past three days</string>
@@ -139,17 +140,16 @@
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Require sign-in</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
-  <string name="account_setup_security_policies_required_fmt">"         The server %s requires that you allow it to remotely control
-         some security features of your Android device. Do you want to finish setting up this
-         account?"</string>
+  <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
   <string name="account_setup_security_required_title">Remote security administration</string>
   <string name="account_setup_server_acc_manager_title">Accounts</string>
-  <string name="account_setup_username_password_toast">"        Type a valid email address and password."</string>
+  <string name="account_setup_username_password_toast">Enter a valid email address and password.</string>
   <string name="account_sync_off">Account sync is off.</string>
   <string name="account_waiting_for_folders_msg">Loading folders…</string>
   <string name="actionbar_large_unread_count">%1$d+ unread</string>
   <string name="activity_folder_selection">Choose folder</string>
   <string name="activity_mailbox_selection">Choose account</string>
+  <string name="ad_merge">Ads &amp; Notifications</string>
   <string name="add_account">Add account</string>
   <string name="add_account_keywords">Add account;add mail account</string>
   <string name="add_attachment">Add attachment</string>
@@ -229,8 +229,6 @@
   <string name="changepw_dialog_tips">Re-enter password for %s</string>
   <string name="chat_item_msg_people_unit">people</string>
   <string name="chat_item_msg_user_etc">etc.</string>
-  <string name="chat_view_description">View email threads as conversation bubbles</string>
-  <string name="chat_view_title">Conversation view</string>
   <string name="check_setup_data">"    Validating server settings…"</string>
   <string name="choosertitle_sharevia">Share using</string>
   <string name="clear">Clear</string>
@@ -243,6 +241,7 @@
   <string name="colon">:</string>
   <string name="compose">Compose</string>
   <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
+  <string name="compose_paste_address_oob">You paste the character is too long, has been truncated</string>
   <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
@@ -332,9 +331,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
   <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
-  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's permission
-         to administer your device will delete all email accounts that require it, along with their
-        messages, contacts, calendar events, and other data."</string>
+  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's permission to administer your device will delete all email accounts that require it, along with their messages, contacts, calendar events, and other data."</string>
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
@@ -361,6 +358,7 @@
   <string name="download_whole_email">View the rest of the message</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
+  <string name="drawer_contacts">Contacts</string>
   <string name="drawer_open">Open navigation drawer</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
@@ -386,10 +384,7 @@
         This event has been canceled
         for:
 %s "</string>
-  <string name="exception_updated">"
-        The details of this event have been changed
-        for:
-%s "</string>
+  <string name="exception_updated">The details of this event have been changed for: %s</string>
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Expand recipient details</string>
@@ -457,6 +452,8 @@
   <string name="from_heading">"From: "</string>
   <string name="general_preference_confirm_delete_label">Confirm before deleting</string>
   <string name="general_preference_confirm_send_label">Confirm before sending</string>
+  <string name="general_preference_str_auto_translation">Quick translation</string>
+  <string name="general_preference_str_auto_translation_prompt">Copy corresponding content to see translation result</string>
   <string name="general_preference_text_zoom_dialog_title">Message text size</string>
   <string name="general_preference_text_zoom_huge">Huge</string>
   <string name="general_preference_text_zoom_label">Message text size</string>
@@ -624,7 +621,7 @@
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
   <string name="message_view_attachment_background_load">Attachments in your forwarded message will be downloaded prior to sending.</string>
-  <string name="mibill_privacy_policy_button1">"Don't agree"</string>
+  <string name="mibill_privacy_policy_button1">Later</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;</string>
@@ -656,12 +653,12 @@
   <string name="not_synced_title">Account not synced</string>
   <string name="notification_action_archive">Archive</string>
   <string name="notification_action_delete">Delete</string>
-  <string name="notification_action_remove_label">Remove label</string>
+  <string name="notification_action_remove_label">Remove tag</string>
   <string name="notification_action_reply">Reply</string>
   <string name="notification_action_reply_all">Reply all</string>
   <string name="notification_action_undo_archive">Archived</string>
   <string name="notification_action_undo_delete">Deleted</string>
-  <string name="notification_action_undo_remove_label">Label Removed</string>
+  <string name="notification_action_undo_remove_label">Tag removed</string>
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
   <string name="oauth_error_description">"Couldn't authenticate"</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
@@ -691,25 +688,24 @@
   <string name="outbox_no_mails">Empty</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="password_expire_warning_content_title">Lock screen password expiring</string>
-  <string name="password_expire_warning_dialog_content_fmt">"         You need to change your lock screen PIN or password soon, or the data for%s will be erased. Do you want to change it now?"</string>
+  <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for %s will be erased. Do you want to change it now?</string>
   <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
   <string name="password_expire_warning_ticker_fmt">"\"%s\" requires that you change your lock screen
             PIN or password."</string>
   <string name="password_expired_content_title">Lock screen password expired</string>
-  <string name="password_expired_dialog_content_fmt">"         The data for %s is being erased from your device.
-         You can restore it by changing your lock screen PIN or password. Change it now?"</string>
+  <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Change it now?</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
-  <string name="path_about_account_setting">Email/Setting/Accounts</string>
-  <string name="path_about_add_account">Email/Setting/Add account</string>
-  <string name="path_about_battery_saver">Email/Setting/Battery saver</string>
-  <string name="path_about_confirm_before_delete">Email/Setting/Confirm before deleting</string>
-  <string name="path_about_confirm_before_send">Email/Setting/Confirm before sending</string>
-  <string name="path_about_conversation_view">Email/Setting/Conversation view</string>
-  <string name="path_about_delete_message_flow">Email/Setting/Delete message flow</string>
-  <string name="path_about_email_setting">Email/Setting</string>
-  <string name="path_about_send_feed_back">Email/Setting/Send feedback</string>
-  <string name="path_about_upload_logs">Email/Setting/Upload logs</string>
+  <string name="path_about_account_setting">Mail/Settings/Accounts</string>
+  <string name="path_about_add_account">Mail/Settings/Add account</string>
+  <string name="path_about_battery_saver">Mail/Settings/Battery saver</string>
+  <string name="path_about_confirm_before_delete">Mail/Settings/Confirm before deleting</string>
+  <string name="path_about_confirm_before_send">Mail/Settings/Confirm before sending</string>
+  <string name="path_about_conversation_view">Mail/Settings/Conversation view</string>
+  <string name="path_about_delete_message_flow">Mail/Settings/Delete message flow</string>
+  <string name="path_about_email_setting">Mail/Settings</string>
+  <string name="path_about_send_feed_back">Mail/Settings/Send feedback</string>
+  <string name="path_about_upload_logs">Mail/Settings/Upload logs</string>
   <string name="perference_change_pw_notnull_tips">Enter your password</string>
   <string name="perference_change_pw_ok_tips">Password changed</string>
   <string name="perference_setup_pop_del">Remove mail from server</string>
@@ -759,7 +755,7 @@
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in inbox"</string>
   <string name="preference_sender_image_title">Show profile pictures in inbox</string>
   <string name="preferences_signature_dialog_title">Signature</string>
-  <string name="preferences_signature_summary_not_set">None</string>
+  <string name="preferences_signature_summary_not_set">Not set</string>
   <string name="preferences_signature_title">Signature</string>
   <string name="preview_attachment">Preview</string>
   <string name="previous_action">Back</string>
@@ -795,9 +791,10 @@
   <string name="quick_3">"I'll read this later and get back to you."</string>
   <string name="quick_4">"Let's set up a meeting to discuss this."</string>
   <string name="quick_reply_dialog_title">Choose a reply</string>
-  <string name="quick_reply_hint">Reply to all %1$d people</string>
+  <string name="quick_reply_hint">Reply to %1$d people</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
+  <string name="quick_reply_hint_reply_only_from">Quick reply (sender only)</string>
   <string name="quick_responses_empty_view">No quick replies</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -868,16 +865,14 @@
   <string name="search_tabs_name_subject">Subject</string>
   <string name="search_title">Unified Email</string>
   <string name="search_txt_size_limit_prompt">Search terms must be greater than 3 characters</string>
-  <string name="security_changed_ticker_fmt">"            Account \"%s\" changed its security settings; no user
-            action is required."</string>
-  <string name="security_needed_ticker_fmt">"            Account \"%s\" requires security settings update."</string>
+  <string name="security_changed_ticker_fmt">Account \"%s\" changed its security settings; no user action is required.</string>
+  <string name="security_needed_ticker_fmt">Account \"%s\" requires security settings update.</string>
   <string name="security_notification_content_change_title">"Security policies have
          changed"</string>
   <string name="security_notification_content_unsupported_title">"Security requirements can't be
          met"</string>
   <string name="security_notification_content_update_title">Security update required</string>
-  <string name="security_unsupported_ticker_fmt">"            Account \"%s\" can't be synced due to security
-    requirements."</string>
+  <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
   <string name="selected_lable">Selected</string>
@@ -893,6 +888,11 @@
   <string name="sent_folder_selection_title">Select server sent items folder for %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate
 \u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Too many sign in attempts</string>
+  <string name="ser_resp_err_map_mailbox_locked">Email account is password protected</string>
+  <string name="ser_resp_err_map_mailbox_not_open">No email accounts</string>
+  <string name="ser_resp_err_map_max_connections">Too many connection attempts</string>
   <string name="ser_resp_err_map_nouser">"User doesn't exist"</string>
   <string name="ser_resp_err_map_or">%1$s or %2$s</string>
   <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
@@ -929,7 +929,7 @@
   <string name="special_text_sender_zh">发件人</string>
   <string name="storage">Storage</string>
   <string name="str_select_all">Select all</string>
-  <string name="str_select_none">Deselect all</string>
+  <string name="str_select_none">Deselect</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Subject</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
@@ -946,7 +946,6 @@
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">Touch to turn on.</string>
-  <string name="tip_cannot_switchview_in_unread_folder">Unable to switch view in unread mail aggregation mode</string>
   <string name="to">To</string>
   <string name="to_heading">"To: "</string>
   <string name="toast_bar_fail_synchronization">"Can't connect to the network"</string>
@@ -957,6 +956,15 @@
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
+  <string name="topic_merge">Merge themes</string>
+  <string name="translation_loading">Loading…</string>
+  <string name="translation_no_result">No result found</string>
+  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Machine</string>
+  <string name="translation_query_failure">Search failed</string>
+  <string name="translation_technology_support">Technical Support by PowerWord</string>
   <string name="trash_folder_selection_title">Select server trash folder for %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>

@@ -1152,10 +1152,11 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
-        <item>Show recent apps tray</item>
+        <item>Show recent apps</item>
         <item>Launch Assistant</item>
-        <item>Launch Google now</item>
+        <item>Launch Google Now</item>
         <item>Close current app</item>
+        <item>Launch quick search</item>
         <item>Show menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
@@ -1164,6 +1165,7 @@
         <item>voice_assistant</item>
         <item>google_now</item>
         <item>close_app</item>
+        <item>quick_search</item>
         <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -1177,6 +1179,16 @@
         <item>1000</item>
         <item>1500</item>
         <item>2000</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>None</item>
+        <item>Quick snap mode (select in Camera)</item>
+        <item>Public transportation shortcuts</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action_value">
+        <item>one</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 second</item>
@@ -1371,7 +1383,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Gallery</item>
         <item>Music</item>
         <item>Email</item>
-        <item>Video</item>
+        <item>Play video</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
@@ -1718,6 +1730,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_keys">
         <item>miui_keyguard</item>
+        <item>fingerprint_apply_to_privacy_password</item>
         <item>childrenmode</item>
         <item>file_explorer</item>
         <item>com_miui_applicatinlock_use_fingerprint_state</item>
@@ -1726,16 +1739,34 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="common_password_business_clickable_default">
         <item>true</item>
         <item>true</item>
+        <item>true</item>
         <item>false</item>
         <item>true</item>
         <item>false</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Lock screen</item>
+        <item>Privacy password</item>
         <item>Child mode</item>
         <item>File Explorer</item>
         <item>App lock</item>
         <item>Second space</item>
+    </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>1 min</item>
+    </string-array>
+    <string-array name="anr_record_interval_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Left hand style</item>
+        <item>Right hand style</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
@@ -1756,5 +1787,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Every day</item>
         <item>Weekdays</item>
         <item>Custom</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_keys">
+        <item>privacy_mms</item>
+        <item>privacy_gallery</item>
+        <item>privacy_file</item>
+        <item>privacy_notes</item>
+        <item>child_mode</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Messages</item>
+        <item>Photos</item>
+        <item>Files</item>
+        <item>Notes</item>
+        <item>Child mode</item>
     </string-array>
 </resources>

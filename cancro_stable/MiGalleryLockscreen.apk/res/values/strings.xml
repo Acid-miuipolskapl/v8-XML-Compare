@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Wallpaper Carousel</string>
+  <string name="apply">Apply</string>
   <string name="at_least_one">Choose at least one category</string>
   <string name="auto_interval">Auto</string>
   <string name="cancel">Cancel</string>
@@ -11,20 +12,32 @@
   <string name="declaration">Get new wallpapers delivered straight to your lock screen every day for free.</string>
   <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
   <string name="declaration_title">Terms and Conditions</string>
+  <string name="dislike">Delete</string>
+  <string name="from_migallerylockscreen">" "</string>
   <string name="hour_1">Every hour</string>
   <string name="hour_3">Every 3 hours</string>
-  <string name="lockscreen_magazine_summary">Add your wallpaper in folder Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="like">Like</string>
+  <string name="liked">liked</string>
+  <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_title">Offline</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+  <string name="lockscreen_wallpaper_changed">wallpaper changed</string>
   <string name="minutes_15">15 minutes</string>
   <string name="no_long_show">"Don't show again"</string>
   <string name="ok_enable_network_prov">Agree</string>
   <string name="ok_international">Agree</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Agree</string>
+  <string name="platform_unavailable_qq">please install QQ</string>
+  <string name="platform_unavailable_qzone">please install Qzone</string>
+  <string name="platform_unavailable_wechat">please install wechat</string>
+  <string name="platform_unavailable_wechatmoment">please install wechat</string>
+  <string name="platform_unavailable_weibo">please install weibo</string>
   <string name="resource_apply">Apply</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
   <string name="setting_head">Settings</string>
+  <string name="settings">settings</string>
+  <string name="share">Share</string>
   <string name="sst_favor_desc">View favorite wallpapers</string>
   <string name="sst_favor_title">Favorites</string>
   <string name="sst_grid_view_select_all">Select all</string>

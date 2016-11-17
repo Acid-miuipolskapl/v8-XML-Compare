@@ -28,6 +28,8 @@
 
 .field public static final IS_B7:Z
 
+.field public static final IS_C3A:Z
+
 .field public static final IS_C5:Z
 
 .field public static final IS_C6:Z
@@ -88,6 +90,8 @@
 
 .field public static final IS_MI9:Z
 
+.field public static final IS_NEXUS5:Z
+
 .field public static final IS_PAD1:Z
 
 .field public static final IS_STABLE:Z
@@ -95,6 +99,17 @@
 .field public static final IS_XIAOMI:Z
 
 .field public static final MODULE:Ljava/lang/String;
+
+.field private static sFpNavEventNameList:Ljava/util/ArrayList;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/ArrayList",
+            "<",
+            "Ljava/lang/String;",
+            ">;"
+        }
+    .end annotation
+.end field
 
 
 # direct methods
@@ -487,6 +502,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_C6:Z
 
+    const-string v0, "rolex"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_C3A:Z
+
     const-string v0, "is_hongmi"
 
     invoke-static {v0, v2}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
@@ -502,6 +527,16 @@
     move-result v0
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_XIAOMI:Z
+
+    const-string v0, "hammerhead"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_NEXUS5:Z
 
     sget-boolean v0, Lmiui/os/Build;->IS_CM_CUSTOMIZATION:Z
 
@@ -602,6 +637,61 @@
     move-result-object v0
 
     return-object v0
+.end method
+
+.method public static getFpNavEventNameList()Ljava/util/ArrayList;
+    .locals 6
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/ArrayList",
+            "<",
+            "Ljava/lang/String;",
+            ">;"
+        }
+    .end annotation
+
+    sget-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    if-nez v5, :cond_0
+
+    new-instance v5, Ljava/util/ArrayList;
+
+    invoke-direct {v5}, Ljava/util/ArrayList;-><init>()V
+
+    sput-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    const-string v5, "fp_nav_event_name_list"
+
+    invoke-static {v5}, Lmiui/util/FeatureParser;->getStringArray(Ljava/lang/String;)[Ljava/lang/String;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_0
+
+    move-object v0, v4
+
+    array-length v2, v0
+
+    const/4 v1, 0x0
+
+    :goto_0
+    if-ge v1, v2, :cond_0
+
+    aget-object v3, v0, v1
+
+    sget-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    invoke-virtual {v5, v3}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+
+    add-int/lit8 v1, v1, 0x1
+
+    goto :goto_0
+
+    :cond_0
+    sget-object v5, Lcom/android/camera/Device;->sFpNavEventNameList:Ljava/util/ArrayList;
+
+    return-object v5
 .end method
 
 .method public static isCaptureStopFaceDetection()Z
@@ -831,20 +921,6 @@
     return v0
 .end method
 
-.method public static isLowQualityPanorama()Z
-    .locals 2
-
-    const-string v0, "is_lower_size_panorama"
-
-    const/4 v1, 0x0
-
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
-
-    move-result v0
-
-    return v0
-.end method
-
 .method public static isLowerEffectSize()Z
     .locals 2
 
@@ -883,6 +959,29 @@
     move-result v0
 
     return v0
+.end method
+
+.method public static isNeedForceRecycleEffectPopup()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_H2X_LC:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isNewHdrParamKeyUsed()Z
@@ -1351,34 +1450,6 @@
     return v0
 .end method
 
-.method public static isSupportedFingerCapture()Z
-    .locals 1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
-
-    if-eqz v0, :cond_0
-
-    sget-boolean v0, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
-
-    if-nez v0, :cond_1
-
-    :cond_0
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
-
-    if-eqz v0, :cond_2
-
-    :cond_1
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_2
-    const/4 v0, 0x0
-
-    goto :goto_0
-.end method
-
 .method public static isSupportedGPS()Z
     .locals 2
 
@@ -1759,100 +1830,6 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HONGMI:Z
-
-    if-nez v0, :cond_0
-
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_0
-    const/4 v0, 0x0
-
-    goto :goto_0
-.end method
-
-.method public static isUseGooglePanorama()Z
-    .locals 1
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B3_PRO:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_H3C:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B6:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_B5:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_C5:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_C6:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
 
     if-nez v0, :cond_0
 
