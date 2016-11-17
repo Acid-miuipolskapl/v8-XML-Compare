@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MediaServer</string>
+  <string name="app_name">Media server</string>
   <string name="cancel">Cancel</string>
   <string name="enable_wifi_btn">Turn on</string>
   <string name="enable_wifi_message">Turn on WLAN to search and connect nearby devices.</string>
@@ -11,8 +11,8 @@
   <string name="media_status_starting">Connecting…</string>
   <string name="media_status_stopped">Stopped</string>
   <string name="media_status_stopping">Stopping…</string>
-  <string name="noti_projection_status_desc_on">Screen Mirroring is On</string>
-  <string name="noti_projection_status_title">MiPlay Wireless Display</string>
+  <string name="noti_projection_status_desc_on">Screen mirroring is on</string>
+  <string name="noti_projection_status_title">Mi Play Wireless Display</string>
   <string name="prjection_title">Wireless display</string>
   <string name="search_for_devices">Refresh</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>

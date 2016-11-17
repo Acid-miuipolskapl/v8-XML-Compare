@@ -108,6 +108,9 @@
   <string name="download_share_dialog">Share via</string>
   <string name="download_speed">Download speed:</string>
   <string name="download_spend_time">Time</string>
+  <string name="download_status_continue">Resume</string>
+  <string name="download_status_fail">Try again</string>
+  <string name="download_status_paused">Pause</string>
   <string name="download_success">Complete</string>
   <string name="download_title">Downloads</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
