@@ -3,6 +3,7 @@
   <string name="app_label">HTML Viewer</string>
   <string name="app_name_which_call">Application:%s</string>
   <string name="app_version_which_call">Application version:%s</string>
+  <string name="ime_privacy_policy">Choose Keyboard</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
 go to %s"</string>
   <string name="loading">Loading…</string>

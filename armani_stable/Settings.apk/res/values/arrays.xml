@@ -996,6 +996,7 @@
         <item>Launch Assistant</item>
         <item>Launch Google now</item>
         <item>Close current app</item>
+        <item>Launch Quick Search</item>
         <item>Show menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
@@ -1004,6 +1005,7 @@
         <item>voice_assistant</item>
         <item>google_now</item>
         <item>close_app</item>
+        <item>quick_search</item>
         <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -1017,6 +1019,16 @@
         <item>1000</item>
         <item>1500</item>
         <item>2000</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>None</item>
+        <item>Quick snap mode (select in Camera)</item>
+        <item>Public transportation shortcuts</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action_value">
+        <item>one</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 second</item>
@@ -1240,7 +1252,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Gallery</item>
         <item>Music</item>
         <item>Email</item>
-        <item>Video</item>
+        <item>Play video</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
@@ -1625,5 +1637,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Every day</item>
         <item>Weekdays</item>
         <item>Custom</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_keys">
+        <item>privacy_mms</item>
+        <item>privacy_gallery</item>
+        <item>privacy_file</item>
+        <item>privacy_notes</item>
+        <item>child_mode</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Messages</item>
+        <item>Photos</item>
+        <item>Files</item>
+        <item>Notes</item>
+        <item>Child mode</item>
     </string-array>
 </resources>
