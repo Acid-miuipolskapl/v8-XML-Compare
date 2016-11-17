@@ -8,11 +8,6 @@
         <item>@string/report_politics</item>
         <item>@string/report_other</item>
     </string-array>
-    <string-array name="wx_titles">
-        <item>@string/wx_title1</item>
-        <item>@string/wx_title2</item>
-        <item>@string/wx_title3</item>
-    </string-array>
     <string-array name="array_upload_avatar">
         <item>@string/upload_avatar_local</item>
         <item>@string/upload_avatar_camera</item>

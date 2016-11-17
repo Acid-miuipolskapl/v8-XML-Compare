@@ -11,8 +11,8 @@
   <string name="apply_update_dialog_cancel_button">Cancel</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_upload_info_message">Your device will reboot and install the update immediately.</string>
-  <string name="auto_update">Download updates automatically</string>
-  <string name="auto_update_sum">Automatically choose the best times to download updates</string>
+  <string name="auto_update">Update automatically</string>
+  <string name="auto_update_sum">Download updates when connected to WLAN and install at night</string>
   <string name="autosetmode">Update settings</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">Reboot to Recovery mode</string>
@@ -25,7 +25,7 @@
   <string name="cancel_download_buton_text">Cancel</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
-  <string name="check_update_when_wifi_available">Only check using WLAN</string>
+  <string name="check_update_when_wifi_available">Check using WLAN only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
   <string name="clean_up_button">Clean up</string>
   <string name="comment_invalid">Rate this update (touch the stars)</string>
@@ -125,7 +125,7 @@
   <string name="repeat">Retry</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates automatically over WLAN</string>
-  <string name="set_auto_update_title">Download updates automatically</string>
+  <string name="set_auto_update_title">Update automatically</string>
   <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>
   <string name="set_installfail_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="set_installfail_title">Try to download update again?</string>

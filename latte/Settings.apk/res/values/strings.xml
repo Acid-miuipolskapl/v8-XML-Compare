@@ -341,8 +341,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="band_mode_title">Set GSM/UMTS band</string>
   <string name="baseband_version">Baseband version</string>
   <string name="batch_delete_backup_confirm">Delete selected backups?</string>
-  <string name="batch_delete_saved_network">Delete selected network: %s?</string>
-  <string name="batch_delete_saved_networks">Delete all the selected networks</string>
+  <string name="batch_delete_saved_network">Delete selected networks: %s?</string>
+  <string name="batch_delete_saved_networks">Delete all selected networks</string>
   <string name="battery_action_app_details">App info</string>
   <string name="battery_action_app_settings">App settings</string>
   <string name="battery_action_bluetooth">Bluetooth settings</string>
@@ -622,6 +622,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Old device will be replaced with current device.</string>
   <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
   <string name="bluetooth_unlock_confirm_device_text">Tap Bluetooth device to confirm.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Tap the button on the watch to unlock.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tap the button on device to unlock.</string>
   <string name="bluetooth_unlock_delete_device">Delete this device</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Delete this device?</string>
   <string name="bluetooth_unlock_device_matched_text">Use this device to unlock.</string>
@@ -780,6 +782,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
   <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen.</string>
   <string name="children_mode_title">Child mode</string>
+  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="cleaner">Cleaner</string>
   <string name="clear_activities">Clear defaults</string>
@@ -1076,7 +1079,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
-  <string name="delete_saved_network">Delete saved network</string>
+  <string name="delete_saved_network">Delete saved networks</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1479,6 +1482,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+  <string name="full_transparent_smarrcover_title">Transparent front cover</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">auto</string>
   <string name="gadget_brightness_state_full">full</string>
@@ -1698,6 +1702,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
   <string name="last_time_used_label">Last time used</string>
+  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -2104,9 +2109,9 @@ Select your operating system:"</string>
   <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="music_audio_effect_optimize">Audio settings</string>
-  <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, headphones and other audio settings</string>
-  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary">Dirac, headphones, and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, headphones, and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones, and other audio settings</string>
   <string name="music_audio_effect_settings">Effects settings</string>
   <string name="music_dirac_control">Optimize audio quality</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
@@ -2207,6 +2212,7 @@ Select your operating system:"</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
+  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed</string>
   <string name="note_title">Notes</string>
   <string name="notes_privacy_password_role_instruction">Your private notes will be stored here.</string>
@@ -3403,6 +3409,9 @@ Attempts Remaining :"</string>
   <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
+  <string name="smallwindow_smartcover_title">Transparent front cover</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover lock or unlock screen</string>
+  <string name="smartcover_sensitive_summary">lock or unlock the phone easily with smart cover</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">Default SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
