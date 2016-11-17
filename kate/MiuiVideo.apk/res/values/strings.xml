@@ -33,6 +33,7 @@
   <string name="all">all</string>
   <string name="all_ep">All ep</string>
   <string name="all_episode">All Episodes</string>
+  <string name="already_buy_vip">has already buy vip</string>
   <string name="app_charging_wifi_mode">Charging to update app</string>
   <string name="app_charging_wifi_mode_summary">Update app automatically when connected to WLAN and in charging</string>
   <string name="app_latest_version">No updates available</string>
@@ -88,6 +89,7 @@
   <string name="count_ge_media">%d videos</string>
   <string name="count_ji_quan">All %d Eps</string>
   <string name="count_qi">Ep. %s</string>
+  <string name="create_tencent_shortcut_message">Has created a Tencent Video Shortcut on the DeskTop</string>
   <string name="data_buffering">Buffering…</string>
   <string name="datastream_alert_download">Using your mobile data connection to download videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="datastream_alert_hint">You can turn off data usage notifications any time in Settings.</string>
@@ -122,6 +124,7 @@
   <string name="disk_volume">Removable storage</string>
   <string name="dlna_list_name">DLNA device</string>
   <string name="dlna_name">Shared device</string>
+  <string name="do_not_buy_vip">do not buy vip</string>
   <string name="douban_score">Score</string>
   <string name="download">Download</string>
   <string name="download_add_success">Added to download queue</string>
@@ -156,6 +159,7 @@
   <string name="error_empty_live_favor">No Collection of TV Channels</string>
   <string name="error_empty_title">Something went wrong.</string>
   <string name="expire_time">expire time</string>
+  <string name="expired_buy_vip">vip has already expired</string>
   <string name="favorite">Favorite</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">File error</string>
@@ -168,6 +172,7 @@
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Full screen</string>
   <string name="funshion">Funshion</string>
+  <string name="go_to_cinema">go to cinema</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">%d total</string>
   <string name="gong_count_ji">%d Ep. total</string>
@@ -233,6 +238,7 @@
   <string name="no_longer_tips">"Don't show again"</string>
   <string name="no_pay_record">no pay record</string>
   <string name="no_sdcard_no_download">Not enough storage space.</string>
+  <string name="no_vip_product">do not support vip services</string>
   <string name="not_buy_vip">no vip</string>
   <string name="not_exist_openid">getting account info, please wait...</string>
   <string name="not_login">Not signed in</string>
@@ -342,6 +348,7 @@
   <string name="share_device">Shared device</string>
   <string name="similar">Similar</string>
   <string name="sina">Sina</string>
+  <string name="single_pay">single pay</string>
   <string name="sniff">Source</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Source get error</string>
@@ -359,6 +366,7 @@
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
   <string name="temp_play_history_button_label">History</string>
   <string name="tencent">Tencent</string>
+  <string name="tencent_shortcut_name">蜗牛有爱情</string>
   <string name="to_be_play_label_v5">"Up next: "</string>
   <string name="toast_back_key_pressed_notice">To exit, touch Back again</string>
   <string name="toast_message_continue_play_from">Playing from </string>
@@ -406,7 +414,10 @@
   <string name="video_plugin">Video plug-in</string>
   <string name="video_plugin_downloading">Downloading (%1$s)</string>
   <string name="video_plugin_prepare">Just a sec…</string>
+  <string name="video_pre_play_tip">You can free preview play %1$d minutes，play complete please &lt;Data&gt;&amp;lt;font color=#04b4fd&amp;gt;purchase immediately &amp;gt;&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="video_vip">vip</string>
   <string name="vip_package">vip package</string>
+  <string name="vip_rights">Vip rights and interests</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
