@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Choose a security question</item>
+        <item>First phone number?</item>
+        <item>"Childhood best friend's name?"</item>
+        <item>"First teacher's name?"</item>
+        <item>"Manager's name at first job?"</item>
+        <item>Vehicle registration number?</item>
+    </string-array>
+    <string-array name="google_play_email_opt_in">
+        <item>be</item>
+        <item>bg</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>de</item>
+        <item>ee</item>
+        <item>ie</item>
+        <item>el</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>cy</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>hu</item>
+        <item>mt</item>
+        <item>nl</item>
+        <item>at</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>si</item>
+        <item>sk</item>
+        <item>fi</item>
+        <item>se</item>
+        <item>hr</item>
+        <item>mk</item>
+        <item>me</item>
+        <item>rs</item>
+        <item>tr</item>
+        <item>au</item>
+        <item>ca</item>
+    </string-array>
+    <array name="passwordStrengthColor">
+        <item>#ffff0000</item>
+        <item>#ffffec18</item>
+        <item>#ff6699ff</item>
+        <item>#ff99cc00</item>
+    </array>
+    <string-array name="passwordStrength">
+        <item>poor</item>
+        <item>fair</item>
+        <item>good</item>
+        <item>strong</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>

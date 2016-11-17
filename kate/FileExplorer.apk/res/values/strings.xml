@@ -29,6 +29,8 @@
   <string name="auto_play">Play automatically when connected to Wi-Fi</string>
   <string name="auto_play_later">Later</string>
   <string name="auto_play_now">Turn on</string>
+  <string name="auto_play_recommend">Play automatically</string>
+  <string name="auto_play_recommend_tips">Start playing videos automatically</string>
   <string name="auto_play_toast">Videos will play automatically. You can change that in settings.</string>
   <string name="backup_cancel">"Don't back up"</string>
   <string name="backup_checkbox_msg">Back up automatically</string>
@@ -65,6 +67,7 @@
   <string name="category_favorite">Favorites</string>
   <string name="category_file">Files</string>
   <string name="category_files">Files</string>
+  <string name="category_installed_app">Installed apps</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_music">Music</string>
   <string name="category_other">Other</string>
@@ -114,6 +117,7 @@
   <string name="copy_failed">"Couldn't copy"</string>
   <string name="copy_text">Copy text</string>
   <string name="copy_to">Copy to…</string>
+  <string name="create_shortcut_success">Added shortcut successfully</string>
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">"Don't show again"</string>
   <string name="data_consumption_confirm">OK</string>
@@ -146,6 +150,7 @@
   <string name="delete_video_dialog_tip">"You won't be able to restore the video after you delete it."</string>
   <string name="delete_video_dialog_title">Delete video</string>
   <string name="delete_video_success">Deleted successfully</string>
+  <string name="deleted_video_msg">"You're a bit late. This video was deleted."</string>
   <string name="dialog_logout_message">Sign out now?</string>
   <string name="dialog_logout_title">Sign out</string>
   <string name="dialog_select_type">Choose type</string>
@@ -202,6 +207,8 @@
   <string name="follow_fail">"Couldn't follow, try again later"</string>
   <string name="follow_tip_1">Follow me to watch more videos</string>
   <string name="follow_tip_2">Follow me to watch more videos</string>
+  <string name="force_touch_clean">Clean up</string>
+  <string name="force_touch_search">Search files</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">USB storage connected</string>
   <string name="ftp_account_req_notice">4–16 characters, letters and digits, case sensitive</string>
@@ -240,6 +247,7 @@
   <string name="instruction">Enter the following address into FTP client: </string>
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="interest_recommend">Recommended videos</string>
+  <string name="is_playing">Playing…</string>
   <string name="just_now">just now</string>
   <string name="kilobyteShort">KB</string>
   <string name="kuaipan_label">Kuaipan</string>
@@ -253,9 +261,11 @@
   <string name="local_music">Audio files</string>
   <string name="local_video">Video files</string>
   <string name="login">Sign in</string>
+  <string name="login_account_bind_qq">QQ account</string>
   <string name="login_account_bind_skip">Skip</string>
   <string name="login_account_bind_tip">A good nickname and avatar will make your videos more popular</string>
   <string name="login_account_bind_title">Add a third party account</string>
+  <string name="login_account_bind_wb">Weibo account</string>
   <string name="login_account_bind_wx">Use WeChat</string>
   <string name="login_account_bind_xm">Use Mi Account</string>
   <string name="login_expired">Session expired, sign in again</string>
@@ -281,6 +291,7 @@
   <string name="menu_item_sort_type">Type</string>
   <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Comment: "</string>
+  <string name="message_my_received_notification">New message</string>
   <string name="message_my_received_praise">My likes</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" liked this comment"</string>
@@ -408,6 +419,7 @@
   <string name="phone_code_et_hint">Enter verification code</string>
   <string name="phone_get_code_tip">Too many attempts to get the code today</string>
   <string name="phone_has_used_tip">This phone is associated with an existing account, try a different one.</string>
+  <string name="phone_login_btn_str">Phone number</string>
   <string name="phone_login_title">Phone</string>
   <string name="phone_num">Phone number</string>
   <string name="phone_num_et_hint">Enter phone number</string>
@@ -432,6 +444,7 @@
   <string name="pick_file">Choose files</string>
   <string name="pick_folder">Choose folder</string>
   <string name="popup_msg_qq">Share this video with your QQ friends.</string>
+  <string name="popup_msg_wb">Cool video? Share it with your Weibo friends!</string>
   <string name="popup_msg_wx">Share this video with your WeChat friends.</string>
   <string name="port_range">Port must be between 1024–65535</string>
   <string name="private_files">Hidden</string>
@@ -441,6 +454,8 @@
   <string name="private_toast_hint2">To hide a file, press and hold it, then add it to a hidden folder.</string>
   <string name="private_toast_hint3">Pull down to view hidden folders</string>
   <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
+  <string name="qq_btn_bind">QQ</string>
+  <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">"QQ isn't installed"</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
@@ -516,9 +531,20 @@
   <string name="setting">Settings</string>
   <string name="setting_account_bind">Add account</string>
   <string name="setting_message_notify">Notifications</string>
+  <string name="setting_shortcut">Add Home screen shortcut</string>
+  <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
   <string name="share_success">Shared successfully</string>
   <string name="share_tip_1">Thanks for sharing, follow me to watch more videos</string>
   <string name="share_tip_2">Thanks for sharing, follow me to watch more videos</string>
+  <string name="share_title_01">"%1$s Here's a cool video! %2$s"</string>
+  <string name="share_title_02">"%1$s Here's a cool video!"</string>
+  <string name="share_title_03">"%1$s Here's a cool video! %2$s"</string>
+  <string name="share_title_04">%1$s I shared a video, take a look! %2$s</string>
+  <string name="share_title_05">%1$s I shared a video, take a look! %2$s</string>
+  <string name="share_title_06">%1$s I shared a video, take a look! %2$s</string>
+  <string name="share_title_07">%s I shared a video, take a look!</string>
+  <string name="share_title_08">%s I shared a video, take a look!</string>
+  <string name="share_title_09">%s I shared a video, take a look!</string>
   <string name="share_title_1">Found a cool sticker bundle!</string>
   <string name="share_to">Share to…</string>
   <string name="share_youliao1">Upgrade to watch more episodes.</string>
@@ -533,6 +559,9 @@
 (GIFs can be added to Custom in WeChat Stickers)."</string>
   <string name="shared_sticker_use_tip_title">How to use stickers</string>
   <string name="shared_str">Shared by %s</string>
+  <string name="shortcut_exists">Shortcut already exists</string>
+  <string name="shortcut_hotvideos">Popular videos</string>
+  <string name="shortcut_msg">Add Home screen shortcut for popular videos</string>
   <string name="smb_loading">Just a sec…</string>
   <string name="sort_size_asc">Smaller to bigger</string>
   <string name="sort_size_desc">Bigger to smaller</string>
@@ -626,6 +655,7 @@
   <string name="user_follow_me_title">My followers</string>
   <string name="user_follow_title">People I follow</string>
   <string name="user_guide_continue_use">OK</string>
+  <string name="user_guide_more_login">Other ways to sign in</string>
   <string name="user_icon">Profile photo</string>
   <string name="user_info_setting">Edit info</string>
   <string name="user_like_text">Likes</string>
@@ -697,6 +727,8 @@
   <string name="video_play_failed">Unknown error</string>
   <string name="video_publish_hint">A good description will help other people find your video</string>
   <string name="video_publish_hint2">Description</string>
+  <string name="video_publish_origin_tag">Original tag</string>
+  <string name="video_publish_watchable_tag">Follow me to watch this video</string>
   <string name="video_recommend_upload">Recommended</string>
   <string name="video_status_reject">Rejected</string>
   <string name="video_status_review">Being reviewed</string>
@@ -717,22 +749,25 @@
   <string name="video_upload_wechat_hint">Upload WeChat videos to get more fans.</string>
   <string name="video_uploaded">Uploaded</string>
   <string name="view_more_sticker">View more stickers</string>
+  <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
+  <string name="wechat_login_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video at %s</string>
+  <string name="weibo_login_btn_str">Weibo</string>
+  <string name="weibo_share_success">Shared successfully</string>
+  <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
   <string name="weixin_sticker_tag_str">Stickers</string>
   <string name="welcome_to_my_page">Welcome to my homepage</string>
   <string name="welcome_to_my_page_1">Follow me!</string>
   <string name="welcome_to_my_page_2">Follow me!</string>
   <string name="wifi_state">Wi-Fi network</string>
-  <string name="wx_title1">"Here's a cool video!"</string>
-  <string name="wx_title2">I shared a video, take a look!</string>
-  <string name="wx_title3">Watch viral videos from around the world!</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>
+  <string name="xiaomi_login_btn_str">Mi Account</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Yes</string>
   <string name="yesterday">Yesterday</string>

@@ -57,7 +57,6 @@
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">Session expired, sign in again later</string>
   <string name="authorize_title">Authorization</string>
-  <string name="barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Connect your Facebook Account</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Accounts</string>
@@ -168,6 +167,10 @@
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_title">"Mi Account couldn't connect to the network"</string>
+  <string name="oauth_get_scopes_failed">"Couldn't get account info"</string>
+  <string name="oauth_getting_scopes">Verifying account…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; will get following permissions:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Sign in with Mi Account</string>
   <string name="other_devices_title">Other devices</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>
@@ -183,6 +186,7 @@
   <string name="passport_auto_generate_pwd">Generate secure password</string>
   <string name="passport_back">Back</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
+  <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
@@ -362,7 +366,7 @@ Make sure you remember the answers to these questions."</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
   <string name="unlock_help_notice">"Help:
 · If you forgot your password, go to id.mi.com to reset it.
-· If you can't unlock the device, go to i.mi.com to turn off Find device
+· If you can't unlock the device, go to i.mi.com to turn off Find device.
 · Tell this unlock number to the customer service: %s"</string>
   <string name="update_contacts">Update contacts</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>

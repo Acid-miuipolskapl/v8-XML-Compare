@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Accept</string>
+  <string name="account_already_has_gmail">Account already has Gmail.</string>
+  <string name="account_creation_tos">By continuing, you are agreeing to the Google &lt;annotation id="tos"&gt;Terms of Service&lt;/annotation&gt;, &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;, and &lt;annotation id="play_tos"&gt;Google Play Terms of Service&lt;/annotation&gt;". "</string>
+  <string name="account_creation_tos_with_chrome">By continuing, you are agreeing to the Google &lt;annotation id="tos"&gt;Terms of Service&lt;/annotation&gt; and &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;, Chrome &lt;annotation id="chrome_tos"&gt;Terms of Service&lt;/annotation&gt; and &lt;annotation id="chrome_privacy"&gt;Privacy Notice&lt;/annotation&gt;, and Google Play &lt;annotation id="play_tos"&gt;Terms of Service&lt;/annotation&gt;". "</string>
+  <string name="account_exists_text">Your first account is ready for use. You can add and remove accounts later in Settings.</string>
+  <string name="account_exists_title">Account added</string>
+  <string name="account_intro_default_message">Never lose your stuff again. A Google Account keeps everything safe.</string>
+  <string name="account_intro_learn_more">Learn more</string>
+  <string name="account_intro_recommended_title">Make it Google</string>
+  <string name="account_intro_required_title">Powered by Google</string>
+  <string name="account_intro_simple_message">Do you want to add an existing account or create a new one?</string>
+  <string name="account_intro_title">Google Account</string>
+  <string name="account_pre_intro_default_message">"Do you have a Google Account?
+
+If you use Gmail or Google Apps, answer Yes."</string>
+  <string name="account_pre_intro_no">No</string>
+  <string name="account_pre_intro_title">Got Google?</string>
+  <string name="account_pre_intro_yes">Yes</string>
+  <string name="account_recovery_info">If you ever lose your password, you can answer a security question and have a reset link emailed to a different address.</string>
+  <string name="account_setup_title">Google Account</string>
+  <string name="account_tos_plus_title">Finish joining Google+</string>
+  <string name="account_tos_title">Finish account</string>
+  <string name="activation_button_label">Activate</string>
+  <string name="activation_cancel_text">Canceling activation…this might take 5-10 seconds.</string>
+  <string name="activation_cancel_title">Cancel requested</string>
+  <string name="activation_canceled_text">"Do you want to cancel activation? You need to activate your mobile network service before you can use it to connect to the Internet.
+
+Touch "&lt;b&gt;Next&lt;/b&gt;" to complete setup using a Wi-Fi connection.
+
+You can activate your mobile network service later in "&lt;b&gt;System settings &amp;gt; Wireless &amp;amp; networks &amp;gt; Mobile networks&lt;/b&gt;.</string>
+  <string name="activation_canceled_text_standalone">"Activation canceled.
+
+You can activate your mobile data service later in "&lt;b&gt;System settings &amp;gt; Wireless &amp;amp; networks &amp;gt; Cellular networks&lt;/b&gt;.</string>
+  <string name="activation_canceled_title">Activation canceled</string>
+  <string name="activation_continue_skip_label">Continue</string>
+  <string name="activation_default_network_name">mobile network</string>
+  <string name="activation_failure_text">"Try again in a minute, or restart your phone if this continues to happen.
+
+If you prefer to skip now, be sure to activate later in System settings. Until you activate, your phone won't have a cellular data connection."</string>
+  <string name="activation_failure_text_gen">"Your mobile data service couldn't be activated. This may be a temporary problem, and may be solved by restarting the phone."</string>
+  <string name="activation_failure_text_standalone">"Couldn't activate mobile data service. To try activation again touch "&lt;b&gt;Try again&lt;/b&gt;".
+
+You can activate your mobile data service later in "&lt;b&gt;System settings &amp;gt; Wireless &amp;amp; networks &amp;gt; Mobile networks&lt;/b&gt;</string>
+  <string name="activation_failure_title">"Couldn't activate"</string>
+  <string name="activation_network_bars_template">Signal strength %d bars</string>
+  <string name="activation_progress">Activation can take a few minutes. Touch &lt;b&gt;Skip&lt;/b&gt; to complete setup using a Wi-Fi connection instead.</string>
+  <string name="activation_progress_before_connect">Touch &lt;b&gt;Skip&lt;/b&gt; to complete setup using a Wi-Fi connection instead.</string>
+  <string name="activation_progress_before_connect_standalone">Activation can take a few minutes.</string>
+  <string name="activation_progress_gen">This can take up to 5 minutes</string>
+  <string name="activation_progress_mobile_data">"The phone is activating your mobile data service.
+
+This can take up to 5 minutes."</string>
+  <string name="activation_progress_standalone">Activation can take a few minutes.</string>
+  <string name="activation_skip_confirmation">"Until you activate your mobile data service, most of your phone's features won't work.
+
+If you prefer to skip now, you can activate later in System settings."</string>
+  <string name="activation_skip_text">"If you skip activation, be sure to activate later in Settings. Until you activate, your phone won't have a cellular data connection."</string>
+  <string name="activation_spc_failure_text">There was an error that requires shutting down and restarting your phone before you can make another activation attempt. Your phone will shut down automatically in 60 seconds, or you can touch &lt;b&gt;Shut down now&lt;/b&gt;".
+
+Once your phone is shut down, press the Power button to restart it. Activation will start up automatically."</string>
+  <string name="activation_success_text">Touch &lt;b&gt;Next&lt;/b&gt; to continue with setup.</string>
+  <string name="activation_success_text_gen">Your device needs to restart to complete activation.</string>
+  <string name="activation_success_text_standalone">Touch &lt;b&gt;Next&lt;/b&gt;" to continue.
+
+Activation successful, but it may take a few minutes for the mobile data network to become available."</string>
+  <string name="activation_success_title">Activation complete</string>
+  <string name="activation_text">Touch &lt;b&gt;Activate&lt;/b&gt;" to activate your mobile service now. (It may take a couple of minutes.)
+
+Or touch "&lt;b&gt;Skip&lt;/b&gt; to set up your phone using a Wi-Fi connection instead.</string>
+  <string name="activation_text_standalone">Touch &lt;b&gt;Activate&lt;/b&gt; to activate your mobile service now. (It may take a couple of minutes.)</string>
+  <string name="activation_title">Activating cellular service…</string>
+  <string name="activation_title_activating">Activating cellular service…</string>
+  <string name="activation_title_searching">Searching for service…</string>
+  <string name="add_a_google_account">Add a Google Account</string>
+  <string name="ads_settings_title">Ads</string>
+  <string name="allow">Allow access</string>
+  <string name="allow_personalized_content">Allow Google to use your information to personalize content and ads on non-Google web sites.</string>
+  <string name="alternatives_list_title">Suggested usernames</string>
+  <string name="android_privacy_policy_title">Additional Privacy Policy</string>
+  <string name="answer">" "&lt;b&gt;Answer&lt;/b&gt;" "</string>
+  <string name="app_label">Google Account Manager</string>
+  <string name="audit_logging_summary">Automatically send device event and diagnostic information to Google to help improve our products and protect your device.</string>
+  <string name="backup_assistant_prompt">Start Verizon Backup Assistant to restore contacts from another Verizon phone.</string>
+  <string name="backup_consent_message">"Use your Google account to back up your apps, settings (such as bookmarks and Wi-Fi passwords), and other data. If you previously backed up your account, you can restore it to this phone now.
+
+You can change your backup settings anytime in Settings."</string>
+  <string name="backup_consent_message_no_restore">"Use your Google account to back up your apps, settings (such as bookmarks and Wi-Fi passwords), and other data.
+
+You can change your backup settings anytime in Settings."</string>
+  <string name="backup_consent_yes_agree">Use your Google Account to back up your apps, settings (such as bookmarks and Wi-Fi passwords), and other data.</string>
+  <string name="bad_name_agree_button_label">Submit name for review</string>
+  <string name="bad_name_agree_text">I understand and want to use this name.</string>
+  <string name="bad_name_decline_button_label">Update name</string>
+  <string name="bad_name_display">%1$s %2$s</string>
+  <string name="bad_name_skip_button_label">Skip Google+</string>
+  <string name="bad_name_text">"If you want this as your Google+ name, our team will need to review it. If it violates our Names Policy, your profile could be suspended. This would limit your ability to use Google products that require an active profile.
+
+"&lt;annotation id="learn_more"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="bad_name_title">Use this name?</string>
+  <string name="calendar">Google Calendar</string>
+  <string name="cancel_button_label">Cancel</string>
+  <string name="canceled_a11y">Canceled Accessibility mode.</string>
+  <string name="cannot_talk_to_server_msg">"The device couldn't reach Google."</string>
+  <string name="cant_be_blank">"Field can't be blank."</string>
+  <string name="captcha_instructions">Type the text you see here:</string>
+  <string name="captcha_title">Need to Enter CAPTCHA</string>
+  <string name="checking_account">Checking availability…</string>
+  <string name="checking_username_message">"Your phone is contacting Google to see if your desired username is available.
+
+This can take a couple of minutes."</string>
+  <string name="choose_a_password">Password</string>
+  <string name="chrome_privacy_title">Chrome Privacy Notice</string>
+  <string name="chrome_tos_title">Chrome Terms of Service</string>
+  <string name="circles_subtitle">"A stream of stuff you're into"</string>
+  <string name="circles_text">Connect with close friends and explore common interests.</string>
+  <string name="close_button_label">Close</string>
+  <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+  <string name="common_android_wear_update_text">"This app won't run unless you update the Android Wear app."</string>
+  <string name="common_android_wear_update_title">Update Android Wear</string>
+  <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+  <string name="common_google_play_services_enable_text">"This app won't work unless you enable Google Play services."</string>
+  <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+  <string name="common_google_play_services_install_button">Get Google Play services</string>
+  <string name="common_google_play_services_install_text_phone">"This app won't run without Google Play services, which are missing from your phone."</string>
+  <string name="common_google_play_services_install_text_tablet">"This app won't run without Google Play services, which are missing from your tablet."</string>
+  <string name="common_google_play_services_install_title">Get Google Play services</string>
+  <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+  <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+  <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+  <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+  <string name="common_google_play_services_network_error_title">Network Error</string>
+  <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+  <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+  <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+  <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+  <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play services</string>
+  <string name="common_google_play_services_update_button">Update</string>
+  <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
+  <string name="common_google_play_services_update_title">Update Google Play services</string>
+  <string name="common_open_on_phone">Open on phone</string>
+  <string name="common_signin_button_text">Sign in</string>
+  <string name="common_signin_button_text_long">Sign in with Google</string>
+  <string name="communicating_message">Your phone is contacting Google to save information to your account. This can take up to 5 minutes.</string>
+  <string name="confirm_password">Re-type password</string>
+  <string name="continue_for_a11y">Continue touching the screen until you hear a beep to enable Accessibility mode.</string>
+  <string name="country_invalid">This country is not allowed</string>
+  <string name="create_button_label">Get an account</string>
+  <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+  <string name="create_calendar_title">Create calendar event</string>
+  <string name="create_google_account">Choose username</string>
+  <string name="create_google_account_text">Your Google Account comes with Gmail, email from Google. It works on any device, blocks spam, and much more.</string>
+  <string name="create_prompt">" Don't have a Google account? "&lt;annotation id="create_account"&gt;Create an account now&lt;/annotation&gt;" . "</string>
+  <string name="creating_account_title">Saving account…</string>
+  <string name="creating_profile">Creating your profile…</string>
+  <string name="crop_failure">"Couldn't crop the photo."</string>
+  <string name="current_city">Current city</string>
+  <string name="dasher_warning">The administrator at %s owns and manages all your data on Google+ and can delete or modify your profile at any time without your permission.</string>
+  <string name="date_time_current_date">Current date</string>
+  <string name="date_time_current_time">Current time</string>
+  <string name="date_time_message">Set your time zone and adjust current date and time if needed.</string>
+  <string name="date_time_setup_title">Date &amp; time</string>
+  <string name="decline">Decline</string>
+  <string name="default_device_name">Android</string>
+  <string name="deny">No thanks</string>
+  <string name="doesnt_use_gmail">" "&lt;b&gt;^1&lt;/b&gt;" doesn't use Gmail. "</string>
+  <string name="done">OK</string>
+  <string name="dont_skip_button_label">"Don't skip"</string>
+  <string name="down_button_label">More</string>
+  <string name="early_update_downloading_text">Downloading %s</string>
+  <string name="early_update_installing_text">Installing %s</string>
+  <string name="early_update_text">Checking for updates</string>
+  <string name="early_update_title">Software update</string>
+  <string name="edit_text_help">Touch any text box to start typing</string>
+  <string name="eight_chars_min">8 characters minimum</string>
+  <string name="email">Google Mail</string>
+  <string name="emergency_dial">Emergency call</string>
+  <string name="enable_web_history">Turn on web history</string>
+  <string name="enabled_a11y">Accessibility mode enabled.</string>
+  <string name="error_account_disabled">"This account has been disabled. 
+
+(For details, visit https://google.com/accounts with a web browser.)"</string>
+  <string name="error_account_not_verified">"This account hasn't been verified. Check your email and follow the included link to verify this account. 
+
+(To recover your account information, go to http://www.google.com/accounts/recovery on your computer.)"</string>
+  <string name="error_bad_password">The password is too weak or contains invalid characters. Try again.</string>
+  <string name="error_bad_username">Invalid username.</string>
+  <string name="error_invalid_second_factor">Use an app-specific password instead of your regular account password.</string>
+  <string name="error_login_failed">"Your username and password don't match. Try again.
+
+To recover your account info, go to google.com/accounts/recovery/."</string>
+  <string name="error_needs_browser">To access your account, you must sign in on the web. Touch Next to start Browser sign‑in.</string>
+  <string name="error_not_logged_in">"User isn't signed in."</string>
+  <string name="error_username_unavailable">"Username isn't available."</string>
+  <string name="existing_account_error_text">There is already a ^1 account on this Android device.</string>
+  <string name="existing_account_error_title">Account already exists</string>
+  <string name="existing_button_label">Existing</string>
+  <string name="exit_menu_item">Exit browser sign‑in</string>
+  <string name="field_cant_be_blank">"Field can't be blank."</string>
+  <string name="finish_button_label">Finish</string>
+  <string name="first_name">First</string>
+  <string name="gender_hint">Gender</string>
+  <string name="gender_prompt">Gender</string>
+  <string name="gls_dmagent_activity_activate_message">" Your domain requires mobile device management. Activate the \"Google Apps Device Policy\" app to enforce security policies required by the "&lt;b&gt;^1&lt;/b&gt;" account. "</string>
+  <string name="gls_dmagent_activity_activate_retry_button">Activate</string>
+  <string name="gls_dmagent_activity_download_message">" Your domain requires mobile device management. Install the \"Google Apps Device Policy\" app to enforce security policies required by the "&lt;b&gt;^1&lt;/b&gt;" account. "</string>
+  <string name="gls_dmagent_activity_download_retry_button">Download</string>
+  <string name="gls_label">Google</string>
+  <string name="gls_login_activity_loginfail_text_pwonly">You typed an incorrect password or your account has changed. Re-type your password.</string>
+  <string name="gls_notification_login_error">Touch to sign in to your account.</string>
+  <string name="gls_ui_activity_authenticating">Authenticating…</string>
+  <string name="gls_ui_activity_title">Sign in</string>
+  <string name="gls_ui_activity_title_browser_signin">Sign in</string>
+  <string name="gls_ui_activity_title_checking_in">Preparing…</string>
+  <string name="gls_ui_add_account_title">Account setup</string>
+  <string name="gmail_host_name">\@gmail.com</string>
+  <string name="google_legal_title">Google legal</string>
+  <string name="google_play_opt_in">Keep me up to date with news and offers from Google Play.</string>
+  <string name="google_play_tos_title">Google Play Terms of Service</string>
+  <string name="google_plus_privacy_policy_title">Google Plus Privacy Policy</string>
+  <string name="google_privacy_policy_title">Google Privacy Policy</string>
+  <string name="google_settings_header_title">Privacy</string>
+  <string name="google_terms_of_service_title">Google Terms of Service</string>
+  <string name="grant_credentials_permission_message_app">These apps want access to your Google account from now on:</string>
+  <string name="grant_credentials_permission_message_footer">They are requesting permission to:</string>
+  <string name="grant_permissions_header_text">Permission request</string>
+  <string name="hint_illegal_chars">" "&lt;b&gt;^1&lt;/b&gt;" can contain only letters,
+numbers, and periods. "</string>
+  <string name="hint_numbers_only">" "&lt;b&gt;^1&lt;/b&gt;" doesn't contain any letters. "</string>
+  <string name="hint_size">" "&lt;b&gt;^1&lt;/b&gt;" contains less than 6 or more than 30 characters. "</string>
+  <string name="huddle_subtitle">Video calling &amp; messaging</string>
+  <string name="huddle_text">Enjoy texting, photos, and free group video calls with Hangouts.</string>
+  <string name="i_accept">I accept</string>
+  <string name="i_decline">"Don't create account"</string>
+  <string name="invalid_email">"The email address you typed isn't valid.
+ Example: joe@example.com"</string>
+  <string name="invalid_email_primary">"Recovery address can't be the same as the one you're creating."</string>
+  <string name="invalid_login_character">Invalid character. Only 0-9, a-z, A-Z, and periods are allowed.</string>
+  <string name="invalid_name_text">"You can't use this name with Google+ because it contains invalid characters."</string>
+  <string name="invalid_name_title">"Can't use this name"</string>
+  <string name="invalid_nickname_text">"You can't use this name with Google+ because it contains invalid characters. Trying to use a nickname, previous name, or title? You can add them to your profile after you join."</string>
+  <string name="invalid_other_text">"This name can't be used with Google+."</string>
+  <string name="invalid_password_character">Invalid password character.</string>
+  <string name="invalid_username">"The text you typed isn't a valid username."</string>
+  <string name="is_not_available">The username &lt;b&gt;^1&lt;/b&gt;" isn't available."</string>
+  <string name="last_name">Last</string>
+  <string name="learn_more">&lt;annotation id="learn_more"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="learn_more_account_intro">"A Google Account lets you:
+
+"&lt;li&gt;&lt;ul&gt;See and organize all your information&amp;#8212;including your search history&amp;#8212;from anywhere.&lt;/ul&gt;&lt;/li&gt;"
+
+"&lt;li&gt;&lt;ul&gt;Automatically back up your data, like email, contacts, music, and pictures.&lt;/ul&gt;&lt;/li&gt;"
+
+"&lt;li&gt;&lt;ul&gt;Use Google services easily from anywhere&amp;#8212;including Contacts, Calendar, Maps, and more.&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="learn_more_account_intro_title">About Google Accounts</string>
+  <string name="learn_more_bad_name">"Google+ requires you to use your common name. Your profile should represent one person—not a business, organization, or family—and should include your first and last name in a single language with no professional titles or unnecessary punctuation. After signup, you can place nicknames or other names with which you're associated in the Other Names field in your profile."</string>
+  <string name="learn_more_bad_name_title">About the Names Policy</string>
+  <string name="learn_more_title">Learn more</string>
+  <string name="location_neighborhood_level">Allow anonymous location data to be sent to Google. Also allow permitted apps to use data from sources such as Wi-Fi and mobile networks to determine your approximate location.</string>
+  <string name="location_network_based">"Google's location service"</string>
+  <string name="location_settings_title">Location</string>
+  <string name="location_sharing_title">Google &amp; location</string>
+  <string name="lock_pin_cancel_label">Cancel</string>
+  <string name="lock_pin_choose_your_pin_header">Choose your PIN</string>
+  <string name="lock_pin_confirm_pins_dont_match">"PINs don't match"</string>
+  <string name="lock_pin_confirm_your_pin_header">Confirm your PIN</string>
+  <string name="lock_pin_contains_non_digits">PIN must contain only digits 0-9.</string>
+  <string name="lock_pin_continue_label">Continue</string>
+  <string name="lock_pin_illegal_character">Password contains an illegal character.</string>
+  <string name="lock_pin_ok_label">OK</string>
+  <string name="lock_pin_press_continue">Touch Continue when done</string>
+  <string name="lock_pin_too_long">PIN must be fewer than %d digits.</string>
+  <string name="lock_pin_too_short">PIN must be at least %d digits</string>
+  <string name="login_activity_task_msg">This can take a few minutes.</string>
+  <string name="login_activity_task_title">Signing in…</string>
+  <string name="login_activity_title">Sign in</string>
+  <string name="login_task_title">Signing in</string>
+  <string name="login_title">Type Email and Password</string>
+  <string name="maps_settings_title">Maps &amp; Latitude</string>
+  <string name="multi_sim_dialog_message">Choose the SIM you prefer for cellular data.</string>
+  <string name="multi_sim_dialog_title">Multiple SIMs found</string>
+  <string name="name_progress_title">Just a sec…</string>
+  <string name="name_text">Your name is used to personalize your phone and Google services.</string>
+  <string name="name_text_local">The phone uses your name to personalize some apps.</string>
+  <string name="name_title">Your name</string>
+  <string name="name_title_local">This phone belongs to…</string>
+  <string name="name_title_plus">Your Google+ name</string>
+  <string name="network_unreliable">"Can't establish a reliable connection to the server."</string>
+  <string name="network_unreliable_help">This could be a temporary problem or your Android device may not be provisioned for data services. If it continues, call Customer Care.</string>
+  <string name="network_unreliable_help_wifi_only">This could be a temporary problem. Try again or connect to another Wi-Fi network.</string>
+  <string name="new_button_label">New</string>
+  <string name="no_back_msg">"Can't go back to the previous step."</string>
+  <string name="no_network">"You don't have a network connection."</string>
+  <string name="no_network_help">This could be a temporary problem or your Android device may not be provisioned for data services. Try again when connected to a mobile network, or connect to a Wi-Fi network.</string>
+  <string name="no_network_help_wifi_only">This could be a temporary problem. Try again or connect to another Wi-Fi network.</string>
+  <string name="not_now_button_label">Not now</string>
+  <string name="notification_title">Sign‑in error for %1$s</string>
+  <string name="notification_update_message">Touch here to re-run Setup Wizard.</string>
+  <string name="notification_update_title">Your account needs to be updated</string>
+  <string name="occupation">Occupation</string>
+  <string name="ota_agreement_text">By continuing and receiving this software update, you agree to the &lt;annotation id="tos"&gt;Google Terms of Service&lt;/annotation&gt; and &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;". "</string>
+  <string name="ota_info">Your phone needs to download an update and restart.</string>
+  <string name="ota_size">Size: %s</string>
+  <string name="ota_update_title">Update phone</string>
+  <string name="password">Password</string>
+  <string name="password_mismatch">"Passwords didn't match. Try again."</string>
+  <string name="password_title">Create password</string>
+  <string name="permdesc_googleAuthPassword">Allows apps direct access to the passwords for the Google account(s) you have set up.</string>
+  <string name="permdesc_googleMailSwitch">Allows apps to switch the displayed name between \"Gmail\" and \"Google Mail\" branding.</string>
+  <string name="permission_request_notification_with_subtitle">"Permission requested
+for account %s"</string>
+  <string name="permlab_googleAuthPassword">access to passwords for Google accounts</string>
+  <string name="permlab_googleMailSwitch">select Gmail or Google Mail branding</string>
+  <string name="phone_number_hint">Phone number</string>
+  <string name="phone_number_invalid">Invalid phone number</string>
+  <string name="phone_number_invalid_character">Invalid characters in phone number</string>
+  <string name="photo_button_label">Take photo</string>
+  <string name="photo_description">Your photo</string>
+  <string name="photo_failure">"Couldn't launch the camera."</string>
+  <string name="photo_text">This photo will be used in your contact record. You can change it later in the People app.</string>
+  <string name="photo_text_es">Take a photo that your friends will see on Google+. You can choose a new picture later.</string>
+  <string name="photo_title">Your photo</string>
+  <string name="picassa_info_text" formatted="false">"Your photos and videos on Picasa Web Albums will be available on Google+ and your comments will be by %s %s instead of %s. When you share photos on Google+, recipients can reshare them with anyone else. Your albums' visibility settings won't change, and you can limit them at any time so they can't be reshared freely."</string>
+  <string name="picassa_info_title">Picasa and Google+</string>
+  <string name="plus_accepted_button_label">Get started</string>
+  <string name="plus_declined_button_label">Not now</string>
+  <string name="plus_failure_new_account_text">"Your Google Account has been created, but your request to join Google+ didn't go through. Try again later from any web browser at plus.google.com."</string>
+  <string name="plus_failure_text">"Your request to join Google+ didn't go through. Try again later from any web browser at plus.google.com."</string>
+  <string name="plus_failure_title">Join Google+ later</string>
+  <string name="plus_faq_text" formatted="false">"On Google+, you'll have a public profile to help your friends find you online. Anyone who knows your email address can find and view your profile.
+
+You can use +1 buttons throughout the web to recommend things to the world. Your profile and +1's will appear publicly in search, on ads, and across the web.
+
+For now, your profile will show just your name (%s %s). You can add a photo, bio, and other details later when you start using Google+."</string>
+  <string name="plus_faq_title">Welcome to Google+!</string>
+  <string name="plus_name_check_text">This can take a few minutes.</string>
+  <string name="plus_name_check_title">Contacting Google+…</string>
+  <string name="plus_query_text">Google+ makes sharing on the web more like real-life sharing.</string>
+  <string name="plus_query_title">Upgrade to Google+</string>
+  <string name="plus_settings_title">Google+</string>
+  <string name="prepare_account_setup_task_msg">This can take a few minutes.</string>
+  <string name="prepare_account_setup_task_title">Preparing account setup…</string>
+  <string name="profile_info_title">Your profile</string>
+  <string name="profile_text">Provide some basic information for your profile. You can add a photo and other details later when you start using Google+.</string>
+  <string name="provisioned_incorrect_login">Not %s?</string>
+  <string name="provisioned_login_title">Enter password</string>
+  <string name="provisioned_welcome">Hi, %s!</string>
+  <string name="provisioned_welcome_2">"Enter your password for:
+%s"</string>
+  <string name="reboot_button_label">Restart</string>
+  <string name="recovery_input_screen_message">This recovery information applies to %s.</string>
+  <string name="recovery_later_button_label">Not now</string>
+  <string name="recovery_message_set">"If you ever forget your password, you'll want a way to recover it.
+
+Google provides options for recovering your password via SMS or an alternate email address.
+
+This step is strongly recommended. "&lt;annotation id="help_url"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="recovery_message_verify">"Passwords are easy to forget.
+
+Confirm your phone number or backup email address now. This helps you recover access to your content on Google and Google Play. "&lt;annotation id="help_url"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="recovery_retry_label">Try Again</string>
+  <string name="recovery_server_error">Error talking to server. Please try again after some time.</string>
+  <string name="recovery_skip_label">Skip</string>
+  <string name="recovery_title">Google password recovery</string>
+  <string name="recovery_wait_title">Contacting Google...</string>
+  <string name="recovery_yes_button_label">Set up recovery options</string>
+  <string name="recovery_yes_button_label_verify">Confirm recovery options</string>
+  <string name="relogin_activity_title">Re-type password</string>
+  <string name="restart_button_label">Restart</string>
+  <string name="restore_consent_yes_agree">Bring apps, settings, and other data to this phone that you previously backed up to your Google Account.</string>
+  <string name="restore_device_settings_title">Restoring device settings…</string>
+  <string name="restore_failed_message">"Couldn't restore from backup"</string>
+  <string name="restore_launcher_title">Restoring launcher…</string>
+  <string name="restore_title">Restoring…</string>
+  <string name="restore_wallpaper_title">Restoring wallpaper…</string>
+  <string name="restore_wifi">Restore and connect to known Wi‑Fi networks.</string>
+  <string name="restoring_message">Your phone is contacting Google to restore your account. This can take a while.</string>
+  <string name="restoring_title">Restoring…</string>
+  <string name="retake_photo_button_label">Retake photo</string>
+  <string name="search_settings_title">Search</string>
+  <string name="secondary_email_hint">Backup email</string>
+  <string name="secondary_email_invalid">Invalid email address</string>
+  <string name="secondary_email_label">Recovery email address</string>
+  <string name="secondary_email_same_as_primary">Cannot be same as primary email</string>
+  <string name="security_questions_title">Security questions</string>
+  <string name="security_verify_apps_summary">Let Google check all installed apps for potentially harmful behavior that might affect the security of your device or data.</string>
+  <string name="server_error">There was a problem communicating with Google servers.</string>
+  <string name="server_error_help">Try again later.</string>
+  <string name="services_activity_title">Google services</string>
+  <string name="services_backup_heading">Backup</string>
+  <string name="services_communication_heading">Communication</string>
+  <string name="services_location_heading">Location</string>
+  <string name="services_personalization_heading">Personalization</string>
+  <string name="services_security_heading">Security</string>
+  <string name="setup_complete_message">Your phone is set up and ready to use.</string>
+  <string name="setup_complete_title">Setup complete</string>
+  <string name="setup_wizard_back_button_label">Back</string>
+  <string name="setup_wizard_next_button_label">Next</string>
+  <string name="setup_wizard_services_activity_title">Google services</string>
+  <string name="setup_wizard_services_agreement">This phone may also receive and install updates and apps from Google, your carrier, and your phone’s manufacturer. Some apps may be downloaded and installed if you continue, and you can remove them at any time.</string>
+  <string name="setup_wizard_services_backup">&lt;b&gt;Back up your phone&amp;#8217;s apps, app data, settings, personal dictionaries, and Wi&amp;#8209;Fi passwords&lt;/b&gt; using your Google Account so you can easily restore later. &lt;annotation id="backup_details"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="setup_wizard_services_backup_restore">&lt;b&gt;Back up your apps, app data, settings, personal dictionaries, and Wi&amp;#8209;Fi passwords&lt;/b&gt; using your Google Account so you can easily restore later.</string>
+  <string name="setup_wizard_services_backup_restore_dialog_text">When you turn on automatic backup, your device’s data is periodically saved to your Google Account. Backups may include information in your app data folders, like preferences, settings, messages, photos, and other files.</string>
+  <string name="setup_wizard_services_backup_restore_footnote">Data includes apps, app settings, system settings, and Wi‑Fi passwords.</string>
+  <string name="setup_wizard_services_backup_restore_heading">Backup &amp; restore</string>
+  <string name="setup_wizard_services_communication_heading">Communication</string>
+  <string name="setup_wizard_services_description">These services put Google to work for you, and you can turn them on or off at any time. Data will be used in accordance with Google’s &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;.</string>
+  <string name="setup_wizard_services_location_footnote">Google’s location service uses Wi‑Fi and other signals to determine location more precisely and quickly, often with lower power usage than GPS. Some data may be stored on your device. Data may be collected even when no apps are running.</string>
+  <string name="setup_wizard_services_location_heading">Location</string>
+  <string name="setup_wizard_services_location_sharing">&lt;b&gt;Use Google&amp;#8217;s location service&lt;/b&gt; to help apps determine location. This means sending anonymous location data to Google, even when no apps are running. &lt;annotation id="location_details"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="setup_wizard_services_location_sharing_dialog_text">Google’s location service uses sources like Wi‑Fi and cellular networks to help estimate your device’s location faster and more accurately. When you turn on Google’s location services, your device enters a mode that uses Wi‑Fi and cellular networks to provide location information. You can turn this off in location settings by choosing a mode that uses GPS only, sometimes called Device only mode.</string>
+  <string name="setup_wizard_services_location_wifi_scan">&lt;b&gt;Help improve location services&lt;/b&gt; by letting apps and services scan for Wi&amp;#8209;Fi networks even when Wi&amp;#8209;Fi is off.</string>
+  <string name="setup_wizard_services_play">&lt;b&gt;Keep me up to date&lt;/b&gt; with news and offers from Google Play.</string>
+  <string name="setup_wizard_services_usage_reporting">&lt;b&gt;Help improve your Android experience&lt;/b&gt; by automatically sending diagnostic and usage data to Google. This information won&amp;#8217;t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new Google features. &lt;annotation id="usage_reporting_details"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="setup_wizard_services_usage_reporting_dialog_text">"This is general information about your device and how you use it, such as battery level, how often you use your apps, the quality and duration of your network connections (like cell, Wi‑Fi, and Bluetooth), and crash reports when things aren’t working the way they should. It will be used to improve Google’s products and services for everyone, and won’t be associated with your Google Account. Some aggregated information will help partners, such as Android developers, make their apps and products better, too.
+
+You can turn this on or off at any time in the Google Settings app. This doesn’t affect your device’s ability to send the information it needs to receive essential services such as system updates and security."</string>
+  <string name="setup_wizard_title">Setup Wizard</string>
+  <string name="sharedUserLabel">Google Services</string>
+  <string name="show_error_activity_title">"Couldn't sign in"</string>
+  <string name="show_error_title">Error</string>
+  <string name="shutdown_button_label">Shut down now</string>
+  <string name="sign_in_agreement">By signing in, you are agreeing to the Google &lt;annotation id="tos"&gt;Terms of Service&lt;/annotation&gt;, &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;, and &lt;annotation id="play_tos"&gt;Google Play Terms of Service&lt;/annotation&gt;". "</string>
+  <string name="sign_in_agreement_multi_user">By signing in, you are agreeing to the Google &lt;annotation id="tos"&gt;Terms of Service&lt;/annotation&gt;, &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;, and &lt;annotation id="play_tos"&gt;Google Play Terms of Service&lt;/annotation&gt;". 
+
+Remember: Any other user can accept updated app permissions on your behalf. As with any computer, you should only share this tablet with people you trust. "</string>
+  <string name="sign_in_agreement_with_chrome">By signing in, you are agreeing to the Google &lt;annotation id="tos"&gt;Terms of Service&lt;/annotation&gt; and &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;, Chrome &lt;annotation id="chrome_tos"&gt;Terms of Service&lt;/annotation&gt; and &lt;annotation id="chrome_privacy"&gt;Privacy Notice&lt;/annotation&gt;, and Google Play &lt;annotation id="play_tos"&gt;Terms of Service&lt;/annotation&gt;". "</string>
+  <string name="sign_in_agreement_with_chrome_multi_user">By signing in, you are agreeing to the Google &lt;annotation id="tos"&gt;Terms of Service&lt;/annotation&gt; and &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;, Chrome &lt;annotation id="chrome_tos"&gt;Terms of Service&lt;/annotation&gt; and &lt;annotation id="chrome_privacy"&gt;Privacy Notice&lt;/annotation&gt;, and Google Play &lt;annotation id="play_tos"&gt;Terms of Service&lt;/annotation&gt;". 
+
+Remember: Any other user can accept updated app permissions on your behalf. As with any computer, you should only share this tablet with people you trust. "</string>
+  <string name="sign_in_browser">Browser sign‑in</string>
+  <string name="sign_in_button_label">Sign in</string>
+  <string name="sign_in_with_google_account_short">Sign in with your Google Account:</string>
+  <string name="sim_missing_title">Insert SIM card</string>
+  <string name="skip_anyway_button_label">Skip anyway</string>
+  <string name="skip_button_label">Skip</string>
+  <string name="skip_toast">Setup Wizard skipped</string>
+  <string name="start">Start</string>
+  <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+  <string name="store_picture_title">Save image</string>
+  <string name="submission_error_text">There was an error. Try again.</string>
+  <string name="submission_title">Sorry…</string>
+  <string name="suggest_username_next_button_label">Change username</string>
+  <string name="suggestions_hint">Touch for suggestions</string>
+  <string name="sync_intro_activity_title">Sync your account</string>
+  <string name="sync_intro_title">Account Sync</string>
+  <string name="sync_item_title">Sync %s</string>
+  <string name="talk">Google Talk</string>
+  <string name="terminate_toast">"Setup Wizard terminated
+Device not provisioned"</string>
+  <string name="too_short">Too short</string>
+  <string name="tos_agreement_text">This phone may also receive and install updates from Google. By continuing, you agree to the &lt;annotation id="tos"&gt;Google Terms of Service&lt;/annotation&gt; and &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt;.</string>
+  <string name="tos_agreement_text_germany">You further agree that your device may receive and install updates from Google. When you use this device we abide by our &lt;annotation id="google_privacy"&gt;Privacy Policy&lt;/annotation&gt; and &lt;annotation id="tos"&gt;additional terms&lt;/annotation&gt; apply.</string>
+  <string name="tos_title">Google services</string>
+  <string name="try_again_button_label">Try again</string>
+  <string name="uploads_subtitle">Automatic photo backup</string>
+  <string name="uploads_text">Back up photos as you take them, with free and private storage.</string>
+  <string name="url_load_unsuccessful_message">"Your Android device isn't connected to a data service. To view this information now, visit %s with a web browser."</string>
+  <string name="url_load_unsuccessful_message_wifi_only">"Your Android device isn't connected to a Wi-Fi network. To view this information now, visit %s with a web browser."</string>
+  <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
+  <string name="use_location_title">Location &amp; Google search</string>
+  <string name="username">Email</string>
+  <string name="verify_your_profile">Verify your profile</string>
+  <string name="wait_for_device_country_msg">Gathering information about your phone. This could take up to 30 seconds.</string>
+  <string name="wait_for_device_country_title">Account setup</string>
+  <string name="wait_msg">Just a sec…</string>
+  <string name="walled_garden_check_text">This can take up to a minute</string>
+  <string name="walled_garden_connection_failed">"Couldn't connect to the Internet"</string>
+  <string name="walled_garden_skipped_message">"WARNING: Until you have an internet connection, the phone won't be able to verify that your software is up to date."</string>
+  <string name="walled_garden_title">Connecting to the Internet…</string>
+  <string name="wallet_buy_button_place_holder">Buy with Google</string>
+  <string name="warm_sim_check_msg">Waiting for network…</string>
+  <string name="welcome_limited_user_info_text">" 
+"&lt;b&gt;Important:&lt;/b&gt;"
+
+ "&lt;li&gt;&lt;ul&gt;"The phone's owner can install and uninstall apps, set limits, or remove your space completely."&lt;/ul&gt;&lt;/li&gt;"
+
+ "&lt;li&gt;&lt;ul&gt;Any other user can accept updated app permissions on your behalf.&lt;/ul&gt;&lt;/li&gt;"
+
+ "&lt;li&gt;&lt;ul&gt;As with any computer, you should only share this phone with people you trust. &lt;/ul&gt;&lt;/li&gt;" "</string>
+  <string name="welcome_message">Welcome</string>
+  <string name="welcome_secondary_user_added_no_owner_name_text">You have been added to this phone.</string>
+  <string name="welcome_secondary_user_added_text">%s has added you to this phone.</string>
+  <string name="welcome_secondary_user_additional_info_edu">"You're sharing this tablet with other students. Once you've set up your account, add a PIN to protect your work."</string>
+  <string name="welcome_secondary_user_additional_info_header_edu">Important</string>
+  <string name="welcome_secondary_user_info_text">"When you're finished setting up, you can work with apps or install new ones as usual.
+
+"&lt;b&gt;Important:&lt;/b&gt;"
+
+"&lt;li&gt;&lt;ul&gt;"The phone's owner can uninstall your apps or remove your space completely."&lt;/ul&gt;&lt;/li&gt;"
+
+"&lt;li&gt;&lt;ul&gt;Any other user can accept updated app permissions on your behalf.&lt;/ul&gt;&lt;/li&gt;"
+
+"&lt;li&gt;&lt;ul&gt;As with any computer, you should only share this phone with people you trust.&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="welcome_secondary_user_text_edu">"Let's finish setting up your account on this tablet."</string>
+  <string name="welcome_text_edu">Set up your device for use with Google Play for Education</string>
+</resources>

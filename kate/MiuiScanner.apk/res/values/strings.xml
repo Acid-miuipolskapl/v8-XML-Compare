@@ -254,7 +254,7 @@
   <string name="global_default_language">@string/language_value_english</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Import contact</string>
-  <string name="impunity_declaration_content">This app needs to connect to the internet to work normally.</string>
+  <string name="impunity_declaration_content">This app needs to connect to the internet and location services to work normally.</string>
   <string name="impunity_declaration_negative_text">Exit</string>
   <string name="impunity_declaration_positive_text">Allow</string>
   <string name="impunity_declaration_title">Terms of Service</string>

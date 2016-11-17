@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Shutting down in %d seconds…</item>
+        <item quantity="one">Shutting down in 1 second…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Insert SIM cards</item>
+        <item quantity="one">Insert SIM card</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">To insert your SIM cards, read the instructions that came with your tablet.</item>
+        <item quantity="one">To insert your SIM card, read the instructions that came with your tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">To insert your SIM cards, read the instructions that came with your device.</item>
+        <item quantity="one">To insert your SIM card, read the instructions that came with your device.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">To insert your SIM cards, read the instructions that came with your phone.</item>
+        <item quantity="one">To insert your SIM card, read the instructions that came with your phone.</item>
+    </plurals>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" This account can't be used because it's missing the apps: ^1. Contact the domain administrator for "&lt;b>^2&lt;/b>" or sign in using another account. "</item>
+        <item quantity="one">" This account can't be used because it's missing the app: ^1. Contact the domain administrator for "&lt;b>^2&lt;/b>" or sign in using another account. "</item>
+    </plurals>
+</resources>
