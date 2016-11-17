@@ -200,9 +200,9 @@ Use only the supplied charger."</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Yes</string>
   <string name="nav_guide_cancel">Ignore</string>
-  <string name="nav_guide_message">You can use gestures to hide/show screen button after setting.</string>
-  <string name="nav_guide_ok">Settings</string>
-  <string name="nav_guide_title">Hide screen buttons</string>
+  <string name="nav_guide_message">Use gestures to hide/show soft buttons.</string>
+  <string name="nav_guide_ok">Set up</string>
+  <string name="nav_guide_title">Hide soft buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>

@@ -366,7 +366,7 @@ Make sure you remember the answers to these questions."</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
   <string name="unlock_help_notice">"Help:
 · If you forgot your password, go to id.mi.com to reset it.
-· If you can't unlock the device, go to i.mi.com to turn off Find device
+· If you can't unlock the device, go to i.mi.com to turn off Find device.
 · Tell this unlock number to the customer service: %s"</string>
   <string name="update_contacts">Update contacts</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
