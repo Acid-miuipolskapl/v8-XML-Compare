@@ -47,6 +47,15 @@
         <item>@string/account_setup_options_mail_window_1week</item>
         <item>@string/account_setup_options_mail_window_2weeks</item>
         <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_1quarter</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries_eas">
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
         <item>@string/account_setup_options_mail_window_all</item>
     </string-array>
     <string-array name="account_settings_mail_window_entries_exchange">
@@ -56,6 +65,16 @@
         <item>@string/account_setup_options_mail_window_1week</item>
         <item>@string/account_setup_options_mail_window_2weeks</item>
         <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_all</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries_imap">
+        <item>@string/account_setup_options_mail_window_auto</item>
+        <item>@string/account_setup_options_mail_window_1day</item>
+        <item>@string/account_setup_options_mail_window_3days</item>
+        <item>@string/account_setup_options_mail_window_1week</item>
+        <item>@string/account_setup_options_mail_window_2weeks</item>
+        <item>@string/account_setup_options_mail_window_1month</item>
+        <item>@string/account_setup_options_mail_window_1quarter</item>
         <item>@string/account_setup_options_mail_window_all</item>
     </string-array>
     <string-array name="account_settings_mail_window_entries_with_default">
@@ -74,6 +93,15 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_eas">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
     </string-array>
     <string-array name="account_settings_mail_window_values_with_default">
         <item>0</item>
@@ -83,6 +111,26 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+    </string-array>
+    <string-array name="account_settings_message_load_imap_eas_entries">
+        <item>@string/account_setting_message_body_load_head_only</item>
+        <item>@string/account_setting_message_body_load_head_abstract</item>
+        <item>@string/account_setting_message_body_load_text</item>
+        <item>@string/account_setting_message_body_load_complete</item>
+    </string-array>
+    <string-array name="account_settings_message_load_imap_eas_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="account_settings_message_load_pop3_entries">
+        <item>@string/account_setting_message_body_load_head_only</item>
+        <item>@string/account_setting_message_body_load_complete</item>
+    </string-array>
+    <string-array name="account_settings_message_load_pop3_values">
+        <item>1</item>
+        <item>4</item>
     </string-array>
     <string-array name="alphabet_chars">
         <item>☆</item>
@@ -138,10 +186,6 @@
         <item>Reply</item>
         <item>Reply all</item>
         <item>Forward</item>
-    </string-array>
-    <string-array name="contact_edit_set_black_list_array">
-        <item>@string/contact_edit_set_black_list_from</item>
-        <item>@string/contact_edit_set_black_list_receive</item>
     </string-array>
     <string-array name="default_quick_responses">
         <item>@string/quick_1</item>

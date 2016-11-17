@@ -3,8 +3,6 @@
   <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alarm_bar_title">Reminder</string>
   <string name="alert_action_edit_anyway">Keep editing</string>
-  <string name="alert_edit_action_delete">Remove</string>
-  <string name="alert_edit_action_update">Change</string>
   <string name="alert_message_delete">Delete %1$s?</string>
   <string name="alert_message_delete_note">Delete this note?</string>
   <string name="alert_message_edit_anyway">If you edit this note, some of its contents may be lost.</string>
@@ -17,17 +15,12 @@
   <string name="all_terms">%1$s and %2$s</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
-  <string name="attachment_camera">Take a photo</string>
-  <string name="attachment_contact">Contacts</string>
-  <string name="attachment_gallery">Choose from Gallery</string>
-  <string name="button_new_note">New</string>
   <string name="call_folder_name">Call notes</string>
   <string name="default_folder_name">Unnamed folder</string>
   <string name="delete_folder_dialog_tile">Delete folder</string>
   <string name="dlg_btn_set_password">Set password</string>
   <string name="dlg_check_reminder">"Don't show again"</string>
   <string name="dlg_delete_message">Deleting…</string>
-  <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
   <string name="dlg_hide_message">Hiding…</string>
   <string name="dlg_info_creating_message">Creating message…</string>
   <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for messages, photos, and hidden folders"</string>
@@ -37,13 +30,10 @@
   <string name="dlg_quick_delete_title">Quick delete</string>
   <string name="dlg_restore_message">Restoring…</string>
   <string name="dlg_stick_message">Pinning…</string>
-  <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
   <string name="dlg_title_password_reset">Upgrade your password</string>
   <string name="dlg_title_set_password">Set password</string>
   <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
   <string name="dlg_unhide_message">Unhiding…</string>
-  <string name="empty_folder_hint">"No folders
-Tap the plus to create a folder"</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Sync your notes with your Mi Account (%1$s)?</string>
   <string name="error_contact_not_exist">"Contact doesn't exist"</string>
@@ -77,7 +67,6 @@ Tap the plus to create a folder"</string>
   <string name="menu_send_as_image">Send as image</string>
   <string name="menu_send_as_text">Send as text</string>
   <string name="menu_send_to_desktop">Place on Home screen</string>
-  <string name="menu_send_wechat">Send to WeChat</string>
   <string name="menu_send_weibo">Send to Weibo</string>
   <string name="menu_source">From %1$s</string>
   <string name="menu_stick">Pin</string>
@@ -95,14 +84,11 @@ Tap the plus to create a folder"</string>
   <string name="note_sort_way">Select how you want to sort your notes</string>
   <string name="notealert_enter">Open note</string>
   <string name="notealert_ok">Dismiss</string>
-  <string name="notelist_menu_new">Add note</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permlab_accessNote">Access notes</string>
-  <string name="pref_desc_alarm_when_silent">Alarms for reminders will still sound when ringer is silenced</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Don't ask for confirmation when deleting a note using gesture"</string>
-  <string name="pref_title_alarm_when_silent">"Don't silence reminders"</string>
   <string name="pref_title_common">Additional settings</string>
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Style</string>
@@ -135,7 +121,6 @@ Tap the plus to create a folder"</string>
   <string name="sns_choose_quality_title">Choose image quality</string>
   <string name="sns_content_default">Share photo</string>
   <string name="sns_desc_image_preview">Message preview</string>
-  <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
   <string name="sns_footer_text">Created with Mi Notes</string>
   <string name="sns_hint_content">Enter message</string>
@@ -158,7 +143,6 @@ Tap the plus to create a folder"</string>
   <string name="theme_title_star">Stars</string>
   <string name="theme_title_yellow">Yellow</string>
   <string name="toast_message_add_image_fail">"Couldn't add image"</string>
-  <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
   <string name="toast_notes_delete_success">Deleted successfully</string>
   <string name="toast_notes_hidden">Hidden successfully</string>
   <string name="toast_notes_hidden_count">Hid %1$s successfully</string>

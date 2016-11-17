@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Sensor Test Tool</string>
+  <string name="checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="correct">OK</string>
+  <string name="dialog_hint">请不要按电源键，保持屏幕常亮</string>
+  <string name="dialog_title">汇顶-坏点测试</string>
+  <string name="error">ERROR</string>
+  <string name="image_quality_test">IMAGE QUALITY TEST</string>
+  <string name="selftest">SELF-TEST</string>
+</resources>
