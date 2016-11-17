@@ -60,7 +60,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Can't cut"</string>
   <string name="move_failed_retry">"Can't cut, wait %1$s and try again"</string>
-  <string name="need_get_accounts_permission">Mi Drive requires permissions to access account to work normally.</string>
+  <string name="need_get_accounts_permission">Mi Drive needs to access your account to work normally.</string>
   <string name="never_notify">"Don't show again"</string>
   <string name="no_app_found_to_open_file">No app was found to handle this action.</string>
   <string name="no_more_space">Not enough storage space.</string>
@@ -118,7 +118,7 @@
   <string name="terabyteShort">TB</string>
   <string name="tools">Tools</string>
   <string name="trans_mobile_network_message">Using mobile data to transfer files may generate additional carrier fees. Transfer anyway?</string>
-  <string name="trans_task">Network transfer</string>
+  <string name="trans_task">Network transfers</string>
   <string name="transing">Sending</string>
   <string name="upload_failed">"Couldn't upload"</string>
   <string name="upload_file_to_midrive">Upload file to Mi Drive</string>

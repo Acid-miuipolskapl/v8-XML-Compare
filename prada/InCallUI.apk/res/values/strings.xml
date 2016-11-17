@@ -157,7 +157,7 @@
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">Hang up</string>
-  <string name="livetalk_left_minute">%smin left</string>
+  <string name="livetalk_left_minute">%s min left</string>
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="miprofile_stranger_card">Unknown</string>
   <string name="modify_call_failure_str">"Modify Call request failed
