@@ -29,6 +29,7 @@
   <string name="alert_dialog_download_btn_hide">Hide</string>
   <string name="alert_dialog_download_dup_task">Waiting for existing download to finish…</string>
   <string name="alert_dialog_download_error">"Couldn't download"</string>
+  <string name="alert_dialog_download_install_task">Waiting for installing plugin to finish…</string>
   <string name="alertdialog_downapp_btn_back">Back</string>
   <string name="all">all</string>
   <string name="all_ep">All ep</string>

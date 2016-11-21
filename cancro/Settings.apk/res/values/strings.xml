@@ -110,13 +110,15 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
-  <string name="add_fingerprint_finished_button_text">OK</string>
+  <string name="add_fingerprint_finished_button_text">Done</string>
   <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint.</string>
   <string name="add_fingerprint_instruction_title">Add your fingerprint</string>
+  <string name="add_fingerprint_name_suggest_text">Fingerprint name</string>
   <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
   <string name="add_fingerprint_put_finger_msg">Put your finger on the sensor and lift after you feel a vibration.</string>
   <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly</string>
+  <string name="add_fingerprint_success_msg">Added successfully</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
@@ -706,9 +708,12 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="button_light_timeout">Keep button lights on</string>
   <string name="button_text_accept">Accept</string>
   <string name="button_text_accept_timer">Accept (%d)</string>
+  <string name="button_text_cancel">Cancel</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_next_step">Next</string>
   <string name="button_text_next_step_timer">Next step (%d)</string>
+  <string name="button_text_ok">OK</string>
+  <string name="button_text_ok_timer">OK(%d)</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="button_text_reject">Reject</string>
   <string name="cache_header_label">Cache</string>
@@ -1068,6 +1073,7 @@ This setting affects all users on this phone."</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
+  <string name="defalut_launcher_title">Default Launcher</string>
   <string name="default_app">(Default)</string>
   <string name="default_apps_title">Default Apps</string>
   <string name="default_assist_none">None</string>
@@ -1394,9 +1400,12 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
   <string name="fingerprint_add_title">Add fingerprint</string>
   <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
+  <string name="fingerprint_apply_to_privacy_password">Privacy protection password</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">screen lock</string>
   <string name="fingerprint_enroll_button_add">Add another</string>
   <string name="fingerprint_enroll_button_next">Next</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Fingerprint(fingerprint can be used after the lock screen password set)</string>
   <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
   <string name="fingerprint_identify_msg">Reading fingerprint…</string>
@@ -1407,6 +1416,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="fingerprint_lock_first">Unlock First space</string>
   <string name="fingerprint_lock_second">Unlock Second space</string>
+  <string name="fingerprint_manage">Fingerprint manage</string>
   <string name="fingerprint_manage_category_title">Manage fingerprints</string>
   <string name="fingerprint_not_identified_msg">"Couldn't read fingerprint. Enter your password"</string>
   <string name="fingerprint_not_recognized">Not recognized</string>
@@ -1684,6 +1694,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="keyboard_layout_picker_title">Keyboard layouts</string>
   <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
   <string name="keyboard_settings_title">Android keyboard</string>
+  <string name="keyguard_advance_setting_title">Keyguard advanced settings</string>
   <string name="keyguard_left_function_chooser_hint_text">Left shortcut changed to %s</string>
   <string name="keyguard_left_function_chooser_title">App</string>
   <string name="keyguard_left_function_title">Left</string>
@@ -1742,6 +1753,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="launch_by_default">Open by default</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
+  <string name="launcher_auto_fill_empty_title">Auto Fill Empty Cells</string>
+  <string name="launcher_title">Launcher</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -1850,6 +1863,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_after_timeout_summary_with_exception">%1$s after sleep, except when kept unlocked by %2$s</string>
   <string name="lock_immediately_summary_with_exception">Immediately after sleep, except when kept unlocked by %1$s</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_screen_cells_title">Lock Screen Cells</string>
   <string name="lock_screen_notifications_interstitial_message">When your device is locked, how do you want notifications to show?</string>
   <string name="lock_screen_notifications_interstitial_title">Notifications</string>
   <string name="lock_screen_notifications_summary_disable">Don’t show notifications at all</string>
@@ -1859,6 +1873,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately.</string>
   <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
+  <string name="lock_screen_signature_summary">the signature will be displayed on the locked screen</string>
+  <string name="lock_screen_signature_title">lock screen signature</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
@@ -1960,6 +1976,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="man_add_application">Add autostart apps</string>
   <string name="manage_device_admin">Device administrators</string>
   <string name="manage_device_admin_summary">View or deactivate device administrators</string>
+  <string name="manage_fingerprint_text">Manage fingerprints</string>
   <string name="manage_mobile_plan_title">Mobile plan</string>
   <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
   <string name="manage_notification_access_title">Notification access</string>
@@ -1984,6 +2001,9 @@ When you turn on automatic backup, device and app data is periodically saved rem
 You are currently signed into the following accounts:
 "</string>
   <string name="master_clear_all">"Erase all data from your phone's internal storage? You can't reverse this action!"</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b&gt;, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
+  <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b&gt;You wont be able to restore the items you havent backed up.&lt;/b&gt;</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_button_text">Reset phone</string>
   <string name="master_clear_confirm_title">Reset?</string>
   <string name="master_clear_desc">This will erase all data from your phone’s &lt;b&gt;internal storage&lt;/b&gt;", including:
@@ -2099,6 +2119,7 @@ There are other users present on this device.
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
   <string name="miui_experience_optimization">Turn on MIUI optimization</string>
+  <string name="miui_screen_config_title">Miui Launcher Screen Config</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
   <string name="mms_privacy_password_role_instruction">Your conversations with private contacts will be stored here.</string>
@@ -2220,6 +2241,10 @@ Select your operating system:"</string>
   <string name="networks_title">Mobile networks</string>
   <string name="never">Never</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Fingerprint can be used to unlock screen after adding the fingerprint</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancel</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Add</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Add fingerprint</string>
   <string name="next_button_label">Next</string>
   <string name="next_label">Next</string>
   <string name="nfc_category_title">NFC</string>
@@ -2396,6 +2421,8 @@ Select your operating system:"</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_entrance_title">Screen lock</string>
   <string name="password_guard">Password</string>
+  <string name="password_turned_off_text">Password has been turned off</string>
+  <string name="password_turned_on_text">Password has been turned on</string>
   <string name="path_about_about_settings">Settings/About phone</string>
   <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
   <string name="path_access_control_settings">Settings/Additional settings/Privacy/Privacy settings</string>
@@ -2974,6 +3001,7 @@ This setting affects all users on this phone."</string>
   <string name="screen">Screen</string>
   <string name="screen_button">Screen buttons</string>
   <string name="screen_button_tips">Swipe down to hide screen buttons</string>
+  <string name="screen_cells_config_title">Screen Cells Config</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>
@@ -3401,7 +3429,7 @@ To use screen pinning:
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
-  <string name="show_owner_info_on_lockscreen_label">Show owner info on lock screen</string>
+  <string name="show_owner_info_on_lockscreen_label">Show signature on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
   <string name="show_profile_info_on_lockscreen_label">Show profile info on lock screen</string>
   <string name="show_rounded_corners">Show rounded corners</string>
@@ -3495,8 +3523,8 @@ Possibly incorrect PIN."</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
   <string name="smallwindow_smartcover_title">Transparent front cover</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover lock or unlock screen</string>
-  <string name="smartcover_sensitive_summary">lock or unlock the phone easily with smart cover</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Smart cover mode</string>
+  <string name="smartcover_sensitive_summary">Lock or unlock the phone automatically using smart cover</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
@@ -3916,8 +3944,12 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
   <string name="turn_off_common_password_confirm_msg">Screen lock will be turned off as well.</string>
+  <string name="turn_off_keyguard_password_alert_title">Turn off</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Confirm to turn off the lock screen password?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Will not be able to use the fingerprint function after closing the lock screen password</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
+  <string name="turn_on_keyguard_password">Turn on keyguard password</string>
   <string name="turn_on_radio">Turn on radio</string>
   <string name="turn_on_security_lock">Choose screen lock</string>
   <string name="under_keyguard">Screen off</string>

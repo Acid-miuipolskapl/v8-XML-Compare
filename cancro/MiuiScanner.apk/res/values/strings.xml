@@ -200,7 +200,7 @@
   <string name="com_taobao_tae_sdk_trade_confirm_progress_message">交易确认中</string>
   <string name="com_taobao_tae_sdk_trade_title">确认下单</string>
   <string name="common_retake_picture">Retake</string>
-  <string name="common_retry">Retry</string>
+  <string name="common_retry">Try again</string>
   <string name="common_save">Save</string>
   <string name="company">Company:</string>
   <string name="connect_wifi">Connect to this network</string>
