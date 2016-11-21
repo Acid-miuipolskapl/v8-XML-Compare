@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SDCard">SD Card</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
+  <string name="SD_SDCard_available_szie">Available size</string>
+  <string name="SD_SDCard_mounted">Detect SDCard</string>
+  <string name="SD_SDCard_total_size">Total size</string>
+  <string name="SD_SDCard_unmounted">SDCard unavailable</string>
+  <string name="button_ok">OK</string>
+  <string name="camerainfo">Camera information</string>
   <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
   <string name="cit_OTG_plugin_check_title">OTG (detection)</string>
   <string name="cit_OTG_plugout_check_summary">When OTG device is removed, the text \"USB OTG device removed\" should be displayed below.</string>
@@ -354,4 +363,34 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
   <string name="cit_wifi_state_refresh">Refresh</string>
   <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
+  <string name="error_app_internal">Internal application error</string>
+  <string name="error_app_unsupported">Unsupported format</string>
+  <string name="error_sdcard_access">Unable to access system space!</string>
+  <string name="keyboard">KEY</string>
+  <string name="lcminfo">LCM information</string>
+  <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
+  <string name="mic1_spk_loop">Mic speak Loop</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC＆ SPK</string>
+  <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
+  <string name="sd_correct_status">Normal state</string>
+  <string name="sd_external_storage">"External storage status:
+
+"</string>
+  <string name="sd_read_exception">Read exception</string>
+  <string name="sd_remained">"
+Remained:"</string>
+  <string name="sd_total">"
+Total:"</string>
+  <string name="sd_used">"
+Used:"</string>
+  <string name="sd_wrong_status">Wrong state</string>
+  <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
+  <string name="start">Start</string>
+  <string name="testagain">You can Press key HOME to test again</string>
+  <string name="testing">AutoTest Running...</string>
+  <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
+  <string name="tp_color">TP Color:</string>
+  <string name="tp_version">TP Version:</string>
+  <string name="waiting">Waiting for 4s.</string>
 </resources>
