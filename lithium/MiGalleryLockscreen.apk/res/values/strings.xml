@@ -43,7 +43,7 @@
   <string name="sst_grid_view_select_all">Select all</string>
   <string name="sst_grid_view_unselect_all">Deselect all</string>
   <string name="sst_no_favor_wallpaper_hint">No wallpapers in Favorites</string>
-  <string name="sst_prov_enable_desc">Turn on wallpapers carousel on lock screen. Add your wallpaper in folder Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_desc">Turn on wallpapers carousel on lock screen</string>
   <string name="sst_prov_enable_title">Turn on Wallpaper Carousel</string>
   <string name="sst_require_one_category_hint">Select at least 1 category</string>
   <string name="sst_sti_desc">Set wallpaper update frequency</string>
