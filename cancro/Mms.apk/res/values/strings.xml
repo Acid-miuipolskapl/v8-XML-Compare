@@ -210,6 +210,16 @@
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="hold_to_talk">Hold to talk</string>
+  <string name="hybrid_check_network">Network settings</string>
+  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_network_access_denied">Network access denied</string>
+  <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Just a sec…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Release to refresh…</string>
+  <string name="hybrid_service_unavailiable">"Service isn't available"</string>
+  <string name="hybrid_try_again">Try again</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
@@ -385,9 +395,9 @@
   <string name="pref_delivery_ringtone">Delivery sound</string>
   <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
   <string name="pref_forward_title">Forward</string>
-  <string name="pref_message_recovery_introduction_title">Recover messages</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
+  <string name="pref_msg_trash_bin_title">Recently deleted messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
