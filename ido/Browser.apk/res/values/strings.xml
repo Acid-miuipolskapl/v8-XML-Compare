@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Add shortcut</string>
   <string name="action_menu_useful_page_added">Added to start page</string>
   <string name="actionbar_share">Share</string>
+  <string name="actionbar_textselection_title">Text selection</string>
   <string name="actionbar_web_search">Web search</string>
   <string name="adblock_force_updating_rules_toast">Updating Ad blocker</string>
   <string name="adblock_notification">%d ads blocked</string>
@@ -57,7 +58,7 @@
   <string name="adblock_websites_settings_title">Blocked sites</string>
   <string name="add_bookmark_group">Add group</string>
   <string name="add_bookshelf_popup_text">Added to bookshelf</string>
-  <string name="add_favorites_to">Add favorites to</string>
+  <string name="add_favorites_to">Add to favorites</string>
   <string name="add_new_bookmark">Add bookmark</string>
   <string name="add_new_quicklink">Add to start page</string>
   <string name="add_ql_bm_title">Save</string>
@@ -241,6 +242,7 @@
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
   <string name="autologin_bar_hide_text">Hide</string>
@@ -383,9 +385,9 @@
 is about to happen"</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
-  <string name="data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
-  <string name="data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
-  <string name="data_traffic_prompt_message_short">"Using mobile data to stream video may cause you to go over your plan's data usage limit."</string>
+  <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
   <string name="data_traffic_prompt_title">Data usage warning</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
@@ -544,7 +546,7 @@ Leave this page?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">"Couldn't sign in, refresh and try again"</string>
   <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
-  <string name="low_memory_toast">"Can't use Browser because of low memory"</string>
+  <string name="low_memory_toast">"Can't use Browser due to low memory"</string>
   <string name="max_tabs_warning">"Can't open more tabs"</string>
   <string name="maximum_input_alert">"Can't enter more than 2048 characters"</string>
   <string name="media_error_action_refresh">Refresh</string>
@@ -557,9 +559,9 @@ Leave this page?"</string>
   <string name="media_error_timeout">Network connection timed out</string>
   <string name="media_error_video_not_exist">"Video doesn't exist"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"This video can't be streamed on this device."</string>
-  <string name="media_player_error_text_unknown">"This video can't be played."</string>
-  <string name="media_player_error_title">"Can't play video"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
+  <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
+  <string name="media_player_error_title">Cannot play video</string>
   <string name="media_player_loading_video">Loading video</string>
   <string name="menu_addtodesk">Add to Home screen</string>
   <string name="menu_exit_nightmode">Exit</string>
@@ -612,7 +614,7 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_reload">Refresh</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
-  <string name="miuichromium_error_page_title">An error occured</string>
+  <string name="miuichromium_error_page_title">An error occurred</string>
   <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
   <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
@@ -672,6 +674,8 @@ Leave this page?"</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="pay_failed_toast">"Couldn't complete payment"</string>
   <string name="pay_success_toast">Paid successfully</string>
+  <string name="permission_alert_window">To use the feature, please open system option Diplay pop-up window.</string>
+  <string name="permission_unknown">Unknown Option</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
   <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility">Accessibility</string>
@@ -951,6 +955,7 @@ Leave this page?"</string>
   <string name="unsecurity_url_toast">"This website isn't secure"</string>
   <string name="up_to_loading_tips">Release to refresh</string>
   <string name="update_no_network_toast">"Can't connect to the network"</string>
+  <string name="updating_chrome">Updating Chrome...</string>
   <string name="uploads_disabled">File uploads are disabled</string>
   <string name="url_copy_done">URL copied to clipboard</string>
   <string name="url_find_on_page_result">View in Browser</string>
