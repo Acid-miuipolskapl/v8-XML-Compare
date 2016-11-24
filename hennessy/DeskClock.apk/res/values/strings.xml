@@ -83,6 +83,14 @@
   <string name="remind_ringtone">Ringtone</string>
   <string name="reset">Reset</string>
   <string name="revert">Revert</string>
+  <string name="search_alarm_clock">@string/alarm_list_title</string>
+  <string name="search_alarm_clock_keywords">Alarm;Alarm Clock;</string>
+  <string name="search_stopwatch">@string/stopwatch_title</string>
+  <string name="search_stopwatch_keywords">Stopwatch</string>
+  <string name="search_timer">@string/timer_title</string>
+  <string name="search_timer_keywords">Timer</string>
+  <string name="search_worldclock">@string/worldclock_title</string>
+  <string name="search_worldclock_keywords">Time;World Clock;Clock</string>
   <string name="set_alarm">Set alarm</string>
   <string name="setting_alarm_arriving_summary">Send a notification before ringing</string>
   <string name="setting_alarm_arriving_title">Notification before ringing</string>
