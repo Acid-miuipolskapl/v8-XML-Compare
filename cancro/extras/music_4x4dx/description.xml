@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="player" size="4:4">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Music 4x4</title>
+	<titles>
+		<title locale="zh_CN">音乐 4x4</title>
+		<title locale="zh_TW">音樂 4x4</title>
+		<title locale="ru_RU">Музыка 4x4</title>
+		<title locale="uk_UK">Музика 4x4</title>
+	</titles>
+</MIUI-Theme>
+<!-- Powered by DriffeX -->

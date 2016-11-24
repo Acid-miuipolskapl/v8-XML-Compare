@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gadget version="1" resDensity="480" extraResourcesDensity="480" frameRate="30">
+	<Group x="#view_width/2-482" y="#view_height/2-551" w="964" h="1111" layered="true">
+		<MusicControl x="0" y="0" autoShow="true" defAlbumCover="default_album_cover.png" systemPlayer="true">
+			<Image x="1" y="1" src="music_bg.png" w="962" h="1111"/>  
+			<Image name="music_album_cover" x="964" y="551" w="964" h="964" centerX="964" centerY="482" align="right" alignV="center" scale="20"/>
+				<Button name="music_prev" x="47" y="525" w="0" h="0">
+				</Button>
+				<Button name="music_next" x="331" y="525" w="0" h="0">
+				</Button>
+				<Button name="music_play" x="167" y="504" w="0" h="0">
+				</Button>
+				<Button name="music_pause" x="167" y="504" w="0" h="0">
+				</Button>
+		</MusicControl>	
+		<MusicControl name="music_control" x="0" y="0" autoShow="true" defAlbumCover="default_album_cover.png" enableProgress="true" systemPlayer="true">		
+			<Group x="0" y="0" w="964" h="1111" layered="true">
+				<Image name="music_album_cover" x="482" y="551" w="1111" h="1111" align="center" alignV="center"/>
+				<Image x="0" y="0" w="964" h="1111" src="album_mask.9.png" xfermode="dst_in"/>
+			</Group>
+			<Image x="0" y="0" w="964" h="1111" src="album_overlay.9.png"/>
+			
+			<Text x="482" y="110" w="860" marqueeSpeed="30" size="30" color="#99ffffff" align="center" alignV="center" format="%s" paras="@music_control.artist"/>
+			<Text x="482" y="54" w="860" marqueeSpeed="30" size="44" bold="true" color="#ffffffff" align="center" alignV="center" format="%s" paras="@music_control.title"/>
+			
+			<Group x="-240" y="600">
+				<Button name="music_prev" x="259" y="907" w="120" h="120">
+					<Normal>
+						<Circle x="551" y="385" r="50" strokeColor="#80ffffff" fillColor="#00000000" weight="2" strokeAlign="inner"/>
+					</Normal>
+					<Pressed>
+						<Circle x="551" y="385" r="50" strokeColor="#80ffffff" fillColor="#26ffffff" weight="2" strokeAlign="inner"/>
+					</Pressed>
+				</Button>
+				<Image x="541" y="373" src="music_pre.png"/>
+				<Button name="music_next" x="615" y="907" w="120" h="120">
+					<Normal>
+						<Circle x="895" y="385" r="50" strokeColor="#80ffffff" fillColor="#00000000" weight="2" strokeAlign="inner"/>
+					</Normal>
+					<Pressed>
+						<Circle x="895" y="385" r="50" strokeColor="#80ffffff" fillColor="#26ffffff" weight="2" strokeAlign="inner"/>
+					</Pressed>
+				</Button>
+				<Image x="890" y="373" src="music_next.png"/>
+				<Button name="music_play" x="422" y="894" w="160" h="160">
+					<Normal>
+						<Circle x="723" y="384" r="70" strokeColor="#80ffffff" fillColor="#00000000" weight="2" strokeAlign="inner"/>
+					</Normal>
+					<Pressed>
+						<Circle x="723" y="384" r="70" strokeColor="#80ffffff" fillColor="#26ffffff" weight="2" strokeAlign="inner"/>
+					</Pressed>
+					<Image x="696" y="350" src="music_play.png"/>
+				</Button>
+				<Button name="music_pause" x="422" y="894" w="160" h="160">
+					<Normal>
+						<Circle x="723" y="384" r="70" strokeColor="#80ffffff" fillColor="#00000000" weight="2" strokeAlign="inner"/>
+					</Normal>
+					<Pressed>
+						<Circle x="723" y="384" r="70" strokeColor="#80ffffff" fillColor="#26ffffff" weight="2" strokeAlign="inner"/>
+					</Pressed>
+					<Image x="710" y="364" src="music_pause.png"/>
+				</Button>
+
+				<Var name="progress" expression="ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0)" />
+				<Group x="653" y="314" w="140" h="140" layered="true">
+					<Image x="0" y="0" src="play_progress.png"/>
+					<Arc x="70" y="70" w="140" h="140" startAngle="-90" sweep="-360*(1-#progress)" close="true" fillColor="#ff000000" xfermode="clear"/>
+				</Group>
+			</Group>
+		</MusicControl>	
+		<Image x="0" y="0" w="964" h="1111" src="music_mask.9.png" xfermode="dst_in"/>
+		<Rectangle w="964" h="1111" cornerRadius="25,25" strokeColor="#1EFFFFFF" weight="1" strokeAlign="inner"/>
+	</Group>
+	<Button x="#view_width/2-482" y="#view_height/2-400" w="900" h="500" visibility="ne(#music_control.player_type,2)">
+		<Triggers>
+            <Trigger action="up">
+                <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)"/>
+                <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
+            </Trigger>
+        </Triggers>
+	</Button>
+
+</Gadget>
+
+<!-- Powered by DriffeX -->
