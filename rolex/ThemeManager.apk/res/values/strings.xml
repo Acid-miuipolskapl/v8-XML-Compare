@@ -96,7 +96,7 @@
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customize</string>
   <string name="mi_wallpaper">MIUI wallpaper</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">The ringtone is applied to the SIM card 1 and the SIM card 2 at the same time.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">The ringtone is applied to both SIM cards.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Got it</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Don't show again"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Compatibility issues</string>
