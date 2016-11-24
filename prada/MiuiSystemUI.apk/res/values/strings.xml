@@ -173,7 +173,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="hour_minute_time_format">HH:mm</string>
-  <string name="invalid_charger">"USB charging not supported.
+  <string name="invalid_charger">"USB charging isn't supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
@@ -262,7 +262,7 @@ Use only the supplied charger."</string>
   <string name="screenshot_edit">Edit</string>
   <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
   <string name="screenshot_long_screenshot">Scroll</string>
-  <string name="screenshot_saved_text">Touch to view your screenshot.</string>
+  <string name="screenshot_saved_text">Tap to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
@@ -275,6 +275,7 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
+  <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
   <string name="status_bar_date_format">"EEEE
 MMMM d"</string>

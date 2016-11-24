@@ -80,7 +80,7 @@ or enter App lock password"</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Delete risky apps</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Delete viruses</string>
-  <string name="antivirus_monitor_clean_tips">Deleted %s item</string>
+  <string name="antivirus_monitor_clean_tips">Deleted items: %s</string>
   <string name="antivirus_monitor_risk_advice">"This app isn't secure, delete it"</string>
   <string name="antivirus_monitor_virus_advice">This app may contain a virus, delete it</string>
   <string name="antivirus_more_engine_dialog_summary">Using multiple sets of definitions to scan may take more time.</string>
@@ -558,8 +558,8 @@ or enter App lock password"</string>
   <string name="hints_need_regular_scan">Scan your device regularly</string>
   <string name="hints_power_percent_title">battery</string>
   <string name="hints_remember_choice">Remember preference</string>
-  <string name="hints_risk_apk_list_item_summary">Risk (apk)</string>
-  <string name="hints_risk_app_list_item_summary">Risk (app)</string>
+  <string name="hints_risk_apk_list_item_summary">apk</string>
+  <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Description:</string>
   <string name="hints_risk_name_title">Risk:</string>
   <string name="hints_scan_progress">Completed: %d</string>
@@ -571,9 +571,9 @@ or enter App lock password"</string>
   <string name="hints_scanning_text">Scanning…</string>
   <string name="hints_scanning_virus_by_cloud">Ongoing cloud scanning…</string>
   <string name="hints_unknown_virus_name">Unknown</string>
-  <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+  <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
-  <string name="hints_virus_app_list_item_summary">Virus (app)</string>
+  <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Description:</string>
   <string name="hints_virus_lib_update_default_summary">Last update time unknown</string>
@@ -616,6 +616,7 @@ or enter App lock password"</string>
   <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
+  <string name="label_mi_stats">Mi analytics</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="last_check_date_today">"Scanned today "</string>
   <string name="last_check_date_yesterday">"Scanned yesterday "</string>
@@ -1297,13 +1298,13 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
   <string name="sp_back_title_text_zero">Secure</string>
-  <string name="sp_background_risk_dialog_summary">, please have a detailed check and fix payment risks</string>
-  <string name="sp_background_risk_dialog_title">Dangerous</string>
+  <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
+  <string name="sp_background_risk_dialog_title">Attention</string>
   <string name="sp_background_risk_type_messaging">System messaging app has been replaced</string>
   <string name="sp_background_risk_type_root">System has been rooted</string>
   <string name="sp_background_risk_type_sign">Unofficial app is running</string>
-  <string name="sp_background_risk_type_virus">Virus app is running</string>
-  <string name="sp_background_risk_type_wifi">Wifi connected is dangerous</string>
+  <string name="sp_background_risk_type_virus">Virus is running in the background</string>
+  <string name="sp_background_risk_type_wifi">This WLAN network is dangerous</string>
   <string name="sp_button_text_ignore_alert_title">Ignore this item?</string>
   <string name="sp_empty_title_sign_exception">Hold the app to add it to exceptions</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
@@ -1628,7 +1629,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="unable_connect_internet">No internet connection</string>
   <string name="uninstall_app_dialog_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_app_dialog_title">Uninstall now?</string>
-  <string name="uninstall_app_done">Uninstall finished</string>
+  <string name="uninstall_app_done">Uninstalled successfully</string>
   <string name="unlike">No thanks</string>
   <string name="updating_diagnostic_botton">Analyzing data…</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
