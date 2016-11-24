@@ -31,7 +31,7 @@
   <string name="call">Call</string>
   <string name="callNoAnswerTimeFormat">Rang %s times</string>
   <string name="callrecordview_item_newcontact">New contact</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
   <string name="callrecordview_item_op_time_missed">Not connected</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
