@@ -1195,6 +1195,7 @@ To add a contact to your list of favorites:
   <string name="toast_making_personal_copy">Creating a personal copy…</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="today">Today</string>
+  <string name="tomorrow">Tomorrow</string>
   <string name="transfer_accounts">Transfer accounts</string>
   <string name="type_incoming">Incoming call</string>
   <string name="type_missed">Missed call</string>
@@ -1282,5 +1283,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
   <string name="yellowpage_search_the_yellowpage">Search Yellow pages</string>
   <string name="yellowpage_user_profile">Profile</string>
+  <string name="yesterday">Yesterday</string>
   <string name="zero_items_selected">Select items</string>
 </resources>
