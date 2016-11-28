@@ -1073,7 +1073,7 @@ This setting affects all users on this phone."</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
-  <string name="defalut_launcher_title">Default Launcher</string>
+  <string name="defalut_launcher_title">Default launcher</string>
   <string name="default_app">(Default)</string>
   <string name="default_apps_title">Default Apps</string>
   <string name="default_assist_none">None</string>
@@ -1753,8 +1753,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="launch_by_default">Open by default</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
-  <string name="launcher_auto_fill_empty_title">Auto Fill Empty Cells</string>
-  <string name="launcher_title">Launcher</string>
+  <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
+  <string name="launcher_title">Home screen</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -1863,7 +1863,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_after_timeout_summary_with_exception">%1$s after sleep, except when kept unlocked by %2$s</string>
   <string name="lock_immediately_summary_with_exception">Immediately after sleep, except when kept unlocked by %1$s</string>
   <string name="lock_intro_message">Lock_intro_message</string>
-  <string name="lock_screen_cells_title">Lock Screen Cells</string>
+  <string name="lock_screen_cells_title">Lock Home screen layout</string>
   <string name="lock_screen_notifications_interstitial_message">When your device is locked, how do you want notifications to show?</string>
   <string name="lock_screen_notifications_interstitial_title">Notifications</string>
   <string name="lock_screen_notifications_summary_disable">Don’t show notifications at all</string>
@@ -2119,7 +2119,7 @@ There are other users present on this device.
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
   <string name="miui_experience_optimization">Turn on MIUI optimization</string>
-  <string name="miui_screen_config_title">Miui Launcher Screen Config</string>
+  <string name="miui_screen_config_title">Home screen settings</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
   <string name="mms_privacy_password_role_instruction">Your conversations with private contacts will be stored here.</string>
@@ -2933,6 +2933,11 @@ Select your operating system:"</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
   <string name="reset_network_title">Network settings reset</string>
+  <string name="reset_second_space_passwd">Reset Second space password</string>
+  <string name="reset_second_space_passwd_cancel">Cancel</string>
+  <string name="reset_second_space_passwd_confirm">Continue</string>
+  <string name="reset_second_space_passwd_detail">Enter the Mi Account password used in First space</string>
+  <string name="resetting_second_space_passwd">Resetting Second space password</string>
   <string name="resolver_settings_label">Sort</string>
   <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
   <string name="restore_default_apn">Restoring default APN settings.</string>
@@ -3001,7 +3006,7 @@ This setting affects all users on this phone."</string>
   <string name="screen">Screen</string>
   <string name="screen_button">Screen buttons</string>
   <string name="screen_button_tips">Swipe down to hide screen buttons</string>
-  <string name="screen_cells_config_title">Screen Cells Config</string>
+  <string name="screen_cells_config_title">Home screen layout</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>

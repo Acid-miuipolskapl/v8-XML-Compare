@@ -265,6 +265,7 @@ or enter App lock password"</string>
   <string name="btn_text_goto_setup">Go to Settings</string>
   <string name="btn_text_network_speed_detail">Connection</string>
   <string name="btn_text_open_now">Turn on</string>
+  <string name="btn_text_optimize_extend_battery_time">Add %s</string>
   <string name="btn_text_optimize_manually">Optimize manually</string>
   <string name="btn_text_optimize_now">Optimize</string>
   <string name="btn_text_power_cleanup">Deep clean</string>
@@ -734,7 +735,6 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
   <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_garbage_text_error">Error</string>
   <string name="menu_item_notification_power_text">Power</string>
   <string name="menu_item_notification_title">Show menu in notification shade</string>
   <string name="menu_item_settings_title">Settings</string>
@@ -1162,6 +1162,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="quick_optimize_no_issue_subtitle">Everything looks good</string>
   <string name="quick_optimize_no_issue_title">"Couldn't find battery issues"</string>
   <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
+  <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
   <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
   <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
