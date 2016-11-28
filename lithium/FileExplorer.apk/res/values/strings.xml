@@ -183,6 +183,8 @@
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
   <string name="folder_name_invalid">"Folder names can't contain the following characters: /\\:*?&lt;&gt;"</string>
+  <string name="force_touch_clean">Clean up</string>
+  <string name="force_touch_search">Search files</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">USB storage connected</string>
   <string name="ftp_account_req_notice">4-16 characters, letters and digits, case sensitive</string>
