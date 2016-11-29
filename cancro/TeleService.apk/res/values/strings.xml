@@ -901,7 +901,7 @@ Try again or call customer service for more options."</string>
   <string name="path_cloud_antispam_title">System apps/Phone/Identify unknown numbers</string>
   <string name="path_connect_disconnect_vibrate_title">System apps/Phone/Advanced settings/Vibrate when your call is answered</string>
   <string name="path_dtmf_tones_title">System apps/Phone/Advanced settings/DTMF tones</string>
-  <string name="path_enable_antispam_strange_title">Phone/Incoming call settings/Mute first ring</string>
+  <string name="path_enable_antispam_strange_title">System apps/Phone/Incoming call settings/Mute first ring</string>
   <string name="path_enable_proximity_title">System apps/Phone/Incoming call settings/Proximity sensor</string>
   <string name="path_fdn">System apps/Phone/Advanced settings/Fixed Dialing Numbers</string>
   <string name="path_flash_when_ring_title">System apps/Phone/Incoming call settings/Flash when ringing</string>

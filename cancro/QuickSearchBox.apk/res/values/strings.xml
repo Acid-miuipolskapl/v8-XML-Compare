@@ -60,15 +60,15 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="recent_apps">Recent apps</string>
   <string name="recent_apps_filter">"Hide the apps you don't use"</string>
   <string name="recent_close_content">"Turn this feature off now?
-You can change this in System apps &gt; Installed apps &gt; Search"</string>
+You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="recent_close_title">Turn off feature</string>
   <string name="recent_delete_content">"Hide these apps now?
-You can change this in System apps &gt; Installed apps &gt; Search"</string>
+You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="recent_delete_negative">Cancel</string>
   <string name="recent_delete_positive">OK</string>
   <string name="recent_delete_title">Hide apps</string>
   <string name="recent_edit">Edit</string>
-  <string name="recent_edit_done">Finish</string>
+  <string name="recent_edit_done">Done</string>
   <string name="recent_filter_functions">Turned off features</string>
   <string name="recent_function">Features</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>

@@ -376,7 +376,7 @@ or enter App lock password"</string>
   <string name="connecting">Connecting…</string>
   <string name="continue_install">Install</string>
   <string name="convenient_mode">Unlock all apps at once</string>
-  <string name="convenient_summary">"Don't require password after 1 app has been unlocked"</string>
+  <string name="convenient_summary">Enter password once to unlock all apps</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Exit</string>
