@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Search</string>
+  <string name="application_desc">Application</string>
+  <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
@@ -44,30 +47,35 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_settings_category_title">Google Search</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"小米\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"视频\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"音乐\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"主题\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"小说\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"游戏\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"论坛\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"商城\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"阅读\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"新闻\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"搞笑\",\"type\":\"unknown\",\"url\":\"\"}]</string>
   <string name="loading">Just a sec…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
+  <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
   <string name="recent_apps">Recent apps</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
   <string name="search_apps">Search apps</string>
-  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_group_fold">Hide</string>
   <string name="search_group_unfold">More</string>
   <string name="search_history">History</string>
   <string name="search_in_app_store">Search Mi App Store</string>
   <string name="search_in_web">Search the web</string>
+  <string name="search_keyword_quicksearchbox">Search</string>
+  <string name="search_path_quicksearchbox">Settings/Installed apps/Search</string>
   <string name="search_settings">Search settings</string>
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>
   <string name="search_suggestion">Tips</string>
+  <string name="search_title_quicksearchbox">@string/app_name</string>
   <string name="search_videos">Search videos</string>
-  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
+  <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
+  <string name="settings_description">Names of installed apps</string>
   <string name="show_more">Show more</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="system_search_category_title">Phone</string>
@@ -76,9 +84,9 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_title">Try saying:</string>
   <string name="web_search_results">Baidu</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
-  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
   <string name="xiaomi_search_label">Results</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
 </resources>

@@ -24,30 +24,6 @@
         <item quantity="few">%d items</item>
         <item quantity="many">%d items</item>
     </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d files left to download</item>
-        <item quantity="zero">%1$d files left to download</item>
-        <item quantity="one">%1$d file left to download</item>
-        <item quantity="two">%1$d files left to download</item>
-        <item quantity="few">%1$d files left to download</item>
-        <item quantity="many">%1$d files left to download</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d files left to upload</item>
-        <item quantity="zero">%1$d files left to upload</item>
-        <item quantity="one">%1$d file left to upload</item>
-        <item quantity="two">%1$d files left to upload</item>
-        <item quantity="few">%1$d files left to upload</item>
-        <item quantity="many">%1$d files left to upload</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d files left to transmit</item>
-        <item quantity="zero">%1$d files left to transmit</item>
-        <item quantity="one">%1$d file left to transmit</item>
-        <item quantity="two">%1$d files left to transmit</item>
-        <item quantity="few">%1$d files left to transmit</item>
-        <item quantity="many">%1$d files left to transmit</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selected</item>
         <item quantity="zero">%1$d selected</item>
@@ -105,12 +81,12 @@
         <item quantity="many">Tag %1$s related files (%2$d items)</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d mins ago</item>
-        <item quantity="zero">%1$d mins ago</item>
-        <item quantity="one">%1$d min ago</item>
-        <item quantity="two">%1$d mins ago</item>
-        <item quantity="few">%1$d mins ago</item>
-        <item quantity="many">%1$d mins ago</item>
+        <item quantity="other">%1$d minutes ago</item>
+        <item quantity="zero">%1$d minutes ago</item>
+        <item quantity="one">%1$d minute ago</item>
+        <item quantity="two">%1$d minutes ago</item>
+        <item quantity="few">%1$d minutes ago</item>
+        <item quantity="many">%1$d minutes ago</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d hours ago</item>
@@ -137,12 +113,12 @@
         <item quantity="many">%1$d seconds</item>
     </plurals>
     <plurals name="mins">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="zero">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
-        <item quantity="two">%1$d mins</item>
-        <item quantity="few">%1$d mins</item>
-        <item quantity="many">%1$d mins</item>
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="zero">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
+        <item quantity="two">%1$d minutes</item>
+        <item quantity="few">%1$d minutes</item>
+        <item quantity="many">%1$d minutes</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hours</item>
@@ -169,20 +145,20 @@
         <item quantity="many">Found %1$d new files</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Received %1$d files of App %2$s</item>
-        <item quantity="zero">Received %1$d file of App %2$s</item>
-        <item quantity="one">Received %1$d file of App %2$s</item>
-        <item quantity="two">Received %1$d files of App %2$s</item>
-        <item quantity="few">Received %1$d files of App %2$s</item>
-        <item quantity="many">Received %1$d files of App %2$s</item>
+        <item quantity="other">Received %1$d files from %2$s</item>
+        <item quantity="zero">Received %1$d files from %2$s</item>
+        <item quantity="one">Received %1$d file from %2$s</item>
+        <item quantity="two">Received %1$d files from %2$s</item>
+        <item quantity="few">Received %1$d files from %2$s</item>
+        <item quantity="many">Received %1$d files from %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Received %1$d files of WeChat</item>
-        <item quantity="zero">Received %1$d file of WeChat</item>
-        <item quantity="one">Received %1$d file of WeChat</item>
-        <item quantity="two">Received %1$d files of WeChat</item>
-        <item quantity="few">Received %1$d files of WeChat</item>
-        <item quantity="many">Received %1$d files of WeChat</item>
+        <item quantity="other">Received %1$d files from WeChat</item>
+        <item quantity="zero">Received %1$d files from WeChat</item>
+        <item quantity="one">Received %1$d file from WeChat</item>
+        <item quantity="two">Received %1$d files from WeChat</item>
+        <item quantity="few">Received %1$d files from WeChat</item>
+        <item quantity="many">Received %1$d files from WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d WeChat videos are about to expire</item>
@@ -264,6 +240,14 @@
         <item quantity="few">videos</item>
         <item quantity="many">videos</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">followers</item>
+        <item quantity="zero">followers</item>
+        <item quantity="one">follower</item>
+        <item quantity="two">followers</item>
+        <item quantity="few">followers</item>
+        <item quantity="many">followers</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s comments</item>
         <item quantity="zero">%1$s comments</item>
@@ -279,5 +263,21 @@
         <item quantity="two">%1$s videos</item>
         <item quantity="few">%1$s videos</item>
         <item quantity="many">%1$s videos</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s followers</item>
+        <item quantity="zero">%1$s followers</item>
+        <item quantity="one">%1$s follower</item>
+        <item quantity="two">%1$s followers</item>
+        <item quantity="few">%1$s followers</item>
+        <item quantity="many">%1$s followers</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s comments</item>
+        <item quantity="one">%1$s comment</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">You can enter %d characters</item>
+        <item quantity="one">You can enter %d character</item>
     </plurals>
 </resources>

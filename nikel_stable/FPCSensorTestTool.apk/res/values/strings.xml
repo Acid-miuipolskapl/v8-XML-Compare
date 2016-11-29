@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Sensor Test Tool</string>
+  <string name="capacitance_test">CAPACITANCE TEST</string>
+  <string name="checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="correct">OK</string>
+  <string name="error">ERROR</string>
+  <string name="image_quality_test">IMAGEQUALITY TEST</string>
+  <string name="selftest">SELF TEST</string>
+</resources>

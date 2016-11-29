@@ -76,6 +76,7 @@
   <string name="call_duration_format">%1$s hours %2$s minutes %3$s seconds</string>
   <string name="call_duration_title">Call ended</string>
   <string name="call_waiting_indication">The other side is in call, please wait...</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
   <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
   <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>

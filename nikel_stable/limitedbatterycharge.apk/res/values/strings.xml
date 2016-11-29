@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">LimitedBatteryChargeTest</string>
+  <string name="exit">Exit</string>
+  <string name="limited_battery_charge_enter_hint1">Battery level greater than 80%，Please discharge</string>
+  <string name="limited_battery_charge_enter_hint2">Battery level reach the standard!</string>
+  <string name="limited_battery_charge_exit_hint">Confirm to exit limited battery charge?</string>
+  <string name="limited_battery_charge_level">Battery level(%1$s%%)...</string>
+  <string name="limited_battery_charge_status_fail">FAIL</string>
+  <string name="limited_battery_charge_status_pass">PASS</string>
+  <string name="limited_battery_charge_title">Limited battery charge</string>
+  <string name="none"/>
+</resources>
