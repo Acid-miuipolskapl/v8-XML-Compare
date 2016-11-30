@@ -674,8 +674,8 @@ Leave this page?"</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="pay_failed_toast">"Couldn't complete payment"</string>
   <string name="pay_success_toast">Paid successfully</string>
-  <string name="permission_alert_window">To use the feature, please open system option Diplay pop-up window.</string>
-  <string name="permission_unknown">Unknown Option</string>
+  <string name="permission_alert_window">Allow pop-up windows to use this feature</string>
+  <string name="permission_unknown">Unknown action</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
   <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility">Accessibility</string>

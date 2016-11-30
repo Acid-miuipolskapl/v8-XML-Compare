@@ -1297,7 +1297,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_service_password_reason">Because turning on %1$s affects data encryption, you need to confirm your password.</string>
   <string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
   <string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
-  <string name="enable_service_title">The service will perform these actions:</string>
+  <string name="enable_service_title">Use %1$s?</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
   <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
   <string name="enable_terminal_title">Local terminal</string>
@@ -2118,6 +2118,7 @@ There are other users present on this device.
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
+  <string name="miui_enable_service_title">The service will perform these actions:</string>
   <string name="miui_experience_optimization">Turn on MIUI optimization</string>
   <string name="miui_screen_config_title">Home screen settings</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
@@ -2747,13 +2748,20 @@ Select your operating system:"</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Privacy protection password</string>
+  <string name="privacy_password_bind_account">Add Mi Account</string>
+  <string name="privacy_password_bind_account_immediate">Add</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
+  <string name="privacy_password_enter_privacy">Enter Privacy protection password</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
   <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
+  <string name="privacy_password_never_remind">"Don't ask again"</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Add your Mi Account to be able to reset your password in case you forget it.</string>
+  <string name="privacy_password_remind_bindaccont_message">Add your Mi Account (%s) to be able to reset your password in case you forget it.</string>
+  <string name="privacy_password_remind_bindaccount_title">Add Mi Account</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>

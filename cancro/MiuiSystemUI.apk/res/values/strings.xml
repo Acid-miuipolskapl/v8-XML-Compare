@@ -185,6 +185,7 @@ Use only the supplied charger."</string>
   <string name="long_screenshot_processing">Processing…</string>
   <string name="long_screenshot_stop">Done</string>
   <string name="long_screenshot_top_msg">Creating screenshot…</string>
+  <string name="long_screenshot_top_msg_manual">Crop the screenshot and tap the button to finish</string>
   <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
