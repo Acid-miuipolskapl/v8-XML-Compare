@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="activity_not_found_uri">No app was found to handle this action</string>
@@ -377,6 +378,7 @@
   <string name="open_url_with_web">Open this URL in Browser?</string>
   <string name="over_max_mms_size">MMS is too big.</string>
   <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">This response will be deleted.</string>
   <string name="phrase_empty">No responses</string>
   <string name="phrase_from">From %1s</string>
@@ -425,6 +427,7 @@
   <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other together</string>
   <string name="pref_time_auto_group_title">Group by time</string>
+  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
   <string name="pref_title_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>

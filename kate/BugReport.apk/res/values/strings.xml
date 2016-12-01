@@ -93,6 +93,7 @@
   <string name="feedback_submit_failed_notification_desc">View details</string>
   <string name="feedback_submit_failed_notification_retry">Send again</string>
   <string name="feedback_submit_failed_notification_title">"Couldn't send report"</string>
+  <string name="feedback_submit_hint">Report bugs every time you encounter problems to help us solve them faster.</string>
   <string name="feedback_submit_hint1">"We'll notify you about your report's progress"</string>
   <string name="feedback_submit_hint2">Go to \"My reports\" to view details</string>
   <string name="feedback_submit_succ">Sent successfully</string>
@@ -246,7 +247,7 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Send</string>
-  <string name="submit_dialog_content">Your feedback along with attachments and logs will be sent to MIUI’s servers. It may contain personal information.</string>
+  <string name="submit_dialog_content">Your feedback, along with attachments and logs, will be sent to MIUI’s servers. It may contain personal information.</string>
   <string name="submit_dialog_title">Send report</string>
   <string name="submit_feedback_info_failed">"Couldn't send report"</string>
   <string name="suggestion_description">Add description here</string>
@@ -272,6 +273,7 @@
   <string name="toast_module_required">Select item</string>
   <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
+  <string name="toast_post_deleted">"This topic doesn't exist, was deleted, or edited."</string>
   <string name="toast_problem_class_required">Select category</string>
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
   <string name="toast_report_sent_failed">"Can't send report"</string>

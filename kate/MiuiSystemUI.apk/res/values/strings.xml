@@ -185,6 +185,7 @@ Use only the supplied charger."</string>
   <string name="long_screenshot_processing">Processing…</string>
   <string name="long_screenshot_stop">Done</string>
   <string name="long_screenshot_top_msg">Creating screenshot…</string>
+  <string name="long_screenshot_top_msg_manual">Crop the screenshot and tap the button to finish</string>
   <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
@@ -249,8 +250,8 @@ Use only the supplied charger."</string>
   <string name="saved_network">Saved by %1$s</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
   <string name="screen_pinning_negative">No thanks</string>
   <string name="screen_pinning_positive">Got it</string>
   <string name="screen_pinning_title">Screen is pinned</string>
