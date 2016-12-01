@@ -56,6 +56,10 @@
         <item quantity="other">%d battery issues</item>
         <item quantity="one">%d battery issue</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Found %d battery issues, fix them</item>
+        <item quantity="one">Found %d battery issue, fix it</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d items can be optimized</item>
         <item quantity="one">%d item can be optimized</item>
@@ -206,4 +210,8 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_37">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_38">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_39">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_3a">false</item>
 </resources>

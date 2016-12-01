@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_16c">false</string>
+  <string name="APKTOOL_DUMMY_16d">false</string>
+  <string name="APKTOOL_DUMMY_16e">false</string>
+  <string name="APKTOOL_DUMMY_16f">false</string>
+  <string name="APKTOOL_DUMMY_170">false</string>
+  <string name="APKTOOL_DUMMY_171">false</string>
+  <string name="APKTOOL_DUMMY_172">false</string>
+  <string name="APKTOOL_DUMMY_173">false</string>
+  <string name="APKTOOL_DUMMY_174">false</string>
+  <string name="APKTOOL_DUMMY_175">false</string>
+  <string name="APKTOOL_DUMMY_176">false</string>
+  <string name="APKTOOL_DUMMY_177">false</string>
+  <string name="APKTOOL_DUMMY_178">false</string>
+  <string name="APKTOOL_DUMMY_179">false</string>
+  <string name="APKTOOL_DUMMY_17a">false</string>
+  <string name="APKTOOL_DUMMY_17b">false</string>
+  <string name="APKTOOL_DUMMY_17c">false</string>
+  <string name="APKTOOL_DUMMY_17d">false</string>
+  <string name="APKTOOL_DUMMY_17e">false</string>
+  <string name="APKTOOL_DUMMY_17f">false</string>
+  <string name="APKTOOL_DUMMY_180">false</string>
+  <string name="APKTOOL_DUMMY_181">false</string>
+  <string name="APKTOOL_DUMMY_182">false</string>
+  <string name="APKTOOL_DUMMY_183">false</string>
+  <string name="APKTOOL_DUMMY_184">false</string>
+  <string name="APKTOOL_DUMMY_185">false</string>
+  <string name="APKTOOL_DUMMY_186">false</string>
+  <string name="APKTOOL_DUMMY_187">false</string>
+  <string name="APKTOOL_DUMMY_188">false</string>
+  <string name="APKTOOL_DUMMY_189">false</string>
+  <string name="APKTOOL_DUMMY_18a">false</string>
+  <string name="APKTOOL_DUMMY_18b">false</string>
+  <string name="APKTOOL_DUMMY_18c">false</string>
+  <string name="APKTOOL_DUMMY_18d">false</string>
+  <string name="APKTOOL_DUMMY_18e">false</string>
+  <string name="APKTOOL_DUMMY_18f">false</string>
+  <string name="APKTOOL_DUMMY_190">false</string>
+  <string name="APKTOOL_DUMMY_191">false</string>
+  <string name="APKTOOL_DUMMY_192">false</string>
+  <string name="APKTOOL_DUMMY_193">false</string>
   <string name="SDCard">SD Card</string>
   <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
@@ -82,8 +122,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
-  <string name="cit_battery_check_summary">Device battery statistics</string>
-  <string name="cit_battery_check_title">Battery info</string>
   <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
   <string name="cit_battery_temp_pass">Battery temperature is normal</string>
   <string name="cit_batterylight_blue">Blue</string>
@@ -126,8 +164,6 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_exit_test_title">Exit test</string>
   <string name="cit_fail">Fail</string>
   <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
-  <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
-  <string name="cit_flash_life_check_title">Flash life</string>
   <string name="cit_fm_audio_path">Configure audio path</string>
   <string name="cit_fm_audio_path_headset">Headphones</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>

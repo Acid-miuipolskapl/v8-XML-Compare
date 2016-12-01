@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_1e2">false</string>
+  <string name="APKTOOL_DUMMY_1e3">false</string>
+  <string name="APKTOOL_DUMMY_1e4">false</string>
+  <string name="APKTOOL_DUMMY_1e5">false</string>
+  <string name="APKTOOL_DUMMY_1e6">false</string>
+  <string name="APKTOOL_DUMMY_1e7">false</string>
+  <string name="APKTOOL_DUMMY_1e8">false</string>
+  <string name="APKTOOL_DUMMY_1e9">false</string>
+  <string name="APKTOOL_DUMMY_1ea">false</string>
+  <string name="APKTOOL_DUMMY_1eb">false</string>
+  <string name="APKTOOL_DUMMY_1ec">false</string>
+  <string name="APKTOOL_DUMMY_1ed">false</string>
+  <string name="APKTOOL_DUMMY_1ee">false</string>
+  <string name="APKTOOL_DUMMY_1ef">false</string>
+  <string name="APKTOOL_DUMMY_1f0">false</string>
+  <string name="APKTOOL_DUMMY_1f1">false</string>
+  <string name="APKTOOL_DUMMY_1f2">false</string>
+  <string name="APKTOOL_DUMMY_1f3">false</string>
+  <string name="APKTOOL_DUMMY_1f4">false</string>
+  <string name="APKTOOL_DUMMY_1f5">false</string>
+  <string name="APKTOOL_DUMMY_1f6">false</string>
+  <string name="APKTOOL_DUMMY_1f7">false</string>
+  <string name="APKTOOL_DUMMY_1f8">false</string>
+  <string name="APKTOOL_DUMMY_1f9">false</string>
+  <string name="APKTOOL_DUMMY_1fa">false</string>
+  <string name="APKTOOL_DUMMY_1fb">false</string>
+  <string name="APKTOOL_DUMMY_1fc">false</string>
+  <string name="APKTOOL_DUMMY_1fd">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>

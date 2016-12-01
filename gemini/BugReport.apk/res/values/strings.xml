@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_11d">false</string>
+  <string name="APKTOOL_DUMMY_11e">false</string>
+  <string name="APKTOOL_DUMMY_11f">false</string>
+  <string name="APKTOOL_DUMMY_120">false</string>
+  <string name="APKTOOL_DUMMY_121">false</string>
+  <string name="APKTOOL_DUMMY_122">false</string>
+  <string name="APKTOOL_DUMMY_123">false</string>
+  <string name="APKTOOL_DUMMY_124">false</string>
+  <string name="APKTOOL_DUMMY_125">false</string>
+  <string name="APKTOOL_DUMMY_126">false</string>
+  <string name="APKTOOL_DUMMY_127">false</string>
+  <string name="APKTOOL_DUMMY_128">false</string>
+  <string name="APKTOOL_DUMMY_129">false</string>
+  <string name="APKTOOL_DUMMY_12a">false</string>
+  <string name="APKTOOL_DUMMY_12b">false</string>
+  <string name="APKTOOL_DUMMY_12c">false</string>
+  <string name="APKTOOL_DUMMY_12d">false</string>
+  <string name="APKTOOL_DUMMY_12e">false</string>
+  <string name="APKTOOL_DUMMY_12f">false</string>
+  <string name="APKTOOL_DUMMY_130">false</string>
+  <string name="APKTOOL_DUMMY_131">false</string>
+  <string name="APKTOOL_DUMMY_132">false</string>
+  <string name="APKTOOL_DUMMY_133">false</string>
+  <string name="APKTOOL_DUMMY_134">false</string>
+  <string name="APKTOOL_DUMMY_135">false</string>
+  <string name="APKTOOL_DUMMY_136">false</string>
+  <string name="APKTOOL_DUMMY_137">false</string>
+  <string name="APKTOOL_DUMMY_138">false</string>
+  <string name="APKTOOL_DUMMY_139">false</string>
+  <string name="APKTOOL_DUMMY_13a">false</string>
+  <string name="APKTOOL_DUMMY_13b">false</string>
+  <string name="APKTOOL_DUMMY_13c">false</string>
+  <string name="APKTOOL_DUMMY_13d">false</string>
+  <string name="APKTOOL_DUMMY_13e">false</string>
+  <string name="APKTOOL_DUMMY_13f">false</string>
+  <string name="APKTOOL_DUMMY_140">false</string>
   <string name="action_cancel">Cancel</string>
   <string name="action_submit">Send</string>
   <string name="announcement">Attention</string>
@@ -93,6 +129,7 @@
   <string name="feedback_submit_failed_notification_desc">View details</string>
   <string name="feedback_submit_failed_notification_retry">Send again</string>
   <string name="feedback_submit_failed_notification_title">"Couldn't send report"</string>
+  <string name="feedback_submit_hint">Report bugs every time you encounter problems to help us solve them faster.</string>
   <string name="feedback_submit_hint1">"We'll notify you about your report's progress"</string>
   <string name="feedback_submit_hint2">Go to \"My reports\" to view details</string>
   <string name="feedback_submit_succ">Sent successfully</string>
@@ -246,7 +283,7 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Send</string>
-  <string name="submit_dialog_content">Your feedback along with attachments and logs will be sent to MIUI’s servers. It may contain personal information.</string>
+  <string name="submit_dialog_content">Your feedback, along with attachments and logs, will be sent to MIUI’s servers. It may contain personal information.</string>
   <string name="submit_dialog_title">Send report</string>
   <string name="submit_feedback_info_failed">"Couldn't send report"</string>
   <string name="suggestion_description">Add description here</string>
@@ -272,6 +309,7 @@
   <string name="toast_module_required">Select item</string>
   <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
+  <string name="toast_post_deleted">"This topic doesn't exist, was deleted, or edited."</string>
   <string name="toast_problem_class_required">Select category</string>
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
   <string name="toast_report_sent_failed">"Can't send report"</string>

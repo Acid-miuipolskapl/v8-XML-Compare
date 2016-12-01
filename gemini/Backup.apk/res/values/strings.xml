@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_151">false</string>
+  <string name="APKTOOL_DUMMY_152">false</string>
+  <string name="APKTOOL_DUMMY_153">false</string>
+  <string name="APKTOOL_DUMMY_154">false</string>
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
   <string name="abort_restore_confirm">"Restore hasn't finished. Stop anyway?"</string>
   <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
@@ -345,8 +349,8 @@ and Mi Mover is on"</string>
   <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"Couldn't connect to Download Manager, check Download Manager status in the App Manager."</string>
-  <string name="xiaomi_external_storage_unavailable">Storage not available, check your SD card.</string>
+  <string name="xiaomi_connect_download_manager_fail">"Couldn't start the download. Make sure Download Manager works normally."</string>
+  <string name="xiaomi_external_storage_unavailable">"Storage isn't available, check your SD card."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>

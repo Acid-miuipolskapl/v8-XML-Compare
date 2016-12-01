@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_48">false</string>
+  <string name="APKTOOL_DUMMY_49">false</string>
+  <string name="APKTOOL_DUMMY_4a">false</string>
+  <string name="APKTOOL_DUMMY_4b">false</string>
+  <string name="APKTOOL_DUMMY_4c">false</string>
+  <string name="APKTOOL_DUMMY_4d">false</string>
+  <string name="APKTOOL_DUMMY_4e">false</string>
+  <string name="APKTOOL_DUMMY_4f">false</string>
+  <string name="APKTOOL_DUMMY_50">false</string>
+  <string name="APKTOOL_DUMMY_51">false</string>
+  <string name="APKTOOL_DUMMY_52">false</string>
+  <string name="APKTOOL_DUMMY_53">false</string>
+  <string name="APKTOOL_DUMMY_54">false</string>
+  <string name="APKTOOL_DUMMY_55">false</string>
+  <string name="APKTOOL_DUMMY_56">false</string>
+  <string name="APKTOOL_DUMMY_57">false</string>
+  <string name="APKTOOL_DUMMY_58">false</string>
+  <string name="APKTOOL_DUMMY_59">false</string>
+  <string name="APKTOOL_DUMMY_5a">false</string>
+  <string name="APKTOOL_DUMMY_5b">false</string>
+  <string name="APKTOOL_DUMMY_5c">false</string>
+  <string name="APKTOOL_DUMMY_5d">false</string>
+  <string name="APKTOOL_DUMMY_5e">false</string>
+  <string name="APKTOOL_DUMMY_5f">false</string>
+  <string name="APKTOOL_DUMMY_60">false</string>
+  <string name="APKTOOL_DUMMY_61">false</string>
+  <string name="APKTOOL_DUMMY_62">false</string>
+  <string name="APKTOOL_DUMMY_63">false</string>
   <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
   <string name="click_to_enter_text">Tap to view</string>
   <string name="confirm_pin_msg">Enter PIN again</string>
@@ -16,6 +44,8 @@
   <string name="experimental_validate_username">Username</string>
   <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="find_device_turn_off_flight_mode">Turn off airplane mode</string>
+  <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
+  <string name="fingerprint_add_title">Add fingerprint</string>
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password after rebooting device to be able to use fingerprint recognition</string>
   <string name="fingerprint_enter_second_psw_title">Enter Second space password</string>
   <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>

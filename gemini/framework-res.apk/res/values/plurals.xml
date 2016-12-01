@@ -4,6 +4,14 @@
         <item quantity="other">You have %d remaining attempts before SIM is locked.</item>
         <item quantity="one">You have %d remaining attempt before SIM is locked.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Certificate authorities installed</item>
+        <item quantity="one">Certificate authority installed</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Taking screenshot for bug report in %d seconds.</item>
+        <item quantity="one">Taking screenshot for bug report in %d second.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Last %d days</item>
         <item quantity="one">Last %d day</item>
@@ -19,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d hours</item>
         <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dy</item>
+        <item quantity="one">%dy</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">in %dm</item>
+        <item quantity="one">in %dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">in %dh</item>
+        <item quantity="one">in %dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">in %dd</item>
+        <item quantity="one">in %dd</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">in %dy</item>
+        <item quantity="one">in %dy</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hour ago</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d years ago</item>
+        <item quantity="one">%d year ago</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">in %d minute</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">in %d hours</item>
+        <item quantity="one">in %d hour</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">in %d days</item>
+        <item quantity="one">in %d day</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">in %d years</item>
+        <item quantity="one">in %d year</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">WLAN networks available</item>
@@ -72,20 +144,20 @@
         <item quantity="other">%1$d selected</item>
         <item quantity="one">%1$d selected</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_12">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_13">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_14">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_15">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_16">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_17">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_18">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_19">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1a">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1b">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1c">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1d">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1f">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_20">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_21">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_24">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_25">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_26">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_27">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_28">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_29">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2c">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_30">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_31">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_32">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_33">false</item>
 </resources>
