@@ -83,6 +83,7 @@
   <string name="autoip_exception_summary">%d total</string>
   <string name="autoip_exception_summary_more">, %d total</string>
   <string name="autoip_no_exceptions">"Add numbers that don't require an IP prefix"</string>
+  <string name="autoip_phone">Auto IP dialing</string>
   <string name="autoip_prefix">IP prefix</string>
   <string name="autoip_prefix_summary">"Carrier's IP prefix is %s"</string>
   <string name="autoip_setting">Automatic IP settings</string>
@@ -887,6 +888,7 @@ Try again or call customer service for more options."</string>
   <string name="path_antispam_setting">System apps/Phone/Blocklist</string>
   <string name="path_app_name">System apps/Phone</string>
   <string name="path_auto_answer_pref_title">System apps/Phone/Auto-answer</string>
+  <string name="path_auto_retry_mode_title">System apps/Phone/Advanced settings/Auto-retry</string>
   <string name="path_autoip">System apps/Phone/Advanced settings/Auto IP dialing</string>
   <string name="path_call_background_setting_name">System apps/Phone/Advanced settings/Call background</string>
   <string name="path_call_forwarding_settings">System apps/Phone/Call forwarding settings</string>
@@ -899,7 +901,7 @@ Try again or call customer service for more options."</string>
   <string name="path_cloud_antispam_title">System apps/Phone/Identify unknown numbers</string>
   <string name="path_connect_disconnect_vibrate_title">System apps/Phone/Advanced settings/Vibrate when your call is answered</string>
   <string name="path_dtmf_tones_title">System apps/Phone/Advanced settings/DTMF tones</string>
-  <string name="path_enable_antispam_strange_title">Phone/Incoming call settings/Mute first ring</string>
+  <string name="path_enable_antispam_strange_title">System apps/Phone/Incoming call settings/Mute first ring</string>
   <string name="path_enable_proximity_title">System apps/Phone/Incoming call settings/Proximity sensor</string>
   <string name="path_fdn">System apps/Phone/Advanced settings/Fixed Dialing Numbers</string>
   <string name="path_flash_when_ring_title">System apps/Phone/Incoming call settings/Flash when ringing</string>
@@ -1139,7 +1141,8 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_antispam_setting">Blocklist</string>
   <string name="search_app_name">Phone;Call recording;Redirect calls;redirection;Call waiting;Blocklist;Country code;Area code;Country codes;Area codes;Record calls;Record call;Dial pad;Call;Calls;Telephony;VoIP;VoLTE;Missed call;Missed calls;SIP;T9;IP Telephony;FDN</string>
   <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
-  <string name="search_autoip">@string/autoip</string>
+  <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+  <string name="search_autoip_phone">@string/autoip_phone</string>
   <string name="search_call_background_setting">@string/call_background_setting</string>
   <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
   <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
