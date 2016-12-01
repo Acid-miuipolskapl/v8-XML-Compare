@@ -132,6 +132,7 @@
   <string name="forward_to_bind">Add</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+  <string name="guest_account_label">Mi Guest Account</string>
   <string name="ignore">Not now</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="io_error_title">Confirm your network</string>
