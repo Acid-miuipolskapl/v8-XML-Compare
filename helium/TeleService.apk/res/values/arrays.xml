@@ -332,10 +332,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_060f</item>
-        <item>@string/APKTOOL_DUMMY_060d</item>
-        <item>@string/APKTOOL_DUMMY_060e</item>
-        <item>@string/APKTOOL_DUMMY_0610</item>
+        <item>@string/APKTOOL_DUMMY_0613</item>
+        <item>@string/APKTOOL_DUMMY_0611</item>
+        <item>@string/APKTOOL_DUMMY_0612</item>
+        <item>@string/APKTOOL_DUMMY_0614</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
