@@ -244,7 +244,7 @@
   <string name="status_pending">Waiting</string>
   <string name="title_select_live_folder">Select folder</string>
   <string name="title_select_shortcut">Select shortcut</string>
-  <string name="toast_screen_icons_misplaced">Restored from other database，some icons may be misplaced</string>
+  <string name="toast_screen_icons_misplaced">Restored from other source, some icons may be misplaced</string>
   <string name="toggle_select_title">Choose toggle</string>
   <string name="toggle_title">Toggles</string>
   <string name="transformation_type_classic">Overslide</string>
