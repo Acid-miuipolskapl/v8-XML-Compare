@@ -118,7 +118,7 @@
   <string name="terabyteShort">TB</string>
   <string name="tools">Tools</string>
   <string name="trans_mobile_network_message">Using mobile data to transfer files may generate additional carrier fees. Transfer anyway?</string>
-  <string name="trans_task">Network transfers</string>
+  <string name="trans_task">Transfer tasks</string>
   <string name="transing">Sending</string>
   <string name="upload_failed">"Couldn't upload"</string>
   <string name="upload_file_to_midrive">Upload file to Mi Drive</string>

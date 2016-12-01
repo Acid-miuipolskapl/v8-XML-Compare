@@ -4,9 +4,14 @@
   <string name="app_name">Secure Spaces Agent</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Yes</string>
+  <string name="dialog_download_space_cancel">Cancel</string>
+  <string name="dialog_download_space_create">OK</string>
+  <string name="dialog_download_space_title">Download Space?</string>
   <string name="dialog_password_expired_button">Update password</string>
   <string name="dialog_password_expired_message">Your password has either expired or is no longer valid under the current policy. Please update your password.</string>
   <string name="dialog_password_expired_title">Password expired</string>
+  <string name="dialog_space_creating_text">Please wait</string>
+  <string name="dialog_space_creating_title">Creating New Space</string>
   <string name="expiration_status_future">Password will expire %1$s from now</string>
   <string name="expiration_status_past">Password expired %1$s ago</string>
   <string name="label_activity_debug">Policy Debug</string>
@@ -49,5 +54,9 @@
   <string name="sscm_registration_disclaimer">Secure Spaces ensures integrity and updates to your Space. Secure Spaces incurs a small amount of network usage. Please consult your local service provider for charge amounts. If you agree to these conditions please select \"Yes\" to subscribe your Secure Space.</string>
   <string name="sscm_registration_summary">Pull down the notifications to view details</string>
   <string name="title_sscm_registration">Secure Spaces Service Reminder</string>
+  <string name="toast_space_creation_failed">Failed to create space</string>
+  <string name="uri_invalid">URI or QR code does not describe a Secure Space</string>
+  <string name="uri_invalid_server_url">Invalid server URL in registration URI</string>
+  <string name="uri_missing_registration_token">Empty or missing registration token in registration URI</string>
   <string name="wifi">wifi</string>
 </resources>
