@@ -2955,8 +2955,8 @@ This setting affects all users on this phone."</string>
   <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_locking_sounds_title">Screen locking sounds</string>
   <string name="screen_never_timeout_title">Never sleep</string>
-  <string name="screen_on_proximity_sensor_summary">Lock automatically when placed in a pocket</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_on_proximity_sensor_summary">Lock touch gestures when placed in a pocket</string>
+  <string name="screen_on_proximity_sensor_title">Pocket mode</string>
   <string name="screen_optimize">Contrast</string>
   <string name="screen_paper_mode_adjust_level">Strength</string>
   <string name="screen_paper_mode_apps_loading">Just a sec…</string>
@@ -3807,7 +3807,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Turn off prevent pocket dials as well?</string>
+  <string name="touch_sensitive_turn_off_summary">Turn off pocket mode as well?</string>
   <string name="touch_sensitive_turn_off_title">Glove mode is off</string>
   <string name="touch_sounds_title">Touch sounds</string>
   <string name="touch_title">Touch</string>

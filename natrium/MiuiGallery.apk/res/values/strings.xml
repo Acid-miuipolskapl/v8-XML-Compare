@@ -79,6 +79,7 @@
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_video_album_display_name">All videos</string>
   <string name="already_create_baby_album">Baby album already exists in Mi Cloud.</string>
+  <string name="app_error">An error occurred, closing the app…</string>
   <string name="app_name">Gallery</string>
   <string name="app_name_view_picture">View photos</string>
   <string name="app_name_view_video">View videos</string>
@@ -119,6 +120,7 @@
   <string name="baby_nick_name">Nickname</string>
   <string name="baby_sexy">Gender</string>
   <string name="baby_suffix">baby</string>
+  <string name="background_effect">Background effects</string>
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">Back up automatically</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
@@ -672,6 +674,8 @@ Take more photos of your friends!"</string>
   <string name="fail_to_pick_email">Invalid email address</string>
   <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
   <string name="family_member_invitation_text">Other family member</string>
+  <string name="fancy_color_tip">Tap the photo to adjust the sweet spot</string>
+  <string name="fancycolor_title">Background effects</string>
   <string name="fast_share_auto_render">Beautify</string>
   <string name="fast_share_auto_render_finish">Beautified</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
@@ -697,6 +701,7 @@ Take more photos of your friends!"</string>
   <string name="finish_fill_baby">Create</string>
   <string name="flash_off">No flash</string>
   <string name="flash_on">Flash used</string>
+  <string name="free_view_tip">Tilt the phone slightly to preview 3D effect</string>
   <string name="gallery_setting">Settings</string>
   <string name="gallery_sync_disable_toast">Sync is off for Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
@@ -721,6 +726,7 @@ Take more photos of your friends!"</string>
   <string name="ignore_album">"Don't show"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
+  <string name="illegal_arguments_error">An error occurred</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
   <string name="image_download_item_title">Download photo (%s)</string>
   <string name="image_invalid_path">Invalid path</string>
@@ -750,6 +756,7 @@ Take more photos of your friends!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be &gt; 0</string>
   <string name="limit_width">Width should be &gt; 0</string>
+  <string name="load_image_error">"Can't load photo"</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
@@ -760,11 +767,21 @@ Take more photos of your friends!"</string>
   <string name="loading_image_thumbnail">Downloading thumbnail…</string>
   <string name="loading_members">Loading members026</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
+  <string name="loading_tip">Just a sec…</string>
   <string name="loading_video">Downloading video…</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
   <string name="local_space_full_button_text">Clear space</string>
   <string name="login_and_enable_service">Sign in with Mi Account</string>
   <string name="long_press_to_refocus">Press &amp; hold to refocus</string>
+  <string name="m_fancy_color_effect_blackboard">Blackboard</string>
+  <string name="m_fancy_color_effect_monochrome">Monochrome</string>
+  <string name="m_fancy_color_effect_negative">Negative</string>
+  <string name="m_fancy_color_effect_normal">Normal</string>
+  <string name="m_fancy_color_effect_posterize">Posterize</string>
+  <string name="m_fancy_color_effect_radial_blur">Radial blur</string>
+  <string name="m_fancy_color_effect_silhouette">Silhouette</string>
+  <string name="m_fancy_color_effect_stroke">Strokes</string>
+  <string name="m_fancy_color_effect_whiteboard">Whiteboard</string>
   <string name="main_discard_confirm_message">You have unsaved changes</string>
   <string name="main_discard_negative_btn">Discard</string>
   <string name="main_discard_positive_btn">Save &amp; Exit</string>
@@ -782,6 +799,7 @@ Take more photos of your friends!"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face_album_name">More people</string>
   <string name="move_to_other_albums_tip">Sync with Mi Cloud will be turned off if you move this album to other albums. Move now?</string>
+  <string name="multi_view">3D view</string>
   <string name="must_pick_file">Select a photo</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"Device isn't connected to the internet"</string>
@@ -886,6 +904,8 @@ Take more photos of your friends!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
+  <string name="refocus">Refocus</string>
+  <string name="refocus_tip">Tap the photo to refocus</string>
   <string name="relation_text_empty_alert">Add relationship info</string>
   <string name="relation_text_family">Family member</string>
   <string name="relation_text_father">Father</string>
@@ -916,6 +936,12 @@ Take more photos of your friends!"</string>
   <string name="revert">Revert</string>
   <string name="runtime_permission_ungranted">Closed Gallery, no required permissions</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
+  <string name="save">Save</string>
+  <string name="save_dialog_message">Save the current changes?</string>
+  <string name="save_dialog_title">Save</string>
+  <string name="save_error">"Couldn't save photo"</string>
+  <string name="saving_image">Saving photo…</string>
+  <string name="saving_image_to_album">Saving photo to %1$s…</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
@@ -1085,6 +1111,7 @@ Take more photos of your friends!"</string>
   <string name="view_by_gallery_tip">MIUI Gallery</string>
   <string name="view_face_album">View album</string>
   <string name="view_queuing_status">Check status</string>
+  <string name="wait_error">Just a sec…</string>
   <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Welcome to Mi Cloud</string>
   <string name="welcome_to_slim">Optimize local storage</string>
