@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_11a">false</string>
   <string name="APKTOOL_DUMMY_11b">false</string>
   <string name="APKTOOL_DUMMY_11c">false</string>
   <string name="APKTOOL_DUMMY_11d">false</string>
   <string name="APKTOOL_DUMMY_11e">false</string>
+  <string name="APKTOOL_DUMMY_11f">false</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>
@@ -159,6 +159,7 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
+  <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">Just a sec…</string>

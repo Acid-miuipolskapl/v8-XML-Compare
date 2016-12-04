@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_454">false</string>
   <string name="APKTOOL_DUMMY_455">false</string>
-  <string name="APKTOOL_DUMMY_456">false</string>
   <string name="APKTOOL_DUMMY_457">false</string>
   <string name="APKTOOL_DUMMY_458">false</string>
   <string name="APKTOOL_DUMMY_459">false</string>
@@ -10,6 +10,7 @@
   <string name="APKTOOL_DUMMY_45c">false</string>
   <string name="APKTOOL_DUMMY_45d">false</string>
   <string name="APKTOOL_DUMMY_45e">false</string>
+  <string name="APKTOOL_DUMMY_45f">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>
@@ -642,7 +643,7 @@
   <string name="download_without_wifi_title">Data usage warning</string>
   <string name="edit_baby_info">View baby info</string>
   <string name="email_picker_title">Add shared email</string>
-  <string name="empty_recommend_button_view">Back</string>
+  <string name="empty_recommend_back">Back</string>
   <string name="empty_recommend_face_page_view">No more recommendations</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">Turn on sync with Mi Cloud</string>
