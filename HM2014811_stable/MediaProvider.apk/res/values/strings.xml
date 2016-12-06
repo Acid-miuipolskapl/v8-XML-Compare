@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alarm_sound_default">Default alarm sound</string>
+  <string name="app_label">Media Storage</string>
+  <string name="artist_label">Artist</string>
+  <string name="notification_sound_default">Default notification sound</string>
+  <string name="ringtone_default">Default ringtone</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Images</string>
+  <string name="root_videos">Videos</string>
+  <string name="schpwr_shutdown_message1">Your device will shutdown in %s seconds</string>
+  <string name="schpwr_shutdown_message_below_temperature">Battery temperature is below -20, Your device will shut down in %s seconds</string>
+  <string name="schpwr_shutdown_message_over_temperature">Battery temperature is over 60, Your device will shut down in %s seconds</string>
+  <string name="uid_label">Media</string>
+  <string name="upgrade_msg">Upgrading Media database.</string>
+</resources>
