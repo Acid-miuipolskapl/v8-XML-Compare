@@ -57,11 +57,12 @@
   <string name="callAgain">Call again</string>
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s min %s sec</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
   <string name="call_car">Call car</string>
+  <string name="call_charge">Top up</string>
   <string name="call_company_main">Call company main</string>
   <string name="call_custom">Call %s</string>
   <string name="call_disambig_title">Choose number</string>
@@ -69,6 +70,7 @@
   <string name="call_fax_work">Call work fax</string>
   <string name="call_home">Call home</string>
   <string name="call_isdn">Call ISDN</string>
+  <string name="call_left">Phone balance</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">New</string>
@@ -76,9 +78,12 @@
   <string name="call_main">Call main</string>
   <string name="call_mms">Call MMS</string>
   <string name="call_mobile">Call mobile</string>
+  <string name="call_not_found"> --</string>
+  <string name="call_operator_init">Set carrier</string>
   <string name="call_other">Call</string>
   <string name="call_other_fax">Call fax</string>
   <string name="call_pager">Call pager</string>
+  <string name="call_problem_report">Report an issue</string>
   <string name="call_radio">Call radio</string>
   <string name="call_record_setting_miui">Record settings</string>
   <string name="call_settings">Settings</string>
@@ -87,6 +92,7 @@
   <string name="call_telex">Call telex</string>
   <string name="call_tty_tdd">Call TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">USD</string>
   <string name="call_work">Call work</string>
   <string name="call_work_mobile">Call work mobile</string>
   <string name="call_work_pager">Call work pager</string>
@@ -133,7 +139,7 @@
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
-  <string name="callrecordview_menu_voip">VoIP</string>
+  <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
@@ -165,6 +171,7 @@
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad_description">Close dial pad</string>
   <string name="cloud_antispam_mark">Flag</string>
+  <string name="cloud_antispam_marked">Flagged</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
@@ -203,6 +210,7 @@
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Record call</string>
+  <string name="contact_detail_calllog_empty">No history</string>
   <string name="contact_detail_menu_delete_miprofile">Delete card</string>
   <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
@@ -268,7 +276,8 @@ Contact cards are turned off"</string>
   <string name="data_already_used">Used data</string>
   <string name="data_charge">Top up mobile data</string>
   <string name="data_left">Remaining data</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
   <string name="date_time_set">Set</string>
   <string name="date_year_toggle">Provide a year</string>
@@ -457,6 +466,7 @@ Reason: \"%s\""</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
+  <string name="gallery">Gallery</string>
   <string name="generic_no_account_prompt">Keep your contacts safe even if you lose your phone: synchronize with an online service.</string>
   <string name="generic_no_account_prompt_title">Add an account</string>
   <string name="ghostData_company">Company</string>
@@ -498,7 +508,8 @@ Reason: \"%s\""</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI</string>
+  <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
@@ -584,7 +595,8 @@ Reason: \"%s\""</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID</string>
+  <string name="meid_invalid">Invalid MEID</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
@@ -595,9 +607,9 @@ Reason: \"%s\""</string>
   <string name="menu_bar_group_batch_remove">Delete group</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
-  <string name="menu_bar_group_ringtone">Group ringtone</string>
+  <string name="menu_bar_group_ringtone">Ringtone</string>
   <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
-  <string name="menu_bar_group_sms">Group SMS</string>
+  <string name="menu_bar_group_sms">SMS</string>
   <string name="menu_call">Call contact</string>
   <string name="menu_callNumber">Call %s</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
@@ -863,7 +875,7 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
-  <string name="phone_call_type_livetalk">LiveTalk</string>
+  <string name="phone_call_type_livetalk">Top-up package</string>
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Number is too long</string>
@@ -872,8 +884,8 @@ To add a contact to your list of favorites:
   <string name="photo_fragment">Photo</string>
   <string name="photo_labels_group">Profile photo</string>
   <string name="photo_load_failed">"Couldn't load photo"</string>
-  <string name="pick_new_photo">Select new photo from Gallery</string>
-  <string name="pick_photo">Choose photo from Gallery</string>
+  <string name="pick_new_photo">Choose new photo from %s</string>
+  <string name="pick_photo">Choose photo from %s</string>
   <string name="pickerNewContactHeader">Create new contact</string>
   <string name="pickerNewContactText">Create new contact</string>
   <string name="picker_all_list_empty">No contacts</string>
@@ -1039,6 +1051,7 @@ To add a contact to your list of favorites:
   <string name="search_import_from_other_phone">Contacts;Import;other phone</string>
   <string name="search_import_from_sdcard">Contacts;Import;storage</string>
   <string name="search_import_from_sim">Contacts;Import;SIM card</string>
+  <string name="search_input_hint">You can search phone numbers or services</string>
   <string name="search_key_photo_word">Assign;contact;photos;Contacts</string>
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>
@@ -1110,8 +1123,8 @@ To add a contact to your list of favorites:
   <string name="smart_group_company_label">Companies</string>
   <string name="smart_group_company_unavailable">No company info</string>
   <string name="smart_group_frequency_1">Within the past month</string>
-  <string name="smart_group_frequency_2">Within the past 3 months</string>
-  <string name="smart_group_frequency_3">Within the past 6 months</string>
+  <string name="smart_group_frequency_2">1 to 3 months</string>
+  <string name="smart_group_frequency_3">3 to 6 months</string>
   <string name="smart_group_frequency_4">Over 6 months ago</string>
   <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Smart groups</string>
@@ -1242,6 +1255,9 @@ Choose one of the following options:"</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
+  <string name="yellowpage_navigation_ad_hint">Ad</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
@@ -1250,7 +1266,8 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_search_history">History</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
   <string name="yellowpage_navigation_search_result_average_price">Average CNY %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the
+        network"</string>
   <string name="yellowpage_navigation_search_result_no_more">No more results</string>
   <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unknown error</string>
@@ -1258,7 +1275,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
-  <string name="yellowpage_search_the_yellowpage">Search Yellow Pages</string>
+  <string name="yellowpage_search_the_yellowpage">Search Yellow pages</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="zero_items_selected">Select items</string>
 </resources>

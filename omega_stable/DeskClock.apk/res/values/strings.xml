@@ -58,7 +58,7 @@
   <string name="hours">%s hours</string>
   <string name="keep_screen_on">Keep screen on</string>
   <string name="label">Set label</string>
-  <string name="label_pref_summary">Label this alarm clock</string>
+  <string name="label_pref_summary">Label</string>
   <string name="lap">Lap</string>
   <string name="lap_num">Lap</string>
   <string name="legal_off_day">Legal off day</string>
@@ -105,10 +105,12 @@
   <string name="stat_repeat_weekends">周末</string>
   <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">Stopwatch</string>
+  <string name="symbol_colon">:</string>
   <string name="system_time_setting">Settings</string>
   <string name="time">Time</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Tap on the screen to stop ringing</string>
+  <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
   <string name="timer_clock_alert_text">Set timer</string>
   <string name="timer_continue">Continue</string>
