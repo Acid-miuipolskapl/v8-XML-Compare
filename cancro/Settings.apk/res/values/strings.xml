@@ -2373,7 +2373,7 @@ Select your operating system:"</string>
   <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">None</string>
-  <string name="owner_info_settings_title">Owner info</string>
+  <string name="owner_info_settings_title">Lock screen signature</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
