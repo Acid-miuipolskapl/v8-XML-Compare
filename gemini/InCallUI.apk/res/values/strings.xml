@@ -342,11 +342,11 @@
   <string name="APKTOOL_DUMMY_253">false</string>
   <string name="APKTOOL_DUMMY_254">false</string>
   <string name="APKTOOL_DUMMY_255">false</string>
-  <string name="APKTOOL_DUMMY_259">false</string>
+  <string name="APKTOOL_DUMMY_256">false</string>
   <string name="APKTOOL_DUMMY_25a">false</string>
   <string name="APKTOOL_DUMMY_25b">false</string>
   <string name="APKTOOL_DUMMY_25c">false</string>
-  <string name="APKTOOL_DUMMY_25e">false</string>
+  <string name="APKTOOL_DUMMY_25d">false</string>
   <string name="APKTOOL_DUMMY_25f">false</string>
   <string name="APKTOOL_DUMMY_260">false</string>
   <string name="APKTOOL_DUMMY_261">false</string>
@@ -478,7 +478,7 @@
   <string name="APKTOOL_DUMMY_2df">false</string>
   <string name="APKTOOL_DUMMY_2e0">false</string>
   <string name="APKTOOL_DUMMY_2e1">false</string>
-  <string name="APKTOOL_DUMMY_f3">false</string>
+  <string name="APKTOOL_DUMMY_2e2">false</string>
   <string name="APKTOOL_DUMMY_f4">false</string>
   <string name="APKTOOL_DUMMY_f5">false</string>
   <string name="APKTOOL_DUMMY_f6">false</string>
@@ -624,6 +624,7 @@
   <string name="incall_call_type_label_sip">Internet call</string>
   <string name="incall_error_supp_service_conference">"Can't use conference call."</string>
   <string name="incall_error_supp_service_hangup">"Can't hang up call."</string>
+  <string name="incall_error_supp_service_hold">"Can't hold calls."</string>
   <string name="incall_error_supp_service_reject">"Can't reject call."</string>
   <string name="incall_error_supp_service_separate">Unable to separate call.</string>
   <string name="incall_error_supp_service_switch">Unable to switch calls.</string>

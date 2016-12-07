@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_66e">false</string>
   <string name="APKTOOL_DUMMY_66f">false</string>
   <string name="APKTOOL_DUMMY_670">false</string>
   <string name="APKTOOL_DUMMY_671">false</string>
@@ -119,8 +118,8 @@
   <string name="APKTOOL_DUMMY_6e2">false</string>
   <string name="APKTOOL_DUMMY_6e3">false</string>
   <string name="APKTOOL_DUMMY_6e4">false</string>
-  <string name="APKTOOL_DUMMY_750">false</string>
-  <string name="APKTOOL_DUMMY_764">false</string>
+  <string name="APKTOOL_DUMMY_6e5">false</string>
+  <string name="APKTOOL_DUMMY_751">false</string>
   <string name="APKTOOL_DUMMY_765">false</string>
   <string name="APKTOOL_DUMMY_766">false</string>
   <string name="APKTOOL_DUMMY_767">false</string>
@@ -278,6 +277,7 @@
   <string name="APKTOOL_DUMMY_7ff">false</string>
   <string name="APKTOOL_DUMMY_800">false</string>
   <string name="APKTOOL_DUMMY_801">false</string>
+  <string name="APKTOOL_DUMMY_802">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -1195,6 +1195,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_securitycenter">System apps/Security</string>
   <string name="path_securitycenter_settings">System apps/Security</string>
   <string name="pay_charge">Purchase additional data</string>
+  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Install via USB</string>
   <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
