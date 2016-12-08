@@ -444,6 +444,16 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
   <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
   <string name="biometric_weak_liveliness_title">Liveness check</string>
+  <string name="block_list_connected_devices">Connected devices</string>
+  <string name="block_list_diaglog_cancle">Cancel</string>
+  <string name="block_list_diaglog_ok">OK</string>
+  <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
+  <string name="block_list_dialog_title">Disconnect now?</string>
+  <string name="block_list_no_device">No connected devices in blocklist</string>
+  <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
+  <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
+  <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
+  <string name="block_list_title">Blocklist</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
@@ -3341,7 +3351,7 @@ To use screen pinning:
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
-  <string name="show_owner_info_on_lockscreen_label">Show signature info on Lock screen</string>
+  <string name="show_owner_info_on_lockscreen_label">Show signature on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
   <string name="show_profile_info_on_lockscreen_label">Show profile info on lock screen</string>
   <string name="show_rounded_corners">Show rounded corners</string>
@@ -3684,6 +3694,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_wifi_info">WLAN information</string>
   <string name="tether_and_hotspot_title">Tethering and hotspot</string>
   <string name="tether_devices_management_title">Manage devices</string>
+  <string name="tether_devices_max_number">Limit of connected devices</string>
   <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
