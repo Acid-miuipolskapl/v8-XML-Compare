@@ -634,7 +634,7 @@
   <string name="download_without_wifi_title">Data usage warning</string>
   <string name="edit_baby_info">View baby info</string>
   <string name="email_picker_title">Add shared email</string>
-  <string name="empty_recommend_button_view">Back</string>
+  <string name="empty_recommend_back">Back</string>
   <string name="empty_recommend_face_page_view">No more recommendations</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">Turn on sync with Mi Cloud</string>

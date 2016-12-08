@@ -133,6 +133,7 @@
   <string name="incall_call_type_label_sip">Internet call</string>
   <string name="incall_error_supp_service_conference">"Can't use conference call."</string>
   <string name="incall_error_supp_service_hangup">"Can't hang up call."</string>
+  <string name="incall_error_supp_service_hold">"Can't hold calls."</string>
   <string name="incall_error_supp_service_reject">"Can't reject call."</string>
   <string name="incall_error_supp_service_separate">Unable to separate call.</string>
   <string name="incall_error_supp_service_switch">Unable to switch calls.</string>
