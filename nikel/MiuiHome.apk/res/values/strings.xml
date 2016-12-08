@@ -154,6 +154,7 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
+  <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">Just a sec…</string>

@@ -457,6 +457,16 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
   <string name="binded_xiaomi_summary">Current account: %s</string>
   <string name="ble_scan_notify_text">To improve location accuracy, system apps and services can still detect Bluetooth devices. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="block_list_connected_devices">Connected devices</string>
+  <string name="block_list_diaglog_cancle">Cancel</string>
+  <string name="block_list_diaglog_ok">OK</string>
+  <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
+  <string name="block_list_dialog_title">Disconnect now?</string>
+  <string name="block_list_no_device">No connected devices in blocklist</string>
+  <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
+  <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
+  <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
+  <string name="block_list_title">Blocklist</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
@@ -2363,7 +2373,7 @@ Select your operating system:"</string>
   <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">None</string>
-  <string name="owner_info_settings_title">Owner info</string>
+  <string name="owner_info_settings_title">Lock screen signature</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
@@ -3858,6 +3868,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="testing_wifi_info">WLAN information</string>
   <string name="tether_and_hotspot_title">Tethering &amp; portable hotspot</string>
   <string name="tether_devices_management_title">Manage devices</string>
+  <string name="tether_devices_max_number">Limit of connected devices</string>
   <string name="tether_settings_disabled">Personal hotspot is off</string>
   <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
