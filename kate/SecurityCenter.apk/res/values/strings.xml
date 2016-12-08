@@ -917,6 +917,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="path_securitycenter">System apps/Security</string>
   <string name="path_securitycenter_settings">System apps/Security</string>
   <string name="pay_charge">Purchase additional data</string>
+  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Install via USB</string>
   <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
