@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_11b">false</string>
   <string name="APKTOOL_DUMMY_11c">false</string>
   <string name="APKTOOL_DUMMY_11d">false</string>
   <string name="APKTOOL_DUMMY_11e">false</string>
   <string name="APKTOOL_DUMMY_11f">false</string>
+  <string name="APKTOOL_DUMMY_120">false</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>
@@ -159,7 +159,7 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
-  <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
+  <string name="launcher_not_exist">An error occurred, go back to Home screen and try again.</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">Just a sec…</string>
@@ -227,6 +227,7 @@
   <string name="recommend_apps_switch_title">Promoted apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="screen_locked_toast">Home screen layout is locked</string>
   <string name="screen_number">%d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">Select all</string>
