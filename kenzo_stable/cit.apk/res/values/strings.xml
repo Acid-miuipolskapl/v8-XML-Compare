@@ -245,6 +245,7 @@ only in frame mode"</string>
   <string name="charge_voltage">Charge Voltage：</string>
   <string name="charger_in_test">Charger plug in</string>
   <string name="charger_out_test">Charger plug out</string>
+  <string name="checkerboard_test">CHECKERBOARD TEST</string>
   <string name="choose_channel">Channel select</string>
   <string name="cit1">CIT1:</string>
   <string name="cit1reporttitle">CIT 1 Test Report</string>
@@ -343,10 +344,8 @@ only in frame mode"</string>
   <string name="gyroscope_hint">Please rotate cube</string>
   <string name="hallsensorinfo">Hall Sensor test...</string>
   <string name="halltest_ok">Test Success!</string>
-  <string name="hand_autommi">HandTest</string>
   <string name="hand_test">CIT Test 1</string>
   <string name="hand_test2">CIT Test 2</string>
-  <string name="handreporttitle">HandTest Reports</string>
   <string name="hardver">Hardware version:</string>
   <string name="hardware_test">Hardware Test</string>
   <string name="hardware_version">Hardware Version:</string>
@@ -364,6 +363,7 @@ only in frame mode"</string>
   <string name="hw_test_fail">IR data send Unsuccess!</string>
   <string name="hw_test_finish">IR data send success</string>
   <string name="hwstart">test running...</string>
+  <string name="image_quality_test">IMAGE QUALITY TEST</string>
   <string name="imei">[ IMEI]:</string>
   <string name="imei_no">IMEI:</string>
   <string name="input_passwords">Please input password!</string>
@@ -402,6 +402,7 @@ the selected?"</string>
   <string name="lcd_click_continue">Click screen to continue</string>
   <string name="lcd_test">Color</string>
   <string name="lcminfo">LCM information</string>
+  <string name="learn_test">"Hello I'm sorry!I said \"sorry!\" "</string>
   <string name="led_info">Please note if the LED blink or not in 3 color</string>
   <string name="led_test">Led</string>
   <string name="ledblink">led blink?</string>
@@ -609,6 +610,7 @@ mod:0-15"</string>
   <string name="sec_available">%ds available</string>
   <string name="seeking">\u0009Searching...</string>
   <string name="selectall">Select all</string>
+  <string name="selftest">SELF-TEST</string>
   <string name="send">Send</string>
   <string name="send_test">Send test</string>
   <string name="sensors_test">Sensors</string>

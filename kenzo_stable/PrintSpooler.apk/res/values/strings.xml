@@ -18,6 +18,7 @@
   <string name="label_copies">Copies</string>
   <string name="label_copies_summary">Copies:</string>
   <string name="label_destination">Destination</string>
+  <string name="label_duplex">Two-sided</string>
   <string name="label_orientation">Orientation</string>
   <string name="label_pages">Pages</string>
   <string name="label_paper_size">Paper size</string>
