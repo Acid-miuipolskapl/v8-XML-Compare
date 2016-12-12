@@ -100,8 +100,8 @@
   <string name="debug_mode_desc">Run app in debug mode and show video id in top-left corner</string>
   <string name="declaration">Terms of Service</string>
   <string name="declaration_allow">Agree</string>
-  <string name="declaration_content">"1. By using this application, you are agreeing to Sohu Video, iQiyi, and other content providers' "&lt;a href="file:///android_asset/terms.html"&gt;Terms of Service&lt;/a&gt;".
-2. To improve your user experience, we'll collect some data about your device and the content you watch. Youku and iQiyi will also collect your device's IMEI.&amp;#8203;
+  <string name="declaration_content">"1. By using this application including Sohu Video, iQiyi and other content providers' service，you are agreeing to "&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;User Agreement&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;Privacy Policy&lt;/a&gt;".
+2. To improve your user experience, we'll collect some data about your device and the content you watch. Sohu and iQiyi will also collect your device's IMEI.&amp;#8203;
 3. Our HD Vvideo plug-in will be installed automatically.
 4. This application needs to connect to the internet to work normally."</string>
   <string name="declaration_content_td_custom">This application needs to connect to the internet to work normally.</string>
@@ -130,6 +130,7 @@
   <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
   <string name="download_finished">Complete</string>
   <string name="download_geturl_fail">"Couldn't get URL"</string>
+  <string name="download_insufficient_space">Insufficient space</string>
   <string name="download_is_in_tasklist">Queued</string>
   <string name="download_paused">Paused</string>
   <string name="download_percent_hint">Downloading %d%%</string>
@@ -152,6 +153,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_epg">No EPG Information</string>
   <string name="error_empty_filter_title">No results</string>
+  <string name="error_empty_live_favor">No Collection of TV Channels</string>
   <string name="error_empty_title">Something went wrong.</string>
   <string name="expire_time">expire time</string>
   <string name="favorite">Favorite</string>
@@ -160,6 +162,7 @@
   <string name="file_not_exist">The file does not exist</string>
   <string name="filter">Filter</string>
   <string name="finish_install">Installed Successfully</string>
+  <string name="font_family">miui</string>
   <string name="forecast">Forecast</string>
   <string name="forecast_empty_hint">Empty</string>
   <string name="forecasts">EPG</string>
@@ -236,7 +239,7 @@
   <string name="notification_default_title">Offline video</string>
   <string name="notification_sub_title">Total %d download task(s) completed</string>
   <string name="notification_ticker_text">Offline video download completion</string>
-  <string name="notification_title">\"%s\" download completion</string>
+  <string name="notification_title">\"%1$s\" download completion</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
   <string name="nowifi_alert_dialog_message">"Using your mobile data connection to stream video will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
@@ -467,7 +470,7 @@
   <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">New</string>
   <string name="vp_next_ci">Next</string>
-  <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
+  <string name="vp_notify_apk_installed">Install application successfully</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_offline_status_done">Finished</string>
   <string name="vp_offline_status_dowloading">Downloading</string>

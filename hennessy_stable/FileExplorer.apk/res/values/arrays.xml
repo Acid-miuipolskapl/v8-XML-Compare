@@ -31,6 +31,11 @@
         <item>@string/report_politics</item>
         <item>@string/report_other</item>
     </string-array>
+    <string-array name="wx_titles">
+        <item>@string/wx_title1</item>
+        <item>@string/wx_title2</item>
+        <item>@string/wx_title3</item>
+    </string-array>
     <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
         <item>@drawable/digit1</item>
@@ -44,4 +49,12 @@
         <item>@drawable/digit9</item>
         <item>@drawable/point</item>
     </array>
+    <string-array name="array_upload_avatar">
+        <item>@string/upload_avatar_local</item>
+        <item>@string/upload_avatar_camera</item>
+    </string-array>
+    <string-array name="array_user_sex">
+        <item>@string/male</item>
+        <item>@string/female</item>
+    </string-array>
 </resources>
