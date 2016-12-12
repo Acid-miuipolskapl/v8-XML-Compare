@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_6a">false</string>
+  <string name="APKTOOL_DUMMY_6b">false</string>
+  <string name="APKTOOL_DUMMY_6c">false</string>
+  <string name="APKTOOL_DUMMY_6d">false</string>
   <string name="accept">OK</string>
   <string name="activate">Activate</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS sent to activate \"Find device\"</string>

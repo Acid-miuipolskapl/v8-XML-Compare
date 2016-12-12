@@ -58,8 +58,8 @@
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
   <string name="alert_warning">Weather alerts</string>
-  <string name="already_voted">Has Voted</string>
-  <string name="already_voted_toast">You have already selected today</string>
+  <string name="already_voted">Voted</string>
+  <string name="already_voted_toast">"You've already voted today"</string>
   <string name="app_name">Weather</string>
   <string name="aqi_data_source">Powered by Caiyun Weather</string>
   <string name="aqi_desc">Air Quality Index</string>
@@ -162,8 +162,8 @@ Tap the screen to manually add or reposition city"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Try again</string>
-  <string name="no_vote_num">%1$speople | </string>
-  <string name="no_vote_ratio">cons %1$s%%</string>
+  <string name="no_vote_num">%1$s people | </string>
+  <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">Open</string>
   <string name="open_browser">Open in browser</string>
   <string name="pressure_connect">%1$s mb</string>
@@ -225,6 +225,6 @@ Tap the screen to manually add or reposition city"</string>
   <string name="weather_alert">Weather alerts</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
-  <string name="yes_vote_num"> | %1$speople</string>
-  <string name="yes_vote_ratio">pros %1$s%%</string>
+  <string name="yes_vote_num"> | %1$s people</string>
+  <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

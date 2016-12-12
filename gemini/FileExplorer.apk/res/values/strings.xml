@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_30e">false</string>
-  <string name="APKTOOL_DUMMY_30f">false</string>
-  <string name="APKTOOL_DUMMY_310">false</string>
-  <string name="APKTOOL_DUMMY_311">false</string>
-  <string name="APKTOOL_DUMMY_312">false</string>
-  <string name="APKTOOL_DUMMY_313">false</string>
-  <string name="APKTOOL_DUMMY_314">false</string>
   <string name="APKTOOL_DUMMY_315">false</string>
   <string name="APKTOOL_DUMMY_316">false</string>
   <string name="APKTOOL_DUMMY_317">false</string>
@@ -252,6 +245,13 @@
   <string name="APKTOOL_DUMMY_407">false</string>
   <string name="APKTOOL_DUMMY_408">false</string>
   <string name="APKTOOL_DUMMY_409">false</string>
+  <string name="APKTOOL_DUMMY_40a">false</string>
+  <string name="APKTOOL_DUMMY_40b">false</string>
+  <string name="APKTOOL_DUMMY_40c">false</string>
+  <string name="APKTOOL_DUMMY_40d">false</string>
+  <string name="APKTOOL_DUMMY_40e">false</string>
+  <string name="APKTOOL_DUMMY_40f">false</string>
+  <string name="APKTOOL_DUMMY_410">false</string>
   <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
@@ -370,6 +370,7 @@
   <string name="copy_failed">"Couldn't copy"</string>
   <string name="copy_text">Copy text</string>
   <string name="copy_to">Copy to…</string>
+  <string name="count_down">Countdown: %1$s</string>
   <string name="create_shortcut_success">Added shortcut successfully</string>
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">"Don't show again"</string>
@@ -392,6 +393,7 @@
   <string name="decrypt_error">"Couldn't decrypt"</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Decrypting…</string>
+  <string name="default_prize_text">That goes right into my treasury!</string>
   <string name="delete_dialog_button">Delete</string>
   <string name="delete_error">"Couldn't delete files, try again"</string>
   <string name="delete_file">Delete this file?</string>
@@ -472,6 +474,7 @@
   <string name="ftp_transfer_secure">Security</string>
   <string name="ftp_username_and_passworld">Sign in</string>
   <string name="ftp_username_hint">Username</string>
+  <string name="full_gems">Exchange your gems</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"Couldn't get info about this person"</string>
@@ -613,6 +616,8 @@
   <string name="one_account_bind_needed">Add at least one account</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
   <string name="open_app">Open</string>
+  <string name="open_chest">Open to get a gift</string>
+  <string name="open_chest_failed">"Couldn't open, check your network settings and try again"</string>
   <string name="open_private_folder">Release to view hidden folders</string>
   <string name="operation_add_fav">Adding to favorites…</string>
   <string name="operation_cancel">Cancel</string>
@@ -704,6 +709,8 @@
   <string name="private_folder_update">Updating hidden files…</string>
   <string name="private_toast_hint2">To hide a file, press and hold it, then add it to a hidden folder.</string>
   <string name="private_toast_hint3">Pull down to view hidden folders</string>
+  <string name="prize_result_tip">Exchange</string>
+  <string name="prize_result_tip2">Gems go to your treasury</string>
   <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>

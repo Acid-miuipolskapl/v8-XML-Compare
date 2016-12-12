@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_66f">false</string>
-  <string name="APKTOOL_DUMMY_670">false</string>
   <string name="APKTOOL_DUMMY_671">false</string>
   <string name="APKTOOL_DUMMY_672">false</string>
   <string name="APKTOOL_DUMMY_673">false</string>
@@ -119,9 +117,9 @@
   <string name="APKTOOL_DUMMY_6e3">false</string>
   <string name="APKTOOL_DUMMY_6e4">false</string>
   <string name="APKTOOL_DUMMY_6e5">false</string>
-  <string name="APKTOOL_DUMMY_751">false</string>
-  <string name="APKTOOL_DUMMY_765">false</string>
-  <string name="APKTOOL_DUMMY_766">false</string>
+  <string name="APKTOOL_DUMMY_6e6">false</string>
+  <string name="APKTOOL_DUMMY_6e7">false</string>
+  <string name="APKTOOL_DUMMY_753">false</string>
   <string name="APKTOOL_DUMMY_767">false</string>
   <string name="APKTOOL_DUMMY_768">false</string>
   <string name="APKTOOL_DUMMY_769">false</string>
@@ -278,6 +276,8 @@
   <string name="APKTOOL_DUMMY_800">false</string>
   <string name="APKTOOL_DUMMY_801">false</string>
   <string name="APKTOOL_DUMMY_802">false</string>
+  <string name="APKTOOL_DUMMY_803">false</string>
+  <string name="APKTOOL_DUMMY_804">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -462,7 +462,7 @@ or enter App lock password"</string>
   <string name="auto_task_operation_lockscreen_time">Lock screen</string>
   <string name="auto_task_operation_memory_clean_lockscreen">Clear memory</string>
   <string name="auto_task_operation_mobile_data">Mobile data</string>
-  <string name="auto_task_operation_modify_string">Edit%s</string>
+  <string name="auto_task_operation_modify_string">Edit %s</string>
   <string name="auto_task_operation_mute">Silent mode</string>
   <string name="auto_task_operation_no_op">"Don't select this action"</string>
   <string name="auto_task_operation_open">On</string>
@@ -1581,6 +1581,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
   <string name="sim_location_error_notify_title">SIM card error</string>
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
+  <string name="skin_change_close_btn_text">Set as default background</string>
+  <string name="skin_change_close_toast">Changes will be applied next time you launch Security</string>
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
   <string name="sp_back_title_text_zero">Secure</string>

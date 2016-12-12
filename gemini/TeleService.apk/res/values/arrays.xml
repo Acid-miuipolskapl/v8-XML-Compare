@@ -296,16 +296,6 @@
         <item>50%</item>
         <item>100%</item>
     </string-array>
-    <string-array name="use_range_entries">
-        <item>@string/whole_calls</item>
-        <item>@string/domestic_calls</item>
-        <item>@string/international_calls</item>
-    </string-array>
-    <string-array name="use_range_entry_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -617,10 +607,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_7ae</item>
-        <item>@string/APKTOOL_DUMMY_7ac</item>
-        <item>@string/APKTOOL_DUMMY_7ad</item>
-        <item>@string/APKTOOL_DUMMY_7af</item>
+        <item>@string/APKTOOL_DUMMY_6e5</item>
+        <item>@string/APKTOOL_DUMMY_6e3</item>
+        <item>@string/APKTOOL_DUMMY_6e4</item>
+        <item>@string/APKTOOL_DUMMY_6e6</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -835,6 +825,6 @@
         <item>17</item>
         <item>9</item>
     </integer-array>
+    <item type="array" name="APKTOOL_DUMMY_78">false</item>
     <item type="array" name="APKTOOL_DUMMY_7a">false</item>
-    <item type="array" name="APKTOOL_DUMMY_7c">false</item>
 </resources>

@@ -284,6 +284,18 @@
         <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> followers</item>
         <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> follower</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_28">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_29">false</item>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s likes</item>
+        <item quantity="one">%1$s like</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s gems</item>
+        <item quantity="one">%1$s gem</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gems to participate in lucky draw</item>
+        <item quantity="one">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gem to participate in lucky draw</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2c">false</item>
 </resources>
