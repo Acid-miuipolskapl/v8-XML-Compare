@@ -460,9 +460,10 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="block_list_connected_devices">Connected devices</string>
   <string name="block_list_diaglog_cancle">Cancel</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_dialog_title">Disconnect now?</string>
+  <string name="block_list_mtk_dialog_content">This action will disconnect “%s” from this device</string>
   <string name="block_list_no_device">No connected devices in blocklist</string>
+  <string name="block_list_qcom_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
   <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
   <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>

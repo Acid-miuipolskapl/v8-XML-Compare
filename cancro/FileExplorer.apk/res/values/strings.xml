@@ -471,6 +471,7 @@
   <string name="recommend_user">Recommended profiles</string>
   <string name="remote_video_report_success">"Thank you for your feedback! We'll follow up as soon as possible."</string>
   <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
+  <string name="rename_alert2">The file will be hidden.</string>
   <string name="rename_failed">"Can't rename %1$s"</string>
   <string name="repair_done">Restored</string>
   <string name="repair_error">"Couldn't restore"</string>

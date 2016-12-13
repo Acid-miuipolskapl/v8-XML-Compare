@@ -144,6 +144,9 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="disable_notification_summary">Never show notifications from selected apps</string>
   <string name="disable_notification_title">Hide notifications</string>
   <string name="dismount_storage">No</string>
+  <string name="divider_menu_close">close</string>
+  <string name="divider_menu_select_apps">select</string>
+  <string name="divider_menu_swap_task">swap</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
@@ -205,8 +208,10 @@ Use only the supplied charger."</string>
   <string name="nav_guide_ok">Set up</string>
   <string name="nav_guide_title">Hide soft buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">No app support multi window</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>
+  <string name="not_support_multi_window">"Current app doesn't support multi window"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_manager">Manage notifications</string>
