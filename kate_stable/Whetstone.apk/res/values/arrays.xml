@@ -8,7 +8,6 @@
         <item>com.miui.klorobotrelease/.service.FeedbackBackgroundService</item>
         <item>com.miui.klo.bugreport/.service.FeedbackBackgroundService</item>
         <item>com.miui.whetstone/.net.MiuiDnsService</item>
-        <item>com.miui.voip/.service.RemoteMiuiVoipService</item>
         <item>com.miui.systemAdSolution/.splashscreen.SplashScreenService</item>
         <item>com.xiaomi.metok/.MetokClService</item>
         <item>com.miui.sysbase/.MetokClService</item>
@@ -18,7 +17,6 @@
     </string-array>
     <string-array name="restart_persist_service">
         <item>com.miui.powerkeeper</item>
-        <item>com.miui.voip</item>
     </string-array>
     <string-array name="service_black_list">
         <item>com.igexin.sdk.PushService</item>
@@ -64,6 +62,9 @@
         <item>com.qualcomm.qcrilmsgtunnel</item>
         <item>com.qualcomm.uimremoteclient</item>
         <item>com.android.vpndialogs</item>
+        <item>com.qti.service.colorservice</item>
+        <item>com.qti.snapdragon.sdk.display</item>
+        <item>com.xiaomi.bluetooth</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>

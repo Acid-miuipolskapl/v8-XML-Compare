@@ -148,8 +148,6 @@
   <string name="edit_phrase">Edit quick responses</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
-  <string name="enable_password_protect">Require password</string>
-  <string name="enable_visible_pattern_title">Make pattern visible</string>
   <string name="english_subject_limit">40 character limit</string>
   <string name="enter_edit_mode">Edit messages</string>
   <string name="error_code_label">"Error code: "</string>
@@ -207,6 +205,7 @@
   <string name="hms_add_image_progress_message">Working…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a Wi-Fi network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
+  <string name="hold_to_talk">Hold to talk</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
@@ -217,7 +216,6 @@
   <string name="invalid_recipient_message">"Correct the recipients or they won't receive the message."</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slideshow layout "</string>
-  <string name="left_cancel">Swipe left to cancel</string>
   <string name="loading_all_messages">Just a sec…</string>
   <string name="loading_conversations">Just a sec…</string>
   <string name="loading_mms">Just a sec…</string>
@@ -351,6 +349,7 @@
   <string name="no">Cancel</string>
   <string name="no_block_button_msg">Unblock</string>
   <string name="no_conversations">No conversations</string>
+  <string name="no_delivery_report">No delivery report</string>
   <string name="no_subject">(No subject)</string>
   <string name="no_subject_view">(No subject)</string>
   <string name="non_english_subject_limit">13 character limit</string>
@@ -360,6 +359,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">New messages</string>
   <string name="number_add_hint">Enter phone number</string>
+  <string name="open_audio_record_panel">Open audio record panel</string>
   <string name="open_url_with_web">Open this URL in Browser?</string>
   <string name="over_max_mms_size">MMS is too big.</string>
   <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
@@ -389,6 +389,7 @@
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
   <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+  <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
@@ -436,7 +437,6 @@
   <string name="pref_title_wake_up_screen">Wake screen</string>
   <string name="preferences_title">Settings</string>
   <string name="prepare_send">Preparing to send…</string>
-  <string name="press_recording">Press &amp; hold the Mic icon to record</string>
   <string name="preview">Preview</string>
   <string name="preview_slideshow">Preview</string>
   <string name="priority_high">High</string>
@@ -444,6 +444,14 @@
   <string name="priority_low">Low</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">"Can't send messages in Guest mode"</string>
+  <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
+  <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
+  <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
+  <string name="privacy_password_set_password">Set</string>
+  <string name="privacy_password_title1">Set password</string>
+  <string name="privacy_password_title2">Use Privacy protection password</string>
+  <string name="privacy_password_title3">Upgrade your password</string>
+  <string name="privacy_password_title4">Password upgraded</string>
   <string name="private_message">Private messaging</string>
   <string name="private_new_notification">Message notifications</string>
   <string name="private_protect">Passwords</string>
@@ -492,7 +500,7 @@
   <string name="search">Messaging</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messaging</string>
-  <string name="search_keyword_mms">Messaging</string>
+  <string name="search_keyword_mms">Messaging;SMS;MMS;Text;Texting;Message;Messages</string>
   <string name="search_label">Messaging</string>
   <string name="search_path_mms">Settings/System apps/Messaging</string>
   <string name="search_setting_description">Text in your messages</string>
@@ -508,7 +516,7 @@
   <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>
-  <string name="select_copy_text">select and copy message text</string>
+  <string name="select_copy_text">Select and copy message text</string>
   <string name="select_different_media">Choose a different %1$s.</string>
   <string name="select_link_title">Choose action</string>
   <string name="select_local_audio">Select audio</string>
@@ -537,6 +545,7 @@
   <string name="set">Set</string>
   <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
+  <string name="show_delivery_status">Show delivery status</string>
   <string name="show_sender">Show sender info</string>
   <string name="sim_card1">SIM card 1</string>
   <string name="sim_card2">SIM card 2</string>
@@ -550,6 +559,7 @@
   <string name="sim_view">View</string>
   <string name="slide_number">Slide %s</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
+  <string name="slide_up_to_cancel">Slide up to cancel</string>
   <string name="slideshow_activity">Slideshow</string>
   <string name="sms_card_partner_label">"SMS card partner: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -647,7 +657,7 @@ Attempt made: %s."</string>
   <string name="user_agreement2">Terms of Service</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
-  <string name="user_agreement5">By touching OK, you agree to our Terms of Service and Privacy Policy.</string>
+  <string name="user_agreement5">By tapping OK, you agree to our Terms of Service and Privacy Policy.</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>

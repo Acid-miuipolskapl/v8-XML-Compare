@@ -23,6 +23,8 @@
   <string name="android_common_name_suffixes">@android:string/common_name_suffixes</string>
   <string name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</string>
   <string name="android_force_close">@android:string/force_close</string>
+  <string name="android_forward_intent_to_owner">@android:string/forward_intent_to_owner</string>
+  <string name="android_forward_intent_to_work">@android:string/forward_intent_to_work</string>
   <string name="android_gigabyteShort">@android:string/gigabyteShort</string>
   <string name="android_kilobyteShort">@android:string/kilobyteShort</string>
   <string name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</string>
@@ -51,7 +53,15 @@
   <string name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</string>
   <string name="android_wait">@android:string/wait</string>
   <string name="android_whichApplication">@android:string/whichApplication</string>
+  <string name="android_whichApplicationNamed">@android:string/whichApplicationNamed</string>
+  <string name="android_whichEditApplication">@android:string/whichEditApplication</string>
+  <string name="android_whichEditApplicationNamed">@android:string/whichEditApplicationNamed</string>
   <string name="android_whichHomeApplication">@android:string/whichHomeApplication</string>
+  <string name="android_whichHomeApplicationNamed">@android:string/whichHomeApplicationNamed</string>
+  <string name="android_whichSendApplication">@android:string/whichSendApplication</string>
+  <string name="android_whichSendApplicationNamed">@android:string/whichSendApplicationNamed</string>
+  <string name="android_whichViewApplication">@android:string/whichViewApplication</string>
+  <string name="android_whichViewApplicationNamed">@android:string/whichViewApplicationNamed</string>
   <string name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</string>
   <string name="android_wireless_display_route_description">@android:string/wireless_display_route_description</string>
   <string name="apply_password_action">OK</string>
@@ -64,6 +74,7 @@
   <string name="auto_disable_screenbuttons_prompts_not_show_again">"Don't show again"</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
   <string name="auto_disable_screenbuttons_prompts_title">Disable navigation buttons?</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tap again to exit</string>
   <string name="auto_start_warning_allow">Allow</string>
   <string name="auto_start_warning_deny">Deny</string>
   <string name="auto_start_warning_title">Allow %s to start automatically?</string>
@@ -129,10 +140,15 @@
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Back and Volume up buttons simultaneously.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">To turn this feature off, press the Volume up button.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the orange area of the screen"</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_paper_mode_enter_toast">Reading mode is on. To turn this feature off, go to Settings &gt; Display &gt; Reading mode.</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
+  <string name="screenshot_gesture_detect_alert_button">Turn on in the Settings</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">"Don't show again"</string>
+  <string name="screenshot_gesture_detect_alert_msg">Swipe down with three fingers to take a screenshot?</string>
+  <string name="screenshot_gesture_detect_alert_title">Three-finger screenshot</string>
   <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
   <string name="securespaces_extension_accelerometer_serviceName"/>
   <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
@@ -167,6 +183,7 @@
   <string name="status_bar_toggle_cast">Cast</string>
   <string name="status_bar_toggle_data">Mobile data</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
+  <string name="status_bar_toggle_edit">More</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>
