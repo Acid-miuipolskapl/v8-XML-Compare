@@ -419,6 +419,27 @@
         <item>com.securespaces.android.settings</item>
         <item>com.securespaces.android.agent</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Reserved0</item>
+        <item>Reserved1</item>
+        <item>Place your finger on the sensor</item>
+        <item>Place your finger completely over sensor</item>
+        <item>Lift finger1 and cover sensor firmly and completely</item>
+        <item>Lift finger2 and cover sensor firmly and completely</item>
+        <item>Reserved6</item>
+        <item>Reserved7</item>
+        <item>Reserved8</item>
+        <item>Reserved9</item>
+        <item>Reserved10</item>
+        <item>Reserved11</item>
+        <item>Reserved12</item>
+        <item>Place your finger3 straight on the sensor</item>
+        <item>Move your finger4 slightly between scans</item>
+        <item>Lift your finger5</item>
+        <item>Hold your finger6 on the sensor longer</item>
+        <item>Reserved17</item>
+        <item>Reserved18</item>
+    </string-array>
     <string-array name="app_ops_labels">
         <item>Trying to access location</item>
         <item>Trying to access location</item>

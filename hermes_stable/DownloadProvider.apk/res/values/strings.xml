@@ -37,6 +37,9 @@
   <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>
   <string name="notification_paused_in_background">Paused in background.</string>
   <string name="notify_disabled_net_by_app">Internet connection restricted by Security app</string>
+  <string name="notify_install_guide_forward_text">Open</string>
+  <string name="notify_install_guide_msg">Installed successfully</string>
+  <string name="notify_install_guide_title">Installed %s successfully</string>
   <string name="notify_only_wifi_download">Waiting for Wi-Fi</string>
   <string name="paused_waiting_for_network">Waiting for network</string>
   <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system.</string>
