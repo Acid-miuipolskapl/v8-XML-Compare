@@ -2358,6 +2358,11 @@ Select your operating system:"</string>
   <string name="open_anr_debug">Turn on ANR debugging</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Close</string>
+  <string name="open_personal_assistant_dialog_desc">"You won't be able to use Smart assistant and receive its updates. Turn off now?"</string>
+  <string name="open_personal_assistant_dialog_title">Turn off Smart assistant</string>
+  <string name="open_personal_assistant_title">Turn on Smart assistant</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">This work profile is managed by:</string>
