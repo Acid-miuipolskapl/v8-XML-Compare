@@ -1,9 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_267">false</string>
-  <string name="APKTOOL_DUMMY_268">false</string>
-  <string name="APKTOOL_DUMMY_269">false</string>
-  <string name="APKTOOL_DUMMY_26a">false</string>
+  <string name="APKTOOL_DUMMY_27b">false</string>
+  <string name="APKTOOL_DUMMY_27c">false</string>
+  <string name="APKTOOL_DUMMY_27d">false</string>
+  <string name="APKTOOL_DUMMY_27e">false</string>
+  <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
+  <string name="accessibility_action_divider_left_30">Left 30%</string>
+  <string name="accessibility_action_divider_left_50">Left 50%</string>
+  <string name="accessibility_action_divider_left_70">Left 70%</string>
+  <string name="accessibility_action_divider_left_full">Left full screen</string>
+  <string name="accessibility_action_divider_right_full">Right full screen</string>
+  <string name="accessibility_action_divider_top_30">Top 30%</string>
+  <string name="accessibility_action_divider_top_50">Top 50%</string>
+  <string name="accessibility_action_divider_top_70">Top 70%</string>
+  <string name="accessibility_action_divider_top_full">Top full screen</string>
   <string name="accessibility_airplane_mode">Airplane mode.</string>
   <string name="accessibility_assistant">Quick ball</string>
   <string name="accessibility_back">Back</string>
@@ -26,6 +36,7 @@
   <string name="accessibility_data_two_bars">Data two bars.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
   <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
+  <string name="accessibility_divider">Split-screen divider</string>
   <string name="accessibility_home">Home</string>
   <string name="accessibility_ime_switch_button">Switch input method button.</string>
   <string name="accessibility_managed_profile">Work profile</string>
@@ -40,6 +51,7 @@
   <string name="accessibility_phone_three_bars">Phone three bars.</string>
   <string name="accessibility_phone_two_bars">Phone two bars.</string>
   <string name="accessibility_recent">Recent apps</string>
+  <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Clear notification.</string>
   <string name="accessibility_ringer_silent">Ringer silent.</string>
   <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
@@ -222,10 +234,15 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="disabled_by_admin">Disabled by administrator</string>
   <string name="disabled_by_admin_summary_text">Controlled by admin</string>
   <string name="dismount_storage">No</string>
+  <string name="divider_menu_close">Close</string>
+  <string name="divider_menu_select_apps">Select</string>
+  <string name="divider_menu_swap_task">Swap</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
   <string name="dlg_ok">OK</string>
+  <string name="dock_forced_resizable">App may not work with split-screen.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen.</string>
   <string name="drive_mode_tip">"You're in Car mode"</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
@@ -331,8 +348,10 @@ Use only the supplied charger."</string>
   <string name="nav_guide_title">Hide soft buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Nothing</string>
+  <string name="no_multi_window_app">No apps which can work in split-screen mode</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>
+  <string name="not_support_multi_window">"Current app doesn't support split-screen mode"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_manager">Manage notifications</string>
@@ -396,6 +415,7 @@ Use only the supplied charger."</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_lock_text">Lock</string>
   <string name="recent_task_unlock_text">Unlock</string>
+  <string name="recents_launch_error_message">Could not start %s.</string>
   <string name="reject_call">Rejecting call</string>
   <string name="remaining_length_format">%1$s left</string>
   <string name="return_to_incall_screen">Return to call</string>

@@ -48,10 +48,10 @@
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="change_wallpaper">Change</string>
-  <string name="children_folder_title">Kids</string>
+  <string name="children_folder_title">Child mode</string>
   <string name="children_mode_exit">Exit</string>
-  <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
-  <string name="children_mode_tips_title">Please select application</string>
+  <string name="children_mode_tips_message">No apps in Child mode now. Select the apps you want to add.</string>
+  <string name="children_mode_tips_title">Select apps</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose a new wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>

@@ -1254,12 +1254,14 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
-        <item>Quick snap mode (select in Camera)</item>
+        <item>Quick snap mode (photo)</item>
+        <item>Quick snap mode (video)</item>
         <item>Public transportation shortcuts</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
+        <item>none</item>
+        <item>Street-snap-picture</item>
+        <item>Street-snap-movie</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">

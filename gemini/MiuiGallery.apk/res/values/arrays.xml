@@ -31,7 +31,7 @@
         <item>Colleagues</item>
         <item>Classmates</item>
         <item>Friends</item>
-        <item>Unknown</item>
+        <item>Ungrouped</item>
     </string-array>
     <string-array name="relation_with_me_value">
         <item>myself</item>

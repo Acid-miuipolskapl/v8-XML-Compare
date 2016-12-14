@@ -1787,6 +1787,9 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="taking_remote_bugreport_notification_title">Taking bug report…</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Tap to set up.</string>
+  <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
+  <string name="tethered_notification_no_device_message">No connected device</string>
+  <string name="tethered_notification_one_device_message">%1$s connected device</string>
   <string name="tethered_notification_title">Tethering or hotspot active</string>
   <string name="textSelectionCABTitle">Text selection</string>
   <string name="text_copied">Text copied to clipboard.</string>
