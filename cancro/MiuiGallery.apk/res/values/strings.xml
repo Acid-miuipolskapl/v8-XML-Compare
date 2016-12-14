@@ -148,7 +148,7 @@
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="change_to_face_mode">Show face only</string>
-  <string name="change_to_photo_mode">Sort by albums</string>
+  <string name="change_to_photo_mode">Show full previews</string>
   <string name="choose_baby_sexy">Gender</string>
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>

@@ -3610,6 +3610,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings">Notifications &amp; status bar</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
+  <string name="status_bar_settings_app_notification_preferences">App Settings</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>

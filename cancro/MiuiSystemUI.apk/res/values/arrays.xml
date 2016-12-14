@@ -154,6 +154,8 @@
         <item>com.miui.milivetalk</item>
         <item>com.android.phone</item>
         <item>com.miui.cloudbackup</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.android.cts.app.stub</item>
     </string-array>
     <string-array name="carrier_name">
         <item>SmarToneVodafone</item>
