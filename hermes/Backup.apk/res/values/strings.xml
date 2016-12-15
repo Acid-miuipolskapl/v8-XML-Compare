@@ -157,9 +157,9 @@
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
   <string name="notif_trans_receiving_completed">Data received successfully</string>
-  <string name="notif_trans_receiving_failed">Data received failed</string>
+  <string name="notif_trans_receiving_failed">"Couldn't receive data"</string>
   <string name="notif_trans_sending_completed">Data sent successfully</string>
-  <string name="notif_trans_sending_failed">Data sent failed</string>
+  <string name="notif_trans_sending_failed">"Couldn't send data"</string>
   <string name="page_loading">Just a sec…</string>
   <string name="progress_backup_hint">Backing up…</string>
   <string name="progress_restore_hint">Restoring…</string>

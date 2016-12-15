@@ -8,13 +8,13 @@
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR switch button</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
-  <string name="accessibility_peak">Focus Peak button</string>
+  <string name="accessibility_peak">Focus peak button</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Additional settings button</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
-  <string name="accessibility_stereo_button">Dual Camera Mode</string>
+  <string name="accessibility_stereo_button">Dual camera mode</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
@@ -364,8 +364,8 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
   <string name="pref_camera_snap_enable_title">Quick snap mode</string>
   <string name="pref_camera_snap_entry_off">Off</string>
-  <string name="pref_camera_snap_entry_take_movie">Hold Volume down to record video. Release to stop.</string>
-  <string name="pref_camera_snap_entry_take_picture">Hold Volume down to burst shoot photos. Release to stop.</string>
+  <string name="pref_camera_snap_entry_take_movie">Quick snap mode (video)</string>
+  <string name="pref_camera_snap_entry_take_picture">Quick snap mode (photo)</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Wake with Volume buttons\" is on."</string>
   <string name="pref_camera_snap_value_off">Off</string>
   <string name="pref_camera_snap_value_take_movie">Movie</string>
@@ -505,7 +505,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="preparing_sd">Checking SD card…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
-  <string name="see_qrcode_detals">View QR details</string>
+  <string name="see_qrcode_detals">View QR code details</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Turn off HDR capture</string>
   <string name="simple_mode_button_text_audio_capture">Turn off voice trigger</string>

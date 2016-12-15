@@ -498,8 +498,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notification_recommend_title">Important notifications</string>
   <string name="notification_setting">Notification settings</string>
   <string name="notification_title_no_song">"Check out what everyone's listening to!"</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Remove from playlist？</string>
-  <string name="nowplaying_menu_item_delete">Remove</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Clear current playlist?</string>
+  <string name="nowplaying_menu_item_delete">Clear</string>
   <string name="ok">OK</string>
   <string name="one_month">1 month</string>
   <string name="online_bill">Charts</string>
