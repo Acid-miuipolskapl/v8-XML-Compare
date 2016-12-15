@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="use_range_entries">
-        <item>@string/whole_calls</item>
-        <item>@string/domestic_calls</item>
-        <item>@string/international_calls</item>
-    </string-array>
-    <string-array name="use_range_entry_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -99,10 +89,10 @@
         <item>2</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_060c</item>
-        <item>@string/APKTOOL_DUMMY_060a</item>
-        <item>@string/APKTOOL_DUMMY_060b</item>
-        <item>@string/APKTOOL_DUMMY_060d</item>
+        <item>@string/APKTOOL_DUMMY_0560</item>
+        <item>@string/APKTOOL_DUMMY_055e</item>
+        <item>@string/APKTOOL_DUMMY_055f</item>
+        <item>@string/APKTOOL_DUMMY_0561</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>

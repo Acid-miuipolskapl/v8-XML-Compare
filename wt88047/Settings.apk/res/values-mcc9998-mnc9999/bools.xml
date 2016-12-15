@@ -2,5 +2,5 @@
 <resources>
     <bool name="has_translation_contributors">true</bool>
     <bool name="APKTOOL_DUMMY_0007">false</bool>
-    <bool name="APKTOOL_DUMMY_000f">false</bool>
+    <bool name="APKTOOL_DUMMY_0010">false</bool>
 </resources>
