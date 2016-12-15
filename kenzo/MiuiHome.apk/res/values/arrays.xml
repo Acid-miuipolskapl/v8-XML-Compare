@@ -108,7 +108,7 @@
         <item>Widgets</item>
         <item>Wallpaper</item>
         <item>Effects</item>
-        <item>Screen cells</item>
+        <item>Layout</item>
     </string-array>
     <string-array name="editing_mode_values">
         <item>0</item>
