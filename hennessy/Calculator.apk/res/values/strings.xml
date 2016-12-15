@@ -386,7 +386,7 @@
   <string name="unit_data_short_volume_cu.mm">mm³</string>
   <string name="unit_data_short_volume_cu.um">μm³</string>
   <string name="unit_data_short_volume_cu.yd">yd³</string>
-  <string name="unit_data_short_volume_hl">hl³</string>
+  <string name="unit_data_short_volume_hl">hl</string>
   <string name="unit_data_short_weight_dan">dan</string>
   <string name="unit_data_short_weight_jin">jin</string>
   <string name="unit_data_short_weight_liang">liang</string>
