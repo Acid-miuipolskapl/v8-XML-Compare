@@ -5,18 +5,9 @@
   <string name="actionBarCBVoice">Voice call barring (%s)</string>
   <string name="actionBarCFVideo">Video call forwarding (%s)</string>
   <string name="actionBarCFVoice">Voice call forwarding (%s)</string>
-  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
-  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
-  <string name="active_phone_sim_absent">Insert SIM card now</string>
-  <string name="active_phone_success_nochoice">SIM card verified</string>
-  <string name="active_phone_success_toast">SIM card %1$s verified</string>
-  <string name="activing_simcard">Verifying SIM %1$d</string>
-  <string name="activing_simcard_alone">Verifying SIM</string>
   <string name="add">Add</string>
-  <string name="add_by_input">Add by input</string>
   <string name="add_ecc_number">Add emergency number</string>
   <string name="add_fdn_contact">Add fixed dialing number</string>
-  <string name="add_from_contacts">Add from contacts</string>
   <string name="add_sip_account">Add account</string>
   <string name="add_vm_number_str">Add number</string>
   <string name="adding_fdn_contact">Adding fixed dialing number…</string>
@@ -31,7 +22,6 @@
   <string name="advanced_settings_show">▷ Touch to show all</string>
   <string name="advertisements_disable">Advertisements disabled</string>
   <string name="advertisements_enable">Advertisements enabled</string>
-  <string name="agree_provision">Agree and continue</string>
   <string name="alert_dialog_close">Close the profile</string>
   <string name="alert_dialog_dismiss">Dismiss</string>
   <string name="alert_dialog_in_ecm_call">"The selected action isn't available while in an emergency call."</string>
@@ -50,9 +40,6 @@
   <string name="antispam_notification_title">Unknown number</string>
   <string name="antispam_setting">Blocklist</string>
   <string name="apn_settings">Access Point Names</string>
-  <string name="area_code_preference_be_set_summary">Current location: %s</string>
-  <string name="area_code_preference_summary">Auto dial area code</string>
-  <string name="areacode_set_default">Default</string>
   <string name="atr_disable">Area Traffic Reports disabled</string>
   <string name="atr_enable">Area Traffic Reports enabled</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -226,7 +213,6 @@
   <string name="caller_id_title">Caller ID</string>
   <string name="calling_via_template">Calling via %s</string>
   <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
-  <string name="can_not_call_self">"Can't dial own number"</string>
   <string name="can_not_switch_enhanced_4g_lte_mode_tips">The switch is temporarily unavailable. Please try again later.</string>
   <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
   <string name="cancel">Cancel</string>
@@ -302,8 +288,6 @@
   <string name="change_password">Change barring password</string>
   <string name="change_pin">Change SIM PIN</string>
   <string name="change_pin2">Change PIN2</string>
-  <string name="chose_product_summary">Call cheaper</string>
-  <string name="chose_product_title">Top-up package</string>
   <string name="clir_choices_hide_number">Hide number</string>
   <string name="clir_choices_network_default">Network default</string>
   <string name="clir_choices_show_number">Show number</string>
@@ -312,8 +296,6 @@
   <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="cmcc_ut_data_enable_prompt">This service requires mobile data connection. Turn it on to continue.</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
-  <string name="common_problem_message">Learn more in %1$s, or call our customer service at 400-100-5678</string>
-  <string name="common_setting">General settings</string>
   <string name="config_default_data_sim">Settings</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">false</string>
@@ -337,13 +319,9 @@
   <string name="contactUpdateSuccess">Updated contact on SIM.</string>
   <string name="contactdeleteFailed">"Can't delete contact from SIM."</string>
   <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
-  <string name="creat_account_error">"Could't create account. Try again?"</string>
-  <string name="creating_account">Creating account…</string>
   <string name="data_enable_summary">Allow this device to use mobile data</string>
   <string name="data_enabled">Mobile data</string>
   <string name="deactivate_all">Cancel all</string>
-  <string name="default_area_code_setting">Default area code</string>
-  <string name="default_areacode">Default area code</string>
   <string name="default_call_switch_err_msg1">Can not switch preferred SIM for calls during the call.</string>
   <string name="default_notification_description">Default sound (%1$s)</string>
   <string name="default_port">5060</string>
@@ -375,12 +353,7 @@
   <string name="dial_related_setting_catory">Dialer</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
-  <string name="dialog_activate_livetalk">Verify</string>
-  <string name="dialog_call_ordinary_telephone">Use SIM</string>
   <string name="dialog_network_priority_title">Priority network</string>
-  <string name="dialog_no">No</string>
-  <string name="dialog_purchase">Top up</string>
-  <string name="dialog_yes">Yes</string>
   <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_1_labels"/>
@@ -437,10 +410,8 @@
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Same as username&gt;</string>
   <string name="display_name_title">Display name</string>
-  <string name="do_not_ask">"Don't ask again"</string>
   <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
-  <string name="domestic_calls">Only domestic</string>
   <string name="doneButton">Done</string>
   <string name="dtmf_tone_entries_long">Long</string>
   <string name="dtmf_tone_entries_normal">Normal</string>
@@ -509,7 +480,6 @@
   <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE services to improve voice and other communications (recommended)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
-  <string name="ensure_info">Yes</string>
   <string name="enter_callbarring_password">Enter call barring password (4 digits)</string>
   <string name="enter_input" formatted="false">USSD message must be between %d and %d characters. Please try again.</string>
   <string name="enter_ip_prefix_number">Enter prefix number</string>
@@ -519,12 +489,6 @@
   <string name="eo_disable">Employment Opportunities disabled</string>
   <string name="eo_enable">Employment Opportunities enabled</string>
   <string name="error_title">Error</string>
-  <string name="error_type_account_201">Insufficient funds</string>
-  <string name="error_type_account_203">"The type of number you dialed isn't supported"</string>
-  <string name="error_type_account_208">"Can't complete call to this number"</string>
-  <string name="error_type_account_500">"Can't connect to mobile network"</string>
-  <string name="error_type_network">Network error</string>
-  <string name="error_type_unknown">Unknown error</string>
   <string name="error_updating_title">Call settings error</string>
   <string name="exception_error">Network or SIM card error.</string>
   <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
@@ -555,7 +519,6 @@
   <string name="fdn_puk_need_tips">PIN2 Blocked. Please change PIN2 and retry!</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
   <string name="fdn_with_label">Fixed Dialing Numbers (%s)</string>
-  <string name="feedback">Feedback</string>
   <string name="femtocell_point_list_title">Femtocells</string>
   <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
   <string name="flash_when_ring_title">Flash when ringing</string>
@@ -566,11 +529,8 @@ Switch to the new provider anyway?"</string>
   <string name="general_news_settings">General News</string>
   <string name="general_setting">Settings</string>
   <string name="get_pin2">Type PIN2</string>
-  <string name="get_product_list_failed">"Can't load list"</string>
-  <string name="get_purchase_history_failed">"Couldn't get purchase history"</string>
   <string name="get_smsc_address_error">"Can't connect to the network."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
-  <string name="get_use_history_failed">"Couldn't get history"</string>
   <string name="goPrivate">go private</string>
   <string name="go_to_virtual_sim_title">Virtual SIM</string>
   <string name="got_it">OK</string>
@@ -582,12 +542,9 @@ Switch to the new provider anyway?"</string>
   <string name="hac_mode_title">Hearing aids</string>
   <string name="handon_ringer_summary">"Reduce ringer volume for incoming call when phone is raised. This feature doesn't work when vibration for incoming calls is on."</string>
   <string name="handon_ringer_title">Quiet ringer when lifted</string>
-  <string name="help_view">Help</string>
-  <string name="home_screen_shortcut">Home screen shortcut</string>
   <string name="importAllSimEntries">Import all</string>
   <string name="importSimEntry">Import</string>
   <string name="importToFDNfromContacts">Import from contacts</string>
-  <string name="important_attention">Attention</string>
   <string name="importingSimContacts">Importing SIM contacts</string>
   <string name="in_search_femtocell_networks_wait_tip">Search...</string>
   <string name="incall_error_call_failed">"Can't call."</string>
@@ -607,11 +564,6 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_supp_service_unknown">Service not supported</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connect to a wireless network to make a call.</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
-  <string name="international_calls">Only international</string>
-  <string name="international_dial_complete_intention">Make international calls at lower rates</string>
-  <string name="international_dial_complete_no">Not now</string>
-  <string name="international_dial_complete_summary">International calls normally have higher rates. Use Top-up package to call cheaper.</string>
-  <string name="international_dial_complete_yes">Use Mi Voice</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
   <string name="international_roaming_setting">Data roaming</string>
@@ -673,67 +625,17 @@ Switch to the new provider anyway?"</string>
   <string name="lable_network_not_supported">"Network isn't supported"</string>
   <string name="lafs_disable">Local Airport Flight Schedules disabled</string>
   <string name="lafs_enable">Local Airport Flight Schedules enabled</string>
-  <string name="left_minutes">min</string>
   <string name="list_language_dtitle">Languages</string>
   <string name="list_language_summary">Select the news language</string>
   <string name="list_language_title">Language</string>
-  <string name="livetalk_activate">Activate top-up package</string>
-  <string name="livetalk_activate_number">Verify SIM card</string>
-  <string name="livetalk_activate_number_1">Verify SIM 1</string>
-  <string name="livetalk_activate_number_2">Verify SIM 2</string>
-  <string name="livetalk_activate_summary">An SMS will be sent to verify this service.</string>
-  <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
-  <string name="livetalk_before_provision">"I've read and accepted"</string>
-  <string name="livetalk_common_problem">FAQ</string>
-  <string name="livetalk_complete">Done</string>
-  <string name="livetalk_complete_domestic_phone">Make domestic calls using top-up package.</string>
-  <string name="livetalk_complete_international_phone">Make international calls using top-up package.</string>
-  <string name="livetalk_complete_introduction">Top-up package has been added to your Mi Account and will be used on your next call.</string>
-  <string name="livetalk_complete_name">Switch to top-up package</string>
-  <string name="livetalk_complete_title">Call to complete top-up</string>
-  <string name="livetalk_continue_button">Quickly Use</string>
-  <string name="livetalk_continue_button_creat_account">Creating account</string>
-  <string name="livetalk_creat_account_fialed">Account error</string>
-  <string name="livetalk_enable_switch">Use Top-up package</string>
-  <string name="livetalk_experience_button">Try now</string>
-  <string name="livetalk_introduction_text">International calls at great rates</string>
-  <string name="livetalk_last_step">Back</string>
-  <string name="livetalk_login_message">"Sign in with Mi Account
-to start using Top-up package"</string>
-  <string name="livetalk_name">Top-up package</string>
-  <string name="livetalk_network_confirm">OK</string>
-  <string name="livetalk_network_confirm_summary">Top-up package uses about 1KB of mobile data each time a call is connected.</string>
-  <string name="livetalk_network_unavailable">Network unavailable</string>
-  <string name="livetalk_next_step">Next</string>
-  <string name="livetalk_package_introduction_text">"Cheap calls to any phone
-Top up and start talking"</string>
-  <string name="livetalk_package_name">Top up balance</string>
-  <string name="livetalk_provider">Provided by %1$s</string>
-  <string name="livetalk_provision">Terms of Service</string>
-  <string name="livetalk_provision_content">You need to agree with %1$s to start using Top-up package. To use this service, you need to be connected to the internet. A regular SMS may be sent from your phone to activate the service. Agree?</string>
-  <string name="livetalk_provision_title">Provision</string>
-  <string name="livetalk_remain_minutes_title">Remaining call time</string>
   <string name="livetalk_setting">Top-up package</string>
-  <string name="livetalk_shortcut_title">Top-up package</string>
-  <string name="livetalk_terms_conditions">Terms and Conditions</string>
-  <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
-  <string name="livetalk_user_config_title">SIM Verification</string>
-  <string name="livetalk_welcome_description_text">"• Save 70% on your calling charges.
-• Call any phone in the world, there are no carrier restrictions.
-• Top up and start calling, there are no complicated settings."</string>
-  <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
-  <string name="livetalk_white_list_number_title">White list of without use Top-up package</string>
   <string name="load_networks_progress">Searching…</string>
-  <string name="loading">Just a sec…</string>
-  <string name="loading_order">Just a sec…</string>
-  <string name="loading_product">Just a sec…</string>
   <string name="local_disable">Local news disabled</string>
   <string name="local_enable">Local news enabled</string>
   <string name="local_weather_disable">Local Weather disabled</string>
   <string name="local_weather_enable">Local Weather enabled</string>
   <string name="lodgings_disable">Lodgings disabled</string>
   <string name="lodgings_enable">Lodgings enabled</string>
-  <string name="login_account_button_text">Sign in</string>
   <string name="lte_data_only_prompt">Cannot use this feature due to the 4G data only mode.Would you like to exit 4G data only mode?</string>
   <string name="lte_data_only_timeout">No 4G data only network available in your current location,Would you like to exit and search for other networks?</string>
   <string name="lte_only_dialog_button_no">No</string>
@@ -816,8 +718,6 @@ Top up and start talking"</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (recommended)</string>
   <string name="network_error_message">Error message</string>
-  <string name="network_error_message_livetalk">Try to make a regular call. It will be charged by the operator.</string>
-  <string name="network_error_title">Network error</string>
   <string name="network_forbidden">forbidden</string>
   <string name="network_global">Global</string>
   <string name="network_id">Network ID</string>
@@ -847,8 +747,6 @@ Using preferred network instead."</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
   <string name="network_type_4g">4G</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
-  <string name="network_unconnected_message_livetalk">Network error,Try to make a regular call. It will be charged by the operator.</string>
-  <string name="network_unconnected_title">Network error</string>
   <string name="network_unlock">Unlock</string>
   <string name="networks">Network operators</string>
   <string name="networks_title">Mobile networks</string>
@@ -857,30 +755,15 @@ Using preferred network instead."</string>
   <string name="new_password_label">New 4-digit password</string>
   <string name="new_pin2_label">New PIN2</string>
   <string name="new_pin_label">New PIN</string>
-  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can tryto make a regular call instead.</string>
-  <string name="no_balance_title">Insufficient funds</string>
   <string name="no_change">No changes were made.</string>
-  <string name="no_data">No data</string>
   <string name="no_ecc_number">No customized emergency call number.</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
-  <string name="no_more">No more</string>
-  <string name="no_number">No telephone number</string>
-  <string name="no_sim_card">Insert SIM card</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="no_voip">SIP calling not supported</string>
   <string name="no_wifi_available">You need to be connected to a WLAN network for SIP calls (use the Wireless &amp; Network settings).</string>
   <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
-  <string name="not_activate_sim_card_content">"Top-up package hasn't been verified for the SIM card you selected. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
-  <string name="not_activate_sim_card_content_title">"Phone number hasn't been verified"</string>
-  <string name="not_activate_sim_card_content_with_operator">"Top-up package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
-  <string name="not_sufficient_funds_content">Not enough funds remaining in your account. Try using your SIM to make this call instead. Your carrier will charge you for this call.</string>
-  <string name="not_sufficient_funds_content_title">Insufficient funds</string>
-  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
-  <string name="not_support_title">"Number isn't supported"</string>
-  <string name="not_supported_number_content">"Top-up package doesn't support service numbers. Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
-  <string name="not_supported_number_content_title">Not supported</string>
   <string name="not_voice_capable">Voice calling not supported</string>
   <string name="notification_network_selection_text">Selected network (%s) unavailable</string>
   <string name="notification_network_selection_title">No service</string>
@@ -913,24 +796,7 @@ Using preferred network instead."</string>
   <string name="onscreenSwapCallsText">Swap</string>
   <string name="onscreenVideoCallText">Video call</string>
   <string name="open_miui">Open</string>
-  <string name="operator_first">"Give priority to carrier's plan"</string>
-  <string name="operator_first_mins_hint">xx minutes</string>
-  <string name="operator_first_mins_none_summary">Top-up package first</string>
-  <string name="operator_first_mins_none_title">Operator package minutes all used</string>
-  <string name="operator_first_no_set">no value</string>
-  <string name="operator_first_set_failed">Fialed</string>
-  <string name="operator_first_sim_card_changed_summary">Reset operator package minutes</string>
-  <string name="operator_first_sim_card_changed_title">Sim Card Change</string>
-  <string name="operator_first_title">Operator first</string>
-  <string name="operator_mins_first">"Give priority to carrier's plan"</string>
-  <string name="operator_mins_first_close">Turn off</string>
-  <string name="operator_remain_mins">Operator package minutes</string>
-  <string name="operator_remain_mins_value">%1$s minutes</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
-  <string name="order_by_recent">Frequency</string>
-  <string name="order_id">Order ID: %1$s</string>
-  <string name="order_price">¥ %1$s</string>
-  <string name="order_time">%1$s min</string>
   <string name="ota_activate">Activate</string>
   <string name="ota_call_end">Back</string>
   <string name="ota_failure">"Couldn't program your phone"</string>
@@ -958,7 +824,6 @@ After pressing “Activate”, listen to the instructions provided to activate y
 You may need to find an area with better coverage (near a window, or outside). 
 
 Try again or call customer service for more options."</string>
-  <string name="other">Other</string>
   <string name="other_settings">Other call settings</string>
   <string name="other_settings_category">Other</string>
   <string name="overseas_roaming_setting">Data roaming</string>
@@ -1043,7 +908,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
   <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
-  <string name="please_enter_phone_number">Please enter phone number</string>
   <string name="plmn_list_setting_add_plmn">New PLMN</string>
   <string name="plmn_list_setting_title">Preferred networks</string>
   <string name="port">Port</string>
@@ -1095,7 +959,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Preferred network type</string>
   <string name="private_num">Private number</string>
-  <string name="product_reflash_button">Refresh…</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Outbound proxy address</string>
@@ -1110,18 +973,6 @@ Your phone will be locked automatically after another failed attempt"</string>
 Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_requested">Password incorrect. PIN now blocked. PUK requested.</string>
   <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
-  <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.
-- No conflicts with your current plan.
-- Top up and start calling.
-- There are no complicated settings."</string>
-  <string name="purchase_description_title">About</string>
-  <string name="purchase_limit">You reached the top up limit</string>
-  <string name="purchase_list">Purchase history</string>
-  <string name="purchase_notes">Note: It can be used for international calls. The amount paid for 1 min of the international call equals the amount for 6 min domestic.</string>
-  <string name="purchase_primary">Purchase</string>
-  <string name="purchase_summary">Save up to 70% on your calling charges</string>
-  <string name="query">Query</string>
-  <string name="quickly_verify">Verify</string>
   <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
   <string name="reading_settings">Reading settings…</string>
   <string name="regional_disable">Regional news disabled</string>
@@ -1145,10 +996,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="reject_via_sms">Quick responses</string>
   <string name="reject_via_sms_summary">Edit pre-written text messages</string>
   <string name="reject_via_sms_title">Quick responses</string>
-  <string name="remain_mins_divider">or</string>
-  <string name="remain_mins_domestic">Domestic</string>
-  <string name="remain_mins_international">International</string>
-  <string name="remain_mins_unit">min</string>
   <string name="remove">Remove</string>
   <string name="remove_sip_account">Remove account</string>
   <string name="removing_account">Removing the account…</string>
@@ -1225,7 +1072,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="send_button">Send</string>
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
-  <string name="send_order_failed">"Couldn't send order"</string>
   <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Used for outbound calls</string>
   <string name="set_primary_title">Set as primary account</string>
@@ -1233,19 +1079,12 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="set_smsc_address_timeout">Connection timed out</string>
   <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
   <string name="settings_label">Network settings</string>
-  <string name="sim1_activated">SIM card 1</string>
-  <string name="sim1_no_activated">"Couldn't verify SIM card 1"</string>
-  <string name="sim2_activated">, SIM card 2</string>
-  <string name="sim2_no_activated">"Couldn't verify SIM card 2"</string>
   <string name="simContacts_airplaneMode">Turn off airplane mode to import contacts from the SIM card.</string>
   <string name="simContacts_empty">No contacts on your SIM card.</string>
   <string name="simContacts_emptyLoading">Reading from SIM card…</string>
   <string name="simContacts_title">Select contacts to import</string>
   <string name="simFdnContacts_empty">No fixed dialing contacts.</string>
-  <string name="sim_activated">Verified</string>
-  <string name="sim_card_activate">SIM verification</string>
   <string name="sim_card_num">SIM %s</string>
-  <string name="sim_card_summary_no_sim_card">Please insert the SIM card</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_description_default">SIM card, slot: %s</string>
@@ -1253,12 +1092,10 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sim_label_emergency_calls">Emergency calls</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
   <string name="sim_ndp_unlock_text">Unlock</string>
-  <string name="sim_no_activated">"Couldn't verify SIM card"</string>
   <string name="sim_permanently_locked">Entering incorrect PUK2 code more than 10 times,SIM card has been permanently locked</string>
   <string name="sim_roaming_settings_summary">Connect to mobile data networks while roaming</string>
   <string name="sim_roaming_settings_title">Mi Roaming</string>
   <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
-  <string name="sim_useless">SIM unavailable</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">SIP accounts</string>
   <string name="sip_accounts_title">Accounts</string>
@@ -1370,13 +1207,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="title_cf_option_phone_number">Forward to phone number</string>
   <string name="title_cf_option_stop">Stop forwarding</string>
   <string name="title_cf_option_voice_mail">Forward to voice mail</string>
-  <string name="title_country">Locale</string>
-  <string name="title_duration">Duration</string>
-  <string name="title_purchase">Top up</string>
-  <string name="title_rates">Rates</string>
-  <string name="title_user_config">Activate SIM card</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="top_up_first">Top-up first</string>
   <string name="transport">Protocol</string>
   <string name="transport_title">Transport type</string>
   <string name="tty_mode_key">button_tty_mode_key</string>
@@ -1386,7 +1217,6 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="turnover_mute_summary">"When phone is rotated horizontally, flip it over to silence ringer. This feature doesn't work when vibration for incoming calls is on."</string>
   <string name="turnover_mute_title">Flip to silence ringer</string>
   <string name="ui_default_package">com.android.dialer</string>
-  <string name="unable_dial_livetalk">"Can't complete call"</string>
   <string name="unblock_pin2">Unblock PIN2</string>
   <string name="undefined">None</string>
   <string name="unknown">Unknown</string>
@@ -1398,19 +1228,10 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">New PLMN</string>
   <string name="uplmn_list_setting_title">Preferred networks</string>
   <string name="uplmn_numeric_is_empty">Enter a network ID</string>
-  <string name="use_current_account_creat_livetalk">"You've sign in with this Mi Account: %1$s.
-Use it for Top-up package?"</string>
-  <string name="use_current_account_creat_livetalk_button">Use</string>
-  <string name="use_history">Activity</string>
-  <string name="use_history_duration_min">%1$s mins</string>
-  <string name="use_range">Range</string>
   <string name="username">UserName</string>
   <string name="username_title">Username</string>
   <string name="ussdRunning">USSD code running…</string>
   <string name="ussd_dialog_sep">----------</string>
-  <string name="verified">Verified</string>
-  <string name="verify_fialed">"Couldn't verify"</string>
-  <string name="verifying">Verifying…</string>
   <string name="vilte_srvcc_tip">Network reason, switched to voice call.</string>
   <string name="vm_change_failed">"Couldn't change the voicemail number.
 Contact your carrier if this problem persists."</string>
@@ -1463,7 +1284,6 @@ Please check the internet connection on your WLAN router and try to connect agai
 Would you like to try and reconnect to your WLAN network to finish your call?"</string>
   <string name="wfc_wifi_handover_fail">Oops! Your call cannot be completed.</string>
   <string name="wfc_wifi_lte_handover_fail">Oops! No available LTE network to continue your call.</string>
-  <string name="whole_calls">All calls</string>
   <string name="wifi_calling">WLAN calling</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wild_prompt_str">Replace wild character with</string>

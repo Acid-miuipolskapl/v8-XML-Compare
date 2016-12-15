@@ -84,6 +84,23 @@
         <item>@drawable/temp_minus</item>
         <item>@drawable/temp_degree</item>
     </array>
+    <string-array name="multi_window_pkgs_whitelist">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.miui.video</item>
+        <item>com.sina.weibo</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.qiyi.video</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.facebook.katana</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.UCMobile</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.taobao.taobao</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.miui.weather2</item>
+        <item>com.xiaomi.shop</item>
+    </string-array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>
         <item>com.android.providers.contacts</item>
@@ -137,6 +154,8 @@
         <item>com.miui.milivetalk</item>
         <item>com.android.phone</item>
         <item>com.miui.cloudbackup</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.android.cts.app.stub</item>
     </string-array>
     <string-array name="carrier_name">
         <item>SmarToneVodafone</item>
