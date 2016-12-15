@@ -43,10 +43,10 @@
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="change_wallpaper">Change</string>
-  <string name="children_folder_title">Kids</string>
+  <string name="children_folder_title">Child mode</string>
   <string name="children_mode_exit">Exit</string>
-  <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
-  <string name="children_mode_tips_title">Please select application</string>
+  <string name="children_mode_tips_message">No apps in Child mode now. Select the apps you want to add.</string>
+  <string name="children_mode_tips_title">Select apps</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose a new wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -154,7 +154,7 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
-  <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
+  <string name="launcher_not_exist">An error occurred, go back to Home screen and try again.</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">Just a sec…</string>
@@ -222,6 +222,7 @@
   <string name="recommend_apps_switch_title">Promoted apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="screen_locked_toast">Home screen layout is locked</string>
   <string name="screen_number">%d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">Select all</string>
