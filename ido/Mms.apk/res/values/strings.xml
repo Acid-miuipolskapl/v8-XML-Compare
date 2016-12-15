@@ -688,6 +688,6 @@ Attempt made: %s."</string>
   <string name="wild_msg_processing">Working…</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="xiaomi_service_number">Service number</string>
-  <string name="yellowpage_recommend_msg">"Try out MIUI's SMS message features"</string>
+  <string name="yellowpage_recommend_msg">"Check out MIUI's Messaging features"</string>
   <string name="yes">OK</string>
 </resources>
