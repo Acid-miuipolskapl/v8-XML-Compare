@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Important Warning</string>
   <string name="add_frequent_phrases">Add frequent phrases</string>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
@@ -78,10 +79,16 @@
   <string name="auto_start_warning_allow">Allow</string>
   <string name="auto_start_warning_deny">Deny</string>
   <string name="auto_start_warning_title">Allow %s to start automatically?</string>
+  <string name="button_text_cancel">Cancel</string>
+  <string name="button_text_delete">Delete</string>
+  <string name="button_text_delete_timer">Delete (%d)</string>
+  <string name="button_text_next_step">Next</string>
+  <string name="button_text_next_step_timer">Next (%d)</string>
   <string name="call_record_or">" or "</string>
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">" or "</string>
   <string name="cancel_action">Cancel</string>
+  <string name="configure_input_methods">Choose keyboards</string>
   <string name="copy">Copy</string>
   <string name="cut">Cut</string>
   <string name="default_name">Default</string>
@@ -126,6 +133,9 @@
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
   <string name="miui">miui</string>
+  <string name="package_delete_confirm_step_1">Delete %s?</string>
+  <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
+  <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
   <string name="paste">Paste</string>
   <string name="perm_send_push_dspt">Allow Mi push messages</string>
   <string name="perm_send_push_lab">Send push message</string>
@@ -142,7 +152,7 @@
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">To turn this feature off, press the Volume up button.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the earphone area"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_on_proximity_sensor_title">Pocket mode</string>
   <string name="screen_paper_mode_enter_toast">Reading mode is on. To turn this feature off, go to Settings &gt; Display &gt; Reading mode.</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
   <string name="screenshot_gesture_detect_alert_button">Turn on in the Settings</string>
@@ -177,13 +187,15 @@
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
   <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">Brightness</string>
+  <string name="status_bar_toggle_battery_saver">Battery saver</string>
+  <string name="status_bar_toggle_battery_saver_action">com.miui.securitycenter/com.miui.powercenter.savemode.PowerSaveActivity</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
   <string name="status_bar_toggle_cast">Cast</string>
   <string name="status_bar_toggle_data">Mobile data</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
-  <string name="status_bar_toggle_edit">More</string>
+  <string name="status_bar_toggle_edit">Sort</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -193,6 +205,8 @@
   <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Silent</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
+  <string name="status_bar_toggle_nfc_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_paper_mode">Read mode</string>
   <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Performance</string>
@@ -213,6 +227,7 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_more">More</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
   <string name="turn_off">Turn off</string>
