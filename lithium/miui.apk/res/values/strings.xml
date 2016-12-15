@@ -581,5 +581,6 @@
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">W</string>
+  <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="yesterday">Yesterday</string>
 </resources>

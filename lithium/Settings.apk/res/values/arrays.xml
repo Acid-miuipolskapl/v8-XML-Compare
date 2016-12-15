@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Combined</item>
+        <item>Separate</item>
+    </string-array>
+    <string-array name="status_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scanning…</item>
@@ -27,14 +35,6 @@
         <item>Unsuccessful</item>
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Combined</item>
-        <item>Separate</item>
-    </string-array>
-    <string-array name="status_bar_style_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -1182,12 +1182,14 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
-        <item>Quick snap mode (select in Camera)</item>
+        <item>Quick snap mode (photo)</item>
+        <item>Quick snap mode (video)</item>
         <item>Public transportation shortcuts</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
+        <item>none</item>
+        <item>Street-snap-picture</item>
+        <item>Street-snap-movie</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -1557,7 +1559,26 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Unlimited</item>
+    </string-array>
+    <string-array name="max_number_values">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2007</item>
+    </string-array>
     <string-array name="organized_locales">
+        <item>al</item>
         <item>dz</item>
         <item>ao</item>
         <item>ag</item>
@@ -1566,9 +1587,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>bh</item>
         <item>bd</item>
         <item>bb</item>
+        <item>by</item>
         <item>be</item>
         <item>bz</item>
         <item>bo</item>
+        <item>ba</item>
         <item>bw</item>
         <item>bg</item>
         <item>br</item>
@@ -1587,6 +1610,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>eg</item>
         <item>sv</item>
         <item>gq</item>
+        <item>ee</item>
         <item>et</item>
         <item>fk</item>
         <item>fr</item>
@@ -1612,15 +1636,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>kz</item>
         <item>ke</item>
         <item>kw</item>
+        <item>lv</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
         <item>lt</item>
+        <item>mk</item>
         <item>mw</item>
         <item>my</item>
+        <item>mt</item>
         <item>mr</item>
         <item>mu</item>
         <item>mx</item>
+        <item>md</item>
+        <item>me</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
@@ -1646,6 +1675,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>rs</item>
         <item>sg</item>
         <item>sk</item>
+        <item>si</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -1658,6 +1688,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>se</item>
         <item>ch</item>
         <item>sy</item>
         <item>tw</item>
@@ -1670,6 +1701,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>gb</item>
         <item>us</item>
         <item>uy</item>
         <item>uz</item>
@@ -1707,6 +1739,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>IR</item>
         <item>JM</item>
         <item>JO</item>
+        <item>KR</item>
         <item>KW</item>
         <item>MX</item>
         <item>NI</item>

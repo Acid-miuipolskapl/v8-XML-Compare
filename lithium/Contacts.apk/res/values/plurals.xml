@@ -131,6 +131,10 @@
         <item quantity="other">%1$d people</item>
         <item quantity="one">%1$d person</item>
     </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Minutes</item>
+        <item quantity="one">Minute</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Rang %d times</item>
         <item quantity="one">Rang %d time</item>
@@ -142,5 +146,31 @@
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d contacts or photos haven't been synced"</item>
         <item quantity="one">"%d contact or photo hasn't been synced"</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d mins ago</item>
+        <item quantity="one">1 min ago</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">In 1 hour</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d mins</item>
+        <item quantity="one">in 1 min</item>
     </plurals>
 </resources>
