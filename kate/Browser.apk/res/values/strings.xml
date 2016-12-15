@@ -553,7 +553,7 @@ Leave this page?"</string>
   <string name="media_error_action_replace_video_source">"Couldn't change source"</string>
   <string name="media_error_failure">"Can't play video"</string>
   <string name="media_error_format">"Video format isn't supported"</string>
-  <string name="media_error_network_unreachable">Network Unreachable</string>
+  <string name="media_error_network_unreachable">"Couldn't connect to the network"</string>
   <string name="media_error_nomemory">Not enough memory</string>
   <string name="media_error_source">"Couldn't find source"</string>
   <string name="media_error_timeout">Network connection timed out</string>
@@ -674,8 +674,8 @@ Leave this page?"</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="pay_failed_toast">"Couldn't complete payment"</string>
   <string name="pay_success_toast">Paid successfully</string>
-  <string name="permission_alert_window">To use the feature, please open system option Diplay pop-up window.</string>
-  <string name="permission_unknown">Unknown Option</string>
+  <string name="permission_alert_window">Allow pop-up windows to use this feature</string>
+  <string name="permission_unknown">Unknown action</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
   <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility">Accessibility</string>
