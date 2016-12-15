@@ -460,9 +460,10 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="block_list_connected_devices">Connected devices</string>
   <string name="block_list_diaglog_cancle">Cancel</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_dialog_title">Disconnect now?</string>
+  <string name="block_list_mtk_dialog_content">This action will disconnect “%s” from this device</string>
   <string name="block_list_no_device">No connected devices in blocklist</string>
+  <string name="block_list_qcom_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
   <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
   <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
@@ -2357,6 +2358,11 @@ Select your operating system:"</string>
   <string name="open_anr_debug">Turn on ANR debugging</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Close</string>
+  <string name="open_personal_assistant_dialog_desc">"You won't be able to use Smart assistant and receive its updates. Turn off now?"</string>
+  <string name="open_personal_assistant_dialog_title">Turn off Smart assistant</string>
+  <string name="open_personal_assistant_title">Turn on Smart assistant</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">This work profile is managed by:</string>
@@ -3608,6 +3614,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings">Notifications &amp; status bar</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
+  <string name="status_bar_settings_app_notification_preferences">App Settings</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
