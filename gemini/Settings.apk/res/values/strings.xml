@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_141b">false</string>
-  <string name="APKTOOL_DUMMY_141c">false</string>
   <string name="APKTOOL_DUMMY_141d">false</string>
   <string name="APKTOOL_DUMMY_141e">false</string>
   <string name="APKTOOL_DUMMY_141f">false</string>
@@ -13,16 +11,16 @@
   <string name="APKTOOL_DUMMY_1425">false</string>
   <string name="APKTOOL_DUMMY_1426">false</string>
   <string name="APKTOOL_DUMMY_1427">false</string>
-  <string name="APKTOOL_DUMMY_142e">false</string>
-  <string name="APKTOOL_DUMMY_142f">false</string>
-  <string name="APKTOOL_DUMMY_1430">false</string>
-  <string name="APKTOOL_DUMMY_145a">false</string>
-  <string name="APKTOOL_DUMMY_145b">false</string>
-  <string name="APKTOOL_DUMMY_145c">false</string>
+  <string name="APKTOOL_DUMMY_1428">false</string>
+  <string name="APKTOOL_DUMMY_1429">false</string>
+  <string name="APKTOOL_DUMMY_142a">false</string>
+  <string name="APKTOOL_DUMMY_1431">false</string>
+  <string name="APKTOOL_DUMMY_1432">false</string>
+  <string name="APKTOOL_DUMMY_1433">false</string>
   <string name="APKTOOL_DUMMY_145d">false</string>
-  <string name="APKTOOL_DUMMY_1471">false</string>
-  <string name="APKTOOL_DUMMY_1472">false</string>
-  <string name="APKTOOL_DUMMY_1473">false</string>
+  <string name="APKTOOL_DUMMY_145e">false</string>
+  <string name="APKTOOL_DUMMY_145f">false</string>
+  <string name="APKTOOL_DUMMY_1460">false</string>
   <string name="APKTOOL_DUMMY_1474">false</string>
   <string name="APKTOOL_DUMMY_1475">false</string>
   <string name="APKTOOL_DUMMY_1476">false</string>
@@ -44,10 +42,10 @@
   <string name="APKTOOL_DUMMY_1486">false</string>
   <string name="APKTOOL_DUMMY_1487">false</string>
   <string name="APKTOOL_DUMMY_1488">false</string>
-  <string name="APKTOOL_DUMMY_14ac">false</string>
-  <string name="APKTOOL_DUMMY_14ea">false</string>
-  <string name="APKTOOL_DUMMY_14eb">false</string>
-  <string name="APKTOOL_DUMMY_14ec">false</string>
+  <string name="APKTOOL_DUMMY_1489">false</string>
+  <string name="APKTOOL_DUMMY_148a">false</string>
+  <string name="APKTOOL_DUMMY_148b">false</string>
+  <string name="APKTOOL_DUMMY_14af">false</string>
   <string name="APKTOOL_DUMMY_14ed">false</string>
   <string name="APKTOOL_DUMMY_14ee">false</string>
   <string name="APKTOOL_DUMMY_14ef">false</string>
@@ -62,15 +60,15 @@
   <string name="APKTOOL_DUMMY_14f8">false</string>
   <string name="APKTOOL_DUMMY_14f9">false</string>
   <string name="APKTOOL_DUMMY_14fa">false</string>
+  <string name="APKTOOL_DUMMY_14fb">false</string>
+  <string name="APKTOOL_DUMMY_14fc">false</string>
   <string name="APKTOOL_DUMMY_14fd">false</string>
-  <string name="APKTOOL_DUMMY_14fe">false</string>
-  <string name="APKTOOL_DUMMY_14ff">false</string>
   <string name="APKTOOL_DUMMY_1500">false</string>
   <string name="APKTOOL_DUMMY_1501">false</string>
   <string name="APKTOOL_DUMMY_1502">false</string>
+  <string name="APKTOOL_DUMMY_1503">false</string>
   <string name="APKTOOL_DUMMY_1504">false</string>
   <string name="APKTOOL_DUMMY_1505">false</string>
-  <string name="APKTOOL_DUMMY_1506">false</string>
   <string name="APKTOOL_DUMMY_1507">false</string>
   <string name="APKTOOL_DUMMY_1508">false</string>
   <string name="APKTOOL_DUMMY_1509">false</string>
@@ -132,9 +130,12 @@
   <string name="APKTOOL_DUMMY_1541">false</string>
   <string name="APKTOOL_DUMMY_1542">false</string>
   <string name="APKTOOL_DUMMY_1543">false</string>
-  <string name="APKTOOL_DUMMY_1556">false</string>
-  <string name="APKTOOL_DUMMY_1557">false</string>
-  <string name="APKTOOL_DUMMY_1558">false</string>
+  <string name="APKTOOL_DUMMY_1544">false</string>
+  <string name="APKTOOL_DUMMY_1545">false</string>
+  <string name="APKTOOL_DUMMY_1546">false</string>
+  <string name="APKTOOL_DUMMY_1559">false</string>
+  <string name="APKTOOL_DUMMY_155a">false</string>
+  <string name="APKTOOL_DUMMY_155b">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -147,8 +148,6 @@
   <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
   <string name="APN_NAME_CUWAP">China Unicom WAP</string>
   <string name="Accounts_settings_title">Accounts</string>
-  <string name="aaid_info">"
-Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -180,6 +179,7 @@ Advertising identifier is a permanent ID unique to your device. Vendors use it t
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="about_ad_service_instructions">About ad services and privacy​</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="about_summary">Android %1$s</string>
@@ -2218,8 +2218,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately.</string>
   <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
-  <string name="lock_screen_signature_summary">The signature will be displayed on the Lock screen</string>
-  <string name="lock_screen_signature_title">Lock screen signature</string>
+  <string name="lock_screen_signature_summary">This message will be displayed on the Lock screen</string>
+  <string name="lock_screen_signature_title">Lock screen owner info</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
@@ -3869,6 +3869,8 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
   <string name="set_password_title">Set password</string>
   <string name="setting_privacy_password">Set Privacy protection password</string>
+  <string name="settings_ad_loading">Loading…</string>
+  <string name="settings_ad_loading_unavailable">There is a problem when loading.</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
@@ -4079,7 +4081,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings">Notifications &amp; status bar</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
-  <string name="status_bar_settings_app_notification_preferences">App Settings</string>
+  <string name="status_bar_settings_app_notification_preferences">App settings</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
@@ -4634,7 +4636,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="usb_use_power_only_desc">Supply power to the other connected device</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
-  <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="use_personalized_ad_service">Use advertising identifier</string>
   <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
   <string name="use_this_wlan">Stay connected</string>
