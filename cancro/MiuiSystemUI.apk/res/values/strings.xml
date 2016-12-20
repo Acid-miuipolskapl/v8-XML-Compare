@@ -34,6 +34,12 @@
   <string name="accessibility_phone_three_bars">Phone three bars.</string>
   <string name="accessibility_phone_two_bars">Phone two bars.</string>
   <string name="accessibility_recent">Recent apps</string>
+  <string name="accessibility_recent_task_enter">Enter recent task panel,there are %d tasks</string>
+  <string name="accessibility_recent_task_exit">Exit recent task panel</string>
+  <string name="accessibility_recent_task_first_enter_tips">Enter recent task panel,there are %d tasks，swipe up for remove 、swipe down for lock</string>
+  <string name="accessibility_recent_task_locked">Locked,swipe down for unlock</string>
+  <string name="accessibility_recent_task_memory_info">%2$s total，%1$s available，double tap for clean all tasks</string>
+  <string name="accessibility_recent_task_unlocked">Unlocked</string>
   <string name="accessibility_remove_notification">Clear notification.</string>
   <string name="accessibility_ringer_silent">Ringer silent.</string>
   <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
