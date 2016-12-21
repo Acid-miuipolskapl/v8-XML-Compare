@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">MMMM d ،EEEE</string>
+    <string name="date_time">EEEE، d MMMM</string>
     <string name="language">en</string>
-    <string name="desc_date_format">MMMM d ،EEEE</string>
+    <string name="desc_date_format">EEEE، d MMMM</string>
     <string name="desc_time">'الوقت الحالي "+ #hour12+' '+ifelse(#minute,#minute,'oclock')+"، المس لمساً مزدوجاً لدخول تطبيق الساعة'</string>
     <string name="weather_type_0">صافٍ</string>
     <string name="weather_type_1">غائم</string>
     <string name="weather_type_2">ضبابي</string>
-    <string name="weather_type_3">مضب</string>
+    <string name="weather_type_3">ضبابي</string>
     <string name="weather_type_4">عاصفة مطرية شديدة</string>
     <string name="weather_type_5">عاصفة مطرية</string>
     <string name="weather_type_6">هطول أمطار غزيرة جدا</string>
