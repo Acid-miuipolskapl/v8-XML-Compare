@@ -19,7 +19,6 @@
     </string-array>
     <string-array name="default_app">
         <item>com.xiaomi.shop/com.xiaomi.shop2.plugin.PluginChildActivity</item>
-        <item>com.jingdong.app.mall/com.jd.lib.ordercenter.logistics.LogisticsOrderDetail</item>
         <item>com.tmall.wireless/.orderlogistics.ui.TMLogisticsActivity</item>
         <item>com.taobao.taobao/com.taobao.cainiao.logistic.LogisticDetailActivity</item>
     </string-array>
@@ -27,19 +26,16 @@
         <item>com.tmall.wireless.orderlogistics.ui.TMLogisticsActivity</item>
         <item>com.taobao.cainiao.logistic.LogisticDetailActivity</item>
         <item>com.xiaomi.shop2.plugin.PluginChildActivity</item>
-        <item>com.jd.lib.ordercenter.logistics.LogisticsOrderDetail</item>
     </string-array>
     <string-array name="express_watched_app_order_number_id">
         <item>mail_no</item>
         <item>tv_logistic_waybill_number</item>
         <item>order_express_sn,deliver_id_tv</item>
-        <item>order_num_content</item>
     </string-array>
     <string-array name="express_watched_app_company_id">
         <item>partner_name</item>
         <item>tv_logistic_company</item>
         <item>order_express_text,express_name_tv</item>
-        <item>order_transport_person_content</item>
     </string-array>
     <string-array name="express_watched_app_filter">
         <item>承运公司:</item>
