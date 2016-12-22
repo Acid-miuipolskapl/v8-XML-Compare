@@ -2,7 +2,7 @@
 <resources>
     <string name="date_format">EEEE, d MMMM</string>
     <string name="today">Hoy</string>
-    <string name="tomorrow">Mañana</string>
+    <string name="tomorrow">mañana</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
     <string name="aqi_good">'AQI '+#weather_aqilevel</string>
     <string name="aqi_moderate">'AQI '+#weather_aqilevel</string>
