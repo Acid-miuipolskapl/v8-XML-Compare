@@ -495,7 +495,7 @@
   <string name="title_of_traffic_notification">Data stats bar</string>
   <string name="title_optimizer">Terms and Conditions</string>
   <string name="title_share_link">Share URL</string>
-  <string name="toast_add_white_list_success">" added to exceptions"</string>
+  <string name="toast_add_white_list_success">Added to exceptions successfully</string>
   <string name="toast_app_no_residual_on_sdcard">"App doesn't have any files stored on your SD card"</string>
   <string name="toast_backup_is_running">Backup is already running</string>
   <string name="toast_backup_uninstall_failed">"Couldn't back up %d apps"</string>
@@ -507,7 +507,7 @@
   <string name="toast_must_select_before_restore">Choose photos to restore</string>
   <string name="toast_network_eror">"Can't connect to network"</string>
   <string name="toast_network_switch">This app can connect to the internet</string>
-  <string name="toast_removed_from_white_list">" removed from exceptions"</string>
+  <string name="toast_removed_from_white_list">Removed from exceptions successfully</string>
   <string name="toast_resolve_apk_error">Resolve apk error</string>
   <string name="toast_scaning_similar_image">Checking photos…</string>
   <string name="toast_select_image_need_delete">Choose photos to delete</string>
