@@ -4,7 +4,7 @@
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock apl'</string>
-    <string name="weather_type_0">Padam</string>
+    <string name="weather_type_0">Cerah</string>
     <string name="weather_type_1">Mendung</string>
     <string name="weather_type_2">Jerebu</string>
     <string name="weather_type_3">Berkabus</string>
