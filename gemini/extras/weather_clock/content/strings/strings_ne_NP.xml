@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, MMMM d</string>
+    <string name="date_time">EEEE, d MMMM</string>
     <string name="language">en</string>
-    <string name="desc_date_format">EEEE, MMMM d</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'हालको समय' + #घण्टा12+' '+ifelse(#मिनेट,#मिनेट,'बजे')+', घडी एप भित्र जान दुईपटक ट्याप गर्नुहोस्'</string>
-    <string name="weather_type_0">घमाइलो
-सफा</string>
+    <string name="weather_type_0">सफा</string>
     <string name="weather_type_1">बादल लागेको</string>
     <string name="weather_type_2">धमिलो</string>
     <string name="weather_type_3">तुवाँलो लागेको</string>

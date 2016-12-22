@@ -610,6 +610,8 @@
         <item>-100</item>
         <item>-44</item>
     </integer-array>
+    <array name="config_operatorConsideredDomesticRoaming" />
+    <array name="config_operatorConsideredDomesticRoamingExceptions" />
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>

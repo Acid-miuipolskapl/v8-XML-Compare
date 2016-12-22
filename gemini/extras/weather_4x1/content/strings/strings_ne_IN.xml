@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_0">घमाइलो
-सफा</string>
+    <string name="weather_type_0">सफा</string>
     <string name="weather_type_1">बादल लागेको</string>
     <string name="weather_type_2">धमिलो</string>
     <string name="weather_type_3">तुवाँलो लागेको</string>

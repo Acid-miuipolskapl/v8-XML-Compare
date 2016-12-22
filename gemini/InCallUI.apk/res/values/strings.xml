@@ -451,6 +451,7 @@
   <string name="APKTOOL_DUMMY_2c4">false</string>
   <string name="APKTOOL_DUMMY_2c5">false</string>
   <string name="APKTOOL_DUMMY_2c6">false</string>
+  <string name="APKTOOL_DUMMY_2c7">false</string>
   <string name="APKTOOL_DUMMY_2c8">false</string>
   <string name="APKTOOL_DUMMY_2c9">false</string>
   <string name="APKTOOL_DUMMY_2ca">false</string>
@@ -459,7 +460,6 @@
   <string name="APKTOOL_DUMMY_2cd">false</string>
   <string name="APKTOOL_DUMMY_2ce">false</string>
   <string name="APKTOOL_DUMMY_2cf">false</string>
-  <string name="APKTOOL_DUMMY_2d0">false</string>
   <string name="APKTOOL_DUMMY_2d1">false</string>
   <string name="APKTOOL_DUMMY_2d2">false</string>
   <string name="APKTOOL_DUMMY_2d3">false</string>

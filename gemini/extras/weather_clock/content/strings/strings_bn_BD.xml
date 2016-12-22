@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, MMMM d</string>
+    <string name="date_time">EEEE, d MMMM</string>
     <string name="language">en</string>
-    <string name="desc_date_format">EEEE, MMMM d</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'এখনকার সময়' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ঘড়ির অ্যাপে প্রবেশ করার জন্য দুবার ট্যাপ করুন'</string>
     <string name="weather_type_0">আকাশ পরিষ্কার</string>
     <string name="weather_type_1">মেঘাচ্ছন্ন</string>

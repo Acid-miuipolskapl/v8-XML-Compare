@@ -4,7 +4,7 @@
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'ਵਰਤਮਾਨ ਸਮਾਂ' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ਘੜੀ ਐਪ ਦਰਜ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ'</string>
-    <string name="weather_type_0">ਸਾਫ਼ ਕਰੋ</string>
+    <string name="weather_type_0">ਸਾਫ਼</string>
     <string name="weather_type_1">ਬੱਦਲਵਾਈ ਵਾਲਾ</string>
     <string name="weather_type_2">ਧੁੰਦਲਾ</string>
     <string name="weather_type_3">ਧੁੰਦ ਵਾਲਾ</string>
