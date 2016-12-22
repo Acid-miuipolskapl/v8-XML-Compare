@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_0">Bersihkan</string>
+    <string name="weather_type_0">Cerah</string>
     <string name="weather_type_1">Mendung</string>
     <string name="weather_type_2">Jerebu</string>
     <string name="weather_type_3">Berkabus</string>
