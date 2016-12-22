@@ -11,7 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_0">Сонячно</string>
+    <string name="weather_type_0">Ясно</string>
     <string name="weather_type_1">Хмарно</string>
     <string name="weather_type_2">Серпанок</string>
     <string name="weather_type_3">Туман</string>
