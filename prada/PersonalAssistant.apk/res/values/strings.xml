@@ -121,8 +121,7 @@
   <string name="no_install">Not installed</string>
   <string name="no_more_result">No more items</string>
   <string name="no_settings">Not set</string>
-  <string name="not_install_c1">"This app isn't installed on your phone."</string>
-  <string name="not_install_c2">Download and install it?</string>
+  <string name="not_install_c1">"This app isn't installed on your phone. Download and install it?"</string>
   <string name="not_install_c3">Download</string>
   <string name="not_install_c4">No thanks</string>
   <string name="not_installed">Not installed</string>
