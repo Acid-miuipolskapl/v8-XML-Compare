@@ -78,7 +78,6 @@ Last backed up on %2$s"</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown">"Can't sign in"</string>
-  <string name="file_provider_authority">com.miui.cloudservice.fileprovider</string>
   <string name="find_device">Find device</string>
   <string name="find_device_disabled_notice">"You can turn this feature on or off anytime in Mi Cloud's Settings."</string>
   <string name="find_device_disabled_title">Find device is off</string>
