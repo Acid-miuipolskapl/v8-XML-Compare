@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_0">ସଫା ପାଗ</string>
+    <string name="weather_type_0">ସଫା</string>
     <string name="weather_type_1">ମେଘୁଆ</string>
     <string name="weather_type_2">ହେଜି</string>
     <string name="weather_type_3">ଘନ କୁହୁଡି</string>

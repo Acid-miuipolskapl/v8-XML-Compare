@@ -2,7 +2,7 @@
 <resources>
     <string name="date_time">d MMMM, EEEE</string>
     <string name="language">en</string>
-    <string name="desc_date_format">EEEE, MMMM d</string>
+    <string name="desc_date_format">d MMMM, EEEE</string>
     <string name="desc_time">'hozirgi vaqt' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', soat ilovasiga kirish uchun ikki marta bosing'</string>
     <string name="weather_type_0">Tiniq</string>
     <string name="weather_type_1">Bulutli</string>
