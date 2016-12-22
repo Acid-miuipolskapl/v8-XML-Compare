@@ -450,16 +450,6 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
   <string name="import_to_xiaomi_account_title">Import the following contacts into your Mi Account?</string>
   <string name="import_vcard_description">"Import contacts from your phone's internal storage"</string>
-  <string name="import_weibo_dialog_title">Import Weibo contacts</string>
-  <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
-  <string name="import_weibo_error_no_network">"Can't connect to the network. Check your data connection and try again."</string>
-  <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
-  <string name="import_weibo_error_unknown">Unknown error</string>
-  <string name="import_weibo_error_user_cancel">Import canceled</string>
-  <string name="import_weibo_fetch_followers">Fetching contacts…</string>
-  <string name="import_weibo_notification_title_done">Updated %s contacts</string>
-  <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importing contacts from SIM card…</string>
   <string name="importing_vcard_canceled_title">Importing %s canceled</string>
   <string name="importing_vcard_description">Importing %s</string>

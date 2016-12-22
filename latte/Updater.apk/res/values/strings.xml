@@ -122,6 +122,9 @@
   <string name="progress_title_checking">Checking for updates…</string>
   <string name="reboot">Reboot</string>
   <string name="reboot_to_new_system">Reboot to new system image</string>
+  <string name="recovery_failed_button">OK</string>
+  <string name="recovery_power_not_enough_msg">Battery must be above 30% before device can update</string>
+  <string name="recovery_power_not_enough_title">Low battery</string>
   <string name="repeat">Retry</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates automatically over WLAN</string>
