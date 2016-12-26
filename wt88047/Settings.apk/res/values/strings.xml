@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
-  <string name="aaid_info">"
-Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
+  <string name="about_ad_service_instructions">About ad services and privacy​</string>
   <string name="about_phone_enter_xiaomi_net">Learn more</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
@@ -1712,8 +1711,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
   <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
-  <string name="lock_screen_signature_summary">The signature will be displayed on the Lock screen</string>
-  <string name="lock_screen_signature_title">Lock screen signature</string>
+  <string name="lock_screen_signature_summary">This message will be displayed on the Lock screen</string>
+  <string name="lock_screen_signature_title">Lock screen owner info</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
@@ -2165,7 +2164,7 @@ Select your operating system:"</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
   <string name="owner_info_settings_summary"/>
-  <string name="owner_info_settings_title">Lock screen signature</string>
+  <string name="owner_info_settings_title">Lock screen owner info</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
@@ -2315,9 +2314,9 @@ Select your operating system:"</string>
   <string name="path_oldman_mode">Settings/Lite Mode</string>
   <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
   <string name="path_other_advanced_settings">Settings/Additional settings</string>
-  <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
+  <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Lock screen owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
-  <string name="path_permission_settings_title">Settings/Permissions/App permissions</string>
+  <string name="path_permission_settings_title">Settings/Permissions/Permissions</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
   <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
@@ -2984,7 +2983,7 @@ To use screen pinning:
   <string name="search_oldman_mode">Lite mode;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
-  <string name="search_owner_info_settings">Owner info</string>
+  <string name="search_owner_info_settings">Lock screen owner info;Owner info;Signature;Lock screen signature;Owner</string>
   <string name="search_page_layout_settings">Text size;Font size;Small font;Big font;Medium font;XXL font;Huge font;Font sizes</string>
   <string name="search_permission_settings_title">App permissions</string>
   <string name="search_pointer_speed">Pointer speed</string>
@@ -3121,6 +3120,8 @@ To use screen pinning:
   <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
   <string name="set_password_title">Set password</string>
   <string name="setting_privacy_password">Set Privacy protection password</string>
+  <string name="settings_ad_loading">Loading…</string>
+  <string name="settings_ad_loading_unavailable">There is a problem when loading.</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
@@ -3159,7 +3160,7 @@ To use screen pinning:
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
-  <string name="show_owner_info_on_lockscreen_label">Show signature on Lock screen</string>
+  <string name="show_owner_info_on_lockscreen_label">Show owner info on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
   <string name="show_profile_info_on_lockscreen_label">Show profile info on lock screen</string>
   <string name="show_rounded_corners">Show rounded corners</string>
@@ -3326,7 +3327,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings">Notifications &amp; status bar</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
-  <string name="status_bar_settings_app_notification_preferences">App Settings</string>
+  <string name="status_bar_settings_app_notification_preferences">App settings</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
@@ -3698,7 +3699,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_nuplayer">Use NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Use NuPlayer instead of AwesomePlayer</string>
-  <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="use_personalized_ad_service">Use advertising identifier</string>
   <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>

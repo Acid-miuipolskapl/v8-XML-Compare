@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEEE, d MMMM</string>
+    <string name="language">or</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
+    <string name="desc_time">'ବର୍ତ୍ତମାନ ସମୟ' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ଘଣ୍ଟା ଆପ୍ଲିକେସନ୍‌ରେ ପ୍ରବେଶ କରିବା ପାଇଁ ଦୁଇଥର ଟ୍ୟାପ୍‍ କରନ୍ତୁ'</string>
+    <string name="weather_type_0">ସଫା</string>
+    <string name="weather_type_1">ମେଘୁଆ</string>
+    <string name="weather_type_2">ହେଜି</string>
+    <string name="weather_type_3">ଘନକୁହୁଡି</string>
+    <string name="weather_type_4">ଭାରି ବର୍ଷା</string>
+    <string name="weather_type_5">ତୁଫାନୀ ବର୍ଷା</string>
+    <string name="weather_type_6">ବହୁତ ଭାରି ବର୍ଷା</string>
+    <string name="weather_type_7">ଝଡବର୍ଷା</string>
+    <string name="weather_type_8">ତୁଷାରପାତ</string>
+    <string name="weather_type_9">ଭାରି ବର୍ଷା</string>
+    <string name="weather_type_10">ବର୍ଷା</string>
+    <string name="weather_type_11">ଡ୍ରିଜିଲ୍‍</string>
+    <string name="weather_type_12">ସ୍ଲିଟ୍‍</string>
+    <string name="weather_type_13">ବରଫର ଝଡ</string>
+    <string name="weather_type_14">କେତେକ ସ୍ଥାନରେ ବରଫ ପଡିବା</string>
+    <string name="weather_type_15">ଅଧିକ ବରଫ ପଡିବା</string>
+    <string name="weather_type_16">ବରଫ ପଡିବା</string>
+    <string name="weather_type_17">କମ୍‌ ବରଫ ପଡିବା</string>
+    <string name="weather_type_18">ଭାରି ଧୂଳିଝଡ</string>
+    <string name="weather_type_19">ସ୍ୟାଣ୍ଡଷ୍ଟ୍ରମ୍‍</string>
+    <string name="weather_type_20">ଲାଇଟ୍‍ ସ୍ୟାଣ୍ଡଷ୍ଟ୍ରମ୍‍</string>
+    <string name="weather_type_21">ସ୍ୟାଣ୍ଡଷ୍ଟ୍ରମ୍‍</string>
+    <string name="weather_type_22">ହେଲ୍‌</string>
+    <string name="weather_type_23">ଫ୍ଲୋଟିଂ ଡଷ୍ଟ୍‍</string>
+    <string name="weather_type_24">ହେଜ୍‍</string>
+</resources>
