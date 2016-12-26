@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
-    <string name="language">en</string>
+    <string name="language">or</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'ବର୍ତ୍ତମାନ ସମୟ' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ଘଣ୍ଟା ଆପ୍ଲିକେସନ୍‌ରେ ପ୍ରବେଶ କରିବା ପାଇଁ ଦୁଇଥର ଟ୍ୟାପ୍‍ କରନ୍ତୁ'</string>
-    <string name="weather_type_0">ସଫା ପାଗ</string>
+    <string name="weather_type_0">ସଫା</string>
     <string name="weather_type_1">ମେଘୁଆ</string>
     <string name="weather_type_2">ହେଜି</string>
     <string name="weather_type_3">ଘନକୁହୁଡି</string>

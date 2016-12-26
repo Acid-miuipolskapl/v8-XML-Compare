@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, MMMM d</string>
+    <string name="date_time">EEEE، d MMMM</string>
     <string name="language">en</string>
-    <string name="desc_date_format">EEEE, MMMM d</string>
+    <string name="desc_date_format">EEEE، d MMMM</string>
     <string name="desc_time">'حالیہ وقت ' + #hour12+' '+ifelse(#minute,#minute,'oclock')+' گھڑی ایپ میں جانے کے لئے دہرا ٹیپ کریں'</string>
-    <string name="weather_type_0">مٹائیں</string>
+    <string name="weather_type_0">صاف</string>
     <string name="weather_type_1">ابرآلود</string>
     <string name="weather_type_2">گرد و غبار والا</string>
     <string name="weather_type_3">کہرے والا</string>
