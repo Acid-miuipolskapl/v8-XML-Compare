@@ -591,7 +591,7 @@ Reason: \"%s\""</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
   <string name="login_ok">Sign in</string>
-  <string name="low_memory_toast">"Can't continue to use since storage is short."</string>
+  <string name="low_memory_toast">"Can't use this feature due to low memory."</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
@@ -1262,7 +1262,7 @@ Choose one of the following options:"</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
-  <string name="yellowpage_fc_toast">"Can't continue to use since yellow page is crashed."</string>
+  <string name="yellowpage_fc_toast">"Can't use this feature because Yellow pages crashed."</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>
