@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Notification</item>
-        <item>Email</item>
-        <item>Text message</item>
-        <item>Alarm</item>
-    </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <integer-array name="reminder_minutes_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -24,8 +11,14 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
+    <integer-array name="allday_reminder_minutes_values">
+        <item>0</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>10080</item>
+    </integer-array>
     <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -220,21 +213,6 @@
         <item>Pacific/Fiji</item>
         <item>Pacific/Tongatapu</item>
     </string-array>
-    <string-array name="availability">
-        <item>Busy</item>
-        <item>Available</item>
-        <item>Tentative</item>
-    </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <string-array name="visibility">
-        <item>Default</item>
-        <item>Private</item>
-        <item>Public</item>
-    </string-array>
     <string-array name="ordinal_labels">
         <item>first</item>
         <item>second</item>
@@ -340,11 +318,10 @@
         <item>【订阅频道】为你量身定制的日历功能和服务</item>
         <item>【订阅频道】发现不一样的日历功能和服务</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Running just a couple of minutes late.</item>
-        <item>Be there in about 10 minutes.</item>
-        <item>Go ahead and start without me.</item>
-        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+    <string-array name="entryvalues_settings_debug">
+        <item>无</item>
+        <item>导出并发送日志</item>
+        <item>生成日志至文件管理器</item>
     </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
@@ -355,8 +332,7 @@
         <item>Transparent</item>
         <item>White background</item>
     </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>No reminder</item>
+    <string-array name="default_reminder_labels">
         <item>At event time</item>
         <item>5 minutes before</item>
         <item>10 minutes before</item>
@@ -367,36 +343,11 @@
         <item>2 days before</item>
         <item>1 week before</item>
     </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>No reminder</item>
-        <item>At event time</item>
-        <item>5 minutes before</item>
-        <item>10 minutes before</item>
-        <item>15 minutes before</item>
-        <item>30 minutes before</item>
-        <item>1 hour before</item>
-        <item>1 day before</item>
-        <item>2 days before</item>
-        <item>1 week before</item>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Always</item>
+        <item>Only when ringer is silenced</item>
+        <item>Never</item>
     </string-array>
-    <integer-array name="online_reminder_minutes_values">
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
-    <integer-array name="online_reminder_minutes_values_allday">
-        <item>0</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>4320</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 hours before</item>
         <item>4 hours before</item>
@@ -495,10 +446,5 @@
         <item>Never</item>
         <item>Time</item>
         <item>Count</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Always</item>
-        <item>Only when ringer is silenced</item>
-        <item>Never</item>
     </string-array>
 </resources>
