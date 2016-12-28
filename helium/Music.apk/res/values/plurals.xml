@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloaded</item>
-        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloaded</item>
+        <item quantity="other">&amp;lt;font color=\"red\">%d songs&amp;lt;/font> downloaded</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d song&amp;lt;/font> downloaded</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
-        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloading</item>
+        <item quantity="other">&amp;lt;font color=\"red\">%d songs&amp;lt;/font> downloading</item>
+        <item quantity="one">&amp;lt;font color==\"red\">%d song&amp;lt;/font> downloading</item>
     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d songs found</item>
@@ -92,4 +92,7 @@
         <item quantity="other">%d followers</item>
         <item quantity="one">%d follower</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_17">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_18">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_19">false</item>
 </resources>

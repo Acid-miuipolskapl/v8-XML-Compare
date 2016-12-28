@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_195">false</string>
+  <string name="APKTOOL_DUMMY_196">false</string>
+  <string name="APKTOOL_DUMMY_197">false</string>
+  <string name="APKTOOL_DUMMY_198">false</string>
+  <string name="APKTOOL_DUMMY_199">false</string>
+  <string name="APKTOOL_DUMMY_19a">false</string>
+  <string name="APKTOOL_DUMMY_19b">false</string>
+  <string name="APKTOOL_DUMMY_19c">false</string>
+  <string name="APKTOOL_DUMMY_19d">false</string>
+  <string name="APKTOOL_DUMMY_19e">false</string>
+  <string name="APKTOOL_DUMMY_19f">false</string>
+  <string name="APKTOOL_DUMMY_1a0">false</string>
+  <string name="APKTOOL_DUMMY_1a1">false</string>
+  <string name="APKTOOL_DUMMY_1a2">false</string>
+  <string name="APKTOOL_DUMMY_1a3">false</string>
+  <string name="APKTOOL_DUMMY_1a4">false</string>
+  <string name="APKTOOL_DUMMY_1a5">false</string>
+  <string name="APKTOOL_DUMMY_1a6">false</string>
+  <string name="APKTOOL_DUMMY_1a7">false</string>
+  <string name="APKTOOL_DUMMY_1a8">false</string>
+  <string name="APKTOOL_DUMMY_1a9">false</string>
+  <string name="APKTOOL_DUMMY_1aa">false</string>
+  <string name="APKTOOL_DUMMY_1ab">false</string>
+  <string name="APKTOOL_DUMMY_1ac">false</string>
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account not activated</string>

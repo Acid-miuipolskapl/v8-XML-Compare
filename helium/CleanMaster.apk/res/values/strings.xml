@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_212">false</string>
+  <string name="APKTOOL_DUMMY_213">false</string>
+  <string name="APKTOOL_DUMMY_214">false</string>
+  <string name="APKTOOL_DUMMY_215">false</string>
+  <string name="APKTOOL_DUMMY_216">false</string>
+  <string name="APKTOOL_DUMMY_217">false</string>
+  <string name="APKTOOL_DUMMY_218">false</string>
+  <string name="APKTOOL_DUMMY_219">false</string>
+  <string name="APKTOOL_DUMMY_21a">false</string>
+  <string name="APKTOOL_DUMMY_21b">false</string>
+  <string name="APKTOOL_DUMMY_21c">false</string>
+  <string name="APKTOOL_DUMMY_21d">false</string>
+  <string name="APKTOOL_DUMMY_21e">false</string>
+  <string name="APKTOOL_DUMMY_21f">false</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>

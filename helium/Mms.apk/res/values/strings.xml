@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_2b0">false</string>
+  <string name="APKTOOL_DUMMY_2b1">false</string>
+  <string name="APKTOOL_DUMMY_2b2">false</string>
+  <string name="APKTOOL_DUMMY_2b3">false</string>
+  <string name="APKTOOL_DUMMY_2b4">false</string>
+  <string name="APKTOOL_DUMMY_2b5">false</string>
+  <string name="APKTOOL_DUMMY_2b6">false</string>
+  <string name="APKTOOL_DUMMY_2b7">false</string>
+  <string name="APKTOOL_DUMMY_2b8">false</string>
+  <string name="APKTOOL_DUMMY_2b9">false</string>
+  <string name="APKTOOL_DUMMY_2ba">false</string>
+  <string name="APKTOOL_DUMMY_2bb">false</string>
+  <string name="APKTOOL_DUMMY_2bc">false</string>
+  <string name="APKTOOL_DUMMY_2bd">false</string>
+  <string name="APKTOOL_DUMMY_2be">false</string>
+  <string name="APKTOOL_DUMMY_2bf">false</string>
+  <string name="APKTOOL_DUMMY_2c0">false</string>
+  <string name="APKTOOL_DUMMY_2c1">false</string>
+  <string name="APKTOOL_DUMMY_2c2">false</string>
+  <string name="APKTOOL_DUMMY_2c3">false</string>
+  <string name="APKTOOL_DUMMY_2c4">false</string>
+  <string name="APKTOOL_DUMMY_2c5">false</string>
+  <string name="APKTOOL_DUMMY_2c6">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -350,6 +373,7 @@
   <string name="mx_online">Activated</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="mx_stranger_recommend_msg">Tap to block Mi Messages from unknown numbers</string>
   <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring charges</string>
   <string name="need_download">Syncing…</string>
   <string name="networking_allow_continue">OK</string>

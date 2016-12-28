@@ -40,4 +40,12 @@
         <item quantity="other">Delete the selected timezone?</item>
         <item quantity="one">Delete this timezone?</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_c">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_10">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_11">false</item>
 </resources>

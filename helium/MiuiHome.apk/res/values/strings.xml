@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_11c">false</string>
+  <string name="APKTOOL_DUMMY_11d">false</string>
+  <string name="APKTOOL_DUMMY_11e">false</string>
+  <string name="APKTOOL_DUMMY_11f">false</string>
+  <string name="APKTOOL_DUMMY_120">false</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>

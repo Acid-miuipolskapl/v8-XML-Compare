@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_2a4">false</string>
+  <string name="APKTOOL_DUMMY_2a5">false</string>
+  <string name="APKTOOL_DUMMY_2a6">false</string>
+  <string name="APKTOOL_DUMMY_2a7">false</string>
+  <string name="APKTOOL_DUMMY_2a8">false</string>
+  <string name="APKTOOL_DUMMY_2a9">false</string>
+  <string name="APKTOOL_DUMMY_2aa">false</string>
+  <string name="APKTOOL_DUMMY_2ab">false</string>
+  <string name="APKTOOL_DUMMY_2ac">false</string>
+  <string name="APKTOOL_DUMMY_2ad">false</string>
+  <string name="APKTOOL_DUMMY_2ae">false</string>
+  <string name="APKTOOL_DUMMY_2af">false</string>
+  <string name="APKTOOL_DUMMY_2b0">false</string>
+  <string name="APKTOOL_DUMMY_2b1">false</string>
+  <string name="APKTOOL_DUMMY_2b2">false</string>
+  <string name="APKTOOL_DUMMY_2b3">false</string>
+  <string name="APKTOOL_DUMMY_2b4">false</string>
+  <string name="APKTOOL_DUMMY_2b5">false</string>
+  <string name="APKTOOL_DUMMY_2b6">false</string>
+  <string name="APKTOOL_DUMMY_2b7">false</string>
+  <string name="APKTOOL_DUMMY_2b8">false</string>
   <string name="about_app_name">Video Player</string>
   <string name="about_title">About</string>
   <string name="about_version">1.0.1</string>
