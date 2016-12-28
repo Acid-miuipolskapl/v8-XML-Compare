@@ -197,6 +197,8 @@ Use only the supplied charger."</string>
   <string name="quick_settings_connecting">Connecting</string>
   <string name="quick_settings_done">Done</string>
   <string name="quick_settings_more_settings">More settings</string>
+  <string name="quick_settings_tiles">default</string>
+  <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location</string>
   <string name="quick_settings_wifi_detail_empty_text">No WLAN networks available</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
