@@ -350,6 +350,7 @@
   <string name="mx_online">Activated</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="mx_stranger_recommend_msg">Tap to block Mi Messages from unknown numbers</string>
   <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring charges</string>
   <string name="need_download">Syncing…</string>
   <string name="networking_allow_continue">OK</string>
