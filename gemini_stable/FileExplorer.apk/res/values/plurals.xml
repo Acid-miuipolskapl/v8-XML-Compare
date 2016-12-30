@@ -240,37 +240,9 @@
         <item quantity="few">videos</item>
         <item quantity="many">videos</item>
     </plurals>
-    <plurals name="user_follow_me_items">
-        <item quantity="other">followers</item>
-        <item quantity="zero">followers</item>
-        <item quantity="one">follower</item>
-        <item quantity="two">followers</item>
-        <item quantity="few">followers</item>
-        <item quantity="many">followers</item>
-    </plurals>
-    <plurals name="number_of_comment">
-        <item quantity="other">%1$s comments</item>
-        <item quantity="zero">%1$s comments</item>
-        <item quantity="one">%1$s comment</item>
-        <item quantity="two">%1$s comments</item>
-        <item quantity="few">%1$s comments</item>
-        <item quantity="many">%1$s comments</item>
-    </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
-    </plurals>
-    <plurals name="follow_count">
-        <item quantity="other">%1$s followers</item>
-        <item quantity="zero">%1$s followers</item>
-        <item quantity="one">%1$s follower</item>
-        <item quantity="two">%1$s followers</item>
-        <item quantity="few">%1$s followers</item>
-        <item quantity="many">%1$s followers</item>
+        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> videos</item>
+        <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> video</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s comments</item>
@@ -280,4 +252,50 @@
         <item quantity="other">You can enter %d characters</item>
         <item quantity="one">You can enter %d character</item>
     </plurals>
+    <plurals name="video_items">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> days</item>
+        <item quantity="one">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> day</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">• You uploaded &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> videos.</item>
+        <item quantity="one">• You uploaded &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> video.</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">You made &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> people happy!</item>
+        <item quantity="one">You made &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> person happy!</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">• You got &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> followers!</item>
+        <item quantity="one">• You got &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> follower!</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Get %1$d more followers to upgrade your status​</item>
+        <item quantity="one">Get %1$d more follower to upgrade your status</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> followers</item>
+        <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> follower</item>
+    </plurals>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s likes</item>
+        <item quantity="one">%1$s like</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s gems</item>
+        <item quantity="one">%1$s gem</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gems to participate in lucky draw</item>
+        <item quantity="one">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gem to participate in lucky draw</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2c">false</item>
 </resources>

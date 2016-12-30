@@ -334,6 +334,12 @@
         <item>1</item>
         <item>0</item>
     </integer-array>
+    <string-array name="summary_card_text_chain">
+        <item>【订阅频道】订阅适合你的日历功能或服务</item>
+        <item>【订阅频道】来定制属于你的独家小米日历</item>
+        <item>【订阅频道】为你量身定制的日历功能和服务</item>
+        <item>【订阅频道】发现不一样的日历功能和服务</item>
+    </string-array>
     <string-array name="quick_response_defaults">
         <item>Running just a couple of minutes late.</item>
         <item>Be there in about 10 minutes.</item>
@@ -495,4 +501,13 @@
         <item>Only when ringer is silenced</item>
         <item>Never</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_33">false</item>
+    <item type="array" name="APKTOOL_DUMMY_34">false</item>
+    <item type="array" name="APKTOOL_DUMMY_35">false</item>
+    <item type="array" name="APKTOOL_DUMMY_36">false</item>
+    <item type="array" name="APKTOOL_DUMMY_37">false</item>
+    <item type="array" name="APKTOOL_DUMMY_38">false</item>
+    <item type="array" name="APKTOOL_DUMMY_39">false</item>
+    <item type="array" name="APKTOOL_DUMMY_3a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_3b">false</item>
 </resources>

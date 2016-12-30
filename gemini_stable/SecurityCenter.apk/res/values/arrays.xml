@@ -81,6 +81,9 @@
         <item>0</item>
         <item>2</item>
     </string-array>
+    <string-array name="long_add_menu">
+        <item>Add to exceptions</item>
+    </string-array>
     <integer-array name="pc_time_choice_items">
         <item>1</item>
         <item>5</item>
@@ -133,4 +136,9 @@
         <item>3</item>
         <item>4</item>
     </integer-array>
+    <item type="array" name="APKTOOL_DUMMY_19">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1d">false</item>
 </resources>

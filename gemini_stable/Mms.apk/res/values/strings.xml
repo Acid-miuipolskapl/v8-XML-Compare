@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_2af">false</string>
+  <string name="APKTOOL_DUMMY_2b0">false</string>
+  <string name="APKTOOL_DUMMY_2b1">false</string>
+  <string name="APKTOOL_DUMMY_2b2">false</string>
+  <string name="APKTOOL_DUMMY_2b3">false</string>
+  <string name="APKTOOL_DUMMY_2b4">false</string>
+  <string name="APKTOOL_DUMMY_2b5">false</string>
+  <string name="APKTOOL_DUMMY_2b6">false</string>
+  <string name="APKTOOL_DUMMY_2b7">false</string>
+  <string name="APKTOOL_DUMMY_2b8">false</string>
+  <string name="APKTOOL_DUMMY_2b9">false</string>
+  <string name="APKTOOL_DUMMY_2ba">false</string>
+  <string name="APKTOOL_DUMMY_2bb">false</string>
+  <string name="APKTOOL_DUMMY_2bc">false</string>
+  <string name="APKTOOL_DUMMY_2bd">false</string>
+  <string name="APKTOOL_DUMMY_2be">false</string>
+  <string name="APKTOOL_DUMMY_2bf">false</string>
+  <string name="APKTOOL_DUMMY_2c0">false</string>
+  <string name="APKTOOL_DUMMY_2c1">false</string>
+  <string name="APKTOOL_DUMMY_2c2">false</string>
+  <string name="APKTOOL_DUMMY_2c3">false</string>
+  <string name="APKTOOL_DUMMY_2c4">false</string>
+  <string name="APKTOOL_DUMMY_2c5">false</string>
+  <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="activity_not_found_uri">No app was found to handle this action</string>
@@ -38,7 +62,10 @@
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">"Couldn't download audio"</string>
+  <string name="audio_message_expired">This voice message has expired.</string>
+  <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
   <string name="batch_delete_confirm_dialog_message">Delete %1$s messages?</string>
@@ -193,6 +220,7 @@
   <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
   <string name="found_wild_messages_title">Sync messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
+  <string name="from_pkg_name">From the app:</string>
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
   <string name="group_resend_message">Resend (%d)</string>
@@ -206,6 +234,16 @@
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="hold_to_talk">Hold to talk</string>
+  <string name="hybrid_check_network">Network settings</string>
+  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_network_access_denied">Network access denied</string>
+  <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Just a sec…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Release to refresh…</string>
+  <string name="hybrid_service_unavailiable">"Service isn't available"</string>
+  <string name="hybrid_try_again">Try again</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
@@ -363,6 +401,7 @@
   <string name="open_url_with_web">Open this URL in Browser?</string>
   <string name="over_max_mms_size">MMS is too big.</string>
   <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">This response will be deleted.</string>
   <string name="phrase_empty">No responses</string>
   <string name="phrase_from">From %1s</string>
@@ -378,23 +417,23 @@
   <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
   <string name="pref_cell_broadcast">Cell Broadcasts</string>
   <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
-  <string name="pref_delivery_ringtone">Sound notification</string>
+  <string name="pref_delivery_ringtone">Delivery sound</string>
   <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
   <string name="pref_forward_title">Forward</string>
-  <string name="pref_message_recovery_introduction_title">Recover messages</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
+  <string name="pref_msg_trash_bin_title">Recently deleted messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
-  <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
+  <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow messages to load content from websites</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
   <string name="pref_summary_delivery_reports">Show delivery status for sent messages</string>
-  <string name="pref_summary_delivery_ringtone">Receive sound notification for sent message.</string>
+  <string name="pref_summary_delivery_ringtone">Receive sound notifications for delivered messages.</string>
   <string name="pref_summary_hide_festival">Hide Chinese language only features when system is set to a non-Chinese language</string>
   <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
   <string name="pref_summary_mms_auto_retrieval">Download photos and videos in messages automatically</string>
@@ -411,6 +450,7 @@
   <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other together</string>
   <string name="pref_time_auto_group_title">Group by time</string>
+  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
   <string name="pref_title_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
@@ -671,6 +711,6 @@ Attempt made: %s."</string>
   <string name="wild_msg_processing">Working…</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="xiaomi_service_number">Service number</string>
-  <string name="yellowpage_recommend_msg">"Try out MIUI's SMS message features"</string>
+  <string name="yellowpage_recommend_msg">"Check out MIUI's Messaging features"</string>
   <string name="yes">OK</string>
 </resources>

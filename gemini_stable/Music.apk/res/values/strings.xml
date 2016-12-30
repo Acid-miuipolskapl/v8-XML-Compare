@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_320">false</string>
+  <string name="APKTOOL_DUMMY_321">false</string>
+  <string name="APKTOOL_DUMMY_322">false</string>
+  <string name="APKTOOL_DUMMY_323">false</string>
+  <string name="APKTOOL_DUMMY_324">false</string>
+  <string name="APKTOOL_DUMMY_325">false</string>
+  <string name="APKTOOL_DUMMY_326">false</string>
+  <string name="APKTOOL_DUMMY_327">false</string>
+  <string name="APKTOOL_DUMMY_328">false</string>
+  <string name="APKTOOL_DUMMY_329">false</string>
+  <string name="APKTOOL_DUMMY_32a">false</string>
+  <string name="APKTOOL_DUMMY_32b">false</string>
+  <string name="APKTOOL_DUMMY_32c">false</string>
+  <string name="APKTOOL_DUMMY_32d">false</string>
+  <string name="APKTOOL_DUMMY_32e">false</string>
+  <string name="APKTOOL_DUMMY_32f">false</string>
+  <string name="APKTOOL_DUMMY_330">false</string>
+  <string name="APKTOOL_DUMMY_331">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>
@@ -26,18 +44,9 @@
   <string name="ad_mark">AD</string>
   <string name="add_music">Add songs</string>
   <string name="add_to_last_of_playlist">Add to the end of playlist</string>
-  <string name="alaka_required">"This song isn't available."</string>
+  <string name="alaka_required">You should pay for this song to listen to it</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
-  <string name="alert_msg_vip_song_for_download">Get Premium Song Pack to download this song.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">You have used up your download quota for this month. Upgrade your Premium Song Pack to download more.</string>
-  <string name="alert_msg_vip_song_for_stream">Get Premium Song Pack to stream this song.</string>
-  <string name="alert_msg_vip_songs_for_download">Get Premium Song Pack to download all songs.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">You have used up your download quota for this month. Upgrade your Premium Song Pack to download more.</string>
-  <string name="alert_msg_vip_songs_for_stream">Some songs can only be streamed with Premium Song Pack.</string>
-  <string name="alert_title_vip_song">Premium songs</string>
-  <string name="alert_title_vip_songs">Premium Song Pack</string>
-  <string name="alert_title_vip_songs_upgrade">Upgrade your Premium Song Pack</string>
   <string name="all_artist">All artists</string>
   <string name="all_downloads">All downloads</string>
   <string name="all_fileter">All</string>
@@ -87,7 +96,6 @@
   <string name="button_wait_for_wifi">Wait</string>
   <string name="buy_other_flow">Regular data</string>
   <string name="buy_traffic">China Unicom</string>
-  <string name="buy_vip">Get Premium Song Pack</string>
   <string name="can_not_find_resource">"Can't find resources"</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
@@ -279,7 +287,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Create</string>
   <string name="eq_preset_format">User preset %d</string>
-  <string name="eq_preset_hint">Preset name</string>
+  <string name="eq_preset_hint">Effect name</string>
   <string name="eq_preset_rename">Rename</string>
   <string name="eq_preset_select">Choose a preset</string>
   <string name="eq_rock">Rock</string>
@@ -379,7 +387,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="local_page_song_download">Local songs</string>
   <string name="local_page_song_favorite">Favorite songs</string>
   <string name="local_tracks_short">Offline</string>
-  <string name="login_first">Sign in to your Mi Account first</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
   <string name="lrc_searching">Searching…</string>
   <string name="lyric">Lyrics</string>
@@ -430,6 +437,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="monthly_price">Mi Credits</string>
   <string name="more">More</string>
   <string name="more_about_artist">More about %s</string>
+  <string name="more_add_song_list">Add to playlist</string>
   <string name="more_online_artist">More</string>
   <string name="more_online_billboard">More</string>
   <string name="more_online_fm">More</string>
@@ -439,6 +447,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="more_online_suggest">More</string>
   <string name="more_settings">Advanced settings</string>
   <string name="more_settings_summary">Download settings, sleep timer, mobile data management, filters for files, etc.</string>
+  <string name="more_share">Share</string>
   <string name="multichoice">Select</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
@@ -464,6 +473,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="network_request_error">"Can't connect to the network"</string>
   <string name="network_settings_error">"Can't connect to the network"</string>
   <string name="network_traffic">Data usage</string>
+  <string name="news_mark">NEWS</string>
   <string name="next_time">Not now</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
@@ -506,7 +516,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notification_recommend_title">Important notifications</string>
   <string name="notification_setting">Notification settings</string>
   <string name="notification_title_no_song">"Check out what everyone's listening to!"</string>
-  <string name="nowplaying_menu_item_delete">Delete</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Clear current playlist?</string>
+  <string name="nowplaying_menu_item_delete">Clear</string>
   <string name="ok">OK</string>
   <string name="one_month">1 month</string>
   <string name="online_bill">Charts</string>
@@ -523,7 +534,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">Other</string>
-  <string name="othor_song_in_album">Other songs from this album</string>
+  <string name="other_song_in_album">Other songs from this album</string>
   <string name="package_filter">Packages</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
@@ -699,7 +710,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="storage_internal">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
-  <string name="stream_normal">Play in Standard quality</string>
   <string name="stream_quality">Streaming quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
   <string name="sub_explanation">Mi Music data plan</string>
@@ -748,8 +758,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="title_search_history">Search history</string>
   <string name="title_search_hot">Popular</string>
   <string name="to_mi_pay">Mi Credits</string>
-  <string name="toast_cancel_download">Download canceled</string>
-  <string name="toast_cancel_play">Play canceled</string>
   <string name="toast_download_error_by_count_limit">You have used up your download quota for this month.</string>
   <string name="toast_download_error_by_not_login">Sign in to Mi Account and try again.</string>
   <string name="toast_download_error_by_vip_required">Get Premium Song Pack to download this song.</string>
@@ -759,8 +767,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="toast_stream_normal">Now playing in Standard quality. Get Premium Song Pack to enjoy High quality streaming.</string>
   <string name="toast_uhd_songs_for_download">Downloading quality set to High</string>
   <string name="toast_uhd_songs_for_stream">Streaming quality set to High</string>
-  <string name="toast_vip_download_one_limit">" You have used up your download quota for this month. You can download more songs when you get Premium Song Pack next month."</string>
-  <string name="toast_vip_download_some_limit">" You have used up your download quota for this month. You can download more songs when you get Premium Song Pack next month. "</string>
   <string name="too_freq">Too many requests sent from this device.</string>
   <string name="tos">Terms of Service</string>
   <string name="track_list_control_download">Download</string>
@@ -794,7 +800,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="upgrade_services">Updates</string>
   <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_to">Upgrade to</string>
-  <string name="upgrade_vip">Upgrade Premium Song Pack</string>
   <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
   <string name="valid_period">Valid: %s</string>
   <string name="version_info">Version</string>

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_8c">false</string>
+  <string name="APKTOOL_DUMMY_8d">false</string>
+  <string name="APKTOOL_DUMMY_8e">false</string>
   <string name="add_frequent_phrases">Add frequent phrases</string>
   <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
   <string name="android_ringtone_silent">None</string>
@@ -93,6 +96,7 @@
   <string name="menu_add_frequent_phrases">Add</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_edit">Edit</string>
+  <string name="miclassic">MiClassic</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
