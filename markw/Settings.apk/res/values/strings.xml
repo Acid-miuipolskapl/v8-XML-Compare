@@ -555,7 +555,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s wants to access your messages. Give access to %2$s?</string>
-  <string name="bluetooth_map_profile_summary_connected">Connected to map</string>
+  <string name="bluetooth_map_profile_summary_connected">Connected to MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Use for map</string>
   <string name="bluetooth_map_request">Message access request</string>
   <string name="bluetooth_menu_advanced">Advanced</string>

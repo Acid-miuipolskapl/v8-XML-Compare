@@ -36,6 +36,7 @@
         <item>com.miui.home</item>
         <item>com.miui.personalassistant</item>
         <item>com.mi.AutoTest</item>
+        <item>com.miui.packageinstaller</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
