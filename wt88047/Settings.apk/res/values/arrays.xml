@@ -1758,14 +1758,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>privacy_gallery</item>
         <item>privacy_file</item>
         <item>privacy_notes</item>
-        <item>child_mode</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Messages</item>
         <item>Photos</item>
         <item>Files</item>
         <item>Notes</item>
-        <item>Child mode</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
