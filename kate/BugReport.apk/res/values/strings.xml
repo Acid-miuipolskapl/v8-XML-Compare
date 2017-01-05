@@ -13,7 +13,6 @@
   <string name="bugreport_dump_complete_notification_title">Created bug report</string>
   <string name="bugreport_dump_start_notification_summary">This takes several minutes.</string>
   <string name="bugreport_dump_start_notification_title">Creating bug report…</string>
-  <string name="bugreport_feedback_from">From: %s</string>
   <string name="bugreport_tool_log">Create bug report</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>

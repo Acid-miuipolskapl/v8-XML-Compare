@@ -293,5 +293,5 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="screen_overlay_button">Open settings</string>
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
-  <string name="static_cache_db_md5">7ab35c23cfa7ac94733566cb09f6be58</string>
+  <string name="static_cache_db_md5">a56d52faf4cf9fe0ee680275d09fdc2b</string>
 </resources>
