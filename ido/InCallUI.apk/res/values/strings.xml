@@ -32,7 +32,9 @@
   <string name="callFailed_unobtainable_number">Invalid number</string>
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Forwarded unanswered call</string>
+  <string name="call_button_conference_manager_text">Conference manager</string>
   <string name="call_button_dialer_text">Keyboard</string>
+  <string name="call_button_mute_text">Mute</string>
   <string name="call_button_tools_text">Features</string>
   <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Recording…</string>
@@ -62,6 +64,7 @@
   <string name="card_title_hanging_up">"Hanging up "</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
+  <string name="card_title_in_video">Video </string>
   <string name="card_title_incoming_call">Incoming call</string>
   <string name="card_title_incoming_conference_call">Incoming conference call</string>
   <string name="card_title_on_hold">"On hold "</string>
@@ -72,6 +75,8 @@
   <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
   <string name="card_title_video_call">Video call</string>
   <string name="card_title_video_call_paused">Video paused</string>
+  <string name="card_title_video_conf_call">Video conference call</string>
+  <string name="card_video_hold_swap">Swap</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s people</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
@@ -240,6 +245,7 @@
   <string name="unknown">Unknown</string>
   <string name="upgrade_vt_prompt">Switch to video call?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
+  <string name="video_conference_caller_info_name">"%1$s's video conference call"</string>
   <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
   <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Send the following tones?

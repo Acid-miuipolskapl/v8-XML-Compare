@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Calculator</string>
+  <string name="app_name_danfa">Mi Calculator</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">Copy</string>
   <string name="cal_edit_mode">Edit mode</string>
@@ -26,7 +27,7 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
+  <string name="currency_update_time_format">Exchange rates are provided by webull (%s)</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
   <string name="dateformat">MM/dd/yyyy</string>
@@ -143,10 +144,14 @@
   <string name="power">^</string>
   <string name="powerDesc">power</string>
   <string name="preference_about_calculator">About Calculator</string>
+  <string name="preference_alert_follow_qq_group">Copy and paste into QQ to feedback</string>
   <string name="preference_alert_follow_wechat">Copy and paste into WeChat to follow</string>
   <string name="preference_alert_follow_wechat_button">Copy</string>
+  <string name="preference_check_update_summary_current_version">Current version：%s</string>
+  <string name="preference_check_update_summary_new_version">Has new version：%s</string>
   <string name="preference_check_update_title">Check for updates</string>
   <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_qq_group">QQ Group:523274279</string>
   <string name="preference_follow_us">Follow us</string>
   <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Official website</string>

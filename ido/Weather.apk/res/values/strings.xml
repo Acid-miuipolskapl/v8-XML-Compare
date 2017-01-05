@@ -31,7 +31,7 @@
   <string name="already_voted">Voted</string>
   <string name="already_voted_toast">"You've already voted today"</string>
   <string name="app_name">Weather</string>
-  <string name="aqi_data_source">Powered by Caiyun Weather</string>
+  <string name="aqi_data_source">powered by Colorful Clouds</string>
   <string name="aqi_desc">Air Quality Index</string>
   <string name="aqi_detail_24_hours">Hourly forecast</string>
   <string name="aqi_detail_5_days">Daily forecast</string>
@@ -63,8 +63,8 @@
   <string name="common_loading_text">Just a sec…</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
   <string name="daily_forcast_drawer_on_top">%1$s day forecast</string>
-  <string name="daily_forcast_no_stable_direction">No wind</string>
-  <string name="daily_forcast_no_wind">&lt;12km/h</string>
+  <string name="daily_forcast_no_stable_direction">Breeze</string>
+  <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
   <string name="daily_forcast_temperature_connect"/>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -105,6 +105,7 @@
   <string name="indices_title_sport">Sports</string>
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Visibility</string>
+  <string name="information_manager_extension">Weather extension</string>
   <string name="information_manager_information">Weather info</string>
   <string name="information_manager_wlan">Show when connected to WLAN</string>
   <string name="information_menu_title"/>
@@ -136,12 +137,15 @@ Tap the screen to manually add or reposition city"</string>
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">Open</string>
   <string name="open_browser">Open in browser</string>
+  <string name="other">Other</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">Relative humidity</string>
   <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">"Couldn't connect to network"</string>
   <string name="retry">Try again</string>
+  <string name="search_weather">Weather</string>
+  <string name="search_weather_keywords">Temperature;Weather Forecast;Weather;Air Quality;Pollution Degree;Humidity</string>
   <string name="set">Settings</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>

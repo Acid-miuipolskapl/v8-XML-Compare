@@ -168,6 +168,10 @@ Use only the supplied charger."</string>
   <string name="not_support_multi_window">"Current app doesn't support split-screen mode"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
+  <string name="notification_low_battery_action_btn">Turn on</string>
+  <string name="notification_low_battery_need_charge">The battery is low. Charge your device.</string>
+  <string name="notification_low_battery_open_save_mode">Turn on Battery saver</string>
+  <string name="notification_low_battery_title">Low battery: %d%%</string>
   <string name="notification_manager">Manage notifications</string>
   <string name="notification_manager_des">Filter and manage notifications</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
