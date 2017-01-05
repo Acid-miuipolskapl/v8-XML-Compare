@@ -41,6 +41,11 @@
         <item>Message from Browser</item>
         <item>Follow the Olympics with Mi</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
+    </string-array>
     <string-array name="baidu">
         <item>百度</item>
         <item>baidu.com</item>
@@ -204,6 +209,11 @@
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_values">
+        <item>back_forward</item>
+        <item>switch_tabs</item>
+        <item>none</item>
     </string-array>
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
