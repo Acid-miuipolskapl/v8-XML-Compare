@@ -1012,8 +1012,10 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_edit_title">SIP account details</string>
   <string name="sip_menu_discard">Discard</string>
   <string name="sip_menu_save">Save</string>
+  <string name="sip_profile_create_error">can not create new SIP profile</string>
   <string name="sip_receive_calls">Receive incoming calls</string>
   <string name="sip_receive_calls_summary">Uses more battery life</string>
+  <string name="sip_save_register_error">can not save and register new SIP profile</string>
   <string name="sip_settings">SIP settings</string>
   <string name="sip_system_decide">Automatic</string>
   <string name="sports_news_settings">Sports News</string>
