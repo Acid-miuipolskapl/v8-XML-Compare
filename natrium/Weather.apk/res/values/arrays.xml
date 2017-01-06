@@ -49,6 +49,14 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Unhealthy for Sensitive Groups</item>
+        <item>Unhealthy</item>
+        <item>Very Unhealthy</item>
+        <item>Hazardous</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Clear</item>
         <item>Cloudy</item>
@@ -92,6 +100,16 @@
         <item>Improper</item>
     </string-array>
     <string-array name="wind_direction">
+        <item>North</item>
+        <item>Northeast</item>
+        <item>East</item>
+        <item>Southeast</item>
+        <item>South</item>
+        <item>Southwest</item>
+        <item>West</item>
+        <item>Northwest</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
         <item>N</item>
         <item>NE</item>
         <item>E</item>
@@ -102,19 +120,19 @@
         <item>NW</item>
     </string-array>
     <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Good</item>
@@ -123,5 +141,33 @@
         <item>Poor</item>
         <item>Very poor</item>
         <item>Severe</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>beaufort scale</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;force 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufort scale</item>
+        <item>Kilometres per hour (km/h)</item>
+        <item>Metre per second (m/s)</item>
+        <item>Miles per hour (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>force %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>
