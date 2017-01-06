@@ -81,7 +81,7 @@
   <string name="button_text_unselect_pic">Deselect</string>
   <string name="button_text_view_detail">Details</string>
   <string name="button_text_view_file">File</string>
-  <string name="buy_a_new_phone">Storage Upgrade</string>
+  <string name="buy_a_new_phone">Get more storage space</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
   <string name="byteShort">B</string>
@@ -96,7 +96,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
-  <string name="clear_bigfiles">Delete big files, duplicate photos, and other useless items</string>
+  <string name="clear_bigfiles">Delete big files, duplicate photos, and other obsolete items</string>
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="clip_board_history_desc">Copied/cut contents</string>
@@ -153,7 +153,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Cleaner engine has been corrupted.</string>
   <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
   <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps?（including clone apps）?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps including their Dual apps?</string>
   <string name="dialog_ok_add_white_list_error">Got it</string>
   <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
@@ -169,12 +169,13 @@
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
   <string name="empty_content_no_similar_image">No photos</string>
-  <string name="empty_title_ad">No ad files found</string>
+  <string name="empty_title_ad">No obsolete files found</string>
   <string name="empty_title_apk">No install packages found</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
   <string name="empty_title_garbage_white_list">Hold items to add them to exceptions.</string>
   <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
+  <string name="empty_title_photos">No photos found</string>
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="flow_rank_title">Data usage</string>
@@ -189,7 +190,7 @@
   <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
   <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
   <string name="hint_clean_select_items">Deleting duplicates…</string>
-  <string name="hints_ad_header_left">Ad files</string>
+  <string name="hints_ad_header_left">Obsolete files</string>
   <string name="hints_apk_header_left">Packages</string>
   <string name="hints_apk_version">Version %s</string>
   <string name="hints_app_uninstall_residual">Clean up residual uninstall files?</string>
@@ -355,7 +356,7 @@
   <string name="msg_update_error_code_unknown_error">Unknown error</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Privacy Policy</string>
-  <string name="nb_clear_set">Clear ROM, view battery and blocklist info in the notification shade</string>
+  <string name="nb_clear_set">Clear cache, view battery and blocklist info in the notification shade</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"Can't connect to the network"</string>
@@ -494,7 +495,7 @@
   <string name="title_of_traffic_notification">Data stats bar</string>
   <string name="title_optimizer">Terms and Conditions</string>
   <string name="title_share_link">Share URL</string>
-  <string name="toast_add_white_list_success">" added to exceptions"</string>
+  <string name="toast_add_white_list_success">Added to exceptions successfully</string>
   <string name="toast_app_no_residual_on_sdcard">"App doesn't have any files stored on your SD card"</string>
   <string name="toast_backup_is_running">Backup is already running</string>
   <string name="toast_backup_uninstall_failed">"Couldn't back up %d apps"</string>
@@ -506,7 +507,7 @@
   <string name="toast_must_select_before_restore">Choose photos to restore</string>
   <string name="toast_network_eror">"Can't connect to network"</string>
   <string name="toast_network_switch">This app can connect to the internet</string>
-  <string name="toast_removed_from_white_list">" removed from exceptions"</string>
+  <string name="toast_removed_from_white_list">Removed from exceptions successfully</string>
   <string name="toast_resolve_apk_error">Resolve apk error</string>
   <string name="toast_scaning_similar_image">Checking photos…</string>
   <string name="toast_select_image_need_delete">Choose photos to delete</string>
@@ -519,7 +520,7 @@
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
   <string name="vungle_ad_name">Vungle广告</string>
-  <string name="white_list_ad_header">Ad files: %d</string>
+  <string name="white_list_ad_header">Obsolete files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>
   <string name="white_list_cache_header">Cached files: %d</string>
   <string name="white_list_large_file_header">Big files and videos: %d</string>

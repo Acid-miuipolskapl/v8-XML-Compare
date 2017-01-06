@@ -278,7 +278,6 @@ Contact cards are turned off"</string>
   <string name="data_left">Remaining data</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
-  <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
   <string name="date_time_set">Set</string>
   <string name="date_year_toggle">Provide a year</string>
   <string name="default_ringtone">Default ringtone</string>
@@ -343,7 +342,6 @@ Contact cards are turned off"</string>
   <string name="deselect_all">Deselect all</string>
   <string name="details_list_group_header_other">OTHER</string>
   <string name="device_bluetooth_title">Transfer contacts</string>
-  <string name="device_brand_title">Choose a brand</string>
   <string name="device_import_account_dialog_title">Choose an account</string>
   <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
@@ -356,15 +354,30 @@ Contact cards are turned off"</string>
   <string name="device_import_progress_toast">%1$d contacts imported</string>
   <string name="device_import_title">Import</string>
   <string name="device_list_title">Choose a phone</string>
-  <string name="device_other_guide">"If your phone isn't listed, follow the steps below"</string>
-  <string name="device_other_title">Other phone</string>
+  <string name="device_other_guide">Other phone supports bluetooth?</string>
+  <string name="device_other_title">Import from other phones</string>
   <string name="device_paired_dialog_message">Fetching contacts…</string>
   <string name="device_paired_dialog_title">Fetching contacts…</string>
   <string name="device_pairing_dialog_message">Pairing…</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
-  <string name="device_version_header_bluetooth">Make sure Bluetooth is on</string>
-  <string name="device_version_header_no_bluetooth">Import contacts using SIM card</string>
-  <string name="device_version_title">Choose a model</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Please turn other device's \"Bluetooth\" on;
+        
+
+- Android devices usually should find the \"Bluetooth\" under the network section
+        
+- iOS devices should search \"Bluetooth\" inside Settings
+        
+
+2. Android devices should also turn the \"Discoverable\" option on;
+        
+
+3. Click \"Next\", and allow the contacts accessing permission in the following step."</string>
+  <string name="device_transfer_by_sim_message">"1. Save your other device's contacts on the SIM card;
+        
+
+2. Goto \"Contacts settings\" -- \"Import/Export contacts\" -- \"Import from SIM card\", long press any SIM contact, choose those contacts to be imported, then click the \"Import\" option."</string>
+  <string name="device_version_header_bluetooth">Import via Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Import via SIM card</string>
   <string name="dial">Dial</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
   <string name="dialerIconLabel">Recents</string>
@@ -406,7 +419,7 @@ Contact cards are turned off"</string>
   <string name="editContactNameExpandOpenDescription">Expand name</string>
   <string name="editGroupDescription">Edit group</string>
   <string name="edit_contact">Edit contact</string>
-  <string name="edit_contact_card_title">Edit contact card</string>
+  <string name="edit_contact_card_title">Select items to share</string>
   <string name="edit_contact_photo">Edit contact photo</string>
   <string name="email">Email</string>
   <string name="emailLabelsGroup">Email</string>
@@ -577,6 +590,11 @@ Reason: \"%s\""</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">Contact</string>
+  <string name="live_talk_switch_on_toast">Live talk has been enabled</string>
+  <string name="livetalk_charge">Charge</string>
+  <string name="livetalk_left">Remaining livetalk</string>
+  <string name="livetalk_switch_on">Switch on</string>
+  <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">Just a sec…</string>
   <string name="loading_group_members">Just a sec…</string>
   <string name="loading_groups">Just a sec…</string>
@@ -586,6 +604,7 @@ Reason: \"%s\""</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
   <string name="login_ok">Sign in</string>
+  <string name="low_memory_toast">"Can't use this feature due to low memory."</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
@@ -723,8 +742,8 @@ Reason: \"%s\""</string>
   <string name="multi_number_title">Conference call</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
-  <string name="my_phone_not_provider_bluetooth">"My phone doesn't have Bluetooth"</string>
-  <string name="my_phone_provider_bluetooth">My phone has Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">No</string>
+  <string name="my_phone_provider_bluetooth">Yes</string>
   <string name="nameLabelsGroup">Name</string>
   <string name="name_family">Family name</string>
   <string name="name_given">Given name</string>
@@ -1042,7 +1061,7 @@ To add a contact to your list of favorites:
   <string name="search_contacts_display">Contacts;Display</string>
   <string name="search_contacts_more">Organize;Contacts</string>
   <string name="search_contacts_recovery">Contacts</string>
-  <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction</string>
+  <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction;Contact photos</string>
   <string name="search_display_only_phones">Contacts;Display</string>
   <string name="search_display_sim_contacts">Contacts;Display</string>
   <string name="search_export_to_sdcard">Contacts;Export;storage</string>
@@ -1168,7 +1187,7 @@ To add a contact to your list of favorites:
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
-  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
+  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
   <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
   <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">Take new photo</string>
@@ -1190,6 +1209,7 @@ To add a contact to your list of favorites:
   <string name="toast_making_personal_copy">Creating a personal copy…</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="today">Today</string>
+  <string name="tomorrow">Tomorrow</string>
   <string name="transfer_accounts">Transfer accounts</string>
   <string name="type_incoming">Incoming call</string>
   <string name="type_missed">Missed call</string>
@@ -1255,9 +1275,10 @@ Choose one of the following options:"</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
+  <string name="yellowpage_fc_toast">"Can't use this feature because Yellow pages crashed."</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
@@ -1277,5 +1298,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
   <string name="yellowpage_search_the_yellowpage">Search Yellow pages</string>
   <string name="yellowpage_user_profile">Profile</string>
+  <string name="yesterday">Yesterday</string>
   <string name="zero_items_selected">Select items</string>
 </resources>

@@ -33,11 +33,11 @@
         <item quantity="one">"%d day "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d hrs "</item>
+        <item quantity="other">"%d hr "</item>
         <item quantity="one">"%d hr "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d mins "</item>
+        <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
@@ -55,6 +55,10 @@
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d battery issues</item>
         <item quantity="one">%d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Found %d battery issues, fix them</item>
+        <item quantity="one">Found %d battery issue, fix it</item>
     </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d items can be optimized</item>
@@ -129,6 +133,10 @@
         <item quantity="other">%d​ risks found, fix now</item>
         <item quantity="one">%d risk found, fix now</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Everything looks good</item>
+        <item quantity="one">Everything looks good</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apps contain privacy risks</item>
         <item quantity="one">%d app contains privacy risks</item>
@@ -176,7 +184,7 @@
     </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d items</item>
-        <item quantity="one">One item</item>
+        <item quantity="one">1 item</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s payment risks</item>
@@ -195,8 +203,8 @@
         <item quantity="one">"%s app isn't protected"</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d locked apps wait to be cleared</item>
-        <item quantity="one">%d locked app wait to be cleared</item>
+        <item quantity="other">%d locked apps are waiting to be cleared</item>
+        <item quantity="one">%d locked app is waiting to be cleared</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">Deleted %d viruses</item>

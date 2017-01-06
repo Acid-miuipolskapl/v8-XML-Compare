@@ -1022,12 +1022,14 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
-        <item>Quick snap mode (select in Camera)</item>
+        <item>Quick snap mode (photo)</item>
+        <item>Quick snap mode (video)</item>
         <item>Public transportation shortcuts</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
+        <item>none</item>
+        <item>Street-snap-picture</item>
+        <item>Street-snap-movie</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -1427,6 +1429,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>XXXL</item>
     </string-array>
     <string-array name="organized_locales">
+        <item>al</item>
         <item>dz</item>
         <item>ao</item>
         <item>ag</item>
@@ -1435,9 +1438,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>bh</item>
         <item>bd</item>
         <item>bb</item>
+        <item>by</item>
         <item>be</item>
         <item>bz</item>
         <item>bo</item>
+        <item>ba</item>
         <item>bw</item>
         <item>bg</item>
         <item>br</item>
@@ -1456,6 +1461,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>eg</item>
         <item>sv</item>
         <item>gq</item>
+        <item>ee</item>
         <item>et</item>
         <item>fk</item>
         <item>fr</item>
@@ -1481,15 +1487,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>kz</item>
         <item>ke</item>
         <item>kw</item>
+        <item>lv</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
         <item>lt</item>
+        <item>mk</item>
         <item>mw</item>
         <item>my</item>
+        <item>mt</item>
         <item>mr</item>
         <item>mu</item>
         <item>mx</item>
+        <item>md</item>
+        <item>me</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
@@ -1515,6 +1526,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>rs</item>
         <item>sg</item>
         <item>sk</item>
+        <item>si</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -1527,6 +1539,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>se</item>
         <item>ch</item>
         <item>sy</item>
         <item>tw</item>
@@ -1539,6 +1552,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>gb</item>
         <item>us</item>
         <item>uy</item>
         <item>uz</item>
@@ -1576,6 +1590,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>IR</item>
         <item>JM</item>
         <item>JO</item>
+        <item>KR</item>
         <item>KW</item>
         <item>MX</item>
         <item>NI</item>
@@ -1643,14 +1658,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>privacy_gallery</item>
         <item>privacy_file</item>
         <item>privacy_notes</item>
-        <item>child_mode</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Messages</item>
         <item>Photos</item>
         <item>Files</item>
         <item>Notes</item>
-        <item>Child mode</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
@@ -1737,7 +1750,6 @@ SIM卡槽
 宽度：67.2 mm
 厚度：9.4mm"</item>
         <item>"800万像素背照式相机
-
 美国 OmniVision 感光元件 
 5片式镜头
 28mm广角
@@ -1747,9 +1759,7 @@ F2.2光圈，28mm广角
 每秒10连拍
 支持1080P高清视频录制 
 在保证产品技术指标不变的情况下，可能在生产中出现供应商的变化
-
 200万像素前置相机
-
 支持二代智能美颜
 支持720P高清视频录制"</item>
         <item>"5英寸IPS视网膜屏

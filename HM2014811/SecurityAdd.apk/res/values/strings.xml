@@ -14,9 +14,9 @@
   <string name="close">Close</string>
   <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
   <string name="empty">" "</string>
-  <string name="game_booster">Gaming speed boost</string>
+  <string name="game_booster">Game speed boost</string>
   <string name="game_booster_intro">About Gaming speed boost</string>
-  <string name="game_booster_total">Boosted speed %1$s time, added %2$s of gaming time</string>
+  <string name="game_booster_total">Boosted speed %1$s times, added %2$s of gaming time</string>
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
   <string name="game_setting">Game settings</string>
   <string name="gs_app_back_self_start">Battery saver</string>
@@ -73,7 +73,7 @@
   <string name="shield_keyboard_title">Turn off buttons</string>
   <string name="start">Start</string>
   <string name="start_game">Start</string>
-  <string name="support_game_booster_tips">Boost speed &amp; improve gaming experience</string>
+  <string name="support_game_booster_tips">Launch games using Game speed booster</string>
   <string name="title_share_link">Share URL</string>
   <string name="top_game">Top games</string>
   <string name="uninstall_game_count">"Haven't added %d games"</string>

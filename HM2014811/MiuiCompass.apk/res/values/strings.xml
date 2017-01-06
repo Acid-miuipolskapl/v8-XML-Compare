@@ -7,7 +7,7 @@
   <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
   <string name="altitude_uncalibrate_refresh">Try again</string>
   <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
-  <string name="altitude_unit">M</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">"Can't calibrate"</string>
@@ -34,6 +34,7 @@
   <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
   <string name="first_using_dialog_title">Access permission</string>
   <string name="guide_toast">To calibrate, move your phone in the motion below.</string>
+  <string name="keywords_search_compass">Compass;Calibrate compass;Pressure;Altitude;Latitude;Longtitude;Check longtitude; Check latitude;MIUI Compass;Compass app;MIUI Compass app;Where is Compass;Download Compass;Atmospheric pressure; Check altitude;How much is the altitude</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
   <string name="location_enable">Allow</string>
