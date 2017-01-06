@@ -31,4 +31,12 @@
         <item quantity="other">+%d events</item>
         <item quantity="one">+1 event</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_8">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_9">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_c">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_f">false</item>
 </resources>

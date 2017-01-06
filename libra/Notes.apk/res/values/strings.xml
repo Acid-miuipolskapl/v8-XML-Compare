@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_9c">false</string>
+  <string name="APKTOOL_DUMMY_9d">false</string>
+  <string name="APKTOOL_DUMMY_9e">false</string>
+  <string name="APKTOOL_DUMMY_9f">false</string>
+  <string name="APKTOOL_DUMMY_a0">false</string>
+  <string name="APKTOOL_DUMMY_a1">false</string>
+  <string name="APKTOOL_DUMMY_a2">false</string>
+  <string name="APKTOOL_DUMMY_a3">false</string>
+  <string name="APKTOOL_DUMMY_a4">false</string>
+  <string name="APKTOOL_DUMMY_a5">false</string>
+  <string name="APKTOOL_DUMMY_a6">false</string>
+  <string name="APKTOOL_DUMMY_a7">false</string>
+  <string name="APKTOOL_DUMMY_a8">false</string>
+  <string name="APKTOOL_DUMMY_a9">false</string>
+  <string name="APKTOOL_DUMMY_aa">false</string>
+  <string name="APKTOOL_DUMMY_ab">false</string>
+  <string name="APKTOOL_DUMMY_ac">false</string>
+  <string name="APKTOOL_DUMMY_ad">false</string>
+  <string name="APKTOOL_DUMMY_ae">false</string>
+  <string name="APKTOOL_DUMMY_af">false</string>
+  <string name="APKTOOL_DUMMY_b0">false</string>
+  <string name="APKTOOL_DUMMY_b1">false</string>
+  <string name="APKTOOL_DUMMY_b2">false</string>
+  <string name="APKTOOL_DUMMY_b3">false</string>
+  <string name="APKTOOL_DUMMY_b4">false</string>
+  <string name="APKTOOL_DUMMY_b5">false</string>
   <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alarm_bar_title">Reminder</string>
   <string name="alert_action_edit_anyway">Keep editing</string>

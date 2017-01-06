@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_76">false</string>
+  <string name="APKTOOL_DUMMY_77">false</string>
   <string name="about_to_recover">Just a sec…</string>
   <string name="account_error">Account error</string>
   <string name="app_name">Mi Cloud backup​</string>

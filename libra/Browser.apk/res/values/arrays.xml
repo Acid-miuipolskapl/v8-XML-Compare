@@ -335,34 +335,34 @@
         <item>@string/pref_link_prefetch_value_always</item>
     </string-array>
     <integer-array name="readmode_theme_bgcolors">
-        <item>0xfff7f7f7</item>
-        <item>0xffe6ddd1</item>
-        <item>0xffd8d8d8</item>
-        <item>0xffcdc3b5</item>
-        <item>0xffb0c0b6</item>
-        <item>0xff111214</item>
+        <item>0xFFF7F7F7</item>
+        <item>0xFFE6DDD1</item>
+        <item>0xFFD8D8D8</item>
+        <item>0xFFCDC3B5</item>
+        <item>0xFFB0C0B6</item>
+        <item>0xFF111214</item>
     </integer-array>
     <integer-array name="readmode_theme_fontcolors">
-        <item>0xff000000</item>
-        <item>0xff737770</item>
-        <item>0xff3e4042</item>
-        <item>0xff543b20</item>
-        <item>0xff2e3833</item>
-        <item>0xff646974</item>
+        <item>0xFF000000</item>
+        <item>0xFF737770</item>
+        <item>0xFF3E4042</item>
+        <item>0xFF543B20</item>
+        <item>0xFF2E3833</item>
+        <item>0xFF646974</item>
     </integer-array>
     <integer-array name="hot_words_item_text_bg_color">
-        <item>0xfff2f6e8</item>
-        <item>0xffe8f6f6</item>
-        <item>0xfff6f6f6</item>
-        <item>0xfff7f2ec</item>
-        <item>0xfff9ebeb</item>
+        <item>0xFFF2F6E8</item>
+        <item>0xFFE8F6F6</item>
+        <item>0xFFF6F6F6</item>
+        <item>0xFFF7F2EC</item>
+        <item>0xFFF9EBEB</item>
     </integer-array>
     <integer-array name="hot_words_item_text_frame_color">
-        <item>0xffbac49f</item>
-        <item>0xffa3ced7</item>
-        <item>0xffadadad</item>
-        <item>0xffe1c7a6</item>
-        <item>0xffdbacb6</item>
+        <item>0xFFBAC49F</item>
+        <item>0xFFA3CED7</item>
+        <item>0xFFADADAD</item>
+        <item>0xFFE1C7A6</item>
+        <item>0xFFDBACB6</item>
     </integer-array>
     <string-array name="menu_theme_setting">
         <item>White</item>

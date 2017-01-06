@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_d5">false</string>
+  <string name="APKTOOL_DUMMY_d6">false</string>
+  <string name="APKTOOL_DUMMY_d7">false</string>
+  <string name="APKTOOL_DUMMY_d8">false</string>
+  <string name="APKTOOL_DUMMY_d9">false</string>
+  <string name="APKTOOL_DUMMY_da">false</string>
+  <string name="APKTOOL_DUMMY_db">false</string>
+  <string name="APKTOOL_DUMMY_dc">false</string>
+  <string name="APKTOOL_DUMMY_dd">false</string>
+  <string name="APKTOOL_DUMMY_de">false</string>
+  <string name="APKTOOL_DUMMY_df">false</string>
+  <string name="APKTOOL_DUMMY_e0">false</string>
+  <string name="APKTOOL_DUMMY_e1">false</string>
+  <string name="APKTOOL_DUMMY_e2">false</string>
+  <string name="APKTOOL_DUMMY_e3">false</string>
+  <string name="APKTOOL_DUMMY_e4">false</string>
+  <string name="APKTOOL_DUMMY_e5">false</string>
+  <string name="APKTOOL_DUMMY_e6">false</string>
+  <string name="APKTOOL_DUMMY_e7">false</string>
+  <string name="APKTOOL_DUMMY_e8">false</string>
+  <string name="APKTOOL_DUMMY_e9">false</string>
+  <string name="APKTOOL_DUMMY_ea">false</string>
+  <string name="APKTOOL_DUMMY_eb">false</string>
+  <string name="APKTOOL_DUMMY_ec">false</string>
+  <string name="APKTOOL_DUMMY_ed">false</string>
+  <string name="APKTOOL_DUMMY_ee">false</string>
+  <string name="APKTOOL_DUMMY_ef">false</string>
+  <string name="APKTOOL_DUMMY_f0">false</string>
+  <string name="APKTOOL_DUMMY_f1">false</string>
+  <string name="APKTOOL_DUMMY_f2">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_title">Add</string>
   <string name="act_set_city_find_side">Locating…</string>

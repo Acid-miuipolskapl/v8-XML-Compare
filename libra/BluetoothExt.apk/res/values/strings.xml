@@ -18,8 +18,6 @@
   <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
   <string name="ftp_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
   <string name="ftp_authentication_timeout_message">There was time out to input session key with %1$s</string>
-  <string name="ftp_notif_active_session">Bluetooth FTP Active Session</string>
-  <string name="ftp_notif_connected">"Bluetotoh File Transfer Access  to \"%1$s\"."</string>
   <string name="ftp_notif_message">Touch to connect to \"%1$s\".</string>
   <string name="ftp_notif_ticker">Bluetooth connection request</string>
   <string name="ftp_notif_title">Session Key Request for FTP</string>
@@ -30,8 +28,6 @@
   <string name="map_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
   <string name="map_alert_conn_failed_message">Bluetooth MAP connection failed.</string>
   <string name="map_authentication_timeout_message">There was time out to input session key with %1$s</string>
-  <string name="map_notif_active_session">Bluetooth MAP Active Session</string>
-  <string name="map_notif_connected">"Bluetooth Message Access  to \"%1$s\"."</string>
   <string name="map_notif_message">Touch to connect to \"%1$s\".</string>
   <string name="map_notif_ticker">Bluetooth connection request</string>
   <string name="map_notif_title">Session Key Request for MAP</string>
