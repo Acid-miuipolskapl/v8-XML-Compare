@@ -734,12 +734,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="checking_find_device_status">Checking Find device status…</string>
   <string name="checking_for_updates">Checking for updates…</string>
-  <string name="childmod_privacy_password_role_instruction">Turn on Child mode to prevent unwanted actions when the device is used by a child</string>
-  <string name="children_mode_enable_title">Child mode</string>
-  <string name="children_mode_set_apps_title">Accessible apps</string>
-  <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
-  <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen.</string>
-  <string name="children_mode_title">Child mode</string>
   <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="cleaner">Cleaner</string>
@@ -1013,8 +1007,6 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
   <string name="delete_saved_network">Delete saved networks</string>
   <string name="deny">Deny</string>
-  <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
-  <string name="deny_sms_title">Lock SMS</string>
   <string name="details_subtitle">Use details</string>
   <string name="details_title">Use details</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
@@ -2351,7 +2343,6 @@ Select your operating system:"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_applock">App lock</string>
-  <string name="privacy_childmode">Child mode</string>
   <string name="privacy_file">Files</string>
   <string name="privacy_gallery">Photos</string>
   <string name="privacy_mms">Messages</string>
@@ -2933,9 +2924,6 @@ To use screen pinning:
   <string name="service_stop">Stop</string>
   <string name="service_stop_description">App has started running service. Stopping may cause errors.</string>
   <string name="services_subtitle">Services</string>
-  <string name="set_password_action">Set password</string>
-  <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
-  <string name="set_password_title">Set password</string>
   <string name="setting_privacy_password">Set Privacy protection password</string>
   <string name="settings_ad_loading">Loading…</string>
   <string name="settings_ad_loading_unavailable">There is a problem when loading.</string>
