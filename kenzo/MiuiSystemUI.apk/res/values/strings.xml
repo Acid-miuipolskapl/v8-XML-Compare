@@ -88,7 +88,7 @@
   <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
   <string name="bluetooth_hid_profile_summary_connected">Connected to input device</string>
   <string name="bluetooth_hid_profile_summary_use_for">Use for input</string>
-  <string name="bluetooth_map_profile_summary_connected">Connected to map</string>
+  <string name="bluetooth_map_profile_summary_connected">Connected to MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Use for map</string>
   <string name="bluetooth_opp_profile_summary_connected">Connected to file transfer server</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Not connected to file transfer server</string>
@@ -220,6 +220,10 @@ Use only the supplied charger."</string>
   <string name="not_support_multi_window">"Current app doesn't support split-screen mode"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
+  <string name="notification_low_battery_action_btn">Turn on</string>
+  <string name="notification_low_battery_need_charge">The battery is low. Charge your device.</string>
+  <string name="notification_low_battery_open_save_mode">Turn on Battery saver</string>
+  <string name="notification_low_battery_title">Low battery: %d%%</string>
   <string name="notification_manager">Manage notifications</string>
   <string name="notification_manager_des">Filter and manage notifications</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
