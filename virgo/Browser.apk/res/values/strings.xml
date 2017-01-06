@@ -493,6 +493,7 @@ Pages you view won't appear in history."</string>
   <string name="find_on_page_next">Next</string>
   <string name="find_on_page_prev">Back</string>
   <string name="find_previous">Find previous</string>
+  <string name="fling_on_border_gesture_hint">You can choose the function of this gesture in Settings</string>
   <string name="force_quick_search_title">Search</string>
   <string name="force_touch_bookmark_history_title">Bookmarks &amp; history</string>
   <string name="force_touch_infoflow_title">News</string>
@@ -513,6 +514,7 @@ Pages you view won't appear in history."</string>
   <string name="gold_medals">Gold medals</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
+  <string name="hint">Hint</string>
   <string name="history_saved_webpage">Save page</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Delete</string>
@@ -597,6 +599,7 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
   <string name="miuichromium_error_page_btn_close">Close</string>
   <string name="miuichromium_error_page_btn_refresh">Refresh</string>
+  <string name="miuichromium_error_page_btn_report_issue">Report issue</string>
   <string name="miuichromium_error_page_diagnose">Network diagnostics</string>
   <string name="miuichromium_error_page_diagnose_banner">Network diagnostics</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -725,8 +728,8 @@ Leave this page?"</string>
   <string name="pref_file_download_default_path_prefix">Default location: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloads location</string>
   <string name="pref_file_download_save_title">Downloads</string>
-  <string name="pref_fling_on_border_enabled">Swipe from edge to switch tabs</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Swipe from the left or right edge of the screen to switch between tabs</string>
+  <string name="pref_fling_on_border">Swipe from edge</string>
+  <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge of the screen</string>
   <string name="pref_font_size_category">Webpage text size</string>
   <string name="pref_force_userscalable">Force zoom</string>
   <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behavior"</string>
