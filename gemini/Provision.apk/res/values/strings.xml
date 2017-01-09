@@ -48,7 +48,7 @@
   <string name="other_settings_location">Location</string>
   <string name="other_settings_location_summary">Allow apps to access your location</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
-  <string name="other_settings_mifg_online_content_summary">Get new wallpapers delivered to your Lock screen regularly.</string>
+  <string name="other_settings_mifg_online_content_summary">Allow Wallpaper Carousel to connect to the internet in order to download new images.</string>
   <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
   <string name="other_settings_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="other_settings_user_experience">User Experience Program</string>
