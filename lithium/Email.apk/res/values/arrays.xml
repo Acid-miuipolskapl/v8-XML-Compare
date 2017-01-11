@@ -110,7 +110,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-        <item>6</item>
+        <item>7</item>
     </string-array>
     <string-array name="account_settings_message_load_imap_eas_entries">
         <item>@string/account_setting_message_body_load_head_only</item>
