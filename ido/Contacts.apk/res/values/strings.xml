@@ -92,7 +92,7 @@
   <string name="call_telex">Call telex</string>
   <string name="call_tty_tdd">Call TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
-  <string name="call_unit">USD</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Call work</string>
   <string name="call_work_mobile">Call work mobile</string>
   <string name="call_work_pager">Call work pager</string>
@@ -392,6 +392,9 @@ Contact cards are turned off"</string>
   <string name="dialer_menu_title">Menu options</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
+  <string name="dialog_device_info_hardware_version">Hardware version: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI version: %s</string>
+  <string name="dialog_device_info_title">Version info</string>
   <string name="dialog_import">Import contacts</string>
   <string name="dialog_import_export">Import/export contacts</string>
   <string name="dialog_new_contact_account">Create contact under account</string>
@@ -401,6 +404,10 @@ Contact cards are turned off"</string>
   <string name="dialog_voicemail_airplane_mode_message">To call voicemail, turn off Airplane mode.</string>
   <string name="dialog_voicemail_not_ready_message">To set up voicemail, go to Menu &gt; Settings.</string>
   <string name="directory_search_label">Directory</string>
+  <string name="disclaimer_text">"Yellow pages get the info about your balance by sending an SMS. Your carrier may update this info with a delay, so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+
+To avoid frequent queries, we update balance info once a day."</string>
+  <string name="disclaimer_title">Disclaimer</string>
   <string name="display_all_contacts">All contacts</string>
   <string name="display_more_groups">More groups…</string>
   <string name="display_only_phones">Hide incomplete numbers</string>
@@ -1041,6 +1048,7 @@ To add a contact to your list of favorites:
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
  To begin, tap the Merge icon at the bottom of your screen."</string>
+  <string name="report_inquiry_mms">Report SMS</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"
 "</string>
