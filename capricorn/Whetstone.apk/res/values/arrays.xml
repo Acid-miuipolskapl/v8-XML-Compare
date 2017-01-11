@@ -65,6 +65,8 @@
         <item>com.qti.service.colorservice</item>
         <item>com.qti.snapdragon.sdk.display</item>
         <item>com.xiaomi.bluetooth</item>
+        <item>com.xiaomi.metoknlp</item>
+        <item>com.miui.vpnsdkmanager</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
@@ -97,6 +99,7 @@
         <item>com.sogou.map.android.maps</item>
         <item>com.lltskb.lltskb</item>
         <item>cld.navi.mainframe</item>
+        <item>com.xiaomi.metoknlp</item>
     </string-array>
     <string-array name="navigation_list_active">
         <item>com.baidu.BaiduMap</item>
