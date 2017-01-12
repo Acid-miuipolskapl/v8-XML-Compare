@@ -175,7 +175,7 @@
   <string name="call_barring_outgoing">Outgoing call barring</string>
   <string name="call_barring_sum">Voice call barring settings</string>
   <string name="call_description_recording">Recording…</string>
-  <string name="call_forward_option">CallForward Options</string>
+  <string name="call_forward_option">Call forwarding</string>
   <string name="call_forwarding_number_hint">Forward calls to</string>
   <string name="call_forwarding_settings">Call forwarding settings</string>
   <string name="call_forwarding_settings_with_label">Call forwarding settings (%s)</string>

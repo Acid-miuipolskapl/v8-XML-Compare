@@ -8,6 +8,11 @@
         <item>Green</item>
         <item>Blue</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Default start page</item>
         <item>Custom</item>
@@ -40,11 +45,6 @@
     <string-array name="shortcut_dialog_title">
         <item>Message from Browser</item>
         <item>Follow the Olympics with Mi</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Page back forward</item>
-        <item>Switch tabs</item>
-        <item>None</item>
     </string-array>
     <string-array name="baidu">
         <item>百度</item>
