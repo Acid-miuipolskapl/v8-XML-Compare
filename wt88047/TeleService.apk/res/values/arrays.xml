@@ -89,10 +89,10 @@
         <item>2</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_0561</item>
-        <item>@string/APKTOOL_DUMMY_055f</item>
-        <item>@string/APKTOOL_DUMMY_0560</item>
+        <item>@string/APKTOOL_DUMMY_0564</item>
         <item>@string/APKTOOL_DUMMY_0562</item>
+        <item>@string/APKTOOL_DUMMY_0563</item>
+        <item>@string/APKTOOL_DUMMY_0565</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
