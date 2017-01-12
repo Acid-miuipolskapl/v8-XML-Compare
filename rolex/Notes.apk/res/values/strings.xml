@@ -151,6 +151,7 @@
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end.</string>
   <string name="trash_folder_name">Trash</string>
+  <string name="trash_folder_reminder">The notes you delete will be deleted permanently in 30 days.</string>
   <string name="undo">Undo</string>
   <string name="unknown_source">Unknown source</string>
   <string name="welcome_note_for_cm">"And more great features!
