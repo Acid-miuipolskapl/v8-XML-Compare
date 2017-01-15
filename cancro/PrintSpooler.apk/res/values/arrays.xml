@@ -148,4 +148,5 @@
         <item>Portrait</item>
         <item>Landscape</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_6">false</item>
 </resources>

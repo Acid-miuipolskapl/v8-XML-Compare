@@ -105,4 +105,5 @@
         <item quantity="other">Never disable for %d apps</item>
         <item quantity="one">Never disable for 1 app</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_1a">false</item>
 </resources>

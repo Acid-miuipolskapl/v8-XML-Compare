@@ -16,4 +16,7 @@
         <item quantity="other">View all %d browsers</item>
         <item quantity="one">View %d browser</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_4">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_5">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_6">false</item>
 </resources>

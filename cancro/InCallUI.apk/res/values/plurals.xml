@@ -4,4 +4,7 @@
         <item quantity="other">%d calls recorded.</item>
         <item quantity="one">1 call recorded.</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_1">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
 </resources>

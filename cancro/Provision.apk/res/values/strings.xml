@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_3a">false</string>
+  <string name="APKTOOL_DUMMY_3b">false</string>
+  <string name="APKTOOL_DUMMY_3c">false</string>
+  <string name="APKTOOL_DUMMY_3d">false</string>
+  <string name="APKTOOL_DUMMY_3e">false</string>
+  <string name="APKTOOL_DUMMY_3f">false</string>
+  <string name="APKTOOL_DUMMY_40">false</string>
+  <string name="APKTOOL_DUMMY_41">false</string>
+  <string name="APKTOOL_DUMMY_42">false</string>
+  <string name="APKTOOL_DUMMY_43">false</string>
+  <string name="APKTOOL_DUMMY_44">false</string>
+  <string name="APKTOOL_DUMMY_45">false</string>
+  <string name="APKTOOL_DUMMY_46">false</string>
+  <string name="APKTOOL_DUMMY_47">false</string>
+  <string name="APKTOOL_DUMMY_48">false</string>
   <string name="agree">Agree</string>
   <string name="agree_terms">"I've read and agree to the Terms of Service and Privacy Policy."</string>
   <string name="app_name">Provision</string>

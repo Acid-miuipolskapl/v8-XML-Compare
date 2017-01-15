@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_189">false</string>
+  <string name="APKTOOL_DUMMY_18a">false</string>
+  <string name="APKTOOL_DUMMY_18b">false</string>
+  <string name="APKTOOL_DUMMY_18c">false</string>
   <string name="accessibility_airplane_mode">Airplane mode.</string>
   <string name="accessibility_assistant">Quick ball</string>
   <string name="accessibility_back">Back</string>

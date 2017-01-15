@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_9">false</string>
   <string name="alarm_sound_default">Default alarm sound</string>
   <string name="app_label">Media Storage</string>
   <string name="artist_label">Artist</string>

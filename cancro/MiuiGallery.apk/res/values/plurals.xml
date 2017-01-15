@@ -164,4 +164,6 @@
         <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
         <item quantity="one">"Skipped a photo which couldn't be rendered."</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_29">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2a">false</item>
 </resources>
