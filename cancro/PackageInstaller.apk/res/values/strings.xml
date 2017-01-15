@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_169">false</string>
-  <string name="APKTOOL_DUMMY_16a">false</string>
-  <string name="APKTOOL_DUMMY_16b">false</string>
-  <string name="APKTOOL_DUMMY_16c">false</string>
-  <string name="APKTOOL_DUMMY_16d">false</string>
-  <string name="APKTOOL_DUMMY_16e">false</string>
-  <string name="APKTOOL_DUMMY_16f">false</string>
-  <string name="APKTOOL_DUMMY_170">false</string>
-  <string name="APKTOOL_DUMMY_171">false</string>
-  <string name="APKTOOL_DUMMY_172">false</string>
-  <string name="APKTOOL_DUMMY_173">false</string>
-  <string name="APKTOOL_DUMMY_174">false</string>
-  <string name="APKTOOL_DUMMY_175">false</string>
-  <string name="APKTOOL_DUMMY_176">false</string>
-  <string name="APKTOOL_DUMMY_177">false</string>
-  <string name="APKTOOL_DUMMY_178">false</string>
-  <string name="APKTOOL_DUMMY_179">false</string>
-  <string name="APKTOOL_DUMMY_17a">false</string>
-  <string name="APKTOOL_DUMMY_17b">false</string>
-  <string name="APKTOOL_DUMMY_17c">false</string>
-  <string name="APKTOOL_DUMMY_17d">false</string>
-  <string name="APKTOOL_DUMMY_17e">false</string>
   <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
