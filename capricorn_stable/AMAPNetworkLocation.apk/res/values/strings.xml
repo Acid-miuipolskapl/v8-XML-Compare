@@ -12,8 +12,8 @@
   <string name="persmission_message3">To work properly, this service needs to access your location. Please allow permission when asked.</string>
   <string name="persmission_message4">To work properly, this service needs to access your Phone. Please allow permission when asked.</string>
   <string name="persmission_message5">"To work properly, this service requires additional permissions. You can manage Network Location's permissions in Settings"</string>
-  <string name="persmission_message6">"To work properly, this servic needs to access your Location. You can manage Network Location's permissions in Settings."</string>
-  <string name="persmission_message7">"To work properly, this servic needs to access your Phone. You can manage Network Location's permissions in Settings."</string>
+  <string name="persmission_message6">"To work properly, this service needs to access your Location. You can manage Network Location's permissions in Settings."</string>
+  <string name="persmission_message7">"To work properly, this service needs to access your Phone. You can manage Network Location's permissions in Settings."</string>
   <string name="persmission_message8">"To work properly, this service needs to access your storage. You can manage Network Location's permissions in Settings."</string>
   <string name="persmission_notification_text">Tap to allow</string>
   <string name="persmission_notification_title">Network Location requires permissions</string>
