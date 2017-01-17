@@ -61,6 +61,7 @@
   <string name="change_alert">Check your network connection and try again</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">Just a sec…</string>
+  <string name="connect_fail">Network connection is abnormal. Please try again later.</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
   <string name="daily_forcast_drawer_on_top">%1$s day forecast</string>
   <string name="daily_forcast_no_stable_direction">Breeze</string>
@@ -74,6 +75,8 @@
   <string name="daily_forecast_detail">Forecast detail</string>
   <string name="daily_forecast_detail_date">M/d</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
+  <string name="daily_forecast_no_data">"Failed to get the data
+manually pull down the refresh or check the network settings"</string>
   <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Manage alerts</string>
@@ -140,7 +143,9 @@ Tap the screen to manually add or reposition city"</string>
   <string name="other">Other</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
-  <string name="realtime_humidity_title">Relative humidity</string>
+  <string name="realtime_cityname_default">Location city</string>
+  <string name="realtime_humidity_title">Relative Humidity</string>
+  <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">"Couldn't connect to network"</string>
   <string name="retry">Try again</string>
@@ -197,6 +202,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="view_indexes_item_today">Today</string>
   <string name="view_indexes_item_tommorrow">Tomorrow</string>
   <string name="weather_alert">Weather alerts</string>
+  <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
   <string name="yes_vote_num"> | %1$s people</string>
