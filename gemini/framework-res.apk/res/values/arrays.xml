@@ -529,15 +529,11 @@
     <array name="launchboost_packing_param_value" />
     <array name="animationboost_param_value" />
     <integer-array name="flingboost_param_value">
-        <item>0x41800000</item>
-        <item>0x00000033</item>
         <item>0x40800000</item>
         <item>1000</item>
         <item>0x40800100</item>
         <item>1000</item>
         <item>0x40C00000</item>
-        <item>0x00000001</item>
-        <item>0x40C28000</item>
         <item>0x00000001</item>
     </integer-array>
     <integer-array name="scrollboost_param_value">
