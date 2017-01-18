@@ -123,7 +123,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
   <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
   <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
-  <string name="pref_camera_beautify_detail_default">0</string>
   <string name="pref_camera_beautify_entry_0">0</string>
   <string name="pref_camera_beautify_entry_1">1</string>
   <string name="pref_camera_beautify_entry_10">10</string>

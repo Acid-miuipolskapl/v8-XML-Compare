@@ -668,6 +668,7 @@
   <string name="doodle_mosaic">Mosaic</string>
   <string name="doodle_small_size">Small</string>
   <string name="doodle_super_big_size">Huge</string>
+  <string name="double_tap_to_higher_definition">Double tap again for the HD preview</string>
   <string name="download_canceled">Download canceled</string>
   <string name="download_retry_message">"Couldn't download files, check network connection and try again"</string>
   <string name="download_retry_text">Try again</string>
@@ -803,6 +804,7 @@ Take more photos of your friends!"</string>
   <string name="invite_sharer_title">"Invite %1$s's %2$s"</string>
   <string name="invite_tip">"Share your baby's photos"</string>
   <string name="is">Yes</string>
+  <string name="is_higher_definition">HD preview</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this person?</string>
   <string name="kick_sharer">Remove shared viewer</string>
