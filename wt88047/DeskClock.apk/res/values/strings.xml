@@ -18,6 +18,7 @@
   <string name="alarm_volume_summary">Set alarm volume</string>
   <string name="alarm_volume_title">Alarm volume</string>
   <string name="alarmclock_empty_text">No alarms</string>
+  <string name="alarmclock_silent_hint">Alarm is in silence</string>
   <string name="alert">Ringtone</string>
   <string name="analog_gadget">Analog clock</string>
   <string name="app_label">Clock</string>

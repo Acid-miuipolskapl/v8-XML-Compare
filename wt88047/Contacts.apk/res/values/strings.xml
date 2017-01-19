@@ -392,9 +392,6 @@ Contact cards are turned off"</string>
   <string name="dialer_menu_title">Menu options</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
-  <string name="dialog_device_info_hardware_version">Hardware version: %s</string>
-  <string name="dialog_device_info_miui_version">MIUI version: %s</string>
-  <string name="dialog_device_info_title">Version info</string>
   <string name="dialog_import">Import contacts</string>
   <string name="dialog_import_export">Import/export contacts</string>
   <string name="dialog_new_contact_account">Create contact under account</string>
