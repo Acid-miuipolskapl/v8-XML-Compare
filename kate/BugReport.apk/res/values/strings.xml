@@ -82,6 +82,7 @@
   <string name="feedback_status_commit_failed_title">"Couldn't send report"</string>
   <string name="feedback_status_commit_succ_title">Sent</string>
   <string name="feedback_status_commit_uploading_title">Sending…</string>
+  <string name="feedback_status_forum_reply">Reply</string>
   <string name="feedback_status_jira_comment">Add a comment</string>
   <string name="feedback_status_more">Details</string>
   <string name="feedback_status_processing">Processing…</string>
@@ -89,6 +90,7 @@
   <string name="feedback_status_replyed">Replied</string>
   <string name="feedback_status_reresolved">Resolved</string>
   <string name="feedback_status_supplement">Describe your issue in details</string>
+  <string name="feedback_status_supplement_more">Add a comment</string>
   <string name="feedback_submit_failed_notification_desc">View details</string>
   <string name="feedback_submit_failed_notification_retry">Send again</string>
   <string name="feedback_submit_failed_notification_title">"Couldn't send report"</string>

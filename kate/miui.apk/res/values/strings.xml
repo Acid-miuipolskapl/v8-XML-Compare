@@ -478,10 +478,10 @@
   <string name="select_all">Select all</string>
   <string name="select_item">Select items</string>
   <string name="send">Send</string>
-  <string name="send_sms_for_sync_notice">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="send_sms_for_sync_notice">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="send_sms_for_sync_title">Data usage warning</string>
-  <string name="sim_changed_reactivate_int_notice">Your carrier may charge for an international SMS message used to reactivate this service.</string>
-  <string name="sim_changed_reactivate_notice">Your carrier may charge for an SMS message used to reactivate this service.</string>
+  <string name="sim_changed_reactivate_int_notice">An outgoing international SMS message may be required to reactivate this service. Your carrier will charge you for this message.</string>
+  <string name="sim_changed_reactivate_notice">An outgoing SMS message may be required to reactivate this service. Your carrier will charge you for this message.</string>
   <string name="sim_in_airplane_mode">Turn off airplane mode.</string>
   <string name="sim_locked">SIM card is locked.</string>
   <string name="sim_not_ready">SIM card is in use. Try again later.</string>
