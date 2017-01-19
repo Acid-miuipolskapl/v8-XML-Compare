@@ -48,7 +48,6 @@
   <string name="birthday_event_description_tomorrow">Tomorrow is</string>
   <string name="birthday_event_description_yesterday">Yesterday was</string>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-  <string name="birthday_event_title_suffix">"'s birthday"</string>
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
@@ -123,13 +122,13 @@
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
-  <string name="edit_event_birthday_3_days_before">Three days before,</string>
   <string name="edit_event_birthday_import_from_contact">Import birthday from contacts</string>
   <string name="edit_event_birthday_name_empty_hint">Please enter a name</string>
   <string name="edit_event_birthday_name_hint">Name</string>
   <string name="edit_event_birthday_reminder_3_days_before">And remind 3 days before</string>
+  <string name="edit_event_birthday_reminder_summary">The day %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Three days before, the day %1$s</string>
   <string name="edit_event_birthday_reminder_time">Reminder time</string>
-  <string name="edit_event_birthday_the_day">the day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_choose_date">choose date</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -137,6 +136,8 @@
   <string name="edit_event_input_year">Input year</string>
   <string name="edit_event_label">Details</string>
   <string name="edit_event_no_reminder_value">No Reminder</string>
+  <string name="edit_event_reminder_text">%1$s the day %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s the day %3$s</string>
   <string name="edit_event_show_all">Show all</string>
   <string name="edit_event_tab_anniversary">anniversary</string>
   <string name="edit_event_tab_birthday">birthday</string>
