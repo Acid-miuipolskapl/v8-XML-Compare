@@ -277,7 +277,7 @@ To activate your account, follow the
   <string name="passport_reg_using_other_phone">&lt;u&gt;Use alternate phone number&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
-  <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>

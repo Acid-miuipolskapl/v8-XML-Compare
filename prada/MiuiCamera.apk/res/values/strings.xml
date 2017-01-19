@@ -123,7 +123,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
   <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
   <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
-  <string name="pref_camera_beautify_detail_default">0</string>
   <string name="pref_camera_beautify_entry_0">0</string>
   <string name="pref_camera_beautify_entry_1">1</string>
   <string name="pref_camera_beautify_entry_10">10</string>
@@ -221,6 +220,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
+  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -429,6 +429,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
+  <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -505,6 +506,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
+  <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>
