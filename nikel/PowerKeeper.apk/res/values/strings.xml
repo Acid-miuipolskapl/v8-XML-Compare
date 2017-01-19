@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Delete</string>
   <string name="action_settings">Settings</string>
+  <string name="action_title_optimize">Optimize now</string>
   <string name="activity_title_poweranalyze">Test battery</string>
   <string name="activity_title_powerconfigure">Battery settings</string>
   <string name="activity_title_poweroptimize">Battery saver</string>
@@ -28,7 +29,7 @@
   <string name="config_restrict_running_title">Restrict background activity</string>
   <string name="config_suggest_description">"Identify apps and activities to keep important processes going.
 Battery saver will treat important apps selectively."</string>
-  <string name="config_suggest_suffix_title">MIUIBattery saver (recommended)</string>
+  <string name="config_suggest_suffix_title">MIUI Battery saver (recommended)</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
   <string name="disabled">Off</string>
   <string name="empty_title_apps_container_list">No apps</string>
@@ -64,6 +65,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="no_applications">Empty</string>
   <string name="none">No processes</string>
   <string name="normal">Default mode</string>
+  <string name="notify_app_consume_abnormal_title">is draining battery</string>
   <string name="operation_create_group">Name</string>
   <string name="operation_create_group_message">Enter new group name</string>
   <string name="power_checker_recent_btn_title">Setting Power</string>
