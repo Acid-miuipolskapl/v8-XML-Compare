@@ -345,6 +345,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Run</string>
   <string name="cit_tool_wifi_rx_stop">Stop</string>
+  <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
