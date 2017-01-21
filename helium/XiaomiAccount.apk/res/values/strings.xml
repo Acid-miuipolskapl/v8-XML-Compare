@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_18f">false</string>
   <string name="APKTOOL_DUMMY_190">false</string>
   <string name="APKTOOL_DUMMY_191">false</string>
   <string name="APKTOOL_DUMMY_192">false</string>
@@ -324,6 +323,7 @@
   <string name="APKTOOL_DUMMY_2d0">false</string>
   <string name="APKTOOL_DUMMY_2d1">false</string>
   <string name="APKTOOL_DUMMY_2d2">false</string>
+  <string name="APKTOOL_DUMMY_2d3">false</string>
   <string name="about_device_info">View device details</string>
   <string name="access_token_expired_warning">Weibo Account has expired</string>
   <string name="access_token_invalid_warning">Weibo Account is invalid</string>
@@ -484,6 +484,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
   <string name="my_device_title">Current device</string>
+  <string name="my_favorite">My Favorite</string>
   <string name="no_network_btn">Refresh</string>
   <string name="no_network_title">"Can't connect to the network."</string>
   <string name="no_response_retry">No response, please retry.</string>
@@ -600,7 +601,7 @@ To activate your account, follow the
   <string name="passport_reg_using_other_phone">&lt;u&gt;Use alternate phone number&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
-  <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>

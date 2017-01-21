@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_172">false</string>
-  <string name="APKTOOL_DUMMY_173">false</string>
-  <string name="APKTOOL_DUMMY_174">false</string>
-  <string name="APKTOOL_DUMMY_175">false</string>
   <string name="APKTOOL_DUMMY_176">false</string>
   <string name="APKTOOL_DUMMY_177">false</string>
   <string name="APKTOOL_DUMMY_178">false</string>
@@ -40,6 +36,10 @@
   <string name="APKTOOL_DUMMY_197">false</string>
   <string name="APKTOOL_DUMMY_198">false</string>
   <string name="APKTOOL_DUMMY_199">false</string>
+  <string name="APKTOOL_DUMMY_19a">false</string>
+  <string name="APKTOOL_DUMMY_19b">false</string>
+  <string name="APKTOOL_DUMMY_19c">false</string>
+  <string name="APKTOOL_DUMMY_19d">false</string>
   <string name="SDCard">SD Card</string>
   <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
@@ -250,6 +250,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
   <string name="cit_name">Hardware tests</string>
   <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
+  <string name="cit_not_support_summary">Test not supported on this device</string>
+  <string name="cit_not_support_title">Not Support</string>
   <string name="cit_notificationlight">Notification light</string>
   <string name="cit_notificationlight_off">Notification light off</string>
   <string name="cit_notificationlight_on">Notification light on</string>
@@ -307,6 +309,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sim_state_unkown">Unknown</string>
   <string name="cit_start_calibration">Calibrate</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
+  <string name="cit_tfcard_support_summary">Check if TFCard is supported on this device</string>
+  <string name="cit_tfcard_support_title">Support TFCard</string>
   <string name="cit_tool">Additional tools</string>
   <string name="cit_tool_bluetooth">Bluetooth test tool</string>
   <string name="cit_tool_bluetooth_dut">Enter Bluetooth Test Mode</string>

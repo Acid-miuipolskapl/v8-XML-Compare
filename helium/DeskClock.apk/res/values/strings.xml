@@ -24,7 +24,7 @@
   <string name="APKTOOL_DUMMY_115">false</string>
   <string name="APKTOOL_DUMMY_116">false</string>
   <string name="APKTOOL_DUMMY_117">false</string>
-  <string name="APKTOOL_DUMMY_9a">false</string>
+  <string name="APKTOOL_DUMMY_118">false</string>
   <string name="APKTOOL_DUMMY_9b">false</string>
   <string name="APKTOOL_DUMMY_9c">false</string>
   <string name="APKTOOL_DUMMY_9d">false</string>
@@ -33,7 +33,7 @@
   <string name="APKTOOL_DUMMY_a0">false</string>
   <string name="APKTOOL_DUMMY_a1">false</string>
   <string name="APKTOOL_DUMMY_a2">false</string>
-  <string name="APKTOOL_DUMMY_a5">false</string>
+  <string name="APKTOOL_DUMMY_a3">false</string>
   <string name="APKTOOL_DUMMY_a6">false</string>
   <string name="APKTOOL_DUMMY_a7">false</string>
   <string name="APKTOOL_DUMMY_a8">false</string>
@@ -142,6 +142,7 @@
   <string name="alarm_volume_summary">Set alarm volume</string>
   <string name="alarm_volume_title">Alarm volume</string>
   <string name="alarmclock_empty_text">No alarms</string>
+  <string name="alarmclock_silent_hint">Alarm is in silence</string>
   <string name="alert">Ringtone</string>
   <string name="analog_gadget">Analog clock</string>
   <string name="app_label">Clock</string>

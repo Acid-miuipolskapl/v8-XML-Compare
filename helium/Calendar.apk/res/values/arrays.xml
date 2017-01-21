@@ -29,12 +29,6 @@
         <item>2880</item>
         <item>10080</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Locale default</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
-        <item>Monday</item>
-    </string-array>
     <string-array name="preferences_week_start_day_values">
         <item>-1</item>
         <item>7</item>
@@ -342,6 +336,12 @@
         <item>1 day before</item>
         <item>2 days before</item>
         <item>1 week before</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Locale default</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Always</item>
