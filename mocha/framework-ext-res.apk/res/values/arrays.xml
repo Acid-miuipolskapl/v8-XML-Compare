@@ -36,6 +36,7 @@
         <item>com.miui.home</item>
         <item>com.miui.personalassistant</item>
         <item>com.mi.AutoTest</item>
+        <item>com.miui.packageinstaller</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
@@ -70,6 +71,8 @@
         <item>pt_PT</item>
         <item>ro_RO</item>
         <item>sk_SK</item>
+        <item>sl_SI</item>
+        <item>sv_SE</item>
         <item>vi_VN</item>
         <item>tr_TR</item>
         <item>cs_CZ</item>
