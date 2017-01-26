@@ -1682,6 +1682,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2588,7 +2589,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings">SIM lock settings</string>
   <string name="sim_lock_settings_category">Setup SIM lock</string>
   <string name="sim_lock_settings_title">SIM lock</string>
-  <string name="sim_management_title">SIM cards &amp; mobile networks</string>
+  <string name="sim_management_title">Mobile networks</string>
   <string name="sim_pin_change">Change SIM PIN</string>
   <string name="sim_pin_toggle">Lock SIM card</string>
   <string name="sim_pins_dont_match">"PINs don't match"</string>
