@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compass_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
+    </string-array>
+</resources>
