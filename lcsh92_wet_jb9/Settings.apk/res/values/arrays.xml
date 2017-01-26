@@ -1022,12 +1022,14 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
-        <item>Quick snap mode (select in Camera)</item>
+        <item>Quick snap mode (photo)</item>
+        <item>Quick snap mode (video)</item>
         <item>Public transportation shortcuts</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
+        <item>none</item>
+        <item>Street-snap-picture</item>
+        <item>Street-snap-movie</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -1427,6 +1429,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>XXXL</item>
     </string-array>
     <string-array name="organized_locales">
+        <item>al</item>
         <item>dz</item>
         <item>ao</item>
         <item>ag</item>
@@ -1435,9 +1438,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>bh</item>
         <item>bd</item>
         <item>bb</item>
+        <item>by</item>
         <item>be</item>
         <item>bz</item>
         <item>bo</item>
+        <item>ba</item>
         <item>bw</item>
         <item>bg</item>
         <item>br</item>
@@ -1456,6 +1461,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>eg</item>
         <item>sv</item>
         <item>gq</item>
+        <item>ee</item>
         <item>et</item>
         <item>fk</item>
         <item>fr</item>
@@ -1481,15 +1487,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>kz</item>
         <item>ke</item>
         <item>kw</item>
+        <item>lv</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
         <item>lt</item>
+        <item>mk</item>
         <item>mw</item>
         <item>my</item>
+        <item>mt</item>
         <item>mr</item>
         <item>mu</item>
         <item>mx</item>
+        <item>md</item>
+        <item>me</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
@@ -1515,6 +1526,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>rs</item>
         <item>sg</item>
         <item>sk</item>
+        <item>si</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -1527,6 +1539,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>se</item>
         <item>ch</item>
         <item>sy</item>
         <item>tw</item>
@@ -1539,6 +1552,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>gb</item>
         <item>us</item>
         <item>uy</item>
         <item>uz</item>
@@ -1576,6 +1590,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>IR</item>
         <item>JM</item>
         <item>JO</item>
+        <item>KR</item>
         <item>KW</item>
         <item>MX</item>
         <item>NI</item>
@@ -1643,14 +1658,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>privacy_gallery</item>
         <item>privacy_file</item>
         <item>privacy_notes</item>
-        <item>child_mode</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Messages</item>
         <item>Photos</item>
         <item>Files</item>
         <item>Notes</item>
-        <item>Child mode</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
@@ -1668,28 +1681,28 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>四核最高2.15GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
-        <item>骁龙400</item>
+        <item>MTK6592</item>
         <item>3100mAh</item>
         <item>8GB机身存储</item>
         <item>5.5英寸</item>
-        <item>双频WLAN</item>
+        <item>双卡槽</item>
         <item>13MP</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>四核主频1.6GHz</item>
+        <item>真八核28纳米CPU</item>
         <item>大电池超省电</item>
         <item>机身存储</item>
         <item>全贴合IPS大屏</item>
-        <item>支持802.11ac协议</item>
+        <item>支持双卡双待</item>
         <item>28mm广角相机</item>
     </string-array>
     <string-array name="standard_configuration_version_device_display_summary">
-        <item>骁龙400处理器</item>
+        <item>MTK 6592处理器</item>
         <item>1300万像素相机</item>
         <item>5.5英寸全贴合IPS屏幕</item>
     </string-array>
     <string-array name="standard_configuration_version_device_display_secondary">
-        <item>四核1.6GHz主频</item>
+        <item>采用MTK联发科真八核28纳米CPU</item>
         <item>配备28mm大广角相机，拍摄视野更大</item>
         <item>IPS技术可视角度可达178°，色彩更加细腻丰富</item>
     </string-array>
@@ -1726,11 +1739,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>感应器</item>
     </string-array>
     <string-array name="hardware_parameters_summary">
-        <item>"高通骁龙400
-四核核1.6GHz
-内存2GB LPDDR3
+        <item>"MTK MT6592
+标准版8核1.4GHz/增强版8核1.7GHz
+内存1.4G标准版1GB / 1.7G增强版2GB
 高速闪存8GB
-最大存储扩展64GB"</item>
+最大存储扩展32GB"</item>
         <item>"高度：154 mm
 宽度：78.7 mm
 厚度：9.45 mm"</item>

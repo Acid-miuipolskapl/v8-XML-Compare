@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
-    <string name="date_time_12">EEEE, d MMMM</string>
-    <string name="language">en</string>
+    <string name="language">kn</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'ಪ್ರಸ್ತುತ ಸಮಯ' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ಗಡಿಯಾರ ಆಪ್‌ ಸೇರಿಸಲು ಡಬಲ್‌ ಟ್ಯಾಪ್‌ ಮಾಡಿ'</string>
-    <string name="weather_type_0">ಸ್ಪಷ್ಟ</string>
+    <string name="weather_type_0">ನಿಚ್ಛಳ</string>
     <string name="weather_type_1">ಮೋಡ ಕವಿದಿದೆ</string>
     <string name="weather_type_2">ಮಬ್ಬು ಕವಿದಿದೆ</string>
     <string name="weather_type_3">ಮಂಜುಮುಸುಕಿದೆ</string>
