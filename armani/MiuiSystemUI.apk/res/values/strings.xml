@@ -34,6 +34,12 @@
   <string name="accessibility_phone_three_bars">Phone three bars.</string>
   <string name="accessibility_phone_two_bars">Phone two bars.</string>
   <string name="accessibility_recent">Recent apps</string>
+  <string name="accessibility_recent_task_enter">Opened Recents, available apps: %d.</string>
+  <string name="accessibility_recent_task_exit">Closed Recents</string>
+  <string name="accessibility_recent_task_first_enter_tips">Opened Recents, available apps: %d. Swipe up to remove, swipe down to lock.</string>
+  <string name="accessibility_recent_task_locked">Locked, swipe down to unlock.</string>
+  <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Available RAM: %1$s. Double tap to clear.</string>
+  <string name="accessibility_recent_task_unlocked">Unlocked</string>
   <string name="accessibility_remove_notification">Clear notification.</string>
   <string name="accessibility_ringer_silent">Ringer silent.</string>
   <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
@@ -93,6 +99,9 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="disable_notification_summary">Never show notifications from selected apps</string>
   <string name="disable_notification_title">Hide notifications</string>
   <string name="dismount_storage">No</string>
+  <string name="divider_menu_close">Close</string>
+  <string name="divider_menu_select_apps">Select</string>
+  <string name="divider_menu_swap_task">Swap</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
@@ -122,7 +131,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="hour_minute_time_format">HH:mm</string>
-  <string name="invalid_charger">"USB charging not supported.
+  <string name="invalid_charger">"USB charging isn't supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
@@ -133,6 +142,7 @@ Use only the supplied charger."</string>
   <string name="long_screenshot_processing">Processing…</string>
   <string name="long_screenshot_stop">Done</string>
   <string name="long_screenshot_top_msg">Creating screenshot…</string>
+  <string name="long_screenshot_top_msg_manual">Crop the screenshot and tap the button to finish</string>
   <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
@@ -147,14 +157,20 @@ Use only the supplied charger."</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mount_storage">Yes</string>
   <string name="nav_guide_cancel">Ignore</string>
-  <string name="nav_guide_message">You can use gestures to hide/show screen button after setting.</string>
-  <string name="nav_guide_ok">Settings</string>
-  <string name="nav_guide_title">Hide screen buttons</string>
+  <string name="nav_guide_message">Use gestures to hide/show soft buttons.</string>
+  <string name="nav_guide_ok">Set up</string>
+  <string name="nav_guide_title">Hide soft buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">No apps which can work in split-screen mode</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>
+  <string name="not_support_multi_window">"Current app doesn't support split-screen mode"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
+  <string name="notification_low_battery_action_btn">Turn on</string>
+  <string name="notification_low_battery_need_charge">The battery is low. Charge your device.</string>
+  <string name="notification_low_battery_open_save_mode">Turn on Battery saver</string>
+  <string name="notification_low_battery_title">Low battery: %d%%</string>
   <string name="notification_manager">Manage notifications</string>
   <string name="notification_manager_des">Filter and manage notifications</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
@@ -184,6 +200,8 @@ Use only the supplied charger."</string>
   <string name="quick_settings_connecting">Connecting</string>
   <string name="quick_settings_done">Done</string>
   <string name="quick_settings_more_settings">More settings</string>
+  <string name="quick_settings_tiles">default</string>
+  <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location</string>
   <string name="quick_settings_wifi_detail_empty_text">No WLAN networks available</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
@@ -195,8 +213,8 @@ Use only the supplied charger."</string>
   <string name="save_mode_btn_ok">OK</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
   <string name="screen_pinning_negative">No thanks</string>
   <string name="screen_pinning_positive">Got it</string>
   <string name="screen_pinning_title">Screen is pinned</string>
@@ -208,7 +226,7 @@ Use only the supplied charger."</string>
   <string name="screenshot_edit">Edit</string>
   <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
   <string name="screenshot_long_screenshot">Scroll</string>
-  <string name="screenshot_saved_text">Touch to view your screenshot.</string>
+  <string name="screenshot_saved_text">Tap to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
@@ -220,6 +238,7 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
+  <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
   <string name="status_bar_date_format">"EEEE
 MMMM d"</string>
