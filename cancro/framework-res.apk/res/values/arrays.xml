@@ -533,6 +533,14 @@
         <item>Keep your finger on the scanner a bit longer</item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
