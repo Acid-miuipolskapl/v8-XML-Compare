@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Settings</string>
+  <string name="application_desc">Application</string>
+  <string name="search_label">Settings</string>
+  <string name="settings_description">Settings</string>
+  <string name="update_keywords">系统;系统更新;升级;MIUI系统更新;MIUI;miui下载;系统升级;miui升级;版本更新;检查更新;自动检查更新;安装包;小米系统更新;小米系统升级;小米系统;miui系统升级;miui系统; xitong;xitonggengxin;shengji;xitongshengji;miuishengji;banbengengxin;jianchagengxin;anzhuangbao;xiaomixitonggengxin;xiaomixitongshengji;xiaomixitong</string>
+</resources>

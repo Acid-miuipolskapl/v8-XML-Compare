@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d are off</item>
+        <item quantity="one">%d is off</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Items waiting to sync: %d</item>
+        <item quantity="one">Item waiting to sync: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d items waiting to sync</item>
+        <item quantity="one">%d item waiting to sync</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notes</item>
+        <item quantity="one">%d note</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d call history records</item>
+        <item quantity="one">%d call history record</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d records</item>
+        <item quantity="one">%d record</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d browser items</item>
+        <item quantity="one">%d browser item</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d calendar items</item>
+        <item quantity="one">%d calendar item</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d blocklist entries</item>
+        <item quantity="one">%d blocklist entry</item>
+    </plurals>
+</resources>
