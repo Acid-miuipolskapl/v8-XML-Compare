@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_6ef">false</string>
-  <string name="APKTOOL_DUMMY_6f0">false</string>
-  <string name="APKTOOL_DUMMY_6f1">false</string>
-  <string name="APKTOOL_DUMMY_6f2">false</string>
-  <string name="APKTOOL_DUMMY_6f3">false</string>
   <string name="APKTOOL_DUMMY_6f4">false</string>
   <string name="APKTOOL_DUMMY_6f5">false</string>
   <string name="APKTOOL_DUMMY_6f6">false</string>
@@ -119,12 +114,12 @@
   <string name="APKTOOL_DUMMY_763">false</string>
   <string name="APKTOOL_DUMMY_764">false</string>
   <string name="APKTOOL_DUMMY_765">false</string>
-  <string name="APKTOOL_DUMMY_7d1">false</string>
-  <string name="APKTOOL_DUMMY_7e5">false</string>
-  <string name="APKTOOL_DUMMY_7e6">false</string>
-  <string name="APKTOOL_DUMMY_7e7">false</string>
-  <string name="APKTOOL_DUMMY_7e8">false</string>
-  <string name="APKTOOL_DUMMY_7e9">false</string>
+  <string name="APKTOOL_DUMMY_766">false</string>
+  <string name="APKTOOL_DUMMY_767">false</string>
+  <string name="APKTOOL_DUMMY_768">false</string>
+  <string name="APKTOOL_DUMMY_769">false</string>
+  <string name="APKTOOL_DUMMY_76a">false</string>
+  <string name="APKTOOL_DUMMY_7d6">false</string>
   <string name="APKTOOL_DUMMY_7ea">false</string>
   <string name="APKTOOL_DUMMY_7eb">false</string>
   <string name="APKTOOL_DUMMY_7ec">false</string>
@@ -278,6 +273,11 @@
   <string name="APKTOOL_DUMMY_880">false</string>
   <string name="APKTOOL_DUMMY_881">false</string>
   <string name="APKTOOL_DUMMY_882">false</string>
+  <string name="APKTOOL_DUMMY_883">false</string>
+  <string name="APKTOOL_DUMMY_884">false</string>
+  <string name="APKTOOL_DUMMY_885">false</string>
+  <string name="APKTOOL_DUMMY_886">false</string>
+  <string name="APKTOOL_DUMMY_887">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -460,6 +460,7 @@ or enter App lock password"</string>
   <string name="auto_task_notify_task_cancel_count_down">Automated action will be canceled in 5 seconds</string>
   <string name="auto_task_notify_task_cancel_do">Cancel action</string>
   <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Looks like you're playing a game now."</string>
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
@@ -753,6 +754,9 @@ or enter App lock password"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Stop payment security check?</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
+  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
+  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
+  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
@@ -1677,6 +1681,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="showpattern">Show pattern</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
   <string name="shutdown_time">Off at %1$s</string>
   <string name="shutdown_time_day">Off in %1$dd at %2$s</string>
   <string name="shutdown_time_day_tomorrow">Off tomorrow at %1$s</string>
@@ -2090,7 +2095,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
   <string name="warning_open_mi_sim">Turn on Mi SIM</string>
-  <string name="weChat_not_found">您的微信版本过低或者未安装</string>
+  <string name="weChat_not_found">您的应用版本过低或者未安装</string>
   <string name="wechat_lucky_warning">微信红包</string>
   <string name="white_list_risk_app_header">Dangerous apps: %d</string>
   <string name="white_list_trojan_header">Trojans: %d</string>
@@ -2104,5 +2109,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_encryption">WLAN encryption</string>
   <string name="wifi_item_title_fake">Detect fake WLAN</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
-  <string name="zhifubao_not_found">您的支付宝版本过低或者未安装</string>
+  <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>
