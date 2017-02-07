@@ -953,6 +953,24 @@
         <item>Mon to Fri</item>
         <item>Custom</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Good</item>
+        <item>Satisfactory</item>
+        <item>Moderately polluted</item>
+        <item>Poor</item>
+        <item>Very poor</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reduce outdoor activities</item>
+        <item>Pay attention to slip</item>
+        <item>Thunderstorm weather, travel safety</item>
+        <item>Fog haze weather, wearing masks</item>
+        <item>Take an umbrella when you go out</item>
+        <item>Pay attention on the road</item>
+        <item>Sand weather, wearing masks</item>
+        <item>Wish you a wonderful day</item>
+    </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>0</item>
         <item>1</item>
@@ -1025,9 +1043,9 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_14">false</item>
-    <item type="array" name="APKTOOL_DUMMY_15">false</item>
     <item type="array" name="APKTOOL_DUMMY_16">false</item>
     <item type="array" name="APKTOOL_DUMMY_17">false</item>
     <item type="array" name="APKTOOL_DUMMY_18">false</item>
+    <item type="array" name="APKTOOL_DUMMY_19">false</item>
+    <item type="array" name="APKTOOL_DUMMY_1a">false</item>
 </resources>
