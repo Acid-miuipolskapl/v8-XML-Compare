@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
-    <string name="date_time">EEEE, d. MMMM'ta'</string>
+    <string name="date_time">EEEE d. MMMM'ta'</string>
     <string name="language">fi</string>
-    <string name="desc_date_format">EEEE, d. MMMM'ta'</string>
+    <string name="desc_date_format">EEEE d. MMMM'ta'</string>
     <string name="desc_time">'nykyinen aika' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', tupla-napauta kello-sovellukseen'</string>
-    <string name="weather_type_0">Selkeää</string>
+    <string name="weather_type_0">Selkeä</string>
     <string name="weather_type_1">Puolipilvinen</string>
     <string name="weather_type_2">Usvainen</string>
     <string name="weather_type_3">Sumuinen</string>

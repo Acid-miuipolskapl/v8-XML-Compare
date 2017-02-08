@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="mibi_nopassword_pay_threshold">
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+    </string-array>
+    <string-array name="mibi_nopassword_pay_threshold_values">
+        <item>10000</item>
+        <item>20000</item>
+        <item>50000</item>
+    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -28,21 +38,5 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-    </string-array>
-    <string-array name="server_list_entries">
-        <item>Test server</item>
-        <item>Online server</item>
-    </string-array>
-    <string-array name="server_list_entries_value">
-        <item>mv.mitvos.com</item>
-        <item>mvideo.duokanbox.com</item>
-    </string-array>
-    <string-array name="version_list_entries">
-        <item>稳定版本</item>
-        <item>荣誉内测</item>
-    </string-array>
-    <string-array name="version_list_entries_value">
-        <item>90</item>
-        <item>00</item>
     </string-array>
 </resources>

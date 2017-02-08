@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">EEEE, d. MMMM'ta'</string>
+    <string name="date_format">EEEE d. MMMM'ta'</string>
     <string name="today">Tänään</string>
     <string name="tomorrow">Huomenna</string>
     <string name="aqi_pure">'ILI '+#weather_aqilevel</string>
@@ -11,7 +11,7 @@
     <string name="aqi_hazardous">'ILI '+#weather_aqilevel</string>
     <string name="aqi_break">'ILI '+#weather_aqilevel</string>
     <string name="weather_type_null">'Ei tietoa'</string>
-    <string name="weather_type_0">Selkeää</string>
+    <string name="weather_type_0">Selkeä</string>
     <string name="weather_type_1">Puolipilvinen</string>
     <string name="weather_type_2">Usvainen</string>
     <string name="weather_type_3">Sumuinen</string>
