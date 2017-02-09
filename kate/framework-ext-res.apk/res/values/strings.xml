@@ -103,7 +103,7 @@
   <string name="fp_nav_center_action_choose_dlg_msg">You can return to your Home screen lightly tapping the Home button. Just go to Settings &gt; Additional settings &gt; Buttons and turn on Tap for Home screen.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Not now</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Go to Settings</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Quick tap for Home screen</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Quick tap to Home screen</string>
   <string name="frequent_phrases">Frequent phrases</string>
   <string name="global_actions_airplane_mode">Airplane mode</string>
   <string name="global_actions_reboot">Reboot</string>
