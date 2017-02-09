@@ -2,6 +2,8 @@
 <resources>
   <string name="app_loaction">Find on Home screen</string>
   <string name="app_name">Search</string>
+  <string name="appindex_description">functions of installed apps</string>
+  <string name="appindex_search_label">Apps functions</string>
   <string name="application_desc">Application</string>
   <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
@@ -60,6 +62,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="permission_prompt_start">Allow</string>
   <string name="permission_prompt_started_info">"You've allowed global search"</string>
   <string name="permission_prompt_title">Want more?</string>
+  <string name="pull_to_input">Pull down to reveal the search bar</string>
   <string name="recent_apps">Recent apps</string>
   <string name="recent_apps_filter">"Hide the apps you don't use"</string>
   <string name="recent_close_content">"Turn this feature off now?
@@ -75,6 +78,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="recent_filter_functions">Turned off features</string>
   <string name="recent_function">Features</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
+  <string name="release_to_input">Release to reveal the search bar</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
   <string name="search_apps">Search apps</string>
