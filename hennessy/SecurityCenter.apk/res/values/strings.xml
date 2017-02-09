@@ -182,6 +182,7 @@ or enter App lock password"</string>
   <string name="auto_task_notify_task_cancel_count_down">Automated action will be canceled in 5 seconds</string>
   <string name="auto_task_notify_task_cancel_do">Cancel action</string>
   <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Looks like you're playing a game now."</string>
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
@@ -475,6 +476,9 @@ or enter App lock password"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Stop payment security check?</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
+  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
+  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
+  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
@@ -632,7 +636,7 @@ or enter App lock password"</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
   <string name="info_and_call">Calls and messaging</string>
-  <string name="information_setting">News feed settings</string>
+  <string name="information_setting">Recommendations</string>
   <string name="input_aviable_traffic">Set data usage limit</string>
   <string name="input_traffic_pkg">Enter data usage</string>
   <string name="input_used_hint">Enter data usage</string>
@@ -688,7 +692,7 @@ or enter App lock password"</string>
   <string name="legal_workday_message">(Skip holidays)</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"Couldn't load"</string>
-  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
+  <string name="load_only_under_wlan">Load using only WLAN</string>
   <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_business_hongbao_message">来自%1$s</string>
@@ -1274,7 +1278,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
   <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
   <string name="recommend_app">Recommended apps</string>
-  <string name="recommend_news">Recommended sources</string>
+  <string name="recommend_news">Receive recommendations</string>
   <string name="recommended">Featured</string>
   <string name="reject_all">Restrict all</string>
   <string name="reject_countdown">Deny (%d)</string>
@@ -1399,6 +1403,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="showpattern">Show pattern</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
   <string name="shutdown_time">Off at %1$s</string>
   <string name="shutdown_time_day">Off in %1$dd at %2$s</string>
   <string name="shutdown_time_day_tomorrow">Off tomorrow at %1$s</string>
@@ -1812,7 +1817,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
   <string name="warning_open_mi_sim">Turn on Mi SIM</string>
-  <string name="weChat_not_found">您的微信版本过低或者未安装</string>
+  <string name="weChat_not_found">您的应用版本过低或者未安装</string>
   <string name="wechat_lucky_warning">微信红包</string>
   <string name="white_list_risk_app_header">Dangerous apps: %d</string>
   <string name="white_list_trojan_header">Trojans: %d</string>
@@ -1826,5 +1831,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_encryption">WLAN encryption</string>
   <string name="wifi_item_title_fake">Detect fake WLAN</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
-  <string name="zhifubao_not_found">您的支付宝版本过低或者未安装</string>
+  <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

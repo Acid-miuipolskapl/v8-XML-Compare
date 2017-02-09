@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="hfb_app_name">话付宝</string>
-  <string name="hfb_complete">购买完成</string>
-  <string name="hfb_confirm">确认支付</string>
-  <string name="hfb_confirm_code">验证码：</string>
-  <string name="hfb_customer_service_phone">客服电话：</string>
-  <string name="hfb_customer_service_phone_number">4001125881</string>
-  <string name="hfb_fail_hint">* 如未收到短信请咨询中国移动通信账户支付客服中心：4001125881(只收市话费，无长途话费)；</string>
-  <string name="hfb_get_confirm_code">获取验证码</string>
-  <string name="hfb_goods_name">商品名称：</string>
-  <string name="hfb_goods_name_content">米币</string>
-  <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
-  <string name="hfb_main_title">订单支付</string>
-  <string name="hfb_order_price">订单价格：</string>
-  <string name="hfb_pay_by_phone">支付手机：</string>
-  <string name="hfb_retry_query">再查一次</string>
-  <string name="hfb_retry_receive">没收到短信？重新接收</string>
-  <string name="hfb_return">返回应用</string>
-  <string name="hfb_step_2">按照提示进行回复</string>
-  <string name="hfb_step_3">点击“购买完成”</string>
-  <string name="hfb_succ_label">支付成功</string>
-  <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
-  <string name="hfb_succ_service_phone_tip">支付服务客服：4001125881</string>
   <string name="mibi_app_name">Mi Credit</string>
   <string name="mibi_balance_payment_title">Mi Credit</string>
   <string name="mibi_balance_title">Balance</string>
@@ -214,7 +192,6 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_password_forget">forgot?</string>
   <string name="mibi_password_hint">Enter account password</string>
   <string name="mibi_password_prompt">To secure your spendings, verify your Mi account</string>
-  <string name="mibi_pay_notification">Paying %1$s Mi Credits</string>
   <string name="mibi_payment_recharge_group_title">Choose top-up method</string>
   <string name="mibi_payment_success_label">"You've paid%1$sMi Credit"</string>
   <string name="mibi_payment_success_title">Payment received</string>
@@ -287,7 +264,6 @@ Customer service center：400-100-5678"</string>
   <string name="mibi_recharge_grid_mibi_picker_hint">Choose amount</string>
   <string name="mibi_recharge_grid_money_picker_hint">Select amount</string>
   <string name="mibi_recharge_mibi_title">Mi Credit</string>
-  <string name="mibi_recharge_notification">Topping up: %1$s Mi Credits</string>
   <string name="mibi_recharge_novalid_method">No valid top-up method.</string>
   <string name="mibi_recharge_other">View other methods</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d added %2$s Mi Credits to your account</string>
@@ -435,7 +411,7 @@ To activate your account, follow the
   <string name="passport_reg_using_other_phone">&lt;u&gt;Use alternate phone number&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
-  <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>

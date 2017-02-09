@@ -20,6 +20,7 @@
   <string name="input_method_category">"Choose the default keyboard that you'll use for writing messages, notes, and just about everything else. Note that you can install other third-party keyboards later."</string>
   <string name="input_method_setting">Choose keyboard</string>
   <string name="install_preinstall_app">Loading apps…</string>
+  <string name="language_picker_other_languages_title">More Languages</string>
   <string name="locale_picker_title">Choose your region</string>
   <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
   <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
@@ -57,7 +58,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="terms_of_use">Terms and Conditions</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. You need to connect to the internet to activate Mi services, SIM card activation, Find device and Mi Home."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Find device, system component MSA, and statistic components will connect to the internet and acquire your location."</string>
   <string name="title_fingerprint">Add your fingerprint</string>
   <string name="user_agreement">Terms of Service</string>
   <string name="welcome">Welcome</string>
