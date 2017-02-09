@@ -66,7 +66,6 @@
         <item>com.qti.snapdragon.sdk.display</item>
         <item>com.xiaomi.bluetooth</item>
         <item>com.xiaomi.metoknlp</item>
-        <item>com.miui.vpnsdkmanager</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
@@ -117,6 +116,10 @@
     </string-array>
     <string-array name="protect_active">
         <item>com.iflytek.speechcloud</item>
+        <item>com.iflytek.vflynote</item>
+    </string-array>
+    <string-array name="protect_link_active">
+        <item>com.miui.networkassistant.vpn</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>
