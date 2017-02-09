@@ -17,6 +17,39 @@
         <item>要</item>
         <item>只要</item>
     </string-array>
+    <string-array name="day_time_space">
+        <item>半夜</item>
+        <item>凌晨</item>
+        <item>上午</item>
+        <item>中午</item>
+        <item>下午</item>
+        <item>傍晚</item>
+        <item>晚上</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>空气%1$s</item>
+        <item>空气%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+        <item>%1$s污染</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度</item>
+        <item>中度</item>
+        <item>重度</item>
+        <item>严重</item>
+    </string-array>
     <string-array name="default_app">
         <item>com.xiaomi.shop/com.xiaomi.shop2.plugin.PluginChildActivity</item>
         <item>com.tmall.wireless/.orderlogistics.ui.TMLogisticsActivity</item>
