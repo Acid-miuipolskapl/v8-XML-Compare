@@ -730,6 +730,14 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="pref_camera_zoom_mode_entries">
+        <item>@string/pref_camera_zoom_mode_entry_wide</item>
+        <item>@string/pref_camera_zoom_mode_entry_tele</item>
+    </string-array>
+    <string-array name="pref_camera_zoom_mode_entryvalues">
+        <item>@string/pref_camera_zoom_mode_entryvalue_wide</item>
+        <item>@string/pref_camera_zoom_mode_entryvalue_tele</item>
+    </string-array>
     <string-array name="pref_skin_beautify_multi_level_entries">
         <item>@string/pref_camera_beautify_entry_0</item>
         <item>@string/pref_camera_beautify_entry_1</item>
