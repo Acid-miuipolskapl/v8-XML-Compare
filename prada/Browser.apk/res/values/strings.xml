@@ -466,6 +466,7 @@ Pages you view won't appear in history."</string>
   <string name="edit">Edit</string>
   <string name="edit_bookmark">Edit bookmark</string>
   <string name="edit_quicklink">Edit</string>
+  <string name="empty_app_name">other app</string>
   <string name="empty_bookmark">Empty</string>
   <string name="empty_history_hint">History is empty</string>
   <string name="empty_snapshot_hint">Empty</string>
@@ -665,6 +666,7 @@ Leave this page?"</string>
   <string name="notif_install_successful">Download complete</string>
   <string name="ok">OK</string>
   <string name="older">Older</string>
+  <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"Can't open File Explorer"</string>
   <string name="opening_file_error">Failed to open selected file</string>
   <string name="page_info">Page info</string>
