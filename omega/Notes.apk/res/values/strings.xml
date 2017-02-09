@@ -16,6 +16,7 @@
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="call_folder_name">Call notes</string>
+  <string name="cloud_trash_bin_title">Delete notes in Mi Cloud</string>
   <string name="default_folder_name">Unnamed folder</string>
   <string name="delete_folder_dialog_tile">Delete folder</string>
   <string name="dlg_btn_set_password">Set password</string>
@@ -89,10 +90,10 @@
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permlab_accessNote">Access notes</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Don't ask for confirmation when deleting a note using gesture"</string>
+  <string name="pref_title_cloud_trash_bin">Delete notes in Mi Cloud</string>
   <string name="pref_title_common">Additional settings</string>
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Style</string>
-  <string name="pref_title_recover_help">Recover notes</string>
   <string name="pref_title_show_root_folder_in_homepage">Show only quick notes on the start page</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">An error occurred, go to i.mi.com to restore notes.</string>
