@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_1e5">false</string>
+  <string name="APKTOOL_DUMMY_1e6">false</string>
+  <string name="APKTOOL_DUMMY_1e7">false</string>
+  <string name="APKTOOL_DUMMY_1e8">false</string>
+  <string name="APKTOOL_DUMMY_1e9">false</string>
+  <string name="APKTOOL_DUMMY_1ea">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>

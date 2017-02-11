@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_2b0">false</string>
+  <string name="APKTOOL_DUMMY_2b2">false</string>
+  <string name="APKTOOL_DUMMY_2b3">false</string>
+  <string name="APKTOOL_DUMMY_2b5">false</string>
+  <string name="APKTOOL_DUMMY_2b6">false</string>
+  <string name="APKTOOL_DUMMY_2b7">false</string>
+  <string name="APKTOOL_DUMMY_2b8">false</string>
+  <string name="APKTOOL_DUMMY_2bb">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
