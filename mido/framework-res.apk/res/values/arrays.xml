@@ -342,54 +342,22 @@
         <item>21</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
-        <item>1</item>
-        <item>4</item>
-        <item>5</item>
-        <item>8</item>
-        <item>13</item>
-        <item>17</item>
-        <item>21</item>
-        <item>26</item>
+        <item>10</item>
         <item>30</item>
-        <item>34</item>
-        <item>39</item>
         <item>60</item>
-        <item>140</item>
-        <item>310</item>
-        <item>400</item>
-        <item>500</item>
-        <item>600</item>
-        <item>1000</item>
-        <item>1200</item>
-        <item>1500</item>
-        <item>3000</item>
-        <item>3500</item>
-        <item>4000</item>
+        <item>100</item>
+        <item>150</item>
+        <item>210</item>
+        <item>255</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>2</item>
-        <item>3</item>
-        <item>3</item>
-        <item>15</item>
-        <item>15</item>
-        <item>15</item>
-        <item>15</item>
-        <item>31</item>
-        <item>39</item>
-        <item>43</item>
-        <item>43</item>
-        <item>44</item>
-        <item>45</item>
-        <item>48</item>
-        <item>55</item>
-        <item>60</item>
-        <item>63</item>
-        <item>67</item>
-        <item>84</item>
-        <item>93</item>
-        <item>105</item>
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>70</item>
+        <item>110</item>
+        <item>160</item>
         <item>200</item>
-        <item>240</item>
         <item>255</item>
     </integer-array>
     <array name="config_autoBrightnessButtonBacklightValues" />
@@ -508,53 +476,34 @@
     <integer-array name="launchboost_param_value">
         <item>0x40C00000</item>
         <item>0x00000001</item>
-        <item>0x40804000</item>
-        <item>0x00000FFF</item>
-        <item>0x40804100</item>
-        <item>0x00000FFF</item>
-        <item>0x40800000</item>
-        <item>0x00000FFF</item>
         <item>0x40800100</item>
-        <item>0x00000FFF</item>
-        <item>0x41800000</item>
-        <item>140</item>
+        <item>0x000007E0</item>
         <item>0x40400000</item>
-        <item>0x00000001</item>
-        <item>0x42C0C000</item>
         <item>0x00000001</item>
     </integer-array>
     <array name="lboostv2_param_value" />
     <array name="freqaggr_init_param_value" />
     <array name="freqaggr_param_value" />
-    <array name="launchboost_packing_param_value" />
-    <array name="animationboost_param_value" />
-    <integer-array name="flingboost_param_value">
-        <item>0x40800000</item>
-        <item>1000</item>
-        <item>0x40800100</item>
-        <item>1000</item>
-        <item>0x40C00000</item>
+    <integer-array name="launchboost_packing_param_value">
+        <item>0x40400000</item>
         <item>0x00000001</item>
     </integer-array>
+    <integer-array name="animationboost_param_value">
+        <item>0x40800100</item>
+        <item>0x00000578</item>
+    </integer-array>
+    <integer-array name="flingboost_param_value">
+        <item>0x40800100</item>
+        <item>0x00000578</item>
+    </integer-array>
     <integer-array name="scrollboost_param_value">
-        <item>0x40C00000</item>
-        <item>0x00000001</item>
+        <item>0x40800100</item>
+        <item>0x00000578</item>
     </integer-array>
     <array name="boost_activityList" />
     <array name="ascrollboost_param_value" />
-    <string-array name="debugBoost_activityList">
-        <item>com.android.gallery3d</item>
-        <item>com.android.music</item>
-        <item>com.android.contacts</item>
-        <item>com.android.chrome</item>
-        <item>com.google.android.gm</item>
-    </string-array>
-    <integer-array name="debugBoost_param_value">
-        <item>0x40800100</item>
-        <item>0x000004A6</item>
-        <item>0x40800000</item>
-        <item>0x000004A6</item>
-    </integer-array>
+    <array name="debugBoost_activityList" />
+    <array name="debugBoost_param_value" />
     <array name="panelview_flingboost_param_value" />
     <array name="config_defaultPinnerServiceFiles" />
     <string-array name="origin_carrier_names">
@@ -1095,14 +1044,14 @@
         <item>zu-ZA</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>To make calls and send messages over WLAN, first ask your carrier to set up this service. Then turn on WLAN calling again from Settings.</item>
+        <item>To make calls and send messages over Wi-Fi, first ask your carrier to set up this service. Then turn on Wi-Fi calling again from Settings.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Register with your carrier</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>
-        <item>%s WLAN Calling</item>
+        <item>%s Wi-Fi Calling</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Try again</item>
@@ -1124,6 +1073,14 @@
         <item>Keep your finger on the scanner a bit longer</item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -1133,22 +1090,6 @@
         <item>Custom</item>
     </string-array>
     <array name="carrier_properties" />
-    <integer-array name="config_manualBrightnessRemapIn">
-        <item>1</item>
-        <item>30</item>
-        <item>60</item>
-        <item>128</item>
-        <item>192</item>
-        <item>255</item>
-    </integer-array>
-    <integer-array name="config_manualBrightnessRemapOut">
-        <item>1</item>
-        <item>8</item>
-        <item>20</item>
-        <item>60</item>
-        <item>120</item>
-        <item>255</item>
-    </integer-array>
     <array name="securespaces_extension_encryption_userRestrictions" />
     <array name="securespaces_extension_hidden_userRestrictions" />
 </resources>
