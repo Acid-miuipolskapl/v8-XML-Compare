@@ -1,5 +1,4 @@
 <resources>
-    <string name="weather_type_null">'Нема података'</string>
     <string name="weather_type_0">Ведро</string>
     <string name="weather_type_1">Облачно</string>
     <string name="weather_type_2">Магловито</string>
