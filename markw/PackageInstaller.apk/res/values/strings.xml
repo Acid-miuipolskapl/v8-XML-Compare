@@ -104,7 +104,7 @@
   <string name="current_permission_template">%1$s of %2$s</string>
   <string name="current_permissions_category">Current permissions</string>
   <string name="default_permission_description">perform an unknown action</string>
-  <string name="devicePerms">Device Access</string>
+  <string name="devicePerms">Device access</string>
   <string name="dlg_app_replacement_statement">"The app you're installing will replace another app.
 
 All your previous user data will be saved."</string>
@@ -125,12 +125,12 @@ All your previous user data will be saved."</string>
   <string name="install">Install</string>
   <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
   <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
-  <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
-  <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
-  <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
-  <string name="install_confirm_question_update_system_no_perms">Do you want to install an update to this built-in application? Your existing data will not be lost. It does not require any special access.</string>
+  <string name="install_confirm_question_update">"Do you want to install an update to this existing app? The existing app data won't be lost. The updated application will get access to:"</string>
+  <string name="install_confirm_question_update_no_perms">"Do you want to install an update to this existing app? The existing app data won't be lost. It does not require any special access."</string>
+  <string name="install_confirm_question_update_system">"Do you want to install an update to this built-in app? The existing app data won't be lost. The updated app will get access to:"</string>
+  <string name="install_confirm_question_update_system_no_perms">"Do you want to install an update to this built-in app? The existing app data won't be lost. It does not require any special access."</string>
   <string name="install_done">App installed.</string>
-  <string name="install_failed">App not installed.</string>
+  <string name="install_failed">"Couldn't install app"</string>
   <string name="install_failed_blocked">The package was blocked from being installed.</string>
   <string name="install_failed_conflict">The package conflicts with an existing package by the same name.</string>
   <string name="install_failed_incompatible">"This app isn't compatible with your phone."</string>
@@ -175,7 +175,7 @@ All your previous user data will be saved."</string>
   <string name="lift_ban">Allow</string>
   <string name="lift_ban_once">Allow once</string>
   <string name="loading">Loading…</string>
-  <string name="location_settings">Location Settings</string>
+  <string name="location_settings">Location settings</string>
   <string name="location_warning">%1$s is a provider of location services for this device. Location access can be modified from location settings.</string>
   <string name="low_risk_perms">Low-risk permissions</string>
   <string name="manage_applications">Manage apps</string>
@@ -244,7 +244,7 @@ All your previous user data will be saved."</string>
   <string name="new_permissions_category">New permissions</string>
   <string name="next">Next</string>
   <string name="no_apps">No apps</string>
-  <string name="no_new_perms">This update requires no new permissions.</string>
+  <string name="no_new_perms">"This update doesn't require new permissions."</string>
   <string name="no_permissions">No permissions</string>
   <string name="ok">OK</string>
   <string name="old_sdk_deny_warning">This app was designed for an older version of Android. Denying permission may cause it to no longer function as intended.</string>
@@ -308,8 +308,8 @@ All your previous user data will be saved."</string>
   <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
   <string name="uninstall_blocked_profile_owner">"This app is needed for your profile and can't be uninstalled."</string>
   <string name="uninstall_confirm_question">Uninstall this app?</string>
-  <string name="uninstall_done">Uninstall finished.</string>
-  <string name="uninstall_failed">Uninstall unsuccessful.</string>
+  <string name="uninstall_done">Uninstalled successfully</string>
+  <string name="uninstall_failed">"Couldn't uninstall"</string>
   <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">"Can't uninstall because this package is an active device administrator for the user %1$s."</string>
   <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
