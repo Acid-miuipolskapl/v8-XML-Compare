@@ -39,6 +39,7 @@
   <string name="notification_rec_title">Tap to view recording</string>
   <string name="pre_station">Previous station</string>
   <string name="record_completed">Recording completed</string>
+  <string name="runtime_permission_ungranted">"Can't start record due to ungranted permissions"</string>
   <string name="search_dialog_title">Scan stations</string>
   <string name="set">Set</string>
   <string name="station_check_favorite">Add to presets</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these people?"</item>
-        <item quantity="one">"Don't show this person?"</item>
+    <plurals name="face_count">
+        <item quantity="other">Total %d photos</item>
+        <item quantity="one">Total %d photo</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s photos of %2$s >></item>
-        <item quantity="one">%1$s photo of %2$s >></item>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Total %d photos</item>
+        <item quantity="one">Total %d photo</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d years</item>
@@ -52,13 +52,25 @@
         <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
         <item quantity="one">"Couldn't download photo, try again?"</item>
     </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try again"</item>
+        <item quantity="one">"Couldn't download photo, connect to the network and try again"</item>
+    </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
         <item quantity="one">"Couldn't download photo (%2$dMB), try again?"</item>
     </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try again"</item>
+        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try again"</item>
+    </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Cancel downloading %d remaining photos?</item>
         <item quantity="one">Cancel downloading the remaining photo?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Added %d cloud photos, turn off \"Only show local albums\" to view.</item>
+        <item quantity="one">Added %d cloud photo, turn off \"Only show local albums\" to view.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Delete %1$d photos %2$s?</item>
@@ -93,20 +105,28 @@
         <item quantity="one">%1$d item is waiting to be backed up</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Network error. %1$d items are waiting to be backed up.</item>
+        <item quantity="one">Network error. %1$d item is waiting to be backed up.</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Sync is off. %1$d items are waiting to be backed up.</item>
+        <item quantity="one">Sync is off. %1$d item is waiting to be backed up.</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+        <item quantity="other">"Can't back up %1$d items"</item>
+        <item quantity="one">"Can't back up %1$d item"</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up.</item>
+        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up.</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">1 photo</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videos</item>
+        <item quantity="one">1 video</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos waiting to back up</item>
@@ -117,8 +137,8 @@
         <item quantity="one">1 video waiting to back up</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items waiting to back up</item>
-        <item quantity="one">1 item waiting to back up</item>
+        <item quantity="other">%1$d items waiting to be backed up</item>
+        <item quantity="one">1 item waiting to be backed up</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Backing up %1$d photos…</item>

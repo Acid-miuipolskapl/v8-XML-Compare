@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="altitude">%.1f</string>
+  <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Altitude</string>
   <string name="altitude_uncalibrate_cancel">Cancel</string>
   <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
   <string name="altitude_uncalibrate_refresh">Try again</string>
   <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
-  <string name="altitude_unit">M</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">"Can't calibrate"</string>
