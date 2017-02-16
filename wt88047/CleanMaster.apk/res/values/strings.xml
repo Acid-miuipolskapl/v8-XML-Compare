@@ -182,6 +182,7 @@
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="file">Files</string>
+  <string name="file_not_found">File not found</string>
   <string name="flow_rank_title">Data usage</string>
   <string name="function_app_lock_title">%d apps contain privacy risks​</string>
   <string name="garbage_clean_detail">Details</string>
@@ -527,6 +528,7 @@
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
   <string name="vungle_ad_name">Vungle广告</string>
+  <string name="wechat_add_to_cleanlist">Cleaned successfully</string>
   <string name="wechat_cache_files">WeChat cache</string>
   <string name="wechat_chat_clean_done">Everything looks good</string>
   <string name="wechat_chat_data_type_cache">WeChat cache</string>
