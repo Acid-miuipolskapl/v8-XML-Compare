@@ -274,7 +274,7 @@ Contact cards are turned off"</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
   <string name="data_already_used">Used data</string>
-  <string name="data_charge">Top up mobile data</string>
+  <string name="data_charge">Top up data</string>
   <string name="data_left">Remaining data</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
@@ -406,7 +406,7 @@ Contact cards are turned off"</string>
   <string name="editContactNameExpandOpenDescription">Expand name</string>
   <string name="editGroupDescription">Edit group</string>
   <string name="edit_contact">Edit contact</string>
-  <string name="edit_contact_card_title">Edit contact card</string>
+  <string name="edit_contact_card_title">Select items to share</string>
   <string name="edit_contact_photo">Edit contact photo</string>
   <string name="email">Email</string>
   <string name="emailLabelsGroup">Email</string>
@@ -577,6 +577,11 @@ Reason: \"%s\""</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">Contact</string>
+  <string name="live_talk_switch_on_toast">Live talk has been enabled</string>
+  <string name="livetalk_charge">Charge</string>
+  <string name="livetalk_left">Remaining livetalk</string>
+  <string name="livetalk_switch_on">Switch on</string>
+  <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">Just a sec…</string>
   <string name="loading_group_members">Just a sec…</string>
   <string name="loading_groups">Just a sec…</string>
@@ -586,6 +591,7 @@ Reason: \"%s\""</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
   <string name="login_ok">Sign in</string>
+  <string name="low_memory_toast">"Can't use this feature due to low memory."</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
@@ -1190,6 +1196,7 @@ To add a contact to your list of favorites:
   <string name="toast_making_personal_copy">Creating a personal copy…</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="today">Today</string>
+  <string name="tomorrow">Tomorrow</string>
   <string name="transfer_accounts">Transfer accounts</string>
   <string name="type_incoming">Incoming call</string>
   <string name="type_missed">Missed call</string>
@@ -1255,9 +1262,10 @@ Choose one of the following options:"</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
+  <string name="yellowpage_fc_toast">"Can't use this feature because Yellow pages crashed."</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
@@ -1277,5 +1285,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
   <string name="yellowpage_search_the_yellowpage">Search Yellow pages</string>
   <string name="yellowpage_user_profile">Profile</string>
+  <string name="yesterday">Yesterday</string>
   <string name="zero_items_selected">Select items</string>
 </resources>

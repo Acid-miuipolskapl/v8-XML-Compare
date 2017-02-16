@@ -62,6 +62,7 @@
   <string name="from_unit_short">km/h</string>
   <string name="fund"/>
   <string name="fund_loan"/>
+  <string name="home_title_calculator">Calculator</string>
   <string name="income_type"/>
   <string name="item_title_aa_payment">Split the bill</string>
   <string name="item_title_area_conversion">Area</string>
@@ -141,6 +142,21 @@
   <string name="plusDesc">plus</string>
   <string name="power">^</string>
   <string name="powerDesc">power</string>
+  <string name="preference_about_calculator">About Calculator</string>
+  <string name="preference_alert_follow_wechat">Copy and paste into WeChat to follow</string>
+  <string name="preference_alert_follow_wechat_button">Copy</string>
+  <string name="preference_check_update_title">Check for updates</string>
+  <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_us">Follow us</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Official website</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Settings</string>
+  <string name="preference_use_degress_summary">Substitute radians with angles in trigonometric functions</string>
+  <string name="preference_use_degress_title">Use angles</string>
   <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">right parenthesis</string>
@@ -156,11 +172,13 @@
   <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Accumulation fund</string>
   <string name="tax_annual_bonus_hint">Enter your bonus before tax</string>
+  <string name="tax_annual_bonus_number">Bonus</string>
   <string name="tax_birth">Birth</string>
   <string name="tax_cal_method_annual">Annual bonus calculation</string>
   <string name="tax_cal_method_fixed_salary">Income tax calculation</string>
   <string name="tax_cal_method_format">Personal input: %s</string>
   <string name="tax_city">City</string>
+  <string name="tax_city_error">Enter correct city</string>
   <string name="tax_city_located">Location</string>
   <string name="tax_city_picker">City</string>
   <string name="tax_edittext_hint"/>
@@ -176,6 +194,8 @@
   <string name="tax_individual_income_tax_result">Results</string>
   <string name="tax_injury">Injury</string>
   <string name="tax_insurance_and_fund">Insurance</string>
+  <string name="tax_last_salary_hint">Enter your income</string>
+  <string name="tax_last_salary_number">Income</string>
   <string name="tax_medical">Medical</string>
   <string name="tax_param_error">Enter correct insurance rates</string>
   <string name="tax_result_real_get">After tax</string>
@@ -278,7 +298,7 @@
   <string name="unit_data_display_velocity_mps">Meter per second</string>
   <string name="unit_data_display_velocity_nmiph">Knot</string>
   <string name="unit_data_display_volume_cl">Centiliter</string>
-  <string name="unit_data_display_volume_cu.af">Acre foot</string>
+  <string name="unit_data_display_volume_cu.af">Acre-foot</string>
   <string name="unit_data_display_volume_cu.cm">Cubic centimeter</string>
   <string name="unit_data_display_volume_cu.dm">Cubic decimeter</string>
   <string name="unit_data_display_volume_cu.ft">Cubic foot</string>
@@ -366,7 +386,7 @@
   <string name="unit_data_short_volume_cu.mm">mm³</string>
   <string name="unit_data_short_volume_cu.um">μm³</string>
   <string name="unit_data_short_volume_cu.yd">yd³</string>
-  <string name="unit_data_short_volume_hl">hl³</string>
+  <string name="unit_data_short_volume_hl">hl</string>
   <string name="unit_data_short_weight_dan">dan</string>
   <string name="unit_data_short_weight_jin">jin</string>
   <string name="unit_data_short_weight_liang">liang</string>
@@ -385,9 +405,9 @@
   <string name="wf_word_figure">Financial characters</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">万 </string>
-  <string name="word_figure_big_unit_yi">亿 </string>
-  <string name="word_figure_big_unit_zhao">兆 </string>
+  <string name="word_figure_big_unit_wan">"万 "</string>
+  <string name="word_figure_big_unit_yi">"亿 "</string>
+  <string name="word_figure_big_unit_zhao">"兆 "</string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
@@ -403,5 +423,15 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="year"/>
 </resources>
