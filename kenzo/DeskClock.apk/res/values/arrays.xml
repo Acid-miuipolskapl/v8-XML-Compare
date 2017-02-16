@@ -963,13 +963,13 @@
     </string-array>
     <string-array name="weather_tips_value">
         <item>Reduce outdoor activities</item>
-        <item>Pay attention to slip</item>
-        <item>Thunderstorm weather, travel safety</item>
-        <item>Fog haze weather, wearing masks</item>
+        <item>The roads are slippery</item>
+        <item>The weather is stormy, be careful!</item>
+        <item>The air is polluted, wear a mask!</item>
         <item>Take an umbrella when you go out</item>
-        <item>Pay attention on the road</item>
-        <item>Sand weather, wearing masks</item>
-        <item>Wish you a wonderful day</item>
+        <item>Be careful on the road</item>
+        <item>Sandstorm is coming, wear a mask!</item>
+        <item>Have a nice day!</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>0</item>
