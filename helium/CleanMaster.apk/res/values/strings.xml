@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_238">false</string>
-  <string name="APKTOOL_DUMMY_239">false</string>
   <string name="APKTOOL_DUMMY_23a">false</string>
   <string name="APKTOOL_DUMMY_23b">false</string>
   <string name="APKTOOL_DUMMY_23c">false</string>
@@ -14,6 +12,8 @@
   <string name="APKTOOL_DUMMY_243">false</string>
   <string name="APKTOOL_DUMMY_244">false</string>
   <string name="APKTOOL_DUMMY_245">false</string>
+  <string name="APKTOOL_DUMMY_246">false</string>
+  <string name="APKTOOL_DUMMY_247">false</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
@@ -196,6 +196,7 @@
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="file">Files</string>
+  <string name="file_not_found">File not found</string>
   <string name="flow_rank_title">Data usage</string>
   <string name="function_app_lock_title">%d apps contain privacy risks​</string>
   <string name="garbage_clean_detail">Details</string>
@@ -541,6 +542,7 @@
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
   <string name="vungle_ad_name">Vungle广告</string>
+  <string name="wechat_add_to_cleanlist">Cleaned successfully</string>
   <string name="wechat_cache_files">WeChat cache</string>
   <string name="wechat_chat_clean_done">Everything looks good</string>
   <string name="wechat_chat_data_type_cache">WeChat cache</string>

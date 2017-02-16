@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_2aa">false</string>
+  <string name="APKTOOL_DUMMY_2ab">false</string>
+  <string name="APKTOOL_DUMMY_2ac">false</string>
+  <string name="APKTOOL_DUMMY_2ad">false</string>
+  <string name="APKTOOL_DUMMY_2ae">false</string>
+  <string name="APKTOOL_DUMMY_2af">false</string>
   <string name="APKTOOL_DUMMY_2b0">false</string>
   <string name="APKTOOL_DUMMY_2b1">false</string>
   <string name="APKTOOL_DUMMY_2b2">false</string>
@@ -37,7 +43,6 @@
   <string name="add_number_to_sender">Add number to %s</string>
   <string name="add_picture">Add picture</string>
   <string name="add_private_contact">Add private contact</string>
-  <string name="add_redpackage">Red Package</string>
   <string name="add_slide">Add slide (after)</string>
   <string name="add_slide_before">Add intro slide</string>
   <string name="add_slide_hint">Touch to create new slide</string>
@@ -506,7 +511,6 @@
   <string name="recipient_label">"Recipient: "</string>
   <string name="recipients_over_size">Too many recipients.</string>
   <string name="recording_failed">"Can't record"</string>
-  <string name="red_package_btn">Open</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
   <string name="refresh_failed">Update failed</string>
@@ -613,7 +617,6 @@
   <string name="sms_report_success">Report sent</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
-  <string name="snippet_red_package">[Red Packet]</string>
   <string name="sp_category_all">All service messages</string>
   <string name="sp_category_bank">Bank notification messages</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -653,9 +656,6 @@
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
-  <string name="title_recv_red_package">Receive Red Packet</string>
-  <string name="title_red_package">Have a prosperous year!</string>
-  <string name="title_send_red_package">Send Red Packet</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>

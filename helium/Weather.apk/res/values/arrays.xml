@@ -143,14 +143,14 @@
         <item>Severe</item>
     </string-array>
     <string-array name="wind_unit_simple">
-        <item>beaufort scale</item>
+        <item>Beaufort scale</item>
         <item>km/h</item>
         <item>m/s</item>
         <item>mph</item>
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;force 2</item>
+        <item>&lt;Force 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
@@ -164,7 +164,7 @@
         <item>Knot (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>force %1$s</item>
+        <item>Force %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
