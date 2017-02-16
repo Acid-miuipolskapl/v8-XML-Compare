@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_87d">false</string>
-  <string name="APKTOOL_DUMMY_87e">false</string>
-  <string name="APKTOOL_DUMMY_87f">false</string>
-  <string name="APKTOOL_DUMMY_884">false</string>
-  <string name="APKTOOL_DUMMY_885">false</string>
-  <string name="APKTOOL_DUMMY_886">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>

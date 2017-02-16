@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_all_day">All day event</string>
@@ -36,7 +35,7 @@
   <string name="alert_title">Calendar notifications</string>
   <string name="app_label">Calendar</string>
   <string name="birthday_calendar_display_name">Birthday reminders</string>
-  <string name="birthday_card_title">"Today's birthday"</string>
+  <string name="birthday_card_title">"Today's birthdays"</string>
   <string name="birthday_event_description_a_week_ago">A week ago</string>
   <string name="birthday_event_description_a_week_later">One week until</string>
   <string name="birthday_event_description_day_after_tomorrow">The day after tomorrow is</string>
@@ -81,9 +80,6 @@
   <string name="change_response_title">Change response</string>
   <string name="check_reminded_text">查看提醒</string>
   <string name="chinese_leap">闰</string>
-  <string name="chips_action_cancel">Cancel</string>
-  <string name="chips_action_copy">Copy</string>
-  <string name="chips_permission_text">Allow contacts suggestions</string>
   <string name="chongsha">冲煞</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
@@ -127,26 +123,26 @@
   <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_birthday_import_from_contact">Import birthday from contacts</string>
-  <string name="edit_event_birthday_name_empty_hint">Please enter a name</string>
+  <string name="edit_event_birthday_name_empty_hint">Enter a name</string>
   <string name="edit_event_birthday_name_hint">Name</string>
-  <string name="edit_event_birthday_reminder_3_days_before">And remind 3 days before</string>
-  <string name="edit_event_birthday_reminder_summary">The day %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">Three days before, the day %1$s</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
+  <string name="edit_event_birthday_reminder_summary">On that day at %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">3 days in advance and on that day at %1$s</string>
   <string name="edit_event_birthday_reminder_time">Reminder time</string>
   <string name="edit_event_calendar_label">Calendar</string>
-  <string name="edit_event_choose_date">choose date</string>
+  <string name="edit_event_choose_date">Choose date</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
   <string name="edit_event_from_label">From</string>
-  <string name="edit_event_input_year">Input year</string>
+  <string name="edit_event_input_year">Enter year</string>
   <string name="edit_event_label">Details</string>
-  <string name="edit_event_no_reminder_value">No Reminder</string>
-  <string name="edit_event_reminder_text">%1$s the day %2$s</string>
-  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s the day %3$s</string>
+  <string name="edit_event_no_reminder_value">"Don't remind"</string>
+  <string name="edit_event_reminder_text">On %1$s at %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">On %1$s, %2$s at %3$s</string>
   <string name="edit_event_show_all">Show all</string>
-  <string name="edit_event_tab_anniversary">anniversary</string>
-  <string name="edit_event_tab_birthday">birthday</string>
-  <string name="edit_event_tab_countdown">countdown</string>
-  <string name="edit_event_tab_event">event</string>
+  <string name="edit_event_tab_anniversary">Anniversary</string>
+  <string name="edit_event_tab_birthday">Birthday</string>
+  <string name="edit_event_tab_countdown">Countdown</string>
+  <string name="edit_event_tab_event">Event</string>
   <string name="edit_event_to_label">To</string>
   <string name="email_guests_label">Email guests</string>
   <string name="email_picker_label">Email with</string>
@@ -173,9 +169,9 @@
   <string name="event_info_when">When</string>
   <string name="event_info_where">Where</string>
   <string name="event_lunar_month">月</string>
-  <string name="event_reminder_allday_day_zero">That day %2$s</string>
-  <string name="event_reminder_value_zero">At event time</string>
-  <string name="event_reminders_to_max">This event support only %d reminders</string>
+  <string name="event_reminder_allday_day_zero">On that day at %2$s</string>
+  <string name="event_reminder_value_zero">Before the event</string>
+  <string name="event_reminders_to_max">Can set up to %d reminders</string>
   <string name="event_title">Title</string>
   <string name="event_view">View event</string>
   <string name="every_weekday">Weekdays (Mon–Fri)</string>
@@ -211,7 +207,7 @@
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
   <string name="import_action">Import</string>
-  <string name="import_birthday">Import Birthday</string>
+  <string name="import_birthday">Import birthday</string>
   <string name="imported">Imported</string>
   <string name="insert_event_dialog_btn_negative">No</string>
   <string name="insert_event_dialog_btn_positive">Yes</string>
@@ -219,7 +215,7 @@
   <string name="insert_event_dialog_title">Attention</string>
   <string name="insert_event_toast_add_failed">"Couldn't add"</string>
   <string name="insert_event_toast_add_success">Event created</string>
-  <string name="item_num_selected">%1$dselected</string>
+  <string name="item_num_selected">%1$d selected</string>
   <string name="joke_card_click_toast">长按可复制笑话</string>
   <string name="joke_card_icon_text">%1$s人笑过</string>
   <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
@@ -286,7 +282,7 @@
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
-  <string name="no_contact_birthday_hint">No contact birthday to import</string>
+  <string name="no_contact_birthday_hint">No birthdays to import</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">Try again</string>
   <string name="no_title_label">(No title)</string>
@@ -305,7 +301,7 @@
   <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="pref_error_no_ringtone_select">Default ringtone</string>
-  <string name="pref_reminder_time">Reminder Time</string>
+  <string name="pref_reminder_time">Reminder time</string>
   <string name="pref_title_alarm_remind">Alarm reminders</string>
   <string name="pref_title_no_remind">No reminders</string>
   <string name="pref_title_notification_remind">Notification reminders</string>
@@ -313,7 +309,7 @@
   <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
   <string name="preferences_alerts_vibrate_title">Vibrate and ringtone</string>
   <string name="preferences_default_allday_reminder_default_value">480</string>
-  <string name="preferences_default_allday_reminder_title">Default all day reminder time</string>
+  <string name="preferences_default_allday_reminder_title">Default all-day reminder time</string>
   <string name="preferences_default_reminder_default_value">0</string>
   <string name="preferences_default_reminder_dialog">Default reminder time</string>
   <string name="preferences_default_reminder_title">Default reminder time</string>
@@ -373,8 +369,8 @@
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI version:</string>
   <string name="setting_about_summary">Version:</string>
-  <string name="setting_accounts">Calendar Accounts</string>
-  <string name="setting_features_title">Feature Settings</string>
+  <string name="setting_accounts">Calendar accounts</string>
+  <string name="setting_features_title">Feature settings</string>
   <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
   <string name="setting_holiday_reminder">Holiday reminder</string>
   <string name="setting_others">Additional</string>
@@ -382,7 +378,7 @@
   <string name="setting_title_about">About</string>
   <string name="setting_title_banner_display">显示农历卡片广告</string>
   <string name="setting_title_debug">导出日志</string>
-  <string name="setting_title_holiday_display">Show Holidays</string>
+  <string name="setting_title_holiday_display">Show holidays</string>
   <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
