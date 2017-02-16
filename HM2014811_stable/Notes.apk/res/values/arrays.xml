@@ -8,6 +8,10 @@
         <item>Camera</item>
         <item>Gallery</item>
     </string-array>
+    <string-array name="note_sort_way">
+        <item>Sorted by creation date</item>
+        <item>Sorted by modification date</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
