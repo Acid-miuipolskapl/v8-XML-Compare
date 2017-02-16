@@ -10,7 +10,6 @@
     <string name="aqi_dangerous"/>
     <string name="aqi_hazardous"/>
     <string name="aqi_break"/>
-	<string name="weather_type_null">'Нема података - Roaming Electronics'</string>
     <string name="weather_type_0">Ведро - Roaming Electronics</string>
     <string name="weather_type_1">Облачно - Roaming Electronics</string>
     <string name="weather_type_2">Магловито - Roaming Electronics</string>

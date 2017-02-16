@@ -11,7 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_0">स्वच्छ</string>
+    <string name="weather_type_0">निरभ्र</string>
     <string name="weather_type_1">ढगाळ</string>
     <string name="weather_type_2">धुके</string>
     <string name="weather_type_3">धुकट</string>
