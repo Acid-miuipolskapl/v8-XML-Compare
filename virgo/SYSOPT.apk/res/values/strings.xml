@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Settings</string>
+  <string name="app_name">SysoptApplication</string>
+  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
+  <string name="hello_world">Hello world!</string>
+</resources>
