@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">DMService</string>
+  <string name="check_error">Check error, registered failed!</string>
+  <string name="decode_error">Decode error, registered failed!</string>
+  <string name="register_failed">Registered failed!</string>
+  <string name="register_success">Registered successfully!</string>
+</resources>
