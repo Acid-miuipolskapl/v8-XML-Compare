@@ -78,8 +78,8 @@
   <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL, cloudUid TEXT DEFAULT NULL, type TEXT DEFAULT 0 );</string>
   <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
   <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0 );</string>
-  <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
-  <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+  <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
+  <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
   <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
   <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="customizer_mode_user_define_name">My rules</string>
@@ -312,8 +312,8 @@
   <string name="st_sub_title_customize_mode_name">Name</string>
   <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
   <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
-  <string name="st_summary_blacklist_numbers">Block calls and massages using numbers and area codes</string>
-  <string name="st_summary_blacklist_numbers_international">Block calls and massages using numbers</string>
+  <string name="st_summary_blacklist_numbers">Block calls and messages from specific numbers and areas</string>
+  <string name="st_summary_blacklist_numbers_international">Block calls and messages from specific numbers</string>
   <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
   <string name="st_summary_special_numbers">Block flagged phone numbers</string>
   <string name="st_summary_whitelist_numbers">Allow calls and messages from specific numbers and areas</string>
@@ -360,7 +360,7 @@
   <string name="tab_block_log_unKnowNumber">Private number</string>
   <string name="tab_call">Calls</string>
   <string name="tab_sms">SMS</string>
-  <string name="tab_title">AntiSpam</string>
+  <string name="tab_title">Blocklist</string>
   <string name="toast_keyword_blank">You need to enter a keyword</string>
   <string name="toast_keyword_exist">Keyword added</string>
   <string name="toast_keyword_invalid">Invalid keyword</string>
