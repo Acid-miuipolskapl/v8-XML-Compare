@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_b0">false</string>
   <string name="add_alarm">Add alarm</string>
   <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
   <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
