@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
-    <string name="date_time_12">EEEE, d MMMM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
-    <string name="desc_time">'поточний час' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', натисніть двічі для входу у додаток "Годинник"'</string>
-    <string name="weather_type_0">Сонячно</string>
+    <string name="desc_time">'поточний час' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', натисніть двічі для входу у програму "Годинник"'</string>
+    <string name="weather_type_0">Ясно</string>
     <string name="weather_type_1">Хмарно</string>
     <string name="weather_type_2">Серпанок</string>
     <string name="weather_type_3">Туман</string>
