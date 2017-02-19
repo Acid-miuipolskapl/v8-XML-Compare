@@ -5,7 +5,6 @@
         <item>tips</item>
         <item>com.android.quicksearchbox/.xiaomi.XiaomiSearch</item>
         <item>com.android.quicksearchbox/.applications.ApplicationLauncher</item>
-        <item>com.android.quicksearchbox/.provider.AppIndexActivity</item>
         <item>com.android.browser/.BookmarkSearchActivity</item>
         <item>com.xiaomi.providers.appindex/.MainActivity</item>
         <item>com.android.fileexplorer/.FileExplorerTabActivity</item>
