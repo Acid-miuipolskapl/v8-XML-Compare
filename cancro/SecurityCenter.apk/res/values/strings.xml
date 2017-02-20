@@ -925,6 +925,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">Protect selected apps with App lock</string>
+  <string name="notification_quick_charging_title">Quick charging</string>
   <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
