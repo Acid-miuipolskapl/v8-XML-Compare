@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_3a">false</string>
   <string name="APKTOOL_DUMMY_3b">false</string>
   <string name="APKTOOL_DUMMY_3c">false</string>
   <string name="APKTOOL_DUMMY_3d">false</string>
@@ -15,6 +14,7 @@
   <string name="APKTOOL_DUMMY_46">false</string>
   <string name="APKTOOL_DUMMY_47">false</string>
   <string name="APKTOOL_DUMMY_48">false</string>
+  <string name="APKTOOL_DUMMY_49">false</string>
   <string name="agree">Agree</string>
   <string name="agree_terms">"I've read and agree to the Terms of Service and Privacy Policy."</string>
   <string name="app_name">Provision</string>
@@ -35,6 +35,7 @@
   <string name="input_method_category">"Choose the default keyboard that you'll use for writing messages, notes, and just about everything else. Note that you can install other third-party keyboards later."</string>
   <string name="input_method_setting">Choose keyboard</string>
   <string name="install_preinstall_app">Loading apps…</string>
+  <string name="language_picker_other_languages_title">More Languages</string>
   <string name="locale_picker_title">Choose your region</string>
   <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
   <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>

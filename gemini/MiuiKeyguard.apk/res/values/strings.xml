@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_48">false</string>
-  <string name="APKTOOL_DUMMY_49">false</string>
-  <string name="APKTOOL_DUMMY_4a">false</string>
-  <string name="APKTOOL_DUMMY_4b">false</string>
-  <string name="APKTOOL_DUMMY_4c">false</string>
   <string name="APKTOOL_DUMMY_4d">false</string>
   <string name="APKTOOL_DUMMY_4e">false</string>
   <string name="APKTOOL_DUMMY_4f">false</string>
@@ -28,6 +23,11 @@
   <string name="APKTOOL_DUMMY_61">false</string>
   <string name="APKTOOL_DUMMY_62">false</string>
   <string name="APKTOOL_DUMMY_63">false</string>
+  <string name="APKTOOL_DUMMY_64">false</string>
+  <string name="APKTOOL_DUMMY_65">false</string>
+  <string name="APKTOOL_DUMMY_66">false</string>
+  <string name="APKTOOL_DUMMY_67">false</string>
+  <string name="APKTOOL_DUMMY_68">false</string>
   <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
   <string name="click_to_enter_text">Tap to view</string>
   <string name="confirm_pin_msg">Enter PIN again</string>
@@ -91,6 +91,14 @@
   <string name="open_camera_hint_text">Swipe left to open %s</string>
   <string name="open_remote_center_hint_text">Swipe right to open %s</string>
   <string name="open_wifi_settings">Open network connection</string>
+  <string name="phone_locked_foget_password">Forgot password?</string>
+  <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
+
+You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
+  <string name="phone_locked_foget_password_footer">"Steps:
+Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
+  <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
+  <string name="phone_locked_foget_password_ok">Got it</string>
   <string name="phone_locked_string">Phone has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
   <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>

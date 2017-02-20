@@ -243,6 +243,11 @@
         <item>1</item>
         <item>3</item>
     </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
@@ -1890,14 +1895,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>privacy_gallery</item>
         <item>privacy_file</item>
         <item>privacy_notes</item>
-        <item>child_mode</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Messages</item>
         <item>Photos</item>
         <item>Files</item>
         <item>Notes</item>
-        <item>Child mode</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
@@ -2075,11 +2078,11 @@ GLONASS
         <item>"小米手机5，快的有点狠!
 http://m.mi.com"</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_101">false</item>
     <item type="array" name="APKTOOL_DUMMY_102">false</item>
     <item type="array" name="APKTOOL_DUMMY_103">false</item>
     <item type="array" name="APKTOOL_DUMMY_104">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
+    <item type="array" name="APKTOOL_DUMMY_105">false</item>
     <item type="array" name="APKTOOL_DUMMY_108">false</item>
+    <item type="array" name="APKTOOL_DUMMY_109">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10a">false</item>
 </resources>

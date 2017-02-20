@@ -14,14 +14,17 @@
   <string name="close">Close</string>
   <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
   <string name="empty">" "</string>
-  <string name="game_booster">Gaming speed boost</string>
+  <string name="game_booster">Game speed boost</string>
   <string name="game_booster_intro">About Gaming speed boost</string>
   <string name="game_booster_total">Boosted speed %1$s times, added %2$s of gaming time</string>
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
   <string name="game_setting">Game settings</string>
   <string name="gs_app_back_self_start">Battery saver</string>
+  <string name="gs_auto_clean_memory">Clear cache</string>
+  <string name="gs_auto_clean_memory_detail">Clear cache automatically to optimize gaming</string>
   <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security &gt; Settings to restore it.</string>
   <string name="gs_dialog_confirm_close_title">Turn off</string>
+  <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Time</string>
   <string name="gs_game_net_priority">Connection priority</string>
   <string name="gs_game_net_priority_detail">Limit download speed to have enough bandwidth for gaming</string>
@@ -32,6 +35,7 @@
   <string name="gs_performance_mode_detail">Increase CPU usage to ensure seamless performance</string>
   <string name="install_game_count">Added %d games</string>
   <string name="loading">Just a sec…</string>
+  <string name="lucky_result_title">红包助手战绩</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="man_add_application">Add autostart apps manually</string>
   <string name="miuishare_title_more">More</string>
@@ -78,4 +82,6 @@
   <string name="top_game">Top games</string>
   <string name="uninstall_game_count">"Haven't added %d games"</string>
   <string name="usage_sorted_loading_text">Just a sec…</string>
+  <string name="wlan_change_protection_detail">"Don't switch to WLAN automatically when connected to mobile data network"</string>
+  <string name="wlan_change_protection_title">Prevent switching networks</string>
 </resources>

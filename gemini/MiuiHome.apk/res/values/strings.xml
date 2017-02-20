@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_118">false</string>
+  <string name="APKTOOL_DUMMY_119">false</string>
+  <string name="APKTOOL_DUMMY_11a">false</string>
+  <string name="APKTOOL_DUMMY_11b">false</string>
   <string name="APKTOOL_DUMMY_11c">false</string>
   <string name="APKTOOL_DUMMY_11d">false</string>
   <string name="APKTOOL_DUMMY_11e">false</string>
   <string name="APKTOOL_DUMMY_11f">false</string>
   <string name="APKTOOL_DUMMY_120">false</string>
+  <string name="APKTOOL_DUMMY_121">false</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>
@@ -48,10 +53,6 @@
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="change_wallpaper">Change</string>
-  <string name="children_folder_title">Child mode</string>
-  <string name="children_mode_exit">Exit</string>
-  <string name="children_mode_tips_message">No apps in Child mode now. Select the apps you want to add.</string>
-  <string name="children_mode_tips_title">Select apps</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose a new wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -118,7 +119,7 @@
   <string name="gadget_calendar_label">Calendar</string>
   <string name="gadget_clear_button_label">Cleaner</string>
   <string name="gadget_clock_12_label">Clock 2x1</string>
-  <string name="gadget_clock_22_label">Clock 2x2</string>
+  <string name="gadget_clock_14_label">Clock 4x1</string>
   <string name="gadget_clock_24_label">Clock 4x2</string>
   <string name="gadget_clock_label">Clock</string>
   <string name="gadget_error_text">"Can't load widget"</string>

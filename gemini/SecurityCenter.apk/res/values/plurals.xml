@@ -133,6 +133,10 @@
         <item quantity="other">%d​ risks found, fix now</item>
         <item quantity="one">%d risk found, fix now</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Everything looks good</item>
+        <item quantity="one">Everything looks good</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apps contain privacy risks</item>
         <item quantity="one">%d app contains privacy risks</item>
@@ -210,8 +214,8 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_37">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_38">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_39">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_3a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_3b">false</item>
 </resources>

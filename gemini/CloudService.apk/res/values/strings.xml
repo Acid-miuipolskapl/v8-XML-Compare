@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1e2">false</string>
-  <string name="APKTOOL_DUMMY_1e3">false</string>
-  <string name="APKTOOL_DUMMY_1e4">false</string>
-  <string name="APKTOOL_DUMMY_1e5">false</string>
-  <string name="APKTOOL_DUMMY_1e6">false</string>
-  <string name="APKTOOL_DUMMY_1e7">false</string>
-  <string name="APKTOOL_DUMMY_1e8">false</string>
-  <string name="APKTOOL_DUMMY_1e9">false</string>
-  <string name="APKTOOL_DUMMY_1ea">false</string>
   <string name="APKTOOL_DUMMY_1eb">false</string>
   <string name="APKTOOL_DUMMY_1ec">false</string>
   <string name="APKTOOL_DUMMY_1ed">false</string>
@@ -28,6 +19,13 @@
   <string name="APKTOOL_DUMMY_1fb">false</string>
   <string name="APKTOOL_DUMMY_1fc">false</string>
   <string name="APKTOOL_DUMMY_1fd">false</string>
+  <string name="APKTOOL_DUMMY_1fe">false</string>
+  <string name="APKTOOL_DUMMY_1ff">false</string>
+  <string name="APKTOOL_DUMMY_200">false</string>
+  <string name="APKTOOL_DUMMY_201">false</string>
+  <string name="APKTOOL_DUMMY_202">false</string>
+  <string name="APKTOOL_DUMMY_203">false</string>
+  <string name="APKTOOL_DUMMY_204">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
@@ -202,6 +200,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_toast_confirm">Device confirmed</string>
   <string name="micloud_confusion_toast_deny">Sign in to your Mi Account</string>
   <string name="micloud_confusion_yes">Yes</string>
+  <string name="micloud_detail_battery_low">Battery low</string>
   <string name="micloud_detail_battery_low_message">Battery is low. Please charge your phone and sync.</string>
   <string name="micloud_detail_battery_low_title">Battery is low</string>
   <string name="micloud_detail_depend_wifi_message">Please connect to WLAN or check the sync settings.</string>
@@ -212,9 +211,11 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">Sync now</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
+  <string name="micloud_detail_need_charge">Need charge to sync</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Sync pause</string>
   <string name="micloud_detail_pending">Waiting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Couldn't get info about sync progress"</string>
@@ -225,6 +226,10 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_syncing">Syncing</string>
   <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
+  <string name="micloud_dialog_sync_now_message">Suggest you using WLAN</string>
+  <string name="micloud_dialog_sync_now_negative">Not now</string>
+  <string name="micloud_dialog_sync_now_positive">Using data transfer flow</string>
+  <string name="micloud_dialog_sync_now_title">Sync data now using data transfer flow</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_find_device_finish">Done</string>
@@ -264,6 +269,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_main_battery_low">Not enough battery to sync</string>
   <string name="micloud_main_battery_message">Connect your device to a power source to sync</string>
+  <string name="micloud_main_cancel_sync">Cancel sync</string>
   <string name="micloud_main_clear_now">Clear</string>
   <string name="micloud_main_detail">View details</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
@@ -289,10 +295,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
+  <string name="micloud_main_sync_need_charge">Waiting to charge</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
-  <string name="micloud_main_sync_pause">Sync paused</string>
+  <string name="micloud_main_sync_pause">Sync pause</string>
   <string name="micloud_main_sync_pending">Waiting to sync</string>
   <string name="micloud_main_sync_setting">Sync settings</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>
@@ -395,7 +402,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
   <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
   <string name="micloud_wipe_data_remove">Remove</string>
-  <string name="micloud_wipe_data_retain">Leave</string>
+  <string name="micloud_wipe_data_retain">Keep</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
@@ -404,13 +411,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI devices without incurring charges when connected to WLAN.
 
 You can turn this feature on or off anytime in Settings."</string>
-  <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
+  <string name="mx_dspt_provision_privacy">"This feature may require your phone number. An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. Your carrier may charge for two SMS messages used to activate this feature.
+  <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. 2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature when SIM card detected.
+  <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. When SIM card is detected, an outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">"Call other MIUI devices for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
@@ -498,15 +505,15 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_item_title">Syncing items</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
-  <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>
-  <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service.</string>
-  <string name="sync_sub_2_intl_sms">Your carrier may charge for 2 international SMS messages used to activate this service.</string>
-  <string name="sync_sub_2_sms">Your carrier may charge for 2 SMS messages used to activate this service.</string>
-  <string name="sync_sub_dspt">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier will charge you for an SMS message in case it's required to reactivate this service."</string>
+  <string name="sync_sub_1_intl_sms">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="sync_sub_1_sms">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">1 domestic and 1 international SMS message may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="sync_sub_2_intl_sms">2 outgoing international SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="sync_sub_2_sms">2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="sync_sub_dspt">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="sync_sub_dspt_provision">Sync photos, contacts, music, apps, and more across all your devices</string>
-  <string name="sync_sub_int_dspt">Your carrier may charge for an international SMS message used to activate this service.</string>
+  <string name="sync_sub_int_dspt">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
   <string name="trying_to_connect_to_network">Connecting to the network…</string>
