@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_374">false</string>
-  <string name="APKTOOL_DUMMY_375">false</string>
-  <string name="APKTOOL_DUMMY_376">false</string>
-  <string name="APKTOOL_DUMMY_377">false</string>
-  <string name="APKTOOL_DUMMY_378">false</string>
-  <string name="APKTOOL_DUMMY_379">false</string>
-  <string name="APKTOOL_DUMMY_37a">false</string>
-  <string name="APKTOOL_DUMMY_37b">false</string>
-  <string name="APKTOOL_DUMMY_37c">false</string>
-  <string name="APKTOOL_DUMMY_37d">false</string>
-  <string name="APKTOOL_DUMMY_37e">false</string>
-  <string name="APKTOOL_DUMMY_37f">false</string>
-  <string name="APKTOOL_DUMMY_380">false</string>
-  <string name="APKTOOL_DUMMY_381">false</string>
-  <string name="APKTOOL_DUMMY_382">false</string>
-  <string name="APKTOOL_DUMMY_383">false</string>
-  <string name="APKTOOL_DUMMY_384">false</string>
-  <string name="APKTOOL_DUMMY_385">false</string>
+  <string name="APKTOOL_DUMMY_386">false</string>
+  <string name="APKTOOL_DUMMY_387">false</string>
+  <string name="APKTOOL_DUMMY_388">false</string>
+  <string name="APKTOOL_DUMMY_389">false</string>
+  <string name="APKTOOL_DUMMY_38a">false</string>
+  <string name="APKTOOL_DUMMY_38b">false</string>
+  <string name="APKTOOL_DUMMY_38c">false</string>
+  <string name="APKTOOL_DUMMY_38d">false</string>
+  <string name="APKTOOL_DUMMY_38e">false</string>
+  <string name="APKTOOL_DUMMY_38f">false</string>
+  <string name="APKTOOL_DUMMY_390">false</string>
+  <string name="APKTOOL_DUMMY_391">false</string>
+  <string name="APKTOOL_DUMMY_392">false</string>
+  <string name="APKTOOL_DUMMY_393">false</string>
+  <string name="APKTOOL_DUMMY_394">false</string>
+  <string name="APKTOOL_DUMMY_395">false</string>
+  <string name="APKTOOL_DUMMY_396">false</string>
+  <string name="APKTOOL_DUMMY_397">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>
@@ -67,7 +67,16 @@
   <string name="app_label">Downloads</string>
   <string name="artist">Artists</string>
   <string name="artist_album">Albums</string>
+  <string name="artist_area_all">All</string>
+  <string name="artist_area_china">China</string>
+  <string name="artist_area_europe_usa">Europe/USA</string>
+  <string name="artist_area_japan">Japan</string>
+  <string name="artist_area_korea">Korea</string>
   <string name="artist_favor">Featured</string>
+  <string name="artist_gender_all">All</string>
+  <string name="artist_gender_female">Female</string>
+  <string name="artist_gender_group">Group</string>
+  <string name="artist_gender_male">Male</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
   <string name="artist_news">News</string>
@@ -87,6 +96,7 @@
   <string name="auto_payment">Automatic renewal</string>
   <string name="auto_payment_date">Next payment: %s</string>
   <string name="auto_restart_under_wifi">File will be downloaded when the device is connected to WLAN</string>
+  <string name="auto_upgrade">Auto Upgrade</string>
   <string name="avail_services">Available</string>
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"Don't use mobile network to stream music"</string>
@@ -342,6 +352,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="favorite_singer">Favorite artists</string>
   <string name="favorite_succeed">Added to favorites</string>
   <string name="favorite_tracks">Favorites</string>
+  <string name="favorites">Favorites</string>
   <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
   <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
   <string name="female_artist">Female artists</string>
@@ -410,6 +421,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="home_tab_local">My music</string>
   <string name="home_tab_online">Discover</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
   <string name="impunity_declaration_content1">"By touching agree, you agree to the terms stated in our "</string>
@@ -451,8 +463,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="local_page_artist">Followed artists</string>
   <string name="local_page_custom_subtitle">New songs every day</string>
   <string name="local_page_custom_title">For you</string>
+  <string name="local_page_playlist">My playlists</string>
   <string name="local_page_song_all">All songs</string>
   <string name="local_page_song_download">Local songs</string>
+  <string name="local_page_song_download_history">Downloads</string>
   <string name="local_page_song_favorite">Favorite songs</string>
   <string name="local_tracks_short">Offline</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
@@ -563,6 +577,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_local_source_find">"Couldn't find song"</string>
   <string name="no_online_song_selected">No songs selected</string>
   <string name="no_results_return">No search results</string>
+  <string name="no_scanned_songs">Empty</string>
   <string name="no_song">No songs</string>
   <string name="no_song_downloaded">"Couldn't connect to server"</string>
   <string name="normal_quality">Good</string>
@@ -633,6 +648,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="play_next">Play next</string>
   <string name="playback_failed_no_title_by_bad_file">"This song's format isn't supported or the file doesn't exist."</string>
   <string name="playlist_deleted_message">Playlist deleted</string>
+  <string name="playlist_empty">No playlists found.</string>
   <string name="playlist_renamed_message">Playlist renamed</string>
   <string name="playlist_type_album">Albums</string>
   <string name="playlist_type_artist">Artist</string>
@@ -679,6 +695,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Pay now?</string>
   <string name="recently_played">Recently played</string>
+  <string name="recently_played_songs">Recently played</string>
   <string name="recommend_fragment_title">Featured</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
@@ -829,6 +846,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="talkback_search">Search</string>
   <string name="talkback_share">Share</string>
   <string name="task_already_exist">Task already exists</string>
+  <string name="text_separator">|</string>
   <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
   <string name="ticket_title">Show tickets</string>
   <string name="time_to_upgrade">Update Mi Music</string>

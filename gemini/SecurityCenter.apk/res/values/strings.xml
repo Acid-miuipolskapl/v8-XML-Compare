@@ -760,9 +760,9 @@ or enter App lock password"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Stop payment security check?</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
-  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
+  <string name="dialog_remobe_luckymoney_cancle">Old</string>
+  <string name="dialog_remobe_luckymoney_ok">New</string>
+  <string name="dialog_remove_luckymoney">You can use the new built-in red envelope assistant, or keep using the installed one. Which one do you prefer?</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
