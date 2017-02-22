@@ -1620,14 +1620,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
     </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Ultrahigh (2K)</item>
-        <item>Normal (720p)</item>
-    </string-array>
-    <string-array name="screen_resolution_values">
-        <item>1440</item>
-        <item>720</item>
-    </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
         <item>M</item>
@@ -1870,6 +1862,23 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
+    <integer-array name="screen_resolution">
+        <item>1440</item>
+        <item>1080</item>
+    </integer-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
         <item>3</item>
@@ -2078,11 +2087,11 @@ GLONASS
         <item>"小米手机5，快的有点狠!
 http://m.mi.com"</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_102">false</item>
-    <item type="array" name="APKTOOL_DUMMY_103">false</item>
     <item type="array" name="APKTOOL_DUMMY_104">false</item>
     <item type="array" name="APKTOOL_DUMMY_105">false</item>
-    <item type="array" name="APKTOOL_DUMMY_108">false</item>
-    <item type="array" name="APKTOOL_DUMMY_109">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_106">false</item>
+    <item type="array" name="APKTOOL_DUMMY_107">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10d">false</item>
 </resources>
