@@ -29,6 +29,7 @@
   <string name="Wifi_test">WLAN</string>
   <string name="apk_signature_title">"apk signature: "</string>
   <string name="app_name">Engineering Mode</string>
+  <string name="auto_success">pass</string>
   <string name="auto_test">Automatic Test</string>
   <string name="back_Camera">Rear-Camera</string>
   <string name="back_camera_id_info">Main Camera ID</string>
@@ -158,13 +159,16 @@
   <string name="kepad_test">Keypad test</string>
   <string name="kepad_test_camera">Cam</string>
   <string name="kepad_test_down">Down</string>
+  <string name="kepad_test_down_ch">Down</string>
   <string name="kepad_test_home">Home</string>
   <string name="kepad_test_menu">Menu</string>
   <string name="kepad_test_power">Power</string>
+  <string name="kepad_test_power_ch">Power</string>
   <string name="kepad_test_reset">Reset</string>
   <string name="kepad_test_return">Return</string>
   <string name="kepad_test_search">search</string>
   <string name="kepad_test_up">Up</string>
+  <string name="kepad_test_up_ch">Up</string>
   <string name="kepad_tips">Please press the Key</string>
   <string name="kepad_tips_cmd">Click:volumeUP,volumeDown,power</string>
   <string name="keys_test">Key</string>
@@ -207,7 +211,7 @@
   <string name="ota_switch_close">Close</string>
   <string name="ota_switch_open">Open</string>
   <string name="phone_info">Phone Info</string>
-  <string name="phone_info_check">SW add HW version</string>
+  <string name="phone_info_check">SW and HW version</string>
   <string name="plug_in_headset">Please connect The Headset</string>
   <string name="proximity_sensor_button">Proximity Sensor</string>
   <string name="proximity_sensor_no">no proximity sensor</string>
@@ -257,7 +261,7 @@
   <string name="test_succeed">Success</string>
   <string name="test_succeed_prompt">The test is successful</string>
   <string name="test_yes">Yes</string>
-  <string name="tflash_test">TFalsh Test</string>
+  <string name="tflash_test">TFlash Test</string>
   <string name="tflash_test_retest">Re-tested</string>
   <string name="tflash_test_sdcard_fail">TFlash</string>
   <string name="tflash_test_sdcard_ok">TFlash is ok</string>
