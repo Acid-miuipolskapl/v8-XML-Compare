@@ -481,8 +481,7 @@
     </string-array>
     <integer-array name="support_networktypes_cdma_master">
         <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>7</item>
     </integer-array>
     <integer-array name="support_networktypes_cdma_vice">
         <item>1</item>
@@ -526,8 +525,7 @@
     </integer-array>
     <integer-array name="network_mode_4g_cdma">
         <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>7</item>
     </integer-array>
     <integer-array name="network_mode_all_lte">
         <item>10</item>
