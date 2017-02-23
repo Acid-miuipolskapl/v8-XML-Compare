@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_2aa">false</string>
   <string name="APKTOOL_DUMMY_2ab">false</string>
   <string name="APKTOOL_DUMMY_2ac">false</string>
   <string name="APKTOOL_DUMMY_2ad">false</string>
@@ -29,6 +28,7 @@
   <string name="APKTOOL_DUMMY_2c4">false</string>
   <string name="APKTOOL_DUMMY_2c5">false</string>
   <string name="APKTOOL_DUMMY_2c6">false</string>
+  <string name="APKTOOL_DUMMY_2c7">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -45,7 +45,7 @@
   <string name="add_private_contact">Add private contact</string>
   <string name="add_slide">Add slide (after)</string>
   <string name="add_slide_before">Add intro slide</string>
-  <string name="add_slide_hint">Touch to create new slide</string>
+  <string name="add_slide_hint">Tap to create new slide</string>
   <string name="add_smiley">Emoticon</string>
   <string name="add_timing">Timed</string>
   <string name="add_to_browser_favorite_failed">"Couldn't add"</string>
@@ -229,9 +229,9 @@
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
   <string name="group_resend_message">Resend (%d)</string>
-  <string name="guild_add_attachments">Touch to add emoticons and other content</string>
-  <string name="guild_add_recipients">Touch to add recipients from address book</string>
-  <string name="guild_msim_switcher">Touch to switch SIM cards</string>
+  <string name="guild_add_attachments">Tap to add emoticons and other items</string>
+  <string name="guild_add_recipients">Tap to add recipients from contacts</string>
+  <string name="guild_msim_switcher">Tap to switch SIM cards</string>
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
@@ -289,7 +289,7 @@
   <string name="message_download_failed_title">Message not downloaded</string>
   <string name="message_expired">Expired</string>
   <string name="message_failed">Failed</string>
-  <string name="message_failed_body">Touch to review the message and try again.</string>
+  <string name="message_failed_body">Tap to review the message and try again</string>
   <string name="message_number">Phone number:</string>
   <string name="message_pending">Sending</string>
   <string name="message_queued">"Can't send your message right now. Will send when service becomes available."</string>
@@ -377,7 +377,7 @@
   <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
   <string name="mx_online">Activated</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
-  <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="mx_recommend_msg">Tap to turn Mi Message on</string>
   <string name="mx_stranger_recommend_msg">Tap to block Mi Messages from unknown numbers</string>
   <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring charges</string>
   <string name="need_download">Syncing…</string>
@@ -602,8 +602,8 @@
   <string name="sim_full_title">SIM card full</string>
   <string name="sim_manage_messages_title">Text messages on SIM card</string>
   <string name="sim_view">View</string>
-  <string name="slide_number">Slide %s</string>
-  <string name="slide_show_part">Part %1$s/%2$s</string>
+  <string name="slide_number">Slide %d</string>
+  <string name="slide_show_part">Part %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Slide up to cancel</string>
   <string name="slideshow_activity">Slideshow</string>
   <string name="sms_card_partner_label">"SMS card partner: "</string>
@@ -660,6 +660,7 @@
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
   <string name="title_timed_message_dialog">Set timed message</string>
+  <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">%d recipients</string>
   <string name="to_label">"To "</string>
