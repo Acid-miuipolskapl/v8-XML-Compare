@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
@@ -27,11 +35,11 @@
         <item quantity="other">+%d events</item>
         <item quantity="one">+1 event</item>
     </plurals>
-    <plurals name="Ndays_ago">
+    <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d days ago at %2$s</item>
         <item quantity="one">%1$d day ago at %2$s</item>
     </plurals>
-    <plurals name="Ndays_after">
+    <plurals name="Ndays_after_at">
         <item quantity="other">In %1$d days at %2$s</item>
         <item quantity="one">In %1$d day at %2$s</item>
     </plurals>
@@ -39,12 +47,32 @@
         <item quantity="other">%d weeks ago</item>
         <item quantity="one">1 week ago</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_b">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_c">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_d">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_f">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_10">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_11">false</item>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">[Anniversary]%2$d years anniversary of %1$s</item>
+        <item quantity="one">[Anniversary]%2$d year anniversary of %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">[Anniversary]%2$d years anniversary of %1$s in 3 days</item>
+        <item quantity="one">[Anniversary]%2$d year anniversary of %1$s in 3 days</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">years</item>
+        <item quantity="one">year</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">days</item>
+        <item quantity="one">day</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">days later</item>
+        <item quantity="one">day later</item>
+    </plurals>
     <item type="plurals" name="APKTOOL_DUMMY_12">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_13">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_14">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_15">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_16">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_17">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_18">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_19">false</item>
 </resources>

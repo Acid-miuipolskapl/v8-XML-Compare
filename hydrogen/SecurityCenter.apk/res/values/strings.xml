@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_6fd">false</string>
   <string name="APKTOOL_DUMMY_6fe">false</string>
   <string name="APKTOOL_DUMMY_6ff">false</string>
   <string name="APKTOOL_DUMMY_700">false</string>
@@ -119,8 +118,8 @@
   <string name="APKTOOL_DUMMY_771">false</string>
   <string name="APKTOOL_DUMMY_772">false</string>
   <string name="APKTOOL_DUMMY_773">false</string>
-  <string name="APKTOOL_DUMMY_7df">false</string>
-  <string name="APKTOOL_DUMMY_7f3">false</string>
+  <string name="APKTOOL_DUMMY_774">false</string>
+  <string name="APKTOOL_DUMMY_7e0">false</string>
   <string name="APKTOOL_DUMMY_7f4">false</string>
   <string name="APKTOOL_DUMMY_7f5">false</string>
   <string name="APKTOOL_DUMMY_7f6">false</string>
@@ -284,6 +283,7 @@
   <string name="APKTOOL_DUMMY_894">false</string>
   <string name="APKTOOL_DUMMY_895">false</string>
   <string name="APKTOOL_DUMMY_896">false</string>
+  <string name="APKTOOL_DUMMY_897">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -760,9 +760,9 @@ or enter App lock password"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Stop payment security check?</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
-  <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-  <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-  <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
+  <string name="dialog_remobe_luckymoney_cancle">Old</string>
+  <string name="dialog_remobe_luckymoney_ok">New</string>
+  <string name="dialog_remove_luckymoney">You can use the new built-in red envelope assistant, or keep using the installed one. Which one do you prefer?</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
@@ -1209,6 +1209,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">Protect selected apps with App lock</string>
+  <string name="notification_quick_charging_title">Quick charging</string>
   <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
