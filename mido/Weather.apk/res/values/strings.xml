@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_ee">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_title">Add</string>
   <string name="act_set_city_find_side">Locating…</string>
@@ -111,7 +110,7 @@ Pull down to refresh or check the network settings"</string>
   <string name="indices_title_visibility">Visibility</string>
   <string name="information_manager_extension">Weather extension</string>
   <string name="information_manager_information">Weather info</string>
-  <string name="information_manager_wlan">Show when connected to Wi-Fi</string>
+  <string name="information_manager_wlan">Show when connected to WLAN</string>
   <string name="information_menu_title"/>
   <string name="information_set">Start page settings</string>
   <string name="information_time_source">%1$s | %2$s</string>

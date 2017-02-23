@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_2aa">false</string>
-  <string name="APKTOOL_DUMMY_2ac">false</string>
-  <string name="APKTOOL_DUMMY_2ad">false</string>
-  <string name="APKTOOL_DUMMY_2af">false</string>
-  <string name="APKTOOL_DUMMY_2b0">false</string>
-  <string name="APKTOOL_DUMMY_2b1">false</string>
-  <string name="APKTOOL_DUMMY_2b2">false</string>
-  <string name="APKTOOL_DUMMY_2b5">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -24,7 +16,7 @@
   <string name="add_private_contact">Add private contact</string>
   <string name="add_slide">Add slide (after)</string>
   <string name="add_slide_before">Add intro slide</string>
-  <string name="add_slide_hint">Touch to create new slide</string>
+  <string name="add_slide_hint">Tap to create new slide</string>
   <string name="add_smiley">Emoticon</string>
   <string name="add_timing">Timed</string>
   <string name="add_to_browser_favorite_failed">"Couldn't add"</string>
@@ -208,14 +200,14 @@
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
   <string name="group_resend_message">Resend (%d)</string>
-  <string name="guild_add_attachments">Touch to add emoticons and other content</string>
-  <string name="guild_add_recipients">Touch to add recipients from address book</string>
-  <string name="guild_msim_switcher">Touch to switch SIM cards</string>
+  <string name="guild_add_attachments">Tap to add emoticons and other items</string>
+  <string name="guild_add_recipients">Tap to add recipients from contacts</string>
+  <string name="guild_msim_switcher">Tap to switch SIM cards</string>
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
   <string name="hms_add_image_progress_message">Working…</string>
-  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a Wi-Fi network</string>
+  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -268,7 +260,7 @@
   <string name="message_download_failed_title">Message not downloaded</string>
   <string name="message_expired">Expired</string>
   <string name="message_failed">Failed</string>
-  <string name="message_failed_body">Touch to review the message and try again.</string>
+  <string name="message_failed_body">Tap to review the message and try again</string>
   <string name="message_number">Phone number:</string>
   <string name="message_pending">Sending</string>
   <string name="message_queued">"Can't send your message right now. Will send when service becomes available."</string>
@@ -327,9 +319,9 @@
   <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI devices without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
   <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
-  <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
+  <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
-  <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
+  <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_b2c_message_desc">Network notifications</string>
   <string name="mx_b2c_message_resend_not_online">"Can't resend message. Mi Message is offline."</string>
   <string name="mx_b2c_message_server">Server</string>
@@ -337,7 +329,7 @@
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
   <string name="mx_current_status">Settings</string>
-  <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
+  <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
   <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
   <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
@@ -356,7 +348,7 @@
   <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
   <string name="mx_online">Activated</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
-  <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="mx_recommend_msg">Tap to turn Mi Message on</string>
   <string name="mx_stranger_recommend_msg">Tap to block Mi Messages from unknown numbers</string>
   <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring charges</string>
   <string name="need_download">Syncing…</string>
@@ -581,8 +573,8 @@
   <string name="sim_full_title">SIM card full</string>
   <string name="sim_manage_messages_title">Text messages on SIM card</string>
   <string name="sim_view">View</string>
-  <string name="slide_number">Slide %s</string>
-  <string name="slide_show_part">Part %1$s/%2$s</string>
+  <string name="slide_number">Slide %d</string>
+  <string name="slide_show_part">Part %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Slide up to cancel</string>
   <string name="slideshow_activity">Slideshow</string>
   <string name="sms_card_partner_label">"SMS card partner: "</string>
@@ -639,6 +631,7 @@
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
   <string name="title_timed_message_dialog">Set timed message</string>
+  <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">%d recipients</string>
   <string name="to_label">"To "</string>

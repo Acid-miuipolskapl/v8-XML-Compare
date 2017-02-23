@@ -147,7 +147,7 @@
   <string name="backup_no_network_title">"Can't connect to Mi Cloud"</string>
   <string name="backup_no_wifi_btn_text">Use data</string>
   <string name="backup_no_wifi_desc">You can also back up items using mobile data</string>
-  <string name="backup_no_wifi_title">Tap to connect to Wi-Fi</string>
+  <string name="backup_no_wifi_title">Tap to connect to WLAN</string>
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
   <string name="backup_pause">Pause backup</string>
@@ -597,7 +597,7 @@
   <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
   <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
-  <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when Wi-Fi is available.</string>
+  <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Match</string>
   <string name="confirm_hidden_recommend_group">OK</string>
@@ -714,11 +714,11 @@
   <string name="face_album_empty">"Not enough photos to recognize people.
 Take more photos of your friends!"</string>
   <string name="face_album_empty_syncing">Syncing data, come back in a while</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Connect to Wi-Fi to sync info</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Connect to WLAN to sync info</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
-  <string name="face_album_pending_enable_tip">Will sort photos when device is connected to Wi-Fi</string>
+  <string name="face_album_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_album_rename_hint">Enter name</string>
   <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Automatically sort photos by the people that are in them.</string>
@@ -822,7 +822,7 @@ Take more photos of your friends!"</string>
   <string name="loading_image">Downloading image…</string>
   <string name="loading_image_thumbnail">Downloading thumbnail…</string>
   <string name="loading_members">Loading members026</string>
-  <string name="loading_suspend">Download paused. Will resume when Wi-Fi is available.</string>
+  <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_video">Downloading video…</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
   <string name="login_and_enable_service">Sign in with Mi Account</string>
@@ -850,7 +850,7 @@ Take more photos of your friends!"</string>
   <string name="need_to_turn_on_network">"Device isn't connected to the internet"</string>
   <string name="need_to_turn_on_sync">Turn on sync with Mi Cloud</string>
   <string name="need_to_turn_on_sync_first">Turn on sync with Mi Cloud first</string>
-  <string name="need_to_turn_on_wlan">Connect to Wi-Fi first</string>
+  <string name="need_to_turn_on_wlan">Connect to WLAN first</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
   <string name="new_album_invalid_char">"Names can't contain \"%s\", enter a letter or a number."</string>
   <string name="new_album_invalid_name">\"%s\" is system album, please rename for it.</string>
@@ -1069,7 +1069,7 @@ Take more photos of your friends!"</string>
   <string name="slim_now">Optimize now</string>
   <string name="slim_result_size">Saved %1$s</string>
   <string name="slim_result_title">Optimized successfully</string>
-  <string name="slim_tip_msg">Photos will be optimized when your device is connected to Wi-Fi. Download full-resolution items by tapping \"Download photo\" menu in photo detail page.</string>
+  <string name="slim_tip_msg">Photos will be optimized when your device is connected to WLAN. Download full-resolution items by tapping \"Download photo\" menu in photo detail page.</string>
   <string name="slim_tip_title">Optimizing storage</string>
   <string name="slimming">Optimizing…</string>
   <string name="start_debug">Debug Gallery</string>
@@ -1147,7 +1147,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_cancel">Cancel</string>
   <string name="video_editor_done">Done</string>
   <string name="video_editor_down_load_later">Later</string>
-  <string name="video_editor_down_load_no_wifi_tips">Connect to Wi-Fi to download</string>
+  <string name="video_editor_down_load_no_wifi_tips">Connect to WLAN to download</string>
   <string name="video_editor_down_load_now">Download</string>
   <string name="video_editor_encode_video">Encoding video…</string>
   <string name="video_editor_encode_video_error">"Couldn't encode video"</string>
