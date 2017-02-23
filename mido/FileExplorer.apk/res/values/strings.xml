@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_3b0">false</string>
+  <string name="APKTOOL_DUMMY_3b3">false</string>
+  <string name="APKTOOL_DUMMY_3b4">false</string>
   <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
@@ -27,7 +30,7 @@
   <string name="app_name_miuiringtone">Ringtone</string>
   <string name="app_name_miuiwallpaper">Wallpapers</string>
   <string name="app_name_screenshot">Screenshots</string>
-  <string name="auto_play">Play automatically when connected to WLAN</string>
+  <string name="auto_play">Play automatically when connected to Wi-Fi</string>
   <string name="auto_play_later">Later</string>
   <string name="auto_play_now">Turn on</string>
   <string name="auto_play_recommend">Play automatically</string>
@@ -128,7 +131,7 @@
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">"Don't show again"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
+  <string name="data_consumption_message">This app needs to connect to the internet using Wi-Fi to work normally.</string>
   <string name="data_consumption_message1">Device should be connected to the internet to view popular stickers and videos.</string>
   <string name="data_consumption_title">Internet connection</string>
   <string name="decompress_cancel">Cancel</string>
@@ -815,7 +818,7 @@
   <string name="welcome_to_my_page">Welcome to my home page</string>
   <string name="welcome_to_my_page_1">Follow me!</string>
   <string name="welcome_to_my_page_2">Follow me!</string>
-  <string name="wifi_state">WLAN network</string>
+  <string name="wifi_state">Wi-Fi network</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>

@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_2ab">false</string>
+  <string name="APKTOOL_DUMMY_2ad">false</string>
+  <string name="APKTOOL_DUMMY_2ae">false</string>
+  <string name="APKTOOL_DUMMY_2b0">false</string>
+  <string name="APKTOOL_DUMMY_2b1">false</string>
+  <string name="APKTOOL_DUMMY_2b2">false</string>
+  <string name="APKTOOL_DUMMY_2b3">false</string>
+  <string name="APKTOOL_DUMMY_2b6">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -207,7 +215,7 @@
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
   <string name="hms_add_image_progress_message">Working…</string>
-  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
+  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a Wi-Fi network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -319,9 +327,9 @@
   <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI devices without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
   <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
-  <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
+  <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
-  <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
+  <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
   <string name="mx_b2c_message_desc">Network notifications</string>
   <string name="mx_b2c_message_resend_not_online">"Can't resend message. Mi Message is offline."</string>
   <string name="mx_b2c_message_server">Server</string>
@@ -329,7 +337,7 @@
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
   <string name="mx_current_status">Settings</string>
-  <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
+  <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
   <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
   <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>

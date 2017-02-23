@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_241">false</string>
+  <string name="APKTOOL_DUMMY_261">false</string>
+  <string name="APKTOOL_DUMMY_28d">false</string>
+  <string name="APKTOOL_DUMMY_28e">false</string>
+  <string name="APKTOOL_DUMMY_2a9">false</string>
+  <string name="APKTOOL_DUMMY_2aa">false</string>
+  <string name="APKTOOL_DUMMY_2ef">false</string>
+  <string name="APKTOOL_DUMMY_327">false</string>
+  <string name="APKTOOL_DUMMY_328">false</string>
+  <string name="APKTOOL_DUMMY_329">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>

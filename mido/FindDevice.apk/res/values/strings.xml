@@ -65,7 +65,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="unlock_error_user_name">Invalid username</string>
   <string name="unlock_error_wrong_vcode">The code you entered is incorrect</string>
   <string name="unlock_help">"Stay connected to the network
-Make sure you've installed a working SIM card, and your device is not connected to an ineffective WLAN network
+Make sure you've installed a working SIM card, and your device is not connected to an ineffective Wi-Fi network
 
 Forgot password?
 Go to id.mi.com to reset your password
