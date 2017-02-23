@@ -325,23 +325,19 @@
         <item>ct_2</item>
     </string-array>
     <integer-array name="support_networktypes_cdma_master">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>9</item>
+        <item>3</item>
+        <item>1</item>
     </integer-array>
     <integer-array name="support_networktypes_cdma_vice">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>1</item>
     </integer-array>
     <integer-array name="support_networktypes_gsm_master">
-        <item>20</item>
-        <item>18</item>
+        <item>9</item>
+        <item>3</item>
         <item>1</item>
     </integer-array>
     <integer-array name="support_networktypes_gsm_vice">
-        <item>20</item>
-        <item>18</item>
         <item>1</item>
     </integer-array>
     <integer-array name="network_mode_3g_cm">
@@ -375,8 +371,7 @@
     </integer-array>
     <integer-array name="network_mode_4g_cdma">
         <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>7</item>
     </integer-array>
     <integer-array name="network_mode_all_lte">
         <item>10</item>
