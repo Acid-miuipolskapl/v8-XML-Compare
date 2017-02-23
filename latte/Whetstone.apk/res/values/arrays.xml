@@ -24,6 +24,7 @@
     <string-array name="disable_trim_apps">
         <item>android</item>
         <item>com.miui.home</item>
+        <item>com.android.systemui</item>
     </string-array>
     <string-array name="forcestop_sys_apps">
         <item>com.miui.player</item>
