@@ -3076,7 +3076,7 @@ To use screen pinning:
   <string name="search_settings">Search</string>
   <string name="search_settings_summary">Manage search settings and history</string>
   <string name="search_silent_mode_title">Silent mode;silence;silent;mute</string>
-  <string name="search_sim_management_title">Sim cards &amp; Mobile networks;Mobile data;Overseas roaming;Receive MMS;Access Point Names;Preferred network type;Cellular networks</string>
+  <string name="search_sim_management_title">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Cellular networks;</string>
   <string name="search_sim_status_title">SIM status;SIM</string>
   <string name="search_slot_status_title">IMEI information;IMEI</string>
   <string name="search_sms_delivered_sound_title">Message delivered;delivered message;message sound;delivery report</string>
@@ -3318,7 +3318,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings">SIM lock settings</string>
   <string name="sim_lock_settings_category">Setup SIM lock</string>
   <string name="sim_lock_settings_title">SIM lock</string>
-  <string name="sim_management_title">Mobile networks</string>
+  <string name="sim_management_title">SIM cards &amp; mobile networks</string>
   <string name="sim_multi_sims_summary">Choose the SIM you prefer for cellular data.</string>
   <string name="sim_multi_sims_title">Multiple SIMs found</string>
   <string name="sim_name_hint">Enter SIM name</string>

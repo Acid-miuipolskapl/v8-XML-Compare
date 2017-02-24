@@ -261,7 +261,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_iso_value_iso3200">ISO3200</string>
   <string name="pref_camera_iso_value_iso400">ISO400</string>
   <string name="pref_camera_iso_value_iso800">ISO800</string>
-  <string name="pref_camera_jpegquality_default">@string/pref_camera_jpegquality_value_high</string>
+  <string name="pref_camera_jpegquality_default">@string/pref_camera_jpegquality_value_normal</string>
   <string name="pref_camera_jpegquality_entry_high">High</string>
   <string name="pref_camera_jpegquality_entry_low">Low</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
