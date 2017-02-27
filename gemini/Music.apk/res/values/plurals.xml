@@ -122,7 +122,4 @@
         <item quantity="zero">Total %d song</item>
         <item quantity="one">Total %d song</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_1e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_1f">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_20">false</item>
 </resources>

@@ -23,9 +23,6 @@
   <string name="APKTOOL_DUMMY_1ff">false</string>
   <string name="APKTOOL_DUMMY_200">false</string>
   <string name="APKTOOL_DUMMY_201">false</string>
-  <string name="APKTOOL_DUMMY_202">false</string>
-  <string name="APKTOOL_DUMMY_203">false</string>
-  <string name="APKTOOL_DUMMY_204">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>

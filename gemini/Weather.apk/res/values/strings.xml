@@ -29,7 +29,6 @@
   <string name="APKTOOL_DUMMY_f8">false</string>
   <string name="APKTOOL_DUMMY_f9">false</string>
   <string name="APKTOOL_DUMMY_fa">false</string>
-  <string name="APKTOOL_DUMMY_fb">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_title">Add</string>
   <string name="act_set_city_find_side">Locating…</string>

@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_386">false</string>
-  <string name="APKTOOL_DUMMY_387">false</string>
-  <string name="APKTOOL_DUMMY_388">false</string>
-  <string name="APKTOOL_DUMMY_389">false</string>
-  <string name="APKTOOL_DUMMY_38a">false</string>
-  <string name="APKTOOL_DUMMY_38b">false</string>
-  <string name="APKTOOL_DUMMY_38c">false</string>
-  <string name="APKTOOL_DUMMY_38d">false</string>
-  <string name="APKTOOL_DUMMY_38e">false</string>
-  <string name="APKTOOL_DUMMY_38f">false</string>
-  <string name="APKTOOL_DUMMY_390">false</string>
-  <string name="APKTOOL_DUMMY_391">false</string>
-  <string name="APKTOOL_DUMMY_392">false</string>
-  <string name="APKTOOL_DUMMY_393">false</string>
-  <string name="APKTOOL_DUMMY_394">false</string>
-  <string name="APKTOOL_DUMMY_395">false</string>
-  <string name="APKTOOL_DUMMY_396">false</string>
-  <string name="APKTOOL_DUMMY_397">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>

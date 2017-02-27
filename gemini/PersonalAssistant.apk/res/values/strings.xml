@@ -98,6 +98,9 @@
   <string name="launch_enable">Show quick access cards</string>
   <string name="launch_function">Select features</string>
   <string name="launch_label">Quick access</string>
+  <string name="launch_no_dapp_dialog_content">The dual app responsible for this card was deleted. You can replace this card with a different one.</string>
+  <string name="launch_no_dapp_dialog_reset">Dual apps settings</string>
+  <string name="launch_no_dapp_dialog_title">The dual app was deleted</string>
   <string name="launch_noapp_dialog_cancel">Cancel</string>
   <string name="launch_noapp_dialog_content">The app responsible for this card was deleted. You can replace this card with a different one.</string>
   <string name="launch_noapp_dialog_redownload">Download again</string>
@@ -212,5 +215,6 @@
   <string name="wx_paycode">Payment</string>
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Moments</string>
+  <string name="xspace_resolver_activity_title">Select app</string>
   <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
 </resources>
