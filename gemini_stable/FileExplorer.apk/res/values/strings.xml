@@ -241,17 +241,6 @@
   <string name="APKTOOL_DUMMY_404">false</string>
   <string name="APKTOOL_DUMMY_405">false</string>
   <string name="APKTOOL_DUMMY_406">false</string>
-  <string name="APKTOOL_DUMMY_407">false</string>
-  <string name="APKTOOL_DUMMY_408">false</string>
-  <string name="APKTOOL_DUMMY_409">false</string>
-  <string name="APKTOOL_DUMMY_40a">false</string>
-  <string name="APKTOOL_DUMMY_40b">false</string>
-  <string name="APKTOOL_DUMMY_40c">false</string>
-  <string name="APKTOOL_DUMMY_40d">false</string>
-  <string name="APKTOOL_DUMMY_40e">false</string>
-  <string name="APKTOOL_DUMMY_40f">false</string>
-  <string name="APKTOOL_DUMMY_410">false</string>
-  <string name="APKTOOL_DUMMY_411">false</string>
   <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>

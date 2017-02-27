@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_1e2">false</string>
   <string name="APKTOOL_DUMMY_1e3">false</string>
   <string name="APKTOOL_DUMMY_1e4">false</string>
   <string name="APKTOOL_DUMMY_1e5">false</string>
@@ -27,7 +28,6 @@
   <string name="APKTOOL_DUMMY_1fb">false</string>
   <string name="APKTOOL_DUMMY_1fc">false</string>
   <string name="APKTOOL_DUMMY_1fd">false</string>
-  <string name="APKTOOL_DUMMY_1fe">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
@@ -106,7 +106,6 @@ Last backed up on %2$s"</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown">"Can't sign in"</string>
-  <string name="file_provider_authority">com.miui.cloudservice.fileprovider</string>
   <string name="find_device">Find device</string>
   <string name="find_device_disabled_notice">"You can turn this feature on or off anytime in Mi Cloud's Settings."</string>
   <string name="find_device_disabled_title">Find device is off</string>

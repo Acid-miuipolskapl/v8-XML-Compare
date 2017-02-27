@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_170">false</string>
-  <string name="APKTOOL_DUMMY_171">false</string>
-  <string name="APKTOOL_DUMMY_172">false</string>
-  <string name="APKTOOL_DUMMY_173">false</string>
-  <string name="APKTOOL_DUMMY_174">false</string>
-  <string name="APKTOOL_DUMMY_175">false</string>
-  <string name="APKTOOL_DUMMY_176">false</string>
-  <string name="APKTOOL_DUMMY_177">false</string>
-  <string name="APKTOOL_DUMMY_178">false</string>
-  <string name="APKTOOL_DUMMY_179">false</string>
-  <string name="APKTOOL_DUMMY_17a">false</string>
-  <string name="APKTOOL_DUMMY_17b">false</string>
-  <string name="APKTOOL_DUMMY_17c">false</string>
-  <string name="APKTOOL_DUMMY_17d">false</string>
-  <string name="APKTOOL_DUMMY_17e">false</string>
-  <string name="APKTOOL_DUMMY_17f">false</string>
-  <string name="APKTOOL_DUMMY_180">false</string>
-  <string name="APKTOOL_DUMMY_181">false</string>
-  <string name="APKTOOL_DUMMY_182">false</string>
-  <string name="APKTOOL_DUMMY_183">false</string>
-  <string name="APKTOOL_DUMMY_184">false</string>
-  <string name="APKTOOL_DUMMY_185">false</string>
-  <string name="APKTOOL_DUMMY_186">false</string>
-  <string name="APKTOOL_DUMMY_187">false</string>
-  <string name="APKTOOL_DUMMY_188">false</string>
-  <string name="APKTOOL_DUMMY_189">false</string>
-  <string name="APKTOOL_DUMMY_18a">false</string>
-  <string name="APKTOOL_DUMMY_18b">false</string>
-  <string name="APKTOOL_DUMMY_18c">false</string>
-  <string name="APKTOOL_DUMMY_18d">false</string>
-  <string name="APKTOOL_DUMMY_18e">false</string>
-  <string name="APKTOOL_DUMMY_18f">false</string>
-  <string name="APKTOOL_DUMMY_190">false</string>
-  <string name="APKTOOL_DUMMY_191">false</string>
-  <string name="APKTOOL_DUMMY_192">false</string>
-  <string name="APKTOOL_DUMMY_193">false</string>
-  <string name="APKTOOL_DUMMY_194">false</string>
-  <string name="APKTOOL_DUMMY_195">false</string>
-  <string name="APKTOOL_DUMMY_196">false</string>
-  <string name="APKTOOL_DUMMY_197">false</string>
   <string name="SDCard">SD Card</string>
   <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
@@ -47,6 +7,7 @@
   <string name="SD_SDCard_mounted">Detect SDCard</string>
   <string name="SD_SDCard_total_size">Total size</string>
   <string name="SD_SDCard_unmounted">SDCard unavailable</string>
+  <string name="button_cancel">Cancel</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">Camera information</string>
   <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
@@ -271,6 +232,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
   <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
+  <string name="cit_proximity_us_sensitivity">Sensitivity:</string>
+  <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
   <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
   <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
   <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
@@ -310,6 +273,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sim_state_unkown">Unknown</string>
   <string name="cit_start_calibration">Calibrate</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
+  <string name="cit_tfcard_support_summary">Check if TFCard is supported on this device</string>
+  <string name="cit_tfcard_support_title">Support TFCard</string>
   <string name="cit_tool">Additional tools</string>
   <string name="cit_tool_bluetooth">Bluetooth test tool</string>
   <string name="cit_tool_bluetooth_dut">Enter Bluetooth Test Mode</string>
@@ -322,6 +287,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_bluetooth_tx_h">Enter Bluetooth BR/EDR 2.480GHz Freq Test Mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter Bluetooth BR/EDR 2.402GHz Freq Test Mode</string>
   <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
+  <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
   <string name="cit_tool_log">Get logs</string>
@@ -338,6 +304,11 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_log_toast_generate_bugreport">Creating bug report… (this takes about 1 minute)</string>
   <string name="cit_tool_modem">MODEM test tools</string>
   <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Disable CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Disable CU VoLTE, restart to take effect.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Enable CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Enable CU VoLTE, restart to take effect.</string>
   <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
   <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
@@ -349,6 +320,13 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Run</string>
   <string name="cit_tool_nfc_st_stop">Stop</string>
+  <string name="cit_tool_prx_drx">PRx+DRx</string>
+  <string name="cit_tool_prx_drx_select_mode">Select Mode:</string>
+  <string name="cit_tool_prx_drx_select_rat">Select RAT:</string>
+  <string name="cit_tool_prx_drx_start_test">Start Test</string>
+  <string name="cit_tool_prx_drx_stop_test">Stop Test</string>
+  <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_rf_ant">RF/Antenna tools</string>
   <string name="cit_tool_wifi">WLAN test tool</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -363,6 +341,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Run</string>
   <string name="cit_tool_wifi_rx_stop">Stop</string>
+  <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>

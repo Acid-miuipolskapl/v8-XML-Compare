@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="APKTOOL_DUMMY_608">false</string>
-  <string name="APKTOOL_DUMMY_621">false</string>
   <string name="APKTOOL_DUMMY_622">false</string>
   <string name="APKTOOL_DUMMY_623">false</string>
   <string name="APKTOOL_DUMMY_624">false</string>
@@ -42,7 +41,7 @@
   <string name="APKTOOL_DUMMY_647">false</string>
   <string name="APKTOOL_DUMMY_648">false</string>
   <string name="APKTOOL_DUMMY_649">false</string>
-  <string name="APKTOOL_DUMMY_64c">false</string>
+  <string name="APKTOOL_DUMMY_64a">false</string>
   <string name="APKTOOL_DUMMY_64d">false</string>
   <string name="APKTOOL_DUMMY_64e">false</string>
   <string name="APKTOOL_DUMMY_64f">false</string>
@@ -59,7 +58,7 @@
   <string name="APKTOOL_DUMMY_65a">false</string>
   <string name="APKTOOL_DUMMY_65b">false</string>
   <string name="APKTOOL_DUMMY_65c">false</string>
-  <string name="APKTOOL_DUMMY_65e">false</string>
+  <string name="APKTOOL_DUMMY_65d">false</string>
   <string name="APKTOOL_DUMMY_65f">false</string>
   <string name="APKTOOL_DUMMY_660">false</string>
   <string name="APKTOOL_DUMMY_661">false</string>
@@ -96,18 +95,18 @@
   <string name="APKTOOL_DUMMY_680">false</string>
   <string name="APKTOOL_DUMMY_681">false</string>
   <string name="APKTOOL_DUMMY_682">false</string>
-  <string name="APKTOOL_DUMMY_684">false</string>
+  <string name="APKTOOL_DUMMY_683">false</string>
   <string name="APKTOOL_DUMMY_685">false</string>
   <string name="APKTOOL_DUMMY_686">false</string>
   <string name="APKTOOL_DUMMY_687">false</string>
-  <string name="APKTOOL_DUMMY_689">false</string>
+  <string name="APKTOOL_DUMMY_688">false</string>
   <string name="APKTOOL_DUMMY_68a">false</string>
   <string name="APKTOOL_DUMMY_68b">false</string>
   <string name="APKTOOL_DUMMY_68c">false</string>
   <string name="APKTOOL_DUMMY_68d">false</string>
   <string name="APKTOOL_DUMMY_68e">false</string>
   <string name="APKTOOL_DUMMY_68f">false</string>
-  <string name="APKTOOL_DUMMY_692">false</string>
+  <string name="APKTOOL_DUMMY_690">false</string>
   <string name="APKTOOL_DUMMY_693">false</string>
   <string name="APKTOOL_DUMMY_694">false</string>
   <string name="APKTOOL_DUMMY_695">false</string>
@@ -126,7 +125,7 @@
   <string name="APKTOOL_DUMMY_6a2">false</string>
   <string name="APKTOOL_DUMMY_6a3">false</string>
   <string name="APKTOOL_DUMMY_6a4">false</string>
-  <string name="APKTOOL_DUMMY_6a6">false</string>
+  <string name="APKTOOL_DUMMY_6a5">false</string>
   <string name="APKTOOL_DUMMY_6a7">false</string>
   <string name="APKTOOL_DUMMY_6a8">false</string>
   <string name="APKTOOL_DUMMY_6a9">false</string>
@@ -163,7 +162,7 @@
   <string name="APKTOOL_DUMMY_6c8">false</string>
   <string name="APKTOOL_DUMMY_6c9">false</string>
   <string name="APKTOOL_DUMMY_6ca">false</string>
-  <string name="APKTOOL_DUMMY_6cc">false</string>
+  <string name="APKTOOL_DUMMY_6cb">false</string>
   <string name="APKTOOL_DUMMY_6cd">false</string>
   <string name="APKTOOL_DUMMY_6ce">false</string>
   <string name="APKTOOL_DUMMY_6cf">false</string>
@@ -172,7 +171,7 @@
   <string name="APKTOOL_DUMMY_6d2">false</string>
   <string name="APKTOOL_DUMMY_6d3">false</string>
   <string name="APKTOOL_DUMMY_6d4">false</string>
-  <string name="APKTOOL_DUMMY_6d6">false</string>
+  <string name="APKTOOL_DUMMY_6d5">false</string>
   <string name="APKTOOL_DUMMY_6d7">false</string>
   <string name="APKTOOL_DUMMY_6d8">false</string>
   <string name="APKTOOL_DUMMY_6d9">false</string>
@@ -250,7 +249,7 @@
   <string name="APKTOOL_DUMMY_721">false</string>
   <string name="APKTOOL_DUMMY_722">false</string>
   <string name="APKTOOL_DUMMY_723">false</string>
-  <string name="APKTOOL_DUMMY_725">false</string>
+  <string name="APKTOOL_DUMMY_724">false</string>
   <string name="APKTOOL_DUMMY_726">false</string>
   <string name="APKTOOL_DUMMY_727">false</string>
   <string name="APKTOOL_DUMMY_728">false</string>
@@ -269,7 +268,7 @@
   <string name="APKTOOL_DUMMY_735">false</string>
   <string name="APKTOOL_DUMMY_736">false</string>
   <string name="APKTOOL_DUMMY_737">false</string>
-  <string name="APKTOOL_DUMMY_73d">false</string>
+  <string name="APKTOOL_DUMMY_738">false</string>
   <string name="APKTOOL_DUMMY_73e">false</string>
   <string name="APKTOOL_DUMMY_73f">false</string>
   <string name="APKTOOL_DUMMY_740">false</string>
@@ -303,14 +302,14 @@
   <string name="APKTOOL_DUMMY_75c">false</string>
   <string name="APKTOOL_DUMMY_75d">false</string>
   <string name="APKTOOL_DUMMY_75e">false</string>
-  <string name="APKTOOL_DUMMY_760">false</string>
+  <string name="APKTOOL_DUMMY_75f">false</string>
   <string name="APKTOOL_DUMMY_761">false</string>
   <string name="APKTOOL_DUMMY_762">false</string>
   <string name="APKTOOL_DUMMY_763">false</string>
   <string name="APKTOOL_DUMMY_764">false</string>
   <string name="APKTOOL_DUMMY_765">false</string>
   <string name="APKTOOL_DUMMY_766">false</string>
-  <string name="APKTOOL_DUMMY_768">false</string>
+  <string name="APKTOOL_DUMMY_767">false</string>
   <string name="APKTOOL_DUMMY_769">false</string>
   <string name="APKTOOL_DUMMY_76a">false</string>
   <string name="APKTOOL_DUMMY_76b">false</string>
@@ -357,6 +356,7 @@
   <string name="APKTOOL_DUMMY_794">false</string>
   <string name="APKTOOL_DUMMY_795">false</string>
   <string name="APKTOOL_DUMMY_796">false</string>
+  <string name="APKTOOL_DUMMY_797">false</string>
   <string name="BaMmi">Call barring</string>
   <string name="CLIRDefaultOffNextCallOff">Caller ID defaults to not restricted. Next call: Not restricted</string>
   <string name="CLIRDefaultOffNextCallOn">Caller ID defaults to not restricted. Next call: Restricted</string>
@@ -588,7 +588,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
   <string name="config_forceVoiceInteractionServicePackage"/>
   <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
+  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_iccHotswapPromptForRestartDialogComponent">@null</string>
@@ -598,7 +598,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
   <string name="config_mobile_hotspot_provision_response"/>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
+  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_networkPolicyNotificationComponent"/>
   <string name="config_ntpServer">asia.pool.ntp.org</string>
   <string name="config_packagedKeyboardName"/>

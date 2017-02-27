@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_194">false</string>
   <string name="APKTOOL_DUMMY_195">false</string>
   <string name="APKTOOL_DUMMY_196">false</string>
   <string name="APKTOOL_DUMMY_197">false</string>
@@ -417,6 +416,7 @@
   <string name="theme_user_agreement_remind_summary">Show the Terms of Use pop-up every time you open the Themes app. This setting will take effect after you reboot your device.</string>
   <string name="theme_user_agreement_title">Terms of Use</string>
   <string name="theme_yes">Yes</string>
+  <string name="third_party_pickers_activity_title">Add %1$s</string>
   <string name="title_component">Customize theme</string>
   <string name="title_my_audio_resource">My ringtones</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>

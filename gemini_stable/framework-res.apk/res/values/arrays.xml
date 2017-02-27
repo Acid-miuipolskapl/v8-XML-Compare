@@ -367,7 +367,7 @@
         <item>4000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>3</item>
+        <item>2</item>
         <item>3</item>
         <item>3</item>
         <item>15</item>
@@ -520,7 +520,7 @@
         <item>140</item>
         <item>0x40400000</item>
         <item>0x00000001</item>
-        <item>0x42C0C000</item>
+        <item>0x42C10000</item>
         <item>0x00000001</item>
     </integer-array>
     <array name="lboostv2_param_value" />
@@ -529,15 +529,11 @@
     <array name="launchboost_packing_param_value" />
     <array name="animationboost_param_value" />
     <integer-array name="flingboost_param_value">
-        <item>0x41800000</item>
-        <item>0x00000033</item>
         <item>0x40800000</item>
         <item>1000</item>
         <item>0x40800100</item>
         <item>1000</item>
         <item>0x40C00000</item>
-        <item>0x00000001</item>
-        <item>0x40C28000</item>
         <item>0x00000001</item>
     </integer-array>
     <integer-array name="scrollboost_param_value">
@@ -610,6 +606,8 @@
         <item>-100</item>
         <item>-44</item>
     </integer-array>
+    <array name="config_operatorConsideredDomesticRoaming" />
+    <array name="config_operatorConsideredDomesticRoamingExceptions" />
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
