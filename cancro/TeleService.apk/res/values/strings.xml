@@ -315,6 +315,8 @@
   <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
   <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
+  <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
+  <string name="crescendo_ringer_title">Increasing ringtone volume</string>
   <string name="cursorError">Cursor error</string>
   <string name="data_enable_summary">Allow this device to use mobile data</string>
   <string name="data_enabled">Mobile data</string>
@@ -405,6 +407,7 @@
   <string name="disable_fdn_ok">Enable FDN</string>
   <string name="disable_pin_ok">PIN cleared</string>
   <string name="disable_sim_pin">Clear SIM PIN</string>
+  <string name="disabled_by_admin">Disabled by administrator</string>
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Same as username&gt;</string>
   <string name="display_name_title">Display name</string>
@@ -466,6 +469,7 @@
   <string name="enable_video_calling_dialog_msg">To turn on video calls, enable Enhanced 4G LTE in network settings.</string>
   <string name="enable_video_calling_dialog_settings">Network settings</string>
   <string name="enable_video_calling_title">Turn on video calls</string>
+  <string name="enabled_by_admin">Enabled by administrator</string>
   <string name="enhanced_4g_lte_mode_off_failed">"Couldn't turn off VoLTE."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE services to improve voice and other communications (recommended)</string>
@@ -829,6 +833,7 @@ Try again or call customer service for more options."</string>
   <string name="path_caller_id_title">System apps/Phone/Advanced settings/Caller ID</string>
   <string name="path_cloud_antispam_title">System apps/Phone/Identify unknown numbers</string>
   <string name="path_connect_disconnect_vibrate_title">System apps/Phone/Advanced settings/Vibrate when your call is answered</string>
+  <string name="path_crescendo_ringer_title">System apps/Phone/Incoming call settings/Increasing ringtone volume</string>
   <string name="path_dtmf_tones_title">System apps/Phone/Advanced settings/DTMF tones</string>
   <string name="path_enable_antispam_strange_title">System apps/Phone/Incoming call settings/Mute first ring</string>
   <string name="path_enable_proximity_title">System apps/Phone/Incoming call settings/Proximity sensor</string>
@@ -1065,6 +1070,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_caller_id_title">@string/caller_id_title</string>
   <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
   <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+  <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
   <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
   <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
   <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
