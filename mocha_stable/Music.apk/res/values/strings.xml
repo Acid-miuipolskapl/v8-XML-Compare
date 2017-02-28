@@ -51,6 +51,7 @@
   <string name="delete_file_start">Delete selected files</string>
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
+  <string name="dialog_button_agree">Agree</string>
   <string name="dialog_button_create_playlist">Create playlist</string>
   <string name="dialog_button_editor_choice">Featured</string>
   <string name="dialog_button_find_music">Discover</string>

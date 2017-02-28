@@ -79,6 +79,7 @@
   <string name="download_complete">COMPLETE</string>
   <string name="download_detail">Details</string>
   <string name="download_error">Failed</string>
+  <string name="download_error_download_file_not_exists">"File doesn't exist"</string>
   <string name="download_error_insufficient_space">Insufficient space</string>
   <string name="download_filesize_unknown">Unknown</string>
   <string name="download_from">Source:</string>
