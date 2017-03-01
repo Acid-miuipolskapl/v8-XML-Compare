@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_2ab">false</string>
   <string name="APKTOOL_DUMMY_2ac">false</string>
   <string name="APKTOOL_DUMMY_2ad">false</string>
   <string name="APKTOOL_DUMMY_2ae">false</string>
@@ -26,6 +25,7 @@
   <string name="APKTOOL_DUMMY_2c2">false</string>
   <string name="APKTOOL_DUMMY_2c3">false</string>
   <string name="APKTOOL_DUMMY_2c4">false</string>
+  <string name="APKTOOL_DUMMY_2c5">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -190,6 +190,7 @@
   <string name="exceed_message_text_limitation">Message text length limit reached.</string>
   <string name="expire_on">Expires: %s</string>
   <string name="exporting_progress_private_message">Exporting…</string>
+  <string name="fail_to_add_attachment">"Couldn't add attachment"</string>
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>

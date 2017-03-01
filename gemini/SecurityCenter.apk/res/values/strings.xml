@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_769">false</string>
-  <string name="APKTOOL_DUMMY_77d">false</string>
+  <string name="APKTOOL_DUMMY_76a">false</string>
   <string name="APKTOOL_DUMMY_77e">false</string>
   <string name="APKTOOL_DUMMY_77f">false</string>
   <string name="APKTOOL_DUMMY_780">false</string>
@@ -165,6 +164,7 @@
   <string name="APKTOOL_DUMMY_81e">false</string>
   <string name="APKTOOL_DUMMY_81f">false</string>
   <string name="APKTOOL_DUMMY_820">false</string>
+  <string name="APKTOOL_DUMMY_821">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -1130,6 +1130,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="optimize_result_ads_close_text">Ad</string>
   <string name="optimize_result_button_cloudspace">Add cloud storage</string>
   <string name="optimize_result_button_consume_power_analysis">Scan battery</string>
   <string name="optimize_result_button_cooldown_now">Cool down</string>
