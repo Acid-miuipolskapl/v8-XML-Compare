@@ -240,7 +240,7 @@
   <string name="tax_title_primary"/>
   <string name="tax_title_secondary"/>
   <string name="tax_unemployment">Unemployment</string>
-  <string name="tax_update_time_format">Data in year %s, provide by HeXun</string>
+  <string name="tax_update_time_format">Data provided by HeXun (%s)</string>
   <string name="times"/>
   <string name="title_bar">Length converter</string>
   <string name="to_num">62.7</string>

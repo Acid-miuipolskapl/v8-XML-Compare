@@ -42,4 +42,8 @@
         <item>friend</item>
         <item>unknown</item>
     </string-array>
+    <integer-array name="backup_pause_hours">
+        <item>2</item>
+        <item>12</item>
+    </integer-array>
 </resources>
