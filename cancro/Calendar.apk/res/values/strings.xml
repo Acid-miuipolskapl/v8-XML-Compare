@@ -50,8 +50,8 @@
   <string name="birthday_event_description_tomorrow">Tomorrow is</string>
   <string name="birthday_event_description_yesterday">Yesterday was</string>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-  <string name="birthday_metric"/>
-  <string name="birthday_notification_age_term"/>
+  <string name="birthday_metric">-year-old</string>
+  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
