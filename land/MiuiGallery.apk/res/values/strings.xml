@@ -124,10 +124,11 @@
   <string name="baby_nick_name">Nickname</string>
   <string name="baby_sexy">Gender</string>
   <string name="baby_suffix">baby</string>
-  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
+  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conveniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">Back up automatically</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
   <string name="backup_battery_low_title">Backup paused due to low battery</string>
+  <string name="backup_close">Close backup</string>
   <string name="backup_cloud_space_low_btn_text">Get more</string>
   <string name="backup_cloud_space_low_desc">%1$s in Mi Cloud | Available %2$s</string>
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
@@ -140,7 +141,7 @@
   <string name="backup_dirty_num">Total: %s</string>
   <string name="backup_dirty_tip">Not backed up photos and videos</string>
   <string name="backup_immediately">Back up</string>
-  <string name="backup_need_sync_desc">Click button to continue backing up</string>
+  <string name="backup_need_sync_desc">Tap to continue backing up</string>
   <string name="backup_need_sync_title">Backup stopped</string>
   <string name="backup_no_network_btn_text">Network settings</string>
   <string name="backup_no_network_desc">Connect to the network to continue backing up items</string>
@@ -151,6 +152,7 @@
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
   <string name="backup_pause">Pause backup</string>
+  <string name="backup_pause_title">Back up in %s</string>
   <string name="backup_pending">Will be backed up automatically</string>
   <string name="backup_stop">Stop backup</string>
   <string name="backup_sync_error_btn_text">Try again</string>
@@ -165,7 +167,7 @@
   <string name="backuped_desc">Photos and videos are backed up to Mi Cloud</string>
   <string name="backuped_title">Backed up successfully</string>
   <string name="backuping_title_gprs">Backing up using mobile data…</string>
-  <string name="backuping_title_normal">Backing up⤦</string>
+  <string name="backuping_title_normal">Backing up…</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="blank_app_name"/>
@@ -631,6 +633,8 @@
   <string name="custom_select_title_select_item">Select items</string>
   <string name="debugging_tip">Generating debug data</string>
   <string name="default_album_name">New album</string>
+  <string name="default_relation_name">New group</string>
+  <string name="define_by_user">Custom</string>
   <string name="delete">Delete</string>
   <string name="delete_album_failed">"Couldn't delete album"</string>
   <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s %3$s?</string>
@@ -682,6 +686,7 @@
   <string name="empty_query_text_msg">"Don't know what to search for…"</string>
   <string name="empty_recommend_back">Back</string>
   <string name="empty_recommend_face_page_view">No more recommendations</string>
+  <string name="empty_relation">"Group name can't be blank"</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">Turn on sync with Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
@@ -784,7 +789,7 @@ Take more photos of your friends!"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
-  <string name="image_download_item_title">Download photo (%s)</string>
+  <string name="image_download_item_title">Download original file (%s)</string>
   <string name="image_invalid_path">Invalid path</string>
   <string name="image_not_found">"Couldn't find image"</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
@@ -797,6 +802,7 @@ Take more photos of your friends!"</string>
   <string name="input_baby_nick_name">Enter nickname</string>
   <string name="input_nickname_toast">"Enter baby's name"</string>
   <string name="input_or_select_a_name">Enter or select a name</string>
+  <string name="input_relation_name">Enter group name</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="invite_sharer_confirm_button_text">Invite</string>
@@ -813,6 +819,7 @@ Take more photos of your friends!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be &gt; 0</string>
   <string name="limit_width">Width should be &gt; 0</string>
+  <string name="load_relations">Just a sec…</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
@@ -855,6 +862,9 @@ Take more photos of your friends!"</string>
   <string name="new_album_invalid_char">"Names can't contain \"%s\", enter a letter or a number."</string>
   <string name="new_album_invalid_name">\"%s\" is system album, please rename for it.</string>
   <string name="new_album_invalid_prefix">"Don't use \".\" or \"_\" in the beginning of the album's name."</string>
+  <string name="new_relation_invalid_char">"Group names can't contain “%s”. Use letters, numbers, or characters."</string>
+  <string name="new_relation_invalid_name">“%s” group already exists, rename this group.</string>
+  <string name="new_relation_invalid_prefix">"Can't start group names with “.” or “_”"</string>
   <string name="next">Next</string>
   <string name="no">No</string>
   <string name="no_map_app">No app was found to handle this action</string>
@@ -876,6 +886,7 @@ Take more photos of your friends!"</string>
   <string name="operation_do_delete_local_thumnail">Delete from device</string>
   <string name="operation_download">Download original (%s)</string>
   <string name="operation_edit">Edit</string>
+  <string name="operation_edit_video">Edit</string>
   <string name="operation_enable_auto_upload">Turn on sync with Mi Cloud</string>
   <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
   <string name="operation_failed">"Couldn't complete operation"</string>
@@ -889,6 +900,7 @@ Take more photos of your friends!"</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_from_other_albums">Move from other albums</string>
   <string name="operation_remove_secret">Unhide</string>
+  <string name="operation_rename">Rename</string>
   <string name="operation_save">Save</string>
   <string name="operation_send">Send</string>
   <string name="operation_set_contact_photo">Set as contact photo</string>
@@ -972,6 +984,9 @@ Take more photos of your friends!"</string>
   <string name="remove_from_secret_successful">Removed from hidden album</string>
   <string name="remove_to_album_title">Merge with</string>
   <string name="remove_to_other_album">Merge with a different person</string>
+  <string name="rename_album">Rename album</string>
+  <string name="rename_album_failed">"Couldn't rename"</string>
+  <string name="rename_album_succeeded">Renamed successfully</string>
   <string name="rename_face_album">Change name</string>
   <string name="rename_fail_msg">"Couldn't change name"</string>
   <string name="rename_from_contact">Name from contacts</string>
@@ -1084,8 +1099,10 @@ Take more photos of your friends!"</string>
   <string name="sync_battery_low">Low battery</string>
   <string name="sync_cloud_space_full">Not enough space in Mi Cloud</string>
   <string name="sync_diabled_toast">Sync is off</string>
+  <string name="sync_metatata_wait_title">Waiting to sync Mi Cloud data</string>
   <string name="sync_off_title">Turn on sync with Mi Cloud to back up photos and videos automatically</string>
   <string name="sync_pending_title">Will be synced automatically</string>
+  <string name="sync_state_unknow">Getting info</string>
   <string name="synced_title">Backed up photos and videos successfully</string>
   <string name="syncing_gprs_title">Using mobile data to back up items</string>
   <string name="syncing_metadata_title">Syncing Mi Cloud data</string>

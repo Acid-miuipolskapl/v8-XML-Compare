@@ -38,9 +38,12 @@
   <string name="error_sdcard_access">"Can't access storage"</string>
   <string name="error_sdcard_unmounted">Insert SD card now</string>
   <string name="export_to_note">Export to Notes</string>
+  <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
+  <string name="head_set_tip_dialog_ok">Got it</string>
+  <string name="head_set_tip_dialog_title">Use internal mic</string>
   <string name="invalid_argument">Invalid argument</string>
   <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
-  <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
+  <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Recorder</string>
   <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
   <string name="low_battery_error">"Less than 5% battery remaining. Stop and save your recording to make sure it isn't lost."</string>
   <string name="low_battery_error_confirm">OK</string>

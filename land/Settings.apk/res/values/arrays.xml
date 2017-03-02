@@ -1535,18 +1535,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
     </string-array>
-    <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
-    </string-array>
-    <string-array name="fluency_mode_summaries">
-        <item>"Speeds up device's performance"</item>
-        <item>"May slow down device's performance"</item>
-    </string-array>
-    <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
-    </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>
         <item>Normal (720p)</item>
@@ -1836,5 +1824,36 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Photos</item>
         <item>Files</item>
         <item>Notes</item>
+    </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>四核最高2.5GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>Android版本</item>
+        <item>处理器</item>
+        <item>电池容量</item>
+        <item>屏幕尺寸</item>
+        <item>分辨率</item>
+        <item>后置摄像头</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>6.0</item>
+        <item>高通骁龙430</item>
+        <item>4000mAh</item>
+        <item>5英寸</item>
+        <item>1280 x 720像素</item>
+        <item>1300万像素</item>
     </string-array>
 </resources>
