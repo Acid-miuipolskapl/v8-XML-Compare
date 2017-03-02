@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="time_in_day">
+        <item quantity="other">%1$d days ago</item>
+        <item quantity="one">"%1$d day ago "</item>
+    </plurals>
     <plurals name="time_in_hour">
         <item quantity="other">%1$d hours ago</item>
         <item quantity="one">"%1$d hour ago "</item>
