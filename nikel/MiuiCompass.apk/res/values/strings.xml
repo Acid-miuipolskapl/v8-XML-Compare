@@ -41,7 +41,7 @@
   <string name="location_enable_later">Later</string>
   <string name="location_enabled">You can turn off location services any time in Settings.</string>
   <string name="location_north">NL</string>
-  <string name="location_not_enabled_summary">Directory needs your location info to work normally.</string>
+  <string name="location_not_enabled_summary">Compass needs to access your location in order to display coordinates and altitude.</string>
   <string name="location_not_enabled_title">Location services</string>
   <string name="location_south">SL</string>
   <string name="location_west">WL</string>

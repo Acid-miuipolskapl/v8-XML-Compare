@@ -1837,4 +1837,35 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>十核最高2.11GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>十核最高2.52GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>128GB</item>
+        <item>十核最高2.52GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>Android版本</item>
+        <item>处理器</item>
+        <item>电池容量</item>
+        <item>屏幕尺寸</item>
+        <item>分辨率</item>
+        <item>后置摄像头</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>6.0</item>
+        <item>联发科 Helio X20</item>
+        <item>4000mAh</item>
+        <item>5.5英寸</item>
+        <item>1920 x 1080像素</item>
+        <item>1300万像素</item>
+    </string-array>
 </resources>
