@@ -2,6 +2,7 @@
 <resources>
   <string name=" hide_error_from_network_text">Unable to Process Request</string>
   <string name="APKTOOL_DUMMY_657">false</string>
+  <string name="APKTOOL_DUMMY_658">false</string>
   <string name="APKTOOL_DUMMY_659">false</string>
   <string name="APKTOOL_DUMMY_65a">false</string>
   <string name="APKTOOL_DUMMY_65b">false</string>
