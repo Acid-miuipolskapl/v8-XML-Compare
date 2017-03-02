@@ -268,6 +268,8 @@
   <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
   <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
+  <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
+  <string name="crescendo_ringer_title">Increasing ringtone volume</string>
   <string name="cursorError">Cursor is not having proper data !!!</string>
   <string name="data_enable_summary">Allow this device to use mobile data</string>
   <string name="data_enabled">Mobile data</string>
@@ -358,6 +360,7 @@
   <string name="disable_fdn_ok">Enable FDN</string>
   <string name="disable_pin_ok">SIM PIN disabled.</string>
   <string name="disable_sim_pin">Disable SIM PIN</string>
+  <string name="disabled_by_admin">Disabled by administrator</string>
   <string name="disconnect_data_confirm">Data service temporarily would be disconnected. Are you sure?</string>
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Same as username&gt;</string>
@@ -417,6 +420,7 @@
   <string name="enable_video_calling_dialog_msg">To turn on video calling, you need to enable Enhanced 4G LTE Mode in system settings.</string>
   <string name="enable_video_calling_dialog_settings">Network settings</string>
   <string name="enable_video_calling_title">Turn on video calling</string>
+  <string name="enabled_by_admin">Enabled by administrator</string>
   <string name="enhanced_4g_lte_mode_off_failed">"Couldn't turn off VoLTE."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE services to improve voice and other communications (recommended)</string>
@@ -799,6 +803,7 @@ Try again or call customer service for more options."</string>
   <string name="path_caller_id_title">System apps/Phone/Advanced settings/Caller ID</string>
   <string name="path_cloud_antispam_title">System apps/Phone/Identify unknown numbers</string>
   <string name="path_connect_disconnect_vibrate_title">System apps/Phone/Advanced settings/Vibrate when your call is answered</string>
+  <string name="path_crescendo_ringer_title">System apps/Phone/Incoming call settings/Increasing ringtone volume</string>
   <string name="path_dtmf_tones_title">System apps/Phone/Advanced settings/DTMF tones</string>
   <string name="path_enable_antispam_strange_title">System apps/Phone/Incoming call settings/Mute first ring</string>
   <string name="path_enable_proximity_title">System apps/Phone/Incoming call settings/Proximity sensor</string>
@@ -817,7 +822,6 @@ Try again or call customer service for more options."</string>
   <string name="path_telocation_enable_title">System apps/Phone/Location/Show location</string>
   <string name="path_turnover_mute_title">System apps/Phone/Incoming call settings/Flip to silence ringer</string>
   <string name="path_voicemail_settings">System apps/Phone/Advanced settings/Voicemail settings</string>
-  <string name="path_voip_setting">System apps/Phone/Mi Voice</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Sending tones
 "</string>
@@ -1047,6 +1051,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_caller_id_title">@string/caller_id_title</string>
   <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
   <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+  <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
   <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
   <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
   <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
@@ -1066,7 +1071,6 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
   <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
   <string name="search_voicemail_settings">@string/voicemail_settings</string>
-  <string name="search_voip_setting">@string/voip_setting</string>
   <string name="selectContact">select contact</string>
   <string name="select_automatically">Choose automatically</string>
   <string name="select_cancel">Cancel</string>

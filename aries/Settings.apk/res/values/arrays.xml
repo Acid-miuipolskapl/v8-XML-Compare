@@ -1773,8 +1773,8 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
-        <item>32GB</item>
-        <item>四核最高1.8GHz</item>
+        <item>16GB</item>
+        <item>四核最高2.5GHz</item>
     </string-array>
     <string-array name="high_configuration_version">
         <item>3.00GB</item>
@@ -1787,99 +1787,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>四核最高2.15GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
-        <item>四核处理器</item>
-        <item>2000mAh</item>
-        <item>16GB/32GB</item>
-        <item>4.3英寸</item>
-        <item>2GB内存</item>
-        <item>8MP</item>
+        <item>Android版本</item>
+        <item>处理器</item>
+        <item>电池容量</item>
+        <item>屏幕尺寸</item>
+        <item>分辨率</item>
+        <item>后置摄像头</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>最高主频1.5GHz</item>
-        <item>可拆卸电池</item>
-        <item>机身存储</item>
-        <item>IPS 视网膜屏</item>
-        <item>双通道</item>
-        <item>F2.2 大光圈，五组镜片</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_summary">
-        <item>1.5GHz四核处理器</item>
-        <item>800万像素背照式摄像头</item>
-        <item>4.3英寸IPS屏</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_secondary">
-        <item>28纳米四核心Krait架构，双通道内存</item>
-        <item>F/2.0大光圈，27mm超大广角，内含五组镜片</item>
-        <item>超高PPI精度视网膜屏，分辨率高达1280 x 720</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_1">
-        <item>GB</item>
-        <item>16MP</item>
-        <item>95%NTSC</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_2">
-        <item>GB</item>
-        <item>蓝宝石</item>
-        <item>600nit</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_3">
-        <item>内存</item>
-        <item>索尼iMX298相机</item>
-        <item>高色彩饱和度</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_4">
-        <item>内存</item>
-        <item>镜头保护玻璃</item>
-        <item>屏幕亮度</item>
-    </string-array>
-    <string-array name="hardware_parameters_title">
-        <item>"处理器
-与内存"</item>
-        <item>外观尺寸</item>
-        <item>电池</item>
-        <item>"拍照
-与摄像"</item>
-        <item>屏幕显示</item>
-        <item>"无线网络
-与制式"</item>
-        <item>导航定位</item>
-        <item>感应器</item>
-    </string-array>
-    <string-array name="hardware_parameters_summary">
-        <item>"骁龙APQ8064四核 主频1.5GHz
-Adreno 320图形处理器
-2GB双通道内存
-16GB / 32GB闪存"</item>
-        <item>"高度：126 mm
-宽度：62 mm
-厚度：10.2mm
-重量：145g"</item>
-        <item>2000mAh可拆卸式电池</item>
-        <item>"800万像素相机
-背照式CMOS摄像头
-F/2.0大光圈
-27mm超大广角
-5片式镜头
-200万像素前置摄像头
-支持1080p高清摄像"</item>
-        <item>"4.3英寸IPS屏幕
-超高PPI精度视网膜屏
-分辨率1280 x 720"</item>
-        <item>"支持联通3G/2G，以及移动2G
-蓝牙4.0/OTG/WLAN"</item>
-        <item>GPS/AGPS/GLONASS</item>
-        <item>"重力感应
-光线感应
-陀螺仪
-距离感应器
-加速传感器"</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_info_title">
-        <item>小米手机 2</item>
-        <item>小米手机 2 特色功能</item>
-    </string-array>
-    <string-array name="standard_configuration_version_share_text">
-        <item>"小米手机2，快的有点狠!
-http://m.mi.com"</item>
+        <item>5.0.2</item>
+        <item>骁龙APQ8064四核</item>
+        <item>2000mAh</item>
+        <item>4.3英寸</item>
+        <item>1280 x 720像素</item>
+        <item>800万像素</item>
     </string-array>
 </resources>

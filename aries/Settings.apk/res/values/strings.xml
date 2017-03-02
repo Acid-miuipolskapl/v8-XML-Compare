@@ -394,7 +394,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="bind_xiaomi_account_confirm">Add</string>
   <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
   <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
-  <string name="binded_xiaomi_summary">Current account: %s</string>
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
   <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
   <string name="biometric_weak_liveliness_title">Liveness check</string>
@@ -1026,6 +1025,9 @@ This setting affects all users on this phone."</string>
   <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
+  <string name="device_available_memory">Available memory</string>
+  <string name="device_battery">Battery</string>
+  <string name="device_build_id">Version number</string>
   <string name="device_complete_parameters">All specs</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
@@ -1050,12 +1052,16 @@ This setting affects all users on this phone."</string>
   <string name="device_name_input_hint">Enter name</string>
   <string name="device_name_usage_point">Other nearby devices can see this name.</string>
   <string name="device_picker">Choose Bluetooth device</string>
+  <string name="device_rear_camera">Rear camera</string>
   <string name="device_reset_title">Reset device</string>
+  <string name="device_screen_resolution">Screen resolution</string>
+  <string name="device_screen_size">Screen size</string>
   <string name="device_sd_memory">SD card</string>
   <string name="device_share_loading">Creating image…</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Battery Status, battery level, etc.</string>
+  <string name="device_total_memory">Total memory</string>
   <string name="dial_pad_tones_title">Dial pad tones</string>
   <string name="dialog_content_login">Sign in to your Mi Account to update?</string>
   <string name="dialog_no">No</string>
@@ -1126,6 +1132,7 @@ This setting affects all users on this phone."</string>
   <string name="dndm_repeated_call_summary_none">Silence repeated calls from the same number</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
   <string name="dndm_summary">Calls and notifications that arrive while Do not disturb is on will be silenced.</string>
+  <string name="dndm_summary_for_pad">Notifications that arrive while Do not disturb is on will be silenced.</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Allow calls from exceptions</string>
@@ -1515,6 +1522,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="install_unknown_applications_title">Lets you install apps from sources other than Google Play</string>
   <string name="install_whole_rom">Download ROM</string>
   <string name="instruction_privacy_password">This password protects the following items</string>
+  <string name="instruction_title">Instructions</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1560,8 +1568,12 @@ Some apps may not work until updated by their developers."</string>
   <string name="keyguard_shortcut_summary">Set shortcuts for 2 apps on the Lock screen</string>
   <string name="keyguard_shortcut_title">Lock screen shortcuts</string>
   <string name="keywords_accounts">account</string>
+  <string name="keywords_airplane">飞行模式;FeiXing;Airplane;Fly</string>
   <string name="keywords_app">RAM</string>
+  <string name="keywords_auto_rotate">方向;旋转;重力;FangXiang;XuanZhuan;ZhongLi;Direction</string>
   <string name="keywords_battery">power</string>
+  <string name="keywords_bluetooth">蓝牙;LanYa;开启蓝牙;KaiQILanYa;Bluetooth</string>
+  <string name="keywords_data">流量;数据;4G;3G;LiuLiang;ShuJu;Data</string>
   <string name="keywords_date_and_time">clock</string>
   <string name="keywords_display">screen touchscreen</string>
   <string name="keywords_display_auto_brightness">dim screen touchscreen</string>
@@ -1569,23 +1581,32 @@ Some apps may not work until updated by their developers."</string>
   <string name="keywords_display_cast_screen">project</string>
   <string name="keywords_display_font_size">text size</string>
   <string name="keywords_display_wallpaper">background</string>
+  <string name="keywords_do_not_disturb">勿扰;睡眠;睡觉;WuRao;ShuiMian;ShuiJiao;Sleep;DNDM;Nointerfere</string>
   <string name="keywords_factory_data_reset">wipe delete</string>
+  <string name="keywords_gps">GPS;定位;卫星;位置;DingWei;WeiXing;WeiZhi</string>
   <string name="keywords_home">launcher</string>
+  <string name="keywords_hotspot">热点;共享;ReDian;GongXiang;Hotspot;Tether</string>
   <string name="keywords_keyboard_and_ime">text correction correct sound vibrate auto language gesture suggest suggestion theme offensive word type emoji</string>
   <string name="keywords_location">nearby location history reporting</string>
   <string name="keywords_location_mode">accuracy</string>
   <string name="keywords_lockscreen">slide password pattern pin</string>
   <string name="keywords_more_default_sms_app">text message</string>
   <string name="keywords_more_mobile_networks">cellular cell carrier wireless</string>
+  <string name="keywords_paper_mode">护眼;蓝光;阅读;HuYan;LanGuang;YueDu;Eyeprotection</string>
   <string name="keywords_printing">printer</string>
+  <string name="keywords_quick_ball">悬浮球;XuanFuQiu;Ball</string>
+  <string name="keywords_silent">静音;JingYin;开会;KaiHui;Silent</string>
   <string name="keywords_sounds_and_notifications">speaker beep</string>
   <string name="keywords_sounds_and_notifications_interruptions">"dont don't disturb interrupt interruption break"</string>
   <string name="keywords_spell_checker">spelling</string>
   <string name="keywords_storage">space disk hard drive</string>
+  <string name="keywords_sync">同步;TongBu;Sync</string>
   <string name="keywords_text_to_speech_output">rate language default speak speaking</string>
+  <string name="keywords_torch">手电;照明;闪光灯;ShouDian;ZhaoMing;ShanGuangDeng;Flashlight;Torch</string>
   <string name="keywords_users">restriction restrict restricted</string>
+  <string name="keywords_vibrate">振动;震动;ZhenDong;Vibrate;Shock</string>
   <string name="keywords_voice_input">recognizer input speech speak language hands-free hand free recognition offensive word audio history bluetooth headset</string>
-  <string name="keywords_wifi">wifi wi-fi network connection</string>
+  <string name="keywords_wifi">wifi;wi-fi;无线;WuXian;开启WLAN;KaiQiWLAN;WLAN</string>
   <string name="language_keyboard_settings_title">Language &amp; input</string>
   <string name="language_picker_title">Language</string>
   <string name="language_settings">Language &amp; input</string>
@@ -1730,6 +1751,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpassword_confirm_for_second_user">Confirm your Second space password</string>
   <string name="lockpassword_confirm_passwords_dont_match">Passwords don’t match</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
+  <string name="lockpassword_confirm_workspace_password">Verify Work space password</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirm your pattern</string>
   <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue.</string>
@@ -1772,6 +1794,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
+  <string name="lockpattern_pattern_same_with_others">Should be different from other space password</string>
   <string name="lockpattern_pattern_same_with_owner">Should be different from First space password</string>
   <string name="lockpattern_pattern_same_with_security_space">Should be different from Second space password</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again.</string>
@@ -1907,6 +1930,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="memory_media_misc_usage">Misc.</string>
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
+  <string name="memory_rightvalue">Available: %s</string>
   <string name="memory_size">Total space</string>
   <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_cancel">Discard</string>
@@ -1933,6 +1957,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
   <string name="menu_use_uss">Use Uss</string>
+  <string name="mi_shopping_mall">Mi Store</string>
   <string name="misc_files">Misc files</string>
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
@@ -2366,19 +2391,25 @@ Select your operating system:"</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Privacy protection password</string>
+  <string name="privacy_password_add_account">Add</string>
+  <string name="privacy_password_add_account_info">Add Mi Account to be able to reset your password in case you forget it</string>
+  <string name="privacy_password_add_account_setting">Account &amp; privacy</string>
   <string name="privacy_password_bind_account">Add Mi Account</string>
   <string name="privacy_password_bind_account_immediate">Add</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_enter_privacy">Enter Privacy protection password</string>
+  <string name="privacy_password_exit_account_info">Account will be removed automatically when you sign out</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
   <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
+  <string name="privacy_password_login_and_add_account">Sign in &amp; add</string>
   <string name="privacy_password_never_remind">"Don't ask again"</string>
+  <string name="privacy_password_not_add_account">Not now</string>
+  <string name="privacy_password_not_login_account">"You aren't signed in"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Add your Mi Account to be able to reset your password in case you forget it.</string>
-  <string name="privacy_password_remind_bindaccont_message">Add your Mi Account (%s) to be able to reset your password in case you forget it.</string>
   <string name="privacy_password_remind_bindaccount_title">Add Mi Account</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
@@ -2627,6 +2658,16 @@ This setting affects all users on this phone."</string>
   <string name="screen_key_press">Press navigation buttons</string>
   <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_locking_sounds_title">Screen locking sounds</string>
+  <string name="screen_monochrome_mode_apps_loading">Just a sec…</string>
+  <string name="screen_monochrome_mode_apps_title">Use Monochrome mode</string>
+  <string name="screen_monochrome_mode_global_summary">Use Monochrome mode for all apps</string>
+  <string name="screen_monochrome_mode_global_title">All apps</string>
+  <string name="screen_monochrome_mode_local_summary">Use Monochrome mode for apps you select</string>
+  <string name="screen_monochrome_mode_local_title">Selected apps</string>
+  <string name="screen_monochrome_mode_off_apps_title">"Don't use Monochrome mode"</string>
+  <string name="screen_monochrome_mode_set_apps_title">Monochrome mode apps</string>
+  <string name="screen_monochrome_mode_summary">Switch to Monochrome mode to extend battery life</string>
+  <string name="screen_monochrome_mode_title">Monochrome mode</string>
   <string name="screen_never_timeout_title">Never sleep</string>
   <string name="screen_on_proximity_sensor_summary">Lock touch gestures when placed in a pocket</string>
   <string name="screen_on_proximity_sensor_title">Pocket mode</string>
@@ -2664,6 +2705,7 @@ To use screen pinning:
 
 4. Touch the pin icon."</string>
   <string name="screen_pinning_title">Screen pinning</string>
+  <string name="screen_recorder">Record screen</string>
   <string name="screen_resolution_confirm">Reboot</string>
   <string name="screen_resolution_summary">"Lowering the display's resolution may increase battery life and system speed, however images on screen may be less clear. Your device must reboot to apply this change."</string>
   <string name="screen_resolution_switch">Switch resolution</string>
@@ -3129,6 +3171,9 @@ For more information, contact your administrator."</string>
 
 A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
+  <string name="standard_configuration_version_rear_camera">800万像素</string>
+  <string name="standard_configuration_version_screen_resolution">1280 x 720像素</string>
+  <string name="standard_configuration_version_screen_size">4.3英寸</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
@@ -3264,6 +3309,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="system">System</string>
   <string name="system_and_device_section_title">System &amp; device</string>
   <string name="system_app_settings">System apps</string>
+  <string name="system_apps_updater">System apps updater</string>
   <string name="system_backup_section_title">Backup</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_storage">System storage</string>
@@ -4139,6 +4185,9 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="work_profile_confirm_remove_message">All apps and data in this profile will be deleted.</string>
   <string name="work_profile_confirm_remove_title">Remove work profile?</string>
   <string name="work_sim_title">Work SIM</string>
+  <string name="work_space_delete">Delete work space</string>
+  <string name="work_space_delete_confirm">Confirm delete</string>
+  <string name="work_space_delete_description">"You won't be able to enter Work space after you delete it. All data will be moved or deleted."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
   <string name="wps_connect_title">WPS push button</string>
