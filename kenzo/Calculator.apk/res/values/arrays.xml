@@ -150,8 +150,8 @@
         <item>kmps</item>
         <item>nmiph</item>
         <item>mileph</item>
-        <item>ftps</item>
-        <item>inps</item>
+        <item>fps</item>
+        <item>ips</item>
     </string-array>
     <string-array name="unit_data_order_weight_">
         <item>t</item>
