@@ -143,7 +143,6 @@ Tap the screen to manually add or reposition city"</string>
   <string name="other">Other</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
-  <string name="realtime_cityname_default">Location city</string>
   <string name="realtime_humidity_title">Relative humidity</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Wind</string>

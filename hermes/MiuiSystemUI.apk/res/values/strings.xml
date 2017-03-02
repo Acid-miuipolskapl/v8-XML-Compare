@@ -65,7 +65,7 @@
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_title">Connect charger</string>
   <string name="battery_profiles">Use battery profiles</string>
-  <string name="block_notification_content_text">"%1$s's notifications won't be shown again.You can change this in the Settings."</string>
+  <string name="block_notification_content_text">"%1$s's notifications won't be shown again. You can change this in the Settings."</string>
   <string name="block_notification_text">Hide</string>
   <string name="block_record_notification_more_text">Hiding notifications from %1$s &amp; %2$d apps.</string>
   <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
