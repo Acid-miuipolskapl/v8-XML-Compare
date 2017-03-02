@@ -62,5 +62,6 @@
     <string-array name="screenrecorder_settings_sound_values">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>
