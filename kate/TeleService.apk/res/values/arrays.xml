@@ -512,44 +512,4 @@
         <item>18</item>
         <item>1</item>
     </integer-array>
-    <integer-array name="network_mode_3g_cm">
-        <item>16</item>
-        <item>1</item>
-        <item>13</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cm">
-        <item>17</item>
-        <item>16</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cu">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cu">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_gsm">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cdma">
-        <item>7</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cdma">
-        <item>10</item>
-        <item>7</item>
-    </integer-array>
-    <integer-array name="network_mode_all_lte">
-        <item>10</item>
-        <item>8</item>
-        <item>20</item>
-        <item>17</item>
-        <item>9</item>
-    </integer-array>
 </resources>

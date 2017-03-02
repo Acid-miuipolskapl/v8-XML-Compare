@@ -965,6 +965,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="optimize_result_ads_close_text">Ad</string>
   <string name="optimize_result_button_cloudspace">Add cloud storage</string>
   <string name="optimize_result_button_consume_power_analysis">Scan battery</string>
   <string name="optimize_result_button_cooldown_now">Cool down</string>
