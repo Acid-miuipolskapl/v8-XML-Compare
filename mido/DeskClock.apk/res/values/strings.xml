@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="APKTOOL_DUMMY_b0">false</string>
+  <string name="APKTOOL_DUMMY_b1">false</string>
+  <string name="APKTOOL_DUMMY_b2">false</string>
+  <string name="APKTOOL_DUMMY_b3">false</string>
+  <string name="APKTOOL_DUMMY_b4">false</string>
+  <string name="APKTOOL_DUMMY_b5">false</string>
+  <string name="APKTOOL_DUMMY_b6">false</string>
+  <string name="APKTOOL_DUMMY_b7">false</string>
   <string name="add_alarm">Add alarm</string>
   <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
   <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
@@ -30,7 +37,7 @@
   <string name="birthday_alarm">Birthday alarm</string>
   <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
   <string name="cancel">Cancel</string>
-  <string name="close_alarm">Close alarm</string>
+  <string name="close_alarm">Turn off</string>
   <string name="common_settings">Settings</string>
   <string name="confirm_abort">Discard</string>
   <string name="control_set_alarm">Set alarm</string>
@@ -122,8 +129,8 @@
   <string name="silent_alarm_summary">Silent</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Turn off once on %s</string>
-  <string name="slider_text">Swipe up to silence</string>
-  <string name="snooze_confirm_cancel">Cancel snooze</string>
+  <string name="slider_text">Swipe up to turn off</string>
+  <string name="snooze_confirm_cancel">Dismiss alarm</string>
   <string name="snooze_duration_title">Snooze duration</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>

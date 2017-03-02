@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_36">false</string>
+  <string name="APKTOOL_DUMMY_37">false</string>
+  <string name="APKTOOL_DUMMY_38">false</string>
+  <string name="APKTOOL_DUMMY_39">false</string>
+  <string name="APKTOOL_DUMMY_3a">false</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Altitude</string>
@@ -41,7 +46,7 @@
   <string name="location_enable_later">Later</string>
   <string name="location_enabled">You can turn off location services any time in Settings.</string>
   <string name="location_north">NL</string>
-  <string name="location_not_enabled_summary">Directory needs your location info to work normally.</string>
+  <string name="location_not_enabled_summary">Compass needs to access your location in order to display coordinates and altitude.</string>
   <string name="location_not_enabled_title">Location services</string>
   <string name="location_south">SL</string>
   <string name="location_west">WL</string>
