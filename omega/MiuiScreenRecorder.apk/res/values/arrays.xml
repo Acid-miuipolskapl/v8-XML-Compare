@@ -46,8 +46,8 @@
     </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Auto</item>
-        <item>Vertical</item>
-        <item>Horizontal</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
     </string-array>
     <string-array name="screenrecorder_settings_orientation_values">
         <item>0</item>
@@ -55,11 +55,13 @@
         <item>2</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
-        <item>No sound</item>
-        <item>Micophone sound</item>
+        <item>Mute</item>
+        <item>Mic</item>
+        <item>Speaker</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_values">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

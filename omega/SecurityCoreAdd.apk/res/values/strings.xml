@@ -9,6 +9,9 @@ this feature will be added to Second space automatically."</string>
   <string name="add_finger_print">Add fingerprint</string>
   <string name="air_space_created">Created Work space successfully</string>
   <string name="air_space_deleted">Deleted Work space successfully</string>
+  <string name="air_space_exit">Exit space</string>
+  <string name="air_space_setting">Space Settings</string>
+  <string name="airspace_users_full">"Couldn't create more Work space"</string>
   <string name="appData">Installed apps</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Back</string>
@@ -41,6 +44,7 @@ this feature will be added to Second space automatically."</string>
   <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
   <string name="contact_titile_text">"Show private messages in Second space
 to be able to view them anytime"</string>
+  <string name="contact_us">Contact us</string>
   <string name="continueButton">Continue</string>
   <string name="createANewSpace">Create a separate space on your phone.</string>
   <string name="createUserFail">"Couldn't create"</string>
@@ -108,6 +112,7 @@ You can also download them separately."</string>
   <string name="keywords_sspace">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
   <string name="keywords_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="list_empty_text">Empty</string>
+  <string name="loading">Just a sec…</string>
   <string name="loading_apps">Loading apps…</string>
   <string name="loading_space">Just a sec…</string>
   <string name="loading_success">Loaded successfully</string>
@@ -125,6 +130,7 @@ You can also download them separately."</string>
   <string name="next_setp">Next</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
+  <string name="not_support_air_space">"This feature isn't supported on your phone"</string>
   <string name="not_support_multiple_users">"Multiple spaces aren't supported"</string>
   <string name="notificationSetPassword">Set password</string>
   <string name="notificationSetPasswordDes">Protect Second space data</string>
@@ -137,6 +143,7 @@ You can also download them separately."</string>
   <string name="openPasswordGuard">Set Second space password</string>
   <string name="openSuccess">Turned on</string>
   <string name="opened">On</string>
+  <string name="other">Other</string>
   <string name="otherSettings">Other settings</string>
   <string name="passWordGuardSummary">Enter Second space from Lock screen using a password</string>
   <string name="passwordProtect">Password</string>
@@ -162,6 +169,10 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="restore_show_toast">Not showing private messages</string>
   <string name="retain_src_file">Keep files</string>
   <string name="retain_src_photo">Keep photos</string>
+  <string name="same_qr_code_create_space">Create another one</string>
+  <string name="same_qr_code_des">Looks like this Work space already exists. You can use Home screen and Notification shade shortcuts to go there. Go now?</string>
+  <string name="same_qr_code_enter_space">Go to Work space</string>
+  <string name="same_qr_code_title">%s already exists</string>
   <string name="scanner_fingerprint">Scanning fingerprint…</string>
   <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
 to enter Second space from Lock screen"</string>

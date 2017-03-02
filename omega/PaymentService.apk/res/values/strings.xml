@@ -382,7 +382,7 @@ To activate your account, follow the
   <string name="passport_login">Sign in</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_instead_reg">Use this number</string>
-  <string name="passport_login_instead_reg_with_email">Use this Email</string>
+  <string name="passport_login_instead_reg_with_email">Use this email</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
