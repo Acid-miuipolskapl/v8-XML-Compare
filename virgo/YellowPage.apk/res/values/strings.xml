@@ -71,7 +71,7 @@
   <string name="download_failed_storage">Download failed. Check your SD card.</string>
   <string name="downloading">Downloading…</string>
   <string name="enable_now">Turn on</string>
-  <string name="exapress_save_address_to_contact">Save address in contact</string>
+  <string name="exapress_save_address_to_contact">Save this address in Contacts</string>
   <string name="express_add_new_address">Add address</string>
   <string name="express_address_delete_warning">Delete this address?</string>
   <string name="express_address_deleted">Address deleted</string>

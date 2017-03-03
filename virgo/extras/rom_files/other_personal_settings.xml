@@ -16,6 +16,9 @@
         <intent android:targetPackage="com.android.settings" android:action="android.intent.action.FORCE_TOUCH_GUIDE" />
     </PreferenceScreen>
     <Preference android:title="@string/screenshot" android:key="screenshot_settings" android:fragment="com.android.settings.display.ScreenshotFragment" />
+    <PreferenceScreen android:title="@string/screen_recorder" android:key="screencap_settings">
+        <intent android:targetPackage="com.miui.screenrecorder" android:action="android.intent.action.SCREENRECORDER_SETTINGS" />
+    </PreferenceScreen>
     <Preference android:title="@string/led_settings" android:key="led_settings" android:fragment="com.android.settings.LedSettings" />
     <Preference android:title="@string/music_headset_settings" android:key="headset_settings" android:fragment="com.android.settings.HeadsetSettings" />
     <Preference android:title="@string/key_settings_title" android:key="key_settings" android:fragment="com.android.settings.KeySettings" />
