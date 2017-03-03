@@ -217,11 +217,24 @@
   <string name="auto_mail_title_note">Find the option \"139 Mailbox Automatical Configuring\", click it to start.</string>
   <string name="auto_mail_window_description">139 Email Service Automatical Configuring</string>
   <string name="auto_mail_window_label">139 Mailbox Automatical Configuring</string>
+  <string name="auto_remind_bind">Add</string>
+  <string name="auto_remind_discribe_text">Turn on to receive automatic reminders</string>
+  <string name="auto_remind_text">Automatic reminders</string>
+  <string name="auto_remind_unbind">Stop</string>
   <string name="auto_sync_off">Auto-sync is off.</string>
+  <string name="bank_card_detail">Credit card details</string>
+  <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
   <string name="battery_saver_keywords">battery saver;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
+  <string name="bill_center_setting">Billing settings</string>
+  <string name="bill_center_setting_head">Import info from these accounts</string>
+  <string name="bill_cycle_text">Billing cycle</string>
+  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
+  <string name="bill_remind">Repayment reminder</string>
+  <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
   <string name="blank_feedback_toast">You need to write feedback</string>
   <string name="body_forward_email_text">[Forward]</string>
   <string name="body_hint">Compose email</string>
@@ -324,6 +337,8 @@
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
   <string name="create_action">New</string>
+  <string name="credit_limit_text">Credit limit</string>
+  <string name="cur_debt">Account balance</string>
   <string name="custom_from_account_label">Send mail as:</string>
   <string name="date_heading">"Date: "</string>
   <string name="date_message_received">%1$s %2$s</string>
@@ -376,9 +391,13 @@
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_message_failed_for_too_large">Message is too big to download.</string>
   <string name="draft_count_format"> (%1$s)</string>
+  <string name="drawer_bank_bill">Bank statements</string>
+  <string name="drawer_bill_title">Bills</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_contacts">Contacts</string>
   <string name="drawer_open">Open navigation drawer</string>
+  <string name="due">Due</string>
+  <string name="due_date_text">Final repayment</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Quick reply</string>
@@ -400,7 +419,7 @@
   <string name="empty_trash_dialog_title">Empty Trash?</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="error">error</string>
+  <string name="error">Error</string>
   <string name="exception_cancel">"
         This event has been canceled
         for:
@@ -419,6 +438,7 @@
   <string name="feedback_sent">Thank you for your feedback</string>
   <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
   <string name="feedback_user_edit_tag">From MIUI </string>
+  <string name="fetch_bank_sender_list_failure">"Couldn't get info"</string>
   <string name="fetching_attachment">Getting attachment</string>
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"Couldn't find file"</string>
@@ -474,6 +494,7 @@
   <string name="forward_download_failed_ticker">"Couldn't forward one or more attachments."</string>
   <string name="forward_download_failed_title">Attachment not forwarded</string>
   <string name="forward_subject_label">Fwd:</string>
+  <string name="free_period_text">Interest-free period</string>
   <string name="from_heading">"From: "</string>
   <string name="general_preference_confirm_delete_label">Confirm before deleting</string>
   <string name="general_preference_confirm_send_label">Confirm before sending</string>
@@ -508,6 +529,8 @@
   <string name="hint_quick_reply_all">Reply all</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
+  <string name="import_button_text">Import</string>
+  <string name="import_from_other_account">Import from other accounts</string>
   <string name="info_actionbar_normal_detail">Promotion</string>
   <string name="info_item_hide">Hide</string>
   <string name="info_switch_summary">Show promotions on top of the inbox</string>
@@ -516,6 +539,7 @@
   <string name="input_password_prompt">Enter your password</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
+  <string name="interact_with_server_error">"Couldn't connect to the server"</string>
   <string name="invalid_recipient">The address %s is invalid.</string>
   <string name="invalid_recipient_title">Recipient Error</string>
   <string name="kilobytes">%s KB</string>
@@ -529,7 +553,7 @@
   <string name="local_search">Local search</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">Sign in</string>
-  <string name="login139">CMCC Sign in by one key</string>
+  <string name="login139">Sign in with China Mobile</string>
   <string name="login_failed_ticker">%s signin unsuccessful.</string>
   <string name="login_failed_title">"Can't sign in"</string>
   <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
@@ -538,7 +562,8 @@
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">Combined account</string>
-  <string name="mailbox_name_display_ad">Ads &amp; notifications</string>
+  <string name="mailbox_name_display_ad">Ads</string>
+  <string name="mailbox_name_display_circular">Notifications</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -629,7 +654,7 @@
   <string name="menu_search">Search</string>
   <string name="menu_settings">Settings</string>
   <string name="merged_mailbox_compose_select_account">Select Account</string>
-  <string name="message_body_load_set_description">Load size for new emails when using mobile data</string>
+  <string name="message_body_load_set_description">Load emails when using mobile data</string>
   <string name="message_compose_insert_quick_response_list_title">Insert quick reply</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">"Can't decode the message"</string>
@@ -647,6 +672,7 @@
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Manage bills automatically</string>
+  <string name="min_payment_text">Minimum payment</string>
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_context">More</string>
   <string name="more_string">+%1$s</string>
@@ -654,6 +680,7 @@
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Mute</string>
   <string name="network_error">No connection</string>
+  <string name="network_invaild">"Can't connect to the network"</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_tip">Authentication failed, please check your network connection</string>
   <string name="network_try_again">Check network connection and try again</string>
@@ -665,9 +692,12 @@
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app was found to open this attachment.</string>
   <string name="no_application_found_title">Open this attachment.</string>
+  <string name="no_bill_discribe">"Couldn't find any bills.
+Try switching to a different email account."</string>
   <string name="no_contacts">No contacts.</string>
   <string name="no_content_in_body">[No Body]</string>
   <string name="no_conversations">No messages</string>
+  <string name="no_filtrable_email_account">No accounts to filter</string>
   <string name="no_mails">No mail.</string>
   <string name="no_matched_attachment">No results.</string>
   <string name="no_remind">Not to remind</string>
@@ -687,7 +717,7 @@
   <string name="oauth_error_description">"Couldn't authenticate"</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
   <string name="oauth_login_continue">Continue</string>
-  <string name="oauth_login_continue_qq">Get authorization code to log in &gt;</string>
+  <string name="oauth_login_continue_qq">Get a passcode and sign in &gt;</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
@@ -711,11 +741,13 @@
   <string name="outbox_alert_select_operation">Choose an action</string>
   <string name="outbox_alert_title_sent_failed">"Couldn't send mail"</string>
   <string name="outbox_no_mails">Empty</string>
+  <string name="over_due">Overdue</string>
   <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
   <string name="overlays_ok">Open permissions</string>
   <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
   <string name="overlays_title">Open floating Windows permissions</string>
   <string name="parase_setup_data">Getting data…</string>
+  <string name="parse_bill_discribe">Processing credit card bills…</string>
   <string name="password_expire_warning_content_title">Lock screen password expiring</string>
   <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for %s will be erased. Do you want to change it now?</string>
   <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
@@ -749,6 +781,8 @@
   <string name="photo_load_failed">"Couldn't load image"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
   <string name="please_fill_in_your_mailbox_information2">Enter your mailbox info</string>
+  <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
+to receive reminders about payments and trips"</string>
   <string name="policy_app_blacklist">Disallow specified apps</string>
   <string name="policy_app_whitelist">Allow only specified apps</string>
   <string name="policy_bluetooth_restricted">Restrict Bluetooth usage</string>
@@ -795,6 +829,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
+  <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Not now</string>
@@ -806,17 +841,17 @@
   <string name="push_wps_confirm_message">Try using WPS Office to open this attachment.</string>
   <string name="push_wps_confirm_title">Try WPS Office</string>
   <string name="push_wps_no_response_app">No application found to handle this action</string>
-  <string name="qq_bar_open_imap">Enable</string>
+  <string name="qq_bar_open_imap">Help</string>
   <string name="qq_bar_send_message">Send SMS</string>
-  <string name="qq_login_basecode">Logging in QQ Email via web page. Please enter your independent password.</string>
-  <string name="qq_login_get_auth">Failed to send an verification SMS? Please authenticate via password protection questions</string>
-  <string name="qq_login_open_imap">Click \"Enable\" to enable \"IMAP/SMTP\"</string>
-  <string name="qq_login_origin_setting">Input username and password to log in &gt;</string>
-  <string name="qq_login_send_message">Click \"Send SMS\" to obtain an authorization code</string>
-  <string name="qq_login_webview">Logging in QQ Email via web page. Please enter your password.</string>
-  <string name="qq_next_generation_auth_toast">Please complete the application for second-generation password protection via browser</string>
-  <string name="qq_uthentication_failed">Authentication failed, please sign in again</string>
-  <string name="qq_webview_loading">Skipping now, please wait...</string>
+  <string name="qq_login_basecode">Signing in to the web QQ Mail. Enter independent password.</string>
+  <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
+  <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
+  <string name="qq_login_origin_setting">Enter username and password to sign in &gt;</string>
+  <string name="qq_login_send_message">Tap \"Send SMS\" to get a verification code</string>
+  <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
+  <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
+  <string name="qq_uthentication_failed">"Couldn't verify account, sign in again"</string>
+  <string name="qq_webview_loading">Just a sec…</string>
   <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
   <string name="questionnair_confirm_delete">Remove</string>
   <string name="questionnair_instability">Crashes frequently</string>
@@ -941,6 +976,8 @@
   <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
   <string name="ser_resp_err_map_serclosed">%s server closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
+  <string name="service_protocol_discribe">&lt;u&gt;"I've read and agree with WPS Mail Service Agreement"&lt;/u&gt;</string>
+  <string name="service_protocol_title">Service Agreement</string>
   <string name="set_network">Set network</string>
   <string name="setting_default_lable"/>
   <string name="settings_activity_title">Settings</string>
@@ -997,6 +1034,7 @@
   <string name="toast_bar_invalid_account">You need to sign in again</string>
   <string name="toast_bar_no_connection_network">"You don't have an internet connection"</string>
   <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
+  <string name="today_text">Today</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
@@ -1019,7 +1057,10 @@
     between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
+  <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing bills.
+Stop now?"</string>
   <string name="undo">Undo</string>
+  <string name="unknow">Unknown</string>
   <string name="unread_string">conversation unread</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
@@ -1045,12 +1086,12 @@
 Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Settings&lt;/b&gt; to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
   <string name="wait_help_context">wait</string>
-  <string name="webview_logout">Do you really want to give up logging in? Come on and Try again!</string>
-  <string name="webview_logout_cancel">"Won't try any more"</string>
-  <string name="webview_logout_sure">Try once more</string>
+  <string name="webview_logout">You can try to sign in again</string>
+  <string name="webview_logout_cancel">Not now</string>
+  <string name="webview_logout_sure">Try again</string>
   <string name="webview_sslerror_handle_cancel">Cancel</string>
   <string name="webview_sslerror_handle_continue">Continue</string>
-  <string name="webview_sslerror_handle_hitmessage">Certificate Error! Continue to this website (not recommended)?</string>
+  <string name="webview_sslerror_handle_hitmessage">A certificate error occurred, proceed anyway?</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
