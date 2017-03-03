@@ -1853,164 +1853,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>四核最高2.15GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
-        <item>骁龙820</item>
-        <item>3000mAh</item>
-        <item>32GB</item>
-        <item>5.15英寸</item>
-        <item>全网通3.0</item>
-        <item>16MP</item>
+        <item>Android版本</item>
+        <item>处理器</item>
+        <item>电池容量</item>
+        <item>屏幕尺寸</item>
+        <item>分辨率</item>
+        <item>后置摄像头</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>最高主频1.8GHz</item>
-        <item>超长待机</item>
-        <item>机身存储</item>
-        <item>3D陶瓷/玻璃机身</item>
-        <item>4G双卡双待</item>
-        <item>四轴防抖相机</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_summary">
-        <item>骁龙820 处理器</item>
-        <item>4轴防抖相机</item>
-        <item>3D曲面玻璃，129克轻</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_secondary">
-        <item>高通骁龙 820 处理器，CPU 性能翻倍，提速 87% 的 UFS 闪存</item>
-        <item>16MP 索尼 iMX298 相机，蓝宝石镜头保护</item>
-        <item>大猩猩 4 代玻璃，95%NTSC 高色彩饱和度，600nit 屏幕亮度</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_1">
-        <item>GB</item>
-        <item>16MP</item>
-        <item>95%NTSC</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_2">
-        <item>GB</item>
-        <item>蓝宝石</item>
-        <item>600nit</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_3">
-        <item>内存</item>
-        <item>索尼iMX298相机</item>
-        <item>高色彩饱和度</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_display_description_text_4">
-        <item>内存</item>
-        <item>镜头保护玻璃</item>
-        <item>屏幕亮度</item>
-    </string-array>
-    <string-array name="hardware_parameters_title">
-        <item>"处理器
-与内存"</item>
-        <item>"重量
-与尺寸"</item>
-        <item>"续航
-与快充"</item>
-        <item>拍照</item>
-        <item>摄像</item>
-        <item>显示屏</item>
-        <item>"全网通
-双卡和
-移动网络"</item>
-        <item>导航定位</item>
-        <item>感应器</item>
-        <item>"多媒体
-播放"</item>
-    </string-array>
-    <string-array name="hardware_parameters_summary">
-        <item>"标准版
-骁龙820 最高主频 1.8GHz
-Adreno 530 图形处理器 510MHz
-3GB LPDDR4 1333MHz 双通道
-32GB 机身存储 UFS2.0
-
-高配版
-骁龙820 最高主频 2.15GHz
-Adreno 530 图形处理器 624MHz
-3GB LPDDR4 1866MHz 双通道
-64GB 机身存储 UFS2.0
-
-尊享版
-骁龙820 最高主频 2.15GHz
-Adreno 530 图形处理器 624MHz
-4GB LPDDR4 1866MHz 双通道
-128GB 机身存储 UFS2.0"</item>
-        <item>"高度：144.55 mm
-宽度：69.2 mm
-厚度：7.25 mm
-重量：标准版/高配版/3D玻璃尊享版约129g；3D陶瓷尊享版约139g"</item>
-        <item>"3000 mAh(typ)/2910 mAh(min)超长续航
-内置电池，免更换
-新一代快充 3.0 技术
-USB Type-C 双面充电接口"</item>
-        <item>"1600 万像素相机
-4 轴光学防抖，校正 8 个方向抖动
-6片式镜头，f/2.0 光圈
-蓝宝石玻璃保护镜片
-双色温闪光灯
-DTI 画质增强，深槽隔离技术降低颜色串扰
-支持 PDAF 相位对焦
-支持 32 秒手动曝光高通第二代 ISP
-暗光增强技术
-高动态范围调节技术
-全景模式
-自动 HDR 拍照
-连拍模式
-面部识别功能
-
-400万像素相机
-第二代 36 级智能美颜，自拍实时美颜
-单个像素大至 2 微米，ƒ/2.0 光圈，80° 大广角
-视频通话实时美颜
-倒计时自拍
-面部识别功能
-
-视频拍摄
-4K 视频拍摄，30 fps
-1080p 视频拍摄，30 fps
-720p 视频拍摄，30 fps
-720p 慢动作视频，120 fps"</item>
-        <item>"4K 视频拍摄，30 fps
-1080p 视频拍摄，30 fps
-720p 视频拍摄，30 fps
-1080p 慢动作视频，120 fps"</item>
-        <item>"5.15 英寸 省电高亮屏幕
-600nit 高亮度
-1920 x 1080 分辨率，428 PPI，1500:1 对比度
-95% NTSC色域，高色彩饱和度
-支持阳光屏，强烈阳光下清晰可见屏幕内容
-支持夜光屏
-支持护眼模式"</item>
-        <item>"标准版 2xCA 全网通3.0
-双Nano-SIM卡槽，任意卡槽均可设置为主卡
-支持移动、联通、电信 4G+/4G/3G/2G
-当为主卡移动、联通4G时，副卡突破性的最高支持联通 3G 网络语音电话
-
-两张电信卡无法同时使用：
-同时使用一张卡可使用 4G 网络，另一张卡将不能注册网络
-蓝牙 4.2 无线技术，蓝牙 HID
-全功能 NFC，支持读卡、写卡、卡模拟和 P2P 模式"</item>
-        <item>"GPS
-AGPS
-GLONASS
-北斗定位"</item>
-        <item>"红外
-陀螺仪
-加速感应器
-距离感应器
-环境光传感器
-霍尔感应器
-电子罗盘
-气压计"</item>
-        <item>"MP4/M4V/MKV/XVID/WAV/AAC/MP3/AMR/FLAC/APE/DSD
-支持H.265/HEVC(Main profile)、H.264 (Baseline/Main/High profile)、MPEG4 (Simple profile/ASP)VC-1(Simple/Main/Advanced profile)等视频格式
-支持PCM、AAC/AAC+/eAAC+、MP3、AMR–NB and WB、FLAC、APE、DSD、WAV等音频格式"</item>
-    </string-array>
-    <string-array name="standard_configuration_version_device_info_title">
-        <item>小米手机 5</item>
-        <item>小米手机 5 特色功能</item>
-    </string-array>
-    <string-array name="standard_configuration_version_share_text">
-        <item>"小米手机5，快的有点狠!
-http://m.mi.com"</item>
+        <item>6.0.1</item>
+        <item>骁龙821处理器</item>
+        <item>3000mAh</item>
+        <item>5.7英寸</item>
+        <item>1920 × 1080像素</item>
+        <item>2256万像素</item>
     </string-array>
 </resources>
