@@ -1911,6 +1911,37 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>四核最高2.5GHz</item>
+    </string-array>
+    <string-array name="high_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="enjoy_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>四核最高2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>Android版本</item>
+        <item>处理器</item>
+        <item>电池容量</item>
+        <item>屏幕尺寸</item>
+        <item>分辨率</item>
+        <item>后置摄像头</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>6.0.1</item>
+        <item>骁龙650处理器</item>
+        <item>4850mAh</item>
+        <item>6.44英寸</item>
+        <item>1920 × 1080像素</item>
+        <item>1600万像素</item>
+    </string-array>
     <item type="array" name="APKTOOL_DUMMY_104">false</item>
     <item type="array" name="APKTOOL_DUMMY_105">false</item>
     <item type="array" name="APKTOOL_DUMMY_106">false</item>

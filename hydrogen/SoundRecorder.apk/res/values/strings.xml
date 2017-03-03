@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_97">false</string>
-  <string name="APKTOOL_DUMMY_98">false</string>
-  <string name="APKTOOL_DUMMY_99">false</string>
   <string name="APKTOOL_DUMMY_9a">false</string>
   <string name="APKTOOL_DUMMY_9b">false</string>
   <string name="APKTOOL_DUMMY_9c">false</string>
@@ -33,6 +30,9 @@
   <string name="APKTOOL_DUMMY_b5">false</string>
   <string name="APKTOOL_DUMMY_b6">false</string>
   <string name="APKTOOL_DUMMY_b7">false</string>
+  <string name="APKTOOL_DUMMY_b8">false</string>
+  <string name="APKTOOL_DUMMY_b9">false</string>
+  <string name="APKTOOL_DUMMY_ba">false</string>
   <string name="alert_message_clear_records">Delete selected recordings?</string>
   <string name="alert_message_delete_record">Deleting the recording from your device will also delete this recording from Mi Cloud. Delete now?</string>
   <string name="alert_message_delete_record_title">Delete recording?</string>
@@ -71,6 +71,9 @@
   <string name="error_sdcard_access">"Can't access storage"</string>
   <string name="error_sdcard_unmounted">Insert SD card now</string>
   <string name="export_to_note">Export to Notes</string>
+  <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
+  <string name="head_set_tip_dialog_ok">Got it</string>
+  <string name="head_set_tip_dialog_title">Use internal mic</string>
   <string name="invalid_argument">Invalid argument</string>
   <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
   <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>

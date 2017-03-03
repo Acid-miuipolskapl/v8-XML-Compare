@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_19f">false</string>
-  <string name="APKTOOL_DUMMY_1a0">false</string>
-  <string name="APKTOOL_DUMMY_1a1">false</string>
-  <string name="APKTOOL_DUMMY_1a2">false</string>
-  <string name="APKTOOL_DUMMY_1a3">false</string>
-  <string name="APKTOOL_DUMMY_1a4">false</string>
-  <string name="APKTOOL_DUMMY_1a5">false</string>
   <string name="APKTOOL_DUMMY_1a6">false</string>
   <string name="APKTOOL_DUMMY_1a7">false</string>
   <string name="APKTOOL_DUMMY_1a8">false</string>
@@ -16,18 +9,11 @@
   <string name="APKTOOL_DUMMY_1ac">false</string>
   <string name="APKTOOL_DUMMY_1ad">false</string>
   <string name="APKTOOL_DUMMY_1ae">false</string>
-  <string name="APKTOOL_DUMMY_1af">false</string>
-  <string name="APKTOOL_DUMMY_1b0">false</string>
-  <string name="APKTOOL_DUMMY_1b1">false</string>
-  <string name="APKTOOL_DUMMY_1b2">false</string>
-  <string name="APKTOOL_DUMMY_1b3">false</string>
-  <string name="APKTOOL_DUMMY_1b4">false</string>
-  <string name="APKTOOL_DUMMY_1b5">false</string>
-  <string name="APKTOOL_DUMMY_1b6">false</string>
-  <string name="APKTOOL_DUMMY_1b7">false</string>
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account not activated</string>
+  <string name="ad_app_download_start">Starting download…</string>
+  <string name="ad_app_is_downloading">Downloading…</string>
   <string name="add_resource_detail_fail">"Can't add resource"</string>
   <string name="all_resources">All</string>
   <string name="app_name">Themes</string>
@@ -434,6 +420,7 @@
   <string name="title_system_audio_resource">System ringtones</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
+  <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"Can't load wallpaper"</string>
   <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
@@ -441,4 +428,8 @@
   <string name="wallpaper_set_as_destop">Set as Home screen</string>
   <string name="wallpaper_set_as_lockscreen">Set as Lock screen</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
+  <string name="wallpaper_settings_change_wallpaper">Change</string>
+  <string name="wallpaper_settings_desktop_text">Home screen</string>
+  <string name="wallpaper_settings_lockscreen_text">Lock screen</string>
+  <string name="wallpaper_settings_page_title">wallpaper</string>
 </resources>

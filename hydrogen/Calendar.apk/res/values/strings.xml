@@ -59,15 +59,6 @@
   <string name="APKTOOL_DUMMY_281">false</string>
   <string name="APKTOOL_DUMMY_282">false</string>
   <string name="APKTOOL_DUMMY_283">false</string>
-  <string name="APKTOOL_DUMMY_284">false</string>
-  <string name="APKTOOL_DUMMY_285">false</string>
-  <string name="APKTOOL_DUMMY_286">false</string>
-  <string name="APKTOOL_DUMMY_287">false</string>
-  <string name="APKTOOL_DUMMY_288">false</string>
-  <string name="APKTOOL_DUMMY_289">false</string>
-  <string name="APKTOOL_DUMMY_28a">false</string>
-  <string name="APKTOOL_DUMMY_28b">false</string>
-  <string name="APKTOOL_DUMMY_28c">false</string>
   <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
@@ -103,7 +94,7 @@
   <string name="alert_reminder_expired">Expired</string>
   <string name="alert_title">Calendar notifications</string>
   <string name="anniversary_card_title">Anniversary</string>
-  <string name="anniversary_event_title">[Anniversary]%1$s</string>
+  <string name="anniversary_event_title">Anniversary: %1$s</string>
   <string name="app_label">Calendar</string>
   <string name="birthday_calendar_display_name">Birthday reminders</string>
   <string name="birthday_card_title">"Today's birthdays"</string>
@@ -119,8 +110,8 @@
   <string name="birthday_event_description_tomorrow">Tomorrow is</string>
   <string name="birthday_event_description_yesterday">Yesterday was</string>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-  <string name="birthday_metric"/>
-  <string name="birthday_notification_age_term"/>
+  <string name="birthday_metric">-year-old</string>
+  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
@@ -135,7 +126,7 @@
   <string name="button_week">Week</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Refresh</string>
-  <string name="can_not_create_long_event">Event content is too long</string>
+  <string name="can_not_create_long_event">Event name is too long</string>
   <string name="can_not_modify_allday_event">"Can't change all day event"</string>
   <string name="can_not_modify_event">"Can't change event"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
@@ -157,10 +148,10 @@
   <string name="chongsha">冲煞</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
-  <string name="countdown_card_title">Countdown Days</string>
-  <string name="countdown_event_title">[Countdown]%1$s</string>
-  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s in 3 days</string>
-  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_card_title">Countdown</string>
+  <string name="countdown_event_title">Countdown: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Countdown: %1$s in 3 days</string>
+  <string name="countdown_notify_title">Countdown: %1$s</string>
   <string name="countdown_today">Today</string>
   <string name="create_an_account_desc">"Calendar works better with a Mi Account.
 
@@ -205,8 +196,8 @@
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
-  <string name="edit_event_anniversary_name_empty_hint">Please enter a anniversary</string>
-  <string name="edit_event_anniversary_name_hint">Content</string>
+  <string name="edit_event_anniversary_name_empty_hint">Enter event name</string>
+  <string name="edit_event_anniversary_name_hint">Event</string>
   <string name="edit_event_birthday_import_from_contact">Import birthday from contacts</string>
   <string name="edit_event_birthday_name_empty_hint">Enter a name</string>
   <string name="edit_event_birthday_name_hint">Name</string>
@@ -214,8 +205,8 @@
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_choose_date">Choose date</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
-  <string name="edit_event_countdown_name_empty_hint">Please enter countdown content</string>
-  <string name="edit_event_countdown_name_hint">Content</string>
+  <string name="edit_event_countdown_name_empty_hint">Enter event name</string>
+  <string name="edit_event_countdown_name_hint">Event</string>
   <string name="edit_event_from_label">From</string>
   <string name="edit_event_input_year">Enter year</string>
   <string name="edit_event_label">Details</string>
