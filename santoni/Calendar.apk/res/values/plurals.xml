@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">1 hour ago</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">1 day ago</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">WEEK %d</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d events</item>
+        <item quantity="one">1 event</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d events</item>
+        <item quantity="one">+1 event</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d days ago at %2$s</item>
+        <item quantity="one">%1$d day ago at %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">In %1$d days at %2$s</item>
+        <item quantity="one">In %1$d day at %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d weeks ago</item>
+        <item quantity="one">1 week ago</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Anniversary: %2$d years since %1$s</item>
+        <item quantity="one">Anniversary: %2$d year since %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Anniversary: %2$d years since %1$s in 3 days</item>
+        <item quantity="one">Anniversary: %2$d year since %1$s in 3 days</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">years</item>
+        <item quantity="one">year</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">days</item>
+        <item quantity="one">day</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">days later</item>
+        <item quantity="one">day later</item>
+    </plurals>
+</resources>
