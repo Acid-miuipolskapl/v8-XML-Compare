@@ -9,16 +9,16 @@
         <item quantity="one">%1$d天后</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes before</item>
+        <item quantity="one">1 minute before</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">1 hour ago</item>
+        <item quantity="other">%d hours before</item>
+        <item quantity="one">1 hour before</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">1 day ago</item>
+        <item quantity="other">%d days before</item>
+        <item quantity="one">1 day before</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">WEEK %d</item>

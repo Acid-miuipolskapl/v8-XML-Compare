@@ -83,7 +83,7 @@
   <string name="login_sync">Sign in &amp; sync</string>
   <string name="menu_create_folder">New folder</string>
   <string name="menu_delete">Delete</string>
-  <string name="menu_delete_forever">Delete forever</string>
+  <string name="menu_delete_forever">Delete permanently</string>
   <string name="menu_folders">Folders</string>
   <string name="menu_hide">Hide</string>
   <string name="menu_move_parent_folder">Parent folder</string>
