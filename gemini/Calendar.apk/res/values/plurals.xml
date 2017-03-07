@@ -64,8 +64,8 @@
         <item quantity="one">day</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">days later</item>
-        <item quantity="one">day later</item>
+        <item quantity="other">days left</item>
+        <item quantity="one">day left</item>
     </plurals>
     <item type="plurals" name="APKTOOL_DUMMY_12">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_13">false</item>
