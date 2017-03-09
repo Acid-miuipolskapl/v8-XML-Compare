@@ -1479,18 +1479,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
     </string-array>
-    <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
-    </string-array>
-    <string-array name="fluency_mode_summaries">
-        <item>"Speeds up device's performance"</item>
-        <item>"May slow down device's performance"</item>
-    </string-array>
-    <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
-    </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>
         <item>Normal (720p)</item>
@@ -1614,6 +1602,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>pe</item>
         <item>ph</item>
         <item>pl</item>
+        <item>pt</item>
         <item>qa</item>
         <item>ro</item>
         <item>ru</item>
@@ -1790,8 +1779,8 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
         <item>4.4</item>
-        <item>联发科 MT6795M</item>
-        <item>3020mAh</item>
+        <item>联发科 Helio X10</item>
+        <item>3060mAh</item>
         <item>5.5英寸</item>
         <item>1920 x 1080像素</item>
         <item>1300万像素</item>
