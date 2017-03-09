@@ -1602,6 +1602,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>pe</item>
         <item>ph</item>
         <item>pl</item>
+        <item>pt</item>
         <item>qa</item>
         <item>ro</item>
         <item>ru</item>
@@ -1778,8 +1779,8 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
         <item>4.4</item>
-        <item>联发科 MT6795M</item>
-        <item>3020mAh</item>
+        <item>联发科 Helio X10</item>
+        <item>4000mAh</item>
         <item>5.5英寸</item>
         <item>1920 x 1080像素</item>
         <item>1300万像素</item>
