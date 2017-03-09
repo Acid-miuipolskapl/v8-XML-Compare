@@ -9,16 +9,16 @@
         <item quantity="one">%1$d天后</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes before</item>
+        <item quantity="one">1 minute before</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">1 hour ago</item>
+        <item quantity="other">%d hours before</item>
+        <item quantity="one">1 hour before</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">1 day ago</item>
+        <item quantity="other">%d days before</item>
+        <item quantity="one">1 day before</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">WEEK %d</item>
@@ -44,8 +44,8 @@
         <item quantity="one">In %1$d day at %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d weeks ago</item>
-        <item quantity="one">1 week ago</item>
+        <item quantity="other">%d weeks before</item>
+        <item quantity="one">1 week before</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Anniversary: %2$d years since %1$s</item>
@@ -64,7 +64,7 @@
         <item quantity="one">day</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">days later</item>
-        <item quantity="one">day later</item>
+        <item quantity="other">days left</item>
+        <item quantity="one">day left</item>
     </plurals>
 </resources>
