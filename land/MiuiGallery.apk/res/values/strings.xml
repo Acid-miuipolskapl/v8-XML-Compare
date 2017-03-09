@@ -134,6 +134,7 @@
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
   <string name="backup_cta_not_allow">"Can't access network"</string>
   <string name="backup_cta_not_allow_btn_text">Allow</string>
+  <string name="backup_detail_page_empty">No photos or videos waiting for backup</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_device_space_low_btn_text">Clear</string>
   <string name="backup_device_space_low_desc">Free up storage to continue backing up items</string>

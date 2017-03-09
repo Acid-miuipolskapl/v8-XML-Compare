@@ -4330,7 +4330,7 @@ Tap the plus to add words."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">Switch between data and WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">WLAN assistant Manager</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and WLAN on to switch to data when WLAN connectivity is poor.</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
@@ -4365,7 +4365,7 @@ Tap the plus to add words."</string>
   <string name="wifi_master_key_dialog_content_password">Password</string>
   <string name="wifi_master_key_dialog_title">Connect using</string>
   <string name="wifi_master_key_name">WLAN Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password."</string>
+  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password. You can also %1$s。"</string>
   <string name="wifi_master_key_service_dialog_title">Shared WLAN networks</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_connect">Connect to network</string>

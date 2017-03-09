@@ -502,7 +502,7 @@ Pages you view won't appear in history."</string>
   <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>
   <string name="geolocation_permissions_prompt_share">Share location</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location info. To change this go to Settings &gt; Advanced &gt; Website data.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location info. You can change this in Settings.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel</string>
   <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
@@ -516,7 +516,7 @@ Pages you view won't appear in history."</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="hint">Hint</string>
-  <string name="history_saved_webpage">Save page</string>
+  <string name="history_saved_webpage">Saved pages</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Delete</string>
   <string name="homepage_get_location">Get location</string>
@@ -731,7 +731,7 @@ Leave this page?"</string>
   <string name="pref_file_download_save_modify_default_path">Downloads location</string>
   <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Swipe from edge</string>
-  <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge of the screen</string>
+  <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge</string>
   <string name="pref_font_size_category">Webpage text size</string>
   <string name="pref_force_userscalable">Force zoom</string>
   <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behavior"</string>

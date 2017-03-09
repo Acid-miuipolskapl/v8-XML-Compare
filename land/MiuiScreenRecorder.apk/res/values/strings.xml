@@ -15,11 +15,8 @@
   <string name="cancel_edit">Cancel</string>
   <string name="cannot_change_parames">"Couldn't change parameters while recording"</string>
   <string name="date_day"/>
-  <string name="date_month">-</string>
-  <string name="date_year">,</string>
-  <string name="delete_confirm_text">Delete this screen recording?</string>
-  <string name="delete_confirm_text_multi1">Delete</string>
-  <string name="delete_confirm_text_multi2">screen recordings?</string>
+  <string name="date_month">/</string>
+  <string name="date_year">/</string>
   <string name="deselect_all">Deselect all</string>
   <string name="error_open_file_failed_no_app_found">"Couldn't find an app to open this file"</string>
   <string name="frames">Frame rate</string>
@@ -42,7 +39,7 @@
   <string name="memory_not_allowed">No available storage. Free up some storage to record.</string>
   <string name="mic_sound">Mic</string>
   <string name="no_recorder_info">No videos here</string>
-  <string name="no_recorder_info2">Tap the plus to add a screen recording.​</string>
+  <string name="no_recorder_info2">Tap the button to add a screen recording​</string>
   <string name="no_sound">Mute</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_send">Send</string>
