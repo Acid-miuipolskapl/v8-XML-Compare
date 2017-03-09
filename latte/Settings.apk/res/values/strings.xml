@@ -1442,8 +1442,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
-  <string name="fluency_mode">System animations</string>
-  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Larger</string>
@@ -2169,7 +2167,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
