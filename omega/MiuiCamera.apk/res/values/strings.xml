@@ -418,8 +418,8 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_zoom_mode_default">@string/pref_camera_zoom_mode_entryvalue_wide</string>
   <string name="pref_camera_zoom_mode_entry_tele">tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">wide</string>
-  <string name="pref_camera_zoom_mode_entryvalue_tele">@string/pref_camera_zoom_ratio_tele</string>
-  <string name="pref_camera_zoom_mode_entryvalue_wide">@string/pref_camera_zoom_ratio_wide</string>
+  <string name="pref_camera_zoom_mode_entryvalue_tele">Tele</string>
+  <string name="pref_camera_zoom_mode_entryvalue_wide">Wide</string>
   <string name="pref_camera_zoom_mode_title">Zoom</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
   <string name="pref_camera_zoom_ratio_wide">100</string>
