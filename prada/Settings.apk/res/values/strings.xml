@@ -884,8 +884,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="credentials_configure_lock_screen_hint">You need to set a Lock screen PIN or password before you can use credential storage.</string>
   <string name="credentials_enabled">Credential storage is enabled.</string>
   <string name="credentials_erased">Credential storage is erased.</string>
-  <string name="credentials_install">Install from storage</string>
-  <string name="credentials_install_summary">Install certificates from storage</string>
+  <string name="credentials_install">Install from SD card</string>
+  <string name="credentials_install_summary">Install certificates from SD card</string>
   <string name="credentials_not_erased">Credential storage couldn’t be erased.</string>
   <string name="credentials_old_password">Current password:</string>
   <string name="credentials_password_too_short">8 characters minimum</string>
@@ -1026,9 +1026,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_usage_pick_cycle_day">Day of month to reset data usage cycle:</string>
   <string name="data_usage_received_sent">%1$s received, %2$s sent</string>
   <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
-  <string name="data_usage_restrict_background_multiuser">"If you restrict background cellular data, some apps and services won’t work unless you’re connected to Wi‑Fi.
-
-This setting affects all users on this phone."</string>
+  <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work properly unless you're connected to a WLAN network."</string>
   <string name="data_usage_restrict_background_title">Restrict background data?</string>
   <string name="data_usage_restrict_denied_dialog">Restricting background data is possible only when you’ve set a cellular data limit.</string>
   <string name="data_usage_summary_title">Data usage</string>
@@ -1182,9 +1180,9 @@ This setting affects all users on this phone."</string>
   <string name="display_settings_title">Display</string>
   <string name="dlg_cancel">Cancel</string>
   <string name="dlg_close">Close</string>
-  <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
-  <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
-  <string name="dlg_error_unmount_text">Couldn’t unmount USB storage. Try again later.</string>
+  <string name="dlg_confirm_unmount_text">If you unmount the SD card, some apps you are using will stop and may be unavailable until you remount the SD card.</string>
+  <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
+  <string name="dlg_error_unmount_text">Couldn’t unmount SD card. Try again later.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dlg_switch">Switch</string>
@@ -1348,12 +1346,12 @@ This helps protect data on lost or stolen devices."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
 
 This helps protect data on lost or stolen devices."</string>
-  <string name="enforce_read_external_confirm_message">"When USB storage is protected, apps must request permission to read data from external storage.
+  <string name="enforce_read_external_confirm_message">"When SD card is protected, apps must request permission to read data from external storage.
 
 Some apps may not work until updated by their developers."</string>
-  <string name="enforce_read_external_confirm_title">Protect USB storage?</string>
-  <string name="enforce_read_external_summary">Apps must request permission to read USB storage</string>
-  <string name="enforce_read_external_title">Protect USB storage</string>
+  <string name="enforce_read_external_confirm_title">Protect SD card?</string>
+  <string name="enforce_read_external_summary">Apps must request permission to read SD card</string>
+  <string name="enforce_read_external_title">Protect SD card</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE data to enhance voice and communications (Recommended)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
   <string name="enter_password">Enter current lock screen password to decrypt device after reboot</string>
@@ -1362,8 +1360,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="erase_application">Erase apps</string>
   <string name="erase_application_description">Erase downloaded apps</string>
   <string name="erase_data">Erase</string>
-  <string name="erase_external_storage">Erase USB storage</string>
-  <string name="erase_external_storage_description">Erase all the data on the internal USB storage, such as music or photos</string>
+  <string name="erase_external_storage">Erase SD card</string>
+  <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos</string>
   <string name="erase_internal_storage">Erase stored content</string>
   <string name="erase_internal_storage_description">Erase music, photos, videos, and other user data</string>
   <string name="erase_optional">Optional</string>
@@ -1380,7 +1378,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="every_day">Every day</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
-  <string name="external_data_size_label">USB storage data</string>
+  <string name="external_data_size_label">SD card</string>
   <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
   <string name="extreme_threats_title">Extreme threats</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
@@ -1396,7 +1394,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_all">All</string>
   <string name="filter_apps_cached">Cached</string>
   <string name="filter_apps_disabled">Disabled</string>
-  <string name="filter_apps_onsdcard">USB storage</string>
+  <string name="filter_apps_onsdcard">On SD card</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
@@ -2044,7 +2042,7 @@ You are currently signed into the following accounts:
 "&lt;li&gt;Other user data&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&gt; needs to be erased.</string>
+To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; needs to be erased.</string>
   <string name="master_clear_erase_application_progress">Erasing apps…</string>
   <string name="master_clear_failed">No reset was performed because the System Clear service isn’t available.</string>
   <string name="master_clear_final_button_text">Erase everything</string>
@@ -2170,7 +2168,7 @@ There are other users present on this device.
   <string name="move_app_failed_dlg_text">Couldn’t move app. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Move to phone</string>
-  <string name="move_app_to_sdcard">Move to USB storage</string>
+  <string name="move_app_to_sdcard">Move to SD card</string>
   <string name="moving">Moving</string>
   <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Download driver</string>
@@ -2214,7 +2212,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2964,32 +2962,32 @@ To use screen pinning:
   <string name="screenshot">Screenshot</string>
   <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
   <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
-  <string name="sd_card_settings_label">USB storage</string>
-  <string name="sd_card_storage">USB storage</string>
-  <string name="sd_eject">Unmount shared storage</string>
-  <string name="sd_eject_summary">Unmount the internal USB storage</string>
+  <string name="sd_card_settings_label">SD card</string>
+  <string name="sd_card_storage">SD card storage</string>
+  <string name="sd_eject">Unmount SD card</string>
+  <string name="sd_eject_summary">Unmount the SD card so you can safely remove it</string>
   <string name="sd_ejecting_summary">Unmount in progress</string>
   <string name="sd_ejecting_title">Unmounting</string>
-  <string name="sd_format">Erase USB storage</string>
-  <string name="sd_format_summary">Erases all data on the internal USB storage, such as music and photos</string>
-  <string name="sd_insert_summary">Insert USB storage for mounting</string>
-  <string name="sd_memory">USB storage</string>
-  <string name="sd_mount">Mount USB storage</string>
+  <string name="sd_format">Erase SD card</string>
+  <string name="sd_format_summary">Erases all data on the SD card, such as music and photos</string>
+  <string name="sd_insert_summary">Insert an SD card for mounting</string>
+  <string name="sd_memory">SD card</string>
+  <string name="sd_mount">Mount SD card</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
-  <string name="sdcard_format">Erase USB storage</string>
-  <string name="sdcard_setting">USB storage</string>
+  <string name="sdcard_format">Erase SD card</string>
+  <string name="sdcard_setting">SD card</string>
   <string name="sdcard_settings_available_bytes_label">Available bytes:</string>
-  <string name="sdcard_settings_bad_removal_status">USB storage was removed while still in use!</string>
-  <string name="sdcard_settings_mass_storage_status">USB storage is being used as a mass storage device.</string>
-  <string name="sdcard_settings_not_present_status">USB storage not mounted.</string>
-  <string name="sdcard_settings_read_only_status">USB storage mounted read-only.</string>
-  <string name="sdcard_settings_scanning_status">Scanning USB storage for media…</string>
+  <string name="sdcard_settings_bad_removal_status">SD card was removed while still in use!</string>
+  <string name="sdcard_settings_mass_storage_status">SD card is being used as a mass storage device.</string>
+  <string name="sdcard_settings_not_present_status">No SD card.</string>
+  <string name="sdcard_settings_read_only_status">SD card mounted read-only.</string>
+  <string name="sdcard_settings_scanning_status">Scanning SD card for media…</string>
   <string name="sdcard_settings_screen_mass_storage_text">Enable USB mass storage</string>
   <string name="sdcard_settings_total_bytes_label">Total bytes:</string>
-  <string name="sdcard_settings_unmounted_status">It’s now safe to remove the USB storage.</string>
+  <string name="sdcard_settings_unmounted_status">It’s now safe to remove the SD card.</string>
   <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
-  <string name="sdcard_unmount">Unmount USB storage</string>
+  <string name="sdcard_unmount">Unmount SD card</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
   <string name="se_wallet_ese">Mi Pay and NFC transport card</string>
@@ -3601,7 +3599,7 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
   <string name="storage_other_users">Other users</string>
   <string name="storage_rename_title">Rename storage</string>
   <string name="storage_settings">Storage</string>
-  <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
+  <string name="storage_settings_summary">Unmount SD card, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>
   <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary_format">%1$s used in %2$s</string>
@@ -3900,7 +3898,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
-  <string name="unmount_inform_text">USB storage will be unmounted.</string>
+  <string name="unmount_inform_text">SD card will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
   <string name="upload_debug_log_summary">The information we collect may contain your personal data. It will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
@@ -4276,7 +4274,7 @@ Tap the plus to add words."</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
+  <string name="wifi_connect_failed_message">"Couldn't connect to WLAN network"</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
@@ -4330,7 +4328,7 @@ Tap the plus to add words."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">Switch between data and WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">WLAN assistant Manager</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and WLAN on to switch to data when WLAN connectivity is poor.</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
@@ -4365,7 +4363,7 @@ Tap the plus to add words."</string>
   <string name="wifi_master_key_dialog_content_password">Password</string>
   <string name="wifi_master_key_dialog_title">Connect using</string>
   <string name="wifi_master_key_name">WLAN Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password."</string>
+  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password. You can also %1$s。"</string>
   <string name="wifi_master_key_service_dialog_title">Shared WLAN networks</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_connect">Connect to network</string>

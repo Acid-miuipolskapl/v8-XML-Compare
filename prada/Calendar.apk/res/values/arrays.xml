@@ -338,7 +338,7 @@
         <item>1 week before</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Locale default</item>
+        <item>Region default</item>
         <item>Saturday</item>
         <item>Sunday</item>
         <item>Monday</item>
