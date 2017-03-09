@@ -1608,18 +1608,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
     </string-array>
-    <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
-    </string-array>
-    <string-array name="fluency_mode_summaries">
-        <item>"Speeds up device's performance"</item>
-        <item>"May slow down device's performance"</item>
-    </string-array>
-    <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
-    </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
         <item>M</item>
@@ -1717,6 +1705,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>pe</item>
         <item>ph</item>
         <item>pl</item>
+        <item>pt</item>
         <item>qa</item>
         <item>ro</item>
         <item>ru</item>
@@ -1937,15 +1926,18 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version_description_secondary">
         <item>6.0.1</item>
         <item>骁龙650处理器</item>
-        <item>4850mAh</item>
+        <item>4760mAh</item>
         <item>6.44英寸</item>
         <item>1920 × 1080像素</item>
         <item>1600万像素</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_101">false</item>
+    <item type="array" name="APKTOOL_DUMMY_102">false</item>
+    <item type="array" name="APKTOOL_DUMMY_103">false</item>
     <item type="array" name="APKTOOL_DUMMY_104">false</item>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
+    <item type="array" name="APKTOOL_DUMMY_108">false</item>
+    <item type="array" name="APKTOOL_DUMMY_109">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10a">false</item>
     <item type="array" name="APKTOOL_DUMMY_10b">false</item>
     <item type="array" name="APKTOOL_DUMMY_10c">false</item>
     <item type="array" name="APKTOOL_DUMMY_10d">false</item>
