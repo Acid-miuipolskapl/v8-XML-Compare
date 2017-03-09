@@ -20,18 +20,8 @@
         <item>@string/follow_tip_1</item>
         <item>@string/follow_tip_2</item>
     </string-array>
-    <string-array name="array_share_youliao">
-        <item>@string/share_youliao1</item>
-        <item>@string/share_youliao2</item>
-        <item>@string/share_youliao3</item>
-        <item>@string/share_youliao4</item>
-    </string-array>
     <string-array name="array_share_tip">
         <item>@string/share_tip_1</item>
         <item>@string/share_tip_2</item>
-    </string-array>
-    <string-array name="array_welcome_to_my_home">
-        <item>@string/welcome_to_my_page_1</item>
-        <item>@string/welcome_to_my_page_2</item>
     </string-array>
 </resources>
