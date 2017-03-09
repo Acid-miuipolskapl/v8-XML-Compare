@@ -44,8 +44,8 @@
         <item quantity="one">In %1$d day at %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d weeks ago</item>
-        <item quantity="one">1 week ago</item>
+        <item quantity="other">%d weeks before</item>
+        <item quantity="one">1 week before</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Anniversary: %2$d years since %1$s</item>
