@@ -90,10 +90,10 @@
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="force_exit_message">Force closed %1$s</string>
   <string name="force_exit_skip_message">"Can't close %1$s because it's required by the system."</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">You can return to your Home screen lightly tapping the Home button. Just go to Settings &gt; Additional settings &gt; Buttons and turn on Tap for Home screen.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">You can return to your Home screen by lightly tapping the Home button. You can turn this feature on and off in Settings &gt; Additional settings &gt; Buttons &gt; Tap Home button to go back to Home screen.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Not now</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Go to Settings</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Quick tap to Home screen</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Turn on</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Turn on Quick tap</string>
   <string name="frequent_phrases">Frequent phrases</string>
   <string name="global_actions_airplane_mode">Airplane mode</string>
   <string name="global_actions_reboot">Reboot</string>
