@@ -341,15 +341,15 @@ is mainly provided by Ultimate Inc."</string>
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">5 min</string>
-  <string name="filter_by_duration_min">0 sec</string>
+  <string name="filter_by_duration_max">%d min</string>
+  <string name="filter_by_duration_min">%d sec</string>
   <string name="filter_by_duration_prefix">"Hide files shorter than "</string>
   <string name="filter_by_duration_summary">Hide short audio files</string>
   <string name="filter_by_folder">By folder</string>
   <string name="filter_by_folder_summary">Choose folders to display</string>
   <string name="filter_by_size">By size</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Hide files smaller than "</string>
   <string name="filter_by_size_summary">Hide small audio files</string>
   <string name="find_music">Discover songs</string>
@@ -459,7 +459,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="lyric_setting">Lyrics settings</string>
   <string name="male_artist">Male artists</string>
   <string name="manager_cloud_space">Manage Mi Cloud storage</string>
-  <string name="max_sleep_time">90</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
   <string name="menu_all_task_pause">Pause all</string>
   <string name="menu_all_task_start">Start all</string>
@@ -482,7 +482,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="metered_serious_alert_msg_with_data">You have only %s of mobile data left. Use mobile data to play songs?</string>
   <string name="metered_serious_allow">Play anyway</string>
   <string name="milink_unavaliable_please_update">"Mi Link isn't available. Update MIUI."</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
   <string name="miui_music">Mi Music</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
