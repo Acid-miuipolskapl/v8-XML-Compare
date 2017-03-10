@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_77e">false</string>
   <string name="APKTOOL_DUMMY_77f">false</string>
   <string name="APKTOOL_DUMMY_780">false</string>
   <string name="APKTOOL_DUMMY_781">false</string>
@@ -164,6 +163,7 @@
   <string name="APKTOOL_DUMMY_81f">false</string>
   <string name="APKTOOL_DUMMY_820">false</string>
   <string name="APKTOOL_DUMMY_821">false</string>
+  <string name="APKTOOL_DUMMY_822">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -1980,6 +1980,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="use_immediately">Use</string>
+  <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_already_update">Definitions are up to date</string>
   <string name="virus_dp_update_title">Definition updates</string>
   <string name="virus_scan">Virus scan</string>

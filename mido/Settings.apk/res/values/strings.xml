@@ -61,17 +61,19 @@
   <string name="APKTOOL_DUMMY_1417">false</string>
   <string name="APKTOOL_DUMMY_1418">false</string>
   <string name="APKTOOL_DUMMY_1419">false</string>
-  <string name="APKTOOL_DUMMY_141d">false</string>
-  <string name="APKTOOL_DUMMY_141e">false</string>
+  <string name="APKTOOL_DUMMY_141a">false</string>
+  <string name="APKTOOL_DUMMY_141b">false</string>
   <string name="APKTOOL_DUMMY_141f">false</string>
   <string name="APKTOOL_DUMMY_1420">false</string>
   <string name="APKTOOL_DUMMY_1421">false</string>
   <string name="APKTOOL_DUMMY_1422">false</string>
-  <string name="APKTOOL_DUMMY_14da">false</string>
-  <string name="APKTOOL_DUMMY_14db">false</string>
+  <string name="APKTOOL_DUMMY_1423">false</string>
+  <string name="APKTOOL_DUMMY_1424">false</string>
   <string name="APKTOOL_DUMMY_14dc">false</string>
   <string name="APKTOOL_DUMMY_14dd">false</string>
   <string name="APKTOOL_DUMMY_14de">false</string>
+  <string name="APKTOOL_DUMMY_14df">false</string>
+  <string name="APKTOOL_DUMMY_14e0">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -1142,6 +1144,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and NFC transport card."</string>
   <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="current_use_uicc_wallet">"You're using SIM%1$s Wallet"</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -1674,8 +1677,6 @@ This helps protect data on lost or stolen devices."</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
-  <string name="fluency_mode">System animations</string>
-  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Larger</string>
@@ -2529,7 +2530,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -3403,6 +3404,7 @@ To use screen pinning:
   <string name="se_route_uicc">Secure element on SIM card</string>
   <string name="se_wallet_ese">Mi Pay and NFC transport card</string>
   <string name="se_wallet_hce">Use HCE Wallet</string>
+  <string name="se_wallet_uicc">Use SIM%1$s Wallet</string>
   <string name="search_about_settings">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer_title">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">Privacy settings;Security Privacy;Guest;Guest mode</string>
@@ -4865,7 +4867,7 @@ WLAN Assistant"</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on.</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Switch between data and Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam">WLAN assistant Manager</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and Wi-Fi on to switch to data when Wi-Fi connectivity is poor.</string>
   <string name="wifi_enable_hs2_title">Passpoint On</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
@@ -4901,7 +4903,7 @@ WLAN Assistant"</string>
   <string name="wifi_master_key_dialog_content_password">Password</string>
   <string name="wifi_master_key_dialog_title">Connect using</string>
   <string name="wifi_master_key_name">WiFi Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">"WiFi Master Key is a free service that provides passwords for shared Wi-Fi networks. WiFi Master Key won't share your network's password."</string>
+  <string name="wifi_master_key_service_dialog_content">"WiFi Master Key is a free service that provides passwords for shared Wi-Fi networks. WiFi Master Key won't share your network's password. You can also %1$s。"</string>
   <string name="wifi_master_key_service_dialog_title">Shared Wi-Fi networks</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_configure">Configure</string>

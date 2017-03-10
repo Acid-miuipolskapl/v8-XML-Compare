@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_dd">false</string>
   <string name="APKTOOL_DUMMY_de">false</string>
   <string name="APKTOOL_DUMMY_df">false</string>
   <string name="APKTOOL_DUMMY_e0">false</string>
@@ -29,6 +28,7 @@
   <string name="APKTOOL_DUMMY_f7">false</string>
   <string name="APKTOOL_DUMMY_f8">false</string>
   <string name="APKTOOL_DUMMY_f9">false</string>
+  <string name="APKTOOL_DUMMY_fa">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_title">Add</string>
   <string name="act_set_city_find_side">Locating…</string>
@@ -137,11 +137,12 @@ Pull down to refresh or check the network settings"</string>
   <string name="indices_title_sport">Sports</string>
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Visibility</string>
+  <string name="information_manager_default_weather_bg">Default weather background</string>
   <string name="information_manager_extension">Weather extension</string>
   <string name="information_manager_information">Weather info</string>
   <string name="information_manager_wlan">Show when connected to Wi-Fi</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Start page settings</string>
+  <string name="information_set">Other settings</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Install</string>

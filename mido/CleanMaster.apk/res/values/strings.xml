@@ -99,7 +99,7 @@
   <string name="clean_content_zero">None</string>
   <string name="clear_bigfiles">Delete big files, duplicate photos, and other obsolete items</string>
   <string name="clear_immediately">Clean now</string>
-  <string name="clear_safe_notify">Security notification bar</string>
+  <string name="clear_safe_notify">Notification shade widget</string>
   <string name="clip_board_history_desc">Copied/cut contents</string>
   <string name="clipboard">Clipboard</string>
   <string name="close">Close</string>
