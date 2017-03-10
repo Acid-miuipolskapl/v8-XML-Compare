@@ -124,7 +124,7 @@
   <string name="baby_nick_name">Nickname</string>
   <string name="baby_sexy">Gender</string>
   <string name="baby_suffix">baby</string>
-  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
+  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conveniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">Back up automatically</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
   <string name="backup_battery_low_title">Backup paused due to low battery</string>
@@ -134,6 +134,7 @@
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
   <string name="backup_cta_not_allow">"Can't access network"</string>
   <string name="backup_cta_not_allow_btn_text">Allow</string>
+  <string name="backup_detail_page_empty">No photos or videos waiting for backup</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_device_space_low_btn_text">Clear</string>
   <string name="backup_device_space_low_desc">Free up storage to continue backing up items</string>
@@ -141,7 +142,7 @@
   <string name="backup_dirty_num">Total: %s</string>
   <string name="backup_dirty_tip">Not backed up photos and videos</string>
   <string name="backup_immediately">Back up</string>
-  <string name="backup_need_sync_desc">Click button to continue backing up</string>
+  <string name="backup_need_sync_desc">Tap to continue backing up</string>
   <string name="backup_need_sync_title">Backup stopped</string>
   <string name="backup_no_network_btn_text">Network settings</string>
   <string name="backup_no_network_desc">Connect to the network to continue backing up items</string>
@@ -167,7 +168,7 @@
   <string name="backuped_desc">Photos and videos are backed up to Mi Cloud</string>
   <string name="backuped_title">Backed up successfully</string>
   <string name="backuping_title_gprs">Backing up using mobile data…</string>
-  <string name="backuping_title_normal">Backing up⤦</string>
+  <string name="backuping_title_normal">Backing up…</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="blank_app_name"/>
@@ -789,7 +790,7 @@ Take more photos of your friends!"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
-  <string name="image_download_item_title">Download photo (%s)</string>
+  <string name="image_download_item_title">Download original file (%s)</string>
   <string name="image_invalid_path">Invalid path</string>
   <string name="image_not_found">"Couldn't find image"</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
