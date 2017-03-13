@@ -1137,6 +1137,7 @@ This setting affects all users on this phone."</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
+  <string name="device_name_input_overlength">Beyond word limit</string>
   <string name="device_name_usage_point">Other nearby devices can see this name.</string>
   <string name="device_picker">Choose Bluetooth device</string>
   <string name="device_rear_camera">Rear camera</string>
@@ -1166,6 +1167,7 @@ This setting affects all users on this phone."</string>
   <string name="disable_service_title">Stop %1$s?</string>
   <string name="disable_text">Disable</string>
   <string name="disable_wifi_master_key_service">Turn off</string>
+  <string name="disable_wifi_master_key_service_first">Turn off</string>
   <string name="disabled">Disabled</string>
   <string name="disabled_because_no_backup_security">To use, first set a screen lock</string>
   <string name="disconnect">disconnect</string>
@@ -1315,6 +1317,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_text">Enable</string>
   <string name="enable_wifi_display">Wireless display</string>
   <string name="enable_wifi_master_key_service">Turn on WLAN Master Key</string>
+  <string name="enable_wifi_master_key_service_first">Turn on</string>
   <string name="enalbe_identify_iPhone">AP identification</string>
   <string name="encrypt_dont_require_password">No thanks</string>
   <string name="encrypt_dont_require_pattern">No thanks</string>
@@ -1440,6 +1443,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
+  <string name="fluency_mode">System animations</string>
+  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Larger</string>

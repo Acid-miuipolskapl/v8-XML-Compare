@@ -133,6 +133,7 @@
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
   <string name="miui">miui</string>
+  <string name="miui_upgrading_notification_title">System updating, some features may be limited</string>
   <string name="package_delete_confirm_step_1">Delete %s?</string>
   <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
   <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
