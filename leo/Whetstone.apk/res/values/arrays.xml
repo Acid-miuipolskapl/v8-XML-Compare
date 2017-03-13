@@ -24,6 +24,7 @@
     <string-array name="disable_trim_apps">
         <item>android</item>
         <item>com.miui.home</item>
+        <item>com.android.systemui</item>
     </string-array>
     <string-array name="forcestop_sys_apps">
         <item>com.miui.player</item>
@@ -105,6 +106,21 @@
         <item>com.autonavi.minimap</item>
         <item>com.sogou.map.android.maps</item>
         <item>com.tencent.map</item>
+        <item>cld.navi.mainframe</item>
+        <item>com.baidu.navi</item>
+        <item>com.mapbar.android.mapbarmap</item>
+        <item>com.sogou.map.android.minimap</item>
+        <item>com.autonavi.xmgd.navigator</item>
+    </string-array>
+    <string-array name="protect_lock_active">
+        <item>com.duokan.reader</item>
+    </string-array>
+    <string-array name="protect_active">
+        <item>com.iflytek.speechcloud</item>
+        <item>com.iflytek.vflynote</item>
+    </string-array>
+    <string-array name="protect_link_active">
+        <item>com.miui.networkassistant.vpn</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>
