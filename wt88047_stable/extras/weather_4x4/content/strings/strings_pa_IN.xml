@@ -12,7 +12,7 @@
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
     <string name="weather_type_0">ਸਾਫ਼</string>
-    <string name="weather_type_1">ਬੱਦਲਵਾਈ ਵਾਲਾ</string>
+    <string name="weather_type_1">ਬੱਦਲ</string>
     <string name="weather_type_2">ਧੁੰਦਲਾ</string>
     <string name="weather_type_3">ਧੁੰਦ ਵਾਲਾ</string>
     <string name="weather_type_4">ਭਾਰੀ ਤੂਫ਼ਾਨੀ ਵਰਖਾ</string>
