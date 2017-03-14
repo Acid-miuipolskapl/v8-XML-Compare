@@ -14,6 +14,7 @@
   <string name="button_goon_recorder">Resume</string>
   <string name="cancel_edit">Cancel</string>
   <string name="cannot_change_parames">"Couldn't change parameters while recording"</string>
+  <string name="cannot_record">"Couldn't record, please try again later."</string>
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
