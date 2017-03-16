@@ -67,6 +67,7 @@
         <item>com.qti.snapdragon.sdk.display</item>
         <item>com.xiaomi.bluetooth</item>
         <item>com.xiaomi.metoknlp</item>
+        <item>com.miui.performance</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
