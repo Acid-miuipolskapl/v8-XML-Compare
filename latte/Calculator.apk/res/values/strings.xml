@@ -83,7 +83,7 @@
   <string name="fund"/>
   <string name="fund_loan"/>
   <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
-  <string name="gay_search_result">关系有点复杂，你看着叫，不过还好他爱的不是另一个女人</string>
+  <string name="gay_search_result">是男是女不重要，是你就好</string>
   <string name="home_title_calculator">Calculator</string>
   <string name="husband">丈夫</string>
   <string name="income_type"/>
@@ -105,7 +105,6 @@
   <string name="item_title_weight_conversion">Mass</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">left parenthesis</string>
-  <string name="lesbian_search_result">关系有点复杂，你看着叫，又多了一个人帮你爱她</string>
   <string name="lg">lg</string>
   <string name="lgDesc">logarithm</string>
   <string name="lg_mathematical_value">lg</string>
