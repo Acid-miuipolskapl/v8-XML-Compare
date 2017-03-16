@@ -144,7 +144,7 @@
   <string name="permlab_manageLocationPolicy">Location access</string>
   <string name="reboot_confirm_title">Reboot device now?</string>
   <string name="reboot_info_auto_boot">Device is scheduled to power on at %s</string>
-  <string name="reboot_info_shutdown_alarm">Alarm will sound at %s</string>
+  <string name="reboot_info_shutdown_alarm">Next alarm: %s</string>
   <string name="reboot_progress">Rebooting…</string>
   <string name="replace">Replace</string>
   <string name="resource_select">Select</string>
