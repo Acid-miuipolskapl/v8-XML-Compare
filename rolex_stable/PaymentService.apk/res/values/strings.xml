@@ -220,6 +220,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
   <string name="mibi_paytool_paypal">Paypal</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
+  <string name="mibi_paytool_weixin">WeChat</string>
   <string name="mibi_prepaid_card_order_info">%1$s top-up card: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Select carrier</string>
   <string name="mibi_prepaid_edit_limit">digits</string>
@@ -341,6 +342,7 @@ Customer service center：400-100-5678"</string>
   <string name="passport_auto_generate_pwd">Generate secure password</string>
   <string name="passport_back">Back</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
+  <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
   <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>

@@ -435,10 +435,16 @@
     <integer-array name="launchboost_param_value">
         <item>0x40C00000</item>
         <item>0x00000001</item>
-        <item>0x40800100</item>
-        <item>0x000007E0</item>
+        <item>0x40800000</item>
+        <item>0x000005DC</item>
         <item>0x40400000</item>
         <item>0x00000001</item>
+        <item>0x41000000</item>
+        <item>0x00000004</item>
+        <item>0x42804000</item>
+        <item>0x00000001</item>
+        <item>0x42C0C000</item>
+        <item>0x00000064</item>
     </integer-array>
     <integer-array name="launchboost_packing_param_value">
         <item>0x40C04000</item>
@@ -543,25 +549,25 @@
     <array name="wfcOperatorErrorAlertMessages" />
     <array name="wfcOperatorErrorNotificationMessages" />
     <string-array name="fingerprint_acquired_vendor">
-        <item>Reserved0</item>
-        <item>Reserved1</item>
-        <item>Place your finger on the sensor</item>
-        <item>Place your finger completely over sensor</item>
-        <item>Lift finger1 and cover sensor firmly and completely</item>
-        <item>Lift finger2 and cover sensor firmly and completely</item>
-        <item>Reserved6</item>
-        <item>Reserved7</item>
-        <item>Reserved8</item>
-        <item>Reserved9</item>
-        <item>Reserved10</item>
-        <item>Reserved11</item>
-        <item>Reserved12</item>
-        <item>Place your finger3 straight on the sensor</item>
-        <item>Move your finger4 slightly between scans</item>
-        <item>Lift your finger5</item>
-        <item>Hold your finger6 on the sensor longer</item>
-        <item>Reserved17</item>
-        <item>Reserved18</item>
+        <item>Try again</item>
+        <item></item>
+        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>"Too fast! Couldn't recognize fingerprint"</item>
+        <item>Move your finger a bit and try again</item>
+        <item>Lift your finger and put it back on the scanner again</item>
+        <item>Keep your finger on the scanner a bit longer</item>
+        <item></item>
+        <item></item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">

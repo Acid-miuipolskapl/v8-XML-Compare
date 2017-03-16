@@ -29,6 +29,7 @@
   <string name="Wifi_test">WLAN</string>
   <string name="apk_signature_title">"apk signature: "</string>
   <string name="app_name">Engineering Mode</string>
+  <string name="auto_success">pass</string>
   <string name="auto_test">Automatic Test</string>
   <string name="back_Camera">Rear-Camera</string>
   <string name="back_camera_id_info">Main Camera ID</string>
@@ -104,7 +105,7 @@
   <string name="distance_near">Nearly</string>
   <string name="dlg_fm_title">Please keeping the Headset on</string>
   <string name="dlg_no_earphone">The earphone is used as antenna of FM Radio.Do you want to continue wihtout earphone?</string>
-  <string name="enrol_notice">please input your finger on the fingerprint sensor 12 times...</string>
+  <string name="enrol_notice">please input your finger on the fingerprint sensor...</string>
   <string name="exist">exist</string>
   <string name="fingerprint">Finger Print</string>
   <string name="fixed_freq">1037</string>
@@ -158,13 +159,16 @@
   <string name="kepad_test">Keypad test</string>
   <string name="kepad_test_camera">Cam</string>
   <string name="kepad_test_down">Down</string>
+  <string name="kepad_test_down_ch">Down</string>
   <string name="kepad_test_home">Home</string>
   <string name="kepad_test_menu">Menu</string>
   <string name="kepad_test_power">Power</string>
+  <string name="kepad_test_power_ch">Power</string>
   <string name="kepad_test_reset">Reset</string>
   <string name="kepad_test_return">Return</string>
   <string name="kepad_test_search">search</string>
   <string name="kepad_test_up">Up</string>
+  <string name="kepad_test_up_ch">Up</string>
   <string name="kepad_tips">Please press the Key</string>
   <string name="kepad_tips_cmd">Click:volumeUP,volumeDown,power</string>
   <string name="keys_test">Key</string>

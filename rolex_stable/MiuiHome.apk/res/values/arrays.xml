@@ -104,16 +104,18 @@
         <item>Haze</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Move apps</item>
+        <item>Themes</item>
         <item>Widgets</item>
         <item>Wallpaper</item>
         <item>Effects</item>
+        <item>Layout</item>
     </string-array>
     <string-array name="editing_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
+        <item>4</item>
     </string-array>
     <string-array name="quality_business_devices">
         <item>Lithium</item>
