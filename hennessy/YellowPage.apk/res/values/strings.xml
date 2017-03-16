@@ -14,7 +14,7 @@
   <string name="account_yellowpage_favorite">Favorites</string>
   <string name="account_yellowpage_followed">Verified accounts</string>
   <string name="account_yellowpage_recent">View history</string>
-  <string name="add_to_desktop">Add to desktop</string>
+  <string name="add_to_desktop">Add to Home screen</string>
   <string name="agree">Agree</string>
   <string name="agree_to_continue">Continue</string>
   <string name="agree_to_turn_on">Agree</string>
@@ -148,7 +148,7 @@ Check your tracking number."</string>
   <string name="express_inquiry_untrace_success">Stopped tracking</string>
   <string name="express_location_failed">"Couldn't locate you. Enter your address."</string>
   <string name="express_no_address">Empty</string>
-  <string name="express_no_order">No order</string>
+  <string name="express_no_order">No orders</string>
   <string name="express_no_order_info">No order info</string>
   <string name="express_order_confirmation">Order confirmation</string>
   <string name="express_order_failed">Failed</string>
@@ -185,13 +185,13 @@ Check your tracking number."</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
   <string name="express_sender_region">"Sender's region"</string>
-  <string name="express_shortcut_name">Query or send express</string>
+  <string name="express_shortcut_name">Send or track express delivery</string>
   <string name="express_show_all_inquiry_history">Show all inquiry history</string>
   <string name="express_submit_order">Submit</string>
   <string name="express_tail_number">尾号</string>
   <string name="express_track_order">Track</string>
   <string name="express_tracking_number">Tracking number</string>
-  <string name="express_urge_order">Ping</string>
+  <string name="express_urge_order">Poke</string>
   <string name="express_view_order">View orders</string>
   <string name="express_view_status">Track</string>
   <string name="expresss_inquiry_all_logistics">All</string>
