@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_4d">false</string>
   <string name="APKTOOL_DUMMY_4e">false</string>
   <string name="APKTOOL_DUMMY_4f">false</string>
   <string name="APKTOOL_DUMMY_50">false</string>
@@ -28,6 +27,7 @@
   <string name="APKTOOL_DUMMY_66">false</string>
   <string name="APKTOOL_DUMMY_67">false</string>
   <string name="APKTOOL_DUMMY_68">false</string>
+  <string name="APKTOOL_DUMMY_69">false</string>
   <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
   <string name="click_to_enter_text">Tap to view</string>
   <string name="confirm_pin_msg">Enter PIN again</string>
@@ -58,6 +58,7 @@
   <string name="incorrect_pukcode">Incorrect PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
   <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">You need to enter First space after the device was rebooted</string>
   <string name="input_password_hint_text">Enter password</string>
   <string name="input_pattern_hint_text">Draw your unlock pattern</string>
   <string name="input_pin_code">Enter PIN</string>

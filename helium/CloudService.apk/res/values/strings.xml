@@ -37,7 +37,7 @@
   <string name="antispam_sync">Do Not Disturb settings</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
-  <string name="apple_cloud">Apple Cloud Service</string>
+  <string name="apple_cloud">iCloud</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">About RMB 72 per year</string>
   <string name="bad_authentication">Invalid account or password</string>
@@ -208,7 +208,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">Sync now</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
-  <string name="micloud_detail_need_charge">Connect charger to resyme syncing</string>
+  <string name="micloud_detail_need_charge">Connect charger to resume syncing</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
@@ -311,7 +311,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_wlan_sync_data_count">Items waiting to sync: %d</string>
   <string name="micloud_member">Mi Cloud membership</string>
   <string name="micloud_member_advantage">Get more storage space.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Valid for %s-%s-%s
+  <string name="micloud_member_buy_content" formatted="false">"Valid until %s-%s-%s
 
 %s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirm order</string>
@@ -328,16 +328,16 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
-  <string name="micloud_notif_content_dirty_data">Detail</string>
+  <string name="micloud_notif_content_dirty_data">Details</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
   <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
   <string name="micloud_notif_content_sync_finish">Account</string>
-  <string name="micloud_notif_content_sync_not_finish">Detail</string>
+  <string name="micloud_notif_content_sync_not_finish">Details</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
-  <string name="micloud_notif_title_dirty_data">You have data not synced</string>
+  <string name="micloud_notif_title_dirty_data">You unsynced items</string>
   <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
