@@ -1749,7 +1749,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>"高度：154 mm
 宽度：78.7 mm
 厚度：9.45 mm"</item>
-        <item>3100/3200mAh(min/typ)锂离子聚合物电池</item>
+        <item>3100mAh可换锂离子聚合物电池</item>
         <item>"后置摄像头
 1300 万像素
 F2.2光圈
@@ -1762,11 +1762,11 @@ F2.2光圈
         <item>"5.5英寸IPS全贴合屏幕
 1280x720像素
 多点触控电容屏"</item>
-        <item>"移动版
-支持中国移动4G / 3G /2G网络，同时支持中国联通2G网络
-联通版
-支持中国联通4G / 3G / 2G网络，同时支持中国移动2G网络
-蓝牙4.0/ WLAN支持2.4 GHz和5 GHz频段/GPS+AGPS +GLONASS+北斗定位"</item>
+        <item>"移动3G版
+支持中国移动 3G(TD-SCDMA) 及中国移动、中国联通 2G(GSM) 网络
+联通3G版
+支持中国联通 3G(WCDMA) 及中国移动、中国联通 2G(GSM) 网络
+蓝牙4.0/ WLAN /GPS/AGPS"</item>
         <item>"电子罗盘
 重力感应
 光线感应
