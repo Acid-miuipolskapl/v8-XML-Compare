@@ -1608,6 +1608,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Hide system animations</item>
+        <item>Show system animations</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Speeds up device's performance"</item>
+        <item>"May slow down device's performance"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Reboot your device to apply this setting?</item>
+        <item>Reboot your device to apply this setting?</item>
+    </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
         <item>M</item>
@@ -1931,9 +1943,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1920 x 1080像素</item>
         <item>1300万像素</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_108">false</item>
-    <item type="array" name="APKTOOL_DUMMY_109">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10a">false</item>
     <item type="array" name="APKTOOL_DUMMY_10b">false</item>
     <item type="array" name="APKTOOL_DUMMY_10c">false</item>
     <item type="array" name="APKTOOL_DUMMY_10d">false</item>
