@@ -184,6 +184,8 @@ or enter App lock password"</string>
   <string name="auto_task_notify_task_cancel_do">Cancel action</string>
   <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
   <string name="auto_task_notify_task_canceled_summary2">"Looks like you're playing a game now."</string>
+  <string name="auto_task_notify_task_canceled_summary3">Canceled by Second space</string>
+  <string name="auto_task_notify_task_canceled_summary4">Canceled by First space</string>
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
@@ -850,6 +852,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
+  <string name="menu_text_power_percent_title_default">Battery</string>
   <string name="mi_pay_lucky">小米钱包</string>
   <string name="mi_service_app_detail">Data usage details</string>
   <string name="mi_service_framework">Mi Service Framework</string>

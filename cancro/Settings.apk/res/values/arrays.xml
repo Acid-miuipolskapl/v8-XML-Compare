@@ -1527,6 +1527,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
+        <item>2147483647</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immediately</item>
@@ -1534,6 +1535,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1 minute</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
+        <item>Never</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Hide system animations</item>
@@ -1868,5 +1870,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>5英寸</item>
         <item>1920 × 1080像素</item>
         <item>1300万像素</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Shorter delay</item>
+        <item>Standard</item>
+        <item>Better quality</item>
     </string-array>
 </resources>
