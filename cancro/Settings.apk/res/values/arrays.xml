@@ -1866,7 +1866,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version_description_secondary">
         <item>6.0.1</item>
         <item>骁龙800处理器</item>
-        <item>3050mAh</item>
+        <item>3050mAh(typ)</item>
         <item>5英寸</item>
         <item>1920 × 1080像素</item>
         <item>1300万像素</item>
