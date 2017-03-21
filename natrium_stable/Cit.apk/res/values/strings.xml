@@ -82,6 +82,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+  <string name="cit_battery_check_summary">Device battery statistics</string>
+  <string name="cit_battery_check_title">Battery info</string>
   <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
   <string name="cit_battery_temp_pass">Battery temperature is normal</string>
   <string name="cit_batterylight_blue">Blue</string>
@@ -124,6 +126,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_exit_test_title">Exit test</string>
   <string name="cit_fail">Fail</string>
   <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
+  <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
+  <string name="cit_flash_life_check_title">Flash life</string>
   <string name="cit_fm_audio_path">Configure audio path</string>
   <string name="cit_fm_audio_path_headset">Headphones</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>
@@ -266,6 +270,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sim_state_unkown">Unknown</string>
   <string name="cit_start_calibration">Calibrate</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
+  <string name="cit_tfcard_support_summary">Check if TFCard is supported on this device</string>
+  <string name="cit_tfcard_support_title">Support TFCard</string>
   <string name="cit_tool">Additional tools</string>
   <string name="cit_tool_bluetooth">Bluetooth test tool</string>
   <string name="cit_tool_bluetooth_dut">Enter Bluetooth Test Mode</string>
@@ -298,16 +304,9 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
   <string name="cit_tool_nfc">NFC test tools</string>
-  <string name="cit_tool_nfc_bbgain">BB gain</string>
-  <string name="cit_tool_nfc_card_mode">Card mode</string>
-  <string name="cit_tool_nfc_config_save">save</string>
-  <string name="cit_tool_nfc_cw">CW</string>
-  <string name="cit_tool_nfc_detector">Detector level</string>
-  <string name="cit_tool_nfc_fdt">FDT</string>
-  <string name="cit_tool_nfc_mod">MOD</string>
-  <string name="cit_tool_nfc_phaseoff">Phase off</string>
-  <string name="cit_tool_nfc_phaseon">Phase on</string>
-  <string name="cit_tool_nfc_rf">NFC Tune</string>
+  <string name="cit_tool_nfc_ce_disable">Disable Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Enable Ce</string>
+  <string name="cit_tool_nfc_ce_status">Ce Status:</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Run</string>
