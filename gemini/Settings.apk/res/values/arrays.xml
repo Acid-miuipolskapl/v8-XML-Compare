@@ -1877,10 +1877,12 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="edge_touch_volume_action">
         <item>Click adjust - Double click trigger</item>
         <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
     </string-array>
     <string-array name="edge_touch_volume_action_value">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
@@ -1939,8 +1941,8 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
         <item>6.0.1</item>
-        <item>骁龙820处理器</item>
-        <item>3000mAh</item>
+        <item>高通骁龙820处理器</item>
+        <item>3000mAh(typ)</item>
         <item>5.15英寸</item>
         <item>1920 × 1080像素</item>
         <item>1600万像素</item>
