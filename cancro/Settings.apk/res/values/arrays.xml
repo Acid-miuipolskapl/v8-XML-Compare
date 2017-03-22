@@ -1586,9 +1586,11 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="organized_locales">
         <item>al</item>
         <item>dz</item>
+        <item>am</item>
         <item>ao</item>
         <item>ag</item>
         <item>ar</item>
+        <item>az</item>
         <item>bs</item>
         <item>bh</item>
         <item>bd</item>
@@ -1610,6 +1612,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>hr</item>
         <item>cu</item>
         <item>cz</item>
+        <item>dk</item>
         <item>dm</item>
         <item>do</item>
         <item>ec</item>
@@ -1619,8 +1622,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ee</item>
         <item>et</item>
         <item>fk</item>
+        <item>fi</item>
         <item>fr</item>
         <item>gf</item>
+        <item>ge</item>
         <item>de</item>
         <item>gh</item>
         <item>gr</item>
@@ -1646,7 +1651,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
+        <item>li</item>
         <item>lt</item>
+        <item>lu</item>
         <item>mk</item>
         <item>mw</item>
         <item>my</item>
@@ -1661,9 +1668,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>mm</item>
         <item>na</item>
         <item>np</item>
+        <item>nl</item>
+        <item>ni</item>
         <item>ni</item>
         <item>ng</item>
         <item>kp</item>
+        <item>no</item>
         <item>om</item>
         <item>pk</item>
         <item>ps</item>
