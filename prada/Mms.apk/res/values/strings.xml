@@ -72,6 +72,7 @@
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
   <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
   <string name="cloud_state_syncing">Syncing with Mi Cloud…</string>
+  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add this number to your blocklist?</string>
@@ -424,6 +425,7 @@
   <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
   <string name="pref_summary_show_recent_contacts">Show recent contacts when composing a new message</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new message is received</string>
+  <string name="pref_switch_sdk_setting">Switch smart sms engine</string>
   <string name="pref_system_title">System</string>
   <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other together</string>
