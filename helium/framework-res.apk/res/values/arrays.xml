@@ -320,31 +320,31 @@
         <item>21</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
         <item>50</item>
         <item>100</item>
-        <item>250</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
         <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
         <item>1000</item>
-        <item>2000</item>
-        <item>5000</item>
-        <item>10000</item>
-        <item>20000</item>
-        <item>30000</item>
-        <item>40000</item>
-        <item>50000</item>
-        <item>60000</item>
-        <item>70000</item>
-        <item>80000</item>
-        <item>100000</item>
-        <item>120000</item>
-        <item>160000</item>
-        <item>220000</item>
-        <item>300000</item>
-        <item>400000</item>
+        <item>1200</item>
+        <item>1600</item>
+        <item>2200</item>
+        <item>3000</item>
+        <item>4000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>4</item>
-        <item>4</item>
+        <item>2</item>
+        <item>2</item>
         <item>4</item>
         <item>8</item>
         <item>12</item>
@@ -537,7 +537,14 @@
         <item>0x40800000</item>
         <item>0x00000514</item>
     </integer-array>
-    <array name="config_defaultPinnerServiceFiles" />
+    <string-array name="config_defaultPinnerServiceFiles">
+        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/system/framework/arm64/boot.oat</item>
+        <item>/system/framework/arm/boot.oat</item>
+        <item>/system/framework/oat/arm64/services.odex</item>
+    </string-array>
     <string-array name="origin_carrier_names">
         <item>"CHINA  MOBILE"</item>
         <item>CMCC</item>
