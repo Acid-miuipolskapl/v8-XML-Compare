@@ -61,4 +61,9 @@
         <item>ar</item>
         <item>bn</item>
     </string-array>
+    <integer-array name="wave_phase">
+        <item>0</item>
+        <item>-240</item>
+        <item>400</item>
+    </integer-array>
 </resources>
