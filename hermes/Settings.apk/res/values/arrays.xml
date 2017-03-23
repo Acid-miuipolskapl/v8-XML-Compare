@@ -1471,6 +1471,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
+        <item>2147483647</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immediately</item>
@@ -1478,6 +1479,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1 minute</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
+        <item>Never</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Hide system animations</item>
@@ -1528,9 +1530,11 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="organized_locales">
         <item>al</item>
         <item>dz</item>
+        <item>am</item>
         <item>ao</item>
         <item>ag</item>
         <item>ar</item>
+        <item>az</item>
         <item>bs</item>
         <item>bh</item>
         <item>bd</item>
@@ -1552,6 +1556,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>hr</item>
         <item>cu</item>
         <item>cz</item>
+        <item>dk</item>
         <item>dm</item>
         <item>do</item>
         <item>ec</item>
@@ -1561,8 +1566,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ee</item>
         <item>et</item>
         <item>fk</item>
+        <item>fi</item>
         <item>fr</item>
         <item>gf</item>
+        <item>ge</item>
         <item>de</item>
         <item>gh</item>
         <item>gr</item>
@@ -1588,7 +1595,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
+        <item>li</item>
         <item>lt</item>
+        <item>lu</item>
         <item>mk</item>
         <item>mw</item>
         <item>my</item>
@@ -1603,9 +1612,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>mm</item>
         <item>na</item>
         <item>np</item>
+        <item>nl</item>
+        <item>ni</item>
         <item>ni</item>
         <item>ng</item>
         <item>kp</item>
+        <item>no</item>
         <item>om</item>
         <item>pk</item>
         <item>ps</item>
@@ -1792,7 +1804,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version_description_secondary">
         <item>4.4</item>
         <item>联发科 Helio X10</item>
-        <item>3060mAh</item>
+        <item>3060mAh(typ)</item>
         <item>5.5英寸</item>
         <item>1920 x 1080像素</item>
         <item>1300万像素</item>
