@@ -89,7 +89,12 @@ Pull down to refresh or check the network settings"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Now</string>
   <string name="hourly_forecast_title">Hourly forecast</string>
+  <string name="index_item_experience_now">Install now</string>
+  <string name="index_item_install_dialog"/>
+  <string name="index_item_install_dialog_cancel"/>
+  <string name="index_item_install_dialog_open"/>
   <string name="index_item_install_now">Install now</string>
+  <string name="index_item_installing">Installing</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Feels like %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -117,6 +122,7 @@ Pull down to refresh or check the network settings"</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Install</string>
+  <string name="install_progress">%1$s%%</string>
   <string name="international_detail_menu_title">Details</string>
   <string name="international_details_pressure_title">PRESSURE</string>
   <string name="international_details_real_feel_title">REAL FEEL®</string>
@@ -141,6 +147,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">Open</string>
   <string name="open_browser">Open in browser</string>
+  <string name="open_now">Open Now</string>
   <string name="other">Other</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
