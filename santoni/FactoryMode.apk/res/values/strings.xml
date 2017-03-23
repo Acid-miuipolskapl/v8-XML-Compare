@@ -94,6 +94,7 @@
   <string name="dev_bt">Bluetooth</string>
   <string name="dev_default">Unknown</string>
   <string name="dev_flash">Flash</string>
+  <string name="dev_lockdown_info">Lockdown Info</string>
   <string name="dev_tp">TP</string>
   <string name="dev_wifi">WLAN</string>
   <string name="device_imei">IMEI</string>

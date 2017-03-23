@@ -80,6 +80,7 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
   <string name="unlock_string">Unlock</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect charger now</string>
+  <string name="unlockscreen_quick_charging_message">Quick charging %d%%</string>
   <string name="unlockscreen_recharge_completed">Battery charged</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
   <string name="wrong_password">Incorrect password</string>

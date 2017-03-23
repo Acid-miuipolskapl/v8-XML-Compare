@@ -2259,6 +2259,7 @@ Select your operating system:"</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
   <string name="my_device">My device</string>
+  <string name="my_device_disclaimer">Note: Hardware info, including CPU, battery capacity, screen size and resolution, and camera, is provided by Xiaomi labs, designers, and suppliers.</string>
   <string name="nearby_wifi">Available networks</string>
   <string name="need_reboot_now">Reboot to install update.</string>
   <string name="netcheck_title">Network diagnostics</string>
@@ -3835,8 +3836,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_title">Default language status</string>
   <string name="turn_off_common_password_confirm_msg">Screen lock will be turned off as well.</string>
   <string name="turn_off_keyguard_password_alert_title">Turn off</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Turn off Lock screen password?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device with your fingerprint after turning Lock screen password off"</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Device protection features will not work without your pattern.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device using your fingerprint after you turn off the password."</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_keyguard_password">Turn on Lock screen password</string>
@@ -4192,6 +4193,8 @@ Tap the plus to add words."</string>
   <string name="vpn_save_login">Save account information</string>
   <string name="vpn_search_domains">DNS search domains</string>
   <string name="vpn_server">Server address</string>
+  <string name="vpn_set_screen_lock_content">Set a Lock screen password to save your VPN settings</string>
+  <string name="vpn_set_screen_lock_title">Set Lock screen password</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
   <string name="vpn_settings_password">Add VPN password</string>
   <string name="vpn_settings_summary">Protect VPN settings with Lock screen password</string>
