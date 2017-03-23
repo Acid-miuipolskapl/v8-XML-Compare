@@ -58,6 +58,7 @@ or enter App lock password"</string>
   <string name="activity_title_virus_detail">Virus detail</string>
   <string name="activity_title_virus_settings">Settings</string>
   <string name="activity_title_white_list">Exceptions</string>
+  <string name="ad_btn_default_text">Learn more</string>
   <string name="adb_install_no_network">Connect to the network and try again</string>
   <string name="adb_install_open">Allowing…</string>
   <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
