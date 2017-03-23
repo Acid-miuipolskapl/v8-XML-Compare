@@ -1600,6 +1600,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
+        <item>2147483647</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immediately</item>
@@ -1607,6 +1608,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1 minute</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
+        <item>Never</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Hide system animations</item>
@@ -1631,9 +1633,11 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="organized_locales">
         <item>al</item>
         <item>dz</item>
+        <item>am</item>
         <item>ao</item>
         <item>ag</item>
         <item>ar</item>
+        <item>az</item>
         <item>bs</item>
         <item>bh</item>
         <item>bd</item>
@@ -1655,6 +1659,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>hr</item>
         <item>cu</item>
         <item>cz</item>
+        <item>dk</item>
         <item>dm</item>
         <item>do</item>
         <item>ec</item>
@@ -1664,8 +1669,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ee</item>
         <item>et</item>
         <item>fk</item>
+        <item>fi</item>
         <item>fr</item>
         <item>gf</item>
+        <item>ge</item>
         <item>de</item>
         <item>gh</item>
         <item>gr</item>
@@ -1691,7 +1698,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
+        <item>li</item>
         <item>lt</item>
+        <item>lu</item>
         <item>mk</item>
         <item>mw</item>
         <item>my</item>
@@ -1706,9 +1715,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>mm</item>
         <item>na</item>
         <item>np</item>
+        <item>nl</item>
+        <item>ni</item>
         <item>ni</item>
         <item>ng</item>
         <item>kp</item>
+        <item>no</item>
         <item>om</item>
         <item>pk</item>
         <item>ps</item>
@@ -1875,10 +1887,12 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="edge_touch_volume_action">
         <item>Click adjust - Double click trigger</item>
         <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
     </string-array>
     <string-array name="edge_touch_volume_action_value">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
@@ -1938,16 +1952,16 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version_description_secondary">
         <item>6.0.1</item>
         <item>骁龙650处理器</item>
-        <item>4760mAh</item>
+        <item>4760mAh(typ)</item>
         <item>6.44英寸</item>
         <item>1920 × 1080像素</item>
         <item>1600万像素</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_104">false</item>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
+    <item type="array" name="APKTOOL_DUMMY_109">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10a">false</item>
     <item type="array" name="APKTOOL_DUMMY_10b">false</item>
     <item type="array" name="APKTOOL_DUMMY_10c">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_110">false</item>
+    <item type="array" name="APKTOOL_DUMMY_111">false</item>
+    <item type="array" name="APKTOOL_DUMMY_112">false</item>
 </resources>

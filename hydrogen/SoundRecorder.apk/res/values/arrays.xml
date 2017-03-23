@@ -61,5 +61,10 @@
         <item>ar</item>
         <item>bn</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_c">false</item>
+    <integer-array name="wave_phase">
+        <item>0</item>
+        <item>-240</item>
+        <item>400</item>
+    </integer-array>
+    <item type="array" name="APKTOOL_DUMMY_d">false</item>
 </resources>
