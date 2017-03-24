@@ -91,6 +91,12 @@
         <item>30</item>
         <item>0</item>
     </integer-array>
+    <integer-array name="pc_disconnect_data_time_choice_items">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>
         <item>After 5 minutes</item>
