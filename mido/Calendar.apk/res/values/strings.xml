@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_20e">false</string>
-  <string name="APKTOOL_DUMMY_20f">false</string>
-  <string name="APKTOOL_DUMMY_26d">false</string>
-  <string name="APKTOOL_DUMMY_26e">false</string>
-  <string name="APKTOOL_DUMMY_26f">false</string>
-  <string name="APKTOOL_DUMMY_270">false</string>
-  <string name="APKTOOL_DUMMY_271">false</string>
-  <string name="APKTOOL_DUMMY_274">false</string>
-  <string name="APKTOOL_DUMMY_275">false</string>
-  <string name="APKTOOL_DUMMY_276">false</string>
-  <string name="APKTOOL_DUMMY_277">false</string>
-  <string name="APKTOOL_DUMMY_278">false</string>
   <string name="APKTOOL_DUMMY_279">false</string>
   <string name="APKTOOL_DUMMY_27a">false</string>
   <string name="APKTOOL_DUMMY_27b">false</string>
@@ -19,10 +7,22 @@
   <string name="APKTOOL_DUMMY_27d">false</string>
   <string name="APKTOOL_DUMMY_27e">false</string>
   <string name="APKTOOL_DUMMY_27f">false</string>
-  <string name="APKTOOL_DUMMY_280">false</string>
-  <string name="APKTOOL_DUMMY_281">false</string>
   <string name="APKTOOL_DUMMY_282">false</string>
   <string name="APKTOOL_DUMMY_283">false</string>
+  <string name="APKTOOL_DUMMY_284">false</string>
+  <string name="APKTOOL_DUMMY_285">false</string>
+  <string name="APKTOOL_DUMMY_286">false</string>
+  <string name="APKTOOL_DUMMY_287">false</string>
+  <string name="APKTOOL_DUMMY_288">false</string>
+  <string name="APKTOOL_DUMMY_289">false</string>
+  <string name="APKTOOL_DUMMY_28a">false</string>
+  <string name="APKTOOL_DUMMY_28b">false</string>
+  <string name="APKTOOL_DUMMY_28c">false</string>
+  <string name="APKTOOL_DUMMY_28d">false</string>
+  <string name="APKTOOL_DUMMY_28e">false</string>
+  <string name="APKTOOL_DUMMY_28f">false</string>
+  <string name="APKTOOL_DUMMY_290">false</string>
+  <string name="APKTOOL_DUMMY_291">false</string>
   <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
