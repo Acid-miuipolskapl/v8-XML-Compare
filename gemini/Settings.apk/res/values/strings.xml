@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_13c4">false</string>
   <string name="APKTOOL_DUMMY_13c5">false</string>
   <string name="APKTOOL_DUMMY_13c6">false</string>
   <string name="APKTOOL_DUMMY_13c7">false</string>
@@ -33,14 +34,10 @@
   <string name="APKTOOL_DUMMY_13e3">false</string>
   <string name="APKTOOL_DUMMY_13e4">false</string>
   <string name="APKTOOL_DUMMY_13e5">false</string>
-  <string name="APKTOOL_DUMMY_13e6">false</string>
-  <string name="APKTOOL_DUMMY_13f8">false</string>
-  <string name="APKTOOL_DUMMY_13f9">false</string>
-  <string name="APKTOOL_DUMMY_13fa">false</string>
   <string name="APKTOOL_DUMMY_13fb">false</string>
-  <string name="APKTOOL_DUMMY_140f">false</string>
-  <string name="APKTOOL_DUMMY_1410">false</string>
-  <string name="APKTOOL_DUMMY_1411">false</string>
+  <string name="APKTOOL_DUMMY_13fc">false</string>
+  <string name="APKTOOL_DUMMY_13fd">false</string>
+  <string name="APKTOOL_DUMMY_13fe">false</string>
   <string name="APKTOOL_DUMMY_1412">false</string>
   <string name="APKTOOL_DUMMY_1413">false</string>
   <string name="APKTOOL_DUMMY_1414">false</string>
@@ -62,16 +59,16 @@
   <string name="APKTOOL_DUMMY_1424">false</string>
   <string name="APKTOOL_DUMMY_1425">false</string>
   <string name="APKTOOL_DUMMY_1426">false</string>
-  <string name="APKTOOL_DUMMY_142a">false</string>
-  <string name="APKTOOL_DUMMY_142b">false</string>
-  <string name="APKTOOL_DUMMY_142c">false</string>
+  <string name="APKTOOL_DUMMY_1427">false</string>
+  <string name="APKTOOL_DUMMY_1428">false</string>
+  <string name="APKTOOL_DUMMY_1429">false</string>
   <string name="APKTOOL_DUMMY_142d">false</string>
   <string name="APKTOOL_DUMMY_142e">false</string>
   <string name="APKTOOL_DUMMY_142f">false</string>
-  <string name="APKTOOL_DUMMY_1452">false</string>
-  <string name="APKTOOL_DUMMY_1490">false</string>
-  <string name="APKTOOL_DUMMY_1491">false</string>
-  <string name="APKTOOL_DUMMY_1492">false</string>
+  <string name="APKTOOL_DUMMY_1430">false</string>
+  <string name="APKTOOL_DUMMY_1431">false</string>
+  <string name="APKTOOL_DUMMY_1432">false</string>
+  <string name="APKTOOL_DUMMY_1455">false</string>
   <string name="APKTOOL_DUMMY_1493">false</string>
   <string name="APKTOOL_DUMMY_1494">false</string>
   <string name="APKTOOL_DUMMY_1495">false</string>
@@ -86,15 +83,15 @@
   <string name="APKTOOL_DUMMY_149e">false</string>
   <string name="APKTOOL_DUMMY_149f">false</string>
   <string name="APKTOOL_DUMMY_14a0">false</string>
+  <string name="APKTOOL_DUMMY_14a1">false</string>
+  <string name="APKTOOL_DUMMY_14a2">false</string>
   <string name="APKTOOL_DUMMY_14a3">false</string>
-  <string name="APKTOOL_DUMMY_14a4">false</string>
-  <string name="APKTOOL_DUMMY_14a5">false</string>
   <string name="APKTOOL_DUMMY_14a6">false</string>
   <string name="APKTOOL_DUMMY_14a7">false</string>
   <string name="APKTOOL_DUMMY_14a8">false</string>
+  <string name="APKTOOL_DUMMY_14a9">false</string>
   <string name="APKTOOL_DUMMY_14aa">false</string>
   <string name="APKTOOL_DUMMY_14ab">false</string>
-  <string name="APKTOOL_DUMMY_14ac">false</string>
   <string name="APKTOOL_DUMMY_14ad">false</string>
   <string name="APKTOOL_DUMMY_14ae">false</string>
   <string name="APKTOOL_DUMMY_14af">false</string>
@@ -159,9 +156,12 @@
   <string name="APKTOOL_DUMMY_14ea">false</string>
   <string name="APKTOOL_DUMMY_14eb">false</string>
   <string name="APKTOOL_DUMMY_14ec">false</string>
-  <string name="APKTOOL_DUMMY_14ff">false</string>
-  <string name="APKTOOL_DUMMY_1500">false</string>
-  <string name="APKTOOL_DUMMY_1501">false</string>
+  <string name="APKTOOL_DUMMY_14ed">false</string>
+  <string name="APKTOOL_DUMMY_14ee">false</string>
+  <string name="APKTOOL_DUMMY_14ef">false</string>
+  <string name="APKTOOL_DUMMY_1502">false</string>
+  <string name="APKTOOL_DUMMY_1503">false</string>
+  <string name="APKTOOL_DUMMY_1504">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -389,7 +389,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="another_migration_already_in_progress">Another migration is already in progress.</string>
-  <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Blocklist</string>
   <string name="aod_mode_summary">Always show time, date and messages when screen off.</string>
   <string name="aod_mode_title">Always on mode</string>
@@ -1239,6 +1238,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="current_use_uicc_wallet">"You're using SIM%1$s Wallet"</string>
+  <string name="current_zone">(current)</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -2590,7 +2590,6 @@ There are other users present on this device.
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="move_error_device_admin">Device Administrator can’t be installed on external media.</string>
   <string name="moving">Moving</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">OSX: Download the driver and install AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Get the driver at http://www.android.com/filetransfer/</string>
@@ -2843,7 +2842,6 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
-  <string name="open_anr_debug">Turn on ANR debugging</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
@@ -3106,6 +3104,8 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="privacy_password_remind_bindaccount_title">Add Mi Account</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Show pattern</string>
@@ -3251,7 +3251,6 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="recommend_item_4">Earphones</string>
   <string name="recommend_item_title">Recommendations</string>
   <string name="recompute_size">Recomputing size…</string>
-  <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
   <string name="remaining_length_format">%1$s left</string>
