@@ -2247,7 +2247,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2658,6 +2658,7 @@ Select your operating system:"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="privacy_password_remind_bindaccount_title">Add Mi Account</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
+  <string name="privacy_password_settings_next">Next</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
   <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
   <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
@@ -3485,8 +3486,11 @@ For more information, contact your administrator."</string>
 A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="standard_configuration_version_rear_camera">1300万像素</string>
+  <string name="standard_configuration_version_rear_camera_mi3">1300万像素</string>
   <string name="standard_configuration_version_screen_resolution">1920 × 1080像素</string>
+  <string name="standard_configuration_version_screen_resolution_mi3">1920 × 1080像素</string>
   <string name="standard_configuration_version_screen_size">5英寸</string>
+  <string name="standard_configuration_version_screen_size_mi3">5英寸</string>
   <string name="starting_android">Starting Android</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
