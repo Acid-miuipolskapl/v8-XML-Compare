@@ -14,6 +14,7 @@
   <string name="account_crop_user_avatar">Crop photo</string>
   <string name="account_empty_user_name">Enter your Mi Account username</string>
   <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
+  <string name="account_error_invalid_user_name">"Name can't contain &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
   <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
   <string name="account_error_user_birthday">The birthday you entered is invalid</string>
