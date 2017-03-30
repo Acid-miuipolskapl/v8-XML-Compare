@@ -940,6 +940,7 @@ Encryption takes an hour or more. You must start with a charged battery and keep
   <string name="current_sim">Current SIM card</string>
   <string name="current_use_ese">Using embedded secure element</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="current_zone">(current)</string>
   <string name="custom_progress">%d items</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
@@ -2560,7 +2561,10 @@ Select your operating system:"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="privacy_password_remind_bindaccount_title">Add Mi Account</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
+  <string name="privacy_password_settings_next">Next</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Show pattern</string>

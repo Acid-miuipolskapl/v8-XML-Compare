@@ -1406,6 +1406,8 @@ for account %s."</string>
   <string name="phoneTypeWork">Work</string>
   <string name="phoneTypeWorkMobile">Work Mobile</string>
   <string name="phoneTypeWorkPager">Work Pager</string>
+  <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
   <string name="policydesc_disableCamera">Prevent use of all device cameras.</string>
   <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
   <string name="policydesc_encryptedStorage">Require that stored app data be encrypted.</string>
