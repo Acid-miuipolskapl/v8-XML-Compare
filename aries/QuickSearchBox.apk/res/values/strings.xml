@@ -14,6 +14,12 @@
   <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
+  <string name="barcode_install_back">Back</string>
+  <string name="barcode_install_cancel">Cancel</string>
+  <string name="barcode_install_confirm">Install</string>
+  <string name="barcode_system_unmatch">Update MIUI before you install Scanner</string>
+  <string name="barcode_to_install">Install Scanner to continue</string>
+  <string name="barcode_uninstalled">Scanner is deleted</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Select default web search engine</string>
   <string name="clear_history">Clear history</string>
@@ -58,6 +64,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="local_setting">Settings</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
+  <string name="mina_name">Direct Apps</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">Allow</string>
@@ -101,6 +108,9 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
+  <string name="setting_other">Other</string>
+  <string name="setting_version">App version</string>
+  <string name="setting_version_title">App version</string>
   <string name="settings_description">Names of installed apps</string>
   <string name="show_more">Show more</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
@@ -137,5 +147,5 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="xiaomi_search_label">Results</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
   <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
 </resources>
