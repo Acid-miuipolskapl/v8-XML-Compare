@@ -59,9 +59,7 @@
         <item>com.miui.antispam</item>
         <item>com.miui.securitycenter</item>
         <item>com.miui.virtualsim</item>
-        <item>com.amap.android.location​</item>
-        <item>com.baidu.map.location</item>
-        <item>com.google.android.gms​</item>
+        <item>com.google.android.gms</item>
         <item>com.miui.voip</item>
         <item>com.miui.touchassistant</item>
         <item>com.qualcomm.qcrilmsgtunnel</item>
@@ -72,6 +70,8 @@
         <item>com.xiaomi.bluetooth</item>
         <item>com.xiaomi.metoknlp</item>
         <item>com.miui.performance</item>
+        <item>android.process.acore</item>
+        <item>com.miui.wmsvc</item>
     </string-array>
     <string-array name="promotelevel_normal">
         <item>com.miui.klo.bugreport</item>
