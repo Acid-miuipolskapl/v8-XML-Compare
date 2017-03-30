@@ -335,7 +335,7 @@
   <string name="mx_activate_hint_sim_change">An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
   <string name="mx_activate_int_hint_malformed_info">An outgoing international SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
   <string name="mx_activate_int_hint_server">An outgoing international SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
-  <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards.An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message."</string>
+  <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message."</string>
   <string name="mx_activate_status_desc_activating_now">Activating…</string>
   <string name="mx_activate_status_desc_check_net_connection">"Couldn't connect to the network"</string>
   <string name="mx_activate_status_desc_fail">"Couldn't activate Mi Message"</string>
