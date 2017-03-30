@@ -24,7 +24,7 @@
   <string name="calendar_parent">Calendar</string>
   <string name="card_detail">详细使用说明</string>
   <string name="card_detail_condition_agenda">展现条件：&lt;font color=#727272&gt;早8点开始展现今日第一条日程；上一条日程结束同时，展现下一条日程；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;日程到期后该日程条目消失；当天最后一项日程消失时，卡片消失；&lt;/font&gt;</string>
-  <string name="card_detail_condition_commute">展现条件：&lt;font color=#727272&gt;设置过家和公司（学校）地址后，工作日上下班（学）时段展现（默认初始上班时段上午7-11点，下班时段6-10点，一段时间后会根据个人实际上下班情况动态调整）。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前已不在上下班时段或家和公司（学校）地址被清空时消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_commute">展现条件：&lt;font color=#727272&gt;设置过家和公司（学校）地址后，工作日上下班（学）时段展现（默认初始上班时段上午7-11点，下班时段6-10点）。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前已不在上下班时段或家和公司（学校）地址被清空时消失。&lt;/font&gt;</string>
   <string name="card_detail_condition_duokan">展现条件：&lt;font color=#727272&gt;多看阅读书架上有小说时，卡片展现。&lt;/font&gt;</string>
   <string name="card_detail_condition_express">展现条件：&lt;font color=#727272&gt;MIUI黄页快递模块有查询记录时展现；开启第三方追踪后，在支持的第三方电商应用中追踪到快递单号后展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;快递签收二十四小时后对应的快递条目消失，卡片上无任何快递条目时卡片消失。&lt;/font&gt;</string>
   <string name="card_detail_condition_flow">展现条件：&lt;font color=#727272&gt;在安全中心网络助手中设置流量套餐后，卡片展现。&lt;/font&gt;</string>
@@ -190,6 +190,10 @@
   <string name="scan_exercise">Study</string>
   <string name="scan_parent">Scanner</string>
   <string name="scan_trans">Translate</string>
+  <string name="scanner_cancel">取消</string>
+  <string name="scanner_install">安装</string>
+  <string name="scanner_install_desc">继续使用需要安装扫一扫功能</string>
+  <string name="scanner_uninstall">扫一扫已卸载</string>
   <string name="security">Seurity</string>
   <string name="service_unavailiable">Checknetwork connection and try again</string>
   <string name="setting_address">Add frequent places</string>
