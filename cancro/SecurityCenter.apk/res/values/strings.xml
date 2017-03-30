@@ -171,7 +171,7 @@ or enter App lock password"</string>
   <string name="app_manager_start_count_over">100000+ times</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Uninstall %s to restrict chain start?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Restrict chain start</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">卸载后可杜绝该应用发起的所有链式启动，同时卸载关联的双开应用，确认卸载%s？</string>
+  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Uninstalling this app will restrict chain start. Related Dual apps will be uninstalled as well. Uninstall %s?</string>
   <string name="app_manager_stop_wakepath_success">Restricted successfully</string>
   <string name="app_manager_stop_wp_dialog_cancel">Cancel</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Uninstall</string>
