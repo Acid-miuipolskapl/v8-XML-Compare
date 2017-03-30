@@ -166,7 +166,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_tips">Make sure the two devices are touching, and then tap the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
-  <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Blocklist</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentication type</string>
@@ -946,6 +945,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and NFC transport card."</string>
   <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="current_zone">(current)</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -2206,7 +2206,6 @@ There are other users present on this device.
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">OSX: Download the driver and install AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Get the driver at http://www.android.com/filetransfer/</string>
@@ -2248,7 +2247,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2411,7 +2410,6 @@ Select your operating system:"</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
-  <string name="open_anr_debug">Turn on ANR debugging</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
@@ -2660,7 +2658,10 @@ Select your operating system:"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="privacy_password_remind_bindaccount_title">Add Mi Account</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
+  <string name="privacy_password_settings_next">Next</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Show pattern</string>
@@ -2803,7 +2804,6 @@ Select your operating system:"</string>
   <string name="recommend_item_4">Earphones</string>
   <string name="recommend_item_title">Recommendations</string>
   <string name="recompute_size">Recomputing size…</string>
-  <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
@@ -3486,8 +3486,11 @@ For more information, contact your administrator."</string>
 A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="standard_configuration_version_rear_camera">1300万像素</string>
+  <string name="standard_configuration_version_rear_camera_mi3">1300万像素</string>
   <string name="standard_configuration_version_screen_resolution">1920 × 1080像素</string>
+  <string name="standard_configuration_version_screen_resolution_mi3">1920 × 1080像素</string>
   <string name="standard_configuration_version_screen_size">5英寸</string>
+  <string name="standard_configuration_version_screen_size_mi3">5英寸</string>
   <string name="starting_android">Starting Android</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
