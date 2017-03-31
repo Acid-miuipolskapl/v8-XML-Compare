@@ -148,8 +148,9 @@
   <string name="import_test_freq">Frequency:</string>
   <string name="infrared_is_closed">Infrared Closed</string>
   <string name="infrared_is_opened">Infrared opened</string>
+  <string name="infrared_notify">Click the Send butten to send the infrared signal</string>
   <string name="infrared_off">Close</string>
-  <string name="infrared_on">Open</string>
+  <string name="infrared_send">Send</string>
   <string name="infrared_test">Infrared</string>
   <string name="insert_headset">Please insert headset</string>
   <string name="instrument_check">Device View</string>
