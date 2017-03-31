@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_195">false</string>
   <string name="APKTOOL_DUMMY_196">false</string>
   <string name="APKTOOL_DUMMY_197">false</string>
   <string name="APKTOOL_DUMMY_198">false</string>
@@ -293,6 +292,7 @@
   <string name="APKTOOL_DUMMY_2b7">false</string>
   <string name="APKTOOL_DUMMY_2b8">false</string>
   <string name="APKTOOL_DUMMY_2b9">false</string>
+  <string name="APKTOOL_DUMMY_2ba">false</string>
   <string name="about_device_info">View device details</string>
   <string name="access_token_expired_warning">Weibo Account has expired</string>
   <string name="access_token_invalid_warning">Weibo Account is invalid</string>
@@ -307,6 +307,7 @@
   <string name="account_crop_user_avatar">Crop photo</string>
   <string name="account_empty_user_name">Enter your Mi Account username</string>
   <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
+  <string name="account_error_invalid_user_name">"Name can't contain &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
   <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
   <string name="account_error_user_birthday">The birthday you entered is invalid</string>

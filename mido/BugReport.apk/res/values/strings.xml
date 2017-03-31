@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_122">false</string>
-  <string name="APKTOOL_DUMMY_123">false</string>
   <string name="APKTOOL_DUMMY_124">false</string>
   <string name="APKTOOL_DUMMY_125">false</string>
   <string name="APKTOOL_DUMMY_126">false</string>
@@ -37,6 +35,8 @@
   <string name="APKTOOL_DUMMY_144">false</string>
   <string name="APKTOOL_DUMMY_145">false</string>
   <string name="APKTOOL_DUMMY_146">false</string>
+  <string name="APKTOOL_DUMMY_147">false</string>
+  <string name="APKTOOL_DUMMY_148">false</string>
   <string name="action_cancel">Cancel</string>
   <string name="action_submit">Send</string>
   <string name="announcement">Attention</string>
@@ -138,6 +138,7 @@
   <string name="feedback_submit_succ_button">Done</string>
   <string name="feedback_submitting">Submitting</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
+  <string name="feedback_third_packagename_hint">Which third party app causes problems?</string>
   <string name="feedback_title">Title</string>
   <string name="feedback_title_hint">Describe the issue briefly</string>
   <string name="feedback_tracking">Track issues</string>
@@ -321,6 +322,7 @@
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
   <string name="toast_report_sent_failed">"Can't send report"</string>
   <string name="toast_report_sent_succeed">Report has been sent</string>
+  <string name="toast_third_packagename_required">Enter app name</string>
   <string name="toast_title_required">Describe your issue</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Try again</string>

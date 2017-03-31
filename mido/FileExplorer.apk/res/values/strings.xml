@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_39d">false</string>
-  <string name="APKTOOL_DUMMY_39e">false</string>
-  <string name="APKTOOL_DUMMY_39f">false</string>
-  <string name="APKTOOL_DUMMY_3a0">false</string>
-  <string name="APKTOOL_DUMMY_3a1">false</string>
-  <string name="APKTOOL_DUMMY_3a2">false</string>
-  <string name="APKTOOL_DUMMY_3a3">false</string>
-  <string name="APKTOOL_DUMMY_3a4">false</string>
-  <string name="APKTOOL_DUMMY_3a5">false</string>
-  <string name="APKTOOL_DUMMY_3a6">false</string>
-  <string name="APKTOOL_DUMMY_3a7">false</string>
-  <string name="APKTOOL_DUMMY_3a8">false</string>
-  <string name="APKTOOL_DUMMY_3a9">false</string>
-  <string name="APKTOOL_DUMMY_3aa">false</string>
-  <string name="APKTOOL_DUMMY_3ab">false</string>
-  <string name="APKTOOL_DUMMY_3ac">false</string>
-  <string name="APKTOOL_DUMMY_3ad">false</string>
-  <string name="APKTOOL_DUMMY_3ae">false</string>
   <string name="APKTOOL_DUMMY_3af">false</string>
   <string name="APKTOOL_DUMMY_3b0">false</string>
   <string name="APKTOOL_DUMMY_3b1">false</string>
@@ -61,6 +43,24 @@
   <string name="APKTOOL_DUMMY_3d7">false</string>
   <string name="APKTOOL_DUMMY_3d8">false</string>
   <string name="APKTOOL_DUMMY_3d9">false</string>
+  <string name="APKTOOL_DUMMY_3da">false</string>
+  <string name="APKTOOL_DUMMY_3db">false</string>
+  <string name="APKTOOL_DUMMY_3dc">false</string>
+  <string name="APKTOOL_DUMMY_3dd">false</string>
+  <string name="APKTOOL_DUMMY_3de">false</string>
+  <string name="APKTOOL_DUMMY_3df">false</string>
+  <string name="APKTOOL_DUMMY_3e0">false</string>
+  <string name="APKTOOL_DUMMY_3e1">false</string>
+  <string name="APKTOOL_DUMMY_3e2">false</string>
+  <string name="APKTOOL_DUMMY_3e3">false</string>
+  <string name="APKTOOL_DUMMY_3e4">false</string>
+  <string name="APKTOOL_DUMMY_3e5">false</string>
+  <string name="APKTOOL_DUMMY_3e6">false</string>
+  <string name="APKTOOL_DUMMY_3e7">false</string>
+  <string name="APKTOOL_DUMMY_3e8">false</string>
+  <string name="APKTOOL_DUMMY_3e9">false</string>
+  <string name="APKTOOL_DUMMY_3ea">false</string>
+  <string name="APKTOOL_DUMMY_3eb">false</string>
   <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
@@ -164,6 +164,9 @@
   <string name="click_to_refresh">Tap here to refresh</string>
   <string name="click_to_switch_volume">Tap to switch between internal storage and SD card</string>
   <string name="click_to_switch_volume_pad">Tap to switch between internal storage and SD card</string>
+  <string name="clockin_failed">"Couldn't check in, try again"</string>
+  <string name="clockin_success">Checked in successfully</string>
+  <string name="clockin_use">Get a prize</string>
   <string name="comment_added">Added successfully</string>
   <string name="comment_added_tip">"You're adding lots of comments. Follow this person?"</string>
   <string name="comment_delete_message">The comment will be deleted permanently.</string>
@@ -183,12 +186,14 @@
   <string name="confirm_know">OK</string>
   <string name="connecting">Connecting…</string>
   <string name="connection_error">"Couldn't connect"</string>
+  <string name="contain_sensitive_words">Remove inappropriate words and try again</string>
   <string name="copied">Copied</string>
   <string name="copy_failed">"Couldn't copy"</string>
   <string name="copy_text">Copy text</string>
   <string name="copy_to">Copy to…</string>
   <string name="count_down">Countdown: %1$s</string>
   <string name="create_shortcut_success">Added shortcut successfully</string>
+  <string name="daily_clockin">Check in</string>
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">"Don't show again"</string>
   <string name="data_consumption_confirm">OK</string>
@@ -419,6 +424,7 @@
   <string name="no_message">No messages</string>
   <string name="no_new_content_tip">All items are up to date</string>
   <string name="no_recent_files">No recent files</string>
+  <string name="no_search_content">"Couldn't find results"</string>
   <string name="no_topic">No topics</string>
   <string name="no_videos">Nothing here. Check out the ones below!</string>
   <string name="no_wifi">No network detected</string>
@@ -579,6 +585,11 @@
   <string name="rlv_refreshing">Refreshing…</string>
   <string name="rlv_release_to_close">Release to close</string>
   <string name="rlv_release_to_refresh">Release to refresh</string>
+  <string name="save">Save</string>
+  <string name="save_desc_success">Changed successfully​</string>
+  <string name="save_failed">"Couldn't save, try again"</string>
+  <string name="save_failed_for_length">Signature is too long, try a shorter one</string>
+  <string name="save_name_success">Changed successfully</string>
   <string name="save_to_local">Download</string>
   <string name="search_app">Apps &amp; folders</string>
   <string name="search_app_more">More</string>
@@ -596,6 +607,7 @@
   <string name="search_hot_video">Popular videos;Upload videos;Upload video;Short video;Short videos;Small video;Small videos</string>
   <string name="search_keyword">Tags</string>
   <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_popup_tip">You can search for people and topics</string>
   <string name="search_recent_file">File explorer;Explorer;File;Files;Manage files;File manager</string>
   <string name="search_result">Results</string>
   <string name="search_result_more">More</string>
@@ -606,6 +618,10 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Search</string>
   <string name="search_title_hint">Search</string>
+  <string name="search_topic">Search for topics</string>
+  <string name="search_user">Search for people</string>
+  <string name="see_more_topic">More topics</string>
+  <string name="see_more_user">More users</string>
   <string name="select_dest_folder">Select folder</string>
   <string name="select_image">Images</string>
   <string name="select_interest_str">Select the topics you like</string>
@@ -705,6 +721,7 @@
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
+  <string name="topic_title">Topics</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
   <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
@@ -749,6 +766,7 @@
   <string name="uploading_video">Uploading video…</string>
   <string name="usb_label">USB</string>
   <string name="used">Used</string>
+  <string name="user">Users</string>
   <string name="user_cancel">Canceled</string>
   <string name="user_center_title">Home</string>
   <string name="user_desc_default_tip">Sign in to collect points and win prizes.</string>
@@ -835,7 +853,7 @@
   <string name="video_tag_search_hint">Customize topic</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Select topic</string>
-  <string name="video_topic_hint">Search</string>
+  <string name="video_topic_hint">Search for people or topics</string>
   <string name="video_upload_btn">Next</string>
   <string name="video_upload_btn_hint">MP4 videos should be 3s~10min long</string>
   <string name="video_upload_item_more">More (%1$s)</string>
