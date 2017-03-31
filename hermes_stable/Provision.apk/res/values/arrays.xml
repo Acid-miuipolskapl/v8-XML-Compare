@@ -10,6 +10,7 @@
         <item>com.iflytek.inputmethod.oem/.FlyIME</item>
     </string-array>
     <string-array name="organized_locales">
+        <item>al</item>
         <item>dz</item>
         <item>ao</item>
         <item>ag</item>
@@ -18,9 +19,11 @@
         <item>bh</item>
         <item>bd</item>
         <item>bb</item>
+        <item>by</item>
         <item>be</item>
         <item>bz</item>
         <item>bo</item>
+        <item>ba</item>
         <item>bw</item>
         <item>bg</item>
         <item>br</item>
@@ -39,6 +42,7 @@
         <item>eg</item>
         <item>sv</item>
         <item>gq</item>
+        <item>ee</item>
         <item>et</item>
         <item>fk</item>
         <item>fr</item>
@@ -64,15 +68,20 @@
         <item>kz</item>
         <item>ke</item>
         <item>kw</item>
+        <item>lv</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
         <item>lt</item>
+        <item>mk</item>
         <item>mw</item>
         <item>my</item>
+        <item>mt</item>
         <item>mr</item>
         <item>mu</item>
         <item>mx</item>
+        <item>md</item>
+        <item>me</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
@@ -98,6 +107,7 @@
         <item>rs</item>
         <item>sg</item>
         <item>sk</item>
+        <item>si</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -110,6 +120,7 @@
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>se</item>
         <item>ch</item>
         <item>sy</item>
         <item>tw</item>
@@ -122,6 +133,7 @@
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>gb</item>
         <item>us</item>
         <item>uy</item>
         <item>uz</item>
