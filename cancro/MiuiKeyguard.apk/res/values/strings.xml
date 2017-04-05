@@ -19,6 +19,7 @@
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">Add fingerprint</string>
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password after rebooting device to be able to use fingerprint recognition</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
   <string name="fingerprint_enter_second_psw_title">Enter Second space password</string>
   <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
   <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
