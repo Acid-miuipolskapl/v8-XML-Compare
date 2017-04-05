@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_93">false</string>
-  <string name="APKTOOL_DUMMY_94">false</string>
-  <string name="APKTOOL_DUMMY_95">false</string>
-  <string name="APKTOOL_DUMMY_96">false</string>
-  <string name="APKTOOL_DUMMY_97">false</string>
-  <string name="APKTOOL_DUMMY_98">false</string>
-  <string name="APKTOOL_DUMMY_99">false</string>
   <string name="APKTOOL_DUMMY_9a">false</string>
   <string name="APKTOOL_DUMMY_9b">false</string>
   <string name="APKTOOL_DUMMY_9c">false</string>
@@ -33,6 +26,13 @@
   <string name="APKTOOL_DUMMY_b1">false</string>
   <string name="APKTOOL_DUMMY_b2">false</string>
   <string name="APKTOOL_DUMMY_b3">false</string>
+  <string name="APKTOOL_DUMMY_b4">false</string>
+  <string name="APKTOOL_DUMMY_b5">false</string>
+  <string name="APKTOOL_DUMMY_b6">false</string>
+  <string name="APKTOOL_DUMMY_b7">false</string>
+  <string name="APKTOOL_DUMMY_b8">false</string>
+  <string name="APKTOOL_DUMMY_b9">false</string>
+  <string name="APKTOOL_DUMMY_ba">false</string>
   <string name="alert_message_clear_records">Delete selected recordings?</string>
   <string name="alert_message_delete_record">Deleting the recording from your device will also delete this recording from Mi Cloud. Delete now?</string>
   <string name="alert_message_delete_record_title">Delete recording?</string>
@@ -71,7 +71,13 @@
   <string name="error_sdcard_access">"Can't access storage"</string>
   <string name="error_sdcard_unmounted">Insert SD card now</string>
   <string name="export_to_note">Export to Notes</string>
+  <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
+  <string name="head_set_tip_dialog_ok">Got it</string>
+  <string name="head_set_tip_dialog_title">Use internal mic</string>
   <string name="invalid_argument">Invalid argument</string>
+  <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
+  <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Recorder</string>
+  <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
   <string name="low_battery_error">"Less than 5% battery remaining. Stop and save your recording to make sure it isn't lost."</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Low battery</string>
@@ -115,6 +121,7 @@
   <string name="recognition_error_internal">Internal error</string>
   <string name="recognition_error_stopped">Recognition stopped</string>
   <string name="recognition_status_downloading">Downloading</string>
+  <string name="record">Record</string>
   <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
   <string name="record_download">Download from Mi Cloud</string>
   <string name="record_download_complete">Downloaded</string>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_76">false</string>
-  <string name="APKTOOL_DUMMY_77">false</string>
   <string name="about_to_recover">Just a sec…</string>
   <string name="account_error">Account error</string>
   <string name="app_name">Mi Cloud backup​</string>
@@ -28,7 +26,7 @@
   <string name="can_not_restore_in_lite_mode">"Can't restore in Lite mode"</string>
   <string name="cancel_recover_settings">&lt;u&gt;Cancel&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">Tap to try again</string>
-  <string name="cloud_app_backup_success">Finished backing up apps</string>
+  <string name="cloud_app_backup_success">Backed up apps successfully</string>
   <string name="cloud_app_check_data">Talking to Mi Cloud…</string>
   <string name="cloud_app_current_device">Current device</string>
   <string name="cloud_app_dont_restore">Set up as new device</string>
@@ -123,6 +121,6 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="start_backup_to_micloud">Back up apps to Mi Cloud</string>
   <string name="start_recover">Restore %s</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
-  <string name="wait_icon_download">Downloading apps icon</string>
+  <string name="wait_icon_download">Downloading app icons</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

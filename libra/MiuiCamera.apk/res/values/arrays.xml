@@ -622,6 +622,10 @@
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>
         <item>@string/pref_camera_setting_switch_entryvalue_on</item>
     </string-array>
+    <string-array name="pref_camera_portrait_mode_entries">
+        <item>@string/pref_camera_portrait_mode_entry_off</item>
+        <item>@string/pref_camera_portrait_mode_entry_on</item>
+    </string-array>
     <string-array name="pref_front_mirror_entries">
         <item>@string/pref_front_mirror_entry_auto</item>
         <item>@string/pref_front_mirror_entry_on</item>
@@ -729,6 +733,14 @@
         <item>2</item>
         <item>1</item>
         <item>0</item>
+    </string-array>
+    <string-array name="pref_camera_zoom_mode_entries">
+        <item>@string/pref_camera_zoom_mode_entry_wide</item>
+        <item>@string/pref_camera_zoom_mode_entry_tele</item>
+    </string-array>
+    <string-array name="pref_camera_zoom_mode_entryvalues">
+        <item>@string/pref_camera_zoom_mode_entryvalue_wide</item>
+        <item>@string/pref_camera_zoom_mode_entryvalue_tele</item>
     </string-array>
     <string-array name="pref_skin_beautify_multi_level_entries">
         <item>@string/pref_camera_beautify_entry_0</item>
