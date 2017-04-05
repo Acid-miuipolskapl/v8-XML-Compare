@@ -73,5 +73,7 @@ Check lowercase"</string>
   <string name="ims_volte_attribute_settings_precondition">Precondition switch</string>
   <string name="ims_volte_attribute_settings_tl_fdd">TL domestic shield FDD</string>
   <string name="menu_settings">IMS Options Settings</string>
+  <string name="sms_cs_prefer_description">Prefer send sms from CS domain</string>
+  <string name="sms_cs_prefer_key_name">Sms cs prefer</string>
   <string name="str_please_reboot_device_to_activate">restart phone after the entry into force!</string>
 </resources>

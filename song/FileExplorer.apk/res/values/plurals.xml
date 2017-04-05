@@ -265,11 +265,11 @@
         <item quantity="one">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gem to participate in lucky draw</item>
     </plurals>
     <plurals name="clockin_days">
-        <item quantity="other">Day %1$s</item>
-        <item quantity="one">Day %1$s</item>
+        <item quantity="other">Checked in %1$s days in a row</item>
+        <item quantity="one">Checked in %1$s day in a row</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> point</item>
+        <item quantity="other">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
         <item quantity="one">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> point</item>
     </plurals>
     <plurals name="clockin_day_count">

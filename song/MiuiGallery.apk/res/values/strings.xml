@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_48a">false</string>
-  <string name="APKTOOL_DUMMY_48b">false</string>
-  <string name="APKTOOL_DUMMY_48c">false</string>
-  <string name="APKTOOL_DUMMY_48d">false</string>
   <string name="APKTOOL_DUMMY_48e">false</string>
   <string name="APKTOOL_DUMMY_48f">false</string>
   <string name="APKTOOL_DUMMY_490">false</string>
   <string name="APKTOOL_DUMMY_491">false</string>
+  <string name="APKTOOL_DUMMY_492">false</string>
+  <string name="APKTOOL_DUMMY_493">false</string>
+  <string name="APKTOOL_DUMMY_494">false</string>
+  <string name="APKTOOL_DUMMY_495">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>
@@ -833,6 +833,8 @@ Take more photos of your friends!"</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
+  <string name="loading_fail_sync_without_network">Connect to the network to download metadata</string>
+  <string name="loading_fail_syncing">Wait until metadata is fully downloaded and try again</string>
   <string name="loading_gif">Downloading GIF…</string>
   <string name="loading_gif_thumbnail">Downloading GIF thumbnail…</string>
   <string name="loading_image">Downloading image…</string>
@@ -840,6 +842,8 @@ Take more photos of your friends!"</string>
   <string name="loading_members">Loading members026</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_video">Downloading video…</string>
+  <string name="loading_video_fail_sync_without_network">Connect to the network to download metadata</string>
+  <string name="loading_video_fail_syncing">Wait until metadata is fully downloaded and try again</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
   <string name="login_and_enable_service">Sign in with Mi Account</string>
   <string name="long_press_to_refocus">Press &amp; hold to refocus</string>

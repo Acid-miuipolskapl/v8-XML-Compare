@@ -52,9 +52,9 @@
     <string-array name="aqi_detail_title">
         <item>Good</item>
         <item>Moderate</item>
-        <item>Unhealthy for Sensitive Groups</item>
+        <item>Unhealthy for sensitive groups</item>
         <item>Unhealthy</item>
-        <item>Very Unhealthy</item>
+        <item>Very unhealthy</item>
         <item>Hazardous</item>
     </string-array>
     <string-array name="weather_type">
@@ -87,9 +87,9 @@
         <item></item>
     </string-array>
     <string-array name="indices_uv_level">
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>High</item>
     </string-array>
     <string-array name="indices_sport">
         <item>Suitable</item>
@@ -158,8 +158,8 @@
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Beaufort scale</item>
-        <item>Kilometres per hour (km/h)</item>
-        <item>Metre per second (m/s)</item>
+        <item>Kilometers per hour (km/h)</item>
+        <item>Meters per second (m/s)</item>
         <item>Miles per hour (mph)</item>
         <item>Knot (kn)</item>
     </string-array>

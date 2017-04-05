@@ -221,7 +221,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_apk_desktop_pause">Paused</string>
   <string name="download_apk_desktop_pending">Pending</string>
   <string name="download_apk_desktop_running">Downloading</string>
-  <string name="download_auto_after_favorite_no_vip_summary">Automatically download songs you favorite (Except pay content)</string>
+  <string name="download_auto_after_favorite_no_vip_summary">Automatically download songs you favorite (Except paid content)</string>
   <string name="download_auto_after_favorite_summary">Automatically download songs you favorite</string>
   <string name="download_auto_after_favorite_title">Download favorites</string>
   <string name="download_auto_cancel">Download favorites is off</string>
@@ -341,7 +341,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">%d mins</string>
+  <string name="filter_by_duration_max">%d min</string>
   <string name="filter_by_duration_min">%d sec</string>
   <string name="filter_by_duration_prefix">"Hide files shorter than "</string>
   <string name="filter_by_duration_summary">Hide short audio files</string>
