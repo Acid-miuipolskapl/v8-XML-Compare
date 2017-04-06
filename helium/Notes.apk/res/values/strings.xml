@@ -25,6 +25,7 @@
   <string name="APKTOOL_DUMMY_b4">false</string>
   <string name="APKTOOL_DUMMY_b5">false</string>
   <string name="APKTOOL_DUMMY_b6">false</string>
+  <string name="APKTOOL_DUMMY_b7">false</string>
   <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alarm_bar_title">Reminder</string>
   <string name="alert_action_edit_anyway">Keep editing</string>
