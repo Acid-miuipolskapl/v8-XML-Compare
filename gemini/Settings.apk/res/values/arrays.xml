@@ -2021,7 +2021,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary</item>
+        <item>Canary Islands</item>
         <item>Cape Verde</item>
         <item>Reykjavik</item>
         <item>Adelaide</item>
@@ -2522,7 +2522,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Android版本</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>高通骁龙820处理器</item>
+        <item>高通骁龙820</item>
         <item>3000mAh(typ)</item>
         <item>1600万像素</item>
         <item>5.15英寸</item>

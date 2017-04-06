@@ -85,8 +85,8 @@
         <item>Add to exceptions</item>
     </string-array>
     <string-array name="sort_type">
-        <item>sort_order_alpha</item>
-        <item>sort_order_size</item>
+        <item>Sort by name</item>
+        <item>Sort by size</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Data Usage</item>
