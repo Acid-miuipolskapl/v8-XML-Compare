@@ -46,10 +46,10 @@
         <item>com.miui.sysbase</item>
         <item>com.lbe.security.miui</item>
         <item>com.google.android.marvin.talkback</item>
+        <item>com.android.updater</item>
     </string-array>
     <string-array name="deepclean_no_ui_white_list">
         <item>com.miui.powerkeeper</item>
-        <item>com.android.updater</item>
         <item>com.android.incallui</item>
         <item>com.miui.antispam</item>
         <item>com.miui.securitycenter</item>
@@ -97,6 +97,12 @@
         <item>com.sogou.map.android.maps</item>
         <item>com.lltskb.lltskb</item>
         <item>cld.navi.mainframe</item>
+    </string-array>
+    <string-array name="navigation_list_active">
+        <item>com.baidu.BaiduMap</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.tencent.map</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>

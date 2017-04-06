@@ -7,7 +7,7 @@
   <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
   <string name="altitude_uncalibrate_refresh">Try again</string>
   <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
-  <string name="altitude_unit">M</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">"Can't calibrate"</string>
