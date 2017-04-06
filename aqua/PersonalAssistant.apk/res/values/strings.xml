@@ -5,6 +5,9 @@
   <string name="account_address">Address</string>
   <string name="address_name_spell">Enter address</string>
   <string name="adjustment_order">Change order</string>
+  <string name="agenda">Reminders</string>
+  <string name="agenda_open">Turn on agenda reminders</string>
+  <string name="agenda_setting_brief">Get reminders about scheduled events</string>
   <string name="alipay_scan">Scanner</string>
   <string name="app_label">Smart assistant</string>
   <string name="apps">App suggestions</string>
@@ -19,6 +22,19 @@
   <string name="calc_parent">Calculator</string>
   <string name="calendar_name">Add event</string>
   <string name="calendar_parent">Calendar</string>
+  <string name="card_detail">详细使用说明</string>
+  <string name="card_detail_condition_agenda">展现条件：&lt;font color=#727272&gt;早8点开始展现今日第一条日程；上一条日程结束同时，展现下一条日程；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;日程到期后该日程条目消失；当天最后一项日程消失时，卡片消失；&lt;/font&gt;</string>
+  <string name="card_detail_condition_commute">展现条件：&lt;font color=#727272&gt;设置过家和公司（学校）地址后，工作日上下班（学）时段展现（默认初始上班时段上午7-11点，下班时段6-10点）。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前已不在上下班时段或家和公司（学校）地址被清空时消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_duokan">展现条件：&lt;font color=#727272&gt;多看阅读书架上有小说时，卡片展现。&lt;/font&gt;</string>
+  <string name="card_detail_condition_express">展现条件：&lt;font color=#727272&gt;MIUI黄页快递模块有查询记录时展现；开启第三方追踪后，在支持的第三方电商应用中追踪到快递单号后展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;快递签收二十四小时后对应的快递条目消失，卡片上无任何快递条目时卡片消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_flow">展现条件：&lt;font color=#727272&gt;在安全中心网络助手中设置流量套餐后，卡片展现。&lt;/font&gt;</string>
+  <string name="card_detail_condition_greeting">展现条件：&lt;font color=#727272&gt;每日早间时段（6：00-10：00）展现早间问候，晚间时段（19：00-24：00）展现晚间问候。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前时段已不在早晚时段时卡片消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_groupon">展现条件：&lt;font color=#727272&gt;所有票券收到出票短信后立即展现；起飞/发车/电影开场前24小时展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;飞机票火车票电影票收到短信后持续展示1小时后消失；团购券收到短信后持续展示24小时后消失；起飞/发车/电影开场1小时后消失；&lt;/font&gt;</string>
+  <string name="card_detail_condition_music">展现条件：&lt;font color=#727272&gt;有正在播放的音乐/电台类应用，或插上耳机后展现。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;播放记录最近30分钟没有更新时，卡片消失。&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;网易云音乐等部分应用需要在其设置里将锁屏方式修改为系统锁屏后，才能正常使用&lt;/font&gt;</string>
+  <string name="card_detail_condition_sport">展现条件：&lt;font color=#727272&gt;安装并登录小米运动客户端后出现&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;步数实时更新需要在安全中心为小米运动客户端添加自启动权限&lt;/font&gt;</string>
+  <string name="card_detail_condition_taxi">展现条件：&lt;font color=#727272&gt;设置过家和公司地址后，上午7-10点，下午5-8点分别开始展示打车卡片。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;非展示时间段。&lt;/font&gt;</string>
+  <string name="card_detail_condition_weather">展现条件：&lt;font color=#727272&gt;当有异常天气时，展现异常天气信息；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当异常天气结束时，该条目消失；当所有异常天气都结束时，天气卡片消失；&lt;/font&gt;</string>
+  <string name="card_example">卡片样例</string>
   <string name="card_settings">Card settings</string>
   <string name="card_settings_rule">Card order settings</string>
   <string name="check_network">Check network settings</string>
@@ -26,6 +42,9 @@
   <string name="choose_city">Select city</string>
   <string name="choose_upload">Select files to upload</string>
   <string name="city_name_spell">Enter city</string>
+  <string name="cleanup_garbage">Cleaner</string>
+  <string name="cleanup_memory">Clear cache</string>
+  <string name="cleanup_power">Deep clean</string>
   <string name="clear">Clear</string>
   <string name="closed">Off</string>
   <string name="commute">Map suggestions</string>
@@ -41,14 +60,16 @@
   <string name="cta_dialog_text4">\"Privacy Policy\".</string>
   <string name="cta_dialog_text5">The service also requires internet connection and access to the location services. Agree?</string>
   <string name="cta_dialog_title">Terms and Conditions</string>
+  <string name="daily_greeting">Daily greetings</string>
   <string name="data_error">Ann error occurred, wait a minute or two and try again</string>
   <string name="data_error_show">"The order is completed, can't view details"</string>
   <string name="drive">Drive</string>
-  <string name="duokan_open">开启多看阅读卡片</string>
-  <string name="duokan_reading">多看阅读</string>
+  <string name="duokan_not_installed">"This app isn't installed on your phone. Can't use this card now."</string>
+  <string name="duokan_open">Add Duokan card</string>
+  <string name="duokan_reading">Duokan</string>
   <string name="duokan_setting_brief">Keep reading from the place you left off.</string>
   <string name="entrance">Card shortcuts</string>
-  <string name="exercise_setting_brief">View your activity data (Allow Mi Fit to autostart in Security).</string>
+  <string name="exercise_setting_brief">View your activity stats.</string>
   <string name="express">Express delivery</string>
   <string name="express_jd">JD</string>
   <string name="express_mi_shop">Mi Store</string>
@@ -58,11 +79,22 @@
   <string name="express_support_app">Supported apps</string>
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
+  <string name="favorite">Favorites</string>
+  <string name="favorite_main">History</string>
   <string name="flow_open">Show mobile data card</string>
   <string name="flow_setting_brief">View your mobile data info (Add your data plan in Security &gt; Data usage).</string>
   <string name="focus">Follow status</string>
   <string name="focus_on_dynamic">Follow status</string>
   <string name="go_to_school">To and from work or school</string>
+  <string name="greeting_open">Turn on daily greetings</string>
+  <string name="greeting_setting_brief">Get weather info and reminders about scheduled events, alarms, and birthdays every morning and evening</string>
+  <string name="greeting_setting_brief_notice">You can change the city in the Weather app</string>
+  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
+  <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
+  <string name="greeting_weather_prefix_moring">Today</string>
+  <string name="greeting_weather_prefix_night">Tomorrow</string>
+  <string name="greeting_weather_prefix_saturday">Saturday</string>
+  <string name="greeting_weather_prefix_sunday">Sunday</string>
   <string name="groupon">Tickets &amp; coupons</string>
   <string name="groupon_open">Show tickets &amp; coupons card</string>
   <string name="groupon_setting_brief">Show info about purchased tickets and coupons.</string>
@@ -70,6 +102,8 @@
   <string name="hold_down_adjustment_order">Hold the icon on the right to drag items</string>
   <string name="home">Home</string>
   <string name="home_and_company">Home &amp; work</string>
+  <string name="hour12_format_en">hh:mm</string>
+  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Recommendations</string>
   <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">App recommendations</string>
@@ -77,6 +111,9 @@
   <string name="launch_enable">Show quick access cards</string>
   <string name="launch_function">Select features</string>
   <string name="launch_label">Quick access</string>
+  <string name="launch_no_dapp_dialog_content">The dual app responsible for this card was deleted. You can replace this card with a different one.</string>
+  <string name="launch_no_dapp_dialog_reset">Dual apps settings</string>
+  <string name="launch_no_dapp_dialog_title">The dual app was deleted</string>
   <string name="launch_noapp_dialog_cancel">Cancel</string>
   <string name="launch_noapp_dialog_content">The app responsible for this card was deleted. You can replace this card with a different one.</string>
   <string name="launch_noapp_dialog_redownload">Download again</string>
@@ -101,6 +138,7 @@
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Download</string>
   <string name="mi_sport_not_installed">"This app isn't installed on your phone. Can't use this card now."</string>
+  <string name="mi_wallet">Mi Wallet</string>
   <string name="music">Music &amp; radio</string>
   <string name="music_open">Show music &amp; radio card</string>
   <string name="music_setting_brief">Connect earphones to continue listening to music or radio from the place you left off.</string>
@@ -131,6 +169,7 @@
   <string name="notification_express_content">Track orders using Smart assistant</string>
   <string name="notification_express_title">Turn on cards from shopping apps</string>
   <string name="opened">On</string>
+  <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_parent">Alipay</string>
   <string name="place_label">Frequent places</string>
   <string name="preferences">Preferences</string>
@@ -151,6 +190,11 @@
   <string name="scan_exercise">Study</string>
   <string name="scan_parent">Scanner</string>
   <string name="scan_trans">Translate</string>
+  <string name="scanner_cancel">取消</string>
+  <string name="scanner_install">安装</string>
+  <string name="scanner_install_desc">继续使用需要安装扫一扫功能</string>
+  <string name="scanner_uninstall">扫一扫已卸载</string>
+  <string name="security">Seurity</string>
   <string name="service_unavailiable">Checknetwork connection and try again</string>
   <string name="setting_address">Add frequent places</string>
   <string name="setting_dialog_cancel">Cancel</string>
@@ -169,14 +213,22 @@
   <string name="taxi">Taxi</string>
   <string name="taxi_open">Show taxi card</string>
   <string name="taxi_setting_brief">Get a taxi in a single tap.</string>
+  <string name="trans_card">Transport card</string>
   <string name="transit_subway">Public transport</string>
   <string name="try_again">Try again</string>
   <string name="understandassistant">About Smart assistant</string>
+  <string name="unusual_weather">Weather alerts</string>
+  <string name="unusual_weather_open">Turn on weather alerts</string>
+  <string name="unusual_weather_setting_brief">Receive alerts in case dangerous weather is approaching your location.</string>
+  <string name="unusual_weather_setting_tip">The cities used for issuing alerts can be changed in the Weather app.</string>
   <string name="uploads_disabled">"Can't upload files"</string>
   <string name="walk">Walk</string>
   <string name="weibo_name">New post</string>
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">How do you normally get to your destination?</string>
+  <string name="widget_fav">favorite</string>
+  <string name="widget_fav_open">Show favorite card</string>
+  <string name="widget_fav_setting_brief">View your favorite data.</string>
   <string name="wx_aa">Go Dutch</string>
   <string name="wx_collectioncode">Receive payment</string>
   <string name="wx_name">My card</string>
@@ -184,4 +236,6 @@
   <string name="wx_paycode">Payment</string>
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Moments</string>
+  <string name="xspace_resolver_activity_title">Select app</string>
+  <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
 </resources>

@@ -169,7 +169,8 @@
   <string name="badPin2">Old PIN2 incorrect. Try again.</string>
   <string name="badPuk2">PUK2 incorrect. Try again.</string>
   <string name="bad_pin">The PIN you entered is incorrect.</string>
-  <string name="bad_pin2">The old PIN2 you entered is incorrect.</string>
+  <string name="bad_pin2">The PIN2 you entered is incorrect.</string>
+  <string name="bad_pin2_old">The old PIN2 you entered is incorrect.</string>
   <string name="bad_puk">The PUK you entered is incorrect.</string>
   <string name="bad_puk2">The PUK2 you entered is incorrect.</string>
   <string name="battery_info_status_charging">Charging</string>
@@ -237,6 +238,7 @@
   <string name="bugreport_in_power">Bug report shortcut</string>
   <string name="bugreport_in_power_summary">Show a button in the power menu for taking a bug report</string>
   <string name="button_convert_fbe">Wipe and convert…</string>
+  <string name="callEnded_pulled">Call transferred to another device.</string>
   <string name="callFailed_QOS_unavailable">Quality of service unavailable</string>
   <string name="callFailed_access_information_discarded">Access information discarded</string>
   <string name="callFailed_bearer_capability_not_authorized">Bearer capability not authorized</string>
@@ -249,6 +251,9 @@
   <string name="callFailed_channel_unacceptable">Channel unacceptable</string>
   <string name="callFailed_conditional_IE_error">Conditional IE error</string>
   <string name="callFailed_congestion">Network busy</string>
+  <string name="callFailed_data_disabled">Call ended because cellular data was disabled.</string>
+  <string name="callFailed_data_limit_reached">Data limit reached. Call ended.</string>
+  <string name="callFailed_data_limit_reached_description">Call ended because the cellular data limit has been reached.</string>
   <string name="callFailed_destination_out_of_order">Destination out of order</string>
   <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
   <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
@@ -269,6 +274,7 @@
   <string name="callFailed_invalid_transaction_identifier">Invalid transaction identifier value</string>
   <string name="callFailed_invalid_transit_NW_selection">Invalid transit network selection</string>
   <string name="callFailed_limitExceeded">ACM limit exceeded</string>
+  <string name="callFailed_maximum_reached">All available lines are in use. To make a call, disconnect one of the calls on this device, or on one of your other devices.</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Message not compatible with protocol state</string>
   <string name="callFailed_message_type_non_implemented">Message type non-existent or not implemented</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Message type not compatible with protocol state</string>
@@ -317,7 +323,7 @@
   <string name="call_barring">Call barring</string>
   <string name="call_barring_sum">Voice call barring settings</string>
   <string name="call_description_recording">Recording…</string>
-  <string name="call_forward_option">CallForward Options</string>
+  <string name="call_forward_option">Call forwarding</string>
   <string name="call_forwarding_number_hint">Forward calls to</string>
   <string name="call_forwarding_settings">Call forwarding settings</string>
   <string name="call_forwarding_settings_with_label">Call forwarding settings (%s)</string>
@@ -476,6 +482,8 @@
   <string name="convert_to_file_encryption">Convert to file encryption</string>
   <string name="convert_to_file_encryption_done">Already file encrypted</string>
   <string name="convert_to_file_encryption_enabled">Convert…</string>
+  <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
+  <string name="crescendo_ringer_title">Increasing ringtone volume</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -1031,6 +1039,7 @@ Try again or call customer service for more options."</string>
   <string name="path_caller_id_title">System apps/Phone/Advanced settings/Caller ID</string>
   <string name="path_cloud_antispam_title">System apps/Phone/Identify unknown numbers</string>
   <string name="path_connect_disconnect_vibrate_title">System apps/Phone/Advanced settings/Vibrate when your call is answered</string>
+  <string name="path_crescendo_ringer_title">System apps/Phone/Incoming call settings/Increasing ringtone volume</string>
   <string name="path_dtmf_tones_title">System apps/Phone/Advanced settings/DTMF tones</string>
   <string name="path_enable_antispam_strange_title">System apps/Phone/Incoming call settings/Mute first ring</string>
   <string name="path_enable_proximity_title">System apps/Phone/Incoming call settings/Proximity sensor</string>
@@ -1271,6 +1280,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="search_caller_id_title">@string/caller_id_title</string>
   <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
   <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+  <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
   <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
   <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
   <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
@@ -1363,8 +1373,10 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_edit_title">SIP account details</string>
   <string name="sip_menu_discard">Discard</string>
   <string name="sip_menu_save">Save</string>
+  <string name="sip_profile_create_error">"Couldn't create a new SIP profile"</string>
   <string name="sip_receive_calls">Receive incoming calls</string>
   <string name="sip_receive_calls_summary">Uses more battery life</string>
+  <string name="sip_save_register_error">"Couldn't register and save a new SIP profile"</string>
   <string name="sip_settings">SIP settings</string>
   <string name="sip_system_decide">Automatic</string>
   <string name="smart_divert_summary">CFNRc Settings</string>
@@ -1559,6 +1571,9 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Visual Voicemail</string>
   <string name="voip_setting">VoIP settings</string>
+  <string name="volte_provision_notification_activate">Activate</string>
+  <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
+  <string name="volte_provision_title">Activate VoLTE calls</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_bar_home_description">Go to Start page</string>
+  <string name="abc_action_bar_up_description">Go up</string>
   <string name="abc_action_menu_overflow_description">More</string>
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_action_mode_select_all">Select all</string>
@@ -269,6 +269,7 @@
   <string name="bookmark_title_lable">Title</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
+  <string name="bookmark_url_can_not_null">Please enter the URL.</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
@@ -278,10 +279,10 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
-  <string name="browserFrameFileErrorLabel">File problem</string>
+  <string name="browserFrameFileErrorLabel">File error</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
-  <string name="browserFrameNetworkErrorLabel">Connection problem</string>
+  <string name="browserFrameNetworkErrorLabel">Connection error</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs</string>
   <string name="choosertitle_sharevia">Share via</string>
@@ -368,7 +369,7 @@
   <string name="contextmenu_openlink">Open</string>
   <string name="contextmenu_openlink_newwindow">Open in new tab</string>
   <string name="contextmenu_openlink_newwindow_background">Open in background tab</string>
-  <string name="contextmenu_recognise_qr_code">Recognise QR code</string>
+  <string name="contextmenu_recognise_qr_code">Scan QR code</string>
   <string name="contextmenu_savelink">Save link</string>
   <string name="contextmenu_send_mail">Send email</string>
   <string name="contextmenu_set_wallpaper">Set as wallpaper</string>
@@ -466,6 +467,7 @@ Pages you view won't appear in history."</string>
   <string name="edit">Edit</string>
   <string name="edit_bookmark">Edit bookmark</string>
   <string name="edit_quicklink">Edit</string>
+  <string name="empty_app_name">other app</string>
   <string name="empty_bookmark">Empty</string>
   <string name="empty_history_hint">History is empty</string>
   <string name="empty_snapshot_hint">Empty</string>
@@ -501,7 +503,7 @@ Pages you view won't appear in history."</string>
   <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>
   <string name="geolocation_permissions_prompt_share">Share location</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location info. To change this go to Settings &gt; Advanced &gt; Website data.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location info. You can change this in Settings.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel</string>
   <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
@@ -515,7 +517,7 @@ Pages you view won't appear in history."</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="hint">Hint</string>
-  <string name="history_saved_webpage">Save page</string>
+  <string name="history_saved_webpage">Saved pages</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Delete</string>
   <string name="homepage_get_location">Get location</string>
@@ -538,7 +540,7 @@ Pages you view won't appear in history."</string>
 Leave this page?"</string>
   <string name="js_dialog_before_unload_negative_button">Stay</string>
   <string name="js_dialog_before_unload_positive_button">Leave</string>
-  <string name="js_dialog_before_unload_title">Confirm Navigation</string>
+  <string name="js_dialog_before_unload_title">Leave page</string>
   <string name="js_dialog_title">The page at \"%s\" says:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Disabling JavaScript may cause some websites to display incorrectly.</string>
@@ -665,6 +667,7 @@ Leave this page?"</string>
   <string name="notif_install_successful">Download complete</string>
   <string name="ok">OK</string>
   <string name="older">Older</string>
+  <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"Can't open File Explorer"</string>
   <string name="opening_file_error">Failed to open selected file</string>
   <string name="page_info">Page info</string>
@@ -729,7 +732,7 @@ Leave this page?"</string>
   <string name="pref_file_download_save_modify_default_path">Downloads location</string>
   <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Swipe from edge</string>
-  <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge of the screen</string>
+  <string name="pref_fling_on_border_title_summary">Swipe from the left or right edge</string>
   <string name="pref_font_size_category">Webpage text size</string>
   <string name="pref_force_userscalable">Force zoom</string>
   <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behavior"</string>
@@ -853,8 +856,8 @@ Leave this page?"</string>
   <string name="save_button_text">Save</string>
   <string name="save_dialog_title">Save</string>
   <string name="save_file">Save %s files</string>
-  <string name="save_file_already_exist_alert_message">A file with the same name already exists, do you want to overwrite it?</string>
-  <string name="save_file_already_exist_alert_title">Overwrite file?</string>
+  <string name="save_file_already_exist_alert_message">A file with the same name already exists, replace it?</string>
+  <string name="save_file_already_exist_alert_title">Replace file?</string>
   <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
   <string name="save_image_failed">"Couldn't save image"</string>
   <string name="save_image_success">Image saved</string>
@@ -864,9 +867,9 @@ Leave this page?"</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
   <string name="save_password_remember">Remember</string>
-  <string name="save_to_camera">Save to camera</string>
-  <string name="save_to_camera_failed">"Can't save picture"</string>
-  <string name="save_to_camera_success">Saved to camera</string>
+  <string name="save_to_camera">Save to Gallery</string>
+  <string name="save_to_camera_failed">"Can't save image"</string>
+  <string name="save_to_camera_success">Saved to Gallery</string>
   <string name="sdcard_error">Check your SD card</string>
   <string name="search">Search</string>
   <string name="search_baidu">Baidu</string>
@@ -901,7 +904,7 @@ Leave this page?"</string>
   <string name="send_comment_title">Comment</string>
   <string name="senddesktop">Home screen</string>
   <string name="sendstartpage">Start page</string>
-  <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"I'm enjoying %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
   <string name="show_security_tip_dialog_title">Terms of Service</string>
   <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
@@ -941,8 +944,8 @@ Leave this page?"</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
-  <string name="tab_hotpage">News Feed</string>
-  <string name="tab_quicklinks">Start Page</string>
+  <string name="tab_hotpage">News feed</string>
+  <string name="tab_quicklinks">Start page</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tae_sdk_login_qr_icon_close"></string>
   <string name="tae_sdk_login_qr_icon_taobao"></string>
