@@ -269,6 +269,7 @@
   <string name="bookmark_title_lable">Title</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
+  <string name="bookmark_url_can_not_null">Please enter the URL.</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
