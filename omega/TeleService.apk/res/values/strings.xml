@@ -1273,8 +1273,8 @@ Contact your carrier if this problem persists."</string>
   <string name="volte_fail_to_invit_participants">Failed to add all members to the conference.</string>
   <string name="volte_is_adding_participants">Adding conference member(s), please wait...</string>
   <string name="volte_provision_notification_activate">Activate</string>
-  <string name="volte_provision_text">Detect the VoLTE of your sim is not provisioned, activate it now?</string>
-  <string name="volte_provision_title">VoLTE provsion</string>
+  <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
+  <string name="volte_provision_title">Activate VoLTE calls</string>
   <string name="volte_ss_not_available_tips">To complete the operation, you need to open data connection of %s.</string>
   <string name="volte_ss_not_available_tips_data">To complete the operation, you need to turn on data connection of %s.</string>
   <string name="volte_ss_not_available_tips_data_roaming">To complete the operation, you need to turn on data connection and data roaming of %s.</string>
