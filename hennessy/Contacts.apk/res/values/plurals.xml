@@ -61,8 +61,8 @@
         <item quantity="one">%1$d selected</item>
     </plurals>
     <plurals name="number_of_items_available">
-        <item quantity="other">%1$d remaining</item>
-        <item quantity="one">%1$d remaing</item>
+        <item quantity="other">%1$d items remaining</item>
+        <item quantity="one">%1$d item remaining</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d favorites</item>

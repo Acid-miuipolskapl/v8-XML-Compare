@@ -115,7 +115,7 @@
         <item>Sync messages from selected SIM cards</item>
     </string-array>
     <string-array name="switch_sdk">
-        <item>Xiao mi Smart SMS</item>
+        <item>Mi Message</item>
         <item>CMCC Smart SMS</item>
     </string-array>
     <string-array name="switch_sdk_value">
