@@ -332,8 +332,8 @@
   <string name="mx_current_status">Settings</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
-  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
-  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
+  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users over the internet without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
   <string name="mx_dspt_provision_ex2">Privacy Policy</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Voice</string>
@@ -688,6 +688,6 @@ Attempt made: %s."</string>
   <string name="wild_msg_processing">Working…</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="xiaomi_service_number">Service number</string>
-  <string name="yellowpage_recommend_msg">"Check out MIUI's Messaging features"</string>
+  <string name="yellowpage_recommend_msg">"Check out MIUI's messaging features"</string>
   <string name="yes">OK</string>
 </resources>

@@ -1137,7 +1137,7 @@ This setting affects all users on this phone."</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_input_overlength">Beyond word limit</string>
+  <string name="device_name_input_overlength">You went over the character limit</string>
   <string name="device_name_usage_point">Other nearby devices can see this name.</string>
   <string name="device_picker">Choose Bluetooth device</string>
   <string name="device_rear_camera">Rear camera</string>
@@ -1626,6 +1626,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">Doesn’t support work profiles</string>
+  <string name="http_invoke_app">Web apps</string>
+  <string name="http_invoke_app_summary">Open apps faster without installing them</string>
   <string name="ignore_optimizations_off">Optimize</string>
   <string name="ignore_optimizations_off_desc">Recommended for better battery life</string>
   <string name="ignore_optimizations_on">Don’t optimize</string>
@@ -3876,6 +3878,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="turn_off_keyguard_password_alert_title">Turn off</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Some security features won't work without your password."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device using your fingerprint after you turn off the password."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"After you turn off your Lock screen password, recorded fingerprints will be deleted. You won't be able to unlock the device using your fingerprint."</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_keyguard_password">Turn on Lock screen password</string>

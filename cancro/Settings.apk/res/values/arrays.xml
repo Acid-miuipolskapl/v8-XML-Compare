@@ -1943,7 +1943,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary</item>
+        <item>Canary Islands</item>
         <item>Cape Verde</item>
         <item>Reykjavik</item>
         <item>Adelaide</item>
@@ -2444,7 +2444,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Android版本</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>高通骁龙801处理器</item>
+        <item>高通骁龙801</item>
         <item>3080mAh(typ)</item>
         <item>1300万像素</item>
         <item>5英寸</item>
@@ -2480,7 +2480,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Android版本</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary_mi3">
-        <item>高通骁龙800处理器</item>
+        <item>高通骁龙800</item>
         <item>3050mAh(typ)</item>
         <item>1300万像素</item>
         <item>5英寸</item>
