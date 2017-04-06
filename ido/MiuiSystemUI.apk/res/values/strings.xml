@@ -302,14 +302,14 @@ Slide down to lock"</string>
   <string name="usb_share_net_info">"Use computer's internet connection"</string>
   <string name="usb_storage_error_message">An error occurred while trying to view your device as USB mass storage.</string>
   <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android‘s USB storage."</string>
-  <string name="usb_storage_notification_message">Select to copy files to/from your computer.</string>
+  <string name="usb_storage_notification_message">Select to copy files to and from your computer.</string>
   <string name="usb_storage_notification_title">USB connected</string>
   <string name="usb_storage_stop_message">"Before turning off USB storage, make sure you've unmounted (“ejected”) your Android‘s USB storage from your computer."</string>
   <string name="usb_storage_stop_notification_message">Select to turn off USB storage.</string>
   <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
   <string name="usb_storage_stop_title">USB storage in use</string>
   <string name="usb_storage_title">USB connected</string>
-  <string name="user_guide_for_notification">Swipe down with one finger to pull down the notification shade</string>
+  <string name="user_guide_for_notification">Swipe down to open the Notification shade</string>
   <string name="user_guide_for_toggle">The toggle list can be scrolled horizontally</string>
   <string name="user_guide_for_toggle_list">Manage toggles</string>
   <string name="vpn_text">Touch to view settings.</string>
