@@ -314,7 +314,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
-  <string name="micloud_notif_title_dirty_data">You unsynced items</string>
+  <string name="micloud_notif_title_dirty_data">You have unsynced items</string>
   <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
