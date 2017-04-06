@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_9e">false</string>
   <string name="APKTOOL_DUMMY_9f">false</string>
   <string name="APKTOOL_DUMMY_a0">false</string>
   <string name="APKTOOL_DUMMY_a1">false</string>
@@ -71,7 +72,6 @@
   <string name="error_send_empty_note_to_weibo">"Can't send an empty note to Weibo"</string>
   <string name="error_unsupport_content">This note contains unsupported content, touch here to update</string>
   <string name="error_widget_exist_for_send_to_desktop">This note is already on your Home screen</string>
-  <string name="file_provider_authority">com.miui.notes</string>
   <string name="folder_exist">A folder with the same name already exists</string>
   <string name="force_touch_menu_add">Add note</string>
   <string name="format_move_notes_out_folder">Moved %1$s out</string>

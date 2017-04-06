@@ -862,7 +862,7 @@ or enter App lock password"</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Wrong carrier?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Your current carrier: "</string>
-  <string name="guide_primary_text">"Turn on Network assistant
+  <string name="guide_primary_text">"Use the Security app
 to manage your mobile data usage"</string>
   <string name="guide_quck_open">Turn on</string>
   <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
@@ -1000,7 +1000,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="load_fail">"Couldn't load"</string>
   <string name="load_only_under_wlan">Load using only WLAN</string>
   <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the
-        Report Bug app and send a log from your device."</string>
+        Feedback app and send a log from your device."</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_business_hongbao_message">来自%1$s</string>
   <string name="lock_screen_hongbao_message">来自“%1$s”</string>
@@ -1313,7 +1313,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_antispam">System apps/Security/Blocklist</string>
   <string name="path_antivirus">System apps/Security/Virus scan</string>
   <string name="path_app_permissions">System apps/Security/Permissions/App permissions</string>
-  <string name="path_auto_restart">System apps/Security/Permissions/Manage autostart</string>
+  <string name="path_auto_restart">System apps/Security/Permissions/Autostart</string>
   <string name="path_buy_flow">System apps/Security/Data usage/Buy mobile data</string>
   <string name="path_cleanmaster">System apps/Security/Cleaner</string>
   <string name="path_networkassistant_1">System apps/Security/Data usage</string>
@@ -1601,7 +1601,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
   <string name="protocol_exception_title">Network protocol diagnostics</string>
-  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
+  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Feedback app and send a log from your device.</string>
   <string name="qq_lucky_warning">QQ红包</string>
   <string name="quick_optimize_checking">Scanning</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Couldn't extend battery life"</string>
@@ -1904,7 +1904,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_status_updating">Testing…</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Security app features weren't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Carrier diagnostics</string>
   <string name="tc_diagnostic_upload_button">Report</string>
   <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
