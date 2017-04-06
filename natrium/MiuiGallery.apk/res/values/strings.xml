@@ -825,6 +825,8 @@ Take more photos of your friends!"</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
+  <string name="loading_fail_sync_without_network">Connect to the network to download metadata</string>
+  <string name="loading_fail_syncing">Wait until metadata is fully downloaded and try again</string>
   <string name="loading_gif">Downloading GIF…</string>
   <string name="loading_gif_thumbnail">Downloading GIF thumbnail…</string>
   <string name="loading_image">Downloading image…</string>
@@ -832,6 +834,8 @@ Take more photos of your friends!"</string>
   <string name="loading_members">Loading members026</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_video">Downloading video…</string>
+  <string name="loading_video_fail_sync_without_network">Connect to the network to download metadata</string>
+  <string name="loading_video_fail_syncing">Wait until metadata is fully downloaded and try again</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
   <string name="login_and_enable_service">Sign in with Mi Account</string>
   <string name="long_press_to_refocus">Press &amp; hold to refocus</string>
