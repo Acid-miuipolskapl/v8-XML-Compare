@@ -1266,8 +1266,8 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
   <string name="voip_setting">VoIP settings</string>
   <string name="volte_provision_notification_activate">Activate</string>
-  <string name="volte_provision_text">Detect the VoLTE of your sim is not provisioned, activate it now?</string>
-  <string name="volte_provision_title">VoLTE provsion</string>
+  <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
+  <string name="volte_provision_title">Activate VoLTE calls</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="wait_prompt_str">"Send the following tones?
