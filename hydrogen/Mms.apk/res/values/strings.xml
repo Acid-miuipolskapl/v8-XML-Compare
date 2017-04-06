@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_2ae">false</string>
   <string name="APKTOOL_DUMMY_2af">false</string>
   <string name="APKTOOL_DUMMY_2b0">false</string>
   <string name="APKTOOL_DUMMY_2b1">false</string>
@@ -26,6 +25,8 @@
   <string name="APKTOOL_DUMMY_2c5">false</string>
   <string name="APKTOOL_DUMMY_2c6">false</string>
   <string name="APKTOOL_DUMMY_2c7">false</string>
+  <string name="APKTOOL_DUMMY_2c8">false</string>
+  <string name="APKTOOL_DUMMY_2c9">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -70,7 +71,6 @@
   <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
-  <string name="batch_delete_confirm_dialog_message">Delete %1$s messages?</string>
   <string name="batch_deleting_message_progress_message">Deleting…</string>
   <string name="batch_deleting_progress_message">Deleting…</string>
   <string name="bcc_label">"Bcc: "</string>
@@ -359,8 +359,8 @@
   <string name="mx_current_status">Settings</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
-  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
-  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
+  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users over the internet without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
   <string name="mx_dspt_provision_ex2">Privacy Policy</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Voice</string>
@@ -425,6 +425,7 @@
   <string name="pref_delivery_ringtone">Delivery sound</string>
   <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
   <string name="pref_forward_title">Forward</string>
+  <string name="pref_hide_verification_code_summary">Automatically hide one-time passwords in message notifications on secured lock screen</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_msg_trash_bin_title">Recently deleted messages</string>
@@ -451,7 +452,7 @@
   <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
   <string name="pref_summary_show_recent_contacts">Show recent contacts when composing a new message</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new message is received</string>
-  <string name="pref_switch_sdk_setting">Switch smart sms engine</string>
+  <string name="pref_switch_sdk_setting">Switch smart SMS service provider</string>
   <string name="pref_system_title">System</string>
   <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other together</string>
@@ -656,6 +657,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
+  <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
@@ -713,6 +715,6 @@ Attempt made: %s."</string>
   <string name="wild_msg_processing">Working…</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="xiaomi_service_number">Service number</string>
-  <string name="yellowpage_recommend_msg">"Check out MIUI's Messaging features"</string>
+  <string name="yellowpage_recommend_msg">"Check out MIUI's messaging features"</string>
   <string name="yes">OK</string>
 </resources>
