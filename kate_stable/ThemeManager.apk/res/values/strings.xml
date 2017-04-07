@@ -3,6 +3,7 @@
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account not activated</string>
+  <string name="add_resource_detail_fail">"Can't add resource"</string>
   <string name="all_resources">All</string>
   <string name="app_name">Themes</string>
   <string name="apply_default_font_tip">"Keep using system's current font?"</string>
@@ -96,6 +97,10 @@
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customize</string>
   <string name="mi_wallpaper">MIUI wallpaper</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">The ringtone is applied to both SIM cards.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Got it</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">"Don't show again"</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Compatibility issues</string>
   <string name="my_gifts">Gifts</string>
   <string name="my_gifts_purchased">Purchased</string>
   <string name="my_gifts_received">Received</string>
@@ -106,7 +111,7 @@
   <string name="present_online_themes">Get more themes for free</string>
   <string name="provision_default_theme_title">Default</string>
   <string name="provision_loading_tips">Just a sec…</string>
-  <string name="provision_second_title">Select one of the five default themes</string>
+  <string name="provision_second_title">Select one of the several default themes</string>
   <string name="provision_title">Choose a theme</string>
   <string name="purchased_list">Purchased</string>
   <string name="purchased_list_current">MIUI 8</string>
@@ -241,11 +246,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Free</string>
   <string name="resource_price_unit"> Mi Credits</string>
-  <string name="resource_purchase_common_error">Operation Failed.please try again.</string>
+  <string name="resource_purchase_common_error">An error occurred, try again</string>
   <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
   <string name="resource_purchase_getting_order">Retrieving order info…</string>
   <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
-  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
+  <string name="resource_purchase_vip_pay_failed">"Couldn't pay for VIP"</string>
   <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">Free</string>
@@ -387,6 +392,7 @@
   <string name="theme_user_agreement_remind_summary">Show the Terms of Use pop-up every time you open the Themes app. This setting will take effect after you reboot your device.</string>
   <string name="theme_user_agreement_title">Terms of Use</string>
   <string name="theme_yes">Yes</string>
+  <string name="third_party_pickers_activity_title">Add %1$s</string>
   <string name="title_component">Customize theme</string>
   <string name="title_my_audio_resource">My ringtones</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
@@ -398,6 +404,6 @@
   <string name="wallpaper_loading_text">Just a sec…</string>
   <string name="wallpaper_set_as_both">Set both</string>
   <string name="wallpaper_set_as_destop">Set as Home screen</string>
-  <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
+  <string name="wallpaper_set_as_lockscreen">Set as Lock screen</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
 </resources>
