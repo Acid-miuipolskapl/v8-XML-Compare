@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_241">false</string>
-  <string name="APKTOOL_DUMMY_242">false</string>
   <string name="APKTOOL_DUMMY_243">false</string>
   <string name="APKTOOL_DUMMY_244">false</string>
   <string name="APKTOOL_DUMMY_245">false</string>
@@ -258,6 +256,8 @@
   <string name="APKTOOL_DUMMY_340">false</string>
   <string name="APKTOOL_DUMMY_341">false</string>
   <string name="APKTOOL_DUMMY_342">false</string>
+  <string name="APKTOOL_DUMMY_343">false</string>
+  <string name="APKTOOL_DUMMY_344">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -356,6 +356,7 @@ facial expression to synthesize into a photo"</string>
   <string name="portrait_mode_lowlight_hint">More light required</string>
   <string name="portrait_mode_too_close_hint">Move farther away</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
+  <string name="portrait_with_facebeauty_hint">Beauty preference in portrait mode is now available.</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
   <string name="pref_audio_focus_entry_front">Front</string>
@@ -586,6 +587,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode off</string>
   <string name="pref_camera_portrait_mode_entry_on">Portrait mode on</string>
   <string name="pref_camera_portrait_mode_title">Portrait mode</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in portrait mode</string>
   <string name="pref_camera_recordlocation_default">false</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>

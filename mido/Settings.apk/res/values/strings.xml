@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_13ec">false</string>
-  <string name="APKTOOL_DUMMY_13ed">false</string>
-  <string name="APKTOOL_DUMMY_13ee">false</string>
-  <string name="APKTOOL_DUMMY_13ef">false</string>
-  <string name="APKTOOL_DUMMY_13f0">false</string>
-  <string name="APKTOOL_DUMMY_13f1">false</string>
-  <string name="APKTOOL_DUMMY_13f2">false</string>
-  <string name="APKTOOL_DUMMY_13f3">false</string>
-  <string name="APKTOOL_DUMMY_13f4">false</string>
   <string name="APKTOOL_DUMMY_13f5">false</string>
   <string name="APKTOOL_DUMMY_13f6">false</string>
   <string name="APKTOOL_DUMMY_13f7">false</string>
@@ -34,17 +25,18 @@
   <string name="APKTOOL_DUMMY_140b">false</string>
   <string name="APKTOOL_DUMMY_140c">false</string>
   <string name="APKTOOL_DUMMY_140d">false</string>
-  <string name="APKTOOL_DUMMY_1420">false</string>
-  <string name="APKTOOL_DUMMY_1421">false</string>
-  <string name="APKTOOL_DUMMY_1422">false</string>
-  <string name="APKTOOL_DUMMY_1436">false</string>
-  <string name="APKTOOL_DUMMY_1437">false</string>
-  <string name="APKTOOL_DUMMY_1438">false</string>
-  <string name="APKTOOL_DUMMY_1439">false</string>
-  <string name="APKTOOL_DUMMY_143a">false</string>
-  <string name="APKTOOL_DUMMY_143b">false</string>
-  <string name="APKTOOL_DUMMY_143c">false</string>
-  <string name="APKTOOL_DUMMY_143d">false</string>
+  <string name="APKTOOL_DUMMY_140e">false</string>
+  <string name="APKTOOL_DUMMY_140f">false</string>
+  <string name="APKTOOL_DUMMY_1410">false</string>
+  <string name="APKTOOL_DUMMY_1411">false</string>
+  <string name="APKTOOL_DUMMY_1412">false</string>
+  <string name="APKTOOL_DUMMY_1413">false</string>
+  <string name="APKTOOL_DUMMY_1414">false</string>
+  <string name="APKTOOL_DUMMY_1415">false</string>
+  <string name="APKTOOL_DUMMY_1416">false</string>
+  <string name="APKTOOL_DUMMY_1428">false</string>
+  <string name="APKTOOL_DUMMY_1429">false</string>
+  <string name="APKTOOL_DUMMY_142a">false</string>
   <string name="APKTOOL_DUMMY_143e">false</string>
   <string name="APKTOOL_DUMMY_143f">false</string>
   <string name="APKTOOL_DUMMY_1440">false</string>
@@ -61,17 +53,25 @@
   <string name="APKTOOL_DUMMY_144b">false</string>
   <string name="APKTOOL_DUMMY_144c">false</string>
   <string name="APKTOOL_DUMMY_144d">false</string>
+  <string name="APKTOOL_DUMMY_144e">false</string>
+  <string name="APKTOOL_DUMMY_144f">false</string>
+  <string name="APKTOOL_DUMMY_1450">false</string>
+  <string name="APKTOOL_DUMMY_1451">false</string>
+  <string name="APKTOOL_DUMMY_1452">false</string>
+  <string name="APKTOOL_DUMMY_1453">false</string>
+  <string name="APKTOOL_DUMMY_1454">false</string>
   <string name="APKTOOL_DUMMY_1455">false</string>
-  <string name="APKTOOL_DUMMY_1456">false</string>
-  <string name="APKTOOL_DUMMY_1457">false</string>
-  <string name="APKTOOL_DUMMY_1458">false</string>
-  <string name="APKTOOL_DUMMY_1459">false</string>
-  <string name="APKTOOL_DUMMY_145a">false</string>
-  <string name="APKTOOL_DUMMY_1512">false</string>
-  <string name="APKTOOL_DUMMY_1513">false</string>
-  <string name="APKTOOL_DUMMY_1514">false</string>
-  <string name="APKTOOL_DUMMY_1515">false</string>
-  <string name="APKTOOL_DUMMY_1516">false</string>
+  <string name="APKTOOL_DUMMY_145d">false</string>
+  <string name="APKTOOL_DUMMY_145e">false</string>
+  <string name="APKTOOL_DUMMY_145f">false</string>
+  <string name="APKTOOL_DUMMY_1460">false</string>
+  <string name="APKTOOL_DUMMY_1461">false</string>
+  <string name="APKTOOL_DUMMY_1462">false</string>
+  <string name="APKTOOL_DUMMY_151a">false</string>
+  <string name="APKTOOL_DUMMY_151b">false</string>
+  <string name="APKTOOL_DUMMY_151c">false</string>
+  <string name="APKTOOL_DUMMY_151d">false</string>
+  <string name="APKTOOL_DUMMY_151e">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -205,6 +205,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
   <string name="account_list">Other accounts</string>
+  <string name="account_other">Other</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
@@ -1358,7 +1359,7 @@ This setting affects all users on this phone."</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_input_overlength">Beyond word limit</string>
+  <string name="device_name_input_overlength">You went over the character limit</string>
   <string name="device_name_usage_point">Other nearby devices can see this name.</string>
   <string name="device_picker">Choose Bluetooth device</string>
   <string name="device_rear_camera">Rear camera</string>
@@ -1794,6 +1795,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="go_back_button_label">Go back</string>
   <string name="google_backup_enable">Turn on backups</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
+  <string name="google_title">Google</string>
   <string name="got_it">Got it</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">One-handed mode</string>
@@ -1887,6 +1889,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="home_work_profile_not_supported">Doesn’t support work profiles</string>
   <string name="hotspot_accout_check_server_url"/>
   <string name="hotspot_accout_up_sell_url"/>
+  <string name="http_invoke_app">Web apps</string>
+  <string name="http_invoke_app_summary">Open apps faster without installing them</string>
   <string name="ignore_optimizations_off">Optimize</string>
   <string name="ignore_optimizations_off_desc">Recommended for better battery life</string>
   <string name="ignore_optimizations_on">Don’t optimize</string>
@@ -2023,7 +2027,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="keywords_paper_mode">Flux;Read;Reading mode;Blue light;protect eyes</string>
   <string name="keywords_printing">printer</string>
   <string name="keywords_profile_challenge">work challenge, work, profile</string>
-  <string name="keywords_quick_ball">Quick nall;shortcut;shortcuts;toggles;toggle</string>
+  <string name="keywords_quick_ball">Quick ball;shortcut;shortcuts;toggles;toggle</string>
   <string name="keywords_reset_apps">reset, preferences, default</string>
   <string name="keywords_silent">Silent;Mute;Turn off sound</string>
   <string name="keywords_sounds">speaker beep</string>
@@ -3339,7 +3343,7 @@ To use screen pinning:
   <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
   <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
   <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
-  <string name="screen_recorder">Record screen</string>
+  <string name="screen_recorder">Screen recorder</string>
   <string name="screen_resolution_dialog_title">Switch resolution</string>
   <string name="screen_resolution_high_format">High (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -3537,7 +3541,7 @@ To use screen pinning:
   <string name="search_screen_saver_settings">Screensaver</string>
   <string name="search_screen_timeout">Sleep;Auto Lock Screen;Screen lock</string>
   <string name="search_screenshot">Screenshot</string>
-  <string name="search_second_space">Second space</string>
+  <string name="search_second_space">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
   <string name="search_security_encryption_title">Encrypt device using lock screen password;Encrypt;Encryption;Encrypt device;Encrypt phone</string>
   <string name="search_security_passwords_title">Password;Screen lock;PIN;Pattern</string>
   <string name="search_security_privacy_settings_title">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
@@ -3602,7 +3606,7 @@ To use screen pinning:
   <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate;WAPI certificates;WAPI</string>
   <string name="search_wps_connect_title">WPS push button;Connect WPS;WPS</string>
   <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
-  <string name="search_xspace">Dual apps;clone apps</string>
+  <string name="search_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="second_space">Second space</string>
   <string name="secure_keyguard_business_title">Set screen lock</string>
   <string name="secure_lock_encryption_warning">Because you’ve turned on an accessibility service, your device won’t use your screen lock to enhance data encryption.</string>
@@ -3941,7 +3945,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_carrier_summary">Carrier name is still displayed on the lock screen and in the notification shade when this feature is off</string>
   <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
-  <string name="status_bar_settings_show_flow_info">Show flow details</string>
+  <string name="status_bar_settings_show_flow_info">Show data usage</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
   <string name="status_bar_settings_show_keyguard_notification">Lock screen notifications</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
@@ -4074,9 +4078,9 @@ After formatting, this ^1 will only work in this device.
 "&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
   <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
-
 "&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
   <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
+  <string name="storage_wizard_format_confirm_third_body">The ^1 is being formatted</string>
   <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
   <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
   <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
@@ -4086,7 +4090,6 @@ After formatting, this ^1 will only work in this device.
   <string name="storage_wizard_init_internal_title">Use as internal storage</string>
   <string name="storage_wizard_init_title">Set up your ^1</string>
   <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
-
 The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Move</string>
@@ -4307,8 +4310,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_title">Default language status</string>
   <string name="turn_off_common_password_confirm_msg">Screen lock will be turned off as well.</string>
   <string name="turn_off_keyguard_password_alert_title">Turn off</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Device protection features will not work without your pattern.</string>
+  <string name="turn_off_keyguard_password_confirm_msg">"Some security features won't work without your password."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device using your fingerprint after you turn off the password."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"After you turn off your Lock screen password, recorded fingerprints will be deleted. You won't be able to unlock the device using your fingerprint."</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_keyguard_password">Turn on Lock screen password</string>
   <string name="turn_on_security_lock">Choose screen lock</string>
@@ -5201,8 +5205,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="work_profile_confirm_remove_title">Remove work profile?</string>
   <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
   <string name="work_sim_title">Work SIM</string>
-  <string name="work_space_delete">Delete work space</string>
-  <string name="work_space_delete_confirm">Confirm delete</string>
+  <string name="work_space_delete">Delete Work space</string>
+  <string name="work_space_delete_confirm">Delete now</string>
   <string name="work_space_delete_description">"You won't be able to enter Work space after you delete it. All data will be moved or deleted."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Make sure the router supports and has WPS enabled</string>
@@ -5219,6 +5223,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
+  <string name="xiaomi_cloud_service_disabled">Off</string>
+  <string name="xiaomi_cloud_service_unknown">Unknown</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">Tap to view more info.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router available</string>

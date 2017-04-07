@@ -10,7 +10,7 @@
   <string name="android_add_account_label">@android:string/add_account_button_label</string>
   <string name="android_aerr_application">@android:string/aerr_process</string>
   <string name="android_aerr_process">@android:string/aerr_application_repeated</string>
-  <string name="android_aerr_title">@android:string/APKTOOL_DUMMY_622</string>
+  <string name="android_aerr_title">@android:string/usb_storage_title</string>
   <string name="android_anr_activity_application">@android:string/anr_activity_process</string>
   <string name="android_anr_activity_process">@android:string/anr_application_process</string>
   <string name="android_anr_application_process">@android:string/anr_process</string>
