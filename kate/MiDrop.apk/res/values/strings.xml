@@ -82,7 +82,7 @@
   <string name="sender_in_progress_later">Try again later</string>
   <string name="sender_in_progress_now">Cancel</string>
   <string name="sender_in_progress_title">Cancel transfer?</string>
-  <string name="sender_interrupt_summary">"Don't turn off Wi-Fi when files are sending"</string>
+  <string name="sender_interrupt_summary">"Don't turn off Wi-Fi when files are being sent"</string>
   <string name="sender_interupt">Transfer interrupted</string>
   <string name="sender_reject">"Don't accept"</string>
   <string name="sender_reject_kick_off">Please try it later</string>

@@ -419,6 +419,9 @@ or enter App lock password"</string>
   <string name="card_main_deepclean_action">Clear</string>
   <string name="card_main_deepclean_summary">Delete unnecessary files</string>
   <string name="card_main_deepclean_title">Deep clean</string>
+  <string name="card_main_deepclean_wechat_action">Clear</string>
+  <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
+  <string name="card_main_deepclean_wechat_title">WeChat cache</string>
   <string name="card_main_gamebooster_summary">Boost speed &amp; improve gaming experience</string>
   <string name="card_main_gamebooster_title">Gaming speed boost</string>
   <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
@@ -626,7 +629,7 @@ or enter App lock password"</string>
   <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
   <string name="firewall_network_restrict_notify_mobile">mobile data</string>
-  <string name="firewall_network_restrict_notify_title">"%1$scan't use network"</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s can't use network"</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
@@ -659,7 +662,7 @@ or enter App lock password"</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Wrong carrier?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Your current carrier: "</string>
-  <string name="guide_primary_text">"Turn on Network assistant
+  <string name="guide_primary_text">"Use the Security app
 to manage your mobile data usage"</string>
   <string name="guide_quck_open">Turn on</string>
   <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
@@ -797,7 +800,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="load_fail">"Couldn't load"</string>
   <string name="load_only_under_wlan">Load using only Wi-Fi</string>
   <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the
-        Report Bug app and send a log from your device."</string>
+        Feedback app and send a log from your device."</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_business_hongbao_message">来自%1$s</string>
   <string name="lock_screen_hongbao_message">来自“%1$s”</string>
@@ -965,11 +968,11 @@ to respond"</string>
   <string name="network_diagnostics">Test network</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
- 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+ 1. Make sure you haven't exceeded your mobile data plan's limit.
 
  2. If you just topped up your device's balance, reboot your device and try again.
 
- 3. Your carrier's network's signal may be weak in your current location."</string>
+ 3. Your carrier's network signal may be weak in your current location."</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted
         properly and that your mobile plan has been activated by your carrier."</string>
@@ -981,7 +984,7 @@ to respond"</string>
 If you're connected to a public Wi-Fi network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
  "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
-Make sure that your account is in good standing with your Internet Service Provider.
+Make sure that your account is in good standing with your Internet service provider.
 
  "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
 Try rebooting your router or checking the admin settings for your router.
@@ -990,7 +993,7 @@ Try rebooting your router or checking the admin settings for your router.
 Read the instructions that came with your router and restore your router to its factory settings.
 
  "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
-Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider. "</string>
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider. "</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
  1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -1110,7 +1113,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="path_antispam">System apps/Security/Blocklist</string>
   <string name="path_antivirus">System apps/Security/Virus scan</string>
   <string name="path_app_permissions">System apps/Security/Permissions/App permissions</string>
-  <string name="path_auto_restart">System apps/Security/Permissions/Manage autostart</string>
+  <string name="path_auto_restart">System apps/Security/Permissions/Autostart</string>
   <string name="path_buy_flow">System apps/Security/Data usage/Buy mobile data</string>
   <string name="path_cleanmaster">System apps/Security/Cleaner</string>
   <string name="path_networkassistant_1">System apps/Security/Data usage</string>
@@ -1129,6 +1132,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
+  <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Accept</string>
   <string name="permission_action_prompt">Notify</string>
@@ -1383,7 +1387,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and
         uploaded to Mi's servers in order to update your data usage info."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order t acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
+  <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and
@@ -1397,7 +1401,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
   <string name="protocol_exception_title">Network protocol diagnostics</string>
-  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
+  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Feedback app and send a log from your device.</string>
   <string name="qq_lucky_warning">QQ红包</string>
   <string name="quick_optimize_checking">Scanning</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Couldn't extend battery life"</string>
@@ -1700,7 +1704,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_status_updating">Testing…</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Security app features weren't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Carrier diagnostics</string>
   <string name="tc_diagnostic_upload_button">Report</string>
   <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
@@ -1739,9 +1743,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
         updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
-  <string name="tc_sms_report_title_bill">Report data usage bug</string>
-  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">Getting info…</string>
+  <string name="tc_sms_report_type">Report type</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
   <string name="temperature_formatted_text">%s℃</string>
@@ -1755,6 +1758,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
 不再错过任何红包"</string>
   <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
   <string name="text_button">Got it</string>
+  <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
   <string name="text_error">相关软件版本过低或未安装</string>
   <string name="text_lock_info">Draw unlock pattern</string>
@@ -1885,7 +1889,7 @@ Rolled over extra data"</string>
   <string name="traffic_correction_success">Data usage updated</string>
   <string name="traffic_correction_success_notify_message">Tap to view details.</string>
   <string name="traffic_limit_error_alert_body">"Your remaining data for this month (%1$s) is bigger than your monthly
-        plan (%2$s). Mark extra data as top-up package?"</string>
+        plan (%2$s). Monthly plan changed?"</string>
   <string name="traffic_limit_error_alert_package">"
 
 Remaining data includes data that has been rolled over from
@@ -1903,7 +1907,7 @@ Remaining data includes data that has been rolled over from
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button1_text">Cancel</string>
   <string name="traffic_setting_fragment_button2_text">Save</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;不清楚品牌？&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Not sure about the carrier?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>

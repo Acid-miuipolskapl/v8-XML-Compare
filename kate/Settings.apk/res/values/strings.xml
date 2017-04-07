@@ -1137,7 +1137,7 @@ This setting affects all users on this phone."</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_input_overlength">Beyond word limit</string>
+  <string name="device_name_input_overlength">You went over the character limit</string>
   <string name="device_name_usage_point">Other nearby devices can see this name.</string>
   <string name="device_picker">Choose Bluetooth device</string>
   <string name="device_rear_camera">Rear camera</string>
@@ -1539,6 +1539,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_enable">Turn on backups</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
+  <string name="google_title">Google</string>
   <string name="got_it">Got it</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">One-handed mode</string>
@@ -1625,6 +1626,8 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">Doesn’t support work profiles</string>
+  <string name="http_invoke_app">Web apps</string>
+  <string name="http_invoke_app_summary">Open apps faster without installing them</string>
   <string name="ignore_optimizations_off">Optimize</string>
   <string name="ignore_optimizations_off_desc">Recommended for better battery life</string>
   <string name="ignore_optimizations_on">Don’t optimize</string>
@@ -1755,7 +1758,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="keywords_network_reset">reset restore factory</string>
   <string name="keywords_paper_mode">Flux;Read;Reading mode;Blue light;protect eyes</string>
   <string name="keywords_printing">printer</string>
-  <string name="keywords_quick_ball">Quick nall;shortcut;shortcuts;toggles;toggle</string>
+  <string name="keywords_quick_ball">Quick ball;shortcut;shortcuts;toggles;toggle</string>
   <string name="keywords_reset_apps">reset preferences default</string>
   <string name="keywords_silent">Silent;Mute;Turn off sound</string>
   <string name="keywords_sounds_and_notifications">speaker beep</string>
@@ -2950,7 +2953,7 @@ To use screen pinning:
   <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
   <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
   <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
-  <string name="screen_recorder">Record screen</string>
+  <string name="screen_recorder">Screen recorder</string>
   <string name="screen_resolution_confirm">Reboot</string>
   <string name="screen_resolution_summary">"Lowering the display's resolution may increase battery life and system speed, but the images on screen may be less clear. Your device must reboot to apply this change."</string>
   <string name="screen_resolution_switch">Switch resolution</string>
@@ -3121,7 +3124,7 @@ To use screen pinning:
   <string name="search_screen_saver_settings">Screensaver</string>
   <string name="search_screen_timeout">Sleep;Auto Lock Screen;Screen lock</string>
   <string name="search_screenshot">Screenshot</string>
-  <string name="search_second_space">Second space</string>
+  <string name="search_second_space">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
   <string name="search_security_encryption_title">Encrypt device using lock screen password;Encrypt;Encryption;Encrypt device;Encrypt phone</string>
   <string name="search_security_passwords_title">Password;Screen lock;PIN;Pattern</string>
   <string name="search_security_privacy_settings_title">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
@@ -3186,7 +3189,7 @@ To use screen pinning:
   <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate;WAPI certificates;WAPI</string>
   <string name="search_wps_connect_title">WPS push button;Connect WPS;WPS</string>
   <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
-  <string name="search_xspace">Dual apps;clone apps</string>
+  <string name="search_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="second_space">Second space</string>
   <string name="secure_keyguard_business_title">Set screen lock</string>
   <string name="secure_lock_encryption_warning">Because you’ve turned on an accessibility service, your device won’t use your screen lock to enhance data encryption.</string>
@@ -3498,7 +3501,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_carrier_summary">Carrier name is still displayed on the lock screen and in the notification shade when this feature is off</string>
   <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
-  <string name="status_bar_settings_show_flow_info">Show flow details</string>
+  <string name="status_bar_settings_show_flow_info">Show data usage</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
   <string name="status_bar_settings_show_keyguard_notification">Lock screen notifications</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
@@ -3840,8 +3843,9 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_title">Default language status</string>
   <string name="turn_off_common_password_confirm_msg">Screen lock will be turned off as well.</string>
   <string name="turn_off_keyguard_password_alert_title">Turn off</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Device protection features will not work without your pattern.</string>
+  <string name="turn_off_keyguard_password_confirm_msg">"Some security features won't work without your password."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device using your fingerprint after you turn off the password."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"After you turn off your Lock screen password, recorded fingerprints will be deleted. You won't be able to unlock the device using your fingerprint."</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_keyguard_password">Turn on Lock screen password</string>
@@ -4641,8 +4645,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="work_profile_confirm_remove_title">Remove work profile?</string>
   <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
   <string name="work_sim_title">Work SIM</string>
-  <string name="work_space_delete">Delete work space</string>
-  <string name="work_space_delete_confirm">Confirm delete</string>
+  <string name="work_space_delete">Delete Work space</string>
+  <string name="work_space_delete_confirm">Delete now</string>
   <string name="work_space_delete_description">"You won't be able to enter Work space after you delete it. All data will be moved or deleted."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Make sure the router supports and has WPS enabled</string>

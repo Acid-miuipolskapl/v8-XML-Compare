@@ -299,7 +299,7 @@
   <string name="language_value_russian">russian</string>
   <string name="language_value_spanish">spanish</string>
   <string name="language_value_swedish">swedish</string>
-  <string name="low_version_tip">Scanner cannot run on current system, please update to the latest MIUI</string>
+  <string name="low_version_tip">MIUI version is too old. Update MIUI to use Scanner.</string>
   <string name="module_title_code">QR code</string>
   <string name="module_title_document">Document</string>
   <string name="module_title_namecard">Business card</string>
