@@ -434,6 +434,14 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_zsl_value_off">off</string>
   <string name="pref_camera_zsl_value_on">on</string>
   <string name="pref_capture_settings">Camera</string>
+  <string name="pref_dualcamera_watermark_default">@string/pref_dualcamera_watermark_entryvalue_dualcamera</string>
+  <string name="pref_dualcamera_watermark_entry_dualcamera">Dual camera</string>
+  <string name="pref_dualcamera_watermark_entry_off">Off</string>
+  <string name="pref_dualcamera_watermark_entry_timestamp">Time stamp</string>
+  <string name="pref_dualcamera_watermark_entryvalue_dualcamera">dualcamera</string>
+  <string name="pref_dualcamera_watermark_entryvalue_off">off</string>
+  <string name="pref_dualcamera_watermark_entryvalue_timestamp">timestamp</string>
+  <string name="pref_dualcamera_watermark_title">Add watermark in photo</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_face_beauty_advanced">a:1</string>
   <string name="pref_face_beauty_close">i:0</string>
