@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
-    <string name="date_time_12">EEEE, d MMMM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'বৰ্তমান সময়' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ঘড়ী এপত প্ৰৱেশ কৰিবলৈ দুবাৰ টেপ কৰক'</string>
-    <string name="weather_type_0">পৰিষ্কাৰ</string>
+    <string name="weather_type_0">ফৰকাল</string>
     <string name="weather_type_1">ডাৱৰীয়া</string>
     <string name="weather_type_2">ধুৱলী-কুঁৱলী</string>
     <string name="weather_type_3">কুঁৱলীময়</string>

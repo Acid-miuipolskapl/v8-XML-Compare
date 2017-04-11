@@ -965,6 +965,31 @@ Start Preview item to open the camera and start camera preview, in the preview p
   <string name="chipId">false</string>
   <string name="cip_prop_content">CIP Prop Content</string>
   <string name="cip_title">CIP</string>
+  <string name="clk_quality_at">Clock Quality Auto-Test tool</string>
+  <string name="clk_quality_at_check_bit_fail">"Warning:
+ Setting Fail: check bit fail"</string>
+  <string name="clk_quality_at_clock_type">ClkType</string>
+  <string name="clk_quality_at_clock_type_co_tms">Co-TMS</string>
+  <string name="clk_quality_at_clock_type_tcxo">TCXO/VCTCXO</string>
+  <string name="clk_quality_at_clock_type_wrong">"Warning:
+ Setting Fail: clock type wrong"</string>
+  <string name="clk_quality_at_cool_time">Cool time</string>
+  <string name="clk_quality_at_cw_mode">CW</string>
+  <string name="clk_quality_at_finish_notification">Clock quality AT finished</string>
+  <string name="clk_quality_at_heating_time">Heating time</string>
+  <string name="clk_quality_at_result_title">Test Result</string>
+  <string name="clk_quality_at_result_title_1">Test Item</string>
+  <string name="clk_quality_at_result_title_2">Result</string>
+  <string name="clk_quality_at_result_title_3">Clkdriftrate(ppb/s)</string>
+  <string name="clk_quality_at_result_title_4">Comclkdriftrate(ppb/s)</string>
+  <string name="clk_quality_at_signal_mode">Signal</string>
+  <string name="clk_quality_at_start">Start</string>
+  <string name="clk_quality_at_stop">Stop</string>
+  <string name="clk_quality_at_test_item_warning">Please select test items</string>
+  <string name="clk_quality_at_test_items">Test Items</string>
+  <string name="clk_quality_at_test_mode_warning">Please select test mode</string>
+  <string name="clk_quality_at_test_modes">Test Modes</string>
+  <string name="clk_quality_at_value_unit">ppb/s</string>
   <string name="clock_select_turn_off">Trun off the feature</string>
   <string name="clock_select_turn_on">Turn on the feature</string>
   <string name="cm_sensor_acc">Acceleration Sensor</string>
@@ -1530,6 +1555,10 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="ims_category_registration">Registration</string>
   <string name="ims_category_sms">SMS</string>
   <string name="ims_category_ussd">USSD</string>
+  <string name="ims_over_SGS_prefer">IMS over SGS prefer</string>
+  <string name="ims_over_SGS_prefer_modem_90">90 modem</string>
+  <string name="ims_over_SGS_prefer_modem_91">91 modem</string>
+  <string name="ims_over_SGS_prefer_modem_92">92 modem</string>
   <string name="ims_pdn_apn_hint">Emergency PDN APN:</string>
   <string name="ims_pdn_set">Set</string>
   <string name="ims_pdn_type_hint">Emergency PDN IP Type:</string>
@@ -1546,6 +1575,8 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="ims_ss_mode_hint">SS Configuration and Query Mode:</string>
   <string name="ims_ss_mode_xcap">Prefer XCAP</string>
   <string name="ims_status">IMS registration status:</string>
+  <string name="ims_test_mode_disable">Disabled</string>
+  <string name="ims_test_mode_enable">Enabled</string>
   <string name="ims_title">IMS</string>
   <string name="information">Error</string>
   <string name="init_error_msg">Init table param error</string>
