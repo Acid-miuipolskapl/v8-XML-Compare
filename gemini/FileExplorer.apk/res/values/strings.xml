@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_343">false</string>
-  <string name="APKTOOL_DUMMY_344">false</string>
   <string name="APKTOOL_DUMMY_345">false</string>
   <string name="APKTOOL_DUMMY_346">false</string>
   <string name="APKTOOL_DUMMY_347">false</string>
@@ -169,6 +167,8 @@
   <string name="APKTOOL_DUMMY_3e9">false</string>
   <string name="APKTOOL_DUMMY_3ea">false</string>
   <string name="APKTOOL_DUMMY_3eb">false</string>
+  <string name="APKTOOL_DUMMY_3ec">false</string>
+  <string name="APKTOOL_DUMMY_3ed">false</string>
   <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
@@ -268,6 +268,7 @@
   <string name="claim_video_success">Claimed successfully</string>
   <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">Tap to free up space</string>
+  <string name="clear_record">Clear history</string>
   <string name="click_login_str">Sign in</string>
   <string name="click_to_refresh">Tap here to refresh</string>
   <string name="click_to_switch_volume">Tap to switch between internal storage and SD card</string>
@@ -711,6 +712,7 @@
   <string name="search_file_type_picture">Photo</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Search</string>
+  <string name="search_history">Search history</string>
   <string name="search_hot_sticker">Stickers; Download stickers</string>
   <string name="search_hot_video">Popular videos;Upload videos;Upload video;Short video;Short videos;Small video;Small videos</string>
   <string name="search_keyword">Tags</string>

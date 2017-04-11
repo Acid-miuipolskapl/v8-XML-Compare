@@ -172,7 +172,6 @@ Tap the screen to manually add or reposition city"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Try again</string>
-  <string name="no_vote_num">%1$s people | </string>
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">Open</string>
   <string name="open_browser">Open in browser</string>
@@ -213,7 +212,6 @@ Tap the screen to manually add or reposition city"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
-  <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; people has voted"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">The day after tomorrow: %1$s</string>
   <string name="traffic_control_today_numbers">Today: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Tomorrow: %1$s</string>
@@ -241,6 +239,5 @@ Tap the screen to manually add or reposition city"</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
-  <string name="yes_vote_num"> | %1$s people</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

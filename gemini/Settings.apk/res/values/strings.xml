@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_13ce">false</string>
-  <string name="APKTOOL_DUMMY_13cf">false</string>
   <string name="APKTOOL_DUMMY_13d0">false</string>
   <string name="APKTOOL_DUMMY_13d1">false</string>
   <string name="APKTOOL_DUMMY_13d2">false</string>
@@ -34,12 +32,12 @@
   <string name="APKTOOL_DUMMY_13ed">false</string>
   <string name="APKTOOL_DUMMY_13ee">false</string>
   <string name="APKTOOL_DUMMY_13ef">false</string>
-  <string name="APKTOOL_DUMMY_1400">false</string>
-  <string name="APKTOOL_DUMMY_1401">false</string>
+  <string name="APKTOOL_DUMMY_13f0">false</string>
+  <string name="APKTOOL_DUMMY_13f1">false</string>
   <string name="APKTOOL_DUMMY_1402">false</string>
   <string name="APKTOOL_DUMMY_1403">false</string>
-  <string name="APKTOOL_DUMMY_1417">false</string>
-  <string name="APKTOOL_DUMMY_1418">false</string>
+  <string name="APKTOOL_DUMMY_1404">false</string>
+  <string name="APKTOOL_DUMMY_1405">false</string>
   <string name="APKTOOL_DUMMY_1419">false</string>
   <string name="APKTOOL_DUMMY_141a">false</string>
   <string name="APKTOOL_DUMMY_141b">false</string>
@@ -62,15 +60,15 @@
   <string name="APKTOOL_DUMMY_142c">false</string>
   <string name="APKTOOL_DUMMY_142d">false</string>
   <string name="APKTOOL_DUMMY_142e">false</string>
-  <string name="APKTOOL_DUMMY_1436">false</string>
-  <string name="APKTOOL_DUMMY_1437">false</string>
+  <string name="APKTOOL_DUMMY_142f">false</string>
+  <string name="APKTOOL_DUMMY_1430">false</string>
   <string name="APKTOOL_DUMMY_1438">false</string>
   <string name="APKTOOL_DUMMY_1439">false</string>
   <string name="APKTOOL_DUMMY_143a">false</string>
   <string name="APKTOOL_DUMMY_143b">false</string>
-  <string name="APKTOOL_DUMMY_145e">false</string>
-  <string name="APKTOOL_DUMMY_149c">false</string>
-  <string name="APKTOOL_DUMMY_149d">false</string>
+  <string name="APKTOOL_DUMMY_143c">false</string>
+  <string name="APKTOOL_DUMMY_143d">false</string>
+  <string name="APKTOOL_DUMMY_1460">false</string>
   <string name="APKTOOL_DUMMY_149e">false</string>
   <string name="APKTOOL_DUMMY_149f">false</string>
   <string name="APKTOOL_DUMMY_14a0">false</string>
@@ -86,14 +84,14 @@
   <string name="APKTOOL_DUMMY_14aa">false</string>
   <string name="APKTOOL_DUMMY_14ab">false</string>
   <string name="APKTOOL_DUMMY_14ac">false</string>
-  <string name="APKTOOL_DUMMY_14af">false</string>
-  <string name="APKTOOL_DUMMY_14b0">false</string>
+  <string name="APKTOOL_DUMMY_14ad">false</string>
+  <string name="APKTOOL_DUMMY_14ae">false</string>
   <string name="APKTOOL_DUMMY_14b1">false</string>
   <string name="APKTOOL_DUMMY_14b2">false</string>
   <string name="APKTOOL_DUMMY_14b3">false</string>
   <string name="APKTOOL_DUMMY_14b4">false</string>
+  <string name="APKTOOL_DUMMY_14b5">false</string>
   <string name="APKTOOL_DUMMY_14b6">false</string>
-  <string name="APKTOOL_DUMMY_14b7">false</string>
   <string name="APKTOOL_DUMMY_14b8">false</string>
   <string name="APKTOOL_DUMMY_14b9">false</string>
   <string name="APKTOOL_DUMMY_14ba">false</string>
@@ -159,9 +157,11 @@
   <string name="APKTOOL_DUMMY_14f6">false</string>
   <string name="APKTOOL_DUMMY_14f7">false</string>
   <string name="APKTOOL_DUMMY_14f8">false</string>
-  <string name="APKTOOL_DUMMY_150b">false</string>
-  <string name="APKTOOL_DUMMY_150c">false</string>
+  <string name="APKTOOL_DUMMY_14f9">false</string>
+  <string name="APKTOOL_DUMMY_14fa">false</string>
   <string name="APKTOOL_DUMMY_150d">false</string>
+  <string name="APKTOOL_DUMMY_150e">false</string>
+  <string name="APKTOOL_DUMMY_150f">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -2923,6 +2923,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Large area covered off screen</string>
   <string name="paper_mode_end_time_title">End time</string>
   <string name="paper_mode_start_time_title">Start time</string>
   <string name="passpoint_content">%1$s credentials</string>
@@ -4229,6 +4230,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="suspend_gesture_enabled">Flip off the screen</string>
   <string name="suspension_ball_enable">Quick ball shortcut</string>
   <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
   <string name="suw_back_button_label">Back</string>
