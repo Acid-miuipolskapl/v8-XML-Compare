@@ -2489,6 +2489,7 @@ Select your operating system:"</string>
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Large area covered off screen</string>
   <string name="paper_mode_end_time_title">End time</string>
   <string name="paper_mode_start_time_title">Start time</string>
   <string name="passpoint_content">%1$s credentials</string>
@@ -3719,6 +3720,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="suspend_gesture_enabled">Flip off the screen</string>
   <string name="suspension_ball_enable">Quick ball shortcut</string>
   <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
   <string name="suw_back_button_label">Back</string>
