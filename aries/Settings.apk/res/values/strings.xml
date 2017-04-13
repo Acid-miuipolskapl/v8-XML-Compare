@@ -76,6 +76,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
   <string name="account_list">Other accounts</string>
+  <string name="account_other">Other</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
@@ -1733,9 +1734,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_notifications_summary_hide">Hide sensitive notification content</string>
   <string name="lock_screen_notifications_summary_show">Show all notification content</string>
   <string name="lock_screen_notifications_title">When device is locked</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
-  <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Password required</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Require password immediately.</string>
+  <string name="lock_screen_secure_after_timeout_summary">Require password: %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Require password</string>
   <string name="lock_screen_signature_summary">This message will be displayed on the Lock screen</string>
   <string name="lock_screen_signature_title">Lock screen owner info</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
@@ -2088,6 +2089,7 @@ Select your operating system:"</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_unsupport_effect_summary">"USB headsets aren't supported"</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -2258,6 +2260,7 @@ Select your operating system:"</string>
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">Extra small</string>
+  <string name="palm_enabled">Cover screen to turn it off</string>
   <string name="paper_mode_end_time_title">End time</string>
   <string name="paper_mode_start_time_title">Start time</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
@@ -3298,6 +3301,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
   <string name="switch_off_text">Off</string>
   <string name="switch_on_text">On</string>
   <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
@@ -4223,6 +4227,9 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
+  <string name="xiaomi_cloud_service_disabled">Off</string>
+  <string name="xiaomi_cloud_service_unknown">Unknown</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">Tap to view more info.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router available</string>
