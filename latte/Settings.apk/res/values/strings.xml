@@ -80,6 +80,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
   <string name="account_list">Other accounts</string>
   <string name="account_login">Sign in</string>
+  <string name="account_other">Other</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
@@ -1867,9 +1868,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_notifications_summary_hide">Hide sensitive notification content</string>
   <string name="lock_screen_notifications_summary_show">Show all notification content</string>
   <string name="lock_screen_notifications_title">When device is locked</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
-  <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Password required</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Require password immediately.</string>
+  <string name="lock_screen_secure_after_timeout_summary">Require password: %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Require password</string>
   <string name="lock_screen_signature_summary">This message will be displayed on the Lock screen</string>
   <string name="lock_screen_signature_title">Lock screen owner info</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
@@ -2404,6 +2405,7 @@ Select your operating system:"</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">Extra small</string>
   <string name="page_loading">Just a sec…</string>
+  <string name="palm_enabled">Cover screen to turn it off</string>
   <string name="paper_mode_end_time_title">End time</string>
   <string name="paper_mode_start_time_title">Start time</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
@@ -3499,6 +3501,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
   <string name="switch_off_text">Off</string>
   <string name="switch_on_text">On</string>
   <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
@@ -4544,6 +4547,9 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
+  <string name="xiaomi_cloud_service_disabled">Off</string>
+  <string name="xiaomi_cloud_service_unknown">Unknown</string>
   <string name="xiaomi_connect_download_manager_fail">"Couldn't start the download. Make sure Download Manager works normally."</string>
   <string name="xiaomi_external_storage_unavailable">"Storage isn't available, check your SD card."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>

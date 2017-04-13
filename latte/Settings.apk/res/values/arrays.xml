@@ -43,12 +43,12 @@
         <item>yyyy-MM-dd</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
+        <item>After 15 seconds</item>
+        <item>After 30 seconds</item>
+        <item>After 1 minute</item>
+        <item>After 2 minutes</item>
+        <item>After 5 minutes</item>
+        <item>After 10 minutes</item>
         <item>Never</item>
     </string-array>
     <string-array name="screen_timeout_values">
@@ -1494,10 +1494,10 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immediately</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
+        <item>After 30 seconds</item>
+        <item>After 1 minute</item>
+        <item>After 2 minutes</item>
+        <item>After 5 minutes</item>
         <item>Never</item>
     </string-array>
     <string-array name="fluency_mode_entries">
