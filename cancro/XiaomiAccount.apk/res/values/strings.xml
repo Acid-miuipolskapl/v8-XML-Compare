@@ -20,17 +20,17 @@
   <string name="account_error_user_birthday">The birthday you entered is invalid</string>
   <string name="account_has_been_set">Change</string>
   <string name="account_limit_update_birthday">"Can't update birthday right now"</string>
-  <string name="account_mipay_info">Mi pay</string>
+  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
   <string name="account_none_user_name">None</string>
   <string name="account_protection">Account protection</string>
-  <string name="account_protection_off">off</string>
-  <string name="account_protection_on">on</string>
-  <string name="account_secure_info_pref_title">Account Info</string>
-  <string name="account_security">Account Security</string>
-  <string name="account_security_info_pref_title">Security Info</string>
+  <string name="account_protection_off">Off</string>
+  <string name="account_protection_on">On</string>
+  <string name="account_secure_info_pref_title">Account info</string>
+  <string name="account_security">Account security</string>
+  <string name="account_security_info_pref_title">Security info</string>
   <string name="account_user_avatar">Profile photo</string>
   <string name="account_user_avatar_from_album">Choose photo</string>
   <string name="account_user_avatar_from_camera">Take photo</string>
@@ -153,7 +153,7 @@
   <string name="mipay_bank_card">Bank card</string>
   <string name="mipay_identity">Identity</string>
   <string name="mipay_others">Others</string>
-  <string name="mipay_transit_card">Transit card</string>
+  <string name="mipay_transit_card">Transport card</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
@@ -390,6 +390,7 @@ To activate your account, follow the
   <string name="verified_devices">Verified devices</string>
   <string name="verify_phone_prompt">Select phone number to verify</string>
   <string name="verify_phone_title">Verify phone number</string>
-  <string name="vip_account_settings">Vip Settings</string>
+  <string name="vip_account_settings">VIP Settings</string>
   <string name="vip_more_info">More Vip Info</string>
+  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
