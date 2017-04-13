@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_243">false</string>
-  <string name="APKTOOL_DUMMY_244">false</string>
-  <string name="APKTOOL_DUMMY_245">false</string>
-  <string name="APKTOOL_DUMMY_246">false</string>
-  <string name="APKTOOL_DUMMY_247">false</string>
-  <string name="APKTOOL_DUMMY_248">false</string>
-  <string name="APKTOOL_DUMMY_249">false</string>
-  <string name="APKTOOL_DUMMY_24a">false</string>
   <string name="APKTOOL_DUMMY_24b">false</string>
   <string name="APKTOOL_DUMMY_24c">false</string>
   <string name="APKTOOL_DUMMY_24d">false</string>
@@ -258,6 +250,14 @@
   <string name="APKTOOL_DUMMY_342">false</string>
   <string name="APKTOOL_DUMMY_343">false</string>
   <string name="APKTOOL_DUMMY_344">false</string>
+  <string name="APKTOOL_DUMMY_345">false</string>
+  <string name="APKTOOL_DUMMY_346">false</string>
+  <string name="APKTOOL_DUMMY_347">false</string>
+  <string name="APKTOOL_DUMMY_348">false</string>
+  <string name="APKTOOL_DUMMY_349">false</string>
+  <string name="APKTOOL_DUMMY_34a">false</string>
+  <string name="APKTOOL_DUMMY_34b">false</string>
+  <string name="APKTOOL_DUMMY_34c">false</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -773,6 +773,14 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval of 3 seconds (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
+  <string name="pref_watermark_style_default">@string/pref_watermark_style_entryvalue_off</string>
+  <string name="pref_watermark_style_entry_dualcamera">Dual camera</string>
+  <string name="pref_watermark_style_entry_off">Off</string>
+  <string name="pref_watermark_style_entry_timestamp">Time stamp</string>
+  <string name="pref_watermark_style_entryvalue_dualcamera">dualcamera</string>
+  <string name="pref_watermark_style_entryvalue_off">off</string>
+  <string name="pref_watermark_style_entryvalue_timestamp">timestamp</string>
+  <string name="pref_watermark_style_title">Add watermark in photo</string>
   <string name="preparing_sd">Checking SD card…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
