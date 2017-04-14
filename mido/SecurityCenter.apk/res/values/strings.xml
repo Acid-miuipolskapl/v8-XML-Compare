@@ -26,6 +26,9 @@
   <string name="APKTOOL_DUMMY_785">false</string>
   <string name="APKTOOL_DUMMY_786">false</string>
   <string name="APKTOOL_DUMMY_787">false</string>
+  <string name="APKTOOL_DUMMY_788">false</string>
+  <string name="APKTOOL_DUMMY_789">false</string>
+  <string name="APKTOOL_DUMMY_78a">false</string>
   <string name="APKTOOL_DUMMY_78b">false</string>
   <string name="APKTOOL_DUMMY_78c">false</string>
   <string name="APKTOOL_DUMMY_78d">false</string>
@@ -1408,7 +1411,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_save_mode_end_time">End</string>
   <string name="power_save_mode_ontime_enabled">Schedule time to switch between modes</string>
   <string name="power_save_mode_start_time">Start</string>
-  <string name="power_save_mode_summary" formatted="false">Monitor background processes, and turn off sync. Battery saver will turn off automatically when battery is 60% or 100% charged.</string>
+  <string name="power_save_mode_summary" formatted="false">Monitor background processes and turn off sync. Battery saver will turn off automatically when battery is 60% or 100% charged.</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_start_time_summary_na">From</string>

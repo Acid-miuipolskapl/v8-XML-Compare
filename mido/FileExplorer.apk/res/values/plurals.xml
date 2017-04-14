@@ -284,5 +284,8 @@
         <item quantity="other">%1$s people</item>
         <item quantity="one">%1$s person</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_2e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_2f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_30">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_31">false</item>
 </resources>

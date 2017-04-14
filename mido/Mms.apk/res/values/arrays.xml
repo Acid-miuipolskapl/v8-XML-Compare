@@ -145,6 +145,6 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_14">false</item>
-    <item type="array" name="APKTOOL_DUMMY_15">false</item>
+    <item type="array" name="APKTOOL_DUMMY_11">false</item>
+    <item type="array" name="APKTOOL_DUMMY_12">false</item>
 </resources>
