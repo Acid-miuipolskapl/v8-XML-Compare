@@ -1,14 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_20e">false</string>
-  <string name="APKTOOL_DUMMY_20f">false</string>
-  <string name="APKTOOL_DUMMY_24b">false</string>
-  <string name="APKTOOL_DUMMY_24c">false</string>
-  <string name="APKTOOL_DUMMY_24d">false</string>
-  <string name="APKTOOL_DUMMY_24e">false</string>
-  <string name="APKTOOL_DUMMY_24f">false</string>
-  <string name="APKTOOL_DUMMY_250">false</string>
-  <string name="APKTOOL_DUMMY_251">false</string>
+  <string name="APKTOOL_DUMMY_215">false</string>
+  <string name="APKTOOL_DUMMY_216">false</string>
   <string name="APKTOOL_DUMMY_252">false</string>
   <string name="APKTOOL_DUMMY_253">false</string>
   <string name="APKTOOL_DUMMY_254">false</string>
@@ -59,6 +52,13 @@
   <string name="APKTOOL_DUMMY_281">false</string>
   <string name="APKTOOL_DUMMY_282">false</string>
   <string name="APKTOOL_DUMMY_283">false</string>
+  <string name="APKTOOL_DUMMY_284">false</string>
+  <string name="APKTOOL_DUMMY_285">false</string>
+  <string name="APKTOOL_DUMMY_286">false</string>
+  <string name="APKTOOL_DUMMY_287">false</string>
+  <string name="APKTOOL_DUMMY_288">false</string>
+  <string name="APKTOOL_DUMMY_289">false</string>
+  <string name="APKTOOL_DUMMY_28a">false</string>
   <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
@@ -74,7 +74,7 @@
   <string name="acct_not_synced">"This account isn't being synced so your calendars may not be up-to-date."</string>
   <string name="acessibility_selected_marker_description">Selected event</string>
   <string name="action_label">Return</string>
-  <string name="action_text_card_manager">订阅频道</string>
+  <string name="action_text_card_manager">Channel</string>
   <string name="action_text_today">Today</string>
   <string name="ad_card_connecting">连接中</string>
   <string name="ad_card_download_count">%1$s人下载</string>
@@ -84,7 +84,9 @@
   <string name="ad_card_installed">已安装</string>
   <string name="ad_card_installing">安装中</string>
   <string name="ad_card_network_error">无网络连接，请稍后重试！</string>
+  <string name="ad_card_open_app">马上打开</string>
   <string name="ad_card_spread">广告</string>
+  <string name="ad_card_try">立即体验</string>
   <string name="agenda_today">TODAY, %1$s</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>
   <string name="agenda_view">Events</string>
@@ -130,15 +132,15 @@
   <string name="can_not_modify_allday_event">"Can't change all day event"</string>
   <string name="can_not_modify_event">"Can't change event"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
-  <string name="card_detail_dialog_message">“%1$s”内容每日更新，订阅后，即可每天浏览到当日最新的内容，不错过每日精彩。</string>
-  <string name="card_detail_dialog_negative">下次再说</string>
-  <string name="card_detail_dialog_positive">立即订阅</string>
-  <string name="card_detail_dialog_title">是否订阅</string>
-  <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
-  <string name="card_detail_title">订阅详情</string>
-  <string name="card_manager">订阅管理</string>
-  <string name="card_manager_no_data">没有订阅卡片 :)</string>
-  <string name="card_title_change">换一换</string>
+  <string name="card_detail_dialog_message">“%1$s will update every day. Subscribe to receive daily updates.</string>
+  <string name="card_detail_dialog_negative">Subscribe later</string>
+  <string name="card_detail_dialog_positive">Subscribe now</string>
+  <string name="card_detail_dialog_title">Subscribe now?</string>
+  <string name="card_detail_hint">The content will be shown in the home page and updated daily once you subscribe</string>
+  <string name="card_detail_title">Details</string>
+  <string name="card_manager">Manager subscriptions</string>
+  <string name="card_manager_no_data">No subscriptions yet</string>
+  <string name="card_title_change">More</string>
   <string name="change_response_title">Change response</string>
   <string name="check_reminded_text">查看提醒</string>
   <string name="chinese_leap">闰</string>
@@ -177,10 +179,10 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view_new_event_hint">New event</string>
   <string name="default_reminder_mode">Reminders</string>
-  <string name="delete_calendar">退订</string>
+  <string name="delete_calendar">Unsubscribe</string>
   <string name="delete_recurring_event_title">Delete %s?</string>
   <string name="delete_this_event_title">Delete this event?</string>
-  <string name="deleting_calendar">退订中</string>
+  <string name="deleting_calendar">Unsubscribing</string>
   <string name="departure">Departure</string>
   <string name="description_calendar">System apps/Calendar</string>
   <string name="description_calendar_edit_event">System apps/Calendar/Agenda</string>
@@ -267,10 +269,12 @@
   <string name="fortune_name">称呼</string>
   <string name="fortune_name_hint">请输入</string>
   <string name="fortune_no_name">请填写称呼</string>
+  <string name="fortune_setting_tips">设置您的生辰后,可获取您的专属运势。每日黄历运势、财位、桃花、正冲等信息全掌握</string>
   <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
   <string name="from_google_group_calendar">Google calendar</string>
   <string name="gadget_no_events">No upcoming calendar events</string>
   <string name="gadget_title">Calendar</string>
+  <string name="global_action_text_card_manager">A more interesting calendar</string>
   <string name="guide_card_hint_text">Import birthdays from contacts</string>
   <string name="hint_attendees">Guests</string>
   <string name="hint_description">Description</string>
@@ -283,7 +287,7 @@
   <string name="horoscope_card_financial">财富运势：</string>
   <string name="horoscope_card_love">爱情运势：</string>
   <string name="horoscope_card_working">事业运势：</string>
-  <string name="horoscope_select_activity_label">选择星座</string>
+  <string name="horoscope_select_activity_label">Select zodiac sign</string>
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
   <string name="import_action">Import</string>
@@ -363,7 +367,8 @@
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
   <string name="no_contact_birthday_hint">No birthdays to import</string>
-  <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
+  <string name="no_network">"Couldn't connect to the network.
+Check network settings and try again."</string>
   <string name="no_network_btn">Try again</string>
   <string name="no_title_label">(No title)</string>
   <string name="no_visiable_calendar_message">You need to select a calendar account. Tap Select account to continue.</string>
@@ -404,11 +409,12 @@
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Start of the week</string>
   <string name="preferences_week_start_day_title">Start of the week</string>
+  <string name="provided_ad">赞助商提供</string>
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">订阅中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
   <string name="recommend_card_from">来自订阅：</string>
-  <string name="refresh">刷新</string>
+  <string name="refresh">Refresh</string>
   <string name="repeat_activity_label">Repeat</string>
   <string name="repeat_custom_activity_label">Custom</string>
   <string name="repeat_custom_prompt">every %1$s on %2$s</string>
@@ -501,21 +507,21 @@
   <string name="show_newer_events">Touch to view events after %1$s</string>
   <string name="show_older_events">Touch to view events before %1$s</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
-  <string name="subscribe_card">立即订阅</string>
-  <string name="subscribe_card_success">订阅成功，可在首页查看</string>
-  <string name="subscribe_card_success_for_homepage">订阅“%1$s”成功</string>
-  <string name="subscribe_channel_bottom_hint">—— 小米日历 ——</string>
-  <string name="subscribe_channel_click_hint">订阅后可阅读</string>
-  <string name="subscribe_channel_footer_button">订阅管理</string>
-  <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
-  <string name="subscribe_channel_footer_title">已订阅</string>
-  <string name="subscribe_channel_footer_view">查看</string>
-  <string name="subscribe_channel_hint">"订阅适合自己的功能或服务，订阅后会展示在首页，
-你还可以在订阅后添加提醒，不错过每一个精彩！"</string>
-  <string name="subscribe_channel_subscribe">订阅</string>
-  <string name="subscribe_channel_subscribing">订阅中</string>
-  <string name="subscribe_channel_title">订阅频道</string>
-  <string name="subscribing_card">订阅中</string>
+  <string name="subscribe_card">Subscribe now</string>
+  <string name="subscribe_card_success">Subscribed successfully! Check the details on the home page.</string>
+  <string name="subscribe_card_success_for_homepage">Subscribed to “%1$s” successfully</string>
+  <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
+  <string name="subscribe_channel_click_hint">Subscription required</string>
+  <string name="subscribe_channel_footer_button">Manage subscriptions</string>
+  <string name="subscribe_channel_footer_desc">Check your subscribtions or unsubscribe</string>
+  <string name="subscribe_channel_footer_title">Subscribed</string>
+  <string name="subscribe_channel_footer_view">Check</string>
+  <string name="subscribe_channel_hint">"Subscribe to the services you like and receive daily updates on your home page.
+You can also add reminders so you don't miss anything important."</string>
+  <string name="subscribe_channel_subscribe">Subscribe</string>
+  <string name="subscribe_channel_subscribing">Subscribing</string>
+  <string name="subscribe_channel_title">Channel</string>
+  <string name="subscribing_card">Subscribing</string>
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="synced">synced</string>
   <string name="taishen">胎神</string>
@@ -561,9 +567,9 @@
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
-  <string name="unsubscribe_card">退订</string>
-  <string name="unsubscribe_card_success">退订“%1$s”成功</string>
-  <string name="unsubscribing_card">退订中</string>
+  <string name="unsubscribe_card">Unsubscribe</string>
+  <string name="unsubscribe_card_success">Unsubscribed from “%1$s” successfully</string>
+  <string name="unsubscribing_card">Unsubscribing</string>
   <string name="user_notice_button_exit">Exit</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"Don't show again"</string>
@@ -574,6 +580,8 @@
   <string name="view_event_calendar_label">Calendar:</string>
   <string name="view_event_organizer_label">Organizer:</string>
   <string name="view_event_response_label">Attending?</string>
+  <string name="weather_card_humidity_desc">湿度%1$s%%</string>
+  <string name="weather_card_no_data_hint">点击获取天气数据</string>
   <string name="week_view_today_toast">"You're currently viewing this week"</string>
   <string name="weekly">Weekly (every %s)</string>
   <string name="when_label">When</string>
