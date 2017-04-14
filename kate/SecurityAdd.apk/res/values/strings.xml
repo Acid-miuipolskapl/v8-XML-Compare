@@ -58,6 +58,7 @@
   <string name="i_know">Got it</string>
   <string name="install_game_count">Added %d games</string>
   <string name="intro_improve">Boost your gaming experience on a system level</string>
+  <string name="intro_skip">skip</string>
   <string name="loading">Just a sec…</string>
   <string name="lucky_result_title">Red envelopes</string>
   <string name="main_toolbar_purchase">Top up</string>
