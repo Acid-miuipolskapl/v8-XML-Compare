@@ -184,9 +184,9 @@
   <string name="min_error">Your %1$s should be longer.</string>
   <string name="modem_tool_log">Capture modem logs</string>
   <string name="modem_tool_log_start">Start</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_start_toast">Saving modem log to %s</string>
   <string name="modem_tool_log_stop">Stop</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="modem_tool_log_stop_toast">Stopped saving modem log to %s</string>
   <string name="module_communication">Communication</string>
   <string name="module_data">Storage &amp; Dual apps</string>
   <string name="module_desktop">Home screen &amp; settings</string>
@@ -229,7 +229,7 @@
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
   <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
-  <string name="post_miui_bbs_failed">"Couldn't post to Forum"</string>
+  <string name="post_miui_bbs_failed">"Couldn't post to MIUI Forum"</string>
   <string name="pull_to_refresh_pull_label">Pull down to refresh</string>
   <string name="pull_to_refresh_refreshing_label">Refreshing…</string>
   <string name="pull_to_refresh_release_label">Release to refresh</string>
