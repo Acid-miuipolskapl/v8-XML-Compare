@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">"Couldn't access USB storage."</string>
+  <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Front and rear camera switch</string>
@@ -87,7 +87,7 @@ facial expression to synthesize into a photo"</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">Insert SD card before using camera</string>
-  <string name="not_enough_space">Internal storage is full</string>
+  <string name="not_enough_space">SD card is full</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
@@ -523,7 +523,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_watermark_style_entryvalue_off">off</string>
   <string name="pref_watermark_style_entryvalue_timestamp">timestamp</string>
   <string name="pref_watermark_style_title">Add watermark in photo</string>
-  <string name="preparing_sd">Checking internal storage…</string>
+  <string name="preparing_sd">Checking SD card…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
   <string name="see_qrcode_detals">View QR code details</string>

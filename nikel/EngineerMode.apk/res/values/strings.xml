@@ -1982,8 +1982,8 @@ Are you sure to allow mobile data service preferred?"</string>
   <string name="sdcard_busy_msg">Sorry, your SD card is busy.</string>
   <string name="sdcard_busy_title">SD card is busy</string>
   <string name="sdcard_error_tip">Please make sure your sdcard is available!</string>
-  <string name="sdcard_format">Erase USB storage</string>
-  <string name="sdcard_unmount">Unmount USB storage</string>
+  <string name="sdcard_format">Erase SD card</string>
+  <string name="sdcard_unmount">Unmount SD card</string>
   <string name="secure_elem_nosupt">Secure Element is not supported.</string>
   <string name="security_status">2G/3G/4G Security Status</string>
   <string name="security_status_2g">2G</string>

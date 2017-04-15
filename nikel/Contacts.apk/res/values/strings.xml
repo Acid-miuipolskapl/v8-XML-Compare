@@ -451,7 +451,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="export_to_sim2">Export to SIM card 2</string>
   <string name="export_to_sim_prepare_title">Preparing…</string>
   <string name="export_to_sim_title">Exporting…</string>
-  <string name="export_vcard_description">"Export vCard to phone's internal storage"</string>
+  <string name="export_vcard_description">Export vCard to SD card</string>
   <string name="exporting_contact_failed_message">"The contact data wasn't exported.
 Reason: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Couldn't export"</string>
@@ -471,7 +471,7 @@ Reason: \"%s\""</string>
   <string name="fail_reason_no_exportable_contact">There is no exportable contact.</string>
   <string name="fail_reason_not_supported">"The format isn't supported."</string>
   <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">Too many vCard files are in the storage.</string>
+  <string name="fail_reason_too_many_vcard">Too many vCard files are on the SD card.</string>
   <string name="fail_reason_unknown">Unknown error.</string>
   <string name="fail_reason_vcard_parse_error">"Couldn't parse vCard for an unexpected reason."</string>
   <string name="favoritesFrequentCalled">Frequently called</string>
@@ -533,7 +533,7 @@ Reason: \"%s\""</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
   <string name="import_contact_card_button">Import contact</string>
-  <string name="import_failure_no_vcard_file">No vCard files found in storage.</string>
+  <string name="import_failure_no_vcard_file">No vCard files found on SD card.</string>
   <string name="import_from_onekey_migrate">Import using Mi Mover</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
@@ -552,7 +552,7 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_message">Importing…</string>
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
   <string name="import_to_xiaomi_account_title">Import to Mi Account</string>
-  <string name="import_vcard_description">"Import contacts from your phone's internal storage"</string>
+  <string name="import_vcard_description">Import contacts from your SD card</string>
   <string name="import_vcard_dialog_message">Import vCard?</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
@@ -845,7 +845,7 @@ To add a contact to your list of favorites:
   <string name="no_contacts_dialog_message">"Contacts may be stored on your SIM card. Try importing them from your SIM card to your phone's internal storage and then try again."</string>
   <string name="no_contacts_dialog_title">"Can't find contacts"</string>
   <string name="no_contacts_selected">No contacts selected.</string>
-  <string name="no_sdcard_message">No storage was found.</string>
+  <string name="no_sdcard_message">No SD card was found.</string>
   <string name="no_voip_contacts">No Mi Voice contacts</string>
   <string name="non_phone_add_to_contacts">Add to an existing contact</string>
   <string name="non_phone_caption">Phone number</string>
@@ -1062,7 +1062,7 @@ To add a contact to your list of favorites:
   <string name="scan_qrcode_card_hint1">Scan the QR code above</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
-  <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
+  <string name="scanning_sdcard_failed_title">"The SD card couldn't be scanned"</string>
   <string name="searchHint">Search contacts</string>
   <string name="search_batch_delete">Organize;Contacts</string>
   <string name="search_contacts_display">Contacts;Display</string>
@@ -1090,7 +1090,7 @@ To add a contact to your list of favorites:
   <string name="search_simple_mode">Display;info;photos;Contacts</string>
   <string name="search_smart_group_title">Contacts;Display</string>
   <string name="search_wipe_data">Organize;Contacts</string>
-  <string name="searching_vcard_message">Searching for vCard data in storage…</string>
+  <string name="searching_vcard_message">Searching for vCard data on SD card…</string>
   <string name="select_all">Select all</string>
   <string name="select_done">No more to select</string>
   <string name="select_groups">Select groups</string>
