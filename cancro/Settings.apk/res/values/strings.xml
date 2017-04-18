@@ -1708,6 +1708,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="key_position_cat">Buttons position</string>
   <string name="key_settings">Buttons</string>
   <string name="key_settings_title">Buttons</string>
+  <string name="keyboard_and_input_methods_category">Keyboard and input methods</string>
   <string name="keyboard_layout_default_label">Default</string>
   <string name="keyboard_layout_dialog_setup_button">Set up keyboard layouts</string>
   <string name="keyboard_layout_dialog_switch_hint">To switch, press Control-Spacebar</string>
@@ -2522,6 +2523,7 @@ Select your operating system:"</string>
   <string name="phone_info_label">Phone info</string>
   <string name="phone_language">Language</string>
   <string name="phone_language_summary"/>
+  <string name="physical_keyboard_title">Physical keyboard</string>
   <string name="pico_installed">Installed</string>
   <string name="pico_languages_and_voices">Languages and voices</string>
   <string name="pico_not_installed">Not installed</string>
@@ -4129,6 +4131,7 @@ Tap the plus to add words."</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_on_touch_title">Vibrate on touch</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
+  <string name="virtual_keyboard_category">Virtual keyboard</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
