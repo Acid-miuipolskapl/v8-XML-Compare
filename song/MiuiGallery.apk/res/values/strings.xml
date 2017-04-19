@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_48d">false</string>
-  <string name="APKTOOL_DUMMY_48e">false</string>
-  <string name="APKTOOL_DUMMY_48f">false</string>
-  <string name="APKTOOL_DUMMY_490">false</string>
   <string name="APKTOOL_DUMMY_491">false</string>
   <string name="APKTOOL_DUMMY_492">false</string>
   <string name="APKTOOL_DUMMY_493">false</string>
   <string name="APKTOOL_DUMMY_494">false</string>
   <string name="APKTOOL_DUMMY_495">false</string>
+  <string name="APKTOOL_DUMMY_496">false</string>
+  <string name="APKTOOL_DUMMY_497">false</string>
+  <string name="APKTOOL_DUMMY_498">false</string>
+  <string name="APKTOOL_DUMMY_499">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>
@@ -779,6 +779,12 @@ Take more photos of your friends!"</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
+  <string name="grant_permission_go_and_set">Set</string>
+  <string name="grant_permission_item">\"%s\"</string>
+  <string name="grant_permission_text">"Gallery needs access to 
+%s
+ to work normally, tap Set to go to Permissions."</string>
+  <string name="grant_permission_title">Allow access</string>
   <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="have_known">Got it</string>
   <string name="hidden_album_display_name">Hidden album</string>

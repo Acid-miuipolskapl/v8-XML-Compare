@@ -141,6 +141,8 @@
   <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
   <string name="clear_all">Clear all</string>
   <string name="clear_all_message">Clear all information and contacts?</string>
+  <string name="config_feedbackIntentExtraKey"/>
+  <string name="config_feedbackIntentNameKey"/>
   <string name="config_helpIntentExtraKey"/>
   <string name="config_helpIntentNameKey"/>
   <string name="config_helpPackageNameKey"/>
@@ -290,6 +292,9 @@
   <string name="remove_contact">Remove %1$s from emergency contacts?</string>
   <string name="remove_contact_icon_text">Remove contact</string>
   <string name="remove_dob_icon_text">Remove date of birth</string>
+  <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
+  <string name="retail_demo_reset_next">Next</string>
+  <string name="retail_demo_reset_title">Password required</string>
   <string name="running_process_item_user_label">User: %1$s</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
