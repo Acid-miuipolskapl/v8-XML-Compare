@@ -1166,6 +1166,9 @@
         <item>120</item>
         <item>255</item>
     </integer-array>
+    <string-array name="config_appsToPin">
+        <item>com.tencent.mm</item>
+    </string-array>
     <array name="securespaces_extension_encryption_userRestrictions" />
     <array name="securespaces_extension_hidden_userRestrictions" />
 </resources>
