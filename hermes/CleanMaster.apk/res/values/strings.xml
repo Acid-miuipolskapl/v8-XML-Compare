@@ -384,7 +384,7 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Search</string>
   <string name="positive_confirm">OK</string>
-  <string name="pref_category_title_auto_clean_settings">Clean automatically</string>
+  <string name="pref_category_title_auto_clean_settings">Remind to clean</string>
   <string name="pref_category_title_auto_update_cleanup_db">Additional settings</string>
   <string name="pref_category_title_cleanup_white_list">Exceptions</string>
   <string name="pref_category_title_engine_settings">Scan definition settings</string>
@@ -404,7 +404,7 @@
   <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
   <string name="pref_title_auto_update_cleanup_db">Update automatically</string>
   <string name="pref_title_choose_engine">Definitions</string>
-  <string name="pref_title_clean_alert">Clean automatically</string>
+  <string name="pref_title_clean_alert">Remind to clean</string>
   <string name="pref_title_cleanup_white_list">Exceptions</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>
   <string name="pref_title_garbage_cleanup_check_size">Trash size limit</string>
@@ -465,7 +465,7 @@
   <string name="sponsored">Sponsored</string>
   <string name="start_downloading_app">Starting download: %1$s</string>
   <string name="start_install">Install now</string>
-  <string name="summary_auto_cleaner">Clean your system automatically every 3 days?</string>
+  <string name="summary_auto_cleaner">Receive notifications every time trash size reaches 100MB?</string>
   <string name="summary_delete_apk">Delete selected APKs permanently?</string>
   <string name="summary_delete_cache">Clear cache of the selected apps?</string>
   <string name="summary_delete_large_file">Delete selected files permanently?</string>
@@ -487,7 +487,7 @@
   <string name="tips_of_traffic_notification">View mobile data stats in the notification shade</string>
   <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
   <string name="tips_of_virus_scan">Scan your device for viruses regularly to keep it secure</string>
-  <string name="title_auto_cleaner">Clean automatically?</string>
+  <string name="title_auto_cleaner">Remind to clean</string>
   <string name="title_delete_cache">Clear app cache</string>
   <string name="title_delete_clipboard">Clipboard contents</string>
   <string name="title_delete_deepclean">Delete</string>

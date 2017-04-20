@@ -407,7 +407,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="block_list_qcom_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
   <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
-  <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
+  <string name="block_list_summary">"View devices which aren't allowed to connect to this hotspot"</string>
   <string name="block_list_title">Blocklist</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
