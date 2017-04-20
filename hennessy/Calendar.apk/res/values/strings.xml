@@ -26,6 +26,9 @@
   <string name="ad_card_open_app">马上打开</string>
   <string name="ad_card_spread">广告</string>
   <string name="ad_card_try">立即体验</string>
+  <string name="add_anniversary">Add anniversary</string>
+  <string name="add_countdown">Add countdown</string>
+  <string name="add_event">Add event</string>
   <string name="agenda_today">TODAY, %1$s</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>
   <string name="agenda_view">Events</string>
@@ -65,6 +68,7 @@
   <string name="button_day">Day</string>
   <string name="button_month">Month</string>
   <string name="button_week">Week</string>
+  <string name="calculate_result">Result</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Refresh</string>
   <string name="can_not_create_long_event">Event name is too long</string>
@@ -111,8 +115,22 @@
   <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
   <string name="credit_event_title">信用卡账单</string>
   <string name="daily">Daily</string>
+  <string name="date_calculate">Calculate date</string>
+  <string name="date_calculate_days">Enter the number of days</string>
+  <string name="date_calculate_description">Learn what date it is before or after a certain day</string>
+  <string name="date_calculate_direction">Direction</string>
+  <string name="date_calculate_result">Result</string>
+  <string name="date_calculate_tab">Calculate date</string>
+  <string name="date_calculate_today">0 days</string>
+  <string name="date_calculate_when">Start</string>
+  <string name="date_interval_description">Learn how many days there are between 2 dates</string>
+  <string name="date_interval_end">To</string>
+  <string name="date_interval_start">From</string>
+  <string name="date_interval_tab">Interval</string>
+  <string name="date_interval_text_to">To %1$s</string>
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string name="date_today">(today)</string>
   <string name="day_view_new_event_hint">New event</string>
   <string name="default_reminder_mode">Reminders</string>
   <string name="delete_calendar">Unsubscribe</string>
@@ -132,6 +150,10 @@
   <string name="downloaded">已下载</string>
   <string name="downloading">下载中</string>
   <string name="downloading_wallpaper">原图下载中</string>
+  <string name="edit_date_calculate_days_backward_error_hint">"Can't calculate forwards"</string>
+  <string name="edit_date_calculate_days_empty_hint">Enter the number of days</string>
+  <string name="edit_date_calculate_days_error_hint">Enter days within %1$d</string>
+  <string name="edit_date_calculate_days_forward_error_hint">"Can't calculate backwards"</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_anniversary_name_empty_hint">Enter event name</string>
   <string name="edit_event_anniversary_name_hint">Event</string>
@@ -270,6 +292,8 @@
   <string name="local_calendar_display_name">Local calendar</string>
   <string name="local_owner_account_name">Saved to this device</string>
   <string name="lunar_date">Lunar date</string>
+  <string name="lunar_day"/>
+  <string name="lunar_to_solar"/>
   <string name="match_ed">已结束</string>
   <string name="match_ing">进行中</string>
   <string name="match_not_started">未开始</string>
@@ -348,7 +372,6 @@ Check network settings and try again."</string>
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">订阅中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
-  <string name="recommend_card_from">来自订阅：</string>
   <string name="refresh">Refresh</string>
   <string name="repeat_activity_label">Repeat</string>
   <string name="repeat_custom_activity_label">Custom</string>
@@ -442,6 +465,11 @@ Check network settings and try again."</string>
   <string name="show_newer_events">Touch to view events after %1$s</string>
   <string name="show_older_events">Touch to view events before %1$s</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
+  <string name="solar_lunar_convert_date"/>
+  <string name="solar_lunar_convert_description"/>
+  <string name="solar_lunar_convert_tab"/>
+  <string name="solar_to_lunar"/>
+  <string name="start_date_calculate">Calculate</string>
   <string name="subscribe_card">Subscribe now</string>
   <string name="subscribe_card_success">Subscribed successfully! Check the details on the home page.</string>
   <string name="subscribe_card_success_for_homepage">Subscribed to “%1$s” successfully</string>
@@ -515,6 +543,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="view_event_calendar_label">Calendar:</string>
   <string name="view_event_organizer_label">Organizer:</string>
   <string name="view_event_response_label">Attending?</string>
+  <string name="view_in_month_view">View month</string>
   <string name="weather_card_humidity_desc">湿度%1$s%%</string>
   <string name="weather_card_no_data_hint">点击获取天气数据</string>
   <string name="week_view_today_toast">"You're currently viewing this week"</string>
