@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1a7">false</string>
-  <string name="APKTOOL_DUMMY_1a8">false</string>
-  <string name="APKTOOL_DUMMY_1a9">false</string>
   <string name="APKTOOL_DUMMY_1aa">false</string>
   <string name="APKTOOL_DUMMY_1ab">false</string>
   <string name="APKTOOL_DUMMY_1ac">false</string>
   <string name="APKTOOL_DUMMY_1ad">false</string>
   <string name="APKTOOL_DUMMY_1ae">false</string>
   <string name="APKTOOL_DUMMY_1af">false</string>
+  <string name="APKTOOL_DUMMY_1b0">false</string>
+  <string name="APKTOOL_DUMMY_1b1">false</string>
+  <string name="APKTOOL_DUMMY_1b2">false</string>
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account not activated</string>
@@ -421,6 +421,9 @@
   <string name="title_system_audio_resource">System ringtones</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
+  <string name="uid_change_dialog_message">"You've deleted updates. Reboot device to be able to use themes."</string>
+  <string name="uid_change_dialog_ok">Got it</string>
+  <string name="uid_change_dialog_title">Reboot device</string>
   <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"Can't load wallpaper"</string>
