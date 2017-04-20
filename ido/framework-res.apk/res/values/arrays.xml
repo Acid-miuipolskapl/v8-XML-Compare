@@ -536,9 +536,14 @@
         <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
         <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
         <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
         <item>/system/framework/arm64/boot.oat</item>
         <item>/system/framework/arm/boot.oat</item>
         <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/oat/arm/services.odex</item>
+    </string-array>
+    <string-array name="config_appsToPin">
+        <item>com.tencent.mm</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Try again</item>
