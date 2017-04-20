@@ -501,9 +501,11 @@
         <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
         <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
         <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
         <item>/system/framework/arm64/boot.oat</item>
         <item>/system/framework/arm/boot.oat</item>
         <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/oat/arm/services.odex</item>
     </string-array>
     <string-array name="origin_carrier_names">
         <item>"CHINA  MOBILE"</item>
@@ -1105,6 +1107,9 @@
         <item>120</item>
         <item>255</item>
     </integer-array>
+    <string-array name="config_appsToPin">
+        <item>com.tencent.mm</item>
+    </string-array>
     <array name="securespaces_extension_encryption_userRestrictions" />
     <array name="securespaces_extension_hidden_userRestrictions" />
 </resources>

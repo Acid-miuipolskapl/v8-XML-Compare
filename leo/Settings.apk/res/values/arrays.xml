@@ -2529,13 +2529,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2560 x 1440像素</item>
         <item>5.0.2</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_109">false</item>
+    <item type="array" name="APKTOOL_DUMMY_103">false</item>
+    <item type="array" name="APKTOOL_DUMMY_104">false</item>
+    <item type="array" name="APKTOOL_DUMMY_105">false</item>
+    <item type="array" name="APKTOOL_DUMMY_106">false</item>
     <item type="array" name="APKTOOL_DUMMY_10a">false</item>
     <item type="array" name="APKTOOL_DUMMY_10b">false</item>
     <item type="array" name="APKTOOL_DUMMY_10c">false</item>
-    <item type="array" name="APKTOOL_DUMMY_110">false</item>
-    <item type="array" name="APKTOOL_DUMMY_111">false</item>
-    <item type="array" name="APKTOOL_DUMMY_112">false</item>
-    <item type="array" name="APKTOOL_DUMMY_113">false</item>
-    <item type="array" name="APKTOOL_DUMMY_114">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10e">false</item>
 </resources>
