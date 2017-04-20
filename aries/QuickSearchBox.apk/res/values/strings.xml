@@ -64,7 +64,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="local_setting">Settings</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
-  <string name="mina_name">New apps</string>
+  <string name="mina_name">Direct apps</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">Allow</string>

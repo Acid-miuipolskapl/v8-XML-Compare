@@ -151,8 +151,8 @@
   <string name="mipay">Pay</string>
   <string name="mipay_balance">Balance</string>
   <string name="mipay_bank_card">Bank card</string>
-  <string name="mipay_identity">Identity</string>
-  <string name="mipay_others">Others</string>
+  <string name="mipay_identity">ID verification</string>
+  <string name="mipay_others">Other</string>
   <string name="mipay_transit_card">Transport card</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
@@ -391,6 +391,6 @@ To activate your account, follow the
   <string name="verify_phone_prompt">Select phone number to verify</string>
   <string name="verify_phone_title">Verify phone number</string>
   <string name="vip_account_settings">VIP Settings</string>
-  <string name="vip_more_info">More Vip Info</string>
+  <string name="vip_more_info">More VIP info</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
