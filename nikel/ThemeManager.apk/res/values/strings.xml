@@ -412,6 +412,9 @@
   <string name="title_system_audio_resource">System ringtones</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
+  <string name="uid_change_dialog_message">"You've deleted updates. Reboot device to be able to use themes."</string>
+  <string name="uid_change_dialog_ok">Got it</string>
+  <string name="uid_change_dialog_title">Reboot device</string>
   <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"Can't load wallpaper"</string>
