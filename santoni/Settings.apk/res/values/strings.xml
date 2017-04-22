@@ -400,7 +400,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_power_wireless">Wireless</string>
   <string name="battery_info_scale_label">Battery scale:</string>
-  <string name="battery_info_screen_on">Screen ON time:</string>
+  <string name="battery_info_screen_on">Screen on time:</string>
   <string name="battery_info_status_charging">Charging</string>
   <string name="battery_info_status_charging_ac">Charging on AC</string>
   <string name="battery_info_status_charging_usb">Charging over USB</string>
@@ -464,7 +464,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="block_list_qcom_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
   <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
   <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
-  <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
+  <string name="block_list_summary">"View devices which aren't allowed to connect to this hotspot"</string>
   <string name="block_list_title">Blocklist</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
@@ -1706,6 +1706,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="key_position_cat">Buttons position</string>
   <string name="key_settings">Buttons</string>
   <string name="key_settings_title">Buttons</string>
+  <string name="keyboard_and_input_methods_category">Keyboard and input methods</string>
   <string name="keyboard_layout_default_label">Default</string>
   <string name="keyboard_layout_dialog_setup_button">Set up keyboard layouts</string>
   <string name="keyboard_layout_dialog_switch_hint">To switch, press Control-Spacebar</string>
@@ -2491,6 +2492,7 @@ Select your operating system:"</string>
   <string name="phone_info_label">Phone info</string>
   <string name="phone_language">Language</string>
   <string name="phone_language_summary"/>
+  <string name="physical_keyboard_title">Physical keyboard</string>
   <string name="pico_installed">Installed</string>
   <string name="pico_languages_and_voices">Languages and voices</string>
   <string name="pico_not_installed">Not installed</string>
@@ -3402,7 +3404,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_status_title">SIM status</string>
   <string name="simulate_color_space">Simulate color space</string>
   <string name="single_key_use">Single button</string>
-  <string name="single_key_use_summary">Use Home button for functions performed by the other 2 buttons</string>
+  <string name="single_key_use_summary">Use Home button for the functions performed by the other 2 buttons</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -4092,6 +4094,7 @@ Tap the plus to add words."</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_on_touch_title">Vibrate on touch</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
+  <string name="virtual_keyboard_category">Virtual keyboard</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>

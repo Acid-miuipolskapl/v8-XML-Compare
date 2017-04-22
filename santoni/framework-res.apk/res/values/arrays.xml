@@ -306,19 +306,21 @@
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
         <item>8</item>
-        <item>80</item>
-        <item>150</item>
-        <item>350</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>600</item>
         <item>1500</item>
         <item>3500</item>
         <item>7000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>4</item>
+        <item>7</item>
         <item>12</item>
-        <item>25</item>
-        <item>60</item>
-        <item>95</item>
+        <item>18</item>
+        <item>55</item>
+        <item>90</item>
+        <item>110</item>
         <item>160</item>
         <item>200</item>
         <item>255</item>
@@ -537,6 +539,16 @@
         <item>-100</item>
         <item>-44</item>
     </integer-array>
+    <string-array name="config_defaultPinnerServiceFiles">
+        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
+        <item>/system/framework/arm64/boot.oat</item>
+        <item>/system/framework/arm/boot.oat</item>
+        <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/oat/arm/services.odex</item>
+    </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
@@ -585,12 +597,7 @@
         <item>Custom</item>
     </string-array>
     <array name="carrier_properties" />
-    <string-array name="config_defaultPinnerServiceFiles">
-        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
-        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
-        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
-        <item>/system/framework/arm64/boot.oat</item>
-        <item>/system/framework/arm/boot.oat</item>
-        <item>/system/framework/oat/arm64/services.odex</item>
+    <string-array name="config_appsToPin">
+        <item>com.tencent.mm</item>
     </string-array>
 </resources>
