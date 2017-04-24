@@ -940,7 +940,12 @@ to respond"</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
   <string name="menu_text_networkassistants_danger">%s over</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s left</string>
+  <string name="menu_text_networkassistants_unit_b">B</string>
+  <string name="menu_text_networkassistants_unit_gb">GB</string>
+  <string name="menu_text_networkassistants_unit_kb">KB</string>
+  <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
