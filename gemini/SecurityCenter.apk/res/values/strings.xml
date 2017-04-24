@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_76e">false</string>
-  <string name="APKTOOL_DUMMY_76f">false</string>
-  <string name="APKTOOL_DUMMY_770">false</string>
-  <string name="APKTOOL_DUMMY_771">false</string>
-  <string name="APKTOOL_DUMMY_772">false</string>
   <string name="APKTOOL_DUMMY_773">false</string>
   <string name="APKTOOL_DUMMY_774">false</string>
   <string name="APKTOOL_DUMMY_775">false</string>
@@ -36,12 +31,12 @@
   <string name="APKTOOL_DUMMY_78f">false</string>
   <string name="APKTOOL_DUMMY_790">false</string>
   <string name="APKTOOL_DUMMY_791">false</string>
-  <string name="APKTOOL_DUMMY_7fd">false</string>
-  <string name="APKTOOL_DUMMY_811">false</string>
-  <string name="APKTOOL_DUMMY_812">false</string>
-  <string name="APKTOOL_DUMMY_813">false</string>
-  <string name="APKTOOL_DUMMY_814">false</string>
-  <string name="APKTOOL_DUMMY_815">false</string>
+  <string name="APKTOOL_DUMMY_792">false</string>
+  <string name="APKTOOL_DUMMY_793">false</string>
+  <string name="APKTOOL_DUMMY_794">false</string>
+  <string name="APKTOOL_DUMMY_795">false</string>
+  <string name="APKTOOL_DUMMY_796">false</string>
+  <string name="APKTOOL_DUMMY_802">false</string>
   <string name="APKTOOL_DUMMY_816">false</string>
   <string name="APKTOOL_DUMMY_817">false</string>
   <string name="APKTOOL_DUMMY_818">false</string>
@@ -201,6 +196,11 @@
   <string name="APKTOOL_DUMMY_8b2">false</string>
   <string name="APKTOOL_DUMMY_8b3">false</string>
   <string name="APKTOOL_DUMMY_8b4">false</string>
+  <string name="APKTOOL_DUMMY_8b5">false</string>
+  <string name="APKTOOL_DUMMY_8b6">false</string>
+  <string name="APKTOOL_DUMMY_8b7">false</string>
+  <string name="APKTOOL_DUMMY_8b8">false</string>
+  <string name="APKTOOL_DUMMY_8b9">false</string>
   <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Setting_lock">Settings</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
@@ -1141,7 +1141,12 @@ to respond"</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
   <string name="menu_text_networkassistants_danger">%s over</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s left</string>
+  <string name="menu_text_networkassistants_unit_b">B</string>
+  <string name="menu_text_networkassistants_unit_gb">GB</string>
+  <string name="menu_text_networkassistants_unit_kb">KB</string>
+  <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
