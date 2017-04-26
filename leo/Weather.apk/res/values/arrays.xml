@@ -170,5 +170,10 @@
         <item>%1$smph</item>
         <item>%1$skn</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_11">false</item>
+    <string-array name="minute_rain_array">
+        <item>Heavy</item>
+        <item>Moderate</item>
+        <item>Light</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_12">false</item>
 </resources>
