@@ -119,6 +119,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="switch_application">Apps</string>
   <string name="switch_browser">Browser</string>
   <string name="switch_contacts">Contacts</string>
+  <string name="switch_email">Mail</string>
   <string name="switch_file">Files</string>
   <string name="switch_mms">Messages</string>
   <string name="switch_notes">Notes</string>
