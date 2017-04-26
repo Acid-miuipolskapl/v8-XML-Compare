@@ -597,4 +597,5 @@
     <item type="array" name="APKTOOL_DUMMY_48">false</item>
     <item type="array" name="APKTOOL_DUMMY_49">false</item>
     <item type="array" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4c">false</item>
 </resources>

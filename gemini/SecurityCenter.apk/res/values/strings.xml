@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_8ab">false</string>
+  <string name="APKTOOL_DUMMY_8ac">false</string>
   <string name="APKTOOL_DUMMY_8ad">false</string>
   <string name="APKTOOL_DUMMY_8ae">false</string>
   <string name="APKTOOL_DUMMY_8af">false</string>
