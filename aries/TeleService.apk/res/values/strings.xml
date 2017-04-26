@@ -1155,6 +1155,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sum_cfu_disabled">Off</string>
   <string name="sum_cfu_enabled">Forwarding all calls to {0}</string>
   <string name="sum_cfu_enabled_indicator">Forwarding all calls</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">All calls to SIM %s will be forwarded</string>
   <string name="sum_cfu_enabled_no_number">Number is unavailable</string>
   <string name="sum_cw_disabled">During a call, notify me of incoming calls</string>
   <string name="sum_cw_enabled">During a call, notify me of incoming calls</string>
@@ -1220,6 +1221,7 @@ Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame">Data use period</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
+  <string name="title_cfu_enabled">Call forwarding is on</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="transport">Protocol</string>
   <string name="transport_title">Transport type</string>

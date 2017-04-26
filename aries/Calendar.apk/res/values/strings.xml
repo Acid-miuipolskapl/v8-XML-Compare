@@ -54,8 +54,6 @@
   <string name="birthday_event_description_tomorrow">Tomorrow is</string>
   <string name="birthday_event_description_yesterday">Yesterday was</string>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-  <string name="birthday_metric">-year-old</string>
-  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
@@ -232,6 +230,8 @@
   <string name="gadget_no_events">No upcoming calendar events</string>
   <string name="gadget_title">Calendar</string>
   <string name="global_action_text_card_manager">A more interesting calendar</string>
+  <string name="global_cricket_no_match">There is no cricket competition today, and you may review the highlights of the past competitions or try another match. Wonderful event, worth the wait!</string>
+  <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Import birthdays from contacts</string>
   <string name="hint_attendees">Guests</string>
   <string name="hint_description">Description</string>
@@ -243,6 +243,7 @@
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
   <string name="horoscope_card_love">爱情运势：</string>
+  <string name="horoscope_card_set_bazi">点击设置星座运势</string>
   <string name="horoscope_card_working">事业运势：</string>
   <string name="horoscope_select_activity_label">Select zodiac sign</string>
   <string name="huangli_bad_type">忌</string>
@@ -297,6 +298,7 @@
   <string name="match_ed">已结束</string>
   <string name="match_ing">进行中</string>
   <string name="match_not_started">未开始</string>
+  <string name="match_select_activity_label">Select Matches</string>
   <string name="menu_general_preferences">General</string>
   <string name="menu_preferences">Settings</string>
   <string name="menu_reminder_preferences">Reminders</string>
@@ -384,8 +386,10 @@ Check network settings and try again."</string>
   <string name="repeat_end_label">Stop repeating after</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
-  <string name="repeat_interval_frequency_single">%1$s</string>
+  <string name="repeat_interval_frequency_day_single">day</string>
+  <string name="repeat_interval_frequency_month_single">month</string>
+  <string name="repeat_interval_frequency_week_single">week</string>
+  <string name="repeat_interval_frequency_year_single">year</string>
   <string name="repeat_label_choose_day">Choose day</string>
   <string name="repeat_label_choose_month">Choose month</string>
   <string name="repeat_label_choose_time">Choose reminder time</string>
@@ -430,7 +434,7 @@ Check network settings and try again."</string>
   <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
-  <string name="shift_card_edit_reminder">编辑提醒</string>
+  <string name="shift_card_edit_reminder">设置提醒</string>
   <string name="shift_card_reminder_day">本轮第%1$d天</string>
   <string name="shift_card_set_reminder">点击设置倒班提醒</string>
   <string name="shift_card_shift_type">今日倒班-%1$s</string>
