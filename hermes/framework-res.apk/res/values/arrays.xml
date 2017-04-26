@@ -400,6 +400,14 @@
         <item>71610</item>
         <item>732101</item>
     </string-array>
+    <string-array name="config_legacyPinnerServiceFiles">
+        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
+        <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/oat/arm/services.odex</item>
+    </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
