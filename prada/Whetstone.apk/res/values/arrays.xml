@@ -8,7 +8,6 @@
         <item>com.miui.klorobotrelease/.service.FeedbackBackgroundService</item>
         <item>com.miui.klo.bugreport/.service.FeedbackBackgroundService</item>
         <item>com.miui.whetstone/.net.MiuiDnsService</item>
-        <item>com.miui.systemAdSolution/.splashscreen.SplashScreenService</item>
         <item>com.xiaomi.metok/.MetokClService</item>
         <item>com.miui.sysbase/.MetokClService</item>
     </string-array>
@@ -117,17 +116,6 @@
         <item>cld.navi.mainframe</item>
         <item>com.xiaomi.metoknlp</item>
     </string-array>
-    <string-array name="navigation_list_active">
-        <item>com.baidu.BaiduMap</item>
-        <item>com.autonavi.minimap</item>
-        <item>com.sogou.map.android.maps</item>
-        <item>com.tencent.map</item>
-        <item>cld.navi.mainframe</item>
-        <item>com.baidu.navi</item>
-        <item>com.mapbar.android.mapbarmap</item>
-        <item>com.sogou.map.android.minimap</item>
-        <item>com.autonavi.xmgd.navigator</item>
-    </string-array>
     <string-array name="protect_lock_active">
         <item>com.duokan.reader</item>
     </string-array>
@@ -137,6 +125,9 @@
     </string-array>
     <string-array name="protect_link_active">
         <item>com.miui.networkassistant.vpn</item>
+    </string-array>
+    <string-array name="provider_active_whitelist">
+        <item>com.miui.powerkeeper</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>
