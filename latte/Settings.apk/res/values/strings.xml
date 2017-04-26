@@ -1404,6 +1404,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="failed_to_shut_down_find_device_title">"Couldn't turn off"</string>
   <string name="fcc_equipment_id">Equipment ID</string>
   <string name="feature_title_account">Mi Account</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Call history</string>
   <string name="feature_title_mms">MMS</string>
   <string name="field_info_card_label">Choose card:</string>
