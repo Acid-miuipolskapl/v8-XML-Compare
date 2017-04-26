@@ -375,6 +375,12 @@
         <item>1980-01-08</item>
         <item>1982-01-10</item>
     </string-array>
+    <string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>International</item>
+        <item>Domestic</item>
+        <item>T20 Leagues</item>
+    </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
         <item>silent</item>
@@ -425,12 +431,6 @@
         <item>week</item>
         <item>month</item>
         <item>year</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>days</item>
-        <item>weeks</item>
-        <item>months</item>
-        <item>years</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1st</item>
