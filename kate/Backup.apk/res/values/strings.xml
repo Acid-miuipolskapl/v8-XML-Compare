@@ -109,6 +109,7 @@
   <string name="exchange_account">Switch account</string>
   <string name="fail">Failed</string>
   <string name="feature_title_account">Mi Account</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Call history</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Uploading…</string>
