@@ -63,11 +63,12 @@
   <string name="add_new_quicklink">Add to start page</string>
   <string name="add_ql_bm_title">Save</string>
   <string name="add_quicklink_to_popular">Add to start page</string>
-  <string name="add_quicklinks">Add to start page</string>
+  <string name="add_quicklinks">Add</string>
   <string name="add_shortcut">Add shortcut</string>
   <string name="add_shortcut_success">Added shortcut successfully</string>
   <string name="add_to_bookmark">Bookmarks</string>
   <string name="add_to_desk">Place on Home screen</string>
+  <string name="add_to_desk_lite_mode_toast">"Couldn't add to Home screen in lite mode"</string>
   <string name="add_to_desk_success">Placed on Home screen</string>
   <string name="add_to_quicklink">Start Page</string>
   <string name="added_to_bookmarks">Added to bookmarks</string>
@@ -242,6 +243,7 @@
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="autoSwithcingSearchEngineTips">Has switched search engine by your habit</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
@@ -249,6 +251,7 @@
   <string name="autologin_bar_login_text">Sign in</string>
   <string name="autologin_bar_text">Sign in as</string>
   <string name="back_button_label">Back</string>
+  <string name="back_description">Back</string>
   <string name="block">Block</string>
   <string name="block_ads_choice_block">Block</string>
   <string name="block_ads_choice_continue">Continue</string>
@@ -346,6 +349,7 @@
   <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontent">请输入您的反馈内容</string>
   <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nowifi">为了您的流量考虑，请连接Wifi网络后再进行反馈</string>
   <string name="comment_app_menu">Comment</string>
+  <string name="comment_description">Comment</string>
   <string name="comment_hint">Comment</string>
   <string name="comment_menu">Comment</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
@@ -495,10 +499,12 @@ Pages you view won't appear in history."</string>
   <string name="find_on_page_next">Next</string>
   <string name="find_on_page_prev">Back</string>
   <string name="find_previous">Find previous</string>
+  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
   <string name="fling_on_border_gesture_hint">You can choose the function of this gesture in Settings</string>
   <string name="force_quick_search_title">Search</string>
   <string name="force_touch_bookmark_history_title">Bookmarks &amp; history</string>
   <string name="force_touch_infoflow_title">News</string>
+  <string name="forward_description">Forward</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
   <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>
@@ -518,6 +524,7 @@ Pages you view won't appear in history."</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="hint">Hint</string>
   <string name="history_saved_webpage">Saved pages</string>
+  <string name="home_description">Home</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Delete</string>
   <string name="homepage_get_location">Get location</string>
@@ -642,6 +649,7 @@ Leave this page?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">SD card is required to modify this path.</string>
   <string name="month_picker_dialog_title">Set month</string>
+  <string name="more_description">Menu</string>
   <string name="more_option">More options</string>
   <string name="nav_bottom_bar_back">Back</string>
   <string name="nav_bottom_bar_close_all">Close all</string>
@@ -693,6 +701,7 @@ Leave this page?"</string>
   <string name="pref_adblock_counts">%d blocked</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">Update using Wi-Fi</string>
+  <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
   <string name="pref_category_hint">Category</string>
   <string name="pref_check_security_url_summary">"Send website URL to Mi's servers to check if it's secure"</string>
   <string name="pref_check_security_url_title">Check URL security</string>
@@ -810,6 +819,8 @@ Leave this page?"</string>
   <string name="pull_to_refresh_release_label">Release to recommend and refresh</string>
   <string name="qr_code_title">QR Code</string>
   <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
+  <string name="quicklink_cannot_save_url">"This URL can't be added."</string>
+  <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">"Couldn't add to start page"</string>
   <string name="quicklink_saved">Saved to start page</string>
   <string name="quicklink_saved_before">This site has already been added</string>
@@ -927,6 +938,7 @@ Leave this page?"</string>
   <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
   <string name="start_save_page_capture">Saving screenshot…</string>
   <string name="storage_internal">Internal storage</string>
+  <string name="storage_permission_request_toast">Download needs storage permission, please open it</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
   <string name="suggest_access_appstore">Mi App Store</string>
@@ -942,11 +954,13 @@ Leave this page?"</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">Delete</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
+  <string name="switchText">YES</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
   <string name="tab_hotpage">News feed</string>
   <string name="tab_quicklinks">Start page</string>
   <string name="tab_yellowpage">Links</string>
+  <string name="tabs_description">Tabs</string>
   <string name="tae_sdk_login_qr_icon_close"></string>
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
@@ -960,6 +974,8 @@ Leave this page?"</string>
   <string name="title_bar_loading">Loading…</string>
   <string name="too_many_windows_dialog_message">"Browser can't open a new tab until you close another tab"</string>
   <string name="too_many_windows_dialog_title">"Can't open more tabs"</string>
+  <string name="unSwitchText">NO</string>
+  <string name="undo">Undo</string>
   <string name="unknown_title">Unknown</string>
   <string name="unsecurity_url_toast">"This website isn't secure"</string>
   <string name="up_to_loading_tips">Release to refresh</string>
