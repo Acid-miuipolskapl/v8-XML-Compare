@@ -37,9 +37,9 @@
   <string name="cloud_app_restore_data">Personal data and previously installed apps will appear on your device automatically</string>
   <string name="cloud_app_restore_error">"Couldn't restore"</string>
   <string name="cloud_app_restore_success">Apps restored</string>
-  <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a Wi-Fi network.</string>
+  <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a WLAN network.</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to Wi-Fi: 
+  <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to WLAN: 
 *\u0009\u0009\u0009\u0009Apps, Home screen layout, and wallpapers 
 *\u0009\u0009\u0009\u0009Alarm, clock, and time settings 
 *\u0009\u0009\u0009\u0009Notification settings 
@@ -50,7 +50,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_frequence_short">Every day</string>
   <string name="cloud_back_up_interval_long">7 days</string>
   <string name="cloud_back_up_interval_short">day</string>
-  <string name="cloud_back_up_no_network_warn">"Can't connect to Wi-Fi"</string>
+  <string name="cloud_back_up_no_network_warn">"Can't connect to WLAN"</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Just a sec…</string>
   <string name="cloud_back_up_share_activity_confirm">Upgrade</string>
@@ -70,7 +70,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_restore_task">Restoring…</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
   <string name="confirm_restore">Restore</string>
-  <string name="confirm_restore_summary">Home screen will restart and apps will be downloaded automatically when connected to Wi-Fi</string>
+  <string name="confirm_restore_summary">Home screen will restart and apps will be downloaded automatically when connected to WLAN</string>
   <string name="confirm_restore_title">Restore</string>
   <string name="customization">&lt;u&gt;Customize&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -95,9 +95,9 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="menu_item_sort_size">Size</string>
   <string name="miui_device_name">Android</string>
   <string name="name_model">"%1$s's %2$s"</string>
-  <string name="open_wifi">Turn Wi-Fi on now</string>
-  <string name="open_wifi_description">Connect to a Wi-Fi network to restore app</string>
-  <string name="open_wifi_setting">Wi-Fi settings</string>
+  <string name="open_wifi">Turn WLAN on now</string>
+  <string name="open_wifi_description">Connect to a WLAN network to restore app</string>
+  <string name="open_wifi_setting">WLAN settings</string>
   <string name="process_whole_recovery">Restoring \"%s\"</string>
   <string name="query_restore_back_view">Mi Cloud backup</string>
   <string name="query_restore_description">Restore Home screen apps and settings using this backup. This will overwrite app data for duplicate apps already installed on this device. Apps not included in the backup will be moved to the last Home screen.</string>

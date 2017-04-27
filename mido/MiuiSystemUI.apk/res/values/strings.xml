@@ -43,7 +43,7 @@
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>
   <string name="accessibility_no_phone">No phone.</string>
-  <string name="accessibility_no_wifi">No Wi-Fi.</string>
+  <string name="accessibility_no_wifi">No WLAN.</string>
   <string name="accessibility_no_wimax">No WiMAX.</string>
   <string name="accessibility_phone_four_bars">Phone four bars.</string>
   <string name="accessibility_phone_one_bar">Phone one bar.</string>
@@ -64,10 +64,10 @@
   <string name="accessibility_search_light">Search</string>
   <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
   <string name="accessibility_wifi_off">Wifi off.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi one bar.</string>
-  <string name="accessibility_wifi_signal_full">Wi-Fi signal full.</string>
-  <string name="accessibility_wifi_three_bars">Wi-Fi three bars.</string>
-  <string name="accessibility_wifi_two_bars">Wi-Fi two bars.</string>
+  <string name="accessibility_wifi_one_bar">WLAN one bar.</string>
+  <string name="accessibility_wifi_signal_full">WLAN signal full.</string>
+  <string name="accessibility_wifi_three_bars">WLAN three bars.</string>
+  <string name="accessibility_wifi_two_bars">WLAN two bars.</string>
   <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
@@ -186,7 +186,7 @@
   <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
   <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_wfa">Connected via WLAN assistant</string>
   <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
@@ -343,7 +343,7 @@ Use only the supplied charger."</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data_always_on">Cellular data always active</string>
-  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
+  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
   <string name="mock_location_app">Select mock location app</string>
   <string name="mock_location_app_not_set">No mock location app set</string>
   <string name="mock_location_app_set">Mock location app: %1$s</string>
@@ -421,8 +421,8 @@ Use only the supplied charger."</string>
   <string name="quick_settings_more_settings">More settings</string>
   <string name="quick_settings_tiles">default</string>
   <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location</string>
-  <string name="quick_settings_wifi_detail_empty_text">No Wi-Fi networks available</string>
-  <string name="quick_settings_wifi_label">Wi-Fi</string>
+  <string name="quick_settings_wifi_detail_empty_text">No WLAN networks available</string>
+  <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_lock_text">Lock</string>
@@ -522,7 +522,7 @@ Slide down to lock"</string>
   <string name="status_bar_settings_airplane">Airplane mode</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN connected</string>
   <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="strict_mode">Strict mode enabled</string>
@@ -619,15 +619,15 @@ Slide down to lock"</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
   <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Updated %1$s</string>
-  <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
-  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-  <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
+  <string name="wifi_aggressive_handover">Aggressive WLAN to Cellular handover</string>
+  <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
+  <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WiFi Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
@@ -657,7 +657,7 @@ Slide down to lock"</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+  <string name="wifi_verbose_logging">Enable WLAN Verbose Logging</string>
+  <string name="wifi_verbose_logging_summary">Increase WLAN logging level, show per SSID RSSI in WLAN Picker</string>
   <string name="window_animation_scale_title">Window animation scale</string>
 </resources>

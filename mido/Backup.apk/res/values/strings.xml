@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_151">false</string>
   <string name="APKTOOL_DUMMY_152">false</string>
   <string name="APKTOOL_DUMMY_153">false</string>
   <string name="APKTOOL_DUMMY_154">false</string>
+  <string name="APKTOOL_DUMMY_155">false</string>
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
   <string name="abort_restore_confirm">"Restore hasn't finished. Stop anyway?"</string>
   <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
@@ -18,7 +18,7 @@
   <string name="auto_backup_choose_empty">No backups.</string>
   <string name="auto_backup_choose_title">Choose items to back up</string>
   <string name="auto_backup_date">Days</string>
-  <string name="auto_backup_only_wifi">Only when connected to Wi-Fi</string>
+  <string name="auto_backup_only_wifi">Only when connected to WLAN</string>
   <string name="auto_backup_open">Back up automatically</string>
   <string name="auto_backup_progress">Backing up…</string>
   <string name="auto_backup_select_user_apps">Choose apps</string>
@@ -113,6 +113,7 @@
   <string name="exchange_account">Switch account</string>
   <string name="fail">Failed</string>
   <string name="feature_title_account">Mi Account</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Call history</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Uploading…</string>
@@ -197,7 +198,7 @@
   <string name="sc_precondition_failed">You need to add an email address to your Mi Account first.</string>
   <string name="sc_request_timeout">Request timed out</string>
   <string name="sc_service_unavailable">Mi Cloud unavailable</string>
-  <string name="sc_unaccess_password_file">"Can't find Wi-Fi network password"</string>
+  <string name="sc_unaccess_password_file">"Can't find WLAN network password"</string>
   <string name="sc_unauthorized">Sign in again</string>
   <string name="sd_not_available">Insert SD card now</string>
   <string name="sdcard_no_enough_space">Not enough space</string>
@@ -304,7 +305,7 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
-Don't turn off Wi-Fi Hotspot.
+Don't turn off WLAN Hotspot.
 Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
@@ -325,7 +326,7 @@ Similar files on the new device will be overwritten"</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
   <string name="trans_sender_time_remained">"%s remaining.
-Don't turn off Wi-Fi.
+Don't turn off WLAN.
 Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
@@ -346,7 +347,7 @@ and Mi Mover is on"</string>
   <string name="user_notice_declaration_ignore">"Don't show again"</string>
   <string name="user_notice_message">Some features require internet connection to work normally.</string>
   <string name="user_notice_title">Attention</string>
-  <string name="wifi_title">Wi-Fi settings</string>
+  <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Couldn't start the download. Make sure Download Manager works normally."</string>

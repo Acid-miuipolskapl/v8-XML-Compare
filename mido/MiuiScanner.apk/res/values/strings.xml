@@ -391,8 +391,8 @@
   <string name="view_study_report">View report</string>
   <string name="web">Website:</string>
   <string name="website_details">Website:</string>
-  <string name="wifi_details">Wi-Fi:</string>
-  <string name="wifi_open_fail">"Can't turn on Wi-Fi"</string>
+  <string name="wifi_details">WLAN:</string>
+  <string name="wifi_open_fail">"Can't turn on WLAN"</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>

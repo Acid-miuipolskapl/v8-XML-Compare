@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_24b">false</string>
   <string name="APKTOOL_DUMMY_24c">false</string>
   <string name="APKTOOL_DUMMY_24d">false</string>
   <string name="APKTOOL_DUMMY_24e">false</string>
@@ -258,6 +257,7 @@
   <string name="APKTOOL_DUMMY_34a">false</string>
   <string name="APKTOOL_DUMMY_34b">false</string>
   <string name="APKTOOL_DUMMY_34c">false</string>
+  <string name="APKTOOL_DUMMY_34d">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -353,6 +353,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">System apps/Camera/Settings</string>
+  <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
   <string name="portrait_mode_lowlight_hint">More light required</string>
   <string name="portrait_mode_too_close_hint">Move farther away</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>

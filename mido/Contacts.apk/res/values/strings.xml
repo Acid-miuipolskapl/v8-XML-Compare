@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_4c9">false</string>
+  <string name="APKTOOL_DUMMY_4ca">false</string>
+  <string name="APKTOOL_DUMMY_4cb">false</string>
   <string name="APKTOOL_DUMMY_4cc">false</string>
   <string name="APKTOOL_DUMMY_4cd">false</string>
   <string name="APKTOOL_DUMMY_4ce">false</string>
@@ -24,6 +27,7 @@
   <string name="APKTOOL_DUMMY_4e1">false</string>
   <string name="APKTOOL_DUMMY_4e2">false</string>
   <string name="APKTOOL_DUMMY_4e3">false</string>
+  <string name="APKTOOL_DUMMY_4e4">false</string>
   <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>

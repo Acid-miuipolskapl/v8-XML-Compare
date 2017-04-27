@@ -115,6 +115,6 @@
   <string name="top_no_network_detial">"Couldn't load, check network connection and try again"</string>
   <string name="uninstall_game_count">"Haven't added %d games"</string>
   <string name="usage_sorted_loading_text">Just a sec…</string>
-  <string name="wlan_change_protection_detail">"Don't switch to Wi-Fi automatically when connected to mobile data network"</string>
+  <string name="wlan_change_protection_detail">"Don't switch to WLAN automatically when connected to mobile data network"</string>
   <string name="wlan_change_protection_title">Prevent switching networks</string>
 </resources>
