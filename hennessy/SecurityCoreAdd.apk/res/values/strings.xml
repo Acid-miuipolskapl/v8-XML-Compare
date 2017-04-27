@@ -37,7 +37,7 @@ this feature will be added to Second space automatically."</string>
   <string name="confirmCloseSpaceDes">"You won't be able to enter Second space after you delete it. All data will be moved or deleted."</string>
   <string name="confirmDelete">Delete</string>
   <string name="confirmSecondSpacePassword">Confirm Second space password</string>
-  <string name="confirm_airspace_password">Confirm Work space password</string>
+  <string name="confirm_airspace_password">Confirm %s password</string>
   <string name="confirm_main_space_password">Confirm First space password</string>
   <string name="confirm_restore">"Don't show"</string>
   <string name="contactData">Contacts</string>
@@ -53,6 +53,7 @@ to be able to view them anytime"</string>
   <string name="create_space_loading">Creating Second space…</string>
   <string name="create_work_space">Create Work space</string>
   <string name="creating_app_icon">Creating icon…</string>
+  <string name="current_space">Current Space</string>
   <string name="dataSafe">Using Second space is like having two devices.</string>
   <string name="declare_dialog_title">About dual apps</string>
   <string name="deleteAll">Delete all</string>
@@ -85,6 +86,7 @@ to be able to view them anytime"</string>
   <string name="finger_print_num">Fingerprint %d</string>
   <string name="finger_print_of_use">Use fingerprint</string>
   <string name="fingerprint_removal_failed">"Couldn't delete fingerprint"</string>
+  <string name="function_not_support">Not support in this space</string>
   <string name="goToSecondSpacce">Go to Second space</string>
   <string name="go_on_import">Keep importing</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -217,7 +219,7 @@ to enter Second space from Lock screen"</string>
   <string name="start_new_fingerprint_tips">"Use Second space fingerprint
 to enter Second space from Lock screen"</string>
   <string name="start_setting_guide_desc_title">There are a few things to set up</string>
-  <string name="summary_switch_apps_settings">Select apps used in Second space</string>
+  <string name="summary_switch_apps_settings">Select apps used in Current space</string>
   <string name="sure_to_use">Confirm</string>
   <string name="switchDataSummary">Move items between spaces</string>
   <string name="switch_apps_settings">App settings</string>
@@ -228,12 +230,12 @@ to enter Second space from Lock screen"</string>
   <string name="switch_file_success">Files moved successfully</string>
   <string name="switch_in_contacts">Import contacts</string>
   <string name="switch_in_files">Import files</string>
-  <string name="switch_in_hidden_space">Import to Second space</string>
+  <string name="switch_in_hidden_space">Import to Current space</string>
   <string name="switch_in_photos">Import photos</string>
   <string name="switch_in_privacy_contacts">Import private contacts</string>
   <string name="switch_out_contacts">Export contacts</string>
   <string name="switch_out_files">Export files</string>
-  <string name="switch_out_hidden_space">Export data from Second space</string>
+  <string name="switch_out_hidden_space">Export data from Current space</string>
   <string name="switch_out_photos">Export photos</string>
   <string name="switch_out_privacy_contacts">Export private contacts</string>
   <string name="switch_success">Moved successfully</string>
