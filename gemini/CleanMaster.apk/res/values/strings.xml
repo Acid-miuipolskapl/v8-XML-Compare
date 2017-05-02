@@ -454,6 +454,8 @@
   <string name="recommended">Featured</string>
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;&amp;#25991;&amp;#20214;&amp;#21487;&amp;#32487;&amp;#32493;&amp;#28165;&amp;#29702;&amp;#65292;&amp;#36827;&amp;#19968;&amp;#27493;&amp;#37322;&amp;#25918;&amp;#31354;&amp;#38388;&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;&amp;#24494;&amp;#20449;&amp;#22403;&amp;#22334;&amp;#65292;&amp;#28165;&amp;#29702;&amp;#37322;&amp;#25918;&amp;#31354;&amp;#38388;&lt;/Data&gt;" "</string>
   <string name="safety_check_detail">%1$d times, earned %2$d points</string>
   <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
   <string name="sc_allow_network_dialog_button">Allow</string>
