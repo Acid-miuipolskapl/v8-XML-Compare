@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_236">false</string>
-  <string name="APKTOOL_DUMMY_237">false</string>
-  <string name="APKTOOL_DUMMY_273">false</string>
-  <string name="APKTOOL_DUMMY_274">false</string>
+  <string name="APKTOOL_DUMMY_238">false</string>
+  <string name="APKTOOL_DUMMY_239">false</string>
   <string name="APKTOOL_DUMMY_275">false</string>
   <string name="APKTOOL_DUMMY_276">false</string>
   <string name="APKTOOL_DUMMY_277">false</string>
@@ -63,6 +61,8 @@
   <string name="APKTOOL_DUMMY_2ad">false</string>
   <string name="APKTOOL_DUMMY_2ae">false</string>
   <string name="APKTOOL_DUMMY_2af">false</string>
+  <string name="APKTOOL_DUMMY_2b0">false</string>
+  <string name="APKTOOL_DUMMY_2b1">false</string>
   <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
@@ -106,6 +106,7 @@
   <string name="anniversary_event_title">Anniversary: %1$s</string>
   <string name="app_label">Calendar</string>
   <string name="birthday_calendar_display_name">Birthday reminders</string>
+  <string name="birthday_card_other_day_title">Birthday</string>
   <string name="birthday_card_title">"Today's birthdays"</string>
   <string name="birthday_event_description_a_week_ago">A week ago</string>
   <string name="birthday_event_description_a_week_later">One week until</string>
@@ -307,6 +308,7 @@
   <string name="hint_what">Event name</string>
   <string name="hint_where">Location</string>
   <string name="holiday_card_title">Holiday</string>
+  <string name="holiday_detail_read_more">更多</string>
   <string name="homepage_nowadays">今天</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
