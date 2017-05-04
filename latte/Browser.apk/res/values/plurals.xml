@@ -37,6 +37,6 @@
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutes remaining</item>
-        <item quantity="one">1 minute remaining</item>
+        <item quantity="one">%d minute remaining</item>
     </plurals>
 </resources>
