@@ -2466,7 +2466,15 @@ Select your operating system:"</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Cover screen to turn it off</string>
+  <string name="paper_mode_auto_twilight_summary">reading mode schedule as twilight mode</string>
+  <string name="paper_mode_auto_twilight_title">Twilight mode</string>
+  <string name="paper_mode_customize_time_summary">reading mode schedule as customized time</string>
+  <string name="paper_mode_customize_time_title">customize time</string>
   <string name="paper_mode_end_time_title">End time</string>
+  <string name="paper_mode_get_location_dlg_msg">Obtain accurate sunrise and sunset times need to get your network location according network, whether open locationg settings?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Settings</string>
+  <string name="paper_mode_get_location_dlg_title">Set Location</string>
   <string name="paper_mode_start_time_title">Start time</string>
   <string name="passpoint_content">%1$s credentials</string>
   <string name="passpoint_label">Saved via</string>
@@ -2646,6 +2654,10 @@ Select your operating system:"</string>
   <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
   <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
+  <string name="privacy_password_use_finger_dialog_open">Settings</string>
+  <string name="privacy_password_use_finger_dialog_title">Fingerprint unlock</string>
+  <string name="privacy_password_use_finger_success">Turned on</string>
   <string name="privacy_password_visible_pattern">Show pattern</string>
   <string name="privacy_protect_title">Privacy protection</string>
   <string name="privacy_relative">Privacy</string>
@@ -2935,7 +2947,8 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_range_title">Settings</string>
   <string name="screen_paper_mode_set_apps_title">Reading mode apps</string>
   <string name="screen_paper_mode_summary">"Reduce display's background glare"</string>
-  <string name="screen_paper_mode_time_title">Scheduled</string>
+  <string name="screen_paper_mode_time_summary">scheduled reading mode as your setted time</string>
+  <string name="screen_paper_mode_time_title">Timing to scheduled</string>
   <string name="screen_paper_mode_title">Reading mode</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
