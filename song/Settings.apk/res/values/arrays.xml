@@ -1630,6 +1630,24 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Unlimited</item>
+    </string-array>
+    <string-array name="max_number_values">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2007</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>al</item>
         <item>dz</item>
@@ -2498,13 +2516,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_fe">false</item>
-    <item type="array" name="APKTOOL_DUMMY_ff">false</item>
     <item type="array" name="APKTOOL_DUMMY_100">false</item>
     <item type="array" name="APKTOOL_DUMMY_101">false</item>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
+    <item type="array" name="APKTOOL_DUMMY_102">false</item>
+    <item type="array" name="APKTOOL_DUMMY_103">false</item>
     <item type="array" name="APKTOOL_DUMMY_106">false</item>
     <item type="array" name="APKTOOL_DUMMY_107">false</item>
     <item type="array" name="APKTOOL_DUMMY_108">false</item>
     <item type="array" name="APKTOOL_DUMMY_109">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10a">false</item>
 </resources>
