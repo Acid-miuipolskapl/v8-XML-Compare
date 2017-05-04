@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_239">false</string>
+  <string name="APKTOOL_DUMMY_23a">false</string>
+  <string name="APKTOOL_DUMMY_23b">false</string>
+  <string name="APKTOOL_DUMMY_23c">false</string>
+  <string name="APKTOOL_DUMMY_23d">false</string>
+  <string name="APKTOOL_DUMMY_23e">false</string>
+  <string name="APKTOOL_DUMMY_23f">false</string>
+  <string name="APKTOOL_DUMMY_240">false</string>
+  <string name="APKTOOL_DUMMY_241">false</string>
+  <string name="APKTOOL_DUMMY_242">false</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
@@ -448,8 +458,8 @@
   <string name="recommended">Featured</string>
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
-  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;&amp;#25991;&amp;#20214;&amp;#21487;&amp;#32487;&amp;#32493;&amp;#28165;&amp;#29702;&amp;#65292;&amp;#36827;&amp;#19968;&amp;#27493;&amp;#37322;&amp;#25918;&amp;#31354;&amp;#38388;&lt;/Data&gt;" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;&amp;#24494;&amp;#20449;&amp;#22403;&amp;#22334;&amp;#65292;&amp;#28165;&amp;#29702;&amp;#37322;&amp;#25918;&amp;#31354;&amp;#38388;&lt;/Data&gt;" "</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; more files can be cleared. Free up more space.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; of WeChat cache. Free up more space.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">Allow</string>
   <string name="sc_allow_network_dialog_message">Allow this app to connect to the internet to receive updates?</string>
   <string name="scanning">Scanning…</string>
