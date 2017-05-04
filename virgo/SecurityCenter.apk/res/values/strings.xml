@@ -223,6 +223,16 @@ or enter App lock password"</string>
 春节红包活动，不错过每一个红包"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
+  <string name="applock_add_account">Add</string>
+  <string name="applock_add_account_info">"Add Mi Account to be able to reset your password
+in case you forget it"</string>
+  <string name="applock_add_account_setting">Account &amp; privacy</string>
+  <string name="applock_close_dialog_summary">Apps will no longer be protected and your password will be deleted after you turn off App lock.</string>
+  <string name="applock_close_dialog_title">Turn off App lock?</string>
+  <string name="applock_exit_account_info">Account will be removed automatically when you sign out</string>
+  <string name="applock_login_and_add_account">Sign in &amp; add</string>
+  <string name="applock_not_add_account">Not now</string>
+  <string name="applock_not_login_account">"You aren't signed in"</string>
   <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
   <string name="apps_item_sign_dialog_title">Install official app</string>
   <string name="apps_item_sign_install_button_text">Replace</string>
@@ -993,7 +1003,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_daily_package">Daily data plan</string>
   <string name="main_leisure_remained">Off-peak data remaining</string>
   <string name="main_month_total_used">Used this month</string>
-  <string name="main_month_used">Used this month</string>
+  <string name="main_month_used">Data plan</string>
   <string name="main_no_info">No data</string>
   <string name="main_normal_data_usage">Used mobile data</string>
   <string name="main_open_traffic_ctrl_button">Restrict data usage</string>
@@ -2039,7 +2049,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Can't update data usage info"</string>
   <string name="tc_sms_report_notify_get_failure_body">"Couldn't submit data usage report. Make sure that you're
-        connected to a Mobile network."</string>
+        connected to a mobile network."</string>
   <string name="tc_sms_report_notify_get_failure_title">"Can't get data usage SMS"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Process timed out. Confirm with your carrier that the SMS enquiry code you entered is correct.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Can't get data usage SMS"</string>
