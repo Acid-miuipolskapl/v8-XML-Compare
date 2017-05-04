@@ -24,6 +24,8 @@
   <string name="android_common_name_suffixes">@android:string/common_name_suffixes</string>
   <string name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</string>
   <string name="android_force_close">@android:string/force_close</string>
+  <string name="android_forward_intent_to_owner">@android:string/forward_intent_to_owner</string>
+  <string name="android_forward_intent_to_work">@android:string/forward_intent_to_work</string>
   <string name="android_gigabyteShort">@android:string/gigabyteShort</string>
   <string name="android_kilobyteShort">@android:string/kilobyteShort</string>
   <string name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</string>
@@ -52,7 +54,15 @@
   <string name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</string>
   <string name="android_wait">@android:string/wait</string>
   <string name="android_whichApplication">@android:string/whichApplication</string>
+  <string name="android_whichApplicationNamed">@android:string/whichApplicationNamed</string>
+  <string name="android_whichEditApplication">@android:string/whichEditApplication</string>
+  <string name="android_whichEditApplicationNamed">@android:string/whichEditApplicationNamed</string>
   <string name="android_whichHomeApplication">@android:string/whichHomeApplication</string>
+  <string name="android_whichHomeApplicationNamed">@android:string/whichHomeApplicationNamed</string>
+  <string name="android_whichSendApplication">@android:string/whichSendApplication</string>
+  <string name="android_whichSendApplicationNamed">@android:string/whichSendApplicationNamed</string>
+  <string name="android_whichViewApplication">@android:string/whichViewApplication</string>
+  <string name="android_whichViewApplicationNamed">@android:string/whichViewApplicationNamed</string>
   <string name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</string>
   <string name="android_wireless_display_route_description">@android:string/wireless_display_route_description</string>
   <string name="apply_password_action">OK</string>

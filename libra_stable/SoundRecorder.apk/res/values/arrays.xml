@@ -55,4 +55,5 @@
         <item>ar</item>
         <item>bn</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_b">false</item>
 </resources>

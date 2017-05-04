@@ -210,4 +210,8 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_37">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_38">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_39">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_3a">false</item>
 </resources>
