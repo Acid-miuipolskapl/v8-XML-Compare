@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_239">false</string>
+  <string name="APKTOOL_DUMMY_23a">false</string>
+  <string name="APKTOOL_DUMMY_23b">false</string>
+  <string name="APKTOOL_DUMMY_23c">false</string>
+  <string name="APKTOOL_DUMMY_23d">false</string>
+  <string name="APKTOOL_DUMMY_23e">false</string>
+  <string name="APKTOOL_DUMMY_23f">false</string>
+  <string name="APKTOOL_DUMMY_240">false</string>
+  <string name="APKTOOL_DUMMY_241">false</string>
+  <string name="APKTOOL_DUMMY_242">false</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
@@ -42,7 +52,6 @@
   <string name="apps_sort_type_item_size">Size</string>
   <string name="apps_sort_type_item_time">Frequently used</string>
   <string name="apps_sort_type_title">Sort</string>
-  <string name="authorize_detail">Blocked %d apps</string>
   <string name="auto_clean_switch_off">Off</string>
   <string name="auto_clean_switch_on">On</string>
   <string name="auto_cleaner_open">Turn on</string>
@@ -110,7 +119,6 @@
   <string name="connecting">Connecting…</string>
   <string name="deep_clean_completed_tips">Cleaned successfully</string>
   <string name="deep_clean_data_path_clean_title">Clear cache</string>
-  <string name="deep_clean_normal_clean_progress_desc">Cleared %1$s files</string>
   <string name="deep_clean_uninstall_completed_tips">Uninstalled successfully</string>
   <string name="deepclean_1_k_clean">Quick clean</string>
   <string name="deepclean_apk_content">Delete APKs or unnecessary apps</string>
@@ -188,13 +196,11 @@
   <string name="flow_rank_title">Data usage</string>
   <string name="function_app_lock_title">%d apps contain privacy risks​</string>
   <string name="garbage_clean_detail">Details</string>
-  <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Proceed</string>
   <string name="goto_set">Set</string>
   <string name="grabage_rank_title">Cleaned today</string>
-  <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
   <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
   <string name="hint_clean_select_items">Deleting duplicates…</string>
   <string name="hints_ad_header_left">Obsolete files</string>
@@ -370,8 +376,6 @@
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Privacy Policy</string>
   <string name="nb_clear_set">Clear cache, view battery and blocklist info in the notification shade</string>
-  <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
-  <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="news_change">Change</string>
   <string name="no_network">"Couldn't connect to network, try again later"</string>
@@ -454,8 +458,8 @@
   <string name="recommended">Featured</string>
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
-  <string name="safety_check_detail">%1$d times, earned %2$d points</string>
-  <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; more files can be cleared. Free up more space.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; of WeChat cache. Free up more space.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">Allow</string>
   <string name="sc_allow_network_dialog_message">Allow this app to connect to the internet to receive updates?</string>
   <string name="scanning">Scanning…</string>
@@ -531,11 +535,9 @@
   <string name="toast_uninstall_success">Uninstall complete</string>
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">Clear</string>
-  <string name="traffic_top">TOP 5 data consuming apps</string>
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
   <string name="vungle_ad_name">Vungle广告</string>
-  <string name="wechat_add_to_cleanlist">Cleaned successfully</string>
   <string name="wechat_cache_files">WeChat cache</string>
   <string name="wechat_chat_clean_done">Everything looks good</string>
   <string name="wechat_chat_data_type_cache">WeChat cache</string>
