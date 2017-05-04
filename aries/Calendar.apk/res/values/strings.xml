@@ -41,6 +41,7 @@
   <string name="anniversary_event_title">Anniversary: %1$s</string>
   <string name="app_label">Calendar</string>
   <string name="birthday_calendar_display_name">Birthday reminders</string>
+  <string name="birthday_card_other_day_title">Birthday</string>
   <string name="birthday_card_title">"Today's birthdays"</string>
   <string name="birthday_event_description_a_week_ago">A week ago</string>
   <string name="birthday_event_description_a_week_later">One week until</string>
@@ -238,6 +239,7 @@
   <string name="hint_what">Event name</string>
   <string name="hint_where">Location</string>
   <string name="holiday_card_title">Holiday</string>
+  <string name="holiday_detail_read_more">更多</string>
   <string name="homepage_nowadays">今天</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
