@@ -4333,9 +4333,18 @@ Select your operating system:"</string>
     <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
     <string name="screen_paper_mode_title">Reading mode</string>
     <string name="screen_paper_mode_summary">"Reduce display's background glare"</string>
-    <string name="screen_paper_mode_time_title">Scheduled</string>
+    <string name="screen_paper_mode_time_title">Timing to scheduled</string>
+    <string name="screen_paper_mode_time_summary">scheduled reading mode as your setted time</string>
+    <string name="paper_mode_auto_twilight_title">Twilight mode</string>
+    <string name="paper_mode_auto_twilight_summary">reading mode schedule as twilight mode</string>
+    <string name="paper_mode_customize_time_title">customize time</string>
+    <string name="paper_mode_customize_time_summary">reading mode schedule as customized time</string>
     <string name="paper_mode_start_time_title">Start time</string>
     <string name="paper_mode_end_time_title">End time</string>
+    <string name="paper_mode_get_location_dlg_title">Set Location</string>
+    <string name="paper_mode_get_location_dlg_msg">Obtain accurate sunrise and sunset times need to get your network location according network, whether open locationg settings?</string>
+    <string name="paper_mode_get_location_dlg_positive_btn_text">Settings</string>
+    <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel</string>
     <string name="screen_paper_mode_turn_on">On</string>
     <string name="screen_paper_mode_turn_off">Off</string>
     <string name="screen_paper_mode_apps_title">Use Reading mode</string>
@@ -4488,7 +4497,18 @@ Select your operating system:"</string>
     <string name="tether_share_qrcode_title">Share QR code</string>
     <string name="tether_devices_management_title">Manage devices</string>
     <string name="show_connected_devices_title">Connected devices</string>
+    <string name="tether_devices_max_number">Limit of connected devices</string>
     <string name="show_connected_devices_summary">View connected devices</string>
+    <string name="block_list_title">Blocklist</string>
+    <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
+    <string name="block_list_connected_devices">Connected devices</string>
+    <string name="block_list_dialog_title">Disconnect now?</string>
+    <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
+    <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
+    <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
+    <string name="block_list_diaglog_ok">OK</string>
+    <string name="block_list_diaglog_cancle">Cancel</string>
+    <string name="block_list_no_device">No connected devices in blocklist</string>
     <string name="no_connected_devices">No connected devices</string>
     <string name="tether_settings_disabled">Personal hotspot is off</string>
     <string name="use_wifi_master_key_summary">Connect using WLAN Master Key</string>
@@ -5173,6 +5193,10 @@ Select your operating system:"</string>
     <string name="privacy_password_add_account">Add</string>
     <string name="privacy_password_not_login_account">"You aren't signed in"</string>
     <string name="privacy_password_settings_next">Next</string>
+    <string name="privacy_password_use_finger_dialog_title">Fingerprint unlock</string>
+    <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
+    <string name="privacy_password_use_finger_dialog_open">Settings</string>
+    <string name="privacy_password_use_finger_success">Turned on</string>
     <string name="fingerprint_first_open_screen_password_tittle">Fingerprint (set Lock screen password before using it)</string>
     <string name="password_turned_on_text">Password has been turned on</string>
     <string name="password_turned_off_text">Password has been turned off</string>
@@ -5263,30 +5287,6 @@ WLAN Assistant"</string>
     <string name="wifi_automatically_manage_summary">Let a WLAN assistant manage your WLAN connection</string>
     <string name="wifi_assistant_setting_title">WLAN assistant</string>
     <string name="wifi_assistant_setting_summary">Google WLAN Assistant</string>
-    <item type="string" name="APKTOOL_DUMMY_13d7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13d8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13d9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13da">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13db">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13dc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13dd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13de">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13df">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e1">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13ea">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13eb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13ec">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13ed">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13ee">false</item>
     <item type="string" name="APKTOOL_DUMMY_13ef">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f0">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f1">false</item>
@@ -5297,24 +5297,34 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_13f6">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f7">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1400">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1401">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1402">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1403">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1404">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1405">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1406">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1407">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1408">false</item>
     <item type="string" name="APKTOOL_DUMMY_1409">false</item>
     <item type="string" name="APKTOOL_DUMMY_140a">false</item>
     <item type="string" name="APKTOOL_DUMMY_140b">false</item>
     <item type="string" name="APKTOOL_DUMMY_140c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1420">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1421">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1422">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1423">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1424">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1425">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1426">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1427">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1428">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1429">false</item>
-    <item type="string" name="APKTOOL_DUMMY_142a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_142b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_142c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_142d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_140d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_140e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_140f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1410">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1417">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1418">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1419">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141a">false</item>
     <item type="string" name="APKTOOL_DUMMY_142e">false</item>
     <item type="string" name="APKTOOL_DUMMY_142f">false</item>
     <item type="string" name="APKTOOL_DUMMY_1430">false</item>
@@ -5325,29 +5335,31 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_1435">false</item>
     <item type="string" name="APKTOOL_DUMMY_1436">false</item>
     <item type="string" name="APKTOOL_DUMMY_1437">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1438">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1439">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143e">false</item>
     <item type="string" name="APKTOOL_DUMMY_143f">false</item>
     <item type="string" name="APKTOOL_DUMMY_1440">false</item>
     <item type="string" name="APKTOOL_DUMMY_1441">false</item>
     <item type="string" name="APKTOOL_DUMMY_1442">false</item>
     <item type="string" name="APKTOOL_DUMMY_1443">false</item>
     <item type="string" name="APKTOOL_DUMMY_1444">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14a4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14a5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14a6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14a7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14a8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14a9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14aa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14ab">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14ac">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14ad">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14ae">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14af">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14b0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1445">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1450">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1451">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1452">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b2">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b3">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14b6">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b7">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b8">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b9">false</item>
@@ -5355,12 +5367,11 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_14bb">false</item>
     <item type="string" name="APKTOOL_DUMMY_14bc">false</item>
     <item type="string" name="APKTOOL_DUMMY_14bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14be">false</item>
     <item type="string" name="APKTOOL_DUMMY_14bf">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c0">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c1">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14c3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14c4">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c5">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c6">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c7">false</item>
@@ -5368,7 +5379,6 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_14c9">false</item>
     <item type="string" name="APKTOOL_DUMMY_14ca">false</item>
     <item type="string" name="APKTOOL_DUMMY_14cb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14cc">false</item>
     <item type="string" name="APKTOOL_DUMMY_14cd">false</item>
     <item type="string" name="APKTOOL_DUMMY_14ce">false</item>
     <item type="string" name="APKTOOL_DUMMY_14cf">false</item>
@@ -5422,7 +5432,21 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_14ff">false</item>
     <item type="string" name="APKTOOL_DUMMY_1500">false</item>
     <item type="string" name="APKTOOL_DUMMY_1501">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1514">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1515">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1516">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1502">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1503">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1504">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1505">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1506">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1507">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1508">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1509">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1522">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1523">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1524">false</item>
 </resources>

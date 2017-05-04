@@ -128,8 +128,10 @@ Pull down to refresh or check the network settings"</string>
     <string name="ads_score_title" />
     <string name="tts_report_city_name" />
     <string name="tts_report_weather_desc" />
-    <string name="tts_report_temperature_high" />
-    <string name="tts_report_temperature_low" />
+    <string name="tts_report_temperature_high_centigrade" />
+    <string name="tts_report_temperature_low_centigrade" />
+    <string name="tts_report_temperature_high_fahrenheit" />
+    <string name="tts_report_temperature_low_fahrenheit" />
     <string name="tts_report_wind" />
     <string name="tts_report_aqi" />
     <string name="tts_report_split" />
@@ -166,6 +168,7 @@ Tap the screen to manually add or reposition city"</string>
     <string name="open_now">Open</string>
     <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">M/d</string>
+    <string name="hourly_forecast_date">M/d</string>
     <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Powered by Colorful Clouds</string>
@@ -241,13 +244,9 @@ Tap the screen to manually add or reposition city"</string>
     <string name="minute_rain_pull_down_refresh">Pull down to refresh</string>
     <string name="minute_rain_refreshing_now">Refreshing</string>
     <string name="minute_rain_let_go_refresh">Let refresh</string>
-    <item type="string" name="APKTOOL_DUMMY_100">false</item>
-    <item type="string" name="APKTOOL_DUMMY_101">false</item>
-    <item type="string" name="APKTOOL_DUMMY_102">false</item>
-    <item type="string" name="APKTOOL_DUMMY_103">false</item>
-    <item type="string" name="APKTOOL_DUMMY_104">false</item>
-    <item type="string" name="APKTOOL_DUMMY_105">false</item>
-    <item type="string" name="APKTOOL_DUMMY_106">false</item>
+    <string name="aqi_display_exp">exp_%1$s</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <item type="string" name="APKTOOL_DUMMY_107">false</item>
     <item type="string" name="APKTOOL_DUMMY_108">false</item>
     <item type="string" name="APKTOOL_DUMMY_109">false</item>
@@ -275,4 +274,13 @@ Tap the screen to manually add or reposition city"</string>
     <item type="string" name="APKTOOL_DUMMY_11f">false</item>
     <item type="string" name="APKTOOL_DUMMY_120">false</item>
     <item type="string" name="APKTOOL_DUMMY_121">false</item>
+    <item type="string" name="APKTOOL_DUMMY_122">false</item>
+    <item type="string" name="APKTOOL_DUMMY_123">false</item>
+    <item type="string" name="APKTOOL_DUMMY_124">false</item>
+    <item type="string" name="APKTOOL_DUMMY_125">false</item>
+    <item type="string" name="APKTOOL_DUMMY_126">false</item>
+    <item type="string" name="APKTOOL_DUMMY_127">false</item>
+    <item type="string" name="APKTOOL_DUMMY_128">false</item>
+    <item type="string" name="APKTOOL_DUMMY_129">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12a">false</item>
 </resources>
