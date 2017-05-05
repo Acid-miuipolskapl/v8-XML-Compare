@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_405">false</string>
-  <string name="APKTOOL_DUMMY_406">false</string>
-  <string name="APKTOOL_DUMMY_407">false</string>
-  <string name="APKTOOL_DUMMY_408">false</string>
   <string name="APKTOOL_DUMMY_409">false</string>
   <string name="APKTOOL_DUMMY_40a">false</string>
   <string name="APKTOOL_DUMMY_40b">false</string>
@@ -40,6 +36,10 @@
   <string name="APKTOOL_DUMMY_42a">false</string>
   <string name="APKTOOL_DUMMY_42b">false</string>
   <string name="APKTOOL_DUMMY_42c">false</string>
+  <string name="APKTOOL_DUMMY_42d">false</string>
+  <string name="APKTOOL_DUMMY_42e">false</string>
+  <string name="APKTOOL_DUMMY_42f">false</string>
+  <string name="APKTOOL_DUMMY_430">false</string>
   <string name="FpTest">FpTest Run</string>
   <string name="FpTest_result">FpTest result:</string>
   <string name="SDCard">SD Card</string>
@@ -104,6 +104,8 @@
   <string name="bad_pixel_num">全局坏点数:</string>
   <string name="bad_point_touch_sensor">通过平头橡胶头按压指纹模组</string>
   <string name="badpoint_category">坏点测试</string>
+  <string name="baterry_percent">"Amount Of Battery Charge: "</string>
+  <string name="baterry_temperature">"Battery Temperature: "</string>
   <string name="begin_to_save_finger_data">Begin to save finger data</string>
   <string name="bio_assay_time">活体识别耗时</string>
   <string name="bio_flag">活体标识</string>
@@ -356,7 +358,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
   <string name="cit_playing_sd_mp3">Playing music.mp3…</string>
   <string name="cit_pointer_location_title">Touch sensor</string>
-  <string name="cit_power_check_summary">The amount of battery charge should be expressed as a percentage below.</string>
+  <string name="cit_power_check_summary">"The amount of battery charge should be expressed as a percentage below, and the battery's temperature also should be displayed."</string>
   <string name="cit_power_check_title">Battery indicator</string>
   <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
   <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
@@ -370,6 +372,8 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_test">Test</string>
+  <string name="cit_sar_sensor_check_summary">Values for sar sensor channels should appear below, cover the button of the phone, if data changed, the function is good</string>
+  <string name="cit_sar_sensor_check_title">SAR Sensor</string>
   <string name="cit_sd_fail">An error occurred.</string>
   <string name="cit_sd_mount">Mount SD card</string>
   <string name="cit_sd_mount_sucess">SD card mounted</string>

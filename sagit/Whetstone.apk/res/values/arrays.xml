@@ -8,7 +8,6 @@
         <item>com.miui.klorobotrelease/.service.FeedbackBackgroundService</item>
         <item>com.miui.klo.bugreport/.service.FeedbackBackgroundService</item>
         <item>com.miui.whetstone/.net.MiuiDnsService</item>
-        <item>com.miui.systemAdSolution/.splashscreen.SplashScreenService</item>
         <item>com.xiaomi.metok/.MetokClService</item>
         <item>com.miui.sysbase/.MetokClService</item>
     </string-array>
