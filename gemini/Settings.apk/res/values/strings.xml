@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_13ef">false</string>
-  <string name="APKTOOL_DUMMY_13f0">false</string>
   <string name="APKTOOL_DUMMY_13f1">false</string>
   <string name="APKTOOL_DUMMY_13f2">false</string>
   <string name="APKTOOL_DUMMY_13f3">false</string>
@@ -34,12 +32,12 @@
   <string name="APKTOOL_DUMMY_140e">false</string>
   <string name="APKTOOL_DUMMY_140f">false</string>
   <string name="APKTOOL_DUMMY_1410">false</string>
-  <string name="APKTOOL_DUMMY_1417">false</string>
-  <string name="APKTOOL_DUMMY_1418">false</string>
+  <string name="APKTOOL_DUMMY_1411">false</string>
+  <string name="APKTOOL_DUMMY_1412">false</string>
   <string name="APKTOOL_DUMMY_1419">false</string>
   <string name="APKTOOL_DUMMY_141a">false</string>
-  <string name="APKTOOL_DUMMY_142e">false</string>
-  <string name="APKTOOL_DUMMY_142f">false</string>
+  <string name="APKTOOL_DUMMY_141b">false</string>
+  <string name="APKTOOL_DUMMY_141c">false</string>
   <string name="APKTOOL_DUMMY_1430">false</string>
   <string name="APKTOOL_DUMMY_1431">false</string>
   <string name="APKTOOL_DUMMY_1432">false</string>
@@ -62,14 +60,14 @@
   <string name="APKTOOL_DUMMY_1443">false</string>
   <string name="APKTOOL_DUMMY_1444">false</string>
   <string name="APKTOOL_DUMMY_1445">false</string>
-  <string name="APKTOOL_DUMMY_144d">false</string>
-  <string name="APKTOOL_DUMMY_144e">false</string>
+  <string name="APKTOOL_DUMMY_1446">false</string>
+  <string name="APKTOOL_DUMMY_1447">false</string>
   <string name="APKTOOL_DUMMY_144f">false</string>
   <string name="APKTOOL_DUMMY_1450">false</string>
   <string name="APKTOOL_DUMMY_1451">false</string>
   <string name="APKTOOL_DUMMY_1452">false</string>
-  <string name="APKTOOL_DUMMY_14b2">false</string>
-  <string name="APKTOOL_DUMMY_14b3">false</string>
+  <string name="APKTOOL_DUMMY_1453">false</string>
+  <string name="APKTOOL_DUMMY_1454">false</string>
   <string name="APKTOOL_DUMMY_14b4">false</string>
   <string name="APKTOOL_DUMMY_14b5">false</string>
   <string name="APKTOOL_DUMMY_14b6">false</string>
@@ -85,15 +83,15 @@
   <string name="APKTOOL_DUMMY_14c0">false</string>
   <string name="APKTOOL_DUMMY_14c1">false</string>
   <string name="APKTOOL_DUMMY_14c2">false</string>
-  <string name="APKTOOL_DUMMY_14c5">false</string>
-  <string name="APKTOOL_DUMMY_14c6">false</string>
+  <string name="APKTOOL_DUMMY_14c3">false</string>
+  <string name="APKTOOL_DUMMY_14c4">false</string>
   <string name="APKTOOL_DUMMY_14c7">false</string>
   <string name="APKTOOL_DUMMY_14c8">false</string>
   <string name="APKTOOL_DUMMY_14c9">false</string>
   <string name="APKTOOL_DUMMY_14ca">false</string>
   <string name="APKTOOL_DUMMY_14cb">false</string>
+  <string name="APKTOOL_DUMMY_14cc">false</string>
   <string name="APKTOOL_DUMMY_14cd">false</string>
-  <string name="APKTOOL_DUMMY_14ce">false</string>
   <string name="APKTOOL_DUMMY_14cf">false</string>
   <string name="APKTOOL_DUMMY_14d0">false</string>
   <string name="APKTOOL_DUMMY_14d1">false</string>
@@ -159,9 +157,11 @@
   <string name="APKTOOL_DUMMY_150d">false</string>
   <string name="APKTOOL_DUMMY_150e">false</string>
   <string name="APKTOOL_DUMMY_150f">false</string>
-  <string name="APKTOOL_DUMMY_1522">false</string>
-  <string name="APKTOOL_DUMMY_1523">false</string>
+  <string name="APKTOOL_DUMMY_1510">false</string>
+  <string name="APKTOOL_DUMMY_1511">false</string>
   <string name="APKTOOL_DUMMY_1524">false</string>
+  <string name="APKTOOL_DUMMY_1525">false</string>
+  <string name="APKTOOL_DUMMY_1526">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -2159,7 +2159,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
-  <string name="launcher_title">Home screen</string>
+  <string name="launcher_title">Home screen And Recents panel</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -3277,6 +3277,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
+  <string name="recents_config_title">Recents Tasks Panel settings</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3882,6 +3883,7 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="show_ime">Show virtual keyboard</string>
   <string name="show_ime_summary">Keep it on screen while physical keyboard is active</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
+  <string name="show_mem_info_title">Show Memory Info</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_owner_info_on_lockscreen_label">Show signature on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
