@@ -1789,7 +1789,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
-  <string name="launcher_title">Home screen</string>
+  <string name="launcher_title">Home screen And Recents panel</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -2821,6 +2821,7 @@ Select your operating system:"</string>
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
+  <string name="recents_config_title">Recents Tasks Panel settings</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3369,6 +3370,7 @@ To use screen pinning:
   <string name="show_hw_screen_updates">Show GPU view updates</string>
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
+  <string name="show_mem_info_title">Show Memory Info</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_owner_info_on_lockscreen_label">Show owner info on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
@@ -4126,6 +4128,7 @@ Tap the plus to add words."</string>
   <string name="user_restrictions_controlled_by">Controlled by %1$s</string>
   <string name="user_restrictions_title">App &amp; content access</string>
   <string name="user_set_lock_button">Set lock</string>
+  <string name="user_settings_forbidden">"Can't change admin settings in the current space. Go back to First space."</string>
   <string name="user_settings_title">Users</string>
   <string name="user_setup_button_setup_later">Not now</string>
   <string name="user_setup_button_setup_now">Set up now</string>

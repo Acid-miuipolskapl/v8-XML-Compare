@@ -165,10 +165,13 @@ or enter App lock password"</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="app_manager_force_stop_dlg_title">Force stop?</string>
+  <string name="app_manager_go_to_manger_app">Manage</string>
+  <string name="app_manager_have_not_consume">无</string>
   <string name="app_manager_loading_data">Loading data…</string>
   <string name="app_manager_more_times">Accessed 100000+ times</string>
   <string name="app_manager_my_app">My apps</string>
-  <string name="app_manager_not_record">No items here</string>
+  <string name="app_manager_not_record">"Couldn't find apps which require permissions"</string>
+  <string name="app_manager_perm">Permissions</string>
   <string name="app_manager_perm_monitor_make_calls">Make phone calls</string>
   <string name="app_manager_perm_monitor_read_call_history">Read call history</string>
   <string name="app_manager_perm_monitor_read_contacts">Read your contacts</string>
@@ -187,7 +190,6 @@ or enter App lock password"</string>
   <string name="app_manager_permission_send_mms_over">Send SMS 100000+ times</string>
   <string name="app_manager_permission_startself_summary">Apps which start automatically occupy RAM and drain battery faster</string>
   <string name="app_manager_permission_startself_title">Autostart</string>
-  <string name="app_manager_power">Permissions</string>
   <string name="app_manager_rebide_wakepath">Restrict</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
@@ -207,6 +209,7 @@ or enter App lock password"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
   <string name="app_manager_unstall_application">Uninstall</string>
   <string name="app_manager_update_label_text">New</string>
+  <string name="app_manager_usage_record_title">App usage</string>
   <string name="app_manager_wake_path_card_title">Chain start history (2 days)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Got it</string>
   <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
@@ -221,6 +224,8 @@ or enter App lock password"</string>
   <string name="app_summary">"微信/QQ/米聊抢红包神器
 支持个人红包与群红包
 春节红包活动，不错过每一个红包"</string>
+  <string name="app_usage_never">Not recently used</string>
+  <string name="app_usage_recently">Used recently</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
   <string name="applock_add_account">Add</string>
@@ -549,10 +554,10 @@ in case you forget it"</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL, cloudUid TEXT DEFAULT NULL, type TEXT DEFAULT 0 );</string>
   <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
-  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0 );</string>
+  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0 );</string>
   <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
   <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
+  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
   <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Exit</string>
@@ -567,10 +572,6 @@ in case you forget it"</string>
   <string name="daily_limit_network_available_body">Tap to view data usage stats.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Peak data limit</string>
-  <string name="daily_sim_over_limit_dialog_message">"You've already used %s daily data limits.
-
-If you turn on mobile data again, your carrier may charge you for additional data."</string>
-  <string name="daily_sim_over_limit_notify_title">"You've already used %s daily data limits."</string>
   <string name="data_network_blocked_notification_title">No internet connection</string>
   <string name="data_usage_correction_timeout_body">Tap to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
@@ -580,8 +581,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="data_usage_leisure_warning_body">Tap to view data usage details.</string>
   <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
   <string name="data_usage_limit_body">Tap to turn on mobile data.</string>
-  <string name="data_usage_limit_snoozed_body">Exceeded data usage limit for this month.</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Data usage exceeded</string>
   <string name="data_usage_mobile_limit_title">Reached mobile data limit</string>
   <string name="data_usage_no_total_package_body">Tap to set data limit</string>
   <string name="data_usage_no_total_package_body_dual">No data limit set for %s</string>
@@ -592,7 +591,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="data_usage_warning_body_notify">Tap to view details</string>
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="data_usage_warning_title_notify">You went over your data limit</string>
-  <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deep_clean_disconnect_data_title">Turn off mobile data when device is locked</string>
   <string name="deep_clean_memory_clean_title">Clear cache when device is locked</string>
@@ -772,8 +770,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Wrong carrier?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Your current carrier: "</string>
-  <string name="guide_primary_text">"Use the Security app
-to manage your mobile data usage"</string>
   <string name="guide_quck_open">Turn on</string>
   <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
   <string name="guide_wait_setting">Not now</string>
@@ -864,7 +860,6 @@ to manage your mobile data usage"</string>
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
   <string name="international_roaming_setting">Overseas roaming</string>
-  <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
   <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a
         static IP address."</string>
   <string name="item_app_permission">App permissions</string>
@@ -991,7 +986,6 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_activity_content_summary_root">Root access</string>
   <string name="main_activity_content_summary_update">System update</string>
   <string name="main_activity_content_title_scanning">Scanning…</string>
-  <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">Set data limit</string>
   <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
@@ -1135,8 +1129,6 @@ to respond"</string>
   <string name="msg_update_error_code_success">Done</string>
   <string name="msg_update_up">Hide</string>
   <string name="name">Name</string>
-  <string name="network_assistant_upgraded_body">Tap to view details.</string>
-  <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Test network</string>
   <string name="network_blocked_switch_wifi">Switch networks</string>
@@ -1413,7 +1405,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_settings_title">Set</string>
   <string name="power_settings_top">Top bar</string>
   <string name="power_wifi">WLAN</string>
-  <string name="pref_about">About</string>
   <string name="pref_about_traffic_title">Data usage settings</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
@@ -1437,7 +1428,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
   <string name="pref_category_title_virus_white_list">Exceptions</string>
-  <string name="pref_check_network_diagnostics">"Test device's internet connection"</string>
   <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
   <string name="pref_connect_settings_enable_background">Allow background data</string>
   <string name="pref_connect_settings_enable_background_hint">"Allow apps to use mobile data when you're not using them"</string>
@@ -1461,18 +1451,14 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_key_daily_package_switch">Daily data plan</string>
   <string name="pref_key_daily_package_value">Daily data plan</string>
   <string name="pref_key_direction_traffic">Designated mobile data</string>
-  <string name="pref_key_extra_package_switch">Monthly top-up package</string>
   <string name="pref_key_extra_package_value">Package size</string>
   <string name="pref_key_half_year_package_start">Starting date</string>
   <string name="pref_key_half_year_package_switch">Half-year data package</string>
   <string name="pref_key_half_year_package_value">Package size</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-  <string name="pref_leisure_no_overlay">On</string>
-  <string name="pref_leisure_not_opened">Off</string>
   <string name="pref_manual_adjust">Set data usage stats manually</string>
   <string name="pref_mi_sim_settings">Mi SIM Settings</string>
-  <string name="pref_month_begin_date">Usage reset date</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_settings">Additional settings</string>
   <string name="pref_new_installed_preconfig_title">"New apps' default settings"</string>
@@ -1481,8 +1467,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_operator_not_set">"Carrier isn't set"</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">When you go over your data plan</string>
-  <string name="pref_package_traffic_leisure">"%1$s 
- Off-peak: %2$s"</string>
   <string name="pref_package_traffic_normal">Peak: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
   <string name="pref_package_traffic_settings">Mobile data limit</string>
@@ -1505,14 +1489,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="pref_title_manual_check_virus_db_update">Check for updates</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
-  <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Data usage notifications</string>
   <string name="pref_title_virus_white_list">Exceptions</string>
   <string name="pref_traffic_manage_title">Data usage</string>
-  <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="pref_whitelist_setting">Data roaming exceptions</string>
   <string name="preference_category_information_setting">category_information_setting</string>
@@ -1571,7 +1553,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Messaging</string>
   <string name="preferred_app_entries_music">Music</string>
-  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms of Service&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms of Service</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and
@@ -1579,8 +1560,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and
-        uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="privacy_prompt_upload">Upload</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Media server</string>
@@ -2088,9 +2067,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
-  <string name="timeshow_h_m">%1$dh %2$dm</string>
   <string name="timeshow_m">%dm</string>
-  <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Don't know your limit"</string>
   <string name="tips_message">"To view your data plan's details, dial %2$s (%1$s)."</string>
@@ -2224,7 +2201,6 @@ Remaining data includes data that has been rolled over from
   <string name="traffic_over_purchase_title">Data limit exceeded</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
-  <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
