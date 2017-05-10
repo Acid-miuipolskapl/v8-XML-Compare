@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_89d">false</string>
+  <string name="APKTOOL_DUMMY_89e">false</string>
+  <string name="APKTOOL_DUMMY_89f">false</string>
+  <string name="APKTOOL_DUMMY_8a0">false</string>
   <string name="APKTOOL_DUMMY_8a1">false</string>
   <string name="APKTOOL_DUMMY_8a2">false</string>
   <string name="APKTOOL_DUMMY_8a3">false</string>
@@ -56,15 +60,14 @@
   <string name="APKTOOL_DUMMY_8d6">false</string>
   <string name="APKTOOL_DUMMY_8d7">false</string>
   <string name="APKTOOL_DUMMY_8d8">false</string>
-  <string name="APKTOOL_DUMMY_8d9">false</string>
-  <string name="APKTOOL_DUMMY_8da">false</string>
-  <string name="APKTOOL_DUMMY_8db">false</string>
-  <string name="APKTOOL_DUMMY_8dc">false</string>
-  <string name="APKTOOL_DUMMY_948">false</string>
+  <string name="APKTOOL_DUMMY_944">false</string>
+  <string name="APKTOOL_DUMMY_958">false</string>
+  <string name="APKTOOL_DUMMY_959">false</string>
+  <string name="APKTOOL_DUMMY_95a">false</string>
+  <string name="APKTOOL_DUMMY_95b">false</string>
   <string name="APKTOOL_DUMMY_95c">false</string>
   <string name="APKTOOL_DUMMY_95d">false</string>
   <string name="APKTOOL_DUMMY_95e">false</string>
-  <string name="APKTOOL_DUMMY_95f">false</string>
   <string name="APKTOOL_DUMMY_960">false</string>
   <string name="APKTOOL_DUMMY_961">false</string>
   <string name="APKTOOL_DUMMY_962">false</string>
@@ -223,9 +226,6 @@
   <string name="APKTOOL_DUMMY_9fb">false</string>
   <string name="APKTOOL_DUMMY_9fc">false</string>
   <string name="APKTOOL_DUMMY_9fd">false</string>
-  <string name="APKTOOL_DUMMY_9fe">false</string>
-  <string name="APKTOOL_DUMMY_9ff">false</string>
-  <string name="APKTOOL_DUMMY_a00">false</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
@@ -1168,7 +1168,6 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockpattern_recording_intro_header">Connect at least 4 dots to create a pattern</string>
   <string name="lockpattern_retry_button_text">Draw again</string>
   <string name="lockpattern_settings_help_how_to_record">Draw a pattern</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Wait for %d seconds and try again. "</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
