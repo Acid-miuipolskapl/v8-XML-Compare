@@ -135,7 +135,7 @@
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="chooseUsbActivity">Select an app for the USB device</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_wfa">Connected via WLAN assistant</string>
   <string name="data_usage_disabled_dialog">"You've reached your specified data usage limit.
 
 If you re-enable data, you may be charged by the operator."</string>

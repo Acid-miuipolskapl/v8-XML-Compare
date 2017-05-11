@@ -3,7 +3,7 @@
     <plurals name="toast_channel_searched">
         <item quantity="other">%1$d stations scanned</item>
         <item quantity="zero">%1$d stations scanned</item>
-        <item quantity="one">1 station scanned</item>
+        <item quantity="one">%1$d station scanned</item>
         <item quantity="two">%1$d stations scanned</item>
         <item quantity="few">%1$d stations scanned</item>
         <item quantity="many">%1$d stations scanned</item>
