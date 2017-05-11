@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_1ab">false</string>
+  <string name="APKTOOL_DUMMY_1ac">false</string>
+  <string name="APKTOOL_DUMMY_1ad">false</string>
+  <string name="APKTOOL_DUMMY_1ae">false</string>
+  <string name="APKTOOL_DUMMY_1af">false</string>
+  <string name="APKTOOL_DUMMY_1b0">false</string>
+  <string name="APKTOOL_DUMMY_1b1">false</string>
+  <string name="APKTOOL_DUMMY_1b2">false</string>
+  <string name="APKTOOL_DUMMY_1b3">false</string>
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">Sign in</string>
   <string name="account_unactivated">Account not activated</string>
@@ -408,6 +417,7 @@
   <string name="third_party_pickers_activity_title">Add %1$s</string>
   <string name="title_component">Customize theme</string>
   <string name="title_my_audio_resource">My ringtones</string>
+  <string name="title_my_miwallpaper_resource">My live wallpapers</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
   <string name="title_system_audio_resource">System ringtones</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>

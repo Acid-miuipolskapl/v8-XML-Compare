@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_a6">false</string>
+  <string name="APKTOOL_DUMMY_a7">false</string>
+  <string name="APKTOOL_DUMMY_a8">false</string>
+  <string name="APKTOOL_DUMMY_a9">false</string>
+  <string name="APKTOOL_DUMMY_aa">false</string>
+  <string name="APKTOOL_DUMMY_ab">false</string>
+  <string name="APKTOOL_DUMMY_ac">false</string>
+  <string name="APKTOOL_DUMMY_ad">false</string>
+  <string name="APKTOOL_DUMMY_ae">false</string>
+  <string name="APKTOOL_DUMMY_af">false</string>
+  <string name="APKTOOL_DUMMY_b0">false</string>
+  <string name="APKTOOL_DUMMY_b1">false</string>
+  <string name="APKTOOL_DUMMY_b2">false</string>
+  <string name="APKTOOL_DUMMY_b3">false</string>
+  <string name="APKTOOL_DUMMY_b4">false</string>
+  <string name="APKTOOL_DUMMY_b5">false</string>
+  <string name="APKTOOL_DUMMY_b6">false</string>
+  <string name="APKTOOL_DUMMY_b7">false</string>
+  <string name="APKTOOL_DUMMY_b8">false</string>
+  <string name="APKTOOL_DUMMY_b9">false</string>
+  <string name="APKTOOL_DUMMY_ba">false</string>
+  <string name="APKTOOL_DUMMY_bb">false</string>
+  <string name="APKTOOL_DUMMY_bc">false</string>
+  <string name="APKTOOL_DUMMY_bd">false</string>
+  <string name="APKTOOL_DUMMY_be">false</string>
   <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alarm_bar_title">Reminder</string>
   <string name="alert_action_edit_anyway">Keep editing</string>
@@ -20,6 +45,9 @@
   <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
   <string name="default_folder_name">Unnamed folder</string>
   <string name="delete_folder_dialog_tile">Delete folder</string>
+  <string name="dialog_share_as_pic">Share note as picture</string>
+  <string name="dialog_share_as_text">Share note as text</string>
+  <string name="dialog_share_title">Share note</string>
   <string name="dlg_btn_set_password">Set password</string>
   <string name="dlg_check_reminder">"Don't show again"</string>
   <string name="dlg_delete_message">Deleting…</string>
@@ -36,6 +64,7 @@
   <string name="dlg_title_set_password">Set password</string>
   <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
   <string name="dlg_unhide_message">Unhiding…</string>
+  <string name="done">Done</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Sync your notes with your Mi Account (%1$s)?</string>
   <string name="error_contact_not_exist">"Contact doesn't exist"</string>
@@ -49,6 +78,8 @@
   <string name="error_widget_exist_for_send_to_desktop">This note is already on your Home screen</string>
   <string name="folder_exist">A folder with the same name already exists</string>
   <string name="force_touch_menu_add">Add note</string>
+  <string name="format_move_note_out_folder">Moved out</string>
+  <string name="format_move_note_to_folder">Moved to %1$s</string>
   <string name="format_move_notes_out_folder">Moved %1$s out</string>
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
   <string name="hidden_notes_fragment_title">Hidden notes</string>
@@ -57,6 +88,7 @@
   <string name="info_note_enter_desktop">Added to Home screen</string>
   <string name="loading_text">Just a sec…</string>
   <string name="login_sync">Sign in &amp; sync</string>
+  <string name="menu_add_folder">Add to folder</string>
   <string name="menu_create_folder">New folder</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_delete_forever">Delete permanently</string>
