@@ -380,7 +380,7 @@ in case you forget it"</string>
   <string name="bl_no_block_call">No blocked calls.</string>
   <string name="bl_no_block_sms">No blocked SMS.</string>
   <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
-  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">Messages: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Calls: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
@@ -639,8 +639,6 @@ in case you forget it"</string>
   <string name="disable_air_mode">Turn Airplane mode off first</string>
   <string name="dlg_add_blacklist">Block this number?</string>
   <string name="dlg_add_blacklist_title">Add to blocklist</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s and %2$s other contacts are already on your exceptions list.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">Exceptions conflict</string>
   <string name="dlg_add_keyword">Add keywords</string>
   <string name="dlg_antispam_mode_delete_message">"You can't recover rules after they've been deleted."</string>
   <string name="dlg_antispam_mode_delete_title">Delete rules?</string>
@@ -944,7 +942,6 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockpattern_recording_intro_header">Connect at least 4 dots to create a pattern</string>
   <string name="lockpattern_retry_button_text">Draw again</string>
   <string name="lockpattern_settings_help_how_to_record">Draw a pattern</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Wait for %d seconds and try again. "</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
@@ -1055,7 +1052,6 @@ to respond"</string>
   <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">Report number</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">M/s</string>

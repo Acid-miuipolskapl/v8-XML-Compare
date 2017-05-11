@@ -2,11 +2,15 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d calls</item>
-        <item quantity="one">1 call</item>
+        <item quantity="one">%d call</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d SMS</item>
-        <item quantity="one">1 SMS</item>
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d other users marked it as</item>
+        <item quantity="one">%d other user marked it as</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Not tracking data usage for %d apps</item>
@@ -165,29 +169,9 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d apps contain privacy risks</item>
         <item quantity="one">%d app contains privacy risks</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Password should contain at least %d letters.</item>
-        <item quantity="one">"Password should contain at least 1 letter. "</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Password should contain at least %d lowercase letters.</item>
-        <item quantity="one">Password should contain at least 1 lowercase letter.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Password should contain at least %d uppercase letters.</item>
-        <item quantity="one">Password should contain at least 1 uppercase letter.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Password should contain at least %d numbers.</item>
-        <item quantity="one">Password should contain at least 1 number.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Password should contain at least %d special symbols.</item>
-        <item quantity="one">Password should contain at least 1 special symbol.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Password should contain at least %d characters other than letters.</item>
-        <item quantity="one">Password should contain at least 1 character other than letters.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Wait for %d seconds and try again. "</item>
+        <item quantity="one">"Wait for %d second and try again. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d apps locked</item>
