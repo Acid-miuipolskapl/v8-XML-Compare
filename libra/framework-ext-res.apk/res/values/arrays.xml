@@ -37,7 +37,6 @@
         <item>com.miui.personalassistant</item>
         <item>com.mi.AutoTest</item>
         <item>com.miui.packageinstaller</item>
-        <item>com.xiaomi.market</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
