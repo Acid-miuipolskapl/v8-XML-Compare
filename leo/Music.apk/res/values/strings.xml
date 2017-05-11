@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_391">false</string>
-  <string name="APKTOOL_DUMMY_392">false</string>
-  <string name="APKTOOL_DUMMY_393">false</string>
-  <string name="APKTOOL_DUMMY_394">false</string>
-  <string name="APKTOOL_DUMMY_395">false</string>
+  <string name="APKTOOL_DUMMY_39b">false</string>
+  <string name="APKTOOL_DUMMY_39c">false</string>
+  <string name="APKTOOL_DUMMY_39d">false</string>
+  <string name="APKTOOL_DUMMY_39e">false</string>
+  <string name="APKTOOL_DUMMY_39f">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>
@@ -141,6 +141,7 @@
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
   <string name="comment_format" formatted="false">%s: %s</string>
+  <string name="confirm">OK</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Renew</string>
   <string name="continue_backup">Continue</string>
@@ -615,10 +616,18 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_my">My</string>
+  <string name="online_play_tips">This song is only available online. Turn on online services in the settings to listen to it.</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
   <string name="online_recommend">Playlist</string>
+  <string name="online_service_open_tip">Online music services are on</string>
+  <string name="online_service_title">Online services</string>
   <string name="online_special">Special</string>
+  <string name="online_switch">Online content services</string>
+  <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
+  <string name="online_switch_setting">Online content settings</string>
   <string name="open_download">Open</string>
+  <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
+  <string name="open_service">Turn on</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">Other</string>
@@ -799,6 +808,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_download_music">Downloading updates for Music.</string>
+  <string name="start_to_backup">Backing up…</string>
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
   <string name="start_to_use">Open Music</string>
@@ -911,8 +921,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
   <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
   <string name="vip_renew_title">Subscription expired</string>
-  <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
-  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
+  <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
+  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. Skipped the song for now.</string>
   <string name="warning_tip_cancel">Download</string>
   <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
