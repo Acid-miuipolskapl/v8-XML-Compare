@@ -222,6 +222,9 @@
   <string name="not_login">Not signed in</string>
   <string name="not_selected">Choose a song</string>
   <string name="not_vip">Sorry, you are not Vip.</string>
+  <string name="notification_headset_custom">Dismiss</string>
+  <string name="notification_headset_info">Tap to view settings.</string>
+  <string name="notification_headset_settings">Headphones connected</string>
   <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
   <string name="online_music">Discover</string>

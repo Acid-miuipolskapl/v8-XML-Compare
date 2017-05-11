@@ -52,7 +52,7 @@
   <string name="toast_fm_recorder_access_error">"Can't record while you're in Guest mode"</string>
   <string name="toast_fm_recorder_internal_error">FM recording error</string>
   <string name="toast_fm_recorder_storage_full">"Can't continue recording: not enough space"</string>
-  <string name="toast_fm_seeking">Seeking…</string>
+  <string name="toast_fm_seeking">Tuning…</string>
   <string name="toast_fm_starting">Starting…</string>
   <string name="toast_removed_from_presets">Removed from presets</string>
   <string name="toast_sleep_mode">Radio will stop playing in %s</string>
