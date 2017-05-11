@@ -121,7 +121,7 @@
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="maml_component_customization_title">Settings</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-  <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
+  <string name="memory_clear_result">%1$sB cleared</string>
   <string name="miui">miui</string>
   <string name="miui_upgrading_notification_title">System is loading, some features may be limited</string>
   <string name="package_delete_confirm_step_1">Delete %s?</string>

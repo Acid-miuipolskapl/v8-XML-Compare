@@ -517,16 +517,7 @@
     <array name="config_cdma_international_roaming_indicators" />
     <array name="config_manualBrightnessRemapIn" />
     <array name="config_manualBrightnessRemapOut" />
-    <string-array name="config_defaultPinnerServiceFiles">
-        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
-        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
-        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
-        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
-        <item>/system/framework/arm64/boot.oat</item>
-        <item>/system/framework/arm/boot.oat</item>
-        <item>/system/framework/oat/arm64/services.odex</item>
-        <item>/system/framework/oat/arm/services.odex</item>
-    </string-array>
+    <array name="config_defaultPinnerServiceFiles" />
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
@@ -542,14 +533,7 @@
         <item>Custom</item>
     </string-array>
     <array name="carrier_properties" />
-    <string-array name="config_legacyPinnerServiceFiles">
-        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
-        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
-        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
-        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
-        <item>/system/framework/oat/arm64/services.odex</item>
-        <item>/system/framework/oat/arm/services.odex</item>
-    </string-array>
+    <array name="config_legacyPinnerServiceFiles" />
     <string-array name="config_appsToPin">
         <item>com.tencent.mm</item>
     </string-array>
