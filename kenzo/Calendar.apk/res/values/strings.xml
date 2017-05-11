@@ -75,7 +75,7 @@
   <string name="can_not_modify_allday_event">"Can't change all day event"</string>
   <string name="can_not_modify_event">"Can't change event"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
-  <string name="card_detail_dialog_message">“%1$s will update every day. Subscribe to receive daily updates.</string>
+  <string name="card_detail_dialog_message">%1$s will update every day. Subscribe to receive daily updates.</string>
   <string name="card_detail_dialog_negative">Subscribe later</string>
   <string name="card_detail_dialog_positive">Subscribe now</string>
   <string name="card_detail_dialog_title">Subscribe now?</string>
@@ -241,7 +241,7 @@
   <string name="hint_what">Event name</string>
   <string name="hint_where">Location</string>
   <string name="holiday_card_title">Holiday</string>
-  <string name="holiday_detail_read_more">更多</string>
+  <string name="holiday_detail_read_more">More</string>
   <string name="homepage_nowadays">今天</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
@@ -484,7 +484,7 @@ Check network settings and try again."</string>
   <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
   <string name="subscribe_channel_click_hint">Subscription required</string>
   <string name="subscribe_channel_footer_button">Manage subscriptions</string>
-  <string name="subscribe_channel_footer_desc">Check your subscribtions or unsubscribe</string>
+  <string name="subscribe_channel_footer_desc">Check your subscriptions or unsubscribe</string>
   <string name="subscribe_channel_footer_title">Subscribed</string>
   <string name="subscribe_channel_footer_view">Check</string>
   <string name="subscribe_channel_hint">"Subscribe to the services you like and receive daily updates on your home page.
