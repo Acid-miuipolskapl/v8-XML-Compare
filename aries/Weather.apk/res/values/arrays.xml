@@ -141,6 +141,7 @@
         <item>Poor</item>
         <item>Very poor</item>
         <item>Severe</item>
+        <item>Burst Table</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>Beaufort scale</item>
@@ -174,5 +175,14 @@
         <item>Heavy</item>
         <item>Moderate</item>
         <item>Light</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Lightly Polluted</item>
+        <item>Moderately Polluted</item>
+        <item>Heavily Polluted</item>
+        <item>Severely Polluted</item>
+        <item>Beyond Index</item>
     </string-array>
 </resources>
