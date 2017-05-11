@@ -387,6 +387,7 @@
     <string name="title_my_audio_resource">My ringtones</string>
     <string name="title_system_wallpaper_resource">System wallpapers</string>
     <string name="title_my_wallpaper_resource">My wallpapers</string>
+    <string name="title_my_miwallpaper_resource">My live wallpapers</string>
     <string name="current_using_lockscreen_wallpaper_text">Lock screen</string>
     <string name="current_using_desktop_wallpaper_text">Home screen</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Ringtone</string>
@@ -427,7 +428,6 @@
     <string name="wallpaper_settings_lockscreen_text">Lock screen</string>
     <string name="wallpaper_settings_desktop_text">Home screen</string>
     <string name="wallpaper_settings_change_wallpaper">Change</string>
-    <item type="string" name="APKTOOL_DUMMY_1aa">false</item>
     <item type="string" name="APKTOOL_DUMMY_1ab">false</item>
     <item type="string" name="APKTOOL_DUMMY_1ac">false</item>
     <item type="string" name="APKTOOL_DUMMY_1ad">false</item>
@@ -436,4 +436,5 @@
     <item type="string" name="APKTOOL_DUMMY_1b0">false</item>
     <item type="string" name="APKTOOL_DUMMY_1b1">false</item>
     <item type="string" name="APKTOOL_DUMMY_1b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b3">false</item>
 </resources>

@@ -25,7 +25,7 @@
     <string name="quit_recording">Quit Screen recorder</string>
     <string name="timer_format">%s</string>
     <string name="no_recorder_info">No videos here</string>
-    <string name="no_recorder_info2">Tap the button to add a screen recording​</string>
+    <string name="no_recorder_info2">Tap the button to start recording</string>
     <string name="cancel_edit">Cancel</string>
     <string name="select_all">Select all</string>
     <string name="deselect_all">Deselect all</string>

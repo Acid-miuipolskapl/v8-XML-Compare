@@ -45,6 +45,7 @@ Pull down to refresh or check the network settings"</string>
     <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
     <string name="data_source_timezone">GMT%1$s</string>
     <string name="activity_main_time_format">E</string>
+    <string name="aqi_fifteen_dates_time_format">M/d</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="first_start_network_msg">This app needs to connect to the internet and access your location to work normally.</string>
     <string name="first_start_network_title">Internet connection and location access</string>
@@ -190,7 +191,7 @@ Tap the screen to manually add or reposition city"</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">Weather alerts</string>
     <string name="edit_alert_city_title">Manage alerts</string>
-    <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_detail_unit">Unit: µg/m³</string>
     <string name="index_item_install_now">Install now</string>
     <string name="index_item_experience_now">Install now</string>
     <string name="index_item_installing">Installing</string>
@@ -247,24 +248,23 @@ Tap the screen to manually add or reposition city"</string>
     <string name="aqi_display_exp">exp_%1$s</string>
     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
-    <item type="string" name="APKTOOL_DUMMY_107">false</item>
-    <item type="string" name="APKTOOL_DUMMY_108">false</item>
-    <item type="string" name="APKTOOL_DUMMY_109">false</item>
-    <item type="string" name="APKTOOL_DUMMY_10a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_10b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_10c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_10d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_10e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_10f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_110">false</item>
-    <item type="string" name="APKTOOL_DUMMY_111">false</item>
-    <item type="string" name="APKTOOL_DUMMY_112">false</item>
-    <item type="string" name="APKTOOL_DUMMY_113">false</item>
-    <item type="string" name="APKTOOL_DUMMY_114">false</item>
-    <item type="string" name="APKTOOL_DUMMY_115">false</item>
-    <item type="string" name="APKTOOL_DUMMY_116">false</item>
-    <item type="string" name="APKTOOL_DUMMY_117">false</item>
-    <item type="string" name="APKTOOL_DUMMY_118">false</item>
+    <string name="aqi_quality_map_title">Air Quality Map</string>
+    <string name="aqi_station_min_distance_station">Nearest station</string>
+    <string name="aqi_station_best_quality_station">Best around</string>
+    <string name="aqi_quality_map_edit_text_hint">Search for air quality</string>
+    <string name="aqi_quality_major_pollutants">Major Pollutants</string>
+    <string name="aqi_quality_pm25_desc">Pulmonary particulate</string>
+    <string name="aqi_quality_pm10_desc">Inhalable particulate</string>
+    <string name="aqi_quality_so2_desc">Sulfur dioxide</string>
+    <string name="aqi_quality_no2_desc">Nitrogen dioxide</string>
+    <string name="aqi_quality_co_desc">Nitric oxide</string>
+    <string name="aqi_quality_o3_desc">Ozone</string>
+    <string name="aqi_quality_detail_48_hours">48 Hours Forecast</string>
+    <string name="aqi_quality_detail_15_days">15 Days Forecast</string>
+    <string name="aqi_quality_ambient_air_quality">Air Quality Nearby</string>
+    <string name="particulate_matter_not_exceeded">Not Exceeded</string>
+    <string name="particulate_matter_exceeded">Exceeded</string>
+    <string name="particulate_matter_serious_exceeded">Serious Exceeded</string>
     <item type="string" name="APKTOOL_DUMMY_119">false</item>
     <item type="string" name="APKTOOL_DUMMY_11a">false</item>
     <item type="string" name="APKTOOL_DUMMY_11b">false</item>
@@ -283,4 +283,22 @@ Tap the screen to manually add or reposition city"</string>
     <item type="string" name="APKTOOL_DUMMY_128">false</item>
     <item type="string" name="APKTOOL_DUMMY_129">false</item>
     <item type="string" name="APKTOOL_DUMMY_12a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_130">false</item>
+    <item type="string" name="APKTOOL_DUMMY_131">false</item>
+    <item type="string" name="APKTOOL_DUMMY_132">false</item>
+    <item type="string" name="APKTOOL_DUMMY_133">false</item>
+    <item type="string" name="APKTOOL_DUMMY_134">false</item>
+    <item type="string" name="APKTOOL_DUMMY_135">false</item>
+    <item type="string" name="APKTOOL_DUMMY_136">false</item>
+    <item type="string" name="APKTOOL_DUMMY_137">false</item>
+    <item type="string" name="APKTOOL_DUMMY_138">false</item>
+    <item type="string" name="APKTOOL_DUMMY_139">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13c">false</item>
 </resources>
