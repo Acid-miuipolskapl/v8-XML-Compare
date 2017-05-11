@@ -67,10 +67,10 @@
   <string name="add_shortcut">Add shortcut</string>
   <string name="add_shortcut_success">Added shortcut successfully</string>
   <string name="add_to_bookmark">Bookmarks</string>
-  <string name="add_to_desk">Place on Home screen</string>
-  <string name="add_to_desk_lite_mode_toast">"Couldn't add to Home screen in lite mode"</string>
-  <string name="add_to_desk_success">Placed on Home screen</string>
-  <string name="add_to_quicklink">Start Page</string>
+  <string name="add_to_desk">Add to Home screen</string>
+  <string name="add_to_desk_lite_mode_toast">"Can't add to Home screen in Lite mode"</string>
+  <string name="add_to_desk_success">Add to Home screen</string>
+  <string name="add_to_quicklink">Start page</string>
   <string name="added_to_bookmarks">Added to bookmarks</string>
   <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
   <string name="alert_tips">This site may be a security risk</string>
@@ -243,7 +243,7 @@
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="autoSwithcingSearchEngineTips">Has switched search engine by your habit</string>
+  <string name="autoSwithcingSearchEngineTips">Switched to the search engine you use often</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
@@ -263,8 +263,8 @@
   <string name="bookmark_cannot_save_url">"This URL can't be bookmarked."</string>
   <string name="bookmark_folder_needs_title">Enter a group name</string>
   <string name="bookmark_group_lable">Group</string>
-  <string name="bookmark_needs_title">Bookmark must have a name.</string>
-  <string name="bookmark_needs_url">Bookmark must contain a URL.</string>
+  <string name="bookmark_needs_title">Bookmark must have a name</string>
+  <string name="bookmark_needs_url">Bookmark must contain a URL</string>
   <string name="bookmark_not_saved">"Couldn't save bookmark"</string>
   <string name="bookmark_rename_group">Rename group</string>
   <string name="bookmark_saved">Saved to bookmarks</string>
@@ -272,9 +272,9 @@
   <string name="bookmark_title_lable">Title</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
-  <string name="bookmark_url_can_not_null">Please enter the URL.</string>
+  <string name="bookmark_url_can_not_null">Enter the URL</string>
   <string name="bookmark_url_lable">URL</string>
-  <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
+  <string name="bookmark_url_not_valid">"This URL isn't valid"</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
   <string name="bookmarks_management">Bookmarks</string>
   <string name="bookmarks_root_folder">Root folder</string>
@@ -499,7 +499,7 @@ Pages you view won't appear in history."</string>
   <string name="find_on_page_next">Next</string>
   <string name="find_on_page_prev">Back</string>
   <string name="find_previous">Find previous</string>
-  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
+  <string name="firstUsingSearchEngineTips">Switch search engine?</string>
   <string name="fling_on_border_gesture_hint">You can choose the function of this gesture in Settings</string>
   <string name="force_quick_search_title">Search</string>
   <string name="force_touch_bookmark_history_title">Bookmarks &amp; history</string>
@@ -701,7 +701,7 @@ Leave this page?"</string>
   <string name="pref_adblock_counts">%d blocked</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">Update using Wi-Fi</string>
-  <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
+  <string name="pref_automatic_matching_searchengines_title">Switch to the search engine you use often</string>
   <string name="pref_category_hint">Category</string>
   <string name="pref_check_security_url_summary">"Send website URL to Mi's servers to check if it's secure"</string>
   <string name="pref_check_security_url_title">Check URL security</string>
@@ -818,9 +818,9 @@ Leave this page?"</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh</string>
   <string name="pull_to_refresh_release_label">Release to recommend and refresh</string>
   <string name="qr_code_title">QR Code</string>
-  <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
+  <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_cannot_save_url">"This URL can't be added."</string>
-  <string name="quicklink_folder_text">Top App</string>
+  <string name="quicklink_folder_text">Top apps</string>
   <string name="quicklink_not_saved">"Couldn't add to start page"</string>
   <string name="quicklink_saved">Saved to start page</string>
   <string name="quicklink_saved_before">This site has already been added</string>
@@ -924,7 +924,7 @@ Leave this page?"</string>
   <string name="skip_current_version">Skip this version</string>
   <string name="snapshot_failed">"Couldn't save for offline reading"</string>
   <string name="snapshot_successed">Save for offline reading</string>
-  <string name="ssl_bad_clock_date_settings">Date Settings</string>
+  <string name="ssl_bad_clock_date_settings">Set date</string>
   <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
   <string name="ssl_certificate">Security certificate</string>
   <string name="ssl_certificate_is_valid">This certificate is valid.</string>
@@ -940,7 +940,7 @@ Leave this page?"</string>
   <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
   <string name="start_save_page_capture">Saving screenshot…</string>
   <string name="storage_internal">Internal storage</string>
-  <string name="storage_permission_request_toast">Download needs storage permission, please open it</string>
+  <string name="storage_permission_request_toast">"Downloads require access to your device's storage"</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
   <string name="suggest_access_appstore">Mi App Store</string>
