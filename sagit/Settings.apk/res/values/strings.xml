@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1418">false</string>
   <string name="APKTOOL_DUMMY_1419">false</string>
   <string name="APKTOOL_DUMMY_141a">false</string>
   <string name="APKTOOL_DUMMY_141b">false</string>
@@ -14,14 +13,14 @@
   <string name="APKTOOL_DUMMY_1423">false</string>
   <string name="APKTOOL_DUMMY_1424">false</string>
   <string name="APKTOOL_DUMMY_1425">false</string>
-  <string name="APKTOOL_DUMMY_142c">false</string>
+  <string name="APKTOOL_DUMMY_1426">false</string>
   <string name="APKTOOL_DUMMY_142d">false</string>
   <string name="APKTOOL_DUMMY_142e">false</string>
-  <string name="APKTOOL_DUMMY_1457">false</string>
+  <string name="APKTOOL_DUMMY_142f">false</string>
   <string name="APKTOOL_DUMMY_1458">false</string>
   <string name="APKTOOL_DUMMY_1459">false</string>
   <string name="APKTOOL_DUMMY_145a">false</string>
-  <string name="APKTOOL_DUMMY_146e">false</string>
+  <string name="APKTOOL_DUMMY_145b">false</string>
   <string name="APKTOOL_DUMMY_146f">false</string>
   <string name="APKTOOL_DUMMY_1470">false</string>
   <string name="APKTOOL_DUMMY_1471">false</string>
@@ -45,8 +44,8 @@
   <string name="APKTOOL_DUMMY_1483">false</string>
   <string name="APKTOOL_DUMMY_1484">false</string>
   <string name="APKTOOL_DUMMY_1485">false</string>
-  <string name="APKTOOL_DUMMY_14a9">false</string>
-  <string name="APKTOOL_DUMMY_14e7">false</string>
+  <string name="APKTOOL_DUMMY_1486">false</string>
+  <string name="APKTOOL_DUMMY_14aa">false</string>
   <string name="APKTOOL_DUMMY_14e8">false</string>
   <string name="APKTOOL_DUMMY_14e9">false</string>
   <string name="APKTOOL_DUMMY_14ea">false</string>
@@ -63,13 +62,13 @@
   <string name="APKTOOL_DUMMY_14f5">false</string>
   <string name="APKTOOL_DUMMY_14f6">false</string>
   <string name="APKTOOL_DUMMY_14f7">false</string>
-  <string name="APKTOOL_DUMMY_14fa">false</string>
+  <string name="APKTOOL_DUMMY_14f8">false</string>
   <string name="APKTOOL_DUMMY_14fb">false</string>
   <string name="APKTOOL_DUMMY_14fc">false</string>
   <string name="APKTOOL_DUMMY_14fd">false</string>
   <string name="APKTOOL_DUMMY_14fe">false</string>
   <string name="APKTOOL_DUMMY_14ff">false</string>
-  <string name="APKTOOL_DUMMY_1501">false</string>
+  <string name="APKTOOL_DUMMY_1500">false</string>
   <string name="APKTOOL_DUMMY_1502">false</string>
   <string name="APKTOOL_DUMMY_1503">false</string>
   <string name="APKTOOL_DUMMY_1504">false</string>
@@ -133,9 +132,10 @@
   <string name="APKTOOL_DUMMY_153e">false</string>
   <string name="APKTOOL_DUMMY_153f">false</string>
   <string name="APKTOOL_DUMMY_1540">false</string>
-  <string name="APKTOOL_DUMMY_1553">false</string>
+  <string name="APKTOOL_DUMMY_1541">false</string>
   <string name="APKTOOL_DUMMY_1554">false</string>
   <string name="APKTOOL_DUMMY_1555">false</string>
+  <string name="APKTOOL_DUMMY_1556">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -3509,6 +3509,7 @@ To use screen pinning:
   <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
   <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
   <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
+  <string name="screen_recorder">Record screen</string>
   <string name="screen_resolution_confirm">Reboot</string>
   <string name="screen_resolution_summary">"Lowering the display's resolution may increase battery life and system speed, but the images on screen may be less clear. Your device must reboot to apply this change."</string>
   <string name="screen_resolution_switch">Switch resolution</string>

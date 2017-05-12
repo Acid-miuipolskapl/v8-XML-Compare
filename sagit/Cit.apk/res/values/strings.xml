@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_409">false</string>
-  <string name="APKTOOL_DUMMY_40a">false</string>
-  <string name="APKTOOL_DUMMY_40b">false</string>
-  <string name="APKTOOL_DUMMY_40c">false</string>
-  <string name="APKTOOL_DUMMY_40d">false</string>
-  <string name="APKTOOL_DUMMY_40e">false</string>
-  <string name="APKTOOL_DUMMY_40f">false</string>
   <string name="APKTOOL_DUMMY_410">false</string>
   <string name="APKTOOL_DUMMY_411">false</string>
   <string name="APKTOOL_DUMMY_412">false</string>
@@ -40,6 +33,13 @@
   <string name="APKTOOL_DUMMY_42e">false</string>
   <string name="APKTOOL_DUMMY_42f">false</string>
   <string name="APKTOOL_DUMMY_430">false</string>
+  <string name="APKTOOL_DUMMY_431">false</string>
+  <string name="APKTOOL_DUMMY_432">false</string>
+  <string name="APKTOOL_DUMMY_433">false</string>
+  <string name="APKTOOL_DUMMY_434">false</string>
+  <string name="APKTOOL_DUMMY_435">false</string>
+  <string name="APKTOOL_DUMMY_436">false</string>
+  <string name="APKTOOL_DUMMY_437">false</string>
   <string name="FpTest">FpTest Run</string>
   <string name="FpTest_result">FpTest result:</string>
   <string name="SDCard">SD Card</string>
@@ -154,7 +154,10 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
   <string name="cit_audio_calibrating">Calibration is ongoing...</string>
+  <string name="cit_audio_check_summary">The Audio Info.</string>
+  <string name="cit_audio_check_title">Audio Info</string>
   <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
+  <string name="cit_audio_hdset_plug">"Audio headset plug times: "</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
@@ -192,12 +195,16 @@ Turn the phone so that the headphone input is facing downward. Speak into the re
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
 
 Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
+  <string name="cit_audio_rcv_type">"Audio receiver vendor: "</string>
+  <string name="cit_audio_rcv_usetime">"Audio receiver use time: "</string>
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
   <string name="cit_audio_spk_cal_valueF0">F0:</string>
   <string name="cit_audio_spk_cal_valueRe">Re:</string>
   <string name="cit_audio_spk_cal_valueT">Temp:</string>
+  <string name="cit_audio_spk_type">"Audio speaker vendor: "</string>
+  <string name="cit_audio_spk_usetime">"Audio speaker use time: "</string>
   <string name="cit_aux_camera_action">Zoom</string>
   <string name="cit_aux_camera_check_summary">"Test instructions:
 
