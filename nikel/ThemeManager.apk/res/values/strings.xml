@@ -408,6 +408,7 @@
   <string name="third_party_pickers_activity_title">Add %1$s</string>
   <string name="title_component">Customize theme</string>
   <string name="title_my_audio_resource">My ringtones</string>
+  <string name="title_my_miwallpaper_resource">My live wallpapers</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
   <string name="title_system_audio_resource">System ringtones</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>

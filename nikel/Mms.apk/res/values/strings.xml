@@ -7,10 +7,7 @@
   <string name="addBlackList">Block</string>
   <string name="add_attachment">Add attachments</string>
   <string name="add_contact">vCard</string>
-  <string name="add_festival">Greetings</string>
   <string name="add_music">Add music</string>
-  <string name="add_nickname">Nickname</string>
-  <string name="add_nickname_title">Edit nickname</string>
   <string name="add_number_to_sender">Add number to %s</string>
   <string name="add_picture">Add picture</string>
   <string name="add_private_contact">Add private contact</string>
@@ -64,7 +61,6 @@
   <string name="card_insert_to_contact">Import contact</string>
   <string name="change_duration_activity">Change duration</string>
   <string name="check_all">Select all</string>
-  <string name="chenghu_disable_mms">"You can't use nicknames in MMS"</string>
   <string name="class_0_message_activity">Class 0 message</string>
   <string name="close">Close</string>
   <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
@@ -119,7 +115,6 @@
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
-  <string name="database_corruption">Repairing…</string>
   <string name="delete">Delete</string>
   <string name="delete_bookmark">Remove from starred</string>
   <string name="delete_message">Delete</string>
@@ -146,8 +141,6 @@
   <string name="duration_selector_title">"Duration for slide "</string>
   <string name="duration_zero">Duration must be greater than 0 seconds</string>
   <string name="edit">Edit</string>
-  <string name="edit_nickname_for_nocontact">You need to add a recipient first</string>
-  <string name="edit_nickname_for_nocontact_by_robot">You need to add a recipient first</string>
   <string name="edit_phrase">Edit quick responses</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
@@ -173,16 +166,9 @@
   <string name="fake_cell_safe_hint">This message is safe</string>
   <string name="fake_cell_timeout_hint">"Couldn't check safety"</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
-  <string name="festival">Greetings</string>
-  <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
-  <string name="festival_networking_title">Notice</string>
-  <string name="festival_never_remind">"Don't show again"</string>
-  <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Created:</string>
-  <string name="file_share_message_description">I want to share some files with you.</string>
   <string name="file_size">Size:</string>
   <string name="file_title">Name:</string>
   <string name="file_width_height">Size:</string>
@@ -362,7 +348,6 @@
   <string name="new_message_arrived">You have a new message</string>
   <string name="new_phrase">Add response</string>
   <string name="new_phrase_hint">Enter new response</string>
-  <string name="nickname_placeholder">Nickname</string>
   <string name="no">Cancel</string>
   <string name="no_block_button_msg">Unblock</string>
   <string name="no_conversations">No conversations</string>
@@ -414,7 +399,6 @@
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
   <string name="pref_summary_delivery_reports">Show delivery status for sent messages</string>
   <string name="pref_summary_delivery_ringtone">Receive sound notifications for delivered messages.</string>
-  <string name="pref_summary_hide_festival">Hide Chinese language only features when system is set to a non-Chinese language</string>
   <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
   <string name="pref_summary_mms_auto_retrieval">Download photos and videos in messages automatically</string>
   <string name="pref_summary_mms_read_reports">Show notification in conversation view when the recipient has downloaded MMS contents</string>
@@ -435,9 +419,7 @@
   <string name="pref_title_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
-  <string name="pref_title_festival_networking">Internet connection</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
-  <string name="pref_title_hide_festival">Hide Chinese language features</string>
   <string name="pref_title_manage_sim_messages">SIM card storage</string>
   <string name="pref_title_miui_card">Send via card</string>
   <string name="pref_title_mms_auto_retrieval">Download MMS content automatically</string>
@@ -487,8 +469,6 @@
   <string name="recipients_over_size">Too many recipients.</string>
   <string name="recording_failed">"Can't record"</string>
   <string name="refill_now">Top up now</string>
-  <string name="refresh">Refresh</string>
-  <string name="refresh_failed">Update failed</string>
   <string name="refreshing">Refreshing…</string>
   <string name="release_cancel">Release to cancel</string>
   <string name="remove">Remove</string>
