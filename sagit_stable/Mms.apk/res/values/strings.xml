@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_2b1">false</string>
   <string name="APKTOOL_DUMMY_2b2">false</string>
   <string name="APKTOOL_DUMMY_2b3">false</string>
   <string name="APKTOOL_DUMMY_2b4">false</string>
@@ -23,6 +22,7 @@
   <string name="APKTOOL_DUMMY_2c5">false</string>
   <string name="APKTOOL_DUMMY_2c6">false</string>
   <string name="APKTOOL_DUMMY_2c7">false</string>
+  <string name="APKTOOL_DUMMY_2c8">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -320,7 +320,7 @@
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Your carrier may charge for an SMS message used to activate the free texts and voice service.</string>
+  <string name="mx_activate_allow_notice">An outgoing SMS message may be required to activate free text and voice service. Your carrier will charge you for this message. Besides, this service will use the Network.</string>
   <string name="mx_activate_dlg_title">Activate Mi Message</string>
   <string name="mx_activate_dlg_title_ex">Activate Mi Message &amp; Voice</string>
   <string name="mx_activate_error_malformed_info">You need to reactivate Mi Message.</string>
@@ -333,6 +333,7 @@
   <string name="mx_activate_int_hint_malformed_info">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_server">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. Your carrier may charge for an SMS message used to reactivate Mi Message."</string>
+  <string name="mx_activate_network_allow_notice">This service will use the Network.</string>
   <string name="mx_activate_status_desc_activating_now">Activating…</string>
   <string name="mx_activate_status_desc_check_net_connection">"Couldn't connect to the network"</string>
   <string name="mx_activate_status_desc_fail">"Couldn't activate Mi Message"</string>

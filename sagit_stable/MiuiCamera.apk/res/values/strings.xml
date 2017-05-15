@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_241">false</string>
-  <string name="APKTOOL_DUMMY_242">false</string>
-  <string name="APKTOOL_DUMMY_243">false</string>
-  <string name="APKTOOL_DUMMY_244">false</string>
-  <string name="APKTOOL_DUMMY_245">false</string>
-  <string name="APKTOOL_DUMMY_246">false</string>
-  <string name="APKTOOL_DUMMY_247">false</string>
-  <string name="APKTOOL_DUMMY_248">false</string>
-  <string name="APKTOOL_DUMMY_249">false</string>
-  <string name="APKTOOL_DUMMY_24a">false</string>
-  <string name="APKTOOL_DUMMY_24b">false</string>
   <string name="APKTOOL_DUMMY_24c">false</string>
   <string name="APKTOOL_DUMMY_24d">false</string>
   <string name="APKTOOL_DUMMY_24e">false</string>
@@ -259,6 +248,17 @@
   <string name="APKTOOL_DUMMY_341">false</string>
   <string name="APKTOOL_DUMMY_342">false</string>
   <string name="APKTOOL_DUMMY_343">false</string>
+  <string name="APKTOOL_DUMMY_344">false</string>
+  <string name="APKTOOL_DUMMY_345">false</string>
+  <string name="APKTOOL_DUMMY_346">false</string>
+  <string name="APKTOOL_DUMMY_347">false</string>
+  <string name="APKTOOL_DUMMY_348">false</string>
+  <string name="APKTOOL_DUMMY_349">false</string>
+  <string name="APKTOOL_DUMMY_34a">false</string>
+  <string name="APKTOOL_DUMMY_34b">false</string>
+  <string name="APKTOOL_DUMMY_34c">false</string>
+  <string name="APKTOOL_DUMMY_34d">false</string>
+  <string name="APKTOOL_DUMMY_34e">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -354,9 +354,11 @@ facial expression to synthesize into a photo"</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">System apps/Camera/Settings</string>
+  <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
   <string name="portrait_mode_lowlight_hint">More light required</string>
   <string name="portrait_mode_too_close_hint">Move farther away</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
+  <string name="portrait_with_facebeauty_hint">Beauty preference in portrait mode is now available.</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
   <string name="pref_audio_focus_entry_front">Front</string>
@@ -587,6 +589,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode off</string>
   <string name="pref_camera_portrait_mode_entry_on">Portrait mode on</string>
   <string name="pref_camera_portrait_mode_title">Portrait mode</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in portrait mode</string>
   <string name="pref_camera_recordlocation_default">false</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
@@ -772,6 +775,14 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval of 3 seconds (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
+  <string name="pref_watermark_style_default">@string/pref_watermark_style_entryvalue_dualcamera</string>
+  <string name="pref_watermark_style_entry_dualcamera">Dual camera</string>
+  <string name="pref_watermark_style_entry_off">Off</string>
+  <string name="pref_watermark_style_entry_timestamp">Time stamp</string>
+  <string name="pref_watermark_style_entryvalue_dualcamera">dualcamera</string>
+  <string name="pref_watermark_style_entryvalue_off">off</string>
+  <string name="pref_watermark_style_entryvalue_timestamp">timestamp</string>
+  <string name="pref_watermark_style_title">Add watermark in photo</string>
   <string name="preparing_sd">Checking internal storage…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
