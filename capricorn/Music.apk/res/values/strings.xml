@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_39b">false</string>
+  <string name="APKTOOL_DUMMY_39c">false</string>
+  <string name="APKTOOL_DUMMY_39d">false</string>
+  <string name="APKTOOL_DUMMY_39e">false</string>
+  <string name="APKTOOL_DUMMY_39f">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>
