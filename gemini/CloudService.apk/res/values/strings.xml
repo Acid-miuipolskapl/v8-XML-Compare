@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1ed">false</string>
   <string name="APKTOOL_DUMMY_1ee">false</string>
   <string name="APKTOOL_DUMMY_1ef">false</string>
   <string name="APKTOOL_DUMMY_1f0">false</string>
@@ -23,6 +22,7 @@
   <string name="APKTOOL_DUMMY_201">false</string>
   <string name="APKTOOL_DUMMY_202">false</string>
   <string name="APKTOOL_DUMMY_203">false</string>
+  <string name="APKTOOL_DUMMY_204">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
@@ -293,6 +293,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_need_charge">Charge your device</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Charge your device and turn off screen</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
