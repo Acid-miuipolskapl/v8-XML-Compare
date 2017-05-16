@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_89d">false</string>
-  <string name="APKTOOL_DUMMY_89e">false</string>
   <string name="APKTOOL_DUMMY_89f">false</string>
   <string name="APKTOOL_DUMMY_8a0">false</string>
   <string name="APKTOOL_DUMMY_8a1">false</string>
@@ -60,9 +58,9 @@
   <string name="APKTOOL_DUMMY_8d6">false</string>
   <string name="APKTOOL_DUMMY_8d7">false</string>
   <string name="APKTOOL_DUMMY_8d8">false</string>
-  <string name="APKTOOL_DUMMY_944">false</string>
-  <string name="APKTOOL_DUMMY_958">false</string>
-  <string name="APKTOOL_DUMMY_959">false</string>
+  <string name="APKTOOL_DUMMY_8d9">false</string>
+  <string name="APKTOOL_DUMMY_8da">false</string>
+  <string name="APKTOOL_DUMMY_946">false</string>
   <string name="APKTOOL_DUMMY_95a">false</string>
   <string name="APKTOOL_DUMMY_95b">false</string>
   <string name="APKTOOL_DUMMY_95c">false</string>
@@ -227,6 +225,8 @@
   <string name="APKTOOL_DUMMY_9fb">false</string>
   <string name="APKTOOL_DUMMY_9fc">false</string>
   <string name="APKTOOL_DUMMY_9fd">false</string>
+  <string name="APKTOOL_DUMMY_9fe">false</string>
+  <string name="APKTOOL_DUMMY_9ff">false</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
@@ -1303,6 +1303,7 @@ to respond"</string>
   <string name="menu_item_app_permissions_control">Permission manager</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">Force stop</string>
+  <string name="menu_item_install_debug_package">install debug package</string>
   <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
   <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
@@ -1727,6 +1728,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
+  <string name="preference_key_app_permission_install_debug">key_app_permission_install_debug</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
   <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>

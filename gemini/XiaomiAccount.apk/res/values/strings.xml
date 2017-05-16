@@ -13,6 +13,10 @@
   <string name="APKTOOL_DUMMY_188">false</string>
   <string name="APKTOOL_DUMMY_189">false</string>
   <string name="APKTOOL_DUMMY_18a">false</string>
+  <string name="APKTOOL_DUMMY_18b">false</string>
+  <string name="APKTOOL_DUMMY_18c">false</string>
+  <string name="APKTOOL_DUMMY_18d">false</string>
+  <string name="APKTOOL_DUMMY_18e">false</string>
   <string name="APKTOOL_DUMMY_18f">false</string>
   <string name="APKTOOL_DUMMY_190">false</string>
   <string name="APKTOOL_DUMMY_191">false</string>
@@ -41,6 +45,7 @@
   <string name="APKTOOL_DUMMY_1a8">false</string>
   <string name="APKTOOL_DUMMY_1a9">false</string>
   <string name="APKTOOL_DUMMY_1aa">false</string>
+  <string name="APKTOOL_DUMMY_1ab">false</string>
   <string name="APKTOOL_DUMMY_1ac">false</string>
   <string name="APKTOOL_DUMMY_1ad">false</string>
   <string name="APKTOOL_DUMMY_1ae">false</string>
@@ -332,7 +337,6 @@
   <string name="APKTOOL_DUMMY_2cc">false</string>
   <string name="APKTOOL_DUMMY_2cd">false</string>
   <string name="APKTOOL_DUMMY_2ce">false</string>
-  <string name="APKTOOL_DUMMY_2cf">false</string>
   <string name="about_device_info">View device details</string>
   <string name="access_token_expired_warning">Weibo Account has expired</string>
   <string name="access_token_invalid_warning">Weibo Account is invalid</string>
