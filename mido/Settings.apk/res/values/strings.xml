@@ -330,7 +330,7 @@
     <string name="suw_next_button_label">Next</string>
     <string name="suw_back_button_label">Back</string>
     <string name="suw_more_button_label">More</string>
-    <string name="launcher_title">Home screen And Recents panel</string>
+    <string name="launcher_title">Home screen &amp; Recents</string>
     <string name="defalut_launcher_title">Default launcher</string>
     <string name="miui_screen_config_title">Home screen settings</string>
     <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
@@ -341,8 +341,8 @@
     <string name="open_personal_assistant_dialog_desc">"You won't be able to use Smart assistant and receive its updates. Turn off now?"</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Close</string>
-    <string name="recents_config_title">Recents Tasks Panel settings</string>
-    <string name="show_mem_info_title">Show Memory Info</string>
+    <string name="recents_config_title">Recents settings</string>
+    <string name="show_mem_info_title">Show memory status</string>
     <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
     <string name="status_bar_settings_manage_notification">App notifications</string>
     <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
@@ -3972,7 +3972,6 @@ This helps protect data on lost or stolen devices."</string>
     <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
     <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
     <string name="has_screenshot_sound">Screenshot sound</string>
-    <string name="screen_recorder">Screen recorder</string>
     <string name="key_settings_title">Buttons</string>
     <string name="key_settings">Buttons</string>
     <string name="key_position_cat">Buttons position</string>
@@ -4323,6 +4322,7 @@ Select your operating system:"</string>
     <string name="privacy_relative">Privacy</string>
     <string name="other_relative">Other</string>
     <string name="permission_manage_title">%s permissions</string>
+    <string name="remove_continue">Uninstall</string>
     <string name="filter_apps_cached">Cached</string>
     <string name="screen">Screen</string>
     <string name="system">System</string>
@@ -4580,7 +4580,7 @@ Select your operating system:"</string>
     <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
     <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and NFC transport card."</string>
     <string name="current_use_uicc_wallet">"You're using SIM%1$s Wallet"</string>
-    <string name="open_wifi_connect_title">Connect to %1$s</string>
+    <string name="open_wifi_connect_title">Connected to %1$s</string>
     <string name="open_wifi_connect_summary">Tap to view details.</string>
     <string name="free_wifi_summary">Tap to connect to %1$s.</string>
     <string name="free_wifi_connect_title">WLAN available</string>
@@ -5084,6 +5084,8 @@ Select your operating system:"</string>
     <string name="uninstall_dlg_title">Uninstall now?</string>
     <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
+    <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
+    <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
     <string name="apn_ppp_number">APN PPP phone number</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
@@ -5290,8 +5292,6 @@ WLAN Assistant"</string>
     <string name="wifi_automatically_manage_summary">Let a WLAN assistant manage your WLAN connection</string>
     <string name="wifi_assistant_setting_title">WLAN assistant</string>
     <string name="wifi_assistant_setting_summary">Google WLAN Assistant</string>
-    <item type="string" name="APKTOOL_DUMMY_13f2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13f3">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f4">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f5">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f6">false</item>
@@ -5324,13 +5324,12 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_1411">false</item>
     <item type="string" name="APKTOOL_DUMMY_1412">false</item>
     <item type="string" name="APKTOOL_DUMMY_1413">false</item>
-    <item type="string" name="APKTOOL_DUMMY_141a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_141b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_141c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1414">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1415">false</item>
     <item type="string" name="APKTOOL_DUMMY_141d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1431">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1432">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1433">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1420">false</item>
     <item type="string" name="APKTOOL_DUMMY_1434">false</item>
     <item type="string" name="APKTOOL_DUMMY_1435">false</item>
     <item type="string" name="APKTOOL_DUMMY_1436">false</item>
@@ -5352,15 +5351,15 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_1446">false</item>
     <item type="string" name="APKTOOL_DUMMY_1447">false</item>
     <item type="string" name="APKTOOL_DUMMY_1448">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1450">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1451">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1452">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1449">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144b">false</item>
     <item type="string" name="APKTOOL_DUMMY_1453">false</item>
     <item type="string" name="APKTOOL_DUMMY_1454">false</item>
     <item type="string" name="APKTOOL_DUMMY_1455">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14b5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14b6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1456">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1457">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1458">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b8">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b9">false</item>
     <item type="string" name="APKTOOL_DUMMY_14ba">false</item>
@@ -5375,16 +5374,16 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_14c3">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c4">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14c7">false</item>
     <item type="string" name="APKTOOL_DUMMY_14c8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14c9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14ca">false</item>
     <item type="string" name="APKTOOL_DUMMY_14cb">false</item>
     <item type="string" name="APKTOOL_DUMMY_14cc">false</item>
     <item type="string" name="APKTOOL_DUMMY_14cd">false</item>
     <item type="string" name="APKTOOL_DUMMY_14ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14cf">false</item>
     <item type="string" name="APKTOOL_DUMMY_14d0">false</item>
     <item type="string" name="APKTOOL_DUMMY_14d1">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14d2">false</item>
     <item type="string" name="APKTOOL_DUMMY_14d3">false</item>
     <item type="string" name="APKTOOL_DUMMY_14d4">false</item>
     <item type="string" name="APKTOOL_DUMMY_14d5">false</item>
@@ -5449,7 +5448,10 @@ WLAN Assistant"</string>
     <item type="string" name="APKTOOL_DUMMY_1510">false</item>
     <item type="string" name="APKTOOL_DUMMY_1511">false</item>
     <item type="string" name="APKTOOL_DUMMY_1512">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1525">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1526">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1527">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1513">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1514">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1515">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1528">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1529">false</item>
+    <item type="string" name="APKTOOL_DUMMY_152a">false</item>
 </resources>

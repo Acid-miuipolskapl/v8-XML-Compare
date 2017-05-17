@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_24c">false</string>
-  <string name="APKTOOL_DUMMY_24d">false</string>
-  <string name="APKTOOL_DUMMY_24e">false</string>
-  <string name="APKTOOL_DUMMY_24f">false</string>
-  <string name="APKTOOL_DUMMY_250">false</string>
-  <string name="APKTOOL_DUMMY_251">false</string>
-  <string name="APKTOOL_DUMMY_252">false</string>
+  <string name="APKTOOL_DUMMY_247">false</string>
   <string name="APKTOOL_DUMMY_253">false</string>
   <string name="APKTOOL_DUMMY_254">false</string>
   <string name="APKTOOL_DUMMY_255">false</string>
@@ -258,6 +252,13 @@
   <string name="APKTOOL_DUMMY_34b">false</string>
   <string name="APKTOOL_DUMMY_34c">false</string>
   <string name="APKTOOL_DUMMY_34d">false</string>
+  <string name="APKTOOL_DUMMY_34e">false</string>
+  <string name="APKTOOL_DUMMY_34f">false</string>
+  <string name="APKTOOL_DUMMY_350">false</string>
+  <string name="APKTOOL_DUMMY_351">false</string>
+  <string name="APKTOOL_DUMMY_352">false</string>
+  <string name="APKTOOL_DUMMY_353">false</string>
+  <string name="APKTOOL_DUMMY_354">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -402,7 +403,6 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_beautify_entry_7">7</string>
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
-  <string name="pref_camera_beautify_entry_auto">Off</string>
   <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">High</string>
   <string name="pref_camera_beautify_entry_low">Low</string>
@@ -488,7 +488,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+  <string name="pref_camera_groupshot_mode_title">Group selfies</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -709,7 +709,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
-  <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
+  <string name="pref_groupshot_with_primitive_title">Save original photos as well in group selfies mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -794,7 +794,7 @@ facial expression to synthesize into a photo"</string>
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
-  <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
+  <string name="simple_mode_button_text_groupshot">Turn off Group selfies</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>
