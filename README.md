@@ -1,9 +1,8 @@
-<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
+[![MIUI8 logo](http://i.imgur.com/8mHvQNw.png)](https://xiaomi.eu/)
 
+# MIUI 8 Daily XML changes by xiaomi.eu / miui.com
 
-
-
-#MIUI 8 Daily XML changes by xiaomi.eu / miui.com
+[![ghit.me](https://ghit.me/badge.svg?repo=Acid-miuipolskapl/v8-XML-Compare)](https://ghit.me/repo/Acid-miuipolskapl/v8-XML-Compare)
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
@@ -17,8 +16,6 @@ For more info visit:
 
 Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
-[![ghit.me](https://ghit.me/badge.svg?repo=Acid-miuipolskapl/v8-XML-Compare)](https://ghit.me/repo/Acid-miuipolskapl/v8-XML-Compare)
-
-#####Credits:
+##### Credits:
 - ingbrzy
 - Acid
