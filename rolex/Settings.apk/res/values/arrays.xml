@@ -955,7 +955,7 @@
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Audio source</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_configuration_values">
