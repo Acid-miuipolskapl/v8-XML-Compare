@@ -537,7 +537,20 @@
         <item>0x40800000</item>
         <item>0x00000514</item>
     </integer-array>
-    <array name="config_defaultPinnerServiceFiles" />
+    <string-array name="config_defaultPinnerServiceFiles">
+        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
+        <item>/system/framework/arm64/boot.oat</item>
+        <item>/system/framework/arm/boot.oat</item>
+        <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/oat/arm/services.odex</item>
+        <item>/system/framework/arm64/boot-framework.oat</item>
+        <item>/system/framework/arm/boot-framework.oat</item>
+        <item>/system/framework/arm64/boot-core-libart.oat</item>
+        <item>/system/framework/arm/boot-core-libart.oat</item>
+    </string-array>
     <string-array name="origin_carrier_names">
         <item>"CHINA  MOBILE"</item>
         <item>CMCC</item>
@@ -1138,7 +1151,14 @@
         <item>120</item>
         <item>255</item>
     </integer-array>
-    <array name="config_legacyPinnerServiceFiles" />
+    <string-array name="config_legacyPinnerServiceFiles">
+        <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
+        <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item>
+        <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item>
+        <item>/system/framework/oat/arm64/services.odex</item>
+        <item>/system/framework/oat/arm/services.odex</item>
+    </string-array>
     <string-array name="config_appsToPin">
         <item>com.tencent.mm</item>
     </string-array>
