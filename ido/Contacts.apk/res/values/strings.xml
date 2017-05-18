@@ -990,6 +990,8 @@ To add a contact to your list of favorites:
   <string name="preview_incall_show_entry">Preview video</string>
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
+  <string name="profileSavedErrorToast">"Couldn't save my profile changes"</string>
+  <string name="profileSavedToast">My profile saved</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
