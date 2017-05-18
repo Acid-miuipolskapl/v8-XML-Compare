@@ -17,6 +17,7 @@ For more info visit:
 
 Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 
+[![ghit.me](https://ghit.me/badge.svg?repo=Acid-miuipolskapl/v8-XML-Compare)](https://ghit.me/repo/Acid-miuipolskapl/v8-XML-Compare)
 
 #####Credits:
 - ingbrzy
