@@ -1626,7 +1626,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="last_time_used_label">Last time used</string>
   <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
-  <string name="launcher_title">Home screen And Recents panel</string>
+  <string name="launcher_title">Home screen &amp; Recents</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -2186,7 +2186,7 @@ Select your operating system:"</string>
   <string name="open_personal_assistant_dialog_title">Turn off Smart assistant</string>
   <string name="open_personal_assistant_title">Turn on Smart assistant</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
-  <string name="open_wifi_connect_title">Connect to %1$s</string>
+  <string name="open_wifi_connect_title">Connected to %1$s</string>
   <string name="optimization_cancel">Cancel</string>
   <string name="optimization_close">Turn off &amp; reboot</string>
   <string name="optimization_open">Turn on</string>
@@ -2571,7 +2571,7 @@ Select your operating system:"</string>
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
-  <string name="recents_config_title">Recents Tasks Panel settings</string>
+  <string name="recents_config_title">Recents settings</string>
   <string name="recommend_item_title">Recommendations</string>
   <string name="recompute_size">Recomputing size…</string>
   <string name="regulatory_info_text"/>
@@ -2727,7 +2727,6 @@ To use screen pinning:
 
 4. Touch the pin icon."</string>
   <string name="screen_pinning_title">Screen pinning</string>
-  <string name="screen_recorder">Screen recorder</string>
   <string name="screen_resolution_confirm">Reboot</string>
   <string name="screen_resolution_summary">"Lowering the display's resolution may increase battery life and system speed, however images on screen may be less clear. Your device must reboot to apply this change."</string>
   <string name="screen_resolution_switch">Switch resolution</string>
@@ -3042,7 +3041,7 @@ To use screen pinning:
   <string name="show_hw_screen_updates">Show GPU view updates</string>
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
-  <string name="show_mem_info_title">Show Memory Info</string>
+  <string name="show_mem_info_title">Show memory status</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_owner_info_on_lockscreen_label">Show owner info on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
