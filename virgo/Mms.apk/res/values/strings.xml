@@ -193,8 +193,6 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
-  <string name="hms_add_image_progress_message">Working…</string>
-  <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -240,7 +238,6 @@
   <string name="menu_send_as_common">Send as SMS</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
-  <string name="menu_yellowpage">View %s</string>
   <string name="message_class_label">"Message class: "</string>
   <string name="message_contact">Contact:</string>
   <string name="message_details_title">Message details</string>
@@ -263,15 +260,12 @@
   <string name="message_too_big_for_video">The message is too big to attach a video.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Me</string>
-  <string name="mipub_messaging_entry_title">Mi Message</string>
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
-  <string name="msg_type_hint_mx_b2c">Network notification</string>
-  <string name="msg_type_hint_mx_b2c_omit">Network notification</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Text message</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -310,9 +304,6 @@
   <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
-  <string name="mx_b2c_message_desc">Network notifications</string>
-  <string name="mx_b2c_message_resend_not_online">"Can't resend message. Mi Message is offline."</string>
-  <string name="mx_b2c_message_server">Server</string>
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
@@ -391,6 +382,7 @@
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
+  <string name="pref_show_list_avatar_summary">Display photos and other contact info in list view</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
@@ -487,7 +479,6 @@
   <string name="restore_blocked_message">Restore</string>
   <string name="restore_to_phone_memory_failed">"Couldn't restore"</string>
   <string name="restored_to_phone_memory">Restored</string>
-  <string name="retrive_hms_tips">Retrieving…</string>
   <string name="save">Save</string>
   <string name="save_ringtone">Save as ringtone</string>
   <string name="save_to_sim">Save to SIM card</string>
@@ -525,7 +516,6 @@
   <string name="select_recipient">Choose recipients</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
-  <string name="send_hms_editor_hints">Mi Message</string>
   <string name="send_message_dlg_check_hint">"Don't show again"</string>
   <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
   <string name="send_message_dlg_title">Device management</string>
@@ -613,6 +603,7 @@
   <string name="title_collapse_sp_messages">Notifications group</string>
   <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
+  <string name="title_show_list_avatar">Display photos and info</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
   <string name="title_timed_message_dialog">Set timed message</string>
@@ -658,8 +649,6 @@ Attempt made: %s."</string>
   <string name="user_agreement5">By tapping OK, you agree to our Terms of Service and Privacy Policy.</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
-  <string name="view_hms_attachment_fail">"Can't download image"</string>
-  <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
   <string name="voip_enable">Mi Message and Voice</string>
   <string name="voip_enable_popup_msg">"Make calls to other MIUI devices without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
@@ -668,7 +657,6 @@ Attempt made: %s."</string>
   <string name="warning_show">Send in %ds</string>
   <string name="wild_msg_processing">Working…</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
-  <string name="xiaomi_service_number">Service number</string>
   <string name="yellowpage_recommend_msg">"Check out MIUI's messaging features"</string>
   <string name="yes">OK</string>
 </resources>
