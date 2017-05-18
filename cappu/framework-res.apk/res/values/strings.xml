@@ -294,7 +294,6 @@
   <string name="APKTOOL_DUMMY_753">false</string>
   <string name="APKTOOL_DUMMY_754">false</string>
   <string name="APKTOOL_DUMMY_755">false</string>
-  <string name="APKTOOL_DUMMY_756">false</string>
   <string name="APKTOOL_DUMMY_757">false</string>
   <string name="APKTOOL_DUMMY_758">false</string>
   <string name="APKTOOL_DUMMY_759">false</string>
@@ -1065,7 +1064,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Try again</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+Contact your wireless service provider for another SIM card."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
   <string name="lockscreen_return_to_call">Return to call</string>
   <string name="lockscreen_screen_locked">Screen locked.</string>
@@ -1515,6 +1514,8 @@ for account %s."</string>
   <string name="phoneTypeWorkMobile">Work Mobile</string>
   <string name="phoneTypeWorkPager">Work Pager</string>
   <string name="pin_target">Pin</string>
+  <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
   <string name="policydesc_disableCamera">Prevent use of all device cameras.</string>
   <string name="policydesc_disableKeyguardFeatures">Prevent use of some screen lock features.</string>
   <string name="policydesc_encryptedStorage">Require that stored app data be encrypted.</string>

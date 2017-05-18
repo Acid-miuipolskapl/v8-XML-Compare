@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_11d">false</string>
-  <string name="APKTOOL_DUMMY_11e">false</string>
-  <string name="APKTOOL_DUMMY_11f">false</string>
-  <string name="APKTOOL_DUMMY_120">false</string>
-  <string name="APKTOOL_DUMMY_121">false</string>
-  <string name="APKTOOL_DUMMY_122">false</string>
-  <string name="APKTOOL_DUMMY_123">false</string>
   <string name="APKTOOL_DUMMY_124">false</string>
   <string name="APKTOOL_DUMMY_125">false</string>
   <string name="APKTOOL_DUMMY_126">false</string>
@@ -72,6 +65,13 @@
   <string name="APKTOOL_DUMMY_162">false</string>
   <string name="APKTOOL_DUMMY_163">false</string>
   <string name="APKTOOL_DUMMY_164">false</string>
+  <string name="APKTOOL_DUMMY_165">false</string>
+  <string name="APKTOOL_DUMMY_166">false</string>
+  <string name="APKTOOL_DUMMY_167">false</string>
+  <string name="APKTOOL_DUMMY_168">false</string>
+  <string name="APKTOOL_DUMMY_169">false</string>
+  <string name="APKTOOL_DUMMY_16a">false</string>
+  <string name="APKTOOL_DUMMY_16b">false</string>
   <string name="about_device">About phone</string>
   <string name="active_xiaomi_account">Active</string>
   <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>

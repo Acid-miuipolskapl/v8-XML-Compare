@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_9c">false</string>
-  <string name="APKTOOL_DUMMY_9d">false</string>
-  <string name="APKTOOL_DUMMY_9e">false</string>
-  <string name="APKTOOL_DUMMY_9f">false</string>
-  <string name="APKTOOL_DUMMY_a0">false</string>
-  <string name="APKTOOL_DUMMY_a1">false</string>
-  <string name="APKTOOL_DUMMY_a2">false</string>
-  <string name="APKTOOL_DUMMY_a3">false</string>
-  <string name="APKTOOL_DUMMY_a4">false</string>
-  <string name="APKTOOL_DUMMY_a5">false</string>
   <string name="APKTOOL_DUMMY_a6">false</string>
   <string name="APKTOOL_DUMMY_a7">false</string>
   <string name="APKTOOL_DUMMY_a8">false</string>
@@ -26,13 +16,22 @@
   <string name="APKTOOL_DUMMY_b3">false</string>
   <string name="APKTOOL_DUMMY_b4">false</string>
   <string name="APKTOOL_DUMMY_b5">false</string>
+  <string name="APKTOOL_DUMMY_b6">false</string>
+  <string name="APKTOOL_DUMMY_b7">false</string>
+  <string name="APKTOOL_DUMMY_b8">false</string>
+  <string name="APKTOOL_DUMMY_b9">false</string>
+  <string name="APKTOOL_DUMMY_ba">false</string>
+  <string name="APKTOOL_DUMMY_bb">false</string>
+  <string name="APKTOOL_DUMMY_bc">false</string>
+  <string name="APKTOOL_DUMMY_bd">false</string>
+  <string name="APKTOOL_DUMMY_be">false</string>
   <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alarm_bar_title">Reminder</string>
   <string name="alert_action_edit_anyway">Keep editing</string>
   <string name="alert_message_delete">Delete %1$s?</string>
   <string name="alert_message_delete_note">Delete this note?</string>
   <string name="alert_message_edit_anyway">If you edit this note, some of its contents may be lost.</string>
-  <string name="alert_message_restore">"Could't open this note. Restore it to edit its content."</string>
+  <string name="alert_message_restore">"Couldn't open this note. Restore it to edit its content."</string>
   <string name="alert_title_delete">Delete note?</string>
   <string name="alert_title_edit_anyway">This note contains unsupported contents</string>
   <string name="alert_title_hidden_note">Received a hidden note reminder</string>
@@ -42,8 +41,13 @@
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="call_folder_name">Call notes</string>
+  <string name="cloud_trash_bin_title">Delete notes in Mi Cloud</string>
+  <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
   <string name="default_folder_name">Unnamed folder</string>
   <string name="delete_folder_dialog_tile">Delete folder</string>
+  <string name="dialog_share_as_pic">Share note as picture</string>
+  <string name="dialog_share_as_text">Share note as text</string>
+  <string name="dialog_share_title">Share note</string>
   <string name="dlg_btn_set_password">Set password</string>
   <string name="dlg_check_reminder">"Don't show again"</string>
   <string name="dlg_delete_message">Deleting…</string>
@@ -60,6 +64,7 @@
   <string name="dlg_title_set_password">Set password</string>
   <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
   <string name="dlg_unhide_message">Unhiding…</string>
+  <string name="done">Done</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Sync your notes with your Mi Account (%1$s)?</string>
   <string name="error_contact_not_exist">"Contact doesn't exist"</string>
@@ -73,6 +78,8 @@
   <string name="error_widget_exist_for_send_to_desktop">This note is already on your Home screen</string>
   <string name="folder_exist">A folder with the same name already exists</string>
   <string name="force_touch_menu_add">Add note</string>
+  <string name="format_move_note_out_folder">Moved out</string>
+  <string name="format_move_note_to_folder">Moved to %1$s</string>
   <string name="format_move_notes_out_folder">Moved %1$s out</string>
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
   <string name="hidden_notes_fragment_title">Hidden notes</string>
@@ -81,9 +88,10 @@
   <string name="info_note_enter_desktop">Added to Home screen</string>
   <string name="loading_text">Just a sec…</string>
   <string name="login_sync">Sign in &amp; sync</string>
+  <string name="menu_add_folder">Add to folder</string>
   <string name="menu_create_folder">New folder</string>
   <string name="menu_delete">Delete</string>
-  <string name="menu_delete_forever">Delete forever</string>
+  <string name="menu_delete_forever">Delete permanently</string>
   <string name="menu_folders">Folders</string>
   <string name="menu_hide">Hide</string>
   <string name="menu_move_parent_folder">Parent folder</string>
@@ -115,10 +123,10 @@
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permlab_accessNote">Access notes</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Don't ask for confirmation when deleting a note using gesture"</string>
+  <string name="pref_title_cloud_trash_bin">Delete notes in Mi Cloud</string>
   <string name="pref_title_common">Additional settings</string>
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Style</string>
-  <string name="pref_title_recover_help">Recover notes</string>
   <string name="pref_title_show_root_folder_in_homepage">Show only quick notes on the start page</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">An error occurred, go to i.mi.com to restore notes.</string>
@@ -177,6 +185,7 @@
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end.</string>
   <string name="trash_folder_name">Trash</string>
+  <string name="trash_folder_reminder">The notes you delete will be deleted permanently in 30 days.</string>
   <string name="undo">Undo</string>
   <string name="unknown_source">Unknown source</string>
   <string name="welcome_note_for_cm">"And more great features!

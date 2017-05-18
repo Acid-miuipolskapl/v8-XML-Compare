@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_11d">false</string>
-  <string name="APKTOOL_DUMMY_11e">false</string>
-  <string name="APKTOOL_DUMMY_11f">false</string>
-  <string name="APKTOOL_DUMMY_120">false</string>
-  <string name="APKTOOL_DUMMY_121">false</string>
-  <string name="APKTOOL_DUMMY_122">false</string>
-  <string name="APKTOOL_DUMMY_123">false</string>
   <string name="APKTOOL_DUMMY_124">false</string>
   <string name="APKTOOL_DUMMY_125">false</string>
   <string name="APKTOOL_DUMMY_126">false</string>
@@ -36,6 +29,14 @@
   <string name="APKTOOL_DUMMY_13e">false</string>
   <string name="APKTOOL_DUMMY_13f">false</string>
   <string name="APKTOOL_DUMMY_140">false</string>
+  <string name="APKTOOL_DUMMY_141">false</string>
+  <string name="APKTOOL_DUMMY_142">false</string>
+  <string name="APKTOOL_DUMMY_143">false</string>
+  <string name="APKTOOL_DUMMY_144">false</string>
+  <string name="APKTOOL_DUMMY_145">false</string>
+  <string name="APKTOOL_DUMMY_146">false</string>
+  <string name="APKTOOL_DUMMY_147">false</string>
+  <string name="APKTOOL_DUMMY_148">false</string>
   <string name="action_cancel">Cancel</string>
   <string name="action_submit">Send</string>
   <string name="announcement">Attention</string>
@@ -49,7 +50,6 @@
   <string name="bugreport_dump_complete_notification_title">Created bug report</string>
   <string name="bugreport_dump_start_notification_summary">This takes several minutes.</string>
   <string name="bugreport_dump_start_notification_title">Creating bug report…</string>
-  <string name="bugreport_feedback_from">From: %s</string>
   <string name="bugreport_tool_log">Create bug report</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
@@ -119,6 +119,7 @@
   <string name="feedback_status_commit_failed_title">"Couldn't send report"</string>
   <string name="feedback_status_commit_succ_title">Sent</string>
   <string name="feedback_status_commit_uploading_title">Sending…</string>
+  <string name="feedback_status_forum_reply">Reply</string>
   <string name="feedback_status_jira_comment">Add a comment</string>
   <string name="feedback_status_more">Details</string>
   <string name="feedback_status_processing">Processing…</string>
@@ -126,6 +127,7 @@
   <string name="feedback_status_replyed">Replied</string>
   <string name="feedback_status_reresolved">Resolved</string>
   <string name="feedback_status_supplement">Describe your issue in details</string>
+  <string name="feedback_status_supplement_more">Add a comment</string>
   <string name="feedback_submit_failed_notification_desc">View details</string>
   <string name="feedback_submit_failed_notification_retry">Send again</string>
   <string name="feedback_submit_failed_notification_title">"Couldn't send report"</string>
@@ -136,6 +138,7 @@
   <string name="feedback_submit_succ_button">Done</string>
   <string name="feedback_submitting">Submitting</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
+  <string name="feedback_third_packagename_hint">Which third party app causes problems?</string>
   <string name="feedback_title">Title</string>
   <string name="feedback_title_hint">Describe the issue briefly</string>
   <string name="feedback_tracking">Track issues</string>
@@ -218,9 +221,9 @@
   <string name="min_error">Your %1$s should be longer.</string>
   <string name="modem_tool_log">Capture modem logs</string>
   <string name="modem_tool_log_start">Start</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_start_toast">Saving modem log to %s</string>
   <string name="modem_tool_log_stop">Stop</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="modem_tool_log_stop_toast">Stopped saving modem log to %s</string>
   <string name="module_communication">Communication</string>
   <string name="module_data">Storage &amp; Dual apps</string>
   <string name="module_desktop">Home screen &amp; settings</string>
@@ -258,11 +261,12 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">More</string>
   <string name="packaging_dialog_content">Creating report…</string>
+  <string name="permission_granted">%1$s permission granted</string>
   <string name="pic_not_exist">"This image doesn't exist"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
   <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
-  <string name="post_miui_bbs_failed">"Couldn't post to Forum"</string>
+  <string name="post_miui_bbs_failed">"Couldn't post to MIUI Forum"</string>
   <string name="pull_to_refresh_pull_label">Pull down to refresh</string>
   <string name="pull_to_refresh_refreshing_label">Refreshing…</string>
   <string name="pull_to_refresh_release_label">Release to refresh</string>
@@ -292,7 +296,9 @@
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">My reports</string>
   <string name="tab_title_report">Feedback</string>
+  <string name="time_in_justnow">Just now</string>
   <string name="title_answer_feedback_main">We found answers!</string>
+  <string name="title_bbs_feedback_main">Learn more about Mi phones</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes nearby</string>
   <string name="title_nonsystem_app">Other apps</string>
@@ -306,14 +312,17 @@
   <string name="toast_feedback_submitting">Sending…</string>
   <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
   <string name="toast_fill_brackets">Your report is missing some info</string>
+  <string name="toast_log_not_exists">"The required log was deleted or doesn't exist"</string>
   <string name="toast_module_required">Select item</string>
   <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
+  <string name="toast_pic_not_exists">Cached image was deleted</string>
   <string name="toast_post_deleted">"This topic doesn't exist, was deleted, or edited."</string>
   <string name="toast_problem_class_required">Select category</string>
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
   <string name="toast_report_sent_failed">"Can't send report"</string>
   <string name="toast_report_sent_succeed">Report has been sent</string>
+  <string name="toast_third_packagename_required">Enter app name</string>
   <string name="toast_title_required">Describe your issue</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Try again</string>

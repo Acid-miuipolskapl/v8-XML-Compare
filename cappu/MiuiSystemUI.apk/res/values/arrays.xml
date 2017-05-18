@@ -243,6 +243,11 @@
         <item>1</item>
         <item>3</item>
     </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
@@ -380,6 +385,7 @@
         <item>com.miui.cloudappbackup</item>
         <item>com.miui.fmradio</item>
         <item>com.android.systemui</item>
+        <item>com.android.mms</item>
     </string-array>
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>

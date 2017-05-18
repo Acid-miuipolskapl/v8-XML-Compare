@@ -48,7 +48,5 @@
         <item quantity="other">%d songs added</item>
         <item quantity="one">%d song added</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_18">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_19">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_10">false</item>
 </resources>

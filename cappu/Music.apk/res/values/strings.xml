@@ -1,23 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_337">false</string>
-  <string name="APKTOOL_DUMMY_339">false</string>
-  <string name="APKTOOL_DUMMY_33a">false</string>
-  <string name="APKTOOL_DUMMY_33b">false</string>
-  <string name="APKTOOL_DUMMY_33c">false</string>
-  <string name="APKTOOL_DUMMY_33d">false</string>
-  <string name="APKTOOL_DUMMY_33e">false</string>
-  <string name="APKTOOL_DUMMY_33f">false</string>
-  <string name="APKTOOL_DUMMY_340">false</string>
-  <string name="APKTOOL_DUMMY_341">false</string>
-  <string name="APKTOOL_DUMMY_342">false</string>
-  <string name="APKTOOL_DUMMY_343">false</string>
-  <string name="APKTOOL_DUMMY_344">false</string>
-  <string name="APKTOOL_DUMMY_345">false</string>
-  <string name="APKTOOL_DUMMY_346">false</string>
-  <string name="APKTOOL_DUMMY_347">false</string>
-  <string name="APKTOOL_DUMMY_348">false</string>
-  <string name="APKTOOL_DUMMY_349">false</string>
+  <string name="APKTOOL_DUMMY_1d3">false</string>
+  <string name="APKTOOL_DUMMY_1d4">false</string>
+  <string name="APKTOOL_DUMMY_1d5">false</string>
+  <string name="APKTOOL_DUMMY_1d6">false</string>
+  <string name="APKTOOL_DUMMY_1d7">false</string>
+  <string name="APKTOOL_DUMMY_372">false</string>
   <string name="account">Account</string>
   <string name="action_item_add">Add</string>
   <string name="action_item_add_to_current_playlist">Current playlist</string>
@@ -240,6 +228,9 @@
   <string name="not_login">Not signed in</string>
   <string name="not_selected">Choose a song</string>
   <string name="not_vip">Sorry, you are not Vip.</string>
+  <string name="notification_headset_custom">Dismiss</string>
+  <string name="notification_headset_info">Tap to view settings.</string>
+  <string name="notification_headset_settings">Headphones connected</string>
   <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
   <string name="online_music">Discover</string>
