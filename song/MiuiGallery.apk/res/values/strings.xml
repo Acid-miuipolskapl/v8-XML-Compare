@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_493">false</string>
-  <string name="APKTOOL_DUMMY_494">false</string>
-  <string name="APKTOOL_DUMMY_495">false</string>
-  <string name="APKTOOL_DUMMY_496">false</string>
-  <string name="APKTOOL_DUMMY_497">false</string>
-  <string name="APKTOOL_DUMMY_498">false</string>
-  <string name="APKTOOL_DUMMY_499">false</string>
-  <string name="APKTOOL_DUMMY_49a">false</string>
-  <string name="APKTOOL_DUMMY_49b">false</string>
+  <string name="APKTOOL_DUMMY_4a2">false</string>
+  <string name="APKTOOL_DUMMY_4a3">false</string>
+  <string name="APKTOOL_DUMMY_4a4">false</string>
+  <string name="APKTOOL_DUMMY_4a5">false</string>
+  <string name="APKTOOL_DUMMY_4a6">false</string>
+  <string name="APKTOOL_DUMMY_4a7">false</string>
+  <string name="APKTOOL_DUMMY_4a8">false</string>
+  <string name="APKTOOL_DUMMY_4a9">false</string>
+  <string name="APKTOOL_DUMMY_4aa">false</string>
+  <string name="APKTOOL_DUMMY_4ab">false</string>
+  <string name="APKTOOL_DUMMY_4ac">false</string>
+  <string name="APKTOOL_DUMMY_4ad">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>
@@ -57,6 +60,7 @@
   <string name="album_detail_page_empty">No photos or videos</string>
   <string name="album_faces_name">People</string>
   <string name="album_from_format">From %s</string>
+  <string name="album_jump_failed">Wait until albums are synced with Mi Cloud ​​and try again</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">Album name</string>
   <string name="album_name_recent_discovery">Recent</string>
@@ -199,6 +203,7 @@
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="change_to_face_mode">Show face only</string>
   <string name="change_to_photo_mode">Show full previews</string>
+  <string name="change_to_visible">Restore this person?</string>
   <string name="choose_baby_sexy">Gender</string>
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
@@ -658,6 +663,7 @@
   <string name="delete_from_devices">All synced devices</string>
   <string name="delete_from_devices_album">All devices to which the album has been synced</string>
   <string name="delete_from_homepage_album">Albums shown in Gallery</string>
+  <string name="delete_from_local_and_cloud">from this device and Mi Cloud</string>
   <string name="delete_from_this_album_and_cloud">from this album and Mi Cloud</string>
   <string name="delete_from_web">Web albums</string>
   <string name="delete_in_album">When you delete photos or videos from an album, they will also be deleted from:</string>
@@ -669,6 +675,7 @@
   <string name="delete_third_party_photo">Delete this photo?</string>
   <string name="delete_third_party_video">Delete this video?</string>
   <string name="delete_to_trash_tips">You can view recently deleted photos in Settings &gt; Trash bin</string>
+  <string name="delete_unsynced">Delete items that have not been backed up</string>
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -802,8 +809,9 @@ Take more photos of your friends!"</string>
   <string name="hybrid_service_unavailiable">Service unavailable</string>
   <string name="hybrid_try_again">Try again</string>
   <string name="ignore_album">"Don't show"</string>
-  <string name="ignore_alert_title">"Don't show this album?"</string>
+  <string name="ignore_alert_title">"Don't show this album? Tap the upper right corner to view photos you've ignored."</string>
   <string name="ignore_face">Ignore this person</string>
+  <string name="ignore_faces_title">Ignored</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
   <string name="image_download_item_title">Download original file (%s)</string>
   <string name="image_invalid_path">Invalid path</string>
@@ -835,7 +843,11 @@ Take more photos of your friends!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be &gt; 0</string>
   <string name="limit_width">Width should be &gt; 0</string>
+  <string name="load_complete">No more items here</string>
+  <string name="load_failed">"Couldn't load info, tap to try again"</string>
   <string name="load_relations">Just a sec…</string>
+  <string name="loading">Just a sec</string>
+  <string name="loading_dots">Just a sec…</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
@@ -887,6 +899,7 @@ Take more photos of your friends!"</string>
   <string name="new_relation_invalid_prefix">"Can't start group names with “.” or “_”"</string>
   <string name="next">Next</string>
   <string name="no">No</string>
+  <string name="no_ignore_faces">No people here</string>
   <string name="no_map_app">No app was found to handle this action</string>
   <string name="no_network_connected">No network detected</string>
   <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
@@ -938,6 +951,7 @@ Take more photos of your friends!"</string>
   <string name="other_album">Other albums</string>
   <string name="other_settings">Additional settings</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
+  <string name="people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
   <string name="percent_sign">%</string>
@@ -959,6 +973,7 @@ Take more photos of your friends!"</string>
   <string name="picker_full_format">You can select up to %d photos</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
+  <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">You can select %d photos</string>
@@ -982,6 +997,10 @@ Take more photos of your friends!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
+  <string name="recovery_merge">Merge</string>
+  <string name="recovery_merge_or_rename">Merge albums</string>
+  <string name="recovery_merge_or_rename_message">"There's an existing album with this name. Merge now?"</string>
+  <string name="recovery_rename">Rename</string>
   <string name="relation_text_empty_alert">Add relationship info</string>
   <string name="relation_text_family">Family member</string>
   <string name="relation_text_father">Father</string>
@@ -1024,21 +1043,18 @@ Take more photos of your friends!"</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
-  <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud ​​and try again</string>
+  <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
   <string name="search_backup_full_screen">Turn on sync with Mi Cloud to find more objects and people</string>
   <string name="search_backup_now">Turn on</string>
   <string name="search_backup_sub_title">Turn on to find more images</string>
   <string name="search_backup_title">Sync with Mi Cloud</string>
+  <string name="search_clear_histories">Clear</string>
   <string name="search_connection_error">"Couldn't connect to the network"</string>
   <string name="search_connection_error_and_set">Tap to check network settings</string>
   <string name="search_error">An error occurred</string>
   <string name="search_error_and_retry">An error occurred, tap to try again</string>
   <string name="search_hint">Search images​</string>
   <string name="search_image_result_title">Search results</string>
-  <string name="search_load_complete">No more items here</string>
-  <string name="search_load_failed">"Couldn't load info, tap to try again"</string>
-  <string name="search_loading">Just a sec</string>
-  <string name="search_loading_dots">Just a sec…</string>
   <string name="search_login_now">Sign in</string>
   <string name="search_login_sub_title">Sign in to find more photos</string>
   <string name="search_login_title">Mi Account</string>
@@ -1047,6 +1063,7 @@ Take more photos of your friends!"</string>
   <string name="search_result_empty">"Couldn't find anything"</string>
   <string name="search_retry">Try again</string>
   <string name="search_set_network_connection">Network settings</string>
+  <string name="search_title_history">Search history</string>
   <string name="search_title_location">Locations</string>
   <string name="search_title_others">All results</string>
   <string name="search_title_people">People</string>
@@ -1068,6 +1085,7 @@ Take more photos of your friends!"</string>
   <string name="secret_reason_too_large">File is too big</string>
   <string name="secret_reason_type_not_support">"This file type isn't supported"</string>
   <string name="secret_reason_unknow_reasons">Unknown error</string>
+  <string name="see_ignore_faces">"View people you've ignored"</string>
   <string name="select_item_face">"Is this '%s'?"</string>
   <string name="select_origin_tip">Original file (%s)</string>
   <string name="send_multiple_files_hint_format">Send (%s)</string>

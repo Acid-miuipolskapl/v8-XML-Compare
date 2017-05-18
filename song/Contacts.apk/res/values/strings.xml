@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_4c9">false</string>
-  <string name="APKTOOL_DUMMY_4ca">false</string>
   <string name="APKTOOL_DUMMY_4cb">false</string>
   <string name="APKTOOL_DUMMY_4cc">false</string>
   <string name="APKTOOL_DUMMY_4cd">false</string>
@@ -28,6 +26,8 @@
   <string name="APKTOOL_DUMMY_4e2">false</string>
   <string name="APKTOOL_DUMMY_4e3">false</string>
   <string name="APKTOOL_DUMMY_4e4">false</string>
+  <string name="APKTOOL_DUMMY_4e5">false</string>
+  <string name="APKTOOL_DUMMY_4e6">false</string>
   <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
@@ -1018,6 +1018,8 @@ To add a contact to your list of favorites:
   <string name="preview_incall_show_entry">Preview video</string>
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
+  <string name="profileSavedErrorToast">"Couldn't save my profile changes"</string>
+  <string name="profileSavedToast">My profile saved</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>

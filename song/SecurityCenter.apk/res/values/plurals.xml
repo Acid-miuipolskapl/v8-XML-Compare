@@ -104,7 +104,7 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="view_num">
         <item quantity="other">%1$d views</item>
         <item quantity="zero">%1$d views</item>
-        <item quantity="one">%1$d views</item>
+        <item quantity="one">%1$d view</item>
         <item quantity="two">%1$d views</item>
         <item quantity="few">%1$d views</item>
         <item quantity="many">%1$d views</item>
@@ -278,4 +278,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"Haven't used for %d years"</item>
         <item quantity="one">"Haven't used for %d year"</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_47">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_48">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_49">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_4b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_4c">false</item>
 </resources>

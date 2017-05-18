@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_13e5">false</string>
-  <string name="APKTOOL_DUMMY_13e6">false</string>
   <string name="APKTOOL_DUMMY_13e7">false</string>
   <string name="APKTOOL_DUMMY_13e8">false</string>
   <string name="APKTOOL_DUMMY_13e9">false</string>
@@ -34,13 +32,13 @@
   <string name="APKTOOL_DUMMY_1404">false</string>
   <string name="APKTOOL_DUMMY_1405">false</string>
   <string name="APKTOOL_DUMMY_1406">false</string>
-  <string name="APKTOOL_DUMMY_140d">false</string>
-  <string name="APKTOOL_DUMMY_140e">false</string>
-  <string name="APKTOOL_DUMMY_140f">false</string>
+  <string name="APKTOOL_DUMMY_1407">false</string>
+  <string name="APKTOOL_DUMMY_1408">false</string>
+  <string name="APKTOOL_DUMMY_1409">false</string>
   <string name="APKTOOL_DUMMY_1410">false</string>
-  <string name="APKTOOL_DUMMY_1424">false</string>
-  <string name="APKTOOL_DUMMY_1425">false</string>
-  <string name="APKTOOL_DUMMY_1426">false</string>
+  <string name="APKTOOL_DUMMY_1411">false</string>
+  <string name="APKTOOL_DUMMY_1412">false</string>
+  <string name="APKTOOL_DUMMY_1413">false</string>
   <string name="APKTOOL_DUMMY_1427">false</string>
   <string name="APKTOOL_DUMMY_1428">false</string>
   <string name="APKTOOL_DUMMY_1429">false</string>
@@ -62,15 +60,15 @@
   <string name="APKTOOL_DUMMY_1439">false</string>
   <string name="APKTOOL_DUMMY_143a">false</string>
   <string name="APKTOOL_DUMMY_143b">false</string>
-  <string name="APKTOOL_DUMMY_1443">false</string>
-  <string name="APKTOOL_DUMMY_1444">false</string>
-  <string name="APKTOOL_DUMMY_1445">false</string>
+  <string name="APKTOOL_DUMMY_143c">false</string>
+  <string name="APKTOOL_DUMMY_143d">false</string>
+  <string name="APKTOOL_DUMMY_143e">false</string>
   <string name="APKTOOL_DUMMY_1446">false</string>
   <string name="APKTOOL_DUMMY_1447">false</string>
   <string name="APKTOOL_DUMMY_1448">false</string>
-  <string name="APKTOOL_DUMMY_14a8">false</string>
-  <string name="APKTOOL_DUMMY_14a9">false</string>
-  <string name="APKTOOL_DUMMY_14aa">false</string>
+  <string name="APKTOOL_DUMMY_1449">false</string>
+  <string name="APKTOOL_DUMMY_144a">false</string>
+  <string name="APKTOOL_DUMMY_144b">false</string>
   <string name="APKTOOL_DUMMY_14ab">false</string>
   <string name="APKTOOL_DUMMY_14ac">false</string>
   <string name="APKTOOL_DUMMY_14ad">false</string>
@@ -85,16 +83,16 @@
   <string name="APKTOOL_DUMMY_14b6">false</string>
   <string name="APKTOOL_DUMMY_14b7">false</string>
   <string name="APKTOOL_DUMMY_14b8">false</string>
+  <string name="APKTOOL_DUMMY_14b9">false</string>
+  <string name="APKTOOL_DUMMY_14ba">false</string>
   <string name="APKTOOL_DUMMY_14bb">false</string>
-  <string name="APKTOOL_DUMMY_14bc">false</string>
-  <string name="APKTOOL_DUMMY_14bd">false</string>
   <string name="APKTOOL_DUMMY_14be">false</string>
   <string name="APKTOOL_DUMMY_14bf">false</string>
   <string name="APKTOOL_DUMMY_14c0">false</string>
   <string name="APKTOOL_DUMMY_14c1">false</string>
+  <string name="APKTOOL_DUMMY_14c2">false</string>
   <string name="APKTOOL_DUMMY_14c3">false</string>
   <string name="APKTOOL_DUMMY_14c4">false</string>
-  <string name="APKTOOL_DUMMY_14c5">false</string>
   <string name="APKTOOL_DUMMY_14c6">false</string>
   <string name="APKTOOL_DUMMY_14c7">false</string>
   <string name="APKTOOL_DUMMY_14c8">false</string>
@@ -159,9 +157,12 @@
   <string name="APKTOOL_DUMMY_1503">false</string>
   <string name="APKTOOL_DUMMY_1504">false</string>
   <string name="APKTOOL_DUMMY_1505">false</string>
-  <string name="APKTOOL_DUMMY_1518">false</string>
-  <string name="APKTOOL_DUMMY_1519">false</string>
-  <string name="APKTOOL_DUMMY_151a">false</string>
+  <string name="APKTOOL_DUMMY_1506">false</string>
+  <string name="APKTOOL_DUMMY_1507">false</string>
+  <string name="APKTOOL_DUMMY_1508">false</string>
+  <string name="APKTOOL_DUMMY_151b">false</string>
+  <string name="APKTOOL_DUMMY_151c">false</string>
+  <string name="APKTOOL_DUMMY_151d">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -2159,7 +2160,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
-  <string name="launcher_title">Home screen And Recents panel</string>
+  <string name="launcher_title">Home screen &amp; Recents</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -2868,7 +2869,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="open_personal_assistant_dialog_title">Turn off Smart assistant</string>
   <string name="open_personal_assistant_title">Turn on Smart assistant</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
-  <string name="open_wifi_connect_title">Connect to %1$s</string>
+  <string name="open_wifi_connect_title">Connected to %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">This work profile is managed by:</string>
   <string name="operator_warning">Carrier data accounting may differ from device accounting</string>
   <string name="optimization_cancel">Cancel</string>
@@ -3277,7 +3278,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
-  <string name="recents_config_title">Recents Tasks Panel settings</string>
+  <string name="recents_config_title">Recents settings</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3290,6 +3291,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
   <string name="remove_account_label">Remove account</string>
   <string name="remove_and_uninstall_device_admin">Deactivate and Uninstall</string>
+  <string name="remove_continue">Uninstall</string>
   <string name="remove_device_admin">Deactivate this device administrator</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
@@ -3462,7 +3464,6 @@ To use screen pinning:
   <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
   <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
   <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
-  <string name="screen_recorder">Screen recorder</string>
   <string name="screen_resolution_dialog_title">Switch resolution</string>
   <string name="screen_resolution_high_format">High (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -3884,7 +3885,7 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="show_ime">Show virtual keyboard</string>
   <string name="show_ime_summary">Keep it on screen while physical keyboard is active</string>
   <string name="show_magnifier_when_input">Text magnifying glass</string>
-  <string name="show_mem_info_title">Show Memory Info</string>
+  <string name="show_mem_info_title">Show memory status</string>
   <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
   <string name="show_owner_info_on_lockscreen_label">Show signature on Lock screen</string>
   <string name="show_password">Make passwords visible</string>
@@ -4443,6 +4444,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_device_admin">Uninstall app</string>
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
+  <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
+  <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
   <string name="uninstall_text">Uninstall</string>
   <string name="uninstall_wifi_master_key">Uninstall WLAN Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
