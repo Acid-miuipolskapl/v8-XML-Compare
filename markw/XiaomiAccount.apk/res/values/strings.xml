@@ -156,7 +156,7 @@ To activate your account, follow the
     <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
     <string name="search_app_name">Mi Account</string>
     <string name="search_mi_account">Mi Account</string>
-    <string name="search_mi_account_key_words">Mi Account,Sign in,create account,Mi Cloud,Account Setting,Account Management,Mi Pay Info</string>
+    <string name="search_mi_account_key_words">Mi Cloud,Account Setting,Mi Pay Info,Sign out</string>
     <string name="search_mi_account_desc">Mi Account</string>
     <string name="search_mi_account_path">Settings/Mi Account</string>
     <string name="search_user_detail">Personal info</string>
@@ -167,11 +167,7 @@ To activate your account, follow the
     <string name="search_account_security">Account security</string>
     <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorization,Devices</string>
     <string name="search_account_security_desc">Account Settings</string>
-    <string name="search_account_security_path">Settings/Mi Account/Account settings</string>
-    <string name="search_logout_account">Sign out</string>
-    <string name="search_logout_account_key_words">Sign out</string>
-    <string name="search_logout_account_desc">Mi Account</string>
-    <string name="search_logout_account_path">Mi Account/Account Settings,Settings/Mi Account/Account Settings</string>
+    <string name="search_account_security_path">Settings/Mi Account/Account security</string>
     <string name="app_name">Mi Account</string>
     <string name="account">Account</string>
     <string name="logout_failed">"Can't sign out"</string>
@@ -204,7 +200,6 @@ To activate your account, follow the
     <string name="account_user_base_info">Personal info</string>
     <string name="account_user_name">Name</string>
     <string name="account_user_id">Mi Account ID</string>
-    <string name="account_user_details">Personal info</string>
     <string name="account_none">None</string>
     <string name="account_no_set">None</string>
     <string name="account_has_been_set">Change</string>
@@ -276,7 +271,7 @@ To activate your account, follow the
     <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
     <string name="update_email_address_dialog_title">Update Email</string>
     <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
-    <string name="account_user_info">User info</string>
+    <string name="account_user_details">Personal info</string>
     <string name="account_security">Account security</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">Services</string>

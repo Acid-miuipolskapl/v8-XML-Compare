@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="launcher_title">Home screen And Recents panel</string>
+    <string name="launcher_title">Home screen &amp; Recents</string>
     <string name="defalut_launcher_title">Default launcher</string>
     <string name="miui_screen_config_title">Home screen settings</string>
     <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
@@ -11,8 +11,8 @@
     <string name="open_personal_assistant_dialog_desc">"You won't be able to use Smart assistant and receive its updates. Turn off now?"</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Close</string>
-    <string name="recents_config_title">Recents Tasks Panel settings</string>
-    <string name="show_mem_info_title">Show Memory Info</string>
+    <string name="recents_config_title">Recents settings</string>
+    <string name="show_mem_info_title">Show memory status</string>
     <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
     <string name="status_bar_settings_manage_notification">App notifications</string>
     <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
@@ -3469,7 +3469,6 @@ This helps protect data on lost or stolen devices."</string>
     <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
     <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
     <string name="has_screenshot_sound">Screenshot sound</string>
-    <string name="screen_recorder">Screen recorder</string>
     <string name="key_settings_title">Buttons</string>
     <string name="key_settings">Buttons</string>
     <string name="key_position_cat">Buttons position</string>
@@ -4077,7 +4076,7 @@ Select your operating system:"</string>
     <string name="se_wallet_hce">Use HCE Wallet</string>
     <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
     <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and NFC transport card."</string>
-    <string name="open_wifi_connect_title">Connect to %1$s</string>
+    <string name="open_wifi_connect_title">Connected to %1$s</string>
     <string name="open_wifi_connect_summary">Tap to view details.</string>
     <string name="free_wifi_summary">Tap to connect to %1$s.</string>
     <string name="free_wifi_connect_title">WLAN available</string>
