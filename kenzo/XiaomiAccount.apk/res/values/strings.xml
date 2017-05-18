@@ -42,7 +42,6 @@
   <string name="account_user_gender">Gender</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_income">Income</string>
-  <string name="account_user_info">User info</string>
   <string name="account_user_location">Location</string>
   <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">Name</string>
@@ -350,15 +349,11 @@ To activate your account, follow the
   <string name="search_account_security">Account security</string>
   <string name="search_account_security_desc">Account Settings</string>
   <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorization,Devices</string>
-  <string name="search_account_security_path">Settings/Mi Account/Account settings</string>
+  <string name="search_account_security_path">Settings/Mi Account/Account security</string>
   <string name="search_app_name">Mi Account</string>
-  <string name="search_logout_account">Sign out</string>
-  <string name="search_logout_account_desc">Mi Account</string>
-  <string name="search_logout_account_key_words">Sign out</string>
-  <string name="search_logout_account_path">Mi Account/Account Settings,Settings/Mi Account/Account Settings</string>
   <string name="search_mi_account">Mi Account</string>
   <string name="search_mi_account_desc">Mi Account</string>
-  <string name="search_mi_account_key_words">Mi Account,Sign in,create account,Mi Cloud,Account Setting,Account Management,Mi Pay Info</string>
+  <string name="search_mi_account_key_words">Mi Cloud,Account Setting,Mi Pay Info,Sign out</string>
   <string name="search_mi_account_path">Settings/Mi Account</string>
   <string name="search_user_detail">Personal info</string>
   <string name="search_user_detail_bottom_key_words">Change Income,Change Education,Change Location,Change Region</string>
