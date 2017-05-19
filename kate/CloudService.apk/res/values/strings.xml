@@ -270,6 +270,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_need_charge">Charge your device</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Charge your device and turn off screen</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for Wi-Fi</string>
