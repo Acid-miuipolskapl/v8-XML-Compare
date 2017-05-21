@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_72">false</string>
+  <string name="APKTOOL_DUMMY_73">false</string>
+  <string name="APKTOOL_DUMMY_74">false</string>
   <string name="add_done">Added successfully</string>
   <string name="add_game">Add game</string>
   <string name="add_whitelist">Add to exceptions</string>
