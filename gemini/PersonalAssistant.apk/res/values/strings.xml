@@ -63,6 +63,9 @@
   <string name="daily_greeting">Daily greetings</string>
   <string name="data_error">Ann error occurred, wait a minute or two and try again</string>
   <string name="data_error_show">"The order is completed, can't view details"</string>
+  <string name="didi_trip">滴滴出行</string>
+  <string name="didi_trip_content">快捷的使用滴滴出行的打车服务</string>
+  <string name="didi_trip_open">开启滴滴出行卡片</string>
   <string name="drive">Drive</string>
   <string name="duokan_not_installed">"This app isn't installed on your phone. Can't use this card now."</string>
   <string name="duokan_open">Add Duokan card</string>
@@ -71,11 +74,16 @@
   <string name="entrance">Card shortcuts</string>
   <string name="exercise_setting_brief">View your activity stats.</string>
   <string name="express">Express delivery</string>
+  <string name="express_authorized">已授权</string>
   <string name="express_jd">JD</string>
   <string name="express_mi_shop">Mi Store</string>
+  <string name="express_not_authorized">未授权</string>
+  <string name="express_num_setting_des">抓取各电商应用快递物流页中的运单号查询快递，作为手机号查快递的补充</string>
+  <string name="express_num_setting_title">跟踪快递单号查询</string>
   <string name="express_open">Show delivery tracking cards</string>
-  <string name="express_other_app">Track orders from shopping apps</string>
+  <string name="express_other_app">授权跟踪快递单号查询</string>
   <string name="express_setting_brief">Gather cards from shopping apps to track your orders.</string>
+  <string name="express_setting_phone">授权使用手机号自动查询</string>
   <string name="express_support_app">Supported apps</string>
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
@@ -215,6 +223,9 @@
   <string name="taxi_setting_brief">Get a taxi in a single tap.</string>
   <string name="trans_card">Transport card</string>
   <string name="transit_subway">Public transport</string>
+  <string name="trip_profession">专车</string>
+  <string name="trip_quick">快车</string>
+  <string name="trip_taxi">出租车</string>
   <string name="try_again">Try again</string>
   <string name="understandassistant">About Smart assistant</string>
   <string name="unusual_weather">Weather alerts</string>

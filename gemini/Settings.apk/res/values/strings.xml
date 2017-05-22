@@ -93,7 +93,7 @@
   <string name="APKTOOL_DUMMY_14cf">false</string>
   <string name="APKTOOL_DUMMY_14d0">false</string>
   <string name="APKTOOL_DUMMY_14d1">false</string>
-  <string name="APKTOOL_DUMMY_14d3">false</string>
+  <string name="APKTOOL_DUMMY_14d2">false</string>
   <string name="APKTOOL_DUMMY_14d4">false</string>
   <string name="APKTOOL_DUMMY_14d5">false</string>
   <string name="APKTOOL_DUMMY_14d6">false</string>
@@ -160,9 +160,10 @@
   <string name="APKTOOL_DUMMY_1513">false</string>
   <string name="APKTOOL_DUMMY_1514">false</string>
   <string name="APKTOOL_DUMMY_1515">false</string>
-  <string name="APKTOOL_DUMMY_1528">false</string>
+  <string name="APKTOOL_DUMMY_1516">false</string>
   <string name="APKTOOL_DUMMY_1529">false</string>
   <string name="APKTOOL_DUMMY_152a">false</string>
+  <string name="APKTOOL_DUMMY_152b">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
