@@ -2071,14 +2071,14 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="key_position_cat">Buttons position</string>
   <string name="key_settings">Buttons</string>
   <string name="key_settings_title">Buttons</string>
-  <string name="keyboard_and_input_methods_category">Keyboard and input methods</string>
+  <string name="keyboard_and_input_methods_category">Keyboard</string>
   <string name="keyboard_assistance_category">Keyboard assistance</string>
   <string name="keyboard_layout_default_label">Default</string>
   <string name="keyboard_layout_dialog_setup_button">Set up keyboard layouts</string>
   <string name="keyboard_layout_dialog_switch_hint">To switch, press Control-Spacebar</string>
   <string name="keyboard_layout_dialog_title">Choose keyboard layout</string>
   <string name="keyboard_layout_picker_title">Keyboard layouts</string>
-  <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
+  <string name="keyboard_settings_category">Input methods</string>
   <string name="keyboard_settings_title">Android keyboard</string>
   <string name="keyboard_shortcuts_helper">Keyboard shortcuts helper</string>
   <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
