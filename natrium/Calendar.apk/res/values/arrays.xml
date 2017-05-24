@@ -588,4 +588,14 @@
         <item>Forwards</item>
         <item>Backwards</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_42">false</item>
+    <item type="array" name="APKTOOL_DUMMY_43">false</item>
+    <item type="array" name="APKTOOL_DUMMY_44">false</item>
+    <item type="array" name="APKTOOL_DUMMY_45">false</item>
+    <item type="array" name="APKTOOL_DUMMY_46">false</item>
+    <item type="array" name="APKTOOL_DUMMY_47">false</item>
+    <item type="array" name="APKTOOL_DUMMY_48">false</item>
+    <item type="array" name="APKTOOL_DUMMY_49">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4c">false</item>
 </resources>

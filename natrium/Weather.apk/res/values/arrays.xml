@@ -141,7 +141,7 @@
         <item>Poor</item>
         <item>Very poor</item>
         <item>Severe</item>
-        <item>Burst Table</item>
+        <item>Beyond index</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>Beaufort scale</item>
@@ -179,10 +179,11 @@
     <string-array name="pollution_level_desc_arr">
         <item>Excellent</item>
         <item>Good</item>
-        <item>Lightly Polluted</item>
-        <item>Moderately Polluted</item>
-        <item>Heavily Polluted</item>
-        <item>Severely Polluted</item>
-        <item>Beyond Index</item>
+        <item>Lightly polluted</item>
+        <item>Moderately polluted</item>
+        <item>Heavily polluted</item>
+        <item>Severely polluted</item>
+        <item>Beyond index</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_13">false</item>
 </resources>

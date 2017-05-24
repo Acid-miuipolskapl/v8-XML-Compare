@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_4c9">false</string>
+  <string name="APKTOOL_DUMMY_4ca">false</string>
+  <string name="APKTOOL_DUMMY_4cb">false</string>
+  <string name="APKTOOL_DUMMY_4cc">false</string>
+  <string name="APKTOOL_DUMMY_4cd">false</string>
+  <string name="APKTOOL_DUMMY_4ce">false</string>
+  <string name="APKTOOL_DUMMY_4cf">false</string>
+  <string name="APKTOOL_DUMMY_4d0">false</string>
+  <string name="APKTOOL_DUMMY_4d1">false</string>
+  <string name="APKTOOL_DUMMY_4d2">false</string>
+  <string name="APKTOOL_DUMMY_4d3">false</string>
+  <string name="APKTOOL_DUMMY_4d4">false</string>
+  <string name="APKTOOL_DUMMY_4d5">false</string>
+  <string name="APKTOOL_DUMMY_4d6">false</string>
+  <string name="APKTOOL_DUMMY_4d7">false</string>
+  <string name="APKTOOL_DUMMY_4d8">false</string>
+  <string name="APKTOOL_DUMMY_4d9">false</string>
+  <string name="APKTOOL_DUMMY_4da">false</string>
+  <string name="APKTOOL_DUMMY_4db">false</string>
+  <string name="APKTOOL_DUMMY_4dc">false</string>
+  <string name="APKTOOL_DUMMY_4dd">false</string>
+  <string name="APKTOOL_DUMMY_4de">false</string>
+  <string name="APKTOOL_DUMMY_4df">false</string>
+  <string name="APKTOOL_DUMMY_4e0">false</string>
+  <string name="APKTOOL_DUMMY_4e1">false</string>
+  <string name="APKTOOL_DUMMY_4e2">false</string>
+  <string name="APKTOOL_DUMMY_4e3">false</string>
+  <string name="APKTOOL_DUMMY_4e4">false</string>
   <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>

@@ -12,4 +12,6 @@
         <item quantity="other">"%1$s haven't been synced"</item>
         <item quantity="one">"%1$s hasn't been synced"</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_4">false</item>
 </resources>
