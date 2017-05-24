@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_68">false</string>
+  <string name="APKTOOL_DUMMY_69">false</string>
+  <string name="APKTOOL_DUMMY_6a">false</string>
+  <string name="APKTOOL_DUMMY_6b">false</string>
+  <string name="APKTOOL_DUMMY_6c">false</string>
+  <string name="APKTOOL_DUMMY_6d">false</string>
+  <string name="APKTOOL_DUMMY_6e">false</string>
+  <string name="APKTOOL_DUMMY_6f">false</string>
+  <string name="APKTOOL_DUMMY_70">false</string>
+  <string name="APKTOOL_DUMMY_71">false</string>
   <string name="APKTOOL_DUMMY_72">false</string>
   <string name="APKTOOL_DUMMY_73">false</string>
   <string name="APKTOOL_DUMMY_74">false</string>

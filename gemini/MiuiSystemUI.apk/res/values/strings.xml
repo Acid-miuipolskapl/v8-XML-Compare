@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_287">false</string>
   <string name="APKTOOL_DUMMY_288">false</string>
   <string name="APKTOOL_DUMMY_289">false</string>
   <string name="APKTOOL_DUMMY_28a">false</string>
+  <string name="APKTOOL_DUMMY_28b">false</string>
   <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
   <string name="accessibility_action_divider_left_30">Left 30%</string>
   <string name="accessibility_action_divider_left_50">Left 50%</string>
@@ -425,6 +425,7 @@ Use only the supplied charger."</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
   <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_cleaning">Cleaning, please wait a little time</string>
   <string name="recent_task_lock_text">Lock</string>
   <string name="recent_task_unlock_text">Unlock</string>
   <string name="recents_launch_error_message">Could not start %s.</string>

@@ -782,6 +782,23 @@
         <item>18</item>
         <item>1</item>
     </integer-array>
-    <item type="array" name="APKTOOL_DUMMY_70">false</item>
-    <item type="array" name="APKTOOL_DUMMY_72">false</item>
+    <string-array name="region_not_support_volte">
+        <item>HK</item>
+        <item>TW</item>
+        <item>ID</item>
+        <item>PL</item>
+        <item>GR</item>
+        <item>SG</item>
+        <item>SK</item>
+        <item>TH</item>
+        <item>RU</item>
+        <item>MX</item>
+        <item>VN</item>
+        <item>ZA</item>
+        <item>EE</item>
+        <item>LV</item>
+        <item>LT</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_71">false</item>
+    <item type="array" name="APKTOOL_DUMMY_73">false</item>
 </resources>
