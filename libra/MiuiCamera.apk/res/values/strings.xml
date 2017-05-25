@@ -340,9 +340,9 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_2">Medium</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_smart">Smart</string>
-  <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
-facial expression to synthesize into a photo"</string>
-  <string name="hibernate_hint">Touch anywhere to wake up</string>
+  <string name="groupshot_mode_use_hint">"Camera will take multiple photos
+and then create a shot where everyone looks best."</string>
+  <string name="hibernate_hint">Tap the screen to wake Camera</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">Insert SD card before using camera</string>
@@ -355,10 +355,10 @@ facial expression to synthesize into a photo"</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">System apps/Camera/Settings</string>
   <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
-  <string name="portrait_mode_lowlight_hint">More light required</string>
-  <string name="portrait_mode_too_close_hint">Move farther away</string>
+  <string name="portrait_mode_lowlight_hint">"It's too dark now"</string>
+  <string name="portrait_mode_too_close_hint">Move farther from the object</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
-  <string name="portrait_with_facebeauty_hint">Beauty preference in portrait mode is now available.</string>
+  <string name="portrait_with_facebeauty_hint">Beautify is now available in Portrait mode</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
   <string name="pref_audio_focus_entry_front">Front</string>
@@ -472,7 +472,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-  <string name="pref_camera_face_info_watermark_title">Add age stamp in photo</string>
+  <string name="pref_camera_face_info_watermark_title">Add age stamp on photos</string>
   <string name="pref_camera_facedetection_title">Face detection</string>
   <string name="pref_camera_flashmode_default">auto</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
@@ -585,10 +585,10 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
-  <string name="pref_camera_portrait_mode_entry_off">Portrait mode off</string>
-  <string name="pref_camera_portrait_mode_entry_on">Portrait mode on</string>
+  <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
+  <string name="pref_camera_portrait_mode_entry_on">Portrait mode is on</string>
   <string name="pref_camera_portrait_mode_title">Portrait mode</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in portrait mode</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
   <string name="pref_camera_recordlocation_default">false</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
@@ -663,7 +663,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
   <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
   <string name="pref_camera_volumekey_function_title">Volume buttons function</string>
-  <string name="pref_camera_watermark_title">Add time stamp in photo</string>
+  <string name="pref_camera_watermark_title">Add time stamp on photos</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
@@ -709,7 +709,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
-  <string name="pref_groupshot_with_primitive_title">Save original photos as well in group selfies mode</string>
+  <string name="pref_groupshot_with_primitive_title">Save original photos as well in Group selfies mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -781,7 +781,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_watermark_style_entryvalue_dualcamera">dualcamera</string>
   <string name="pref_watermark_style_entryvalue_off">off</string>
   <string name="pref_watermark_style_entryvalue_timestamp">timestamp</string>
-  <string name="pref_watermark_style_title">Add watermark in photo</string>
+  <string name="pref_watermark_style_title">Add watermark on photos</string>
   <string name="preparing_sd">Checking SD card…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
