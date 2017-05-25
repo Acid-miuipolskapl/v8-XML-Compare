@@ -248,6 +248,7 @@ Tap the screen to manually add or reposition city"</string>
     <string name="aqi_display_exp">exp_%1$s</string>
     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+    <string name="alert_detail_title">Alert details</string>
     <string name="aqi_quality_map_title">Air quality map</string>
     <string name="aqi_station_min_distance_station">Nearest station</string>
     <string name="aqi_station_best_quality_station">Best around</string>
@@ -265,8 +266,7 @@ Tap the screen to manually add or reposition city"</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_exceeded">High</string>
     <string name="particulate_matter_serious_exceeded">Too high</string>
-    <item type="string" name="APKTOOL_DUMMY_119">false</item>
-    <item type="string" name="APKTOOL_DUMMY_11a">false</item>
+    <string name="city_exceeded_warning">You can add up to 10 cities</string>
     <item type="string" name="APKTOOL_DUMMY_11b">false</item>
     <item type="string" name="APKTOOL_DUMMY_11c">false</item>
     <item type="string" name="APKTOOL_DUMMY_11d">false</item>
@@ -301,4 +301,6 @@ Tap the screen to manually add or reposition city"</string>
     <item type="string" name="APKTOOL_DUMMY_13a">false</item>
     <item type="string" name="APKTOOL_DUMMY_13b">false</item>
     <item type="string" name="APKTOOL_DUMMY_13c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13e">false</item>
 </resources>
