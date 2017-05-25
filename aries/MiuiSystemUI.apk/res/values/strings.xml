@@ -207,6 +207,7 @@ Use only the supplied charger."</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
   <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_cleaning">Cleaning, please wait a little time</string>
   <string name="recent_task_lock_text">Lock</string>
   <string name="recent_task_unlock_text">Unlock</string>
   <string name="reject_call">Rejecting call</string>
