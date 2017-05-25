@@ -293,4 +293,5 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <item type="plurals" name="APKTOOL_DUMMY_4d">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_4e">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_4f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_50">false</item>
 </resources>

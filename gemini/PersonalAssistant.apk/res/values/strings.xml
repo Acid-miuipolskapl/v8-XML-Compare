@@ -26,14 +26,14 @@
   <string name="card_detail_condition_agenda">展现条件：&lt;font color=#727272&gt;早8点开始展现今日第一条日程；上一条日程结束同时，展现下一条日程；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;日程到期后该日程条目消失；当天最后一项日程消失时，卡片消失；&lt;/font&gt;</string>
   <string name="card_detail_condition_commute">展现条件：&lt;font color=#727272&gt;设置过家和公司（学校）地址后，工作日上下班（学）时段展现（默认初始上班时段上午7-11点，下班时段6-10点）。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前已不在上下班时段或家和公司（学校）地址被清空时消失。&lt;/font&gt;</string>
   <string name="card_detail_condition_duokan">展现条件：&lt;font color=#727272&gt;多看阅读书架上有小说时，卡片展现。&lt;/font&gt;</string>
-  <string name="card_detail_condition_express">展现条件：&lt;font color=#727272&gt;MIUI黄页快递模块有查询记录时展现；开启第三方追踪后，在支持的第三方电商应用中追踪到快递单号后展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;快递签收二十四小时后对应的快递条目消失，卡片上无任何快递条目时卡片消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_express">展现条件：&lt;font color=#727272&gt;授权绑定的手机号有对应的快递定位消息时；开启第三方追踪后，在支持的第三方电商应用中追踪到快递单号后展现；MIUI黄页快递模块有查询记录时展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;快递签收二十四小时后对应的快递条目消失，卡片上无任何快递条目时卡片消失。&lt;/font&gt;</string>
   <string name="card_detail_condition_flow">展现条件：&lt;font color=#727272&gt;在安全中心网络助手中设置流量套餐后，卡片展现。&lt;/font&gt;</string>
-  <string name="card_detail_condition_greeting">展现条件：&lt;font color=#727272&gt;每日早间时段（6：00-10：00）展现早间问候，晚间时段（19：00-24：00）展现晚间问候。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前时段已不在早晚时段时卡片消失。&lt;/font&gt;</string>
+  <string name="card_detail_condition_greeting">展现条件：&lt;font color=#727272&gt;同意天气声明与条款后，每日早间时段（6：00-10：00）展现早间问候，晚间时段（19：00-24：00）展现晚间问候。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前时段已不在早晚时段时卡片消失。&lt;/font&gt;</string>
   <string name="card_detail_condition_groupon">展现条件：&lt;font color=#727272&gt;所有票券收到出票短信后立即展现；起飞/发车/电影开场前24小时展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;飞机票火车票电影票收到短信后持续展示1小时后消失；团购券收到短信后持续展示24小时后消失；起飞/发车/电影开场1小时后消失；&lt;/font&gt;</string>
   <string name="card_detail_condition_music">展现条件：&lt;font color=#727272&gt;有正在播放的音乐/电台类应用，或插上耳机后展现。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;播放记录最近30分钟没有更新时，卡片消失。&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;网易云音乐等部分应用需要在其设置里将锁屏方式修改为系统锁屏后，才能正常使用&lt;/font&gt;</string>
   <string name="card_detail_condition_sport">展现条件：&lt;font color=#727272&gt;安装并登录小米运动客户端后出现&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;步数实时更新需要在安全中心为小米运动客户端添加自启动权限&lt;/font&gt;</string>
   <string name="card_detail_condition_taxi">展现条件：&lt;font color=#727272&gt;设置过家和公司地址后，上午7-10点，下午5-8点分别开始展示打车卡片。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;非展示时间段。&lt;/font&gt;</string>
-  <string name="card_detail_condition_weather">展现条件：&lt;font color=#727272&gt;当有异常天气时，展现异常天气信息；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当异常天气结束时，该条目消失；当所有异常天气都结束时，天气卡片消失；&lt;/font&gt;</string>
+  <string name="card_detail_condition_weather">展现条件：&lt;font color=#727272&gt;同意天气声明与条款后，当有异常天气时，展现异常天气信息；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当异常天气结束时，该条目消失；当所有异常天气都结束时，天气卡片消失；&lt;/font&gt;</string>
   <string name="card_example">卡片样例</string>
   <string name="card_settings">Card settings</string>
   <string name="card_settings_rule">Card order settings</string>

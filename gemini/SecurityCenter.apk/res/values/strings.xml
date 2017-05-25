@@ -63,10 +63,10 @@
   <string name="APKTOOL_DUMMY_8e9">false</string>
   <string name="APKTOOL_DUMMY_8ea">false</string>
   <string name="APKTOOL_DUMMY_8eb">false</string>
-  <string name="APKTOOL_DUMMY_8ec">false</string>
-  <string name="APKTOOL_DUMMY_8ed">false</string>
-  <string name="APKTOOL_DUMMY_8ee">false</string>
-  <string name="APKTOOL_DUMMY_95a">false</string>
+  <string name="APKTOOL_DUMMY_957">false</string>
+  <string name="APKTOOL_DUMMY_96b">false</string>
+  <string name="APKTOOL_DUMMY_96c">false</string>
+  <string name="APKTOOL_DUMMY_96d">false</string>
   <string name="APKTOOL_DUMMY_96e">false</string>
   <string name="APKTOOL_DUMMY_96f">false</string>
   <string name="APKTOOL_DUMMY_970">false</string>
@@ -230,9 +230,6 @@
   <string name="APKTOOL_DUMMY_a0e">false</string>
   <string name="APKTOOL_DUMMY_a0f">false</string>
   <string name="APKTOOL_DUMMY_a10">false</string>
-  <string name="APKTOOL_DUMMY_a11">false</string>
-  <string name="APKTOOL_DUMMY_a12">false</string>
-  <string name="APKTOOL_DUMMY_a13">false</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
