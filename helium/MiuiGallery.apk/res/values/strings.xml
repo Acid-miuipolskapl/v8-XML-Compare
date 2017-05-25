@@ -163,7 +163,7 @@
   <string name="backup_no_wifi_btn_text">Use data</string>
   <string name="backup_no_wifi_desc">You can also back up items using mobile data</string>
   <string name="backup_no_wifi_title">Tap to connect to WLAN</string>
-  <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
+  <string name="backup_only_in_wifi">Only use WLAN to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
   <string name="backup_pause">Pause backup</string>
   <string name="backup_pause_title">Back up in %s</string>
