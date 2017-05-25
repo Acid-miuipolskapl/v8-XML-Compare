@@ -261,6 +261,8 @@
   <string name="insert_event_dialog_title">Attention</string>
   <string name="insert_event_toast_add_failed">"Couldn't add"</string>
   <string name="insert_event_toast_add_success">Event created</string>
+  <string name="install_weather_app_error">应用加载失败.</string>
+  <string name="install_weather_app_loading">加载中...</string>
   <string name="item_num_selected">%1$d selected</string>
   <string name="joke_card_click_toast">长按可复制笑话</string>
   <string name="joke_card_icon_text">%1$s人笑过</string>
@@ -307,6 +309,7 @@
   <string name="menu_preferences">Settings</string>
   <string name="menu_reminder_preferences">Reminders</string>
   <string name="missing_name">(No name)</string>
+  <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>
   <string name="modify_event">Change only this event</string>
@@ -558,7 +561,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="weekly">Weekly (every %s)</string>
   <string name="when_label">When</string>
   <string name="widget_events">Next event</string>
-  <string name="widget_get_weather_info">Get weather info &gt;</string>
+  <string name="widget_get_weather_info">Get weather info</string>
   <string name="widget_no_events">No events</string>
   <string name="widget_select_style">Choose a style</string>
   <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
