@@ -263,7 +263,7 @@ Contact cards are turned off"</string>
   <string name="contacts_setting_title">Contact settings</string>
   <string name="contacts_unavailable_add_account">Sign in to an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
-  <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
+  <string name="contacts_unavailable_import_contacts">Import from a file</string>
   <string name="convenient_service">Services</string>
   <string name="copy_number">Copy</string>
   <string name="copy_text">Copy to clipboard</string>
@@ -991,7 +991,7 @@ To add a contact to your list of favorites:
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
   <string name="profileSavedErrorToast">"Couldn't save my profile changes"</string>
-  <string name="profileSavedToast">My profile saved</string>
+  <string name="profileSavedToast">Profile saved</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
