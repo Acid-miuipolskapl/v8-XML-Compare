@@ -3858,6 +3858,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="system_alert_window_summary" formatted="false">%d of %d apps allowed to draw on top of other apps</string>
   <string name="system_and_device_section_title">System &amp; device</string>
   <string name="system_app_settings">System apps</string>
+  <string name="system_apps_updater">System apps updater</string>
   <string name="system_backup_section_title">Backup</string>
   <string name="system_package">System updates can’t be installed on external media.</string>
   <string name="system_storage">System storage</string>
