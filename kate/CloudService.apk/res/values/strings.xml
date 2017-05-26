@@ -185,7 +185,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">Sync now</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
-  <string name="micloud_detail_need_charge">Connect charger to resume syncing</string>
+  <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to resume syncing</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
