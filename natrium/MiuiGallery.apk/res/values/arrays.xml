@@ -16,6 +16,14 @@
         <item>Maternal Grandfather</item>
         <item>Maternal Grandmother</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Paternal Grandfather</item>
+        <item>Paternal Grandmother</item>
+        <item>Maternal Grandfather</item>
+        <item>Maternal Grandmother</item>
+    </string-array>
     <string-array name="owner_relation_value">
         <item>father</item>
         <item>mother</item>
