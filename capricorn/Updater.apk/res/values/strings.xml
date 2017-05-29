@@ -290,7 +290,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="submit_progress">Sending…</string>
   <string name="submit_success">Sent</string>
   <string name="test">Test</string>
-  <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="title_toast_auto">Updates will download automatically</string>
   <string name="toast_delay_update_tonight">Your device will update between 2:00AM and 5:00AM</string>
   <string name="top_secret_build">Top-secret</string>

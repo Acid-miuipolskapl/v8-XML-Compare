@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_119">false</string>
-  <string name="APKTOOL_DUMMY_11a">false</string>
   <string name="APKTOOL_DUMMY_11b">false</string>
   <string name="APKTOOL_DUMMY_11c">false</string>
   <string name="APKTOOL_DUMMY_11d">false</string>
@@ -36,6 +34,8 @@
   <string name="APKTOOL_DUMMY_13a">false</string>
   <string name="APKTOOL_DUMMY_13b">false</string>
   <string name="APKTOOL_DUMMY_13c">false</string>
+  <string name="APKTOOL_DUMMY_13d">false</string>
+  <string name="APKTOOL_DUMMY_13e">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_city_title">Popular cities</string>
@@ -64,6 +64,7 @@
   <string name="ads_extension"/>
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
+  <string name="alert_detail_title">Alert details</string>
   <string name="alert_warning">Weather alerts</string>
   <string name="already_voted">Voted</string>
   <string name="already_voted_toast">"You've already voted today"</string>
@@ -112,6 +113,7 @@
   <string name="button_sure_abandon">Discard changes?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Check your network connection and try again</string>
+  <string name="city_exceeded_warning">You can add up to 10 cities</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">Just a sec…</string>
   <string name="connect_fail">"Couldn't connect to the network, try again"</string>

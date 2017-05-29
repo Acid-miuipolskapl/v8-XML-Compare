@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_13f2">false</string>
-  <string name="APKTOOL_DUMMY_13f3">false</string>
   <string name="APKTOOL_DUMMY_13f4">false</string>
   <string name="APKTOOL_DUMMY_13f5">false</string>
   <string name="APKTOOL_DUMMY_13f6">false</string>
@@ -34,13 +32,13 @@
   <string name="APKTOOL_DUMMY_1411">false</string>
   <string name="APKTOOL_DUMMY_1412">false</string>
   <string name="APKTOOL_DUMMY_1413">false</string>
-  <string name="APKTOOL_DUMMY_141a">false</string>
-  <string name="APKTOOL_DUMMY_141b">false</string>
-  <string name="APKTOOL_DUMMY_141c">false</string>
+  <string name="APKTOOL_DUMMY_1414">false</string>
+  <string name="APKTOOL_DUMMY_1415">false</string>
+  <string name="APKTOOL_DUMMY_1416">false</string>
   <string name="APKTOOL_DUMMY_141d">false</string>
-  <string name="APKTOOL_DUMMY_1431">false</string>
-  <string name="APKTOOL_DUMMY_1432">false</string>
-  <string name="APKTOOL_DUMMY_1433">false</string>
+  <string name="APKTOOL_DUMMY_141e">false</string>
+  <string name="APKTOOL_DUMMY_141f">false</string>
+  <string name="APKTOOL_DUMMY_1420">false</string>
   <string name="APKTOOL_DUMMY_1434">false</string>
   <string name="APKTOOL_DUMMY_1435">false</string>
   <string name="APKTOOL_DUMMY_1436">false</string>
@@ -62,15 +60,15 @@
   <string name="APKTOOL_DUMMY_1446">false</string>
   <string name="APKTOOL_DUMMY_1447">false</string>
   <string name="APKTOOL_DUMMY_1448">false</string>
-  <string name="APKTOOL_DUMMY_1450">false</string>
-  <string name="APKTOOL_DUMMY_1451">false</string>
-  <string name="APKTOOL_DUMMY_1452">false</string>
+  <string name="APKTOOL_DUMMY_1449">false</string>
+  <string name="APKTOOL_DUMMY_144a">false</string>
+  <string name="APKTOOL_DUMMY_144b">false</string>
   <string name="APKTOOL_DUMMY_1453">false</string>
   <string name="APKTOOL_DUMMY_1454">false</string>
   <string name="APKTOOL_DUMMY_1455">false</string>
-  <string name="APKTOOL_DUMMY_14b5">false</string>
-  <string name="APKTOOL_DUMMY_14b6">false</string>
-  <string name="APKTOOL_DUMMY_14b7">false</string>
+  <string name="APKTOOL_DUMMY_1456">false</string>
+  <string name="APKTOOL_DUMMY_1457">false</string>
+  <string name="APKTOOL_DUMMY_1458">false</string>
   <string name="APKTOOL_DUMMY_14b8">false</string>
   <string name="APKTOOL_DUMMY_14b9">false</string>
   <string name="APKTOOL_DUMMY_14ba">false</string>
@@ -85,16 +83,16 @@
   <string name="APKTOOL_DUMMY_14c3">false</string>
   <string name="APKTOOL_DUMMY_14c4">false</string>
   <string name="APKTOOL_DUMMY_14c5">false</string>
+  <string name="APKTOOL_DUMMY_14c6">false</string>
+  <string name="APKTOOL_DUMMY_14c7">false</string>
   <string name="APKTOOL_DUMMY_14c8">false</string>
-  <string name="APKTOOL_DUMMY_14c9">false</string>
-  <string name="APKTOOL_DUMMY_14ca">false</string>
   <string name="APKTOOL_DUMMY_14cb">false</string>
   <string name="APKTOOL_DUMMY_14cc">false</string>
   <string name="APKTOOL_DUMMY_14cd">false</string>
   <string name="APKTOOL_DUMMY_14ce">false</string>
+  <string name="APKTOOL_DUMMY_14cf">false</string>
   <string name="APKTOOL_DUMMY_14d0">false</string>
   <string name="APKTOOL_DUMMY_14d1">false</string>
-  <string name="APKTOOL_DUMMY_14d2">false</string>
   <string name="APKTOOL_DUMMY_14d3">false</string>
   <string name="APKTOOL_DUMMY_14d4">false</string>
   <string name="APKTOOL_DUMMY_14d5">false</string>
@@ -159,9 +157,12 @@
   <string name="APKTOOL_DUMMY_1510">false</string>
   <string name="APKTOOL_DUMMY_1511">false</string>
   <string name="APKTOOL_DUMMY_1512">false</string>
-  <string name="APKTOOL_DUMMY_1525">false</string>
-  <string name="APKTOOL_DUMMY_1526">false</string>
-  <string name="APKTOOL_DUMMY_1527">false</string>
+  <string name="APKTOOL_DUMMY_1513">false</string>
+  <string name="APKTOOL_DUMMY_1514">false</string>
+  <string name="APKTOOL_DUMMY_1515">false</string>
+  <string name="APKTOOL_DUMMY_152e">false</string>
+  <string name="APKTOOL_DUMMY_152f">false</string>
+  <string name="APKTOOL_DUMMY_1530">false</string>
   <string name="APN_NAME_CMMMS">CMMMS</string>
   <string name="APN_NAME_CMNET">CMNET</string>
   <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -778,8 +779,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_dock_settings_headset">As speaker phone</string>
   <string name="bluetooth_dock_settings_remember">Remember settings</string>
   <string name="bluetooth_dock_settings_title">Use dock for audio</string>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network access</string>
+  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Use for dial-up network access</string>
   <string name="bluetooth_empty_list_bluetooth_off">When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.</string>
   <string name="bluetooth_empty_list_user_restricted">You don’t have permission to change Bluetooth settings.</string>
   <string name="bluetooth_enable">Bluetooth</string>
@@ -801,7 +802,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s wants to access your messages. Give access to %2$s?</string>
   <string name="bluetooth_map_profile_summary_connected">Connected to MAP</string>
-  <string name="bluetooth_map_profile_summary_use_for">Use for map</string>
+  <string name="bluetooth_map_profile_summary_use_for">Use for MAP</string>
   <string name="bluetooth_map_request">Message access request</string>
   <string name="bluetooth_menu_advanced">Advanced</string>
   <string name="bluetooth_name_not_set">No name set, using account name</string>
@@ -853,16 +854,16 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_preference_scan_title">Scan for devices</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
   <string name="bluetooth_profile_details">Profile settings</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+  <string name="bluetooth_profile_dun">Used for accessing dial-up networks</string>
   <string name="bluetooth_profile_headset">Phone audio</string>
   <string name="bluetooth_profile_hid">Input device</string>
-  <string name="bluetooth_profile_map">Message Access</string>
+  <string name="bluetooth_profile_map">Used for accessing messages</string>
   <string name="bluetooth_profile_opp">File transfer</string>
   <string name="bluetooth_profile_pan">Internet access</string>
-  <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
+  <string name="bluetooth_profile_pan_nap">Used for sharing internet connection</string>
   <string name="bluetooth_profile_pbap">Contact sharing</string>
-  <string name="bluetooth_profile_pbap_summary">Use for contact sharing</string>
-  <string name="bluetooth_profile_sap">SIM Access</string>
+  <string name="bluetooth_profile_pbap_summary">Used for sharing contacts</string>
+  <string name="bluetooth_profile_sap">Used for accessing SIM</string>
   <string name="bluetooth_quick_toggle_summary">Turn on Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Don’t ask again</string>
@@ -2069,14 +2070,14 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="key_position_cat">Buttons position</string>
   <string name="key_settings">Buttons</string>
   <string name="key_settings_title">Buttons</string>
-  <string name="keyboard_and_input_methods_category">Keyboard and input methods</string>
+  <string name="keyboard_and_input_methods_category">Keyboard</string>
   <string name="keyboard_assistance_category">Keyboard assistance</string>
   <string name="keyboard_layout_default_label">Default</string>
   <string name="keyboard_layout_dialog_setup_button">Set up keyboard layouts</string>
   <string name="keyboard_layout_dialog_switch_hint">To switch, press Control-Spacebar</string>
   <string name="keyboard_layout_dialog_title">Choose keyboard layout</string>
   <string name="keyboard_layout_picker_title">Keyboard layouts</string>
-  <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
+  <string name="keyboard_settings_category">Input methods</string>
   <string name="keyboard_settings_title">Android keyboard</string>
   <string name="keyboard_shortcuts_helper">Keyboard shortcuts helper</string>
   <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
@@ -3290,6 +3291,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
   <string name="remove_account_label">Remove account</string>
   <string name="remove_and_uninstall_device_admin">Deactivate and Uninstall</string>
+  <string name="remove_continue">Uninstall</string>
   <string name="remove_device_admin">Deactivate this device administrator</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
@@ -3312,11 +3314,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="reset_network_button_text">Reset settings</string>
   <string name="reset_network_complete_toast">Network settings have been reset</string>
   <string name="reset_network_confirm_title">Reset?</string>
-  <string name="reset_network_desc">"This will reset all network settings, including:
-
-"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
-"&lt;li&gt;Cellular data&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+  <string name="reset_network_desc">This will reset all network settings</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
   <string name="reset_network_title">Network settings reset</string>
@@ -3462,7 +3460,6 @@ To use screen pinning:
   <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
   <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
   <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
-  <string name="screen_recorder">Screen recorder</string>
   <string name="screen_resolution_dialog_title">Switch resolution</string>
   <string name="screen_resolution_high_format">High (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -4445,6 +4442,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_device_admin">Uninstall app</string>
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
+  <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
+  <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
   <string name="uninstall_text">Uninstall</string>
   <string name="uninstall_wifi_master_key">Uninstall WLAN Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
@@ -4898,7 +4897,7 @@ Tap the plus to add words."</string>
   <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
   <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_and_mobile_skipped_message">"WARNING: If you skip WLAN, your phone won't have an Internet connection to use for any initial downloads or updates."</string>
+  <string name="wifi_and_mobile_skipped_message">The phone will not be able to verify that your software is up to date</string>
   <string name="wifi_ap_band_config">Select AP Band</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -4943,7 +4942,6 @@ WLAN Assistant"</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
@@ -4955,9 +4953,9 @@ WLAN Assistant"</string>
   <string name="wifi_dialog_remind_type_title">Mobile data network</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
-  <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+  <string name="wifi_disabled_network_failure">"Couldn't configure IP"</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">"Couldn't connect to WLAN"</string>
   <string name="wifi_disconnected_notification_summary">"You're not connected to WLAN."</string>
   <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
@@ -5060,7 +5058,7 @@ WLAN Assistant"</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_domain_warning">Must specify a domain.</string>
-  <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
+  <string name="wifi_no_internet">"No internet access, won't reconnect automatically."</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_notify_cmcc_connected_summary">Show notification when connected to CMCC network</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC network notification</string>

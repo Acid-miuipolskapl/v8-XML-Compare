@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_287">false</string>
   <string name="APKTOOL_DUMMY_288">false</string>
   <string name="APKTOOL_DUMMY_289">false</string>
   <string name="APKTOOL_DUMMY_28a">false</string>
+  <string name="APKTOOL_DUMMY_28b">false</string>
   <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
   <string name="accessibility_action_divider_left_30">Left 30%</string>
   <string name="accessibility_action_divider_left_50">Left 50%</string>
@@ -121,14 +121,14 @@
   <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
   <string name="bluetooth_disconnected">Disconnected</string>
   <string name="bluetooth_disconnecting">Disconnecting…</string>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network access</string>
+  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Use for dial-up network access</string>
   <string name="bluetooth_headset_profile_summary_connected">Connected to phone audio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
   <string name="bluetooth_hid_profile_summary_connected">Connected to input device</string>
   <string name="bluetooth_hid_profile_summary_use_for">Use for input</string>
   <string name="bluetooth_map_profile_summary_connected">Connected to MAP</string>
-  <string name="bluetooth_map_profile_summary_use_for">Use for map</string>
+  <string name="bluetooth_map_profile_summary_use_for">Use for MAP</string>
   <string name="bluetooth_opp_profile_summary_connected">Connected to file transfer server</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Not connected to file transfer server</string>
   <string name="bluetooth_opp_profile_summary_use_for">Use for file transfer</string>
@@ -145,16 +145,16 @@
   <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+  <string name="bluetooth_profile_dun">Used for accessing dial-up networks</string>
   <string name="bluetooth_profile_headset">Phone audio</string>
   <string name="bluetooth_profile_hid">Input device</string>
-  <string name="bluetooth_profile_map">Message Access</string>
+  <string name="bluetooth_profile_map">Used for accessing messages</string>
   <string name="bluetooth_profile_opp">File transfer</string>
   <string name="bluetooth_profile_pan">Internet access</string>
-  <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
+  <string name="bluetooth_profile_pan_nap">Used for sharing internet connection</string>
   <string name="bluetooth_profile_pbap">Contact sharing</string>
-  <string name="bluetooth_profile_pbap_summary">Use for contact sharing</string>
-  <string name="bluetooth_profile_sap">SIM Access</string>
+  <string name="bluetooth_profile_pbap_summary">Used for sharing contacts</string>
+  <string name="bluetooth_profile_sap">Used for accessing SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Connected to SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Use for SIM access</string>
   <string name="bluetooth_tethered">Bluetooth tethered</string>
@@ -354,10 +354,10 @@ Use only the supplied charger."</string>
   <string name="nav_guide_title">Hide soft buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Nothing</string>
-  <string name="no_multi_window_app">No apps which can work in split-screen mode</string>
+  <string name="no_multi_window_app">No apps which support Split screen</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>
-  <string name="not_support_multi_window">"Current app doesn't support split-screen mode"</string>
+  <string name="not_support_multi_window">"Current app doesn't support Split screen"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_low_battery_action_btn">Turn on</string>
@@ -425,6 +425,7 @@ Use only the supplied charger."</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
   <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_cleaning">Clearing apps…</string>
   <string name="recent_task_lock_text">Lock</string>
   <string name="recent_task_unlock_text">Unlock</string>
   <string name="recents_launch_error_message">Could not start %s.</string>
@@ -625,9 +626,9 @@ Slide down to lock"</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
-  <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+  <string name="wifi_disabled_network_failure">"Couldn't configure IP"</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">"Couldn't connect to WLAN"</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
@@ -636,7 +637,7 @@ Slide down to lock"</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
+  <string name="wifi_no_internet">"No internet access, won't reconnect automatically."</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_remembered">Saved</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
