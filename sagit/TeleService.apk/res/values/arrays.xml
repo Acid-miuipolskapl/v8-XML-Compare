@@ -631,10 +631,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_716</item>
-        <item>@string/APKTOOL_DUMMY_714</item>
-        <item>@string/APKTOOL_DUMMY_715</item>
-        <item>@string/APKTOOL_DUMMY_717</item>
+        <item>@string/APKTOOL_DUMMY_71f</item>
+        <item>@string/APKTOOL_DUMMY_71d</item>
+        <item>@string/APKTOOL_DUMMY_71e</item>
+        <item>@string/APKTOOL_DUMMY_720</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -806,46 +806,23 @@
         <item>18</item>
         <item>1</item>
     </integer-array>
-    <integer-array name="network_mode_3g_cm">
-        <item>16</item>
-        <item>1</item>
-        <item>13</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cm">
-        <item>17</item>
-        <item>16</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cu">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cu">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_gsm">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cdma">
-        <item>7</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cdma">
-        <item>10</item>
-        <item>7</item>
-    </integer-array>
-    <integer-array name="network_mode_all_lte">
-        <item>10</item>
-        <item>8</item>
-        <item>20</item>
-        <item>17</item>
-        <item>9</item>
-    </integer-array>
-    <item type="array" name="APKTOOL_DUMMY_7d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_7f">false</item>
+    <string-array name="region_not_support_volte">
+        <item>HK</item>
+        <item>TW</item>
+        <item>ID</item>
+        <item>PL</item>
+        <item>GR</item>
+        <item>SG</item>
+        <item>SK</item>
+        <item>TH</item>
+        <item>RU</item>
+        <item>MX</item>
+        <item>VN</item>
+        <item>ZA</item>
+        <item>EE</item>
+        <item>LV</item>
+        <item>LT</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_76">false</item>
+    <item type="array" name="APKTOOL_DUMMY_78">false</item>
 </resources>

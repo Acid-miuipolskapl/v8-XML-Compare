@@ -1,13 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_24c">false</string>
-  <string name="APKTOOL_DUMMY_24d">false</string>
-  <string name="APKTOOL_DUMMY_24e">false</string>
-  <string name="APKTOOL_DUMMY_24f">false</string>
-  <string name="APKTOOL_DUMMY_250">false</string>
-  <string name="APKTOOL_DUMMY_251">false</string>
-  <string name="APKTOOL_DUMMY_252">false</string>
-  <string name="APKTOOL_DUMMY_253">false</string>
+  <string name="APKTOOL_DUMMY_248">false</string>
   <string name="APKTOOL_DUMMY_254">false</string>
   <string name="APKTOOL_DUMMY_255">false</string>
   <string name="APKTOOL_DUMMY_256">false</string>
@@ -259,6 +252,13 @@
   <string name="APKTOOL_DUMMY_34c">false</string>
   <string name="APKTOOL_DUMMY_34d">false</string>
   <string name="APKTOOL_DUMMY_34e">false</string>
+  <string name="APKTOOL_DUMMY_34f">false</string>
+  <string name="APKTOOL_DUMMY_350">false</string>
+  <string name="APKTOOL_DUMMY_351">false</string>
+  <string name="APKTOOL_DUMMY_352">false</string>
+  <string name="APKTOOL_DUMMY_353">false</string>
+  <string name="APKTOOL_DUMMY_354">false</string>
+  <string name="APKTOOL_DUMMY_355">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -358,6 +358,8 @@ and then create a shot where everyone looks best."</string>
   <string name="portrait_mode_lowlight_hint">"It's too dark now"</string>
   <string name="portrait_mode_too_close_hint">Move farther from the object</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
+  <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
+with more clear main body and more beautiful portrait"</string>
   <string name="portrait_with_facebeauty_hint">Beautify is now available in Portrait mode</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>

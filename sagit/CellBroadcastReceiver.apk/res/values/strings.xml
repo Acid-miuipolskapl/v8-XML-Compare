@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_80">false</string>
   <string name="add_channel">Add Channel</string>
   <string name="alert_reminder_interval_default_value">0</string>
   <string name="alert_reminder_interval_summary"/>
