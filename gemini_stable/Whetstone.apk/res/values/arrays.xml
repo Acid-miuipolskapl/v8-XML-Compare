@@ -12,6 +12,10 @@
         <item>com.xiaomi.metok/.MetokClService</item>
         <item>com.miui.sysbase/.MetokClService</item>
     </string-array>
+    <string-array name="allow_persist_service">
+        <item>com.miui.virtualsim</item>
+        <item>com.miui.voip</item>
+    </string-array>
     <string-array name="protected_process_name">
         <item>com.tencent.mm:push</item>
     </string-array>
@@ -24,6 +28,7 @@
     <string-array name="disable_trim_apps">
         <item>android</item>
         <item>com.miui.home</item>
+        <item>com.android.systemui</item>
     </string-array>
     <string-array name="forcestop_sys_apps">
         <item>com.miui.player</item>
@@ -54,9 +59,7 @@
         <item>com.miui.antispam</item>
         <item>com.miui.securitycenter</item>
         <item>com.miui.virtualsim</item>
-        <item>com.amap.android.location​</item>
-        <item>com.baidu.map.location</item>
-        <item>com.google.android.gms​</item>
+        <item>com.google.android.gms</item>
         <item>com.miui.voip</item>
         <item>com.miui.touchassistant</item>
         <item>com.qualcomm.qcrilmsgtunnel</item>
@@ -66,6 +69,20 @@
         <item>com.qti.snapdragon.sdk.display</item>
         <item>com.xiaomi.bluetooth</item>
         <item>com.xiaomi.metoknlp</item>
+        <item>com.miui.performance</item>
+        <item>android.process.acore</item>
+        <item>com.miui.wmsvc</item>
+    </string-array>
+    <string-array name="promotelevel_normal">
+        <item>com.miui.klo.bugreport</item>
+        <item>com.miui.voip</item>
+        <item>com.xiaomi.upnp</item>
+        <item>com.xiaomi.miplay</item>
+        <item>com.miui.virtualsim</item>
+    </string-array>
+    <array name="promotelevel_middle" />
+    <string-array name="promotelevel_high">
+        <item>com.miui.touchassistant</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
@@ -105,6 +122,21 @@
         <item>com.autonavi.minimap</item>
         <item>com.sogou.map.android.maps</item>
         <item>com.tencent.map</item>
+        <item>cld.navi.mainframe</item>
+        <item>com.baidu.navi</item>
+        <item>com.mapbar.android.mapbarmap</item>
+        <item>com.sogou.map.android.minimap</item>
+        <item>com.autonavi.xmgd.navigator</item>
+    </string-array>
+    <string-array name="protect_lock_active">
+        <item>com.duokan.reader</item>
+    </string-array>
+    <string-array name="protect_active">
+        <item>com.iflytek.speechcloud</item>
+        <item>com.iflytek.vflynote</item>
+    </string-array>
+    <string-array name="protect_link_active">
+        <item>com.miui.networkassistant.vpn</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>

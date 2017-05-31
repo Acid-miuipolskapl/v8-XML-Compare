@@ -1,17 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">Find on Home screen</string>
   <string name="app_name">Search</string>
-  <string name="application_desc">Application</string>
+  <string name="appindex_description">functions of installed apps</string>
+  <string name="appindex_search_label">Apps functions</string>
+  <string name="application_desc">App</string>
   <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
-  <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\", \"com.miui.milivetalk\", \"com.android.phone\", \"com.miui.cloudservice\" )</string>
+  <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\", \"com.miui.milivetalk\", \"com.android.phone\", \"com.miui.cloudservice\", \"com.miui.yellowpage\", \"com.miui.securitycore\", \"com.duokan.reader\", \"com.xiaomi.vip\", \"com.miui.calculator\" )</string>
   <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
+  <string name="barcode_install_back">Back</string>
+  <string name="barcode_install_cancel">Cancel</string>
+  <string name="barcode_install_confirm">Install</string>
+  <string name="barcode_system_unmatch">Update MIUI before you install Scanner</string>
+  <string name="barcode_to_install">Install Scanner to continue</string>
+  <string name="barcode_uninstalled">Scanner is uninstalled</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="choose_search_engine">Select default web search engine</string>
   <string name="clear_history">Clear history</string>
   <string name="clear_shortcuts">Clear shortcuts</string>
   <string name="clear_shortcuts_agree">Clear shortcuts</string>
@@ -22,16 +32,16 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
   <string name="common_setting">General settings</string>
   <string name="connect_and_retry">Connect to the internet and try again</string>
-  <string name="corpus_description_apps">Installed applications</string>
+  <string name="corpus_description_apps">Installed apps</string>
   <string name="corpus_description_web">Bookmarks</string>
   <string name="corpus_hint_apps">Search apps</string>
   <string name="corpus_label_apps">Apps</string>
   <string name="corpus_label_global">All</string>
-  <string name="corpus_label_web">Search apps, music, videos, yellow page…</string>
+  <string name="corpus_label_web">Web results</string>
   <string name="corpus_selection_heading">Search</string>
   <string name="cta_declaration">"This feature needs to connect to the internet, access your device's location, and view your call history and contacts to work normally."</string>
   <string name="cta_declaration_ignore">"Don't show again"</string>
-  <string name="cta_declaration_negative_text">Exit</string>
+  <string name="cta_declaration_negative_text">"Don't allow"</string>
   <string name="cta_declaration_positive_text">Allow</string>
   <string name="cta_declaration_title">Terms of Service</string>
   <string name="default_hint">Search apps, music, videos, books…</string>
@@ -50,13 +60,17 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
   <string name="loading">Just a sec…</string>
+  <string name="local_app">Apps</string>
+  <string name="local_setting">Settings</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
+  <string name="mina_name">Direct apps</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">Allow</string>
   <string name="permission_prompt_started_info">"You've allowed global search"</string>
   <string name="permission_prompt_title">Want more?</string>
+  <string name="pull_to_input">Pull down to reveal the search bar</string>
   <string name="recent_apps">Recent apps</string>
   <string name="recent_apps_filter">"Hide the apps you don't use"</string>
   <string name="recent_close_content">"Turn this feature off now?
@@ -72,6 +86,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="recent_filter_functions">Turned off features</string>
   <string name="recent_function">Features</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
+  <string name="release_to_input">Release to reveal the search bar</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
   <string name="search_apps">Search apps</string>
@@ -93,6 +108,9 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
+  <string name="setting_other">Other</string>
+  <string name="setting_version">App version</string>
+  <string name="setting_version_title">App version</string>
   <string name="settings_description">Names of installed apps</string>
   <string name="show_more">Show more</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
@@ -129,5 +147,5 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="xiaomi_search_label">Results</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
   <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
 </resources>

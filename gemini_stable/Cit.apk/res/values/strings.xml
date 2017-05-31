@@ -164,6 +164,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
   <string name="cit_gyroscope_sensor_check_title">Gyroscope</string>
+  <string name="cit_hardware_info_summary">Please wait... Rendering hardware information of this device</string>
+  <string name="cit_hardware_info_title">Hardware Info</string>
   <string name="cit_headset_button_check_summary">When headphones are connected, press the buttons on the headphone remote (often located on the cord). The corresponding text on screen should turn green.</string>
   <string name="cit_headset_button_check_title">Headphone buttons</string>
   <string name="cit_headset_button_click">Press the buttons on the headphones</string>
@@ -326,6 +328,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_prx_drx_start_test">Start Test</string>
   <string name="cit_tool_prx_drx_stop_test">Stop Test</string>
   <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_radio_infor">Terminal Radio information</string>
+  <string name="cit_tool_radio_infor_voiceNetworkTech">Terminal Radio information</string>
   <string name="cit_tool_rf_ant">RF/Antenna tools</string>
   <string name="cit_tool_wifi">WLAN test tool</string>
   <string name="cit_tool_wifi_chain_1">1</string>

@@ -367,7 +367,7 @@
         <item>4000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>3</item>
+        <item>2</item>
         <item>3</item>
         <item>3</item>
         <item>15</item>
@@ -1124,6 +1124,14 @@
         <item>Keep your finger on the scanner a bit longer</item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -1149,6 +1157,7 @@
         <item>120</item>
         <item>255</item>
     </integer-array>
+    <array name="config_appsToPin" />
     <array name="securespaces_extension_encryption_userRestrictions" />
     <array name="securespaces_extension_hidden_userRestrictions" />
 </resources>

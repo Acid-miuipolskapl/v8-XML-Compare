@@ -1069,7 +1069,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Try again</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+Contact your wireless service provider for another SIM card."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
   <string name="lockscreen_return_to_call">Return to call</string>
   <string name="lockscreen_screen_locked">Screen locked.</string>
