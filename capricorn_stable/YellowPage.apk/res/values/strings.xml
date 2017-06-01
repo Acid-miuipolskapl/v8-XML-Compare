@@ -14,7 +14,7 @@
   <string name="account_yellowpage_favorite">Favorites</string>
   <string name="account_yellowpage_followed">Verified accounts</string>
   <string name="account_yellowpage_recent">View history</string>
-  <string name="add_to_desktop">Add to desktop</string>
+  <string name="add_to_desktop">Add to Home screen</string>
   <string name="agree">Agree</string>
   <string name="agree_to_continue">Continue</string>
   <string name="agree_to_turn_on">Agree</string>
@@ -71,7 +71,7 @@
   <string name="download_failed_storage">Download failed. Check your SD card.</string>
   <string name="downloading">Downloading…</string>
   <string name="enable_now">Turn on</string>
-  <string name="exapress_save_address_to_contact">Save address in contact</string>
+  <string name="exapress_save_address_to_contact">Save this address in Contacts</string>
   <string name="express_add_new_address">Add address</string>
   <string name="express_address_delete_warning">Delete this address?</string>
   <string name="express_address_deleted">Address deleted</string>
@@ -148,7 +148,7 @@ Check your tracking number."</string>
   <string name="express_inquiry_untrace_success">Stopped tracking</string>
   <string name="express_location_failed">"Couldn't locate you. Enter your address."</string>
   <string name="express_no_address">Empty</string>
-  <string name="express_no_order">No order</string>
+  <string name="express_no_order">No orders</string>
   <string name="express_no_order_info">No order info</string>
   <string name="express_order_confirmation">Order confirmation</string>
   <string name="express_order_failed">Failed</string>
@@ -185,13 +185,13 @@ Check your tracking number."</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
   <string name="express_sender_region">"Sender's region"</string>
-  <string name="express_shortcut_name">Query or send express</string>
+  <string name="express_shortcut_name">Send or track express delivery</string>
   <string name="express_show_all_inquiry_history">Show all inquiry history</string>
   <string name="express_submit_order">Submit</string>
   <string name="express_tail_number">尾号</string>
   <string name="express_track_order">Track</string>
   <string name="express_tracking_number">Tracking number</string>
-  <string name="express_urge_order">Ping</string>
+  <string name="express_urge_order">Poke</string>
   <string name="express_view_order">View orders</string>
   <string name="express_view_status">Track</string>
   <string name="expresss_inquiry_all_logistics">All</string>
@@ -381,6 +381,9 @@ Total: RMB %3$s"</string>
   <string name="remind_user_suspect_number_title">Suspicious number</string>
   <string name="rmb">RMB</string>
   <string name="scan">Scan</string>
+  <string name="search_description_express">Query or send express quickly and easily</string>
+  <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
+  <string name="search_title_express">Query or send express</string>
   <string name="select_package_before_buy">Select package</string>
   <string name="send_shortcut_failed">"Couldn't send"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
