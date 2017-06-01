@@ -42,7 +42,7 @@
   <string name="context_menu_new_contact">Create a new contact</string>
   <string name="context_menu_send_mail">Send email</string>
   <string name="context_menu_send_sms">Send message</string>
-  <string name="conversation_list_title">Mi Messages</string>
+  <string name="conversation_list_title">Mi Message</string>
   <string name="converting_to_picture_message">Converting to multimedia message…</string>
   <string name="converting_to_text_message">Converting to text message…</string>
   <string name="copy_message_text">Copy text</string>
