@@ -465,12 +465,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="share_weibo_not_installed">Weibo is not installed.</string>
   <string name="share_weixin_not_installed">WeChat is not installed.</string>
   <string name="short_cut_desc">Add Mi Cloud icon to Home screen?</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="sms">Messages</string>
   <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>

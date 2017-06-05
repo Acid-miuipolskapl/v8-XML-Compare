@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_8a8">false</string>
   <string name="APKTOOL_DUMMY_8a9">false</string>
   <string name="APKTOOL_DUMMY_8aa">false</string>
   <string name="APKTOOL_DUMMY_8ab">false</string>
@@ -62,8 +63,8 @@
   <string name="APKTOOL_DUMMY_8e4">false</string>
   <string name="APKTOOL_DUMMY_8e5">false</string>
   <string name="APKTOOL_DUMMY_8e6">false</string>
-  <string name="APKTOOL_DUMMY_8e7">false</string>
-  <string name="APKTOOL_DUMMY_953">false</string>
+  <string name="APKTOOL_DUMMY_952">false</string>
+  <string name="APKTOOL_DUMMY_966">false</string>
   <string name="APKTOOL_DUMMY_967">false</string>
   <string name="APKTOOL_DUMMY_968">false</string>
   <string name="APKTOOL_DUMMY_969">false</string>
@@ -71,6 +72,15 @@
   <string name="APKTOOL_DUMMY_96b">false</string>
   <string name="APKTOOL_DUMMY_96c">false</string>
   <string name="APKTOOL_DUMMY_96d">false</string>
+  <string name="APKTOOL_DUMMY_96e">false</string>
+  <string name="APKTOOL_DUMMY_96f">false</string>
+  <string name="APKTOOL_DUMMY_970">false</string>
+  <string name="APKTOOL_DUMMY_971">false</string>
+  <string name="APKTOOL_DUMMY_972">false</string>
+  <string name="APKTOOL_DUMMY_973">false</string>
+  <string name="APKTOOL_DUMMY_974">false</string>
+  <string name="APKTOOL_DUMMY_975">false</string>
+  <string name="APKTOOL_DUMMY_976">false</string>
   <string name="APKTOOL_DUMMY_977">false</string>
   <string name="APKTOOL_DUMMY_978">false</string>
   <string name="APKTOOL_DUMMY_979">false</string>
@@ -332,7 +342,7 @@ or enter App lock password"</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
-  <string name="antispam_mode_details">details of interception mode</string>
+  <string name="antispam_mode_details">Blocklist details</string>
   <string name="antispam_notificaiton_type_show_all">All numbers</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
@@ -2309,7 +2319,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_cloud_space_almost_full">Cloud storage nearly full, items may not sync</string>
   <string name="title_cloud_space_full">Cloud is full</string>
   <string name="title_cmcc_app_check">"Verification isn't complete"</string>
-  <string name="title_consume_power">Battery issues found</string>
   <string name="title_consume_power_rank">Battery usage</string>
   <string name="title_data_flow">Control mobile data</string>
   <string name="title_default_app">"MIUI %s isn't set as default"</string>
