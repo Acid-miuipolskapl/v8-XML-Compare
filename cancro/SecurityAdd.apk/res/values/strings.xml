@@ -23,6 +23,16 @@
   <string name="dont_bore_text">Silence notifications and turn off buttons to remove distractions</string>
   <string name="dont_bore_title">DND mode</string>
   <string name="empty">" "</string>
+  <string name="fastboot_locked_answer_1">Fastboot is the traditional method to flash Mi devices. When the device is in Fastboot mode, all the data stored on it can be reached and erased directly. We lock Fastboot to make sure your data stays secure in case you lose the device, as well as to guarantee the reliability of Find device features.</string>
+  <string name="fastboot_locked_answer_2">"In case you lose your device, Fastboot guarantees the security of the items stored on it. If you unlock Fastboot, you will no longer be able to lock your device remotely or erase data using Find device. That's why we don't recommend unlocking Fastboot on your device."</string>
+  <string name="fastboot_locked_answer_3">"You should use the unlock tool from the MIUI website. To unlock the device, we need to make sure that the device belongs to you. That's why you should sign in with your Mi Account and turn on Find device."</string>
+  <string name="fastboot_locked_question_1">Why should Fastboot be locked?</string>
+  <string name="fastboot_locked_question_2">Are there any risks connected with unlocking Fastboot?</string>
+  <string name="fastboot_locked_question_3">I know about the risks, but I still need to unlock my device. What should I do?</string>
+  <string name="fastboot_status_locked_info">"Fastboot isn't unlocked on this device"</string>
+  <string name="fastboot_status_locked_summary">"Can't get root access"</string>
+  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+  <string name="fastboot_unlock_web_title">Go to the official MIUI website to get the unlock tool.</string>
   <string name="function_close">Off</string>
   <string name="game_booster">Game speed booster</string>
   <string name="game_booster_intro">About Game speed booster</string>
