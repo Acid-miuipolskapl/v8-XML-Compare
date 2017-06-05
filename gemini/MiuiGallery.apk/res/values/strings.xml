@@ -12,6 +12,8 @@
   <string name="APKTOOL_DUMMY_4e7">false</string>
   <string name="APKTOOL_DUMMY_4e8">false</string>
   <string name="APKTOOL_DUMMY_4e9">false</string>
+  <string name="APKTOOL_DUMMY_4ea">false</string>
+  <string name="APKTOOL_DUMMY_4eb">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>
@@ -53,7 +55,8 @@
   <string name="adjust_saturation">Saturation</string>
   <string name="adjust_sharpen">Sharpen</string>
   <string name="adjust_vignette">Vignette</string>
-  <string name="album_already_exists">An album with the same name already exists</string>
+  <string name="album_already_exists_check">View</string>
+  <string name="album_already_exists_msg">Album \"%s\" already exists</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">Camera</string>
   <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
@@ -973,7 +976,6 @@ Take more photos of your friends!"</string>
   <string name="picker_full_format">You can select up to %d photos</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
-  <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">You can select %d photos</string>

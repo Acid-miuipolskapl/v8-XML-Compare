@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_1d5">false</string>
+  <string name="APKTOOL_DUMMY_1d6">false</string>
+  <string name="APKTOOL_DUMMY_1d7">false</string>
+  <string name="APKTOOL_DUMMY_1d8">false</string>
+  <string name="APKTOOL_DUMMY_1d9">false</string>
+  <string name="APKTOOL_DUMMY_1da">false</string>
+  <string name="APKTOOL_DUMMY_1db">false</string>
+  <string name="APKTOOL_DUMMY_1dc">false</string>
+  <string name="APKTOOL_DUMMY_1dd">false</string>
   <string name="about_fraud_num_online_identification">About this feature</string>
   <string name="about_phone_event">About service messages</string>
   <string name="about_smart_antispam_summary">About this feature</string>
@@ -55,8 +64,6 @@
   <string name="data_error">An error occurred</string>
   <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
-  <string name="didi_back">Back</string>
-  <string name="didi_close">Close</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dont_enable">Turn off</string>
   <string name="download_completed">Download saved to %s</string>
@@ -143,12 +150,6 @@ Check your tracking number."</string>
   <string name="express_inquiry_status_return">Return</string>
   <string name="express_inquiry_status_sign_out">Rejected</string>
   <string name="express_inquiry_status_unknown">Unknown</string>
-  <string name="express_inquiry_trace">Track</string>
-  <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
-  <string name="express_inquiry_trace_success">Tracking</string>
-  <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
-  <string name="express_inquiry_untrace">"Don't track"</string>
-  <string name="express_inquiry_untrace_success">Stopped tracking</string>
   <string name="express_install_cainiao_description_1">Checking order details requires installing Cainiao. Install now?</string>
   <string name="express_install_cainiao_description_2">Checking delivery code requires installing Cainiao. Install now?</string>
   <string name="express_install_cainiao_description_3">Delivery services require installing Cainiao. Install now?</string>
@@ -223,7 +224,7 @@ Check your tracking number."</string>
   <string name="express_setting_verification_code_failed">"Couldn't send SMS"</string>
   <string name="express_setting_verification_code_hint">SMS code</string>
   <string name="express_setting_verification_code_success">Sent SMS code</string>
-  <string name="express_setting_verify_failed">"Couldn't verify failed"</string>
+  <string name="express_setting_verify_failed">"Couldn't verify"</string>
   <string name="express_setting_verify_success">Verified successfully</string>
   <string name="express_shortcut_name">Send or track express delivery</string>
   <string name="express_show_all_inquiry_history">Show all inquiry history</string>
@@ -437,16 +438,15 @@ Total: RMB %3$s"</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="smart_antispam">Caller ID</string>
   <string name="tag_follow_status">tag_follow_status</string>
   <string name="tag_follow_yp_id">tag_follow_yp_id</string>
-  <string name="title_activity_di_di_web">DiDi</string>
   <string name="toast_finish_delete_call_log">Call history deleted</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="try_again">Try again</string>
