@@ -69,7 +69,7 @@
   <string name="add_to_bookmark">Bookmarks</string>
   <string name="add_to_desk">Add to Home screen</string>
   <string name="add_to_desk_lite_mode_toast">"Can't add to Home screen in Lite mode"</string>
-  <string name="add_to_desk_success">Add to Home screen</string>
+  <string name="add_to_desk_success">Added to Home screen</string>
   <string name="add_to_quicklink">Start page</string>
   <string name="added_to_bookmarks">Added to bookmarks</string>
   <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
@@ -243,7 +243,7 @@
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
-  <string name="autoSwithcingSearchEngineTips">Switched to the search engine you use often</string>
+  <string name="autoSwithcingSearchEngineTips">Switched to the frequent search engine</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
@@ -662,8 +662,8 @@ Leave this page?"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel</string>
   <string name="navigationbar_rightbutton_actiontext_go">Go</string>
   <string name="navigationbar_rightbutton_actiontext_search">Search</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Connect to this network</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi network available</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
   <string name="new_folder_name_lable">Group name</string>
   <string name="next_button_label">Next</string>
   <string name="no_app_open_document">No app was found to handle this action</string>
@@ -680,7 +680,7 @@ Leave this page?"</string>
   <string name="older">Older</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"Can't open File Explorer"</string>
-  <string name="open_voice_permission">Open voice networking permission</string>
+  <string name="open_voice_permission">Allow the mic to connect to the internet</string>
   <string name="opening_file_error">Failed to open selected file</string>
   <string name="page_info">Page info</string>
   <string name="page_info_address">Address:</string>
@@ -705,10 +705,10 @@ Leave this page?"</string>
   <string name="pref_adblock_counts">%d blocked</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">Update using Wi-Fi</string>
-  <string name="pref_automatic_matching_searchengines_title">Switch to the search engine you use often</string>
+  <string name="pref_automatic_matching_searchengines_title">Switch to the frequent search engine</string>
   <string name="pref_category_hint">Category</string>
   <string name="pref_check_security_url_summary">"Send website URL to Mi's servers to check if it's secure"</string>
-  <string name="pref_check_security_url_summary_international">For providing a better referral service, allow the browser to get your access URL</string>
+  <string name="pref_check_security_url_summary_international">Allow Browser to access the URLs of the websites you visit to receive more relevant recommendations.</string>
   <string name="pref_check_security_url_title">Check URL security</string>
   <string name="pref_check_security_url_title_international">Get the URL</string>
   <string name="pref_clear_adblock_statistics">Clear Ad blocker history</string>
@@ -734,8 +734,8 @@ Leave this page?"</string>
   <string name="pref_enable_news">News</string>
   <string name="pref_enable_novels">Books</string>
   <string name="pref_enable_videos">Videos</string>
-  <string name="pref_extras_reset_default">Reset to defaults</string>
-  <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
+  <string name="pref_extras_reset_default">Restore defaults</string>
+  <string name="pref_extras_reset_default_dlg">Restore default settings?</string>
   <string name="pref_extras_reset_default_summary">Restore default settings</string>
   <string name="pref_extras_reset_default_title">Other</string>
   <string name="pref_extras_send_feedback">Send feedback</string>
@@ -885,7 +885,7 @@ Leave this page?"</string>
   <string name="save_to_camera">Save to Gallery</string>
   <string name="save_to_camera_failed">"Can't save image"</string>
   <string name="save_to_camera_success">Saved to Gallery</string>
-  <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
+  <string name="scanner_uninstalled_text">Install Scanner to continue</string>
   <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
   <string name="sdcard_error">Check your SD card</string>
   <string name="search">Search</string>
@@ -921,17 +921,17 @@ Leave this page?"</string>
   <string name="send_comment_title">Comment</string>
   <string name="senddesktop">Home screen</string>
   <string name="sendstartpage">Start page</string>
-  <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
-  <string name="share_page_text">"I'm enjoying %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">To improve your browsers security and receive relevant recommendations, allow Browser to access these items:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">To receive relevant recommendations, allow Browser to access these items:</string>
+  <string name="share_image_text">Look what I found!</string>
+  <string name="share_page_text">Look what I found: %1$s | %2$s</string>
+  <string name="show_check_security_url_check_tip_dialog_description">To improve security and receive more relevant recommendations, allow Browser to access these items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">To receive more relevant recommendations, allow Browser to access these items:</string>
   <string name="show_security_tip_dialog_title">Terms of Service</string>
-  <string name="show_weather_location_getter_tip_dialog_description">For the safety of your site and for providing location-based information referrals service and weather service, the browser needs to get the following information:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">To improve security and receive more relevant recommendations and weather info specific to your location, allow Browser to access these items:</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>
-  <string name="snapshot_failed">"Couldn't save for offline reading"</string>
-  <string name="snapshot_successed">Save for offline reading</string>
+  <string name="snapshot_failed">"Couldn't save page"</string>
+  <string name="snapshot_successed">Saved page successfully</string>
   <string name="ssl_bad_clock_date_settings">Set date</string>
   <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
   <string name="ssl_certificate">Security certificate</string>
@@ -1071,11 +1071,11 @@ Leave this page?"</string>
   <string name="video_unknown_duration">Unknown duration</string>
   <string name="view_certificate">View certificate</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
-  <string name="voice_check_network">Please check the network and try again</string>
-  <string name="voice_connect_network">Unable to connect to network</string>
-  <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
-  <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
-  <string name="voice_semantic_analysis">Semantic analysis after networking</string>
+  <string name="voice_check_network">Check your network settings and try again.</string>
+  <string name="voice_connect_network">"Couldn't connect to the network."</string>
+  <string name="voice_network_connection">Voice search requires to connect to the internet to work normally.</string>
+  <string name="voice_search_permission">Voice search needs to access your mic to work normally.</string>
+  <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">Processing…</string>

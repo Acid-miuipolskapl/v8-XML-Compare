@@ -660,6 +660,7 @@ Using preferred network instead."</string>
   <string name="new_pin2_label">New PIN2</string>
   <string name="new_pin_label">New PIN</string>
   <string name="no_change">No changes were made.</string>
+  <string name="no_checked_network">"You won't be able to connect to mobile network and make calls. Select another network?"</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
