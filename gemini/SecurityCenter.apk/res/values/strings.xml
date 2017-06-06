@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_8a8">false</string>
-  <string name="APKTOOL_DUMMY_8a9">false</string>
   <string name="APKTOOL_DUMMY_8aa">false</string>
   <string name="APKTOOL_DUMMY_8ab">false</string>
   <string name="APKTOOL_DUMMY_8ac">false</string>
@@ -63,9 +61,9 @@
   <string name="APKTOOL_DUMMY_8e4">false</string>
   <string name="APKTOOL_DUMMY_8e5">false</string>
   <string name="APKTOOL_DUMMY_8e6">false</string>
-  <string name="APKTOOL_DUMMY_952">false</string>
-  <string name="APKTOOL_DUMMY_966">false</string>
-  <string name="APKTOOL_DUMMY_967">false</string>
+  <string name="APKTOOL_DUMMY_8e7">false</string>
+  <string name="APKTOOL_DUMMY_8e8">false</string>
+  <string name="APKTOOL_DUMMY_954">false</string>
   <string name="APKTOOL_DUMMY_968">false</string>
   <string name="APKTOOL_DUMMY_969">false</string>
   <string name="APKTOOL_DUMMY_96a">false</string>
@@ -240,6 +238,8 @@
   <string name="APKTOOL_DUMMY_a13">false</string>
   <string name="APKTOOL_DUMMY_a14">false</string>
   <string name="APKTOOL_DUMMY_a15">false</string>
+  <string name="APKTOOL_DUMMY_a16">false</string>
+  <string name="APKTOOL_DUMMY_a17">false</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
@@ -411,6 +411,7 @@ or enter App lock password"</string>
   <string name="app_manager_force_stop_dlg_title">Force stop?</string>
   <string name="app_manager_go_to_manger_app">Manage</string>
   <string name="app_manager_have_not_consume">None</string>
+  <string name="app_manager_instruction">Instruction</string>
   <string name="app_manager_loading_data">Loading data…</string>
   <string name="app_manager_manage_space">Manage space</string>
   <string name="app_manager_menu_clear_data">Clear data</string>
@@ -446,6 +447,7 @@ or enter App lock password"</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
   <string name="app_manager_reject_count_over">Blocked 100000+ times</string>
   <string name="app_manager_show_detail_infos">View all</string>
+  <string name="app_manager_sort">Sort by</string>
   <string name="app_manager_start_by">Started by %s</string>
   <string name="app_manager_start_count_over">100000+ times</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Uninstall %s to restrict chain start?</string>
