@@ -110,10 +110,10 @@
   <string name="err_version_too_old">Backup file is too old.</string>
   <string name="err_version_unsupported">"Backup version isn't supported."</string>
   <string name="every_day">Every day</string>
-  <string name="exchange_account">Switch account</string>
+  <string name="exchange_account">Switch accounts</string>
   <string name="fail">Failed</string>
   <string name="feature_title_account">Mi Account</string>
-  <string name="feature_title_antispam">AntiSpam</string>
+  <string name="feature_title_antispam">Blocklist</string>
   <string name="feature_title_call_log">Call history</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Uploading…</string>

@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_17e">false</string>
-  <string name="APKTOOL_DUMMY_17f">false</string>
-  <string name="APKTOOL_DUMMY_180">false</string>
   <string name="APKTOOL_DUMMY_181">false</string>
   <string name="APKTOOL_DUMMY_182">false</string>
   <string name="APKTOOL_DUMMY_183">false</string>
@@ -13,6 +10,10 @@
   <string name="APKTOOL_DUMMY_188">false</string>
   <string name="APKTOOL_DUMMY_189">false</string>
   <string name="APKTOOL_DUMMY_18a">false</string>
+  <string name="APKTOOL_DUMMY_18b">false</string>
+  <string name="APKTOOL_DUMMY_18c">false</string>
+  <string name="APKTOOL_DUMMY_18d">false</string>
+  <string name="APKTOOL_DUMMY_18e">false</string>
   <string name="APKTOOL_DUMMY_18f">false</string>
   <string name="APKTOOL_DUMMY_190">false</string>
   <string name="APKTOOL_DUMMY_191">false</string>
@@ -41,6 +42,7 @@
   <string name="APKTOOL_DUMMY_1a8">false</string>
   <string name="APKTOOL_DUMMY_1a9">false</string>
   <string name="APKTOOL_DUMMY_1aa">false</string>
+  <string name="APKTOOL_DUMMY_1ab">false</string>
   <string name="APKTOOL_DUMMY_1ac">false</string>
   <string name="APKTOOL_DUMMY_1ad">false</string>
   <string name="APKTOOL_DUMMY_1ae">false</string>
@@ -333,6 +335,8 @@
   <string name="APKTOOL_DUMMY_2cd">false</string>
   <string name="APKTOOL_DUMMY_2ce">false</string>
   <string name="APKTOOL_DUMMY_2cf">false</string>
+  <string name="APKTOOL_DUMMY_2d0">false</string>
+  <string name="APKTOOL_DUMMY_2d1">false</string>
   <string name="about_device_info">View device details</string>
   <string name="access_token_expired_warning">Weibo Account has expired</string>
   <string name="access_token_invalid_warning">Weibo Account is invalid</string>
@@ -410,12 +414,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">All set</string>
   <string name="confirm_activate_email">Verified</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
   <string name="confirm_delete_app_message">"After deleting this app, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
   <string name="confirm_delete_browser_message">"After deleting this browser, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
   <string name="confirm_delete_device_message">"After deleting this device, you'll have to verify your phone number next time you sign in to your Mi Account on it."</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
   <string name="confirm_unbind">Disconnect this account?</string>
+  <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
   <string name="continue_action">Continue</string>
   <string name="cta_declaration_agree_and_continue">Agree</string>
   <string name="cta_declaration_exit">Exit</string>
@@ -464,6 +470,7 @@
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
+  <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="guest_account_label">Mi Guest Account</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>

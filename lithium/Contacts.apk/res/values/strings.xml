@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_4c9">false</string>
-  <string name="APKTOOL_DUMMY_4ca">false</string>
-  <string name="APKTOOL_DUMMY_4cb">false</string>
-  <string name="APKTOOL_DUMMY_4cc">false</string>
-  <string name="APKTOOL_DUMMY_4cd">false</string>
-  <string name="APKTOOL_DUMMY_4ce">false</string>
-  <string name="APKTOOL_DUMMY_4cf">false</string>
-  <string name="APKTOOL_DUMMY_4d0">false</string>
-  <string name="APKTOOL_DUMMY_4d1">false</string>
-  <string name="APKTOOL_DUMMY_4d2">false</string>
-  <string name="APKTOOL_DUMMY_4d3">false</string>
-  <string name="APKTOOL_DUMMY_4d4">false</string>
-  <string name="APKTOOL_DUMMY_4d5">false</string>
   <string name="APKTOOL_DUMMY_4d6">false</string>
   <string name="APKTOOL_DUMMY_4d7">false</string>
   <string name="APKTOOL_DUMMY_4d8">false</string>
@@ -28,7 +15,21 @@
   <string name="APKTOOL_DUMMY_4e2">false</string>
   <string name="APKTOOL_DUMMY_4e3">false</string>
   <string name="APKTOOL_DUMMY_4e4">false</string>
+  <string name="APKTOOL_DUMMY_4e5">false</string>
+  <string name="APKTOOL_DUMMY_4e6">false</string>
+  <string name="APKTOOL_DUMMY_4e7">false</string>
+  <string name="APKTOOL_DUMMY_4e8">false</string>
+  <string name="APKTOOL_DUMMY_4e9">false</string>
+  <string name="APKTOOL_DUMMY_4ea">false</string>
+  <string name="APKTOOL_DUMMY_4eb">false</string>
+  <string name="APKTOOL_DUMMY_4ec">false</string>
+  <string name="APKTOOL_DUMMY_4ed">false</string>
+  <string name="APKTOOL_DUMMY_4ee">false</string>
+  <string name="APKTOOL_DUMMY_4ef">false</string>
+  <string name="APKTOOL_DUMMY_4f0">false</string>
+  <string name="APKTOOL_DUMMY_4f1">false</string>
   <string name="accessibility_calllog_detail">Call history details</string>
+  <string name="accessibility_contact_detail">Contact detail</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
   <string name="account_phone">Phone-only, unsynced</string>
@@ -115,7 +116,9 @@
   <string name="call_radio">Call radio</string>
   <string name="call_record_setting_miui">Record settings</string>
   <string name="call_settings">Settings</string>
+  <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Dial on SIM 1</string>
+  <string name="call_sim2_description">SIM 2</string>
   <string name="call_sim2_menu_title">Dial on SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primary)</string>
   <string name="call_telex">Call telex</string>
@@ -196,7 +199,7 @@
   <string name="clearFrequentsProgress_title">Clearing frequently contacted…</string>
   <string name="clear_copy_number_description">Clear copied number</string>
   <string name="clear_default">Clear default</string>
-  <string name="clear_digits">Clear phone number</string>
+  <string name="clear_digits">Delete phone number</string>
   <string name="click_close">Tap to close</string>
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad_description">Close dial pad</string>
@@ -235,7 +238,8 @@
   <string name="contactPickerActivityTitle">Choose a contact</string>
   <string name="contactSavedErrorToast">"Couldn't save contact changes"</string>
   <string name="contactSavedToast">Contact saved</string>
-  <string name="contact_delete_toast">Contact deleted</string>
+  <string name="contact_clear_search_history">Clear history</string>
+  <string name="contact_delete_toast">Deleted contact successfully</string>
   <string name="contact_detail_action_item_calllog">Call history</string>
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
@@ -279,6 +283,7 @@ Contact cards are turned off"</string>
   <string name="contact_list_loading">Loading…</string>
   <string name="contact_pick_photo">Photo</string>
   <string name="contact_read_only">Not editable from this app.</string>
+  <string name="contact_search_history">History</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Removed from favorites</string>
@@ -291,7 +296,7 @@ Contact cards are turned off"</string>
   <string name="contacts_setting_title">Contact settings</string>
   <string name="contacts_unavailable_add_account">Sign in to an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
-  <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
+  <string name="contacts_unavailable_import_contacts">Import from a file</string>
   <string name="convenient_service">Services</string>
   <string name="copy_number">Copy</string>
   <string name="copy_text">Copy to clipboard</string>
@@ -332,7 +337,10 @@ Contact cards are turned off"</string>
   <string name="description_add_contact">Add contact</string>
   <string name="description_call">Call %1$s</string>
   <string name="description_call_log_incoming_call">Incoming call</string>
+  <string name="description_call_log_incoming_forwarding_call">Incoming forwrading call</string>
   <string name="description_call_log_missed_call">Missed call</string>
+  <string name="description_call_log_missed_forwarding_call">Missed forwarding call</string>
+  <string name="description_call_log_new_contact">New contact</string>
   <string name="description_call_log_outgoing_call">Outgoing call</string>
   <string name="description_call_log_play_button">Play voicemail</string>
   <string name="description_call_log_unheard_voicemail">Unheard voicemail</string>
@@ -741,6 +749,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Enter nickname</string>
   <string name="miprofile_nick_name_edit_dialog_message">Nickname will appear in call history and profile info</string>
   <string name="miprofile_nick_name_edit_dialog_title">Edit nickname</string>
+  <string name="miprofile_notice_close">Close</string>
   <string name="miprofile_notice_text">"Tap to view contact's profile photo"</string>
   <string name="miprofile_request_agenda_date">This person wants to exchange cards [%1$s]</string>
   <string name="miprofile_request_agenda_today">This person wants to exchange cards [Today %1$s]</string>
@@ -1018,7 +1027,10 @@ To add a contact to your list of favorites:
   <string name="preview_incall_show_entry">Preview video</string>
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
+  <string name="profileSavedErrorToast">"Couldn't save my profile changes"</string>
+  <string name="profileSavedToast">Profile saved</string>
   <string name="profile_binded_numbers">%s</string>
+  <string name="profile_delete_toast">Deleted profile successfully</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Photo</string>

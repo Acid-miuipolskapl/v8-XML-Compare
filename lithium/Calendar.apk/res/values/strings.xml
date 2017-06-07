@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_238">false</string>
-  <string name="APKTOOL_DUMMY_239">false</string>
-  <string name="APKTOOL_DUMMY_275">false</string>
-  <string name="APKTOOL_DUMMY_276">false</string>
-  <string name="APKTOOL_DUMMY_277">false</string>
+  <string name="APKTOOL_DUMMY_23b">false</string>
+  <string name="APKTOOL_DUMMY_23c">false</string>
   <string name="APKTOOL_DUMMY_278">false</string>
   <string name="APKTOOL_DUMMY_279">false</string>
   <string name="APKTOOL_DUMMY_27a">false</string>
@@ -63,6 +60,9 @@
   <string name="APKTOOL_DUMMY_2af">false</string>
   <string name="APKTOOL_DUMMY_2b0">false</string>
   <string name="APKTOOL_DUMMY_2b1">false</string>
+  <string name="APKTOOL_DUMMY_2b2">false</string>
+  <string name="APKTOOL_DUMMY_2b3">false</string>
+  <string name="APKTOOL_DUMMY_2b4">false</string>
   <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
   <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
@@ -299,7 +299,7 @@
   <string name="from_google_group_calendar">Google calendar</string>
   <string name="gadget_no_events">No upcoming calendar events</string>
   <string name="gadget_title">Calendar</string>
-  <string name="global_action_text_card_manager">A more interesting calendar</string>
+  <string name="global_action_text_card_manager">More Categories</string>
   <string name="global_cricket_no_match">There is no cricket competition today, and you may review the highlights of the past competitions or try another match. Wonderful event, worth the wait!</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Import birthdays from contacts</string>
@@ -328,6 +328,8 @@
   <string name="insert_event_dialog_title">Attention</string>
   <string name="insert_event_toast_add_failed">"Couldn't add"</string>
   <string name="insert_event_toast_add_success">Event created</string>
+  <string name="install_weather_app_error">应用加载失败.</string>
+  <string name="install_weather_app_loading">加载中...</string>
   <string name="item_num_selected">%1$d selected</string>
   <string name="joke_card_click_toast">长按可复制笑话</string>
   <string name="joke_card_icon_text">%1$s人笑过</string>
@@ -374,6 +376,7 @@
   <string name="menu_preferences">Settings</string>
   <string name="menu_reminder_preferences">Reminders</string>
   <string name="missing_name">(No name)</string>
+  <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>
   <string name="modify_event">Change only this event</string>
@@ -625,7 +628,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="weekly">Weekly (every %s)</string>
   <string name="when_label">When</string>
   <string name="widget_events">Next event</string>
-  <string name="widget_get_weather_info">Get weather info &gt;</string>
+  <string name="widget_get_weather_info">Get weather info</string>
   <string name="widget_no_events">No events</string>
   <string name="widget_select_style">Choose a style</string>
   <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
