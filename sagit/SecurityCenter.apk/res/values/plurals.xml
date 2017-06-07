@@ -74,7 +74,7 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">In %1$d minutes</item>
-        <item quantity="one">In %1$d min</item>
+        <item quantity="one">In %1$d minute</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">Resolved %d battery issues</item>
@@ -169,9 +169,21 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"%d apps don't have root access"</item>
         <item quantity="one">"%d app doesn't have root access"</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d exceptions</item>
+        <item quantity="one">%d exception</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
+        <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Updates available for %d apps.</item>
         <item quantity="one">Update available for %d app.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d days since last check-up</item>
+        <item quantity="one">%d day since last check-up</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risks,</item>
@@ -290,12 +302,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"Haven't used for %d years"</item>
         <item quantity="one">"Haven't used for %d year"</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_4a">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_4b">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_4c">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_4d">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_4e">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_4f">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_50">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_51">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_52">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_53">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_54">false</item>
 </resources>

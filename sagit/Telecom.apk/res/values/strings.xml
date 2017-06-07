@@ -116,7 +116,7 @@
   <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
   <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_wfa">Connected via WLAN assistant</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
@@ -214,7 +214,7 @@
   <string name="managed_user_title">All work apps</string>
   <string name="media_category">Media</string>
   <string name="mobile_data_always_on">Cellular data always active</string>
-  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
+  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
   <string name="mock_location_app">Select mock location app</string>
   <string name="mock_location_app_not_set">No mock location app set</string>
   <string name="mock_location_app_set">Mock location app: %1$s</string>
@@ -373,10 +373,10 @@
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
-  <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
-  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-  <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
+  <string name="wifi_aggressive_handover">Aggressive WLAN to Cellular handover</string>
+  <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
+  <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_auth_password_wrong">Password may be incorrect</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
@@ -409,7 +409,7 @@
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+  <string name="wifi_verbose_logging">Enable WLAN Verbose Logging</string>
+  <string name="wifi_verbose_logging_summary">Increase WLAN logging level, show per SSID RSSI in WLAN Picker</string>
   <string name="window_animation_scale_title">Window animation scale</string>
 </resources>

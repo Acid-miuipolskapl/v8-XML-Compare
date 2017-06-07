@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name=" hide_error_from_network_text">Unable to Process Request</string>
-  <string name="APKTOOL_DUMMY_687">false</string>
-  <string name="APKTOOL_DUMMY_688">false</string>
-  <string name="APKTOOL_DUMMY_689">false</string>
+  <string name="APKTOOL_DUMMY_683">false</string>
+  <string name="APKTOOL_DUMMY_684">false</string>
   <string name="APKTOOL_DUMMY_68a">false</string>
   <string name="APKTOOL_DUMMY_68b">false</string>
   <string name="APKTOOL_DUMMY_68c">false</string>
@@ -14,18 +13,18 @@
   <string name="APKTOOL_DUMMY_691">false</string>
   <string name="APKTOOL_DUMMY_692">false</string>
   <string name="APKTOOL_DUMMY_693">false</string>
-  <string name="APKTOOL_DUMMY_6a1">false</string>
+  <string name="APKTOOL_DUMMY_694">false</string>
   <string name="APKTOOL_DUMMY_6a2">false</string>
   <string name="APKTOOL_DUMMY_6a3">false</string>
-  <string name="APKTOOL_DUMMY_6a5">false</string>
-  <string name="APKTOOL_DUMMY_6b1">false</string>
+  <string name="APKTOOL_DUMMY_6a4">false</string>
+  <string name="APKTOOL_DUMMY_6a6">false</string>
   <string name="APKTOOL_DUMMY_6b2">false</string>
-  <string name="APKTOOL_DUMMY_6b9">false</string>
+  <string name="APKTOOL_DUMMY_6b3">false</string>
   <string name="APKTOOL_DUMMY_6ba">false</string>
-  <string name="APKTOOL_DUMMY_6e9">false</string>
+  <string name="APKTOOL_DUMMY_6bb">false</string>
   <string name="APKTOOL_DUMMY_6ea">false</string>
   <string name="APKTOOL_DUMMY_6eb">false</string>
-  <string name="APKTOOL_DUMMY_6f3">false</string>
+  <string name="APKTOOL_DUMMY_6ec">false</string>
   <string name="APKTOOL_DUMMY_6f4">false</string>
   <string name="APKTOOL_DUMMY_6f5">false</string>
   <string name="APKTOOL_DUMMY_6f6">false</string>
@@ -33,7 +32,7 @@
   <string name="APKTOOL_DUMMY_6f8">false</string>
   <string name="APKTOOL_DUMMY_6f9">false</string>
   <string name="APKTOOL_DUMMY_6fa">false</string>
-  <string name="APKTOOL_DUMMY_70c">false</string>
+  <string name="APKTOOL_DUMMY_6fb">false</string>
   <string name="APKTOOL_DUMMY_70d">false</string>
   <string name="APKTOOL_DUMMY_70e">false</string>
   <string name="APKTOOL_DUMMY_70f">false</string>
@@ -41,7 +40,7 @@
   <string name="APKTOOL_DUMMY_711">false</string>
   <string name="APKTOOL_DUMMY_712">false</string>
   <string name="APKTOOL_DUMMY_713">false</string>
-  <string name="APKTOOL_DUMMY_718">false</string>
+  <string name="APKTOOL_DUMMY_714">false</string>
   <string name="APKTOOL_DUMMY_719">false</string>
   <string name="APKTOOL_DUMMY_71a">false</string>
   <string name="APKTOOL_DUMMY_71b">false</string>
@@ -52,8 +51,8 @@
   <string name="APKTOOL_DUMMY_720">false</string>
   <string name="APKTOOL_DUMMY_721">false</string>
   <string name="APKTOOL_DUMMY_722">false</string>
-  <string name="APKTOOL_DUMMY_725">false</string>
-  <string name="APKTOOL_DUMMY_72d">false</string>
+  <string name="APKTOOL_DUMMY_723">false</string>
+  <string name="APKTOOL_DUMMY_726">false</string>
   <string name="APKTOOL_DUMMY_72e">false</string>
   <string name="APKTOOL_DUMMY_72f">false</string>
   <string name="APKTOOL_DUMMY_730">false</string>
@@ -71,10 +70,10 @@
   <string name="APKTOOL_DUMMY_73c">false</string>
   <string name="APKTOOL_DUMMY_73d">false</string>
   <string name="APKTOOL_DUMMY_73e">false</string>
-  <string name="APKTOOL_DUMMY_747">false</string>
+  <string name="APKTOOL_DUMMY_73f">false</string>
   <string name="APKTOOL_DUMMY_748">false</string>
   <string name="APKTOOL_DUMMY_749">false</string>
-  <string name="APKTOOL_DUMMY_765">false</string>
+  <string name="APKTOOL_DUMMY_74a">false</string>
   <string name="APKTOOL_DUMMY_766">false</string>
   <string name="APKTOOL_DUMMY_767">false</string>
   <string name="APKTOOL_DUMMY_768">false</string>
@@ -92,6 +91,7 @@
   <string name="APKTOOL_DUMMY_774">false</string>
   <string name="APKTOOL_DUMMY_775">false</string>
   <string name="APKTOOL_DUMMY_776">false</string>
+  <string name="APKTOOL_DUMMY_777">false</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM corporate unlock PIN</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Requesting RUIM corporate unlock…</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK unlock unsuccessful.</string>
@@ -229,7 +229,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Headset only</string>
   <string name="auto_answer_scenario_title">Auto-answer settings</string>
   <string name="auto_answer_setting_title">Auto-answer settings</string>
-  <string name="auto_answer_summary_delay">delay: %s seconds</string>
   <string name="auto_answer_summary_not_enabled">Off</string>
   <string name="auto_record_yellowpage">Directory</string>
   <string name="auto_redial_pref_summary">Redial automatically if the line is busy</string>
@@ -426,8 +425,6 @@
   <string name="call_record_auto_unknown_number">Unknown numbers</string>
   <string name="call_record_auto_whitelist">Custom list</string>
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
-  <string name="call_record_auto_whitelist_summary">%d numbers</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
   <string name="call_record_loading_content">Loading…</string>
   <string name="call_record_off_summary">Off</string>
   <string name="call_record_on_summary">On</string>
@@ -441,7 +438,6 @@
   <string name="call_recording_notification_title_error">"Couldn't record call"</string>
   <string name="call_recording_notification_toggle_title">Call recording notification</string>
   <string name="call_recording_setting">Call recording</string>
-  <string name="call_remove_exception_numbers_confirm">%d numbers will be deleted.</string>
   <string name="call_settings">Call settings</string>
   <string name="call_settings_admin_user_only">Call settings can only be changed by the admin user.</string>
   <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
@@ -573,7 +569,7 @@
   <string name="connect_disconnect_vibrate_weak">Light</string>
   <string name="connect_later">"Can't connect to this network right now. Try again later."</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_wfa">Connected via WLAN assistant</string>
   <string name="connection_service_default_label">Built-in connection service</string>
   <string name="contactAddFailed">"Can't add contact to SIM."</string>
   <string name="contactAddSuccess">Added contact to SIM.</string>
@@ -983,7 +979,7 @@ Switch to the new provider anyway?"</string>
   <string name="mmiCancelled">MMI code canceled</string>
   <string name="mmiStarted">MMI code started</string>
   <string name="mobile_data_always_on">Cellular data always active</string>
-  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
+  <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
   <string name="mobile_network_settings_not_available">Cellular network settings are not available for this user</string>
   <string name="mobile_networks">Cellular network settings</string>
   <string name="mock_location_app">Select mock location app</string>
@@ -1064,6 +1060,7 @@ Using preferred network instead."</string>
   <string name="new_pin_label">New PIN</string>
   <string name="no_application">Nothing</string>
   <string name="no_change">No changes were made.</string>
+  <string name="no_checked_network">"You won't be able to connect to mobile network and make calls. Select another network?"</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
   <string name="no_mobile_data">Mobile data is not available</string>
   <string name="no_mobile_data_roaming">Data roaming is not available</string>
@@ -1207,8 +1204,6 @@ You have %d remaining attempts."</string>
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
   <string name="pin2_unblocked">PIN2 no longer blocked</string>
-  <string name="pin_attempts">"
-%d attempts remaining."</string>
   <string name="pin_changed">PIN updated</string>
   <string name="pin_failed">PIN incorrect</string>
   <string name="pin_lock_warning">"
@@ -1737,10 +1732,10 @@ Contact your carrier if this problem persists."</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
-  <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
-  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-  <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
+  <string name="wifi_aggressive_handover">Aggressive WLAN to Cellular handover</string>
+  <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
+  <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_auth_password_wrong">Password may be incorrect</string>
   <string name="wifi_calling">WLAN calling</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
@@ -1775,8 +1770,8 @@ Contact your carrier if this problem persists."</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+  <string name="wifi_verbose_logging">Enable WLAN Verbose Logging</string>
+  <string name="wifi_verbose_logging_summary">Increase WLAN logging level, show per SSID RSSI in WLAN Picker</string>
   <string name="wild_prompt_str">Replace wild character with</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="wrong_password">The password you entered is incorrect</string>

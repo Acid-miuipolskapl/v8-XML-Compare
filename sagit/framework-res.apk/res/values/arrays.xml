@@ -374,9 +374,9 @@
         <item>2</item>
         <item>3</item>
         <item>3</item>
-        <item>20</item>
-        <item>20</item>
-        <item>20</item>
+        <item>6</item>
+        <item>11</item>
+        <item>14</item>
         <item>20</item>
         <item>31</item>
         <item>39</item>
@@ -573,6 +573,7 @@
         <item>0x000004A6</item>
     </integer-array>
     <array name="panelview_flingboost_param_value" />
+    <array name="mtpboost_param_value" />
     <string-array name="config_defaultPinnerServiceFiles">
         <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
         <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
@@ -971,6 +972,7 @@
         <item>ko-KP</item>
         <item>ko-KR</item>
         <item>kok-IN</item>
+        <item>ks-IN</item>
         <item>ksb-TZ</item>
         <item>ksf-CM</item>
         <item>ksh-DE</item>

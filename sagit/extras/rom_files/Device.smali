@@ -56,6 +56,8 @@
 
 .field public static final IS_D4:Z
 
+.field public static final IS_D5:Z
+
 .field public static final IS_H2XLTE:Z
 
 .field public static final IS_H2X_LC:Z
@@ -589,6 +591,16 @@
     move-result v0
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_D4:Z
+
+    const-string/jumbo v0, "chiron"
+
+    sget-object v2, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_D5:Z
 
     const-string/jumbo v0, "is_hongmi"
 
