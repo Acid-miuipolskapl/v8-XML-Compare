@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_1ee">false</string>
-  <string name="APKTOOL_DUMMY_1ef">false</string>
   <string name="APKTOOL_DUMMY_1f0">false</string>
   <string name="APKTOOL_DUMMY_1f1">false</string>
   <string name="APKTOOL_DUMMY_1f2">false</string>
@@ -24,6 +22,8 @@
   <string name="APKTOOL_DUMMY_203">false</string>
   <string name="APKTOOL_DUMMY_204">false</string>
   <string name="APKTOOL_DUMMY_205">false</string>
+  <string name="APKTOOL_DUMMY_206">false</string>
+  <string name="APKTOOL_DUMMY_207">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
@@ -163,6 +163,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Buy Mi Cloud membership</string>
+  <string name="micloud_buy_member_safe">Buy Mi Cloud membership</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
@@ -381,6 +382,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
   <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sync only on Contacts, Calendar and Notes, to Sync more items go to Mi Cloud setting.</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
@@ -465,12 +467,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="share_weibo_not_installed">Weibo is not installed.</string>
   <string name="share_weixin_not_installed">WeChat is not installed.</string>
   <string name="short_cut_desc">Add Mi Cloud icon to Home screen?</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="sms">Messages</string>
   <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
