@@ -258,8 +258,6 @@
   <string name="APKTOOL_DUMMY_355">false</string>
   <string name="APKTOOL_DUMMY_356">false</string>
   <string name="APKTOOL_DUMMY_357">false</string>
-  <string name="APKTOOL_DUMMY_358">false</string>
-  <string name="APKTOOL_DUMMY_359">false</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
