@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_1f0">false</string>
+  <string name="APKTOOL_DUMMY_1f1">false</string>
+  <string name="APKTOOL_DUMMY_1f2">false</string>
+  <string name="APKTOOL_DUMMY_1f3">false</string>
+  <string name="APKTOOL_DUMMY_1f4">false</string>
+  <string name="APKTOOL_DUMMY_1f5">false</string>
+  <string name="APKTOOL_DUMMY_1f6">false</string>
+  <string name="APKTOOL_DUMMY_1f7">false</string>
+  <string name="APKTOOL_DUMMY_1f8">false</string>
+  <string name="APKTOOL_DUMMY_1f9">false</string>
+  <string name="APKTOOL_DUMMY_1fa">false</string>
+  <string name="APKTOOL_DUMMY_1fb">false</string>
+  <string name="APKTOOL_DUMMY_1fc">false</string>
+  <string name="APKTOOL_DUMMY_1fd">false</string>
+  <string name="APKTOOL_DUMMY_1fe">false</string>
+  <string name="APKTOOL_DUMMY_1ff">false</string>
+  <string name="APKTOOL_DUMMY_200">false</string>
+  <string name="APKTOOL_DUMMY_201">false</string>
+  <string name="APKTOOL_DUMMY_202">false</string>
+  <string name="APKTOOL_DUMMY_203">false</string>
+  <string name="APKTOOL_DUMMY_204">false</string>
+  <string name="APKTOOL_DUMMY_205">false</string>
+  <string name="APKTOOL_DUMMY_206">false</string>
+  <string name="APKTOOL_DUMMY_207">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
@@ -139,6 +163,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Buy Mi Cloud membership</string>
+  <string name="micloud_buy_member_safe">Buy Mi Cloud membership</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
@@ -185,7 +210,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">Sync now</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
-  <string name="micloud_detail_need_charge">Connect charger to resume syncing</string>
+  <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to resume syncing</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
@@ -270,6 +295,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_need_charge">Charge your device</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Charge your device and turn off screen</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
@@ -356,6 +382,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
   <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sync only on Contacts, Calendar and Notes, to Sync more items go to Mi Cloud setting.</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
@@ -440,12 +467,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="share_weibo_not_installed">Weibo is not installed.</string>
   <string name="share_weixin_not_installed">WeChat is not installed.</string>
   <string name="short_cut_desc">Add Mi Cloud icon to Home screen?</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="sms">Messages</string>
   <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>

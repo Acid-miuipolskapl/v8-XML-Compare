@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_233">false</string>
+  <string name="APKTOOL_DUMMY_234">false</string>
+  <string name="APKTOOL_DUMMY_235">false</string>
+  <string name="APKTOOL_DUMMY_236">false</string>
+  <string name="APKTOOL_DUMMY_237">false</string>
+  <string name="APKTOOL_DUMMY_238">false</string>
+  <string name="APKTOOL_DUMMY_239">false</string>
+  <string name="APKTOOL_DUMMY_23a">false</string>
+  <string name="APKTOOL_DUMMY_23b">false</string>
+  <string name="APKTOOL_DUMMY_23c">false</string>
+  <string name="APKTOOL_DUMMY_23d">false</string>
+  <string name="APKTOOL_DUMMY_23e">false</string>
+  <string name="APKTOOL_DUMMY_23f">false</string>
+  <string name="APKTOOL_DUMMY_240">false</string>
+  <string name="APKTOOL_DUMMY_241">false</string>
+  <string name="APKTOOL_DUMMY_242">false</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
@@ -212,12 +228,6 @@
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Empty</string>
   <string name="hints_header_left">%d</string>
-  <string name="hints_install_apps_else">Used %s</string>
-  <string name="hints_install_apps_interval">Used %d days ago</string>
-  <string name="hints_install_apps_new">Never opened</string>
-  <string name="hints_install_apps_risk">Risk detected</string>
-  <string name="hints_install_apps_today">Used today</string>
-  <string name="hints_install_apps_virus">Virus detected</string>
   <string name="hints_installed_app_fewer">Rarely used</string>
   <string name="hints_installed_app_near">Used recently</string>
   <string name="hints_installed_app_never">Never used</string>

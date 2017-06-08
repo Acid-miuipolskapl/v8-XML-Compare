@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_111">false</string>
+  <string name="APKTOOL_DUMMY_112">false</string>
+  <string name="APKTOOL_DUMMY_113">false</string>
+  <string name="APKTOOL_DUMMY_114">false</string>
+  <string name="APKTOOL_DUMMY_115">false</string>
+  <string name="APKTOOL_DUMMY_116">false</string>
+  <string name="APKTOOL_DUMMY_117">false</string>
+  <string name="APKTOOL_DUMMY_118">false</string>
+  <string name="APKTOOL_DUMMY_119">false</string>
+  <string name="APKTOOL_DUMMY_11a">false</string>
+  <string name="APKTOOL_DUMMY_11b">false</string>
+  <string name="APKTOOL_DUMMY_11c">false</string>
+  <string name="APKTOOL_DUMMY_11d">false</string>
+  <string name="APKTOOL_DUMMY_11e">false</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>
@@ -65,7 +79,6 @@
   <string name="delete">Delete</string>
   <string name="delete_screen">Delete screen</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
-  <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
   <string name="deselect_all">Deselect all</string>
   <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
   <string name="download_action">Download</string>
@@ -75,7 +88,6 @@
   <string name="edit_folder_title">Edit folder name</string>
   <string name="editing_add_widget_tips">Edit widgets</string>
   <string name="editing_mode_enter_tip_text">Pinch to edit Home screen</string>
-  <string name="editing_mode_title">%1$d selected</string>
   <string name="editing_mode_title_empty">0 selected</string>
   <string name="editing_set_screen_layout_cells">Choose screen layout effect</string>
   <string name="editing_set_transition_effect_tips">Choose screen transition effect</string>
@@ -220,7 +232,6 @@
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
   <string name="screen_locked_toast">Home screen layout is locked</string>
   <string name="screen_number">%d screen</string>
-  <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
@@ -256,12 +267,8 @@
   <string name="uninstall">Uninstall</string>
   <string name="uninstall_dialog_message">Uninstalling will remove all app data.</string>
   <string name="uninstall_dialog_title_format">Uninstall %s?</string>
-  <string name="uninstall_dialog_title_multi_format" formatted="false">Uninstall %s and %d other apps?</string>
   <string name="uninstall_result_failed">"Can't uninstall %s"</string>
-  <string name="uninstall_result_multi_succeeded">%1$d apps uninstalled</string>
-  <string name="uninstall_result_other_failed" formatted="false">"Can't uninstall %s and %d other apps"</string>
   <string name="uninstall_result_succeeded">App uninstalled</string>
-  <string name="uninstall_result_two_failed">"Can't uninstall %s and 1 other app"</string>
   <string name="uninstall_with_xspace_dialog_message">Corresponding dual apps will be removed together with app data.</string>
   <string name="uninstall_xspace_dialog_message">Uninstalling dual app will remove all app data.</string>
   <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"?</string>

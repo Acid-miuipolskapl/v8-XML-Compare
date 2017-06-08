@@ -588,4 +588,23 @@
         <item>Forwards</item>
         <item>Backwards</item>
     </string-array>
+    <string-array name="week_header_name">
+        <item>SUN</item>
+        <item>MON</item>
+        <item>TUE</item>
+        <item>WED</item>
+        <item>THU</item>
+        <item>FRI</item>
+        <item>SAT</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_43">false</item>
+    <item type="array" name="APKTOOL_DUMMY_44">false</item>
+    <item type="array" name="APKTOOL_DUMMY_45">false</item>
+    <item type="array" name="APKTOOL_DUMMY_46">false</item>
+    <item type="array" name="APKTOOL_DUMMY_47">false</item>
+    <item type="array" name="APKTOOL_DUMMY_48">false</item>
+    <item type="array" name="APKTOOL_DUMMY_49">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4d">false</item>
 </resources>

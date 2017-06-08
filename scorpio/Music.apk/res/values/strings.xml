@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_39c">false</string>
+  <string name="APKTOOL_DUMMY_39d">false</string>
+  <string name="APKTOOL_DUMMY_39e">false</string>
+  <string name="APKTOOL_DUMMY_39f">false</string>
+  <string name="APKTOOL_DUMMY_3a0">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>
@@ -150,6 +155,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="current_version">Current version</string>
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
+  <string name="date_format_str">yyyy-MM-dd</string>
   <string name="delete">Delete</string>
   <string name="delete_download">Delete</string>
   <string name="delete_downloads_records">Delete downloads</string>
@@ -803,7 +809,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_download_music">Downloading updates for Music.</string>
-  <string name="start_to_backup">Backing up…</string>
+  <string name="start_shuffle">Start shuffle...</string>
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
   <string name="start_to_use">Open Music</string>

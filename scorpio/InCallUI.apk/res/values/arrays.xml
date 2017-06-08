@@ -26,13 +26,13 @@
         <item>ABSENT NUMBER</item>
         <item>ABSENTNUMBER</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_0007">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0008">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0009">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000a">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000b">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000c">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000e">false</item>
-    <item type="array" name="APKTOOL_DUMMY_000f">false</item>
+    <item type="array" name="APKTOOL_DUMMY_7">false</item>
+    <item type="array" name="APKTOOL_DUMMY_8">false</item>
+    <item type="array" name="APKTOOL_DUMMY_9">false</item>
+    <item type="array" name="APKTOOL_DUMMY_a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_f">false</item>
 </resources>

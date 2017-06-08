@@ -66,4 +66,5 @@
         <item>-240</item>
         <item>400</item>
     </integer-array>
+    <item type="array" name="APKTOOL_DUMMY_d">false</item>
 </resources>

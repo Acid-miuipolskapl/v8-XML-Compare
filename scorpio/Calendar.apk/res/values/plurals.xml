@@ -99,4 +99,12 @@
         <item quantity="other">%1$d days after</item>
         <item quantity="one">%1$d day after</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_1d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_1e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_1f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_20">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_21">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_22">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_23">false</item>
 </resources>
