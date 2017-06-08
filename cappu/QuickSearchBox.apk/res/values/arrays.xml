@@ -4,7 +4,7 @@
         <item>web</item>
         <item>apps</item>
         <item>tips</item>
-        <item>com.android.providers.applications/.ApplicationLauncher</item>
+        <item>com.android.quicksearchbox/.applications.ApplicationLauncher</item>
         <item>com.android.settings/.MiuiSettingsSearchActivity</item>
         <item>com.android.browser/.BookmarkSearchActivity</item>
     </string-array>

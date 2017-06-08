@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_41e">false</string>
-  <string name="APKTOOL_DUMMY_47a">false</string>
-  <string name="APKTOOL_DUMMY_4ab">false</string>
-  <string name="APKTOOL_DUMMY_4f9">false</string>
-  <string name="APKTOOL_DUMMY_4fa">false</string>
-  <string name="APKTOOL_DUMMY_533">false</string>
-  <string name="APKTOOL_DUMMY_534">false</string>
-  <string name="APKTOOL_DUMMY_535">false</string>
-  <string name="APKTOOL_DUMMY_536">false</string>
-  <string name="APKTOOL_DUMMY_537">false</string>
-  <string name="APKTOOL_DUMMY_538">false</string>
+  <string name="APKTOOL_DUMMY_421">false</string>
+  <string name="APKTOOL_DUMMY_47d">false</string>
+  <string name="APKTOOL_DUMMY_4af">false</string>
+  <string name="APKTOOL_DUMMY_4fd">false</string>
+  <string name="APKTOOL_DUMMY_4fe">false</string>
+  <string name="APKTOOL_DUMMY_53d">false</string>
+  <string name="APKTOOL_DUMMY_53e">false</string>
+  <string name="APKTOOL_DUMMY_53f">false</string>
+  <string name="APKTOOL_DUMMY_540">false</string>
+  <string name="APKTOOL_DUMMY_541">false</string>
+  <string name="APKTOOL_DUMMY_542">false</string>
   <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Pad</string>
