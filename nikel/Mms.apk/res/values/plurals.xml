@@ -26,6 +26,11 @@
         <item quantity="other">Delete %1$s messages?</item>
         <item quantity="one">Delete %1$s message?</item>
     </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d messages</item>
+        <item quantity="zero">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d messages</item>
         <item quantity="zero">%d messages</item>

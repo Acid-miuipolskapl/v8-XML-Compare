@@ -6,6 +6,7 @@
   <string name="enable_wifi_message">Turn on WLAN to search and connect nearby devices.</string>
   <string name="enable_wifi_title">Turn on WLAN</string>
   <string name="media_feature_projection">Mirror screen</string>
+  <string name="media_route_controller_disconnect">Disconnect</string>
   <string name="media_status_error">Error</string>
   <string name="media_status_started">Connected</string>
   <string name="media_status_starting">Connecting…</string>
