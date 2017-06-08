@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_a5">false</string>
-  <string name="APKTOOL_DUMMY_a6">false</string>
+  <string name="APKTOOL_DUMMY_aa">false</string>
+  <string name="APKTOOL_DUMMY_ab">false</string>
   <string name="action_bar_delete">Delete</string>
   <string name="action_settings">Settings</string>
   <string name="activity_title_poweranalyze">Test battery</string>
@@ -165,6 +165,11 @@ Battery saver will treat important apps selectively."</string>
   <string name="set_cpufreq_max">Max CPU frequency</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">Just a sec…</string>
+  <string name="sleep_config_disable_description">"MIUI won't improve the evening battary save"</string>
+  <string name="sleep_config_disable_title">Off</string>
+  <string name="sleep_config_enhance_description">MIUI will improve the evening standby</string>
+  <string name="sleep_config_enhance_title">On</string>
+  <string name="sleep_config_mode_title">Sleep saving modes</string>
   <string name="still">Picture</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Name</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_295">false</string>
   <string name="APKTOOL_DUMMY_296">false</string>
   <string name="APKTOOL_DUMMY_297">false</string>
   <string name="APKTOOL_DUMMY_298">false</string>
@@ -253,7 +254,6 @@
   <string name="guild_msim_switcher">Tap to switch SIM cards</string>
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
-  <string name="hint_search_sms">%d messages</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">Network settings</string>
   <string name="hybrid_data_error">An error occurred</string>
@@ -370,7 +370,7 @@
   <string name="mx_current_status">Settings</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
-  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
+  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message. Besides, this service needs access to mobile data to work normally.</string>
   <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users over the internet without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
   <string name="mx_dspt_provision_ex2">Privacy Policy</string>
   <string name="mx_enable">Mi Message</string>
