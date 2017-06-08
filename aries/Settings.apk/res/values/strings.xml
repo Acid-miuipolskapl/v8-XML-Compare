@@ -2610,6 +2610,7 @@ Select your operating system:"</string>
  You will not lose any app data."</string>
   <string name="reset_app_preferences_title">Reset app preferences?</string>
   <string name="reset_legacy_password_settings_preface_text">You need to reset your lock screen password.</string>
+  <string name="reset_network_desc">This will reset all network settings</string>
   <string name="reset_second_space_passwd">Reset Second space password</string>
   <string name="reset_second_space_passwd_cancel">Cancel</string>
   <string name="reset_second_space_passwd_confirm">Continue</string>
@@ -3864,7 +3865,7 @@ Tap the plus to add words."</string>
   <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
   <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_and_mobile_skipped_message">"WARNING: If you skip Wi‑Fi, your phone won't have an Internet connection to use for any initial downloads or updates."</string>
+  <string name="wifi_and_mobile_skipped_message">The phone will not be able to verify that your software is up to date</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_assistant_card_message">Automatically connect to available networks with a Wi‑Fi Assistant.</string>
   <string name="wifi_assistant_intro_setup">"Introducing
@@ -3892,7 +3893,6 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
