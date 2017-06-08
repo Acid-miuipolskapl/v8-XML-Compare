@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_247">false</string>
-  <string name="APKTOOL_DUMMY_253">false</string>
+  <string name="APKTOOL_DUMMY_24f">false</string>
   <string name="APKTOOL_DUMMY_254">false</string>
   <string name="APKTOOL_DUMMY_255">false</string>
   <string name="APKTOOL_DUMMY_256">false</string>
@@ -259,6 +258,7 @@
   <string name="APKTOOL_DUMMY_352">false</string>
   <string name="APKTOOL_DUMMY_353">false</string>
   <string name="APKTOOL_DUMMY_354">false</string>
+  <string name="APKTOOL_DUMMY_355">false</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
@@ -358,6 +358,8 @@ and then create a shot where everyone looks best."</string>
   <string name="portrait_mode_lowlight_hint">"It's too dark now"</string>
   <string name="portrait_mode_too_close_hint">Move farther from the object</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
+  <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
+with more clear main body and more beautiful portrait"</string>
   <string name="portrait_with_facebeauty_hint">Beautify is now available in Portrait mode</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
@@ -589,6 +591,8 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_camera_portrait_mode_entry_on">Portrait mode is on</string>
   <string name="pref_camera_portrait_mode_title">Portrait mode</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
+  <string name="pref_camera_proximity_lock_summary">Lock touch gestures when placed in a pocket</string>
+  <string name="pref_camera_proximity_lock_title">Pocket mode</string>
   <string name="pref_camera_recordlocation_default">false</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
@@ -624,12 +628,16 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_camera_show_gender_age_entry_alias">Show age when Beautify is on</string>
   <string name="pref_camera_show_gender_age_entry_off">Off</string>
   <string name="pref_camera_show_gender_age_entry_on">Show age and gender when Beautify is on</string>
+  <string name="pref_camera_show_gender_age_label_alias">Age</string>
+  <string name="pref_camera_show_gender_age_label_on">Age &amp; gender</string>
   <string name="pref_camera_show_gender_age_title">Age &amp; gender</string>
   <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
   <string name="pref_camera_snap_enable_title">Quick snap mode</string>
   <string name="pref_camera_snap_entry_off">Off</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap mode (video)</string>
   <string name="pref_camera_snap_entry_take_picture">Quick snap mode (photo)</string>
+  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_picture">Photo</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Wake with Volume buttons\" is on."</string>
   <string name="pref_camera_snap_value_off">Off</string>
   <string name="pref_camera_snap_value_take_movie">Movie</string>
@@ -708,6 +716,7 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_front_mirror_entryvalue_auto">auto</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well in Group selfies mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
