@@ -630,6 +630,7 @@
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
+  <string name="support_mtp">MTP will be supported soon </string>
   <string name="swap_tip_1">Swipe left or right</string>
   <string name="swap_tip_2">to watch other videos</string>
   <string name="sys_size_enable">" available"</string>
