@@ -59,7 +59,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Headset only</string>
   <string name="auto_answer_scenario_title">Auto-answer settings</string>
   <string name="auto_answer_setting_title">Auto-answer settings</string>
-  <string name="auto_answer_summary_delay">delay: %s seconds</string>
   <string name="auto_answer_summary_not_enabled">Off</string>
   <string name="auto_record_yellowpage">Directory</string>
   <string name="auto_redial_pref_summary">Redial automatically if the line is busy</string>
@@ -187,8 +186,6 @@
   <string name="call_record_auto_unknown_number">Unknown numbers</string>
   <string name="call_record_auto_whitelist">Custom list</string>
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
-  <string name="call_record_auto_whitelist_summary">%d numbers</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
   <string name="call_record_loading_content">Loading…</string>
   <string name="call_record_off_summary">Off</string>
   <string name="call_record_on_summary">On</string>
@@ -202,7 +199,6 @@
   <string name="call_recording_notification_title_error">"Couldn't record call"</string>
   <string name="call_recording_notification_toggle_title">Call recording notification</string>
   <string name="call_recording_setting">Call recording</string>
-  <string name="call_remove_exception_numbers_confirm">%d numbers will be deleted.</string>
   <string name="call_settings">Phone</string>
   <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
@@ -886,8 +882,6 @@ You have %d remaining attempts."</string>
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
   <string name="pin2_unblocked">PIN 2 is no longer blocked</string>
-  <string name="pin_attempts">"
-%d attempts remaining."</string>
   <string name="pin_changed">PIN updated</string>
   <string name="pin_failed">PIN incorrect</string>
   <string name="pin_lock_warning">"

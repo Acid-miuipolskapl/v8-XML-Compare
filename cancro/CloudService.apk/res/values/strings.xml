@@ -139,6 +139,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Buy Mi Cloud membership</string>
+  <string name="micloud_buy_member_safe">Buy Mi Cloud membership</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
@@ -357,6 +358,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
   <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sync only on Contacts, Calendar and Notes, to Sync more items go to Mi Cloud setting.</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
