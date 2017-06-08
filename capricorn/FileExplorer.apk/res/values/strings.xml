@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_347">false</string>
   <string name="APKTOOL_DUMMY_348">false</string>
   <string name="APKTOOL_DUMMY_349">false</string>
   <string name="APKTOOL_DUMMY_34a">false</string>
@@ -169,6 +168,7 @@
   <string name="APKTOOL_DUMMY_3ed">false</string>
   <string name="APKTOOL_DUMMY_3ee">false</string>
   <string name="APKTOOL_DUMMY_3ef">false</string>
+  <string name="APKTOOL_DUMMY_3f0">false</string>
   <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
@@ -799,6 +799,7 @@
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
+  <string name="support_mtp">MTP will be supported soon </string>
   <string name="swap_tip_1">Swipe left or right</string>
   <string name="swap_tip_2">to watch other videos</string>
   <string name="sys_size_enable">" available"</string>
