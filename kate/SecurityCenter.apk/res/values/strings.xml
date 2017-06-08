@@ -102,6 +102,7 @@ or enter App lock password"</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
+  <string name="antispam_mode_details">Blocklist details</string>
   <string name="antispam_notificaiton_type_show_all">All numbers</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
@@ -170,6 +171,7 @@ or enter App lock password"</string>
   <string name="app_manager_force_stop_dlg_title">Force stop?</string>
   <string name="app_manager_go_to_manger_app">Manage</string>
   <string name="app_manager_have_not_consume">None</string>
+  <string name="app_manager_instruction">Instruction</string>
   <string name="app_manager_loading_data">Loading data…</string>
   <string name="app_manager_manage_space">Manage space</string>
   <string name="app_manager_menu_clear_data">Clear data</string>
@@ -205,6 +207,7 @@ or enter App lock password"</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
   <string name="app_manager_reject_count_over">Blocked 100000+ times</string>
   <string name="app_manager_show_detail_infos">View all</string>
+  <string name="app_manager_sort">Sort by</string>
   <string name="app_manager_start_by">Started by %s</string>
   <string name="app_manager_start_count_over">100000+ times</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Uninstall %s to restrict chain start?</string>
@@ -296,6 +299,7 @@ in case you forget it"</string>
   <string name="auto_task_main_title">Automated tasks</string>
   <string name="auto_task_mamange_activity_title">Settings</string>
   <string name="auto_task_manage_delete_prompt">Delete selected tasks?</string>
+  <string name="auto_task_manage_new_task">New automated task</string>
   <string name="auto_task_manager_group_title">My automated tasks</string>
   <string name="auto_task_notify_do_task_title">Automated task started</string>
   <string name="auto_task_notify_exit_task_title">Automated task ended</string>
@@ -467,7 +471,6 @@ in case you forget it"</string>
   <string name="buy_traffic_pack">Buy more data</string>
   <string name="byteShort">B</string>
   <string name="cache_check_content_none">@string/memory_check_content_none</string>
-  <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">Calls and Contacts</string>
   <string name="call_delete_hint">Delete all blocked calls from this number?</string>
   <string name="call_delete_title">Delete call history</string>
@@ -710,12 +713,11 @@ in case you forget it"</string>
   <string name="enter">进入</string>
   <string name="every_day">Every day</string>
   <string name="examination_score_100">Everything looks good!</string>
-  <string name="examination_score_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_60_0">Scan now</string>
   <string name="examination_score_80_100">A few items can be optimized</string>
-  <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
+  <string name="exit">Exit</string>
   <string name="file_manager_need_update_desc">当前文件管理器版本过低，无法使用随机表情功能，请先更新文件管理器。</string>
   <string name="file_manager_need_update_title">文件管理器版本过低</string>
   <string name="finger_remind_message">You can also use your fingerprint with App lock.</string>
@@ -790,7 +792,7 @@ in case you forget it"</string>
   <string name="help_label">Help</string>
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
   <string name="hide_mode_summary_text">"Manage apps' background activity to save battery"</string>
-  <string name="hide_mode_title_text">Hide mode</string>
+  <string name="hide_mode_title_text">Battery saver</string>
   <string name="hide_system_app">Hide system apps</string>
   <string name="hint_antispam_mode_edit">Custom mode</string>
   <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
@@ -902,8 +904,6 @@ in case you forget it"</string>
   <string name="last_check_date_today">"Scanned today "</string>
   <string name="last_check_date_yesterday">"Scanned yesterday "</string>
   <string name="last_check_never_checked">Scan now</string>
-  <string name="last_checked_date2">Scanned %d days ago</string>
-  <string name="last_checked_default">Scanned %s days ago</string>
   <string name="later">稍后处理</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Holiday</string>
@@ -1033,7 +1033,6 @@ to respond"</string>
   <string name="manual_input_traffic">Set data usage</string>
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
   <string name="manual_item_white_list_title">Exceptions</string>
-  <string name="manual_white_list_header">%d exceptions</string>
   <string name="mark_agent">Block reported agencies</string>
   <string name="mark_agent_block">Reported as agency</string>
   <string name="mark_agent_block_large">Agencies</string>
@@ -1086,7 +1085,7 @@ to respond"</string>
   <string name="menu_item_app_permissions_control">Permission manager</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">Force stop</string>
-  <string name="menu_item_install_debug_package">install debug package</string>
+  <string name="menu_item_install_debug_package">Install debug package</string>
   <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
   <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
@@ -1130,6 +1129,8 @@ to respond"</string>
   <string name="mian_page_primary_txt">Data roaming</string>
   <string name="miliao_lucky_warning">米聊红包</string>
   <string name="modifypassword">Change password</string>
+  <string name="monitor_app_add">add</string>
+  <string name="monitor_app_more">more</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
@@ -1212,7 +1213,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
   <string name="notification_sysapp_cracked_title">Security risk is detected</string>
-  <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_daily_limit_body">Tap to set data limit.</string>
@@ -1389,7 +1389,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
   <string name="power_optimize_loading">Loading</string>
   <string name="power_optimize_manual_catagory_title">Manual</string>
-  <string name="power_optimize_open_hide_mode">Turn on Hide mode</string>
+  <string name="power_optimize_open_hide_mode">Turn on Battery saver</string>
   <string name="power_optimize_save_mode_not_opened">Battery saver off</string>
   <string name="power_optimize_save_on_lockscreen">Save power when device is locked</string>
   <string name="power_phone">Voice calls</string>
@@ -1585,7 +1585,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="quick_optimize_no_issue">No battery issues</string>
   <string name="quick_optimize_no_issue_subtitle">Everything looks good</string>
   <string name="quick_optimize_no_issue_title">"Couldn't find battery issues"</string>
-  <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
+  <string name="quick_optimize_sub_summary_text">Added %s to battery life</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
   <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
   <string name="random_expression">随机表情</string>
@@ -1763,7 +1763,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sp_background_risk_type_sign">Unofficial app is running</string>
   <string name="sp_background_risk_type_virus">Virus is running in the background</string>
   <string name="sp_background_risk_type_wifi">This Wi-Fi network is dangerous</string>
-  <string name="sp_button_text_ignore_alert_title">Ignore this item?</string>
+  <string name="sp_button_text_ignore_alert_title">Ignore this item？</string>
   <string name="sp_empty_title_sign_exception">Hold the app to add it to exceptions</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
   <string name="sp_monitored_apps_list_title">Monitoring settings</string>
@@ -1927,7 +1927,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_flow_notification">Show your monthly data usage stats in the notification shade</string>
   <string name="summary_flow_purchase">"Looks like there isn't much data left. Buy data to stay connected."</string>
   <string name="summary_flow_purchase_beyond">"You've exceeded your carrier plan's monthly data limit by %sMB"</string>
-  <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_flow_verify_failed">Auto adjust data usage to avoid additional fees</string>
   <string name="summary_garbage_clean">Clear cache to free up space</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
@@ -1962,7 +1961,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content_none">Safe</string>
-  <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
   <string name="system_info_remind">Add locks to prevent unauthorized access to your apps</string>
   <string name="system_need_update_desc">当前系统版本过低，无法使用随机表情功能，请先更新MIUI系统。</string>
   <string name="system_need_update_title">系统版本过低</string>
@@ -2083,7 +2081,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_cloud_space_almost_full">Cloud storage nearly full, items may not sync</string>
   <string name="title_cloud_space_full">Cloud is full</string>
   <string name="title_cmcc_app_check">"Verification isn't complete"</string>
-  <string name="title_consume_power">Battery issues found</string>
   <string name="title_consume_power_rank">Battery usage</string>
   <string name="title_data_flow">Control mobile data</string>
   <string name="title_default_app">"MIUI %s isn't set as default"</string>

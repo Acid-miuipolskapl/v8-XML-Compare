@@ -192,8 +192,6 @@
   <string name="guild_msim_switcher">Tap to switch SIM cards</string>
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
-  <string name="hint_search_sms">%d messages</string>
-  <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">Network settings</string>
   <string name="hybrid_data_error">An error occurred</string>
@@ -244,7 +242,7 @@
   <string name="message_download_failed_title">Message not downloaded</string>
   <string name="message_expired">Expired</string>
   <string name="message_failed">Failed</string>
-  <string name="message_failed_body">Tap to review the message and try again</string>
+  <string name="message_failed_body">Tap to review the message and try again.</string>
   <string name="message_number">Phone number:</string>
   <string name="message_pending">Sending</string>
   <string name="message_queued">"Can't send your message right now. Will send when service becomes available."</string>
@@ -310,7 +308,7 @@
   <string name="mx_current_status">Settings</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
-  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message.</string>
+  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message. Besides, this service needs access to mobile data to work normally.</string>
   <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users over the internet without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
   <string name="mx_dspt_provision_ex2">Privacy Policy</string>
   <string name="mx_enable">Mi Message</string>
@@ -382,7 +380,7 @@
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
-  <string name="pref_show_list_avatar_summary">Display photos and other contact info in list view</string>
+  <string name="pref_show_list_avatar_summary">Show profile photos and contact info in list view</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
@@ -514,6 +512,7 @@
   <string name="select_local_video">Select video</string>
   <string name="select_message_send_sim">Choose SIM card</string>
   <string name="select_recipient">Choose recipients</string>
+  <string name="select_sim">Select SIM card</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
   <string name="send_message_dlg_check_hint">"Don't show again"</string>
@@ -558,8 +557,11 @@
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">An incoming text message was rejected.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="sms_report_dialog_content">"Couldn't send report, try again."</string>
+  <string name="sms_report_dialog_retry">Try again</string>
+  <string name="sms_report_dialog_title">Try again</string>
   <string name="sms_report_failed">"Couldn't send report"</string>
-  <string name="sms_report_success">Report sent</string>
+  <string name="sms_report_success">Sent report successfully</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="sp_category_all">All service messages</string>
@@ -593,6 +595,8 @@
   <string name="storage_unavailable">No space available</string>
   <string name="subject_hint">Subject</string>
   <string name="subject_label">"Subject: "</string>
+  <string name="switch_to_editor">Editor mode</string>
+  <string name="switch_to_menu">Menu mode</string>
   <string name="text_in_popup_saved_to_clipboard">Copied to clipboard</string>
   <string name="text_message">Text message</string>
   <string name="timed_message_expired_title">"%d timed messages haven't been sent"</string>
@@ -603,7 +607,7 @@
   <string name="title_collapse_sp_messages">Notifications group</string>
   <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
-  <string name="title_show_list_avatar">Display photos and info</string>
+  <string name="title_show_list_avatar">Show profile photos</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
   <string name="title_timed_message_dialog">Set timed message</string>

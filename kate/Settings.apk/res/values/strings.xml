@@ -2805,6 +2805,7 @@ Select your operating system:"</string>
   <string name="regulatory_information">Regulatory information</string>
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
   <string name="remove_account_label">Remove account</string>
+  <string name="remove_continue">Uninstall</string>
   <string name="remove_device_admin">Deactivate</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
@@ -2827,11 +2828,7 @@ Select your operating system:"</string>
   <string name="reset_network_button_text">Reset settings</string>
   <string name="reset_network_complete_toast">Network settings have been reset</string>
   <string name="reset_network_confirm_title">Reset?</string>
-  <string name="reset_network_desc">"This will reset all network settings, including:
-
-"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
-"&lt;li&gt;Cellular data&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+  <string name="reset_network_desc">This will reset all network settings</string>
   <string name="reset_network_final_button_text">Reset settings</string>
   <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
   <string name="reset_network_title">Network settings reset</string>
@@ -3878,6 +3875,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
+  <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
+  <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
   <string name="uninstall_text">Uninstall</string>
   <string name="uninstall_wifi_master_key">Uninstall WiFi Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
@@ -4278,7 +4277,7 @@ Tap the plus to add words."</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s manages your device and doesn’t allow modifying or deleting this Wi-Fi network. For more information, contact your administrator.</string>
   <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_and_mobile_skipped_message">"WARNING: If you skip WLAN, your phone won't have an Internet connection to use for any initial downloads or updates."</string>
+  <string name="wifi_and_mobile_skipped_message">The phone will not be able to verify that your software is up to date</string>
   <string name="wifi_ap_band_config">Select AP Band</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -4318,7 +4317,6 @@ WLAN Assistant"</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
