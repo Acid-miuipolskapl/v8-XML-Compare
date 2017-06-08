@@ -142,12 +142,12 @@
   <string name="share_update">Share update info</string>
   <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. For the detailed changelog, go to %3$s"</string>
   <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
+  <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="space_not_enough_msg">"There's not enough storage space on your device."</string>
   <string name="space_not_enough_title">Not enough space</string>
   <string name="stable_build">Stable</string>

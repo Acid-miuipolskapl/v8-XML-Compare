@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Search</string>
+  <string name="application_desc">Application</string>
+  <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
@@ -43,7 +45,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_settings_category_title">Google Search</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="installed_apps_component">com.android.quicksearchbox/.applications.ApplicationLauncher</string>
   <string name="loading">Just a sec…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
@@ -60,6 +62,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_suggestion">Tips</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
+  <string name="settings_description">Names of installed apps</string>
   <string name="show_more">Show more</string>
   <string name="system_search_category_title">Phone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
