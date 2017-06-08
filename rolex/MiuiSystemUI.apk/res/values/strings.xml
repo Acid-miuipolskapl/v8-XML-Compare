@@ -214,10 +214,10 @@ Use only the supplied charger."</string>
   <string name="nav_guide_ok">Set up</string>
   <string name="nav_guide_title">Hide soft buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">No apps which can work in split-screen mode</string>
+  <string name="no_multi_window_app">No apps which support Split screen</string>
   <string name="no_notification_tips">No notifications.</string>
   <string name="no_weather_description">Get weather info &gt;</string>
-  <string name="not_support_multi_window">"Current app doesn't support split-screen mode"</string>
+  <string name="not_support_multi_window">"Current app doesn't support Split screen"</string>
   <string name="notification_header_title">Notifications</string>
   <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_low_battery_action_btn">Turn on</string>
@@ -259,7 +259,7 @@ Use only the supplied charger."</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
   <string name="recent_task_app_info_text">Info</string>
-  <string name="recent_task_cleaning">Cleaning, please wait a little time</string>
+  <string name="recent_task_cleaning">Clearing apps…</string>
   <string name="recent_task_lock_text">Lock</string>
   <string name="recent_task_unlock_text">Unlock</string>
   <string name="reject_call">Rejecting call</string>
