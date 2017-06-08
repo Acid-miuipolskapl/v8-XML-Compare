@@ -121,6 +121,11 @@
         <item>@string/pref_camera_snap_entry_take_movie</item>
         <item>@string/pref_camera_snap_entry_off</item>
     </string-array>
+    <string-array name="pref_camera_snap_labels">
+        <item>@string/pref_camera_snap_label_take_picture</item>
+        <item>@string/pref_camera_snap_label_take_movie</item>
+        <item>@string/pref_camera_snap_entry_off</item>
+    </string-array>
     <string-array name="pref_camera_snap_entryvalues">
         <item>@string/pref_camera_snap_value_take_picture</item>
         <item>@string/pref_camera_snap_value_take_movie</item>
@@ -588,6 +593,11 @@
         <item>alias</item>
         <item>off</item>
     </string-array>
+    <string-array name="pref_camera_show_gender_age_labels">
+        <item>@string/pref_camera_show_gender_age_label_on</item>
+        <item>@string/pref_camera_show_gender_age_label_alias</item>
+        <item>@string/pref_camera_show_gender_age_entry_off</item>
+    </string-array>
     <string-array name="pref_camera_show_gender_age_reports">
         <item>@string/face_beauty_age_alias_male_0_7</item>
         <item>@string/face_beauty_age_alias_male_8_17</item>
@@ -635,6 +645,11 @@
         <item>@string/pref_front_mirror_entryvalue_auto</item>
         <item>@string/pref_front_mirror_entryvalue_on</item>
         <item>@string/pref_front_mirror_entryvalue_off</item>
+    </string-array>
+    <string-array name="pref_front_mirror_labels">
+        <item>@string/pref_front_mirror_label_auto</item>
+        <item>@string/pref_front_mirror_entry_on</item>
+        <item>@string/pref_front_mirror_entry_off</item>
     </string-array>
     <string-array name="pref_audio_focus_entries">
         <item>@string/pref_audio_focus_entry_general</item>

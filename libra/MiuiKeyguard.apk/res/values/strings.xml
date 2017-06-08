@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_67">false</string>
   <string name="APKTOOL_DUMMY_68">false</string>
   <string name="APKTOOL_DUMMY_69">false</string>
   <string name="APKTOOL_DUMMY_6a">false</string>
@@ -102,8 +103,8 @@
   <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
   <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
-  <string name="keyguard_quick_charging_info_click_to_detail">快充中，点击查看</string>
-  <string name="keyguard_quickly_charging_info_charging_text">正在快充</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Quick charging. Tap to view details.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Quick charging…</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
   <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
@@ -144,7 +145,6 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
   <string name="unlock_string">Unlock</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect charger now</string>
-  <string name="unlockscreen_quick_charging_message">Quick charging %d%%</string>
   <string name="unlockscreen_recharge_completed">Battery charged</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
   <string name="wrong_password">Incorrect password</string>
