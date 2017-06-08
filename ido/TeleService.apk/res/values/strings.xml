@@ -56,7 +56,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Headset only</string>
   <string name="auto_answer_scenario_title">Auto-answer settings</string>
   <string name="auto_answer_setting_title">Auto-answer settings</string>
-  <string name="auto_answer_summary_delay">delay: %s seconds</string>
+  <string name="auto_answer_summary_delay">" (delay: %s seconds)"</string>
   <string name="auto_answer_summary_not_enabled">Off</string>
   <string name="auto_record_yellowpage">Directory</string>
   <string name="auto_redial_pref_summary">Redial automatically if the line is busy</string>
@@ -82,9 +82,9 @@
   <string name="autoip_summary">Add an IP prefix for international numbers</string>
   <string name="autoip_support_local_numbers">Always use IP prefix</string>
   <string name="back">Back</string>
-  <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
-  <string name="badPin2">"The old PIN2 you typed isn't correct. Try again."</string>
-  <string name="badPuk2">"The PUK2 you typed isn't correct. Try again."</string>
+  <string name="badPin">"The old PIN you entered isn't correct. Try again."</string>
+  <string name="badPin2">"The old PIN2 you entered isn't correct. Try again."</string>
+  <string name="badPuk2">"The PUK2 you entered isn't correct. Try again."</string>
   <string name="bad_pin">The PIN you entered is incorrect.</string>
   <string name="bad_pin2">The PIN2 you entered is incorrect.</string>
   <string name="bad_pin2_old">The old PIN2 you entered is incorrect.</string>
@@ -471,7 +471,7 @@ Contact your carrier if this problem persists."</string>
 Switch to the new provider anyway?"</string>
   <string name="general_news_settings">General News</string>
   <string name="general_setting">Settings</string>
-  <string name="get_pin2">Type PIN2</string>
+  <string name="get_pin2">Enter PIN2</string>
   <string name="get_smsc_address_error">"Can't connect to the network."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="goPrivate">Go private</string>
@@ -519,9 +519,9 @@ Switch to the new provider anyway?"</string>
   <string name="international_enable">International news enabled</string>
   <string name="international_roaming_setting">Data roaming</string>
   <string name="internet_phone">Internet call</string>
-  <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string>
-  <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>
-  <string name="invalidPuk2">Type a PUK2 that is 8 numbers.</string>
+  <string name="invalidPin">Enter a PIN that is 4 to 8 numbers.</string>
+  <string name="invalidPin2">Enter a PIN2 that is 4 to 8 numbers.</string>
+  <string name="invalidPuk2">Enter a PUK2 that is 8 numbers.</string>
   <string name="invalid_password">Enter a password that is 4 numbers long</string>
   <string name="invalid_pin">Type a PIN that is 4 to 8 numbers.</string>
   <string name="invalid_pin2">Type a PIN2 that is 4 to 8 numbers.</string>
@@ -614,8 +614,8 @@ Switch to the new provider anyway?"</string>
   <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
   <string name="mi_sim_settings_summary">Use mobile data without a SIM card</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
-  <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
-  <string name="mismatchPin2">"The PIN2s you typed don't match. Try again."</string>
+  <string name="mismatchPin">"The PINs you entered don't match. Try again."</string>
+  <string name="mismatchPin2">"The PIN2 you entered don't match. Try again."</string>
   <string name="mismatch_password">"The passwords you entered don't match"</string>
   <string name="mismatch_pin">"PINs don't match."</string>
   <string name="mismatch_pin2">"PIN2s don't match. Try again."</string>
@@ -669,7 +669,7 @@ Switch to the new provider anyway?"</string>
   <string name="multi_category_enable">Multi-category enabled</string>
   <string name="multi_sim_settings_title">Dual SIM settings</string>
   <string name="name">Name</string>
-  <string name="name_hint_text">Name.</string>
+  <string name="name_hint_text">Name</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
   <string name="network_1x">1x</string>
@@ -712,6 +712,7 @@ Using preferred network instead."</string>
   <string name="new_pin_label">New PIN</string>
   <string name="new_sim_detected">New SIM card detected:</string>
   <string name="no_change">No changes were made.</string>
+  <string name="no_checked_network">"You won't be able to connect to mobile network and make calls. Select another network?"</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
@@ -849,11 +850,11 @@ Try again or call customer service for more options."</string>
   <string name="phone_entered_ecm_text">Entered Emergency Callback Mode</string>
   <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
   <string name="phone_in_ecm_notification_title">Emergency Callback Mode</string>
-  <string name="phone_number_hint_text">Phone Number.</string>
+  <string name="phone_number_hint_text">Phone number</string>
   <string name="pin2_attempts">"
 There are %d remaining attempts."</string>
   <string name="pin2_changed">PIN2 changed successfully.</string>
-  <string name="pin2_invalid">"FDN wasn't updated because you typed an incorrect PIN."</string>
+  <string name="pin2_invalid">"FDN wasn't updated because you entered an incorrect PIN."</string>
   <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long.</string>
   <string name="pin2_lock_warning">"
 PIN2 related functions will be locked after another failed attempt."</string>
@@ -862,7 +863,7 @@ PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin_attempts">"
 %d attempts remaining."</string>
   <string name="pin_changed">SIM PIN changed successfully.</string>
-  <string name="pin_failed">The PIN you typed was incorrect.</string>
+  <string name="pin_failed">The PIN you entered was incorrect.</string>
   <string name="pin_lock_warning">"
 Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_change_pin">Changing PIN…</string>
@@ -960,7 +961,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="puk_label">Enter PUK code</string>
   <string name="puk_lock_warning">"
 Your SIM card will be locked after another unsuccessful attempt."</string>
-  <string name="puk_requested">Password incorrect, PIN Blocked! PUK requested.</string>
+  <string name="puk_requested">Password is incorrect. Blocked PIN and requested PUK.</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
   <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
@@ -1176,7 +1177,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sum_select_automatically">Automatically choose preferred network</string>
   <string name="sum_show_caller_id">Number displayed in outgoing calls</string>
   <string name="sum_voicemail_choose_provider">Choose voicemail service</string>
-  <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+  <string name="summary_manage_subscriptions">Manage network settings of your subscriptions</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">T9 search input</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
