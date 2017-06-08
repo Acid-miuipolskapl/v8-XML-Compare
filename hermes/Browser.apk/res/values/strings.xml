@@ -73,6 +73,7 @@
   <string name="add_to_quicklink">Start page</string>
   <string name="added_to_bookmarks">Added to bookmarks</string>
   <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
+  <string name="agree">Agree</string>
   <string name="alert_tips">This site may be a security risk</string>
   <string name="alisdk_message_10000_action">请检查对应名称模块的库文件是否包含在当前开发应用的依赖库里面</string>
   <string name="alisdk_message_10000_message">JS Bridge 载入器未找到名称为 {0} 的模块</string>
@@ -288,8 +289,6 @@
   <string name="browserFrameNetworkErrorLabel">Connection error</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs</string>
-  <string name="check_permission_of_current_location">Current location info</string>
-  <string name="check_permission_of_current_url">URLs of the websites you visit</string>
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear_history">Clear history</string>
   <string name="clear_most_visited">Recent history</string>
@@ -489,6 +488,7 @@ Pages you view won't appear in history."</string>
   <string name="error_not_acceptable">Sync is off.</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Syncing with your Mi Account has been turned off due to too many sign-in attempts.</string>
+  <string name="exit">Exit</string>
   <string name="exit_browser_warning">Exit Browser now?</string>
   <string name="file_dir">Change folder</string>
   <string name="file_name">"Name: "</string>
@@ -923,10 +923,10 @@ Leave this page?"</string>
   <string name="sendstartpage">Start page</string>
   <string name="share_image_text">Look what I found!</string>
   <string name="share_page_text">Look what I found: %1$s | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">To improve security and receive more relevant recommendations, allow Browser to access these items:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">To receive more relevant recommendations, allow Browser to access these items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_security_tip_dialog_title">Terms of Service</string>
-  <string name="show_weather_location_getter_tip_dialog_description">To improve security and receive more relevant recommendations and weather info specific to your location, allow Browser to access these items:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security，receive more relevant recommendations and provide weather service, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>
