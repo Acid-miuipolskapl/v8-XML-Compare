@@ -562,7 +562,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
   <string name="config_forceVoiceInteractionServicePackage"/>
   <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
+  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_isoImagePath"/>
@@ -571,7 +571,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
   <string name="config_mobile_hotspot_provision_response"/>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
+  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_ntpServer">asia.pool.ntp.org</string>
   <string name="config_persistentDataPackageName">com.google.android.gms</string>
   <string name="config_radio_access_family"/>
@@ -1023,7 +1023,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Try again</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+Contact your wireless service provider for another SIM card."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
   <string name="lockscreen_return_to_call">Return to call</string>
   <string name="lockscreen_screen_locked">Screen locked.</string>
@@ -1291,8 +1291,8 @@ Try again in %d seconds."</string>
   <string name="permdesc_reorderTasks">Allows the app to move tasks to the foreground and background. The app may do this without your input.</string>
   <string name="permdesc_requestInstallPackages">Allows an application to request installation of packages.</string>
   <string name="permdesc_route_media_output">Allows an application to route media output to other external devices.</string>
-  <string name="permdesc_sdcardRead">Allows the app to read the contents of your USB storage.</string>
-  <string name="permdesc_sdcardWrite">Allows the app to write to the USB storage.</string>
+  <string name="permdesc_sdcardRead">Allows the app to read the contents of your SD card.</string>
+  <string name="permdesc_sdcardWrite">Allows the app to write to the SD card.</string>
   <string name="permdesc_sendSms">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
   <string name="permdesc_setAlarm">Allows the app to set an alarm in an installed alarm clock app. Some alarm clock apps may not implement this feature.</string>
   <string name="permdesc_setInputCalibration">Allows the app to modify the calibration parameters of the touch screen. Should never be needed for normal apps.</string>
@@ -1413,8 +1413,8 @@ for account %s."</string>
   <string name="permlab_reorderTasks">reorder running apps</string>
   <string name="permlab_requestInstallPackages">Request install packages</string>
   <string name="permlab_route_media_output">Route media output</string>
-  <string name="permlab_sdcardRead">read the contents of your USB storage</string>
-  <string name="permlab_sdcardWrite">modify or delete the contents of your USB storage</string>
+  <string name="permlab_sdcardRead">read the contents of your SD card</string>
+  <string name="permlab_sdcardWrite">modify or delete the contents of your SD card</string>
   <string name="permlab_sendSms">send and view SMS messages</string>
   <string name="permlab_setAlarm">set an alarm</string>
   <string name="permlab_setInputCalibration">change input device calibration</string>
@@ -1498,7 +1498,7 @@ for account %s."</string>
   <string name="preposition_for_year">in %s</string>
   <string name="print_service_installed_message">Tap to enable</string>
   <string name="print_service_installed_title">%s service installed</string>
-  <string name="progress_erasing">Erasing USB storage…</string>
+  <string name="progress_erasing">Erasing SD card…</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
   <string name="quick_contacts_not_available">No application found to view this contact.</string>
   <string name="radial_numbers_typeface">sans-serif</string>
@@ -1715,13 +1715,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="usb_ptp_notification_title">USB for photo transfer</string>
   <string name="usb_storage_activity_title">USB mass storage</string>
   <string name="usb_storage_button_mount">Turn on USB storage</string>
-  <string name="usb_storage_error_message">"There's a problem using your USB storage for USB mass storage."</string>
-  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's USB storage."</string>
+  <string name="usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
+  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's SD card."</string>
   <string name="usb_storage_notification_message">Touch to copy files to/from your computer.</string>
   <string name="usb_storage_notification_title">USB connected</string>
   <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
   <string name="usb_storage_stop_error_message">"There was a problem turning off USB storage. Check that you've unmounted the USB host, then try again."</string>
-  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's USB storage from your computer."</string>
+  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's SD card from your computer."</string>
   <string name="usb_storage_stop_notification_message">Touch to turn off USB storage.</string>
   <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
   <string name="usb_storage_stop_title">USB storage in use</string>

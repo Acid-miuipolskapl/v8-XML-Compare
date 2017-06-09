@@ -433,6 +433,7 @@
     </string-array>
     <array name="config_cdma_international_roaming_indicators" />
     <array name="config_cell_retries_per_error_code" />
+    <array name="config_defaultPinnerServiceFiles" />
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
@@ -542,6 +543,14 @@
         <item>Keep your finger on the scanner a bit longer</item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -551,4 +560,7 @@
         <item>Custom</item>
     </string-array>
     <array name="carrier_properties" />
+    <string-array name="config_appsToPin">
+        <item>com.tencent.mm</item>
+    </string-array>
 </resources>

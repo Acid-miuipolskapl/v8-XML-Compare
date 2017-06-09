@@ -2,6 +2,8 @@
 <resources>
   <string name="admin_receiver_status_disable_warning">The Secure Spaces device admin will be re-enabled when and if it is needed later.</string>
   <string name="app_name">Secure Spaces Agent</string>
+  <string name="btn_title_cancel">Cancel</string>
+  <string name="btn_title_force">Force</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Yes</string>
   <string name="dialog_download_space_cancel">Cancel</string>
@@ -31,12 +33,14 @@
   <string name="pref_desc_last_applied_policy">The last applied policy to the device.</string>
   <string name="pref_desc_policy_delay">Delay applied to each policy element.</string>
   <string name="pref_desc_sscm_address">Address of the SSCM Server</string>
+  <string name="pref_desc_sscm_force_connection">Trigger the SSCM websocket to reconnect</string>
   <string name="pref_desc_sscm_mailbox">Mailbox ID on SSCM</string>
   <string name="pref_desc_sss_address">Address of the SSM Server</string>
   <string name="pref_title_in_progress_policy">In-Progress Policy</string>
   <string name="pref_title_last_applied_policy">Last Applied Policy</string>
   <string name="pref_title_policy_delay">Policy Delay</string>
   <string name="pref_title_sscm_address">SSCM Address</string>
+  <string name="pref_title_sscm_force_connection">Force SSCM Connection</string>
   <string name="pref_title_sscm_mailbox">SSCM Mailbox Id</string>
   <string name="pref_title_sss_address">SSMS Address</string>
   <string name="progress_notification_text">Space update in progress…</string>

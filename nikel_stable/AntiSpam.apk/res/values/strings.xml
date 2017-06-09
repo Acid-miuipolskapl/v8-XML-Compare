@@ -124,7 +124,7 @@
   <string name="dlg_remove_whitelist_title">Remove</string>
   <string name="dlg_retore">Restore message to inbox?</string>
   <string name="dlg_retore_ok">Restore</string>
-  <string name="dlg_title_not_open_stranger_identify">Identify Strangers</string>
+  <string name="dlg_title_not_open_stranger_identify">Caller ID is off</string>
   <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
   <string name="dlg_white_antispam_hint">Exceptions</string>
   <string name="dlg_white_antispam_message">Add this number to exceptions?</string>
@@ -135,7 +135,7 @@
   <string name="fw_blocked_join">" and "</string>
   <string name="hint_antispam_mode_edit">Custom mode</string>
   <string name="im">IM</string>
-  <string name="info_antispam_close">AntiSpam Off</string>
+  <string name="info_antispam_close">Blocklist is off</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Block calls</string>
   <string name="info_antispam_phone_sms">Block calls and SMS</string>
@@ -150,10 +150,6 @@
   <string name="mark_agent_block">Reported as agency</string>
   <string name="mark_agent_block_large">Agencies</string>
   <string name="mark_agent_time_setting">Block numbers that have been reported as agencies a specified number of times</string>
-  <string name="mark_courier">Block reported couriers</string>
-  <string name="mark_courier_block">Reported as courier</string>
-  <string name="mark_courier_block_large">Couriers</string>
-  <string name="mark_courier_time_setting">Block numbers that have been reported as couriers a specified number of times</string>
   <string name="mark_fraud">Block reported scams</string>
   <string name="mark_fraud_block">Reported as scam</string>
   <string name="mark_fraud_block_large">Scams</string>
@@ -163,7 +159,6 @@
   <string name="mark_harass_block_large">Nuisances</string>
   <string name="mark_harass_time_setting">Block numbers that have been reported as nuisances a specified number of times</string>
   <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_courier">Courier</string>
   <string name="mark_number_fraud">Fraud</string>
   <string name="mark_number_harass">Harassment</string>
   <string name="mark_number_info">"Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
@@ -367,7 +362,7 @@
   <string name="two_address_choose_hint">%1$s and %2$s</string>
   <string name="user_define_title">Add rules</string>
   <string name="website">Website</string>
-  <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
+  <string name="whitelist_prefix_add_hint">Add all numbers with this prefix to exceptions</string>
   <string name="wl_no_whitelist">No exceptions.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

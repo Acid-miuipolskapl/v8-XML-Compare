@@ -8,6 +8,11 @@
         <item>Green</item>
         <item>Blue</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Default start page</item>
         <item>Custom</item>
@@ -60,7 +65,7 @@
         <item>http://www.bing.com/s/wlflag.ico</item>
         <item>http://www.bing.com/search?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
     <string-array name="bing_in_list">
         <item>search_bing</item>
@@ -175,7 +180,7 @@
         <item>http://www.google.com/favicon.ico</item>
         <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
     <string-array name="google_in_list">
         <item>search_google</item>
@@ -204,6 +209,11 @@
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_values">
+        <item>back_forward</item>
+        <item>switch_tabs</item>
+        <item>none</item>
     </string-array>
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
