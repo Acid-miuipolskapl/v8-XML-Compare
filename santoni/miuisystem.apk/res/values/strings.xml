@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_8c">false</string>
+  <string name="APKTOOL_DUMMY_8d">false</string>
+  <string name="APKTOOL_DUMMY_8e">false</string>
   <string name="add_frequent_phrases">Add frequent phrases</string>
   <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
   <string name="android_ringtone_silent">None</string>

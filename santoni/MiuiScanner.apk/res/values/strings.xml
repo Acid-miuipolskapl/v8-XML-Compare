@@ -181,7 +181,6 @@
   <string name="allow_check_website_security">Show website security check notifications</string>
   <string name="app_details">App:</string>
   <string name="app_name">Scanner</string>
-  <string name="back">Back</string>
   <string name="barcode_into_rectangle">Place the code inside the frame</string>
   <string name="birthday">Birthday:</string>
   <string name="camera_error_title">Camera error</string>
@@ -392,7 +391,6 @@
   <string name="view_study_report">View report</string>
   <string name="web">Website:</string>
   <string name="website_details">Website:</string>
-  <string name="weixin_code_tip">Please use WeChat to scan this QR code</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_open_fail">"Can't turn on WLAN"</string>
   <string name="wifi_pwd">Password:</string>

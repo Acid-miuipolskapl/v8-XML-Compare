@@ -12,4 +12,5 @@
         <item quantity="other">%d hours</item>
         <item quantity="one">%d hour</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
 </resources>

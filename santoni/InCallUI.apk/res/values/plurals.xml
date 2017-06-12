@@ -8,4 +8,7 @@
         <item quantity="other">%d minutes left</item>
         <item quantity="one">%d minute left</item>
     </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_2">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_4">false</item>
 </resources>

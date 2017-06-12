@@ -31,8 +31,7 @@
   <string name="account_setting_message_body_load_text">Body only</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
-  <string name="account_settings_background_attachments_summary">Download attachments using WLAN</string>
-  <string name="account_settings_background_attachments_summary_inter">Download attachments using Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
   <string name="account_settings_data_usage">Sync settings</string>
   <string name="account_settings_description_label">Account name</string>
   <string name="account_settings_edit_quick_responses_label">Quick reply</string>
@@ -223,7 +222,6 @@
   <string name="auto_remind_text">Automatic reminders</string>
   <string name="auto_remind_unbind">Stop</string>
   <string name="auto_sync_off">Auto-sync is off.</string>
-  <string name="automatic_remind_text">remind</string>
   <string name="bank_card_detail">Credit card details</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
@@ -249,7 +247,6 @@
   <string name="calendar_remind_gridview_pick_date">Pick date</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
-  <string name="cancel_pop3_attchemt_downloading">Cancellation of any attachment being downloaded is not available to a POP3 type of account.</string>
   <string name="cant_move_or_change_labels">"Can't move items from multiple accounts."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -395,7 +392,7 @@
   <string name="download_message_failed_for_too_large">Message is too big to download.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bank statements</string>
-  <string name="drawer_classification">Intelligent classification</string>
+  <string name="drawer_bill_title">Bills</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_contacts">Contacts</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -413,7 +410,6 @@
   <string name="email_setting">Mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="email_suggestions_authority">com.android.email.provider</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
@@ -532,12 +528,11 @@
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Reply all</string>
   <string name="imap_name">IMAP</string>
-  <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
   <string name="import_button_text">Import</string>
   <string name="import_from_other_account">Import from other accounts</string>
   <string name="info_actionbar_normal_detail">Promotion</string>
-  <string name="info_item_hide">Delete</string>
+  <string name="info_item_hide">Hide</string>
   <string name="info_switch_summary">Show promotions on top of the inbox</string>
   <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
@@ -705,8 +700,6 @@ Try switching to a different email account."</string>
   <string name="no_filtrable_email_account">No accounts to filter</string>
   <string name="no_mails">No mail.</string>
   <string name="no_matched_attachment">No results.</string>
-  <string name="no_recognize_describe">"Couldn't find emails containing tickets or bookings.
-Try a different inbox."</string>
   <string name="no_remind">Not to remind</string>
   <string name="not_subject">(No subject)</string>
   <string name="not_synced_title">Account not synced</string>
@@ -755,7 +748,6 @@ Try a different inbox."</string>
   <string name="overlays_title">Open floating Windows permissions</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="parse_bill_discribe">Processing credit card bills…</string>
-  <string name="parse_recognize_describe">Analyzing email…</string>
   <string name="password_expire_warning_content_title">Lock screen password expiring</string>
   <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for %s will be erased. Do you want to change it now?</string>
   <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
@@ -807,8 +799,7 @@ to receive reminders about payments and trips"</string>
   <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
   <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
   <string name="policy_dont_allow_unsigned_installers">"Don't allow installing unsigned apps"</string>
-  <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
-  <string name="policy_dont_allow_wifi_inter">"Don't allow WIFI"</string>
+  <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
   <string name="policy_email_age">Limit the number of emails synced</string>
   <string name="policy_html_truncation">Restrict HTML email size</string>
   <string name="policy_password_expiration">Set expiration for passwords</string>
@@ -910,32 +901,6 @@ to receive reminders about payments and trips"</string>
   <string name="read_string">conversation read</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>
   <string name="recipient_needed_title">Warn</string>
-  <string name="recognize_hotel_check_in_date">Check-in time</string>
-  <string name="recognize_hotel_hotel_money">Price %1$s</string>
-  <string name="recognize_hotel_notification_content">Enjoy your stay!</string>
-  <string name="recognize_hotel_notification_title">You booked a room at %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
-  <string name="recognize_hotel_order_money">Total</string>
-  <string name="recognize_hotel_other_money">Other expenses %1$s</string>
-  <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
-  <string name="recognize_hotel_room_type">Room</string>
-  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-  <string name="recognize_hotel_title">Hotel booking</string>
-  <string name="recognize_hotel_user_names">Guest</string>
-  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-  <string name="recognize_setting_title">Travel settings</string>
-  <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
-  <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
-  <string name="recognize_ticket_air_state_stopover">Stopover</string>
-  <string name="recognize_ticket_air_state_transfer">Transfer</string>
-  <string name="recognize_ticket_air_user_name">Passenger:</string>
-  <string name="recognize_ticket_title">Plane &amp; train tickets</string>
-  <string name="recognize_ticket_train_alter">Changed</string>
-  <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
-  <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
-  <string name="recognize_ticket_train_notification_title">Train %3$s (%1$s/%2$s) will depart soon. Double check your ticket.</string>
-  <string name="recognize_ticket_train_return">Returned</string>
-  <string name="recognize_ticket_train_user_name">Passenger: %1$s</string>
-  <string name="recognize_title">Travel information</string>
   <string name="reduce_the_receiving_frequencye_summary">Sync inbox less frequently while Do not disturb is on</string>
   <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
   <string name="refresh">Refresh</string>
@@ -1092,7 +1057,7 @@ to receive reminders about payments and trips"</string>
     between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
-  <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing.
+  <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing bills.
 Stop now?"</string>
   <string name="undo">Undo</string>
   <string name="unknow">Unknown</string>

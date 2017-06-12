@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_381">false</string>
+  <string name="APKTOOL_DUMMY_382">false</string>
+  <string name="APKTOOL_DUMMY_383">false</string>
+  <string name="APKTOOL_DUMMY_384">false</string>
+  <string name="APKTOOL_DUMMY_385">false</string>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Add</string>
@@ -59,7 +64,6 @@
   <string name="artist_gender_female">Female</string>
   <string name="artist_gender_group">Group</string>
   <string name="artist_gender_male">Male</string>
-  <string name="artist_home_search_hint">Search for artists</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
   <string name="artist_news">News</string>
@@ -108,7 +112,6 @@
   <string name="can_not_find_resource">"Can't find resources"</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
-  <string name="change_download_quality">Change download quality</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Female artists (China)</string>
   <string name="chinese_group">Bands (China)</string>
@@ -136,7 +139,6 @@
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
   <string name="comment_format" formatted="false">%s: %s</string>
-  <string name="confirm">OK</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Renew</string>
   <string name="continue_backup">Continue</string>
@@ -214,7 +216,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="doc_filter">Docs</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
-  <string name="download_added_to_list">Added to download list</string>
   <string name="download_all_song">Download all</string>
   <string name="download_apk_desktop_installing">Installing</string>
   <string name="download_apk_desktop_pause">Paused</string>
@@ -270,20 +271,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_success">Complete</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
-  <string name="download_toast">Using mobile data to download songs</string>
-  <string name="download_toast_with_beyond_data">Using mobile data to download songs. Exceeded limit by %s</string>
-  <string name="download_toast_with_data">Using mobile data to download songs, %s remaining</string>
   <string name="download_traffic_dialog_buy_package">Buy music data plan</string>
-  <string name="download_traffic_dialog_msg">You have %s of mobile data left. Use mobile data to download songs?</string>
-  <string name="download_traffic_dialog_msg_beyond">"You've already exceeded your mobile data limit by %s. Use mobile data to download songs?"</string>
-  <string name="download_traffic_dialog_msg_serious">You have only %s of mobile data left. Use mobile data to download songs?</string>
-  <string name="download_traffic_dialog_msg_without_data">"You're using mobile data to download songs. Download anyway?"</string>
+  <string name="download_traffic_dialog_msg">Using your mobile data to download songs may increase your mobile data charges</string>
   <string name="download_traffic_dialog_negative_button">Wait for WLAN</string>
-  <string name="download_traffic_dialog_position_button">Download</string>
-  <string name="download_traffic_dialog_position_button_serious">Still download</string>
-  <string name="download_traffic_dialog_title">Data usage warning</string>
-  <string name="download_traffic_dialog_title_beyond">Data usage exceeded</string>
-  <string name="download_traffic_dialog_title_serious">Too little mobile data left</string>
+  <string name="download_traffic_dialog_position_button">Still download</string>
   <string name="download_unknown_title">&lt;Untitled&gt;</string>
   <string name="download_wait_connect">Waiting to connect</string>
   <string name="download_when_network_connected">Download when connected to the internet</string>
@@ -350,7 +341,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">%d mins</string>
+  <string name="filter_by_duration_max">%d min</string>
   <string name="filter_by_duration_min">%d sec</string>
   <string name="filter_by_duration_prefix">"Hide files shorter than "</string>
   <string name="filter_by_duration_summary">Hide short audio files</string>
@@ -482,7 +473,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="metered_alert_msg">"You're using mobile data to play songs. Play anyway?"</string>
   <string name="metered_alert_msg_with_data">You have %s of mobile data left. Use mobile data to play songs?</string>
   <string name="metered_allow">Play</string>
-  <string name="metered_beyond_alert">Data usage exceeded</string>
   <string name="metered_disallow">Not now</string>
   <string name="metered_play_toast">Using mobile data to play songs</string>
   <string name="metered_play_toast_with_beyond_data">Using mobile data to play songs. Exceeded limit by %s</string>
@@ -611,18 +601,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_my">My</string>
-  <string name="online_play_tips">This song is only available online. Turn on online services in the settings to listen to it.</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
   <string name="online_recommend">Playlist</string>
-  <string name="online_service_open_tip">Online music services are on</string>
-  <string name="online_service_title">Online services</string>
   <string name="online_special">Special</string>
-  <string name="online_switch">Online content services</string>
-  <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
-  <string name="online_switch_setting">Online content settings</string>
   <string name="open_download">Open</string>
-  <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
-  <string name="open_service">Turn on</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">Other</string>
@@ -722,7 +704,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Artist</string>
   <string name="search_hint">Search for artists, songs, albums, and recommendations</string>
-  <string name="search_hint_not_support_online">Search for artists, songs, and albums</string>
   <string name="search_history_clear_all">Clear</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_lyric">Search lyrics</string>
@@ -854,7 +835,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
-  <string name="title_online_fm_recommend">Featured FM</string>
   <string name="title_online_recommend">Featured playlists</string>
   <string name="title_online_release">New albums</string>
   <string name="title_online_song">Popular songs</string>
@@ -915,8 +895,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
   <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
   <string name="vip_renew_title">Subscription expired</string>
-  <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
-  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. Skipped the song for now.</string>
+  <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
+  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
   <string name="warning_tip_cancel">Download</string>
   <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>

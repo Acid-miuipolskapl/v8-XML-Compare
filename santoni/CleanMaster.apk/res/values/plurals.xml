@@ -89,19 +89,4 @@
         <item quantity="other">(%1$d empty files) %2$s</item>
         <item quantity="one">(%1$d empty file) %2$s</item>
     </plurals>
-    <plurals name="app_usage_day">
-        <item quantity="other">"Haven't used for %d days"</item>
-        <item quantity="one">"Haven't used for %d day"</item>
-    </plurals>
-    <plurals name="app_usage_month">
-        <item quantity="other">"Haven't used for %d months"</item>
-        <item quantity="one">"Haven't used for %d month"</item>
-    </plurals>
-    <plurals name="app_usage_year">
-        <item quantity="other">"Haven't used for %d years"</item>
-        <item quantity="one">"Haven't used for %d year"</item>
-    </plurals>
-    <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> apps haven't been used for a long time, take a look."&lt;/Data></item>
-    </plurals>
 </resources>
