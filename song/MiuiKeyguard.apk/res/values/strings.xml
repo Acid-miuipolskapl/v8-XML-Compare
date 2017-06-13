@@ -39,6 +39,7 @@
   <string name="APKTOOL_DUMMY_8b">false</string>
   <string name="APKTOOL_DUMMY_8c">false</string>
   <string name="APKTOOL_DUMMY_8d">false</string>
+  <string name="APKTOOL_DUMMY_8e">false</string>
   <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
   <string name="click_to_enter_text">Tap to view</string>
   <string name="confirm_pin_msg">Enter PIN again</string>
