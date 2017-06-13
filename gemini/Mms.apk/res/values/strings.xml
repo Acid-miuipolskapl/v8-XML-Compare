@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_295">false</string>
-  <string name="APKTOOL_DUMMY_296">false</string>
-  <string name="APKTOOL_DUMMY_297">false</string>
-  <string name="APKTOOL_DUMMY_298">false</string>
-  <string name="APKTOOL_DUMMY_299">false</string>
-  <string name="APKTOOL_DUMMY_29a">false</string>
-  <string name="APKTOOL_DUMMY_29b">false</string>
-  <string name="APKTOOL_DUMMY_29c">false</string>
-  <string name="APKTOOL_DUMMY_29d">false</string>
-  <string name="APKTOOL_DUMMY_29e">false</string>
-  <string name="APKTOOL_DUMMY_29f">false</string>
-  <string name="APKTOOL_DUMMY_2a0">false</string>
-  <string name="APKTOOL_DUMMY_2a1">false</string>
-  <string name="APKTOOL_DUMMY_2a2">false</string>
-  <string name="APKTOOL_DUMMY_2a3">false</string>
   <string name="APKTOOL_DUMMY_2a4">false</string>
   <string name="APKTOOL_DUMMY_2a5">false</string>
   <string name="APKTOOL_DUMMY_2a6">false</string>
@@ -62,6 +47,21 @@
   <string name="APKTOOL_DUMMY_2d0">false</string>
   <string name="APKTOOL_DUMMY_2d1">false</string>
   <string name="APKTOOL_DUMMY_2d2">false</string>
+  <string name="APKTOOL_DUMMY_2d3">false</string>
+  <string name="APKTOOL_DUMMY_2d4">false</string>
+  <string name="APKTOOL_DUMMY_2d5">false</string>
+  <string name="APKTOOL_DUMMY_2d6">false</string>
+  <string name="APKTOOL_DUMMY_2d7">false</string>
+  <string name="APKTOOL_DUMMY_2d8">false</string>
+  <string name="APKTOOL_DUMMY_2d9">false</string>
+  <string name="APKTOOL_DUMMY_2da">false</string>
+  <string name="APKTOOL_DUMMY_2db">false</string>
+  <string name="APKTOOL_DUMMY_2dc">false</string>
+  <string name="APKTOOL_DUMMY_2dd">false</string>
+  <string name="APKTOOL_DUMMY_2de">false</string>
+  <string name="APKTOOL_DUMMY_2df">false</string>
+  <string name="APKTOOL_DUMMY_2e0">false</string>
+  <string name="APKTOOL_DUMMY_2e1">false</string>
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
@@ -182,12 +182,15 @@
   <string name="delete_message">Delete</string>
   <string name="delete_phrase">Delete response</string>
   <string name="delete_unlocked">Delete locked messages</string>
+  <string name="delete_verification_code_sms_message">Delete all one-time passwords?</string>
+  <string name="delete_verification_code_sms_title">Clean one-time passwords</string>
   <string name="delete_wild_sims">Delete numbers</string>
   <string name="delete_wild_sims_confirm">All the messages belong to selected numbers will be deleted in this phone. You can restore them in i.mi.com.</string>
   <string name="delete_wild_sims_title">Delete selected numbers</string>
   <string name="delivery_report_activity">Delivery report</string>
   <string name="delivery_toast_body">Message received by %s</string>
   <string name="disable_notifications_dialog_message">Stop duplicate text message notifications from default Messaging app?</string>
+  <string name="disabled">Disabled</string>
   <string name="discard">Discard</string>
   <string name="discard_message">Discard</string>
   <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
@@ -202,10 +205,12 @@
   <string name="duration_sec">Duration (%s sec)</string>
   <string name="duration_selector_title">"Duration for slide "</string>
   <string name="duration_zero">Duration must be greater than 0 seconds</string>
+  <string name="earlier">Earlier</string>
   <string name="edit">Edit</string>
   <string name="edit_phrase">Edit quick responses</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
+  <string name="enabled">Enabled</string>
   <string name="english_subject_limit">40 character limit</string>
   <string name="enter_edit_mode">Edit messages</string>
   <string name="error_code_label">"Error code: "</string>
@@ -227,6 +232,7 @@
   <string name="fake_cell_detection_entry">Fake base station detection</string>
   <string name="fake_cell_safe_hint">This message is safe</string>
   <string name="fake_cell_timeout_hint">"Couldn't check safety"</string>
+  <string name="favorite_at_time">Starred at: %1s</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -249,6 +255,8 @@
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
   <string name="group_resend_message">Resend (%d)</string>
+  <string name="group_verification_codes_summary">Automatically group one-time passwords together</string>
+  <string name="group_verification_codes_title">OTP messages group</string>
   <string name="guild_add_attachments">Tap to add emoticons and other items</string>
   <string name="guild_add_recipients">Tap to add recipients from contacts</string>
   <string name="guild_msim_switcher">Tap to switch SIM cards</string>
@@ -443,6 +451,7 @@
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_list_avatar_summary">Show profile photos and contact info in list view</string>
+  <string name="pref_show_sms_template_entry_summary">Detect one-time passwords in SMS</string>
   <string name="pref_show_sms_template_in_summary">Automatically detect one-time passwords in SMS messages</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
@@ -460,13 +469,9 @@
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Set MIUI's Messaging app as the default app to send and receive MMS"</string>
   <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
-  <string name="pref_summary_show_recent_contacts">Show recent contacts when composing a new message</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new message is received</string>
   <string name="pref_switch_sdk_setting">Switch smart SMS service provider</string>
   <string name="pref_system_title">System</string>
-  <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
-  <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other together</string>
-  <string name="pref_time_auto_group_title">Group by time</string>
   <string name="pref_title_about_smart_sms">About Smart messages partner</string>
   <string name="pref_title_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_title_card_format">Card share format</string>
@@ -483,7 +488,6 @@
   <string name="pref_title_ringtone_repeat">Notification sounds</string>
   <string name="pref_title_ringtone_repeat_summary">Play a notification sound when message is received while display is off</string>
   <string name="pref_title_send_delivery_reports">Send delivery messages</string>
-  <string name="pref_title_show_recent_contacts">Show recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
   <string name="pref_title_sms_validity_period">SMS expiration</string>
   <string name="pref_title_storage_status">Message storage status</string>
@@ -515,6 +519,7 @@
   <string name="prvate_contact">Private contacts</string>
   <string name="quick_reply">Reply</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="received_at_time">Received at: %1s</string>
   <string name="received_label">"Received: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Recipient: "</string>
@@ -589,6 +594,7 @@
   <string name="send_to">To:</string>
   <string name="send_to_count">Sent %1$s messages</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Sent at: %1s</string>
   <string name="sent_label">"Sent: "</string>
   <string name="service_message_not_found">Message expired or unavailable</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
@@ -678,6 +684,7 @@
   <string name="to_count">%d recipients</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
+  <string name="today">Today</string>
   <string name="too_many_attachments">"Can't exceed %1$s attachments. Only the first %2$s will be added."</string>
   <string name="too_many_recipients">"Message has too many recipients (%1$s). You can't have more than %2$s recipients."</string>
   <string name="too_many_unsent_mms">"Can't send message right now. Too many unsent multimedia messages."</string>
@@ -713,6 +720,8 @@ Attempt made: %s."</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_agreement5">By tapping OK, you agree to our Terms of Service and Privacy Policy.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Verification Codes</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
   <string name="view_message_details">View details</string>
@@ -725,4 +734,5 @@ Attempt made: %s."</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="yellowpage_recommend_msg">"Check out MIUI's messaging features"</string>
   <string name="yes">OK</string>
+  <string name="yesterday">Yesterday</string>
 </resources>
