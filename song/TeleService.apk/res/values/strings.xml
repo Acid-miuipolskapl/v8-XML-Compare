@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_5f4">false</string>
   <string name="APKTOOL_DUMMY_5f5">false</string>
-  <string name="APKTOOL_DUMMY_5fb">false</string>
+  <string name="APKTOOL_DUMMY_5f6">false</string>
   <string name="APKTOOL_DUMMY_5fc">false</string>
   <string name="APKTOOL_DUMMY_5fd">false</string>
   <string name="APKTOOL_DUMMY_5fe">false</string>
@@ -26,18 +25,18 @@
   <string name="APKTOOL_DUMMY_610">false</string>
   <string name="APKTOOL_DUMMY_611">false</string>
   <string name="APKTOOL_DUMMY_612">false</string>
-  <string name="APKTOOL_DUMMY_621">false</string>
-  <string name="APKTOOL_DUMMY_635">false</string>
+  <string name="APKTOOL_DUMMY_613">false</string>
+  <string name="APKTOOL_DUMMY_622">false</string>
   <string name="APKTOOL_DUMMY_636">false</string>
-  <string name="APKTOOL_DUMMY_638">false</string>
-  <string name="APKTOOL_DUMMY_644">false</string>
+  <string name="APKTOOL_DUMMY_637">false</string>
+  <string name="APKTOOL_DUMMY_639">false</string>
   <string name="APKTOOL_DUMMY_645">false</string>
-  <string name="APKTOOL_DUMMY_64c">false</string>
+  <string name="APKTOOL_DUMMY_646">false</string>
   <string name="APKTOOL_DUMMY_64d">false</string>
-  <string name="APKTOOL_DUMMY_67c">false</string>
+  <string name="APKTOOL_DUMMY_64e">false</string>
   <string name="APKTOOL_DUMMY_67d">false</string>
   <string name="APKTOOL_DUMMY_67e">false</string>
-  <string name="APKTOOL_DUMMY_686">false</string>
+  <string name="APKTOOL_DUMMY_67f">false</string>
   <string name="APKTOOL_DUMMY_687">false</string>
   <string name="APKTOOL_DUMMY_688">false</string>
   <string name="APKTOOL_DUMMY_689">false</string>
@@ -45,7 +44,7 @@
   <string name="APKTOOL_DUMMY_68b">false</string>
   <string name="APKTOOL_DUMMY_68c">false</string>
   <string name="APKTOOL_DUMMY_68d">false</string>
-  <string name="APKTOOL_DUMMY_69f">false</string>
+  <string name="APKTOOL_DUMMY_68e">false</string>
   <string name="APKTOOL_DUMMY_6a0">false</string>
   <string name="APKTOOL_DUMMY_6a1">false</string>
   <string name="APKTOOL_DUMMY_6a2">false</string>
@@ -53,7 +52,7 @@
   <string name="APKTOOL_DUMMY_6a4">false</string>
   <string name="APKTOOL_DUMMY_6a5">false</string>
   <string name="APKTOOL_DUMMY_6a6">false</string>
-  <string name="APKTOOL_DUMMY_6ab">false</string>
+  <string name="APKTOOL_DUMMY_6a7">false</string>
   <string name="APKTOOL_DUMMY_6ac">false</string>
   <string name="APKTOOL_DUMMY_6ad">false</string>
   <string name="APKTOOL_DUMMY_6ae">false</string>
@@ -64,8 +63,8 @@
   <string name="APKTOOL_DUMMY_6b3">false</string>
   <string name="APKTOOL_DUMMY_6b4">false</string>
   <string name="APKTOOL_DUMMY_6b5">false</string>
-  <string name="APKTOOL_DUMMY_6b8">false</string>
-  <string name="APKTOOL_DUMMY_6c0">false</string>
+  <string name="APKTOOL_DUMMY_6b6">false</string>
+  <string name="APKTOOL_DUMMY_6b9">false</string>
   <string name="APKTOOL_DUMMY_6c1">false</string>
   <string name="APKTOOL_DUMMY_6c2">false</string>
   <string name="APKTOOL_DUMMY_6c3">false</string>
@@ -91,17 +90,17 @@
   <string name="APKTOOL_DUMMY_6d7">false</string>
   <string name="APKTOOL_DUMMY_6d8">false</string>
   <string name="APKTOOL_DUMMY_6d9">false</string>
-  <string name="APKTOOL_DUMMY_6db">false</string>
+  <string name="APKTOOL_DUMMY_6da">false</string>
   <string name="APKTOOL_DUMMY_6dc">false</string>
   <string name="APKTOOL_DUMMY_6dd">false</string>
-  <string name="APKTOOL_DUMMY_6e5">false</string>
+  <string name="APKTOOL_DUMMY_6de">false</string>
   <string name="APKTOOL_DUMMY_6e6">false</string>
   <string name="APKTOOL_DUMMY_6e7">false</string>
   <string name="APKTOOL_DUMMY_6e8">false</string>
-  <string name="APKTOOL_DUMMY_6f1">false</string>
+  <string name="APKTOOL_DUMMY_6e9">false</string>
   <string name="APKTOOL_DUMMY_6f2">false</string>
   <string name="APKTOOL_DUMMY_6f3">false</string>
-  <string name="APKTOOL_DUMMY_70f">false</string>
+  <string name="APKTOOL_DUMMY_6f4">false</string>
   <string name="APKTOOL_DUMMY_710">false</string>
   <string name="APKTOOL_DUMMY_711">false</string>
   <string name="APKTOOL_DUMMY_712">false</string>
@@ -119,6 +118,7 @@
   <string name="APKTOOL_DUMMY_71e">false</string>
   <string name="APKTOOL_DUMMY_71f">false</string>
   <string name="APKTOOL_DUMMY_720">false</string>
+  <string name="APKTOOL_DUMMY_721">false</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
   <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
   <string name="accessibility_no_wifi">Wifi disconnected.</string>
@@ -1614,6 +1614,7 @@ Contact your carrier if this problem persists."</string>
   <string name="volte_provision_notification_activate">Activate</string>
   <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
   <string name="volte_provision_title">Activate VoLTE calls</string>
+  <string name="volte_switch_not_support_summary">"VoLTE calls aren't supported for the mobile data SIM card."</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
