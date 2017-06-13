@@ -1440,6 +1440,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Automatically connect</item>
         <item>Manually connect</item>
     </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>close</item>
+        <item>normal mode</item>
+        <item>extreme mode</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
         <item>1</item>
@@ -1708,6 +1718,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>il</item>
         <item>it</item>
         <item>jm</item>
+        <item>jp</item>
         <item>jo</item>
         <item>kz</item>
         <item>ke</item>
@@ -2516,13 +2527,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_100">false</item>
-    <item type="array" name="APKTOOL_DUMMY_101">false</item>
     <item type="array" name="APKTOOL_DUMMY_102">false</item>
     <item type="array" name="APKTOOL_DUMMY_103">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
+    <item type="array" name="APKTOOL_DUMMY_104">false</item>
+    <item type="array" name="APKTOOL_DUMMY_105">false</item>
     <item type="array" name="APKTOOL_DUMMY_108">false</item>
     <item type="array" name="APKTOOL_DUMMY_109">false</item>
     <item type="array" name="APKTOOL_DUMMY_10a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_10c">false</item>
 </resources>
