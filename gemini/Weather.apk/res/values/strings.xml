@@ -83,7 +83,6 @@
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">Unit: µg/m³</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_fifteen_dates_time_format">M/d</string>
   <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
   <string name="aqi_publish_time">Updated %1$s</string>
