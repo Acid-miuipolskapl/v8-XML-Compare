@@ -322,10 +322,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_054a</item>
-        <item>@string/APKTOOL_DUMMY_0548</item>
-        <item>@string/APKTOOL_DUMMY_0549</item>
-        <item>@string/APKTOOL_DUMMY_054b</item>
+        <item>@string/APKTOOL_DUMMY_0558</item>
+        <item>@string/APKTOOL_DUMMY_0556</item>
+        <item>@string/APKTOOL_DUMMY_0557</item>
+        <item>@string/APKTOOL_DUMMY_0559</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -479,13 +479,11 @@
     </string-array>
     <integer-array name="support_networktypes_cdma_master">
         <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>7</item>
     </integer-array>
     <integer-array name="support_networktypes_cdma_vice">
         <item>10</item>
-        <item>8</item>
-        <item>4</item>
+        <item>7</item>
     </integer-array>
     <integer-array name="support_networktypes_gsm_master">
         <item>20</item>
@@ -496,46 +494,5 @@
         <item>20</item>
         <item>18</item>
         <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cm">
-        <item>16</item>
-        <item>1</item>
-        <item>13</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cm">
-        <item>17</item>
-        <item>16</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cu">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cu">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_gsm">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cdma">
-        <item>7</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cdma">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_all_lte">
-        <item>10</item>
-        <item>8</item>
-        <item>20</item>
-        <item>17</item>
-        <item>9</item>
     </integer-array>
 </resources>
