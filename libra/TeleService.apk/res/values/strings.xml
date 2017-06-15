@@ -1571,6 +1571,7 @@ Contact your carrier if this problem persists."</string>
   <string name="volte_provision_notification_activate">Activate</string>
   <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
   <string name="volte_provision_title">Activate VoLTE calls</string>
+  <string name="volte_switch_not_support_summary">"VoLTE calls aren't supported for the mobile data SIM card."</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
