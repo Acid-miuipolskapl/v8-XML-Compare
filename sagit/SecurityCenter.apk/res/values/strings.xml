@@ -59,8 +59,8 @@
   <string name="APKTOOL_DUMMY_8f6">false</string>
   <string name="APKTOOL_DUMMY_8f7">false</string>
   <string name="APKTOOL_DUMMY_8f8">false</string>
-  <string name="APKTOOL_DUMMY_964">false</string>
-  <string name="APKTOOL_DUMMY_978">false</string>
+  <string name="APKTOOL_DUMMY_8f9">false</string>
+  <string name="APKTOOL_DUMMY_965">false</string>
   <string name="APKTOOL_DUMMY_979">false</string>
   <string name="APKTOOL_DUMMY_97a">false</string>
   <string name="APKTOOL_DUMMY_97b">false</string>
@@ -235,6 +235,7 @@
   <string name="APKTOOL_DUMMY_a24">false</string>
   <string name="APKTOOL_DUMMY_a25">false</string>
   <string name="APKTOOL_DUMMY_a26">false</string>
+  <string name="APKTOOL_DUMMY_a27">false</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
@@ -986,12 +987,12 @@ in case you forget it"</string>
   <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobile data</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s can't use network"</string>
   <string name="firewall_partial">Allow some apps to connect using the following method​</string>
   <string name="firewall_restrict_all">Restrict connection for all apps using the following method</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_restrict_data">Restrict mobile data usage</string>
+  <string name="firewall_restrict_notify_title">"%s can't use network"</string>
   <string name="firewall_restrict_wlan">Restrict using WLAN connection</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>

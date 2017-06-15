@@ -85,7 +85,7 @@
   <string name="error_widget_exist_for_send_to_desktop">This note is already on your Home screen</string>
   <string name="folder_exist">A folder with the same name already exists</string>
   <string name="force_touch_menu_add">Add note</string>
-  <string name="format_move_note_out_folder">Moved out</string>
+  <string name="format_move_note_out_folder">This note was moved</string>
   <string name="format_move_note_to_folder">Moved to %1$s</string>
   <string name="format_move_notes_out_folder">Moved %1$s out</string>
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
