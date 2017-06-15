@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name=" hide_error_from_network_text">Unable to Process Request</string>
-  <string name="APKTOOL_DUMMY_65d">false</string>
   <string name="APKTOOL_DUMMY_65e">false</string>
-  <string name="APKTOOL_DUMMY_664">false</string>
+  <string name="APKTOOL_DUMMY_65f">false</string>
   <string name="APKTOOL_DUMMY_665">false</string>
   <string name="APKTOOL_DUMMY_666">false</string>
   <string name="APKTOOL_DUMMY_667">false</string>
@@ -14,18 +13,18 @@
   <string name="APKTOOL_DUMMY_66c">false</string>
   <string name="APKTOOL_DUMMY_66d">false</string>
   <string name="APKTOOL_DUMMY_66e">false</string>
-  <string name="APKTOOL_DUMMY_67c">false</string>
+  <string name="APKTOOL_DUMMY_66f">false</string>
   <string name="APKTOOL_DUMMY_67d">false</string>
   <string name="APKTOOL_DUMMY_67e">false</string>
-  <string name="APKTOOL_DUMMY_680">false</string>
-  <string name="APKTOOL_DUMMY_68c">false</string>
+  <string name="APKTOOL_DUMMY_67f">false</string>
+  <string name="APKTOOL_DUMMY_681">false</string>
   <string name="APKTOOL_DUMMY_68d">false</string>
-  <string name="APKTOOL_DUMMY_694">false</string>
+  <string name="APKTOOL_DUMMY_68e">false</string>
   <string name="APKTOOL_DUMMY_695">false</string>
-  <string name="APKTOOL_DUMMY_6c4">false</string>
+  <string name="APKTOOL_DUMMY_696">false</string>
   <string name="APKTOOL_DUMMY_6c5">false</string>
   <string name="APKTOOL_DUMMY_6c6">false</string>
-  <string name="APKTOOL_DUMMY_6ce">false</string>
+  <string name="APKTOOL_DUMMY_6c7">false</string>
   <string name="APKTOOL_DUMMY_6cf">false</string>
   <string name="APKTOOL_DUMMY_6d0">false</string>
   <string name="APKTOOL_DUMMY_6d1">false</string>
@@ -33,7 +32,7 @@
   <string name="APKTOOL_DUMMY_6d3">false</string>
   <string name="APKTOOL_DUMMY_6d4">false</string>
   <string name="APKTOOL_DUMMY_6d5">false</string>
-  <string name="APKTOOL_DUMMY_6e7">false</string>
+  <string name="APKTOOL_DUMMY_6d6">false</string>
   <string name="APKTOOL_DUMMY_6e8">false</string>
   <string name="APKTOOL_DUMMY_6e9">false</string>
   <string name="APKTOOL_DUMMY_6ea">false</string>
@@ -41,7 +40,7 @@
   <string name="APKTOOL_DUMMY_6ec">false</string>
   <string name="APKTOOL_DUMMY_6ed">false</string>
   <string name="APKTOOL_DUMMY_6ee">false</string>
-  <string name="APKTOOL_DUMMY_6f3">false</string>
+  <string name="APKTOOL_DUMMY_6ef">false</string>
   <string name="APKTOOL_DUMMY_6f4">false</string>
   <string name="APKTOOL_DUMMY_6f5">false</string>
   <string name="APKTOOL_DUMMY_6f6">false</string>
@@ -52,8 +51,8 @@
   <string name="APKTOOL_DUMMY_6fb">false</string>
   <string name="APKTOOL_DUMMY_6fc">false</string>
   <string name="APKTOOL_DUMMY_6fd">false</string>
-  <string name="APKTOOL_DUMMY_700">false</string>
-  <string name="APKTOOL_DUMMY_708">false</string>
+  <string name="APKTOOL_DUMMY_6fe">false</string>
+  <string name="APKTOOL_DUMMY_701">false</string>
   <string name="APKTOOL_DUMMY_709">false</string>
   <string name="APKTOOL_DUMMY_70a">false</string>
   <string name="APKTOOL_DUMMY_70b">false</string>
@@ -71,10 +70,10 @@
   <string name="APKTOOL_DUMMY_717">false</string>
   <string name="APKTOOL_DUMMY_718">false</string>
   <string name="APKTOOL_DUMMY_719">false</string>
-  <string name="APKTOOL_DUMMY_722">false</string>
+  <string name="APKTOOL_DUMMY_71a">false</string>
   <string name="APKTOOL_DUMMY_723">false</string>
   <string name="APKTOOL_DUMMY_724">false</string>
-  <string name="APKTOOL_DUMMY_740">false</string>
+  <string name="APKTOOL_DUMMY_725">false</string>
   <string name="APKTOOL_DUMMY_741">false</string>
   <string name="APKTOOL_DUMMY_742">false</string>
   <string name="APKTOOL_DUMMY_743">false</string>
@@ -92,6 +91,7 @@
   <string name="APKTOOL_DUMMY_74f">false</string>
   <string name="APKTOOL_DUMMY_750">false</string>
   <string name="APKTOOL_DUMMY_751">false</string>
+  <string name="APKTOOL_DUMMY_752">false</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM corporate unlock PIN</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Requesting RUIM corporate unlock…</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK unlock unsuccessful.</string>
@@ -1684,6 +1684,7 @@ Contact your carrier if this problem persists."</string>
   <string name="volte_provision_notification_activate">Activate</string>
   <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
   <string name="volte_provision_title">Activate VoLTE calls</string>
+  <string name="volte_switch_not_support_summary">"VoLTE calls aren't supported for the mobile data SIM card."</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
