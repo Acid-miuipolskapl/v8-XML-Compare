@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_11b">false</string>
   <string name="APKTOOL_DUMMY_11c">false</string>
   <string name="APKTOOL_DUMMY_11d">false</string>
   <string name="APKTOOL_DUMMY_11e">false</string>
@@ -36,6 +35,8 @@
   <string name="APKTOOL_DUMMY_13c">false</string>
   <string name="APKTOOL_DUMMY_13d">false</string>
   <string name="APKTOOL_DUMMY_13e">false</string>
+  <string name="APKTOOL_DUMMY_13f">false</string>
+  <string name="APKTOOL_DUMMY_140">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_city_title">Popular cities</string>
@@ -83,7 +84,6 @@
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">Unit: µg/m³</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_fifteen_dates_time_format">M/d</string>
   <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
   <string name="aqi_publish_time">Updated %1$s</string>
@@ -104,7 +104,7 @@
   <string name="aqi_station_min_distance_station">Nearest station</string>
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Major pollutants</string>
-  <string name="button_abandon">Abandon changes</string>
+  <string name="button_abandon">Discard changes</string>
   <string name="button_add_city">Add location</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Allow</string>
@@ -302,5 +302,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
+  <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
+  <string name="xiaomi_weather_description_title">About Weather</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

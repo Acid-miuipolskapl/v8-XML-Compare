@@ -366,11 +366,11 @@
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>15</item>
+        <item>20</item>
+        <item>25</item>
         <item>30</item>
-        <item>30</item>
-        <item>30</item>
-        <item>30</item>
-        <item>30</item>
+        <item>35</item>
+        <item>40</item>
         <item>51</item>
         <item>56</item>
         <item>56</item>
@@ -1165,7 +1165,7 @@
     </integer-array>
     <integer-array name="config_manualBrightnessRemapOut">
         <item>15</item>
-        <item>15</item>
+        <item>16</item>
         <item>18</item>
         <item>26</item>
         <item>60</item>
