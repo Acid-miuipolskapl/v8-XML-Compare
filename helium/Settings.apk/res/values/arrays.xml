@@ -1440,6 +1440,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Automatically connect</item>
         <item>Manually connect</item>
     </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>close</item>
+        <item>normal mode</item>
+        <item>extreme mode</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
         <item>1</item>
@@ -1708,6 +1718,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>il</item>
         <item>it</item>
         <item>jm</item>
+        <item>jp</item>
         <item>jo</item>
         <item>kz</item>
         <item>ke</item>
@@ -2519,32 +2530,22 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version">
         <item>3.00GB</item>
         <item>64GB</item>
-        <item>四核最高2.5GHz</item>
-    </string-array>
-    <string-array name="high_configuration_version">
-        <item>4.00GB</item>
-        <item>128GB</item>
-        <item>四核最高2.15GHz</item>
-    </string-array>
-    <string-array name="enjoy_version">
-        <item>4.00GB</item>
-        <item>128GB</item>
-        <item>四核最高2.15GHz</item>
+        <item>Quad-core Max 2.5GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
-        <item>处理器</item>
-        <item>电池容量</item>
-        <item>后置摄像头</item>
-        <item>屏幕尺寸</item>
-        <item>分辨率</item>
-        <item>Android版本</item>
+        <item>CPU</item>
+        <item>Battery capacity</item>
+        <item>Rear camera</item>
+        <item>Screen size</item>
+        <item>Resolution</item>
+        <item>Android version</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>高通骁龙652</item>
+        <item>Snapdragon 652</item>
         <item>4760mAh(typ)</item>
-        <item>1600万像素</item>
-        <item>6.44英寸</item>
-        <item>1920 × 1080像素</item>
+        <item>16MP</item>
+        <item>6.44 inches</item>
+        <item>1920 × 1080</item>
         <item>6.0.1</item>
     </string-array>
     <item type="array" name="APKTOOL_DUMMY_105">false</item>
