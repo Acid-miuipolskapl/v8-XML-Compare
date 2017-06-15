@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_288">false</string>
   <string name="APKTOOL_DUMMY_289">false</string>
   <string name="APKTOOL_DUMMY_28a">false</string>
   <string name="APKTOOL_DUMMY_28b">false</string>
+  <string name="APKTOOL_DUMMY_28c">false</string>
   <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
   <string name="accessibility_action_divider_left_30">Left 30%</string>
   <string name="accessibility_action_divider_left_50">Left 50%</string>
@@ -314,6 +314,7 @@ Use only the supplied charger."</string>
   <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
+  <string name="loading_desktop">Just a sec…</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
   <string name="local_backup_password_title">Desktop backup password</string>
