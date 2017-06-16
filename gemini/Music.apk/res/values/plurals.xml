@@ -129,5 +129,4 @@
         <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
         <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_20">false</item>
 </resources>
