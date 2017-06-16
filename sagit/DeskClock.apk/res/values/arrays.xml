@@ -1043,9 +1043,4 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_16">false</item>
-    <item type="array" name="APKTOOL_DUMMY_17">false</item>
-    <item type="array" name="APKTOOL_DUMMY_18">false</item>
-    <item type="array" name="APKTOOL_DUMMY_19">false</item>
-    <item type="array" name="APKTOOL_DUMMY_1a">false</item>
 </resources>
