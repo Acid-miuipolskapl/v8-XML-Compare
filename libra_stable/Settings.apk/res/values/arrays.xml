@@ -1899,11 +1899,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Notes</item>
         <item>Child mode</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_101">false</item>
-    <item type="array" name="APKTOOL_DUMMY_102">false</item>
-    <item type="array" name="APKTOOL_DUMMY_103">false</item>
-    <item type="array" name="APKTOOL_DUMMY_104">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
-    <item type="array" name="APKTOOL_DUMMY_108">false</item>
 </resources>

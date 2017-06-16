@@ -34,5 +34,4 @@
         <item>500</item>
         <item>1000</item>
     </integer-array>
-    <item type="array" name="APKTOOL_DUMMY_5">false</item>
 </resources>

@@ -2548,13 +2548,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1920 × 1080</item>
         <item>6.0.1</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
-    <item type="array" name="APKTOOL_DUMMY_108">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10b">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10c">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10e">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10f">false</item>
 </resources>

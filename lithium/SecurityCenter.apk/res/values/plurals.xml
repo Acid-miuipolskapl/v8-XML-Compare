@@ -302,11 +302,4 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"Haven't used for %d years"</item>
         <item quantity="one">"Haven't used for %d year"</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_4d">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_4e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_4f">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_50">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_51">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_52">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_53">false</item>
 </resources>

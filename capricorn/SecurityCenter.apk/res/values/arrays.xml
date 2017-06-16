@@ -242,9 +242,4 @@
         <item>3</item>
         <item>4</item>
     </integer-array>
-    <item type="array" name="APKTOOL_DUMMY_2a">false</item>
-    <item type="array" name="APKTOOL_DUMMY_2b">false</item>
-    <item type="array" name="APKTOOL_DUMMY_2c">false</item>
-    <item type="array" name="APKTOOL_DUMMY_2d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_2e">false</item>
 </resources>

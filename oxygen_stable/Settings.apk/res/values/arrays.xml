@@ -2498,13 +2498,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_fe">false</item>
-    <item type="array" name="APKTOOL_DUMMY_ff">false</item>
-    <item type="array" name="APKTOOL_DUMMY_100">false</item>
-    <item type="array" name="APKTOOL_DUMMY_101">false</item>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
-    <item type="array" name="APKTOOL_DUMMY_108">false</item>
-    <item type="array" name="APKTOOL_DUMMY_109">false</item>
 </resources>

@@ -216,13 +216,4 @@
         <item>ABSENT NUMBER</item>
         <item>ABSENTNUMBER</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_0023">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0024">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0025">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0026">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0027">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0028">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0029">false</item>
-    <item type="array" name="APKTOOL_DUMMY_002a">false</item>
-    <item type="array" name="APKTOOL_DUMMY_002b">false</item>
 </resources>

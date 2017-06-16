@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_19">false</string>
-  <string name="APKTOOL_DUMMY_1a">false</string>
   <string name="alphabet">Alphabets</string>
   <string name="app_name">SIM Toolkit</string>
   <string name="button_cancel">Cancel</string>

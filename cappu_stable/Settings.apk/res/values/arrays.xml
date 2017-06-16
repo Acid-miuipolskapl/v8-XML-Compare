@@ -2094,18 +2094,4 @@ GLONASS
         <item>"小米手机5，快的有点狠!
 http://m.mi.com"</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_103">false</item>
-    <item type="array" name="APKTOOL_DUMMY_104">false</item>
-    <item type="array" name="APKTOOL_DUMMY_105">false</item>
-    <item type="array" name="APKTOOL_DUMMY_106">false</item>
-    <item type="array" name="APKTOOL_DUMMY_107">false</item>
-    <item type="array" name="APKTOOL_DUMMY_108">false</item>
-    <item type="array" name="APKTOOL_DUMMY_109">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10b">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10c">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_10e">false</item>
-    <item type="array" name="APKTOOL_DUMMY_110">false</item>
-    <item type="array" name="APKTOOL_DUMMY_111">false</item>
-    <item type="array" name="APKTOOL_DUMMY_112">false</item>
 </resources>

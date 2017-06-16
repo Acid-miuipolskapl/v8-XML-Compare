@@ -631,10 +631,6 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_71d</item>
-        <item>@string/APKTOOL_DUMMY_71b</item>
-        <item>@string/APKTOOL_DUMMY_71c</item>
-        <item>@string/APKTOOL_DUMMY_71e</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -806,6 +802,4 @@
         <item>18</item>
         <item>1</item>
     </integer-array>
-    <item type="array" name="APKTOOL_DUMMY_75">false</item>
-    <item type="array" name="APKTOOL_DUMMY_77">false</item>
 </resources>

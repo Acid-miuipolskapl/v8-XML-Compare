@@ -296,6 +296,4 @@
         <item quantity="other">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gems to participate in lucky draw</item>
         <item quantity="one">Collect &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> more gem to participate in lucky draw</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_2b">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_2c">false</item>
 </resources>

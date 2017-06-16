@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_111">false</string>
-  <string name="APKTOOL_DUMMY_112">false</string>
-  <string name="APKTOOL_DUMMY_113">false</string>
-  <string name="APKTOOL_DUMMY_114">false</string>
-  <string name="APKTOOL_DUMMY_115">false</string>
-  <string name="APKTOOL_DUMMY_116">false</string>
-  <string name="APKTOOL_DUMMY_117">false</string>
-  <string name="APKTOOL_DUMMY_118">false</string>
-  <string name="APKTOOL_DUMMY_119">false</string>
-  <string name="APKTOOL_DUMMY_11a">false</string>
-  <string name="APKTOOL_DUMMY_11b">false</string>
-  <string name="APKTOOL_DUMMY_11c">false</string>
-  <string name="APKTOOL_DUMMY_11d">false</string>
-  <string name="APKTOOL_DUMMY_11e">false</string>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>

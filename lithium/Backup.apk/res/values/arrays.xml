@@ -19,11 +19,4 @@
         <item>@string/st_antispam_mode_only_whitelist_state</item>
         <item>@string/st_antispam_mode_only_all_deny_state</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_3">false</item>
-    <item type="array" name="APKTOOL_DUMMY_4">false</item>
-    <item type="array" name="APKTOOL_DUMMY_5">false</item>
-    <item type="array" name="APKTOOL_DUMMY_6">false</item>
-    <item type="array" name="APKTOOL_DUMMY_7">false</item>
-    <item type="array" name="APKTOOL_DUMMY_8">false</item>
-    <item type="array" name="APKTOOL_DUMMY_9">false</item>
 </resources>

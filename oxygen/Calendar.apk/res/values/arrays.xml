@@ -447,13 +447,4 @@
         <item>Time</item>
         <item>Count</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_2d">false</item>
-    <item type="array" name="APKTOOL_DUMMY_2e">false</item>
-    <item type="array" name="APKTOOL_DUMMY_2f">false</item>
-    <item type="array" name="APKTOOL_DUMMY_30">false</item>
-    <item type="array" name="APKTOOL_DUMMY_31">false</item>
-    <item type="array" name="APKTOOL_DUMMY_32">false</item>
-    <item type="array" name="APKTOOL_DUMMY_33">false</item>
-    <item type="array" name="APKTOOL_DUMMY_34">false</item>
-    <item type="array" name="APKTOOL_DUMMY_35">false</item>
 </resources>

@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_cc">false</string>
-  <string name="APKTOOL_DUMMY_cd">false</string>
-  <string name="APKTOOL_DUMMY_d0">false</string>
   <string name="ErrorTooManyRequests">Too many requests are being processed. Try again later.</string>
   <string name="ack_record">Ack record</string>
   <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
