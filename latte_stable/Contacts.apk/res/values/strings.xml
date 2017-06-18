@@ -384,6 +384,7 @@ Reason: \"%s\""</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
+  <string name="gallery">Gallery</string>
   <string name="generic_no_account_prompt">Keep your contacts safe even if you lose your phone: synchronize with an online service.</string>
   <string name="generic_no_account_prompt_title">Add an account</string>
   <string name="ghostData_company">Company</string>

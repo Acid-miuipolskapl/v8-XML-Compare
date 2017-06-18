@@ -19,10 +19,12 @@
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">Add fingerprint</string>
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password after rebooting device to be able to use fingerprint recognition</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
   <string name="fingerprint_enter_second_psw_title">Enter Second space password</string>
   <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
-  <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+  <string name="fingerprint_not_identified_msg">"Couldn't verify fingerprint, enter password."</string>
   <string name="fingerprint_not_identified_title">Enter password</string>
+  <string name="fingerprint_try_again_msg">"Couldn't verify fingerprint, try again."</string>
   <string name="fingerprint_try_again_text">Try again</string>
   <string name="forget_password_string">Forgot password</string>
   <string name="incorrect_pincode">Incorrect PIN code</string>
@@ -30,6 +32,7 @@
   <string name="incorrect_pukcode">Incorrect PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
   <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">You need to enter First space after the device was rebooted</string>
   <string name="input_password_hint_text">Enter password</string>
   <string name="input_pattern_hint_text">Draw your unlock pattern</string>
   <string name="input_pin_code">Enter PIN</string>
@@ -63,6 +66,14 @@
   <string name="open_camera_hint_text">Swipe left to open %s</string>
   <string name="open_remote_center_hint_text">Swipe right to open %s</string>
   <string name="open_wifi_settings">Open network connection</string>
+  <string name="phone_locked_foget_password">Forgot password?</string>
+  <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
+
+You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
+  <string name="phone_locked_foget_password_footer">"Steps:
+Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
+  <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
+  <string name="phone_locked_foget_password_ok">Got it</string>
   <string name="phone_locked_string">Pad has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
   <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>
@@ -71,6 +82,7 @@
   <string name="unlock_string">Unlock</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect charger now</string>
+  <string name="unlockscreen_quick_charging_message">Quick charging %d%%</string>
   <string name="unlockscreen_recharge_completed">Battery charged</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
   <string name="wrong_password">Incorrect password</string>
