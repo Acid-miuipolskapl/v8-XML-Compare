@@ -296,11 +296,9 @@ Check your tracking number."</string>
   <string name="menu_delete_call_log">Delete call history</string>
   <string name="menu_delete_one">Remove from call history</string>
   <string name="menu_enroll_in_yellow_page">Sign up for Caller ID</string>
-  <string name="menu_follow_yellow_page">Follow</string>
   <string name="menu_remove_black_list">Remove from blocklist</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
   <string name="menu_save_contact">Save number to contacts</string>
-  <string name="menu_unfollow_yellow_page">Unfollow</string>
   <string name="minimum_price">%d RMB min</string>
   <string name="mishop_web_payment_title">Mi Store checkout</string>
   <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>

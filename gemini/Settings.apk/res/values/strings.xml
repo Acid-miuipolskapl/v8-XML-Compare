@@ -1886,12 +1886,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="intent_sender_resource_label">Resource:</string>
   <string name="intent_sender_sendbroadcast_text">Send broadcast</string>
   <string name="intent_sender_startactivity_text">Start activity</string>
-  <string name="internal_format">Erase internal storage</string>
-  <string name="internal_format_summary">"Erase all data on your device's internal storage"</string>
-  <string name="internal_media_format_button_text">Erase internal storage</string>
-  <string name="internal_media_format_desc">Erase internal storage? &lt;b&gt;All&lt;/b&gt; of your data will be deleted. Phone will restart after internal storage is erased.</string>
-  <string name="internal_media_format_final_desc">"Erase internal storage? You can't reverse this action! Phone will restart after internal storage is erased."</string>
-  <string name="internal_media_format_title">Erase internal storage</string>
   <string name="internal_memory">Internal storage</string>
   <string name="internal_storage">Internal storage</string>
   <string name="internal_storage_sentence">internal storage</string>
@@ -3123,6 +3117,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
   <string name="rank_title">Rankings</string>
   <string name="rarely_running">Rarely running (%s)</string>
+  <string name="reading_data">Getting info…</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the phone!</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="rebootiing_for_updates">Rebooting…</string>
@@ -4997,6 +4992,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setting_category">Available networks</string>
   <string name="wifi_setting_connect_type_error">There was a problem setting the connect type.</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
+  <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">WLAN frequency band</string>
   <string name="wifi_setting_on_during_sleep_title">WLAN on during sleep</string>
   <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
