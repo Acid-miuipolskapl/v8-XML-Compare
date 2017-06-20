@@ -571,6 +571,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_touch_calib_pass">Touch Calibration pass, Please use it normally</string>
   <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
   <string name="cit_touch_calib_title">Touch Calibration</string>
+  <string name="cit_touch_panel_test_title">Touch sensor</string>
   <string name="cit_tpdump_check_summary">please click button to enable or disable touch dump function</string>
   <string name="cit_tpdump_check_title">touch debug mode</string>
   <string name="cit_tpdump_close">disable dump</string>

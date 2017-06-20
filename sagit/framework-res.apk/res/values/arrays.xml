@@ -372,7 +372,7 @@
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>2</item>
         <item>2</item>
-        <item>3</item>
+        <item>2</item>
         <item>3</item>
         <item>6</item>
         <item>11</item>

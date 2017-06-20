@@ -1101,6 +1101,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_C8:Z
+
     :goto_0
     return v0
 
