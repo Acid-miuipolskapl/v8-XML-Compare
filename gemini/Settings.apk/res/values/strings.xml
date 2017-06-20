@@ -997,7 +997,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_privacy_password">Enter Privacy protection password</string>
   <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
-  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
@@ -2940,7 +2939,6 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
-  <string name="privacy_applock">App lock</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Cancel</string>
   <string name="privacy_factory_reset_dlg_button_text">Back up data</string>

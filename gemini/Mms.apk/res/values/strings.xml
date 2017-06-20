@@ -574,10 +574,7 @@
   <string name="sp_category_bank">Bank notification messages</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notifications</string>
-  <string name="sp_mark_as_read">Mark all messages as read?</string>
   <string name="sp_mark_as_read_menu_title">Mark as read</string>
-  <string name="sp_mark_as_read_progress">Working…</string>
-  <string name="sp_mark_as_read_title">Mark all notifications as read?</string>
   <string name="status_failed">Unsuccessful</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Pending</string>
