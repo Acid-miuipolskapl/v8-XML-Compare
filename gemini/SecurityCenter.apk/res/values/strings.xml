@@ -1078,7 +1078,7 @@ to respond"</string>
   <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">Report number</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_user">"you marked it as "</string>
+  <string name="marked_by_user">"You marked it as "</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content">Freed %s</string>
@@ -1146,8 +1146,8 @@ to respond"</string>
   <string name="mian_page_primary_txt">Overseas roaming</string>
   <string name="miliao_lucky_warning">米聊红包</string>
   <string name="modifypassword">Change password</string>
-  <string name="monitor_app_add">add</string>
-  <string name="monitor_app_more">more</string>
+  <string name="monitor_app_add">Add</string>
+  <string name="monitor_app_more">More</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
@@ -1393,7 +1393,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_consume_rank_title">Battery use</string>
   <string name="power_consume_total_hardware">Hardware: %s</string>
   <string name="power_consume_total_software">Apps: %s</string>
-  <string name="power_customize_giveup_change">Abandon changes?</string>
+  <string name="power_customize_giveup_change">Discard changes?</string>
   <string name="power_dialog_cancel">Cancel</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_idle">Phone idle</string>

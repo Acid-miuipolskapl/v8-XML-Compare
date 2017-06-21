@@ -306,7 +306,7 @@ Check your tracking number."</string>
   <string name="miuishare_account_login_cancel">Cancel</string>
   <string name="miuishare_account_login_confirmation">Sign in to Mi Account</string>
   <string name="miuishare_account_login_ok">Sign in</string>
-  <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activaye your Mi Account to continue.</string>
+  <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
   <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Couldn't connect to the network."</string>

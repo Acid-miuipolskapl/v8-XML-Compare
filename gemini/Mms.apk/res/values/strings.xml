@@ -80,7 +80,7 @@
   <string name="confirm_delete_message">Delete this message?</string>
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
   <string name="confirm_dialog_title">Delete?</string>
-  <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
+  <string name="confirm_dlg__msg">CMCC notice: Free CMCC services and support will not be provided if you cancel. Cancel anyway?</string>
   <string name="confirm_dlg_title">Device management</string>
   <string name="confirm_export_dialog_description">Previous conversations with this contact will no longer be hidden.</string>
   <string name="confirm_export_dialog_title">Remove from private contacts</string>
@@ -128,7 +128,7 @@
   <string name="delivery_report_activity">Delivery report</string>
   <string name="delivery_toast_body">Message received by %s</string>
   <string name="disable_notifications_dialog_message">Stop duplicate text message notifications from default Messaging app?</string>
-  <string name="disabled">Disabled</string>
+  <string name="disabled">Off</string>
   <string name="discard">Discard</string>
   <string name="discard_message">Discard</string>
   <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
@@ -148,7 +148,7 @@
   <string name="edit_phrase">Edit quick responses</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
-  <string name="enabled">Enabled</string>
+  <string name="enabled">On</string>
   <string name="english_subject_limit">40 character limit</string>
   <string name="enter_edit_mode">Edit messages</string>
   <string name="error_code_label">"Error code: "</string>
@@ -521,7 +521,7 @@
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
   <string name="send_message_dlg_check_hint">"Don't show again"</string>
-  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
+  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device in our device management platform in order to provide free customer services and support. This CMCC platform manages mobile devices and allows you to change settings and upgrade software remotely. A free text message with the information about your device will be sent for registration. The message will only be sent once and will not contain your personal data. This message cannot be sent by customers from Hong Kong, Macao, Taiwan, and overseas. Select \"OK\" to agree and register your device. Select \"Cancel\" if you disagree with the terms. Services will not be provided to you in this case.</string>
   <string name="send_message_dlg_title">Device management</string>
   <string name="send_message_notification_msg">Tap to view request details.</string>
   <string name="send_message_notification_tickerText">Device is requesting permission</string>
@@ -656,7 +656,7 @@ Attempt made: %s."</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_agreement5">By tapping OK, you agree to our Terms of Service and Privacy Policy.</string>
   <string name="verification_code_icon_name">V</string>
-  <string name="verification_code_list_title">Verification Codes</string>
+  <string name="verification_code_list_title">Verification codes</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
   <string name="view_message_details">View details</string>
