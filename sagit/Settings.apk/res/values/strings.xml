@@ -672,7 +672,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_pairing_shares_phonebook">Allow %1$s to access your contacts and call history</string>
   <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local Internet connection with device</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Use for internet access</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s wants to access your contacts and call history. Give access to %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Don’t ask again</string>
@@ -1000,6 +1000,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
+  <string name="connect_mode">connect mode</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via WLAN assistant</string>
@@ -3122,7 +3123,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
-  <string name="recents_config_title">Recents settings</string>
+  <string name="recents_config_title">Recents</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -4098,6 +4099,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="sure_sync_now">Sync items now?</string>
   <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
   <string name="suspension_ball_enable">Quick ball shortcut</string>
   <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
@@ -4124,6 +4126,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel sync</string>
   <string name="sync_menu_sync_now">Sync now</string>
+  <string name="sync_now">Sync</string>
   <string name="sync_one_time_sync">"Tap to sync now
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
@@ -4777,7 +4780,7 @@ Tap the plus to add words."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
   <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
+  <string name="wifi_connected_no_internet">Connected, no internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>

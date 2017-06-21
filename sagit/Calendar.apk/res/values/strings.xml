@@ -79,7 +79,7 @@
   <string name="card_detail_dialog_title">Subscribe now?</string>
   <string name="card_detail_hint">The content will be shown in the home page and updated daily once you subscribe</string>
   <string name="card_detail_title">Details</string>
-  <string name="card_manager">Manager subscriptions</string>
+  <string name="card_manager">Manage subscriptions</string>
   <string name="card_manager_no_data">No subscriptions yet</string>
   <string name="card_title_change">More</string>
   <string name="change_response_title">Change response</string>
@@ -128,13 +128,13 @@
   <string name="date_interval_text_to">To %1$s</string>
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(today)</string>
+  <string name="date_today">" (today)"</string>
   <string name="day_view_new_event_hint">+ New event</string>
   <string name="default_reminder_mode">Reminders</string>
   <string name="delete_calendar">Unsubscribe</string>
   <string name="delete_recurring_event_title">Delete %s?</string>
   <string name="delete_this_event_title">Delete this event?</string>
-  <string name="deleting_calendar">Unsubscribing</string>
+  <string name="deleting_calendar">Unsubscribing…</string>
   <string name="departure">Departure</string>
   <string name="description_calendar">System apps/Calendar</string>
   <string name="description_calendar_edit_event">System apps/Calendar/Agenda</string>
@@ -151,7 +151,7 @@
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="edit_date_calculate_days_backward_error_hint">"Can't calculate forwards"</string>
   <string name="edit_date_calculate_days_empty_hint">Enter the number of days</string>
-  <string name="edit_date_calculate_days_error_hint">Enter days within %1$d</string>
+  <string name="edit_date_calculate_days_error_hint">You can enter up to %1$d days</string>
   <string name="edit_date_calculate_days_forward_error_hint">"Can't calculate backwards"</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_anniversary_name_empty_hint">Enter event name</string>
@@ -181,6 +181,7 @@
   <string name="edit_event_tab_countdown">Countdown</string>
   <string name="edit_event_tab_event">Event</string>
   <string name="edit_event_to_label">To</string>
+  <string name="electricity_bill_event_title">电费缴费：</string>
   <string name="email_guests_label">Email guests</string>
   <string name="email_picker_label">Email with</string>
   <string name="email_subject_prefix">"Re: "</string>
@@ -230,8 +231,9 @@
   <string name="from_google_group_calendar">Google calendar</string>
   <string name="gadget_no_events">No upcoming calendar events</string>
   <string name="gadget_title">Calendar</string>
-  <string name="global_action_text_card_manager">More Categories</string>
-  <string name="global_cricket_no_match">There is no cricket competition today, and you may review the highlights of the past competitions or try another match. Wonderful event, worth the wait!</string>
+  <string name="gas_bill_event_title">燃气缴费：</string>
+  <string name="global_action_text_card_manager">More categories</string>
+  <string name="global_cricket_no_match">No cricket matches are scheduled for today. Check out other days.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Import birthdays from contacts</string>
   <string name="hint_attendees">Guests</string>
@@ -248,6 +250,7 @@
   <string name="horoscope_card_set_bazi">点击设置星座运势</string>
   <string name="horoscope_card_working">事业运势：</string>
   <string name="horoscope_select_activity_label">Select zodiac sign</string>
+  <string name="hotel_event_title">入住酒店：</string>
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
   <string name="import_action">Import</string>
@@ -294,6 +297,7 @@
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
   <string name="loading">Just a sec…</string>
+  <string name="loan_event_title">贷款账单</string>
   <string name="local_calendar_display_name">Local calendar</string>
   <string name="local_owner_account_name">Saved to this device</string>
   <string name="lunar_date">Lunar date</string>
@@ -302,7 +306,7 @@
   <string name="match_ed">已结束</string>
   <string name="match_ing">进行中</string>
   <string name="match_not_started">未开始</string>
-  <string name="match_select_activity_label">Select Matches</string>
+  <string name="match_select_activity_label">Select matches</string>
   <string name="menu_general_preferences">General</string>
   <string name="menu_preferences">Settings</string>
   <string name="menu_reminder_preferences">Reminders</string>
@@ -329,6 +333,7 @@
   <string name="monthly_on_day_count">Monthly (%1$s %2$s of every month)</string>
   <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$s</string>
+  <string name="movie_event_title">电影：</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
@@ -345,6 +350,27 @@ Check network settings and try again."</string>
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">VS</string>
   <string name="online_reminder_header_text">提醒</string>
+  <string name="panchang_amanta">Amanta</string>
+  <string name="panchang_amanta_month">Amanta Month:</string>
+  <string name="panchang_ayana">Ayana</string>
+  <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
+  <string name="panchang_hindu_lunar_month">Hindu Lunar Month</string>
+  <string name="panchang_inauspicious_timings">Inauspicious Timings</string>
+  <string name="panchang_karan">Karan</string>
+  <string name="panchang_moon_sign">Moon Sign</string>
+  <string name="panchang_nakshatra">Nakshatra</string>
+  <string name="panchang_purnimanta">Purnimanta</string>
+  <string name="panchang_purnimanta_month">Purnimanta Month:</string>
+  <string name="panchang_rahu_kalam">Rahu Kalam</string>
+  <string name="panchang_ritu">Ritu</string>
+  <string name="panchang_shaka_samvat">Shaka Samvat</string>
+  <string name="panchang_sun_sign">Sun Sign</string>
+  <string name="panchang_tithi">Tithi</string>
+  <string name="panchang_to"> to </string>
+  <string name="panchang_upto"> upto </string>
+  <string name="panchang_vikram_samvat">Vikram Samvat</string>
+  <string name="panchang_yamaghanta">Yamaghanta</string>
+  <string name="panchang_yog">Yog</string>
   <string name="path_calendar_settings">System apps/Calendar/Settings</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDefault_alerts_vibrateWhen">never</string>
@@ -367,6 +393,11 @@ Check network settings and try again."</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Home time zone</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
+  <string name="preferences_import_electricity_bill">电费缴费</string>
+  <string name="preferences_import_gas_bill">燃气缴费</string>
+  <string name="preferences_import_hotel">酒店</string>
+  <string name="preferences_import_loan">贷款账单</string>
+  <string name="preferences_import_movie">电影票</string>
   <string name="preferences_import_travel">机票火车票</string>
   <string name="preferences_notification_ringtone_title">Sound</string>
   <string name="preferences_title">Calendar</string>
@@ -514,6 +545,10 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="today_train_event">Train</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
+  <string name="too_long_content">Content is too long</string>
+  <string name="too_long_description">Event description is too long</string>
+  <string name="too_long_location">Event location is too long</string>
+  <string name="too_long_name">Name is too long</string>
   <string name="travel_airport">Airport</string>
   <string name="travel_carriage_number_text">Car</string>
   <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>

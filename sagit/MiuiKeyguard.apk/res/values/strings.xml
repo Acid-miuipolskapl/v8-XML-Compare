@@ -36,13 +36,13 @@
   <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
   <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
   <string name="keyguard_charging_info_charging_full_need_min_time__text">About %d min until full​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %dhr %dmin until full</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %d hr %d min until full</string>
   <string name="keyguard_charging_info_charging_text">Charging</string>
   <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
   <string name="keyguard_charging_info_click_to_detail">View details</string>
   <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
   <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %dhr %dmin left</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
   <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
@@ -51,7 +51,7 @@
   <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
   <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr %dmin</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
   <string name="keyguard_charging_info_finished_charging_text">Fully charged</string>
   <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Today %s</string>
