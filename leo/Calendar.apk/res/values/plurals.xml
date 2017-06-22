@@ -32,8 +32,8 @@
         <item quantity="one">%d week before</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">%1$sdays</item>
-        <item quantity="one">%1$sday</item>
+        <item quantity="other">%1$s days</item>
+        <item quantity="one">%1$s day</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Anniversary: %2$d years since %1$s in 3 days</item>
@@ -44,16 +44,16 @@
         <item quantity="one">Anniversary: %2$d year since %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">%1$syears</item>
-        <item quantity="one">%1$syear</item>
+        <item quantity="other">%1$s years</item>
+        <item quantity="one">%1$s year</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s-year-old</item>
         <item quantity="one">%1$s-year-old</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">%1$sdays left</item>
-        <item quantity="one">%1$sday left</item>
+        <item quantity="other">%1$s days left</item>
+        <item quantity="one">%1$s day left</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d days after</item>
