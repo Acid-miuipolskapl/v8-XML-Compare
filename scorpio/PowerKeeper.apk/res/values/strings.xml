@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">About MIUI Battery Saver</string>
   <string name="action_bar_delete">Delete</string>
   <string name="action_settings">Settings</string>
   <string name="activity_title_poweranalyze">Test battery</string>
@@ -25,12 +26,17 @@
   <string name="config_restrict_function_title">Restrict background apps</string>
   <string name="config_restrict_running_description">Apps will be closed to save power</string>
   <string name="config_restrict_running_title">Restrict background activity</string>
+  <string name="config_restrict_running_warning">App will be closed when it is background, maybe it cannot work normally</string>
+  <string name="config_scenario_policies_title">Scenarios</string>
   <string name="config_suggest_description">"Identify apps and activities to keep important processes going.
 Battery saver will treat important apps selectively."</string>
   <string name="config_suggest_suffix_title">MIUI Battery saver (recommended)</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
+  <string name="disable_hide_mode">Disable MIUI Battery Saver</string>
+  <string name="disable_hide_mode_warning">Disable MIUI Battery Saver may cause more power consumption</string>
   <string name="disabled">Off</string>
   <string name="empty_title_apps_container_list">No apps</string>
+  <string name="enable_hide_mode">Enable MIUI Battery Saver</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="foreground_change">App is running in foreground</string>
   <string name="fragment_nonesys_listempty">No installed apps</string>
@@ -41,6 +47,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
   <string name="hide_mode_desc">When an app runs in the background, its activities will be monitored to reduce battery usage.</string>
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
+  <string name="hide_system_app">Hide system apps</string>
   <string name="high">Performance</string>
   <string name="hints_loading_text">Just a sec…</string>
   <string name="invalid_size_value">"Couldn't get package size."</string>
@@ -90,7 +97,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_config_app_background_title">Background</string>
   <string name="power_config_app_full_screen_title">Fullscreen</string>
   <string name="power_config_app_launch_title">Foreground</string>
-  <string name="power_config_apps">Saving power in the background</string>
+  <string name="power_config_apps">MIUI Battery Saver</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Select time to restrict background data</string>
   <string name="power_config_bg_data_delay_time_title">Restrict background data</string>
   <string name="power_config_choose_apps">Choose apps</string>
@@ -139,7 +146,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_dialog_screen_brightness_title">Brightness</string>
   <string name="power_event_user_define_title">New events</string>
   <string name="power_event_view_event_title">Triggers</string>
-  <string name="power_hide_mode_app_list_summary">App settings</string>
+  <string name="power_hide_mode_app_list_summary">Saving power in the background</string>
   <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
   <string name="power_hide_mode_title">"Manage apps' battery usage"</string>
   <string name="power_keeper">Battery saver</string>
@@ -155,6 +162,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_optimize_activity_profile_file_error">Battery saver error</string>
   <string name="ragment_sys_listempty">No system apps</string>
   <string name="reading">Reading mode</string>
+  <string name="scenario_policies_summary">Power saving according to scenario</string>
+  <string name="scenario_policies_title">Scenario power saving policies</string>
   <string name="screen_off">Screen is off</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">Screen is on</string>
@@ -163,12 +172,14 @@ Battery saver will treat important apps selectively."</string>
   <string name="set_cpufreq_max">Max CPU frequency</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">Just a sec…</string>
-  <string name="sleep_config_disable_description">"MIUI won't improve the evening battary save"</string>
-  <string name="sleep_config_disable_title">Off</string>
-  <string name="sleep_config_enhance_description">MIUI will improve the evening standby</string>
-  <string name="sleep_config_enhance_title">On</string>
-  <string name="sleep_config_mode_title">Sleep saving modes</string>
+  <string name="show_system_app">Show system apps</string>
+  <string name="sleep_config_enhance_description">Will improve standby power usage in night</string>
+  <string name="sleep_config_enhance_title">Sleep saving modes</string>
   <string name="still">Picture</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Name</string>
+  <string name="vip_feedback">Vip Feedback</string>
+  <string name="vip_feedback_apply">Apply Vip Feedback</string>
+  <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
+  <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
 </resources>
