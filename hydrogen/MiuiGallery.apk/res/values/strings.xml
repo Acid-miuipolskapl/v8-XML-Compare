@@ -78,7 +78,7 @@
   <string name="album_type_system">System albums</string>
   <string name="album_videos_name">Videos</string>
   <string name="alert_secret_album_enter">Got it</string>
-  <string name="alert_secret_album_message">Swipe down while in the Albums tap to view hidden album.</string>
+  <string name="alert_secret_album_message">Swipe down while in the Albums tab to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_faces">Photos with this person</string>
   <string name="all_items_synced">All albums have been backed up to Mi Cloud</string>
@@ -1062,7 +1062,7 @@ Take more photos of your friends!"</string>
   <string name="search_transition_element_icon">search_icon</string>
   <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">The best place for all your little secrets</string>
-  <string name="secret_album_card_title">Try private albums</string>
+  <string name="secret_album_card_title">Try hidden album</string>
   <string name="secret_album_display_name">Hidden album</string>
   <string name="secret_album_password_first_use_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_password_first_use_title">Privacy protection password</string>
