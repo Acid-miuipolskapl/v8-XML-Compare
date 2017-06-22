@@ -134,8 +134,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">"%s app isn't protected"</item>
     </plurals>
     <plurals name="scan_result_description">
-        <item quantity="other">scan result : %d payment risks found</item>
-        <item quantity="one">scan result : %d payment risk found</item>
+        <item quantity="other">Found %d payment risks</item>
+        <item quantity="one">Found %d payment risk</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items secure</item>
@@ -204,6 +204,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="virus_clean_num">
         <item quantity="other">Fixed %1$d issues. Everything looks good now.</item>
         <item quantity="one">Fixed %1$d issue. Everything looks good now.</item>
+    </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Dangerous apps: %d</item>
+        <item quantity="one">Dangerous app: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojans: %d</item>
+        <item quantity="one">Trojan: %d</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apps contain privacy risks</item>

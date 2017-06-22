@@ -672,7 +672,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_pairing_shares_phonebook">Allow %1$s to access your contacts and call history</string>
   <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local Internet connection with device</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Use for internet access</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s wants to access your contacts and call history. Give access to %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Don’t ask again</string>
@@ -997,10 +997,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_privacy_password">Enter Privacy protection password</string>
   <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
-  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
+  <string name="connect_mode">connect mode</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
@@ -1886,12 +1886,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="intent_sender_resource_label">Resource:</string>
   <string name="intent_sender_sendbroadcast_text">Send broadcast</string>
   <string name="intent_sender_startactivity_text">Start activity</string>
-  <string name="internal_format">Erase internal storage</string>
-  <string name="internal_format_summary">"Erase all data on your device's internal storage"</string>
-  <string name="internal_media_format_button_text">Erase internal storage</string>
-  <string name="internal_media_format_desc">Erase internal storage? &lt;b&gt;All&lt;/b&gt; of your data will be deleted. Phone will restart after internal storage is erased.</string>
-  <string name="internal_media_format_final_desc">"Erase internal storage? You can't reverse this action! Phone will restart after internal storage is erased."</string>
-  <string name="internal_media_format_title">Erase internal storage</string>
   <string name="internal_memory">Internal storage</string>
   <string name="internal_storage">Internal storage</string>
   <string name="internal_storage_sentence">internal storage</string>
@@ -2946,7 +2940,6 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
-  <string name="privacy_applock">App lock</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Cancel</string>
   <string name="privacy_factory_reset_dlg_button_text">Back up data</string>
@@ -3123,13 +3116,14 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
   <string name="rank_title">Rankings</string>
   <string name="rarely_running">Rarely running (%s)</string>
+  <string name="reading_data">Getting info…</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the phone!</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="rebootiing_for_updates">Rebooting…</string>
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
-  <string name="recents_config_title">Recents settings</string>
+  <string name="recents_config_title">Recents</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -4104,6 +4098,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="sure_sync_now">Sync items now?</string>
   <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
   <string name="suspension_ball_enable">Quick ball shortcut</string>
   <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
@@ -4130,6 +4125,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel sync</string>
   <string name="sync_menu_sync_now">Sync now</string>
+  <string name="sync_now">Sync</string>
   <string name="sync_one_time_sync">"Tap to sync now
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
@@ -4794,7 +4790,7 @@ WLAN Assistant"</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
+  <string name="wifi_connected_no_internet">Connected, no internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
@@ -4996,6 +4992,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setting_category">Available networks</string>
   <string name="wifi_setting_connect_type_error">There was a problem setting the connect type.</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
+  <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">WLAN frequency band</string>
   <string name="wifi_setting_on_during_sleep_title">WLAN on during sleep</string>
   <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
