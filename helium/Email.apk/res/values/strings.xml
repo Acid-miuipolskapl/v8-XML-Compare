@@ -8,6 +8,7 @@
   <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
+  <string name="account_failure">Account failure</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
   <string name="account_manager_type_legacy_imap">com.android.email</string>
@@ -258,6 +259,7 @@
   <string name="change_folders_selection_dialog_title">Change folders</string>
   <string name="change_sync_settings">Change sync settings</string>
   <string name="changepw_dialog_tips">Re-enter password for %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Please check for %s verification code and login again</string>
   <string name="chat_item_msg_people_unit">people</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Validating server settings…"</string>
@@ -363,12 +365,13 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">You have modified the manual sync, need to manually refresh to receive mai</string>
   <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
   <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
+  <string name="dialog_system_auto_sync_account_no_open">Account sync is not enabled and messages can not be synced automatically</string>
+  <string name="dialog_system_auto_sync_master_no_open">System sync is not enabled and messages can not be synced automatically</string>
   <string name="disable_admin_warning">"WARNING: Deactivating the Email app's permission to administer your device will delete all email accounts that require it, along with their messages, contacts, calendar events, and other data."</string>
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
@@ -395,7 +398,7 @@
   <string name="download_message_failed_for_too_large">Message is too big to download.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bank statements</string>
-  <string name="drawer_classification">Intelligent classification</string>
+  <string name="drawer_classification">Categories</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_contacts">Contacts</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -565,6 +568,8 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
+  <string name="mail_description_content">E-mail is a mail client that can manage multiple mailboxes, support sending and receiving, tagging mail, and providing services such as session mode, billing mail, mail sorting and other services. After you uninstall the mail, the mail data will be deleted.</string>
+  <string name="mail_description_title">Email introduction</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">Combined account</string>
   <string name="mailbox_name_display_ad">Ads</string>
@@ -808,7 +813,7 @@ to receive reminders about payments and trips"</string>
   <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
   <string name="policy_dont_allow_unsigned_installers">"Don't allow installing unsigned apps"</string>
   <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
-  <string name="policy_dont_allow_wifi_inter">"Don't allow WIFI"</string>
+  <string name="policy_dont_allow_wifi_inter">"Don't allow Wi-Fi"</string>
   <string name="policy_email_age">Limit the number of emails synced</string>
   <string name="policy_html_truncation">Restrict HTML email size</string>
   <string name="policy_password_expiration">Set expiration for passwords</string>
@@ -1051,6 +1056,9 @@ to receive reminders about payments and trips"</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">"Couldn't sync."</string>
   <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
+  <string name="syncing_wait_restart">Click Retry</string>
+  <string name="syncing_wait_restart_title">"The server connection timed out 
+ unable to load the message"</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
   <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
   <string name="system_folders_sent_summary">"Select your server's sent items folder"</string>
@@ -1059,6 +1067,7 @@ to receive reminders about payments and trips"</string>
   <string name="system_folders_trash_dlg">"Select your server's trash folder"</string>
   <string name="system_folders_trash_summary">"Select your server's trash folder"</string>
   <string name="system_folders_trash_title">Trash folder</string>
+  <string name="system_setup_open_error">"Can not call up the account synchronization, please turn on the system 'set up' in sync mail account"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">Touch to turn on.</string>
