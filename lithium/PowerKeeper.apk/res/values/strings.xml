@@ -180,6 +180,6 @@ Battery saver will treat important apps selectively."</string>
   <string name="user_define_mode">Name</string>
   <string name="vip_feedback">Vip Feedback</string>
   <string name="vip_feedback_apply">Apply Vip Feedback</string>
-  <string name="vip_feedback_apply_msg">Please contact qiufeng@xiaomi.com to apply Vip Feedback</string>
+  <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
   <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
 </resources>
