@@ -98,7 +98,10 @@
         <item>com.android.settings</item>
         <item>com.miui.securitycenter</item>
     </string-array>
-    <string-array name="sleepclean_system_list">
+    <string-array name="sleepclean_normal_kill_list">
+        <item>com.xiaomi.hm.health</item>
+    </string-array>
+    <string-array name="sleepclean_system_forcestop_list">
         <item>com.miui.gallery</item>
         <item>com.android.email</item>
     </string-array>
@@ -175,6 +178,13 @@
         <item>com.miui.powerkeeper</item>
         <item>com.miui.stepsprovider</item>
         <item>com.miui.whetstone</item>
+    </string-array>
+    <string-array name="provider_protected_list">
+        <item>com.android.bluetooth</item>
+    </string-array>
+    <string-array name="provider_protected_proc">
+        <item>com.miui.gallery</item>
+        <item>com.android.fileexplorer</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>
