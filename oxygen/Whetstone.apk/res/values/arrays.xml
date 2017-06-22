@@ -5,7 +5,6 @@
     </string-array>
     <string-array name="persist_service">
         <item>com.miui.powerkeeper/.PowerKeeperBackgroundService</item>
-        <item>com.miui.klorobotrelease/.service.FeedbackBackgroundService</item>
         <item>com.miui.klo.bugreport/.service.FeedbackBackgroundService</item>
         <item>com.miui.whetstone/.net.MiuiDnsService</item>
         <item>com.xiaomi.metok/.MetokClService</item>
@@ -20,6 +19,9 @@
     </string-array>
     <string-array name="restart_persist_service">
         <item>com.miui.powerkeeper</item>
+    </string-array>
+    <string-array name="notbind_persist_service">
+        <item>com.miui.klo.bugreport</item>
     </string-array>
     <string-array name="service_black_list">
         <item>com.igexin.sdk.PushService</item>
@@ -71,6 +73,52 @@
         <item>com.miui.performance</item>
         <item>android.process.acore</item>
         <item>com.miui.wmsvc</item>
+    </string-array>
+    <string-array name="sleepclean_white_list">
+        <item>android</item>
+        <item>com.android.systemui</item>
+        <item>com.miui.miwallpaper</item>
+        <item>com.android.mms</item>
+        <item>com.miui.home</item>
+        <item>com.miui.touchassistant</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.miui.powerkeeper</item>
+    </string-array>
+    <string-array name="sleepstart_white_list">
+        <item>com.android.incallui</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.phone</item>
+        <item>com.android.mms</item>
+        <item>com.android.bluetooth</item>
+        <item>com.qti.cbwidget</item>
+        <item>com.miui.touchassistant</item>
+        <item>com.google.android.marvin.talkback</item>
+        <item>com.miui.powerkeeper</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.settings</item>
+        <item>com.miui.securitycenter</item>
+    </string-array>
+    <string-array name="sleepclean_normal_kill_list">
+        <item>com.xiaomi.hm.health</item>
+    </string-array>
+    <string-array name="sleepclean_system_forcestop_list">
+        <item>com.miui.gallery</item>
+        <item>com.android.email</item>
+    </string-array>
+    <string-array name="push_service_list">
+        <item>com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService</item>
+        <item>com.tencent.mm/com.tencent.mm.booter.CoreService</item>
+    </string-array>
+    <string-array name="sleep_mode_disable_rtc_start">
+        <item>com.miui.analytics</item>
+        <item>com.securespaces.android.agent</item>
+        <item>com.xiaomi.xmsf</item>
+        <item>com.xiaomi.finddevice</item>
+        <item>com.miui.core</item>
+        <item>com.miui.klo.bugreport</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.qq</item>
+        <item>com.eg.android.AlipayGphone</item>
     </string-array>
     <string-array name="promotelevel_normal">
         <item>com.miui.klo.bugreport</item>
@@ -128,6 +176,15 @@
     </string-array>
     <string-array name="provider_active_whitelist">
         <item>com.miui.powerkeeper</item>
+        <item>com.miui.stepsprovider</item>
+        <item>com.miui.whetstone</item>
+    </string-array>
+    <string-array name="provider_protected_list">
+        <item>com.android.bluetooth</item>
+    </string-array>
+    <string-array name="provider_protected_proc">
+        <item>com.miui.gallery</item>
+        <item>com.android.fileexplorer</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>
