@@ -62,6 +62,8 @@
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">"Hanging up "</string>
+  <string name="card_title_hanging_up_restart">"Can't end call. Reboot your device."</string>
+  <string name="card_title_hanging_up_weak_signal">Weak mobile network signal. Ending call</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
   <string name="card_title_in_video">Video </string>
@@ -223,9 +225,9 @@
   <string name="onscreen_close_preview_camera">Close</string>
   <string name="onscreen_hold_text">Hold</string>
   <string name="onscreen_merge_calls_text">Merge calls</string>
+  <string name="onscreen_message_text">Messages</string>
   <string name="onscreen_mute_text">Mute</string>
   <string name="onscreen_note_calls_text">Note</string>
-  <string name="onscreen_rcs_text">Messages</string>
   <string name="onscreen_swap_calls_text">Swap</string>
   <string name="onscreen_switch_camera">Switch</string>
   <string name="pause_prompt_no">No</string>

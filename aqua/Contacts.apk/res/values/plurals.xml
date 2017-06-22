@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="group_move_success_toast">
-        <item quantity="other">Moved %1$d contacts</item>
-        <item quantity="one">Moved %1$d contact</item>
-    </plurals>
-    <plurals name="group_copy_success_toast">
-        <item quantity="other">Copied %1$d contacts</item>
-        <item quantity="one">Copied %1$d contact</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacts with phone numbers</item>
         <item quantity="one">1 contact with phone number</item>
@@ -128,10 +120,6 @@
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Unblock %1$d phone numbers?</item>
         <item quantity="one">Unblock %1$d phone number?</item>
-    </plurals>
-    <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
     </plurals>
     <plurals name="livetalk_unit">
         <item quantity="other">Minutes</item>
