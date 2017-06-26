@@ -324,6 +324,8 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
+  <string name="pref_camera_proximity_lock_summary">Lock touch gestures when placed in a pocket</string>
+  <string name="pref_camera_proximity_lock_title">Pocket mode</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_default">false</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
