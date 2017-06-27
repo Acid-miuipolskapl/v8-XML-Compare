@@ -324,6 +324,7 @@ in case you forget it"</string>
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
+  <string name="auto_task_notify_task_exit_task">Exit task</string>
   <string name="auto_task_operation_airplane_mode">Airplane mode</string>
   <string name="auto_task_operation_auto_brightness">Auto brightness</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1387,12 +1388,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_time_to_boot">Power on time</string>
   <string name="power_center_time_to_shutdown">Power off time</string>
   <string name="power_center_title">Power</string>
+  <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_other">Other</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Battery use</string>
-  <string name="power_consume_total_hardware">Hardware: %s</string>
-  <string name="power_consume_total_software">Apps: %s</string>
+  <string name="power_consume_software_total_format">Apps: %s</string>
   <string name="power_customize_giveup_change">Discard changes?</string>
   <string name="power_dialog_cancel">Cancel</string>
   <string name="power_dialog_ok">OK</string>
@@ -1950,7 +1951,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_garbage_clean">Clear cache to free up space</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
-  <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
   <string name="summary_mifi_insurance">Get a 1 year replacement plan which works for the cases of hardware damage</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Block SMS spam automatically</string>
@@ -2116,7 +2116,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
-  <string name="title_live_talk_purchase">Turn on Top-up package</string>
   <string name="title_mifi_insurance">Extended warranty</string>
   <string name="title_miui_update">Update available</string>
   <string name="title_mms_no">Message filter is off</string>
