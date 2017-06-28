@@ -117,7 +117,6 @@
   <string name="choose_stream_quality">Choose streaming quality</string>
   <string name="click_modify">Tap to edit lyrics.</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
-  <string name="click_to_view_new_local_audios">Tap to view details.</string>
   <string name="close_music_time">"Time remaining: "</string>
   <string name="cloud_empty_local_empty_button">No songs on this device</string>
   <string name="cloud_empty_message">No songs in Mi Cloud</string>
@@ -587,8 +586,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notification_download_failed">"Couldn't download"</string>
   <string name="notification_download_failed_more">"Couldn't download %1$d items"</string>
   <string name="notification_download_success_more">%1$d downloaded</string>
-  <string name="notification_favorite_summary">Get notifications about new releases and latest hits</string>
-  <string name="notification_favorite_title">Notification about favorite artists</string>
   <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
   <string name="notification_play_summary">View current and next song, display lyrics on Home screen</string>
   <string name="notification_play_title">Notification shade widget</string>
@@ -604,7 +601,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_favor">Featured</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
-  <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_my">My</string>
@@ -795,7 +791,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="song_not_find">"This song isn't available."</string>
   <string name="song_offline">Sorry, this song is no longer available.</string>
   <string name="song_unit">items</string>
-  <string name="sort_by_language">Language</string>
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>

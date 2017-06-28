@@ -666,8 +666,8 @@
         <item>focus</item>
     </string-array>
     <string-array name="pref_camera_hdr_default">
-        <item>@string/pref_camera_hdr_entryvalue_auto</item>
         <item>@string/pref_camera_hdr_entryvalue_off</item>
+        <item>@string/pref_camera_hdr_entryvalue_auto</item>
     </string-array>
     <string-array name="pref_camera_hdr_entries">
         <item>@string/pref_camera_hdr_entry_off</item>
