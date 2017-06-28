@@ -974,6 +974,20 @@
     goto :goto_0
 .end method
 
+.method public static isHFRVideoPauseSupported()Z
+    .locals 2
+
+    const-string/jumbo v0, "support_hfr_video_pause"
+
+    const/4 v1, 0x1
+
+    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v0
+
+    return v0
+.end method
+
 .method public static isHalDoesCafWhenFlashOn()Z
     .locals 1
 
