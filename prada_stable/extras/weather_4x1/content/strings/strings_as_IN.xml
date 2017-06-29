@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_0">পৰিষ্কাৰ</string>
+    <string name="weather_type_0">ফৰকাল</string>
     <string name="weather_type_1">ডাৱৰীয়া</string>
     <string name="weather_type_2">ধুৱলী-কুঁৱলী</string>
     <string name="weather_type_3">কুঁৱলীময়</string>
