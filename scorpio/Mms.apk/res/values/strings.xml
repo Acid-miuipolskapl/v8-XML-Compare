@@ -163,6 +163,7 @@
   <string name="expire_on">Expires: %s</string>
   <string name="exporting_progress_private_message">Exporting…</string>
   <string name="fail_to_add_attachment">"Couldn't add attachment"</string>
+  <string name="fail_to_view_attachment">attachment is unavailable</string>
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fake_cell_alert_hint">Looks like this message was sent from the phone number which is different from the one displayed. Be cautious of the SMS containing financial requests.</string>
@@ -191,7 +192,6 @@
   <string name="from_label">"From: "</string>
   <string name="from_pkg_name">From the app:</string>
   <string name="group_message">Group message</string>
-  <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
   <string name="group_resend_message">Resend (%d)</string>
   <string name="group_verification_codes_summary">Automatically group one-time passwords together</string>
   <string name="group_verification_codes_title">OTP messages group</string>
@@ -530,7 +530,6 @@
   <string name="send_signature_confirm_dialog_title">Send message</string>
   <string name="send_sms">Send message</string>
   <string name="send_to">To:</string>
-  <string name="send_to_count">Sent %1$s messages</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Sent at: %1s</string>
   <string name="sent_label">"Sent: "</string>
@@ -602,9 +601,7 @@
   <string name="switch_to_menu">Menu mode</string>
   <string name="text_in_popup_saved_to_clipboard">Copied to clipboard</string>
   <string name="text_message">Text message</string>
-  <string name="timed_message_expired_title">"%d timed messages haven't been sent"</string>
   <string name="timed_message_expired_title_2">Send them now?</string>
-  <string name="timed_message_in_total">(%d messages)</string>
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
@@ -616,7 +613,6 @@
   <string name="title_timed_message_dialog">Set timed message</string>
   <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
   <string name="to_address_label">"To: "</string>
-  <string name="to_count">%d recipients</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
   <string name="today">Today</string>
