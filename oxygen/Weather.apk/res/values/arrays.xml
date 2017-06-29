@@ -141,6 +141,7 @@
         <item>Poor</item>
         <item>Very poor</item>
         <item>Severe</item>
+        <item>Beyond index</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>Beaufort scale</item>
@@ -169,5 +170,19 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Heavy</item>
+        <item>Moderate</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Lightly polluted</item>
+        <item>Moderately polluted</item>
+        <item>Heavily polluted</item>
+        <item>Severely polluted</item>
+        <item>Beyond index</item>
     </string-array>
 </resources>

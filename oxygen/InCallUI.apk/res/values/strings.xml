@@ -62,6 +62,8 @@
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">"Hanging up "</string>
+  <string name="card_title_hanging_up_restart">"Can't end call. Reboot your device."</string>
+  <string name="card_title_hanging_up_weak_signal">Weak mobile network signal. Ending call</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
   <string name="card_title_in_video">Video </string>
@@ -223,9 +225,9 @@
   <string name="onscreen_close_preview_camera">Close</string>
   <string name="onscreen_hold_text">Hold</string>
   <string name="onscreen_merge_calls_text">Merge calls</string>
+  <string name="onscreen_message_text">Messages</string>
   <string name="onscreen_mute_text">Mute</string>
   <string name="onscreen_note_calls_text">Note</string>
-  <string name="onscreen_rcs_text">Messages</string>
   <string name="onscreen_swap_calls_text">Swap</string>
   <string name="onscreen_switch_camera">Switch</string>
   <string name="pause_prompt_no">No</string>
@@ -234,6 +236,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Getting contact info…</string>
   <string name="private_num">Private number</string>
+  <string name="remind_unlock_message">Your device is locked now. \"%s\" will be available after you unlock your device. Unlock now?</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
   <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_one_sim_title">Can only use SIM %1$d</string>
@@ -244,7 +247,9 @@
   <string name="suspect_info">Be careful with your personal info.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Unknown</string>
+  <string name="unlock_phone">Unlock device</string>
   <string name="upgrade_vt_prompt">Switch to video call?</string>
+  <string name="user_locked_prompt">Unlock device to access contacts.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
   <string name="video_conference_caller_info_name">"%1$s's video conference call"</string>
   <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>

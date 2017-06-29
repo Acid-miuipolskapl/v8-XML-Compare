@@ -37,7 +37,6 @@
         <item>com.miui.personalassistant</item>
         <item>com.mi.AutoTest</item>
         <item>com.miui.packageinstaller</item>
-        <item>com.xiaomi.market</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
@@ -108,6 +107,7 @@
         <item>ko_KR</item>
         <item>zh_CN</item>
         <item>zh_TW</item>
+        <item>ja_JP</item>
     </string-array>
     <string-array name="organized_languages_default">
         <item>zh_CN</item>

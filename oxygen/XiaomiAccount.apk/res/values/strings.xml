@@ -42,7 +42,6 @@
   <string name="account_user_gender">Gender</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_income">Income</string>
-  <string name="account_user_info">User info</string>
   <string name="account_user_location">Location</string>
   <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">Name</string>
@@ -78,12 +77,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">All set</string>
   <string name="confirm_activate_email">Verified</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
   <string name="confirm_delete_app_message">"After deleting this app, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
   <string name="confirm_delete_browser_message">"After deleting this browser, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
   <string name="confirm_delete_device_message">"After deleting this device, you'll have to verify your phone number next time you sign in to your Mi Account on it."</string>
-  <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
+  <string name="confirm_phone_number_dialog_message">Verification code will be sent to %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
   <string name="confirm_unbind">Disconnect this account?</string>
+  <string name="confirm_unbundled_phone_dialog_message">The phone number %1$s is associated with %2$s Mi Account. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
   <string name="continue_action">Continue</string>
   <string name="cta_declaration_agree_and_continue">Agree</string>
   <string name="cta_declaration_exit">Exit</string>
@@ -132,6 +133,7 @@
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
+  <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="guest_account_label">Mi Guest Account</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
@@ -207,7 +209,7 @@ To activate your account, follow the
   <string name="passport_error_device_id">"Can't get device id"</string>
   <string name="passport_error_dup_email">The email you entered is already associated with another account.</string>
   <string name="passport_error_email">The email address you entered is invalid</string>
-  <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
+  <string name="passport_error_empty_captcha_code">Enter captcha</string>
   <string name="passport_error_empty_email">Enter your email address</string>
   <string name="passport_error_empty_phone_num">Enter phone number</string>
   <string name="passport_error_empty_pwd">Enter your password</string>
@@ -301,7 +303,7 @@ To activate your account, follow the
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_setting">Setting up…</string>
   <string name="passport_skip_login">Skip</string>
-  <string name="passport_skip_register">Skip Sign-up</string>
+  <string name="passport_skip_register">Skip sign-up</string>
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
   <string name="passport_title_reg">Create an account</string>
@@ -350,15 +352,11 @@ To activate your account, follow the
   <string name="search_account_security">Account security</string>
   <string name="search_account_security_desc">Account Settings</string>
   <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorization,Devices</string>
-  <string name="search_account_security_path">Settings/Mi Account/Account settings</string>
+  <string name="search_account_security_path">Settings/Mi Account/Account security</string>
   <string name="search_app_name">Mi Account</string>
-  <string name="search_logout_account">Sign out</string>
-  <string name="search_logout_account_desc">Mi Account</string>
-  <string name="search_logout_account_key_words">Sign out</string>
-  <string name="search_logout_account_path">Mi Account/Account Settings,Settings/Mi Account/Account Settings</string>
   <string name="search_mi_account">Mi Account</string>
   <string name="search_mi_account_desc">Mi Account</string>
-  <string name="search_mi_account_key_words">Mi Account,Sign in,create account,Mi Cloud,Account Setting,Account Management,Mi Pay Info</string>
+  <string name="search_mi_account_key_words">Mi Cloud,Account Setting,Mi Pay Info,Sign out</string>
   <string name="search_mi_account_path">Settings/Mi Account</string>
   <string name="search_user_detail">Personal info</string>
   <string name="search_user_detail_bottom_key_words">Change Income,Change Education,Change Location,Change Region</string>

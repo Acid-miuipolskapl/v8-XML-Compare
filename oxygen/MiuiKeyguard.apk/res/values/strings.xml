@@ -7,22 +7,13 @@
   <string name="default_lockscreen_unlock_hint_text">Swipe up to unlock</string>
   <string name="delete">Delete</string>
   <string name="emergency_call_string">Emergency</string>
-  <string name="experimental_try_string">Try</string>
-  <string name="experimental_validate">Validate</string>
-  <string name="experimental_validate_fail">"Couldn't sign in"</string>
-  <string name="experimental_validate_password">Password</string>
-  <string name="experimental_validate_progress">Signing in…</string>
-  <string name="experimental_validate_thanks">Thank you!</string>
-  <string name="experimental_validate_username">Username</string>
-  <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
-  <string name="find_device_turn_off_flight_mode">Turn off airplane mode</string>
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">Add fingerprint</string>
+  <string name="fingerprint_again_identified_msg">Your fingerprint is active now. Use it to unlock the device, or enter password.</string>
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password after rebooting device to be able to use fingerprint recognition</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
   <string name="fingerprint_enter_second_psw_title">Enter Second space password</string>
-  <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
-  <string name="fingerprint_not_identified_msg">"Couldn't verify fingerprint, enter password."</string>
+  <string name="fingerprint_not_identified_msg">Too many unsuccessful attempts. Enter password now or try using your fingerprint in a few seconds.</string>
   <string name="fingerprint_not_identified_title">Enter password</string>
   <string name="fingerprint_try_again_msg">"Couldn't verify fingerprint, try again."</string>
   <string name="fingerprint_try_again_text">Try again</string>
@@ -32,6 +23,7 @@
   <string name="incorrect_pukcode">Incorrect PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
   <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Can't switch between spaces during a call"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">You need to enter First space after the device was rebooted</string>
   <string name="input_password_hint_text">Enter password</string>
   <string name="input_pattern_hint_text">Draw your unlock pattern</string>
@@ -40,6 +32,39 @@
   <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
   <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
   <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Battery temperature</string>
+  <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">About %d min until full​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %d hr %d min until full</string>
+  <string name="keyguard_charging_info_charging_text">Charging</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
+  <string name="keyguard_charging_info_click_to_detail">View details</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
+  <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Fully charged</string>
+  <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Today %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Yesterday %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Last charge</string>
+  <string name="keyguard_charging_info_tip_text1">Keep your device at least 10% charged all the time to extend battery life.</string>
+  <string name="keyguard_charging_info_tip_text2">"Don't overcharge your device. Multiple shorter charges are better than an overnight charge."</string>
+  <string name="keyguard_charging_info_tip_text3">Avoid charging your device when the surrounding temperature is lower than 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
+  <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
+  <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Quick charging. Tap to view details.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Quick charging…</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
   <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
@@ -56,16 +81,9 @@
 
  Try again in %d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
-  <string name="lockscreen_glogin_checking_password">Checking…</string>
-  <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
-  <string name="lockscreen_glogin_password_hint">Password</string>
-  <string name="lockscreen_glogin_submit_button">Sign in</string>
-  <string name="login_website_in_case_forget_password">To reset your password, go to www.mi.com/micloud</string>
-  <string name="missed_call_text">%d missed calls</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
   <string name="open_camera_hint_text">Swipe left to open %s</string>
   <string name="open_remote_center_hint_text">Swipe right to open %s</string>
-  <string name="open_wifi_settings">Open network connection</string>
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
 
@@ -75,14 +93,12 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
   <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
   <string name="phone_locked_foget_password_ok">Got it</string>
   <string name="phone_locked_string">Phone has been locked</string>
-  <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
-  <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>
+  <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
+  <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
   <string name="symbol_colon">:</string>
-  <string name="unlock_sim_string">Unlock SIM</string>
   <string name="unlock_string">Unlock</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect charger now</string>
-  <string name="unlockscreen_quick_charging_message">Quick charging %d%%</string>
   <string name="unlockscreen_recharge_completed">Battery charged</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
   <string name="wrong_password">Incorrect password</string>

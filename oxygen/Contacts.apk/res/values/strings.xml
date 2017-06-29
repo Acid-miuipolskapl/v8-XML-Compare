@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Call history details</string>
+  <string name="accessibility_contact_detail">Contact details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
   <string name="account_phone">Phone-only, unsynced</string>
@@ -87,7 +88,9 @@
   <string name="call_radio">Call radio</string>
   <string name="call_record_setting_miui">Record settings</string>
   <string name="call_settings">Settings</string>
+  <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Dial on SIM 1</string>
+  <string name="call_sim2_description">SIM 2</string>
   <string name="call_sim2_menu_title">Dial on SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primary)</string>
   <string name="call_telex">Call telex</string>
@@ -130,7 +133,6 @@
   <string name="callrecordview_menu_mobiledata">Purchase data</string>
   <string name="callrecordview_menu_paste">Paste</string>
   <string name="callrecordview_menu_recharge">Top up</string>
-  <string name="callrecordview_menu_save_to_group">Save call history to group</string>
   <string name="callrecordview_menu_settings">Settings</string>
   <string name="callrecordview_menu_show">Filter</string>
   <string name="callrecordview_menu_show_accepted">Answered calls</string>
@@ -141,8 +143,6 @@
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
-  <string name="callrecordview_menu_voip">Mi Voice</string>
-  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
@@ -168,7 +168,7 @@
   <string name="clearFrequentsProgress_title">Clearing frequently contacted…</string>
   <string name="clear_copy_number_description">Clear copied number</string>
   <string name="clear_default">Clear default</string>
-  <string name="clear_digits">Clear phone number</string>
+  <string name="clear_digits">Delete phone number</string>
   <string name="click_close">Tap to close</string>
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad_description">Close dial pad</string>
@@ -207,7 +207,8 @@
   <string name="contactPickerActivityTitle">Choose a contact</string>
   <string name="contactSavedErrorToast">"Couldn't save contact changes"</string>
   <string name="contactSavedToast">Contact saved</string>
-  <string name="contact_delete_toast">Contact deleted</string>
+  <string name="contact_clear_search_history">Clear history</string>
+  <string name="contact_delete_toast">Deleted contact successfully</string>
   <string name="contact_detail_action_item_calllog">Call history</string>
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
@@ -251,6 +252,7 @@ Contact cards are turned off"</string>
   <string name="contact_list_loading">Loading…</string>
   <string name="contact_pick_photo">Photo</string>
   <string name="contact_read_only">Not editable from this app.</string>
+  <string name="contact_search_history">History</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Removed from favorites</string>
@@ -263,7 +265,7 @@ Contact cards are turned off"</string>
   <string name="contacts_setting_title">Contact settings</string>
   <string name="contacts_unavailable_add_account">Sign in to an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
-  <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
+  <string name="contacts_unavailable_import_contacts">Import from a file</string>
   <string name="convenient_service">Services</string>
   <string name="copy_number">Copy</string>
   <string name="copy_text">Copy to clipboard</string>
@@ -271,7 +273,6 @@ Contact cards are turned off"</string>
   <string name="create_group_dialog_title">Create new group</string>
   <string name="create_group_item_label">Create new group</string>
   <string name="create_qrcode_fail_message">"Can't create QR code"</string>
-  <string name="create_voip_shortcut_success">Shortcut created</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
@@ -304,7 +305,10 @@ Contact cards are turned off"</string>
   <string name="description_add_contact">Add contact</string>
   <string name="description_call">Call %1$s</string>
   <string name="description_call_log_incoming_call">Incoming call</string>
+  <string name="description_call_log_incoming_forwarding_call">Incoming forwarded call</string>
   <string name="description_call_log_missed_call">Missed call</string>
+  <string name="description_call_log_missed_forwarding_call">Missed forwarded call</string>
+  <string name="description_call_log_new_contact">New contact</string>
   <string name="description_call_log_outgoing_call">Outgoing call</string>
   <string name="description_call_log_play_button">Play voicemail</string>
   <string name="description_call_log_unheard_voicemail">Unheard voicemail</string>
@@ -362,18 +366,14 @@ Contact cards are turned off"</string>
   <string name="device_paired_dialog_title">Fetching contacts…</string>
   <string name="device_pairing_dialog_message">Pairing…</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Please turn other device's \"Bluetooth\" on;
-        
+  <string name="device_transfer_by_bluetooth_message">"1. Turn on Bluetooth on the other device. 
 
-- Android devices usually should find the \"Bluetooth\" under the network section
-        
-- iOS devices should search \"Bluetooth\" inside Settings
-        
+- Bluetooth can be found in the network settings on Android devices. 
+- On iOS devices, Bluetooth is in the Settings. 
 
-2. Android devices should also turn the \"Discoverable\" option on;
-        
+2. Discoverable mode should also be turned on on Android devices. 
 
-3. Click \"Next\", and allow the contacts accessing permission in the following step."</string>
+3. Tap \"Next\", and give Contacts the required permissions."</string>
   <string name="device_transfer_by_sim_message">"1. Save the contacts from the other device on the SIM card;
         
 
@@ -493,18 +493,15 @@ Reason: \"%s\""</string>
   <string name="groupSavedErrorToast">"Couldn't save group changes"</string>
   <string name="groupSavedToast">Group saved</string>
   <string name="group_add_fail_toast">"Couldn't add recipients"</string>
-  <string name="group_copy_fail_toast">"Couldn't copy contacts"</string>
   <string name="group_create_fail_toast">"Couldn't create group"</string>
   <string name="group_create_success_toast">Group created</string>
   <string name="group_delete_success_toast">Group deleted</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Group name</string>
   <string name="group_member_remove_toast">Removed from group</string>
-  <string name="group_move_fail_toast">"Couldn't move contacts"</string>
   <string name="group_name">My groups</string>
   <string name="group_name_hint">"Group's name"</string>
   <string name="group_read_only">Not editable on this device.</string>
-  <string name="group_remove_success_toast">Moved contacts successfully</string>
   <string name="group_rename_dialog_title">Rename group</string>
   <string name="group_rename_fail_toast">"Couldn't rename group"</string>
   <string name="group_rename_success_toast">Group renamed</string>
@@ -572,8 +569,6 @@ Reason: \"%s\""</string>
   <string name="insertContactDescription">Create contact</string>
   <string name="insertGroupDescription">Create group</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
-  <string name="invalid_contacts_excluded_to_save_to_group">Only entries with contacts will be saved to group</string>
-  <string name="invalid_contacts_to_save_to_group">"Can't save unknown numbers"</string>
   <string name="keep_local">"Don't sync"</string>
   <string name="keep_local_btn">"Use phone's internal storage"</string>
   <string name="label_custom_type">Custom</string>
@@ -626,10 +621,6 @@ Reason: \"%s\""</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
   <string name="menu_bar_group_add">Add</string>
-  <string name="menu_bar_group_batch_copy">Copy to group</string>
-  <string name="menu_bar_group_batch_edit">Multiple contacts</string>
-  <string name="menu_bar_group_batch_move">Move to group</string>
-  <string name="menu_bar_group_batch_remove">Delete group</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
   <string name="menu_bar_group_ringtone">Ringtone</string>
@@ -713,6 +704,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Enter nickname</string>
   <string name="miprofile_nick_name_edit_dialog_message">Nickname will appear in call history and profile info</string>
   <string name="miprofile_nick_name_edit_dialog_title">Edit nickname</string>
+  <string name="miprofile_notice_close">Close</string>
   <string name="miprofile_notice_text">"Tap to view contact's profile photo"</string>
   <string name="miprofile_request_agenda_date">This person wants to exchange cards [%1$s]</string>
   <string name="miprofile_request_agenda_today">This person wants to exchange cards [Today %1$s]</string>
@@ -846,7 +838,6 @@ To add a contact to your list of favorites:
   <string name="no_contacts_dialog_title">"Can't find contacts"</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No SD card was found.</string>
-  <string name="no_voip_contacts">No Mi Voice contacts</string>
   <string name="non_phone_add_to_contacts">Add to an existing contact</string>
   <string name="non_phone_caption">Phone number</string>
   <string name="non_phone_close">Close</string>
@@ -900,14 +891,11 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
-  <string name="phone_call_type_livetalk">Top-up package</string>
-  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Number is too long</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>
   <string name="photo_fragment">Photo</string>
-  <string name="photo_labels_group">Profile photo</string>
   <string name="photo_load_failed">"Couldn't load photo"</string>
   <string name="pick_new_photo">Choose new photo from %s</string>
   <string name="pick_photo">Choose photo from %s</string>
@@ -942,8 +930,6 @@ To add a contact to your list of favorites:
   <string name="pref_key_sim_manage">SIM cards</string>
   <string name="pref_key_sim_manage1">Set up SIM card 1</string>
   <string name="pref_key_sim_manage2">Set up SIM card 2</string>
-  <string name="pref_rcs_backup_restore_title">Backup &amp; recovery settings</string>
-  <string name="pref_rcs_fetion_entry_title">Fetion settings</string>
   <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
   <string name="pref_title_account_import">Import contacts</string>
   <string name="pref_title_import_from_account">Import to Mi Account</string>
@@ -966,10 +952,13 @@ To add a contact to your list of favorites:
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
   <string name="preference_key_trash_bin_title">Recover contacts</string>
+  <string name="preference_other">Other</string>
   <string name="preference_others">Other</string>
   <string name="preference_phone">Phone</string>
   <string name="preference_phone_more_title">Call settings</string>
   <string name="preference_remove_duplicate">Merge duplicate contacts</string>
+  <string name="preference_show_yellowpage_tab_description">Close the YellowPage tab, the YellowPage function will not work properly</string>
+  <string name="preference_show_yellowpage_tab_title">Show the YellowPage tab</string>
   <string name="preference_simple_mode_description">Display photos and other contact info in list view</string>
   <string name="preference_simple_mode_title">Display photos and info</string>
   <string name="preference_smart_group_company_summary">Group by company</string>
@@ -990,32 +979,21 @@ To add a contact to your list of favorites:
   <string name="preview_incall_show_entry">Preview video</string>
   <string name="previous">Previous</string>
   <string name="private_num">Private number</string>
+  <string name="profileSavedErrorToast">"Couldn't save my profile changes"</string>
+  <string name="profileSavedToast">Profile saved</string>
   <string name="profile_binded_numbers">%s</string>
+  <string name="profile_delete_toast">Deleted profile successfully</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Photo</string>
-  <string name="public_account_name">Public account</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh</string>
   <string name="pull_to_refresh_refreshing_label">Just a sec…</string>
   <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="qr_card_card">QR code</string>
   <string name="qrcode_card_title">QR code</string>
-  <string name="qrcode_detail_menu_edit">Edit QR code</string>
-  <string name="qrcode_detail_menu_scan">Scan</string>
-  <string name="qrcode_editor_flash">Updated QR code</string>
-  <string name="qrcode_editor_flash_failed">"Couldn't update QR code"</string>
   <string name="quickcontact_missing_app">No app was found to handle this action</string>
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">Cancel merge contacts</string>
-  <string name="rcs_account_type_title">Fetion account</string>
-  <string name="rcs_contact_detail_profile_binded_label">Current Fetion account</string>
-  <string name="rcs_fetion_not_exist">"Can't find Fetion plug-in"</string>
-  <string name="rcs_group_chat_name">Group chat</string>
-  <string name="rcs_profile_name">My Fetion card</string>
-  <string name="rcs_profile_name_photo">Me</string>
-  <string name="rcs_recipient_type_contact">Send to contact</string>
-  <string name="rcs_recipient_type_group">Send to group</string>
-  <string name="rcs_send_vcard">Send vCard</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contains info from multiple accounts. Any info that can't be deleted will be hidden from your contacts list."</string>
   <string name="readOnlyContactWarning">"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists."</string>
@@ -1248,7 +1226,6 @@ Choose one of the following options:"</string>
   <string name="vcard_import_request_rejected_message">vCard import request was rejected. Try again later.</string>
   <string name="vcard_import_will_start_message">%s will be imported shortly.</string>
   <string name="vcard_import_will_start_message_with_default_name">The file will be imported shortly.</string>
-  <string name="vcard_info_send_error">"Can't send due to vCard error"</string>
   <string name="vcard_unknown_filename">contact</string>
   <string name="video_call">Video call</string>
   <string name="video_chat">Video chat</string>
@@ -1272,12 +1249,6 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
   <string name="voip_audio_description">VoIP call</string>
-  <string name="voip_contact_label">Mi Voice</string>
-  <string name="voip_contacts_entry">Mi Voice</string>
-  <string name="voip_loading_contact">Just a sec…</string>
-  <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
-  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_video_description">VoIP video call</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -1297,8 +1268,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_search_history">History</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
   <string name="yellowpage_navigation_search_result_average_price">Average CNY %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the
-        network"</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_search_result_no_more">No more results</string>
   <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unknown error</string>
