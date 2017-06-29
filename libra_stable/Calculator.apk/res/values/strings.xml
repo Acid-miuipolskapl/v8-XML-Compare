@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Calculator</string>
+  <string name="app_name_danfa">Mi Calculator</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">Copy</string>
   <string name="cal_edit_mode">Edit mode</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Text copied</string>
+  <string name="chinese_character_cross_check">互查</string>
+  <string name="chinese_character_daughter">女</string>
+  <string name="chinese_character_elder_brother">兄</string>
+  <string name="chinese_character_elder_sister">姐</string>
+  <string name="chinese_character_father">父</string>
+  <string name="chinese_character_husband">夫</string>
+  <string name="chinese_character_mother">母</string>
+  <string name="chinese_character_son">子</string>
+  <string name="chinese_character_wife">妻</string>
+  <string name="chinese_character_younger_brother">弟</string>
+  <string name="chinese_character_younger_sister">妹</string>
   <string name="choose_currency">Select currency</string>
   <string name="choose_unit">Select unit</string>
   <string name="city">City</string>
@@ -26,12 +38,16 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
+  <string name="currency_update_time_format">Exchange rates are provided by Webull (%s)</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
   <string name="dateformat">MM/dd/yyyy</string>
+  <string name="daughter">女儿</string>
   <string name="day">day</string>
+  <string name="default_separator_text">的</string>
+  <string name="default_text">我</string>
   <string name="del">DEL</string>
+  <string name="devided_by_zero_reminder_message">"Can't divide by zero"</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>
@@ -49,6 +65,8 @@
   <string name="e">e</string>
   <string name="eDesc">"Euler's number"</string>
   <string name="e_mathematical_value">e</string>
+  <string name="elder_brother">哥哥</string>
+  <string name="elder_sister">姐姐</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">equals</string>
@@ -56,13 +74,18 @@
   <string name="error_fomrat">Format error</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">factorial</string>
+  <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
+  <string name="father">爸爸</string>
   <string name="from_num">100</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer per hour</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund"/>
   <string name="fund_loan"/>
+  <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
+  <string name="gay_search_result">是男是女不重要，是你就好</string>
   <string name="home_title_calculator">Calculator</string>
+  <string name="husband">丈夫</string>
   <string name="income_type"/>
   <string name="item_title_aa_payment">Split the bill</string>
   <string name="item_title_area_conversion">Area</string>
@@ -71,6 +94,7 @@
   <string name="item_title_dress_size">Clothing size</string>
   <string name="item_title_length_conversion">Length</string>
   <string name="item_title_mortgage">Mortgage</string>
+  <string name="item_title_relationship">亲戚称呼计算</string>
   <string name="item_title_scientific_calculator">Scientific</string>
   <string name="item_title_tax">Taxes</string>
   <string name="item_title_temprature_conversion">Temperature</string>
@@ -117,7 +141,7 @@
   <string name="mortgage_hint_accumulation_fund">Enter amount</string>
   <string name="mortgage_hint_commercial">Enter amount</string>
   <string name="mortgage_hint_loan">Enter amount</string>
-  <string name="mortgage_input_error">Enter amount</string>
+  <string name="mortgage_input_error">Enter value</string>
   <string name="mortgage_interest_amount">Interest amount</string>
   <string name="mortgage_interest_rate">Interest</string>
   <string name="mortgage_item_repayment">Repayment method</string>
@@ -131,6 +155,7 @@
   <string name="mortgage_tab_combining_loan">Hybrid</string>
   <string name="mortgage_tab_commercial_loan">Commercial</string>
   <string name="mortgage_years_amount">Mortgage period</string>
+  <string name="mother">妈妈</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiply</string>
   <string name="network_confirm_content">"Currency converter, tax and mortgage calculators need to use your device's network connection and location service to work normally."</string>
@@ -143,10 +168,14 @@
   <string name="power">^</string>
   <string name="powerDesc">power</string>
   <string name="preference_about_calculator">About Calculator</string>
+  <string name="preference_alert_follow_qq_group">Copy and paste into QQ to feedback</string>
   <string name="preference_alert_follow_wechat">Copy and paste into WeChat to follow</string>
   <string name="preference_alert_follow_wechat_button">Copy</string>
+  <string name="preference_check_update_summary_current_version">Current version: %s</string>
+  <string name="preference_check_update_summary_new_version">Update available: %s</string>
   <string name="preference_check_update_title">Check for updates</string>
   <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_qq_group">QQ Group:523274279</string>
   <string name="preference_follow_us">Follow us</string>
   <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Official website</string>
@@ -158,12 +187,16 @@
   <string name="preference_use_degress_summary">Substitute radians with angles in trigonometric functions</string>
   <string name="preference_use_degress_title">Use angles</string>
   <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
+  <string name="relationship_cross_check_suggestion">TA称呼我</string>
+  <string name="relationship_default_separator_text">的</string>
+  <string name="relationship_default_text">我</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">right parenthesis</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sine</string>
   <string name="sin_mathematical_value">sin</string>
   <string name="social_security"/>
+  <string name="son">儿子</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">square root</string>
   <string name="start_calculate"/>
@@ -206,10 +239,11 @@
   <string name="tax_title_primary"/>
   <string name="tax_title_secondary"/>
   <string name="tax_unemployment">Unemployment</string>
-  <string name="tax_update_time_format">Data in year %s, provide by HeXun</string>
+  <string name="tax_update_time_format">Data provided by HeXun (%s)</string>
   <string name="times"/>
   <string name="title_bar">Length converter</string>
   <string name="to_num">62.7</string>
+  <string name="too_long_result">再玩就玩坏了</string>
   <string name="unit_data_default_area_0">sq.m</string>
   <string name="unit_data_default_area_1">sq.cm</string>
   <string name="unit_data_default_currency_0">CNY</string>
@@ -278,7 +312,7 @@
   <string name="unit_data_display_temperature_f">Fahrenheit</string>
   <string name="unit_data_display_temperature_k">Kelvin</string>
   <string name="unit_data_display_temperature_r">Rankine</string>
-  <string name="unit_data_display_temperature_re">Reaumur</string>
+  <string name="unit_data_display_temperature_re">Réaumur</string>
   <string name="unit_data_display_time_day">Day</string>
   <string name="unit_data_display_time_h">Hour</string>
   <string name="unit_data_display_time_min">Minute</string>
@@ -327,6 +361,7 @@
   <string name="unit_data_display_weight_qian">Qian</string>
   <string name="unit_data_display_weight_st">Short ton</string>
   <string name="unit_data_display_weight_t">Tonne</string>
+  <string name="unit_data_display_weight_taijin">Jin (Taiwan)</string>
   <string name="unit_data_display_weight_ug">Microgram</string>
   <string name="unit_data_display_weight_uk.cwt">UK hundredweight</string>
   <string name="unit_data_display_weight_uk.st">Stone</string>
@@ -393,6 +428,7 @@
   <string name="unit_data_short_weight_lt">l.t</string>
   <string name="unit_data_short_weight_qian">qian</string>
   <string name="unit_data_short_weight_st">sh.t</string>
+  <string name="unit_data_short_weight_taijin">jin(tw)</string>
   <string name="unit_data_short_weight_ug">μg</string>
   <string name="unit_data_short_weight_uk.cwt">cwt</string>
   <string name="unit_data_short_weight_us.cwt">cwt</string>
@@ -403,6 +439,7 @@
   <string name="unit_year_format">Year %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Financial characters</string>
+  <string name="wife">妻子</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
   <string name="word_figure_big_unit_wan">"万 "</string>
@@ -434,4 +471,6 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="year"/>
+  <string name="younger_brother">弟弟</string>
+  <string name="younger_sister">妹妹</string>
 </resources>
