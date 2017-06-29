@@ -28,6 +28,7 @@
   <string name="add_anniversary">Add anniversary</string>
   <string name="add_countdown">Add countdown</string>
   <string name="add_event">Add event</string>
+  <string name="agenda_month_empty_hint">No events today</string>
   <string name="agenda_today">TODAY, %1$s</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>
   <string name="agenda_view">Events</string>
@@ -296,6 +297,7 @@
   <string name="limit_tomorrow">明天</string>
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
+  <string name="load_more_hint">Refresh events of %1$d</string>
   <string name="loading">Just a sec…</string>
   <string name="loan_event_title">贷款账单</string>
   <string name="local_calendar_display_name">Local calendar</string>
@@ -338,6 +340,7 @@
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
   <string name="no_contact_birthday_hint">No birthdays to import</string>
+  <string name="no_events_hint">No events</string>
   <string name="no_network">"Couldn't connect to the network.
 Check network settings and try again."</string>
   <string name="no_network_btn">Try again</string>
@@ -407,10 +410,12 @@ Check network settings and try again."</string>
   <string name="preferences_week_start_day_dialog">Start of the week</string>
   <string name="preferences_week_start_day_title">Start of the week</string>
   <string name="provided_ad">赞助商提供</string>
+  <string name="pull_to_refresh_hint">Pull to refresh events of %1$d</string>
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">订阅中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
   <string name="refresh">Refresh</string>
+  <string name="refreshing_hint">Refreshing</string>
   <string name="repeat_activity_label">Repeat</string>
   <string name="repeat_custom_activity_label">Custom</string>
   <string name="repeat_custom_prompt">every %1$s on %2$s</string>
