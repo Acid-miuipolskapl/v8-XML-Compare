@@ -249,6 +249,7 @@
   <string name="unknown">Unknown</string>
   <string name="unlock_phone">Unlock device</string>
   <string name="upgrade_vt_prompt">Switch to video call?</string>
+  <string name="user_locked_prompt">Unlock device to access contacts.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
   <string name="video_conference_caller_info_name">"%1$s's video conference call"</string>
   <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
