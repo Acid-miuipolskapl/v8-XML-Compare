@@ -1531,6 +1531,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
 
 This helps protect data on lost or stolen devices."</string>
+  <string name="encryption_progress_summary">"Encrypting, don't reboot your device."</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE data to enhance voice and communications (Recommended)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
   <string name="enter_password">To start Android, enter your password</string>
@@ -2467,6 +2468,7 @@ Select your operating system:"</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">This setting will take effect after you reboot your device</string>
+  <string name="music_app_unavailable">Depend on music app, make sure it is available</string>
   <string name="music_audio_effect_optimize">Audio settings</string>
   <string name="music_audio_effect_optimize_summary">Dirac, headphones, and other audio settings</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, headphones, and other audio settings</string>
@@ -2517,9 +2519,6 @@ Select your operating system:"</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_notification_headset_custom">Dismiss</string>
-  <string name="music_notification_headset_info">Tap to view settings.</string>
-  <string name="music_notification_headset_settings">Headphones connected</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"USB headsets aren't supported"</string>
   <string name="musicfx_title">Music effects</string>
@@ -2727,6 +2726,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">None</string>
   <string name="owner_info_settings_title">Lock screen signature</string>
+  <string name="owner_space">First space</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
@@ -3784,6 +3784,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings_category">Setup SIM lock</string>
   <string name="sim_lock_settings_title">SIM lock</string>
   <string name="sim_management_title">SIM cards &amp; mobile networks</string>
+  <string name="sim_management_title_cr_kolbi">SIM card &amp; mobile networks</string>
   <string name="sim_multi_sims_summary">Choose the SIM you prefer for cellular data.</string>
   <string name="sim_multi_sims_title">Multiple SIMs found</string>
   <string name="sim_name_hint">Enter SIM name</string>
