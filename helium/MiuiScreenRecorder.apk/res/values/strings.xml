@@ -35,6 +35,7 @@
   <string name="low_battery_title">Low battery</string>
   <string name="low_battery_warning">Battery is too low. Stopped recording and saved video.</string>
   <string name="low_memory">You have less than 200MB of available storage. You can record up to 5 minutes now.</string>
+  <string name="low_memory_dior">You have less than 500MB of available storage. You can record up to 12 minutes now.</string>
   <string name="low_memory_title">Not enough storage space</string>
   <string name="low_momery_warning">Not enough storage space. Stopped recording and saved video.</string>
   <string name="memory_not_allowed">No available storage. Free up some storage to record.</string>
