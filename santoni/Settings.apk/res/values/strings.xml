@@ -3102,6 +3102,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="remove_account_failed">This change isn’t allowed by your administrator</string>
   <string name="remove_account_label">Remove account</string>
   <string name="remove_and_uninstall_device_admin">Deactivate and Uninstall</string>
+  <string name="remove_continue">Uninstall</string>
   <string name="remove_device_admin">Deactivate this device administrator</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
@@ -4248,6 +4249,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_device_admin">Uninstall app</string>
   <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
   <string name="uninstall_dlg_title">Uninstall now?</string>
+  <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
+  <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
   <string name="uninstall_text">Uninstall</string>
   <string name="uninstall_wifi_master_key">Uninstall WLAN Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>

@@ -840,6 +840,13 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="long_click_dialog_summary">Hold the results in the list to add them to exceptions</string>
   <string name="long_click_dialog_title">Attention</string>
+  <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
+  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_title">Not enough free space</string>
+  <string name="low_memory_warning_dialog_cancel_button">Cancel</string>
+  <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
+  <string name="low_memory_warning_dialog_ok_button">Clear</string>
+  <string name="low_memory_warning_dialog_title">Not enough free space</string>
   <string name="lucky_activity">红包活动</string>
   <string name="lucky_alarm">红包闹钟</string>
   <string name="lucky_alarm_app">红包活动倒计时</string>
@@ -919,6 +926,7 @@ to respond"</string>
   <string name="menu_item_app_permissions_control">Permission manager</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">Force stop</string>
+  <string name="menu_item_install_debug_package">install debug package</string>
   <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
   <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
@@ -1332,6 +1340,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
+  <string name="preference_key_app_permission_install_debug">key_app_permission_install_debug</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
   <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
