@@ -36,8 +36,6 @@
   <string name="apk_title_alipay_plugin">支付宝插件</string>
   <string name="app_description_content">Cleaner finds trash on your device and frees up storage space. Make sure you can do without these features before you uninstall the app.</string>
   <string name="app_description_title">About Cleaner</string>
-  <string name="app_install_tips_go_to">Open</string>
-  <string name="app_install_tips_install_success">Installed %1$s successfully</string>
   <string name="app_name">JunkEngine</string>
   <string name="app_usage_never">Not recently used</string>
   <string name="app_usage_recently">Used recently</string>
@@ -252,7 +250,7 @@
   <string name="hints_video_download">Downloaded videos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
-  <string name="information_setting">News feed settings</string>
+  <string name="information_setting">Recommendations</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
@@ -332,7 +330,7 @@
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
-  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
+  <string name="load_only_under_wlan">Load using only WLAN</string>
   <string name="location_not_found">"Couldn't find file"</string>
   <string name="login_immediately">Sign in</string>
   <string name="long_click_dialog_summary">Long press to add to exceptions.</string>
@@ -441,7 +439,7 @@
   <string name="privacy_search_desc">Search history</string>
   <string name="privacy_search_type">Google Search</string>
   <string name="promotion">Ad</string>
-  <string name="recommend_news">Recommended sources</string>
+  <string name="recommend_news">Receive recommendations</string>
   <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
   <string name="recommended">Featured</string>
   <string name="remain_item_name_n7p"/>

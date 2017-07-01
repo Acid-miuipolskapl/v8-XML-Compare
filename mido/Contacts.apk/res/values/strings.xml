@@ -952,10 +952,13 @@ To add a contact to your list of favorites:
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
   <string name="preference_key_trash_bin_title">Recover contacts</string>
+  <string name="preference_other">Other</string>
   <string name="preference_others">Other</string>
   <string name="preference_phone">Phone</string>
   <string name="preference_phone_more_title">Call settings</string>
   <string name="preference_remove_duplicate">Merge duplicate contacts</string>
+  <string name="preference_show_yellowpage_tab_description">Close the YellowPage tab, the YellowPage function will not work properly</string>
+  <string name="preference_show_yellowpage_tab_title">Show the YellowPage tab</string>
   <string name="preference_simple_mode_description">Display photos and other contact info in list view</string>
   <string name="preference_simple_mode_title">Display photos and info</string>
   <string name="preference_smart_group_company_summary">Group by company</string>
