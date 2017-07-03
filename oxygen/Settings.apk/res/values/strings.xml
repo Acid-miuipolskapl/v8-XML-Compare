@@ -2938,10 +2938,13 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
+  <string name="privacy_close_dlg_button_ok">Turn off</string>
+  <string name="privacy_close_dlg_msg">When Privacy protection password is off, your items will no longer be protected.</string>
+  <string name="privacy_close_dlg_title">Attention</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Cancel</string>
-  <string name="privacy_factory_reset_dlg_button_text">Back up data</string>
-  <string name="privacy_factory_reset_dlg_message">"Back up your data locally, and then perform a factory data reset. After that, you'll be able to change your password."</string>
+  <string name="privacy_factory_reset_dlg_button_text">Reset</string>
+  <string name="privacy_factory_reset_dlg_message">"If you forget your password, you'll have to perform a factory reset to set a new one."</string>
   <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">Files</string>
   <string name="privacy_gallery">Photos</string>
@@ -2978,6 +2981,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
   <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
+  <string name="privacy_password_toggle_summary">Require password every time private items are accessed.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
   <string name="privacy_password_use_finger_dialog_open">Settings</string>

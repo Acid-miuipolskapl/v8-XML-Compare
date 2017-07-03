@@ -1288,13 +1288,13 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="reverting_settings">Reverting settings…</string>
   <string name="ringtone_silent">None</string>
   <string name="ringtone_unknown">Unknown ringtone</string>
-  <string name="roaming">Data roaming</string>
+  <string name="roaming">Disconnected from mobile data network</string>
   <string name="roaming_alert_title">Allow data roaming?</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
   <string name="roaming_enable">Connect to data services when roaming</string>
   <string name="roaming_notification_content">You can add country codes automatically to make dialing more convenient.</string>
   <string name="roaming_notification_title">Looks like roaming is activated</string>
-  <string name="roaming_reenable_message">"You've lost data connectivity because you left your home network with data roaming turned off."</string>
+  <string name="roaming_reenable_message">Try using roaming to connect again.</string>
   <string name="roaming_warning">You may incur significant charges.</string>
   <string name="running_process_item_user_label">User: %1$s</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>

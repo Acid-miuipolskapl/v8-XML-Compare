@@ -803,7 +803,6 @@
         <item>1</item>
     </integer-array>
     <string-array name="region_not_support_volte">
-        <item>HK</item>
         <item>TW</item>
         <item>ID</item>
         <item>PL</item>
