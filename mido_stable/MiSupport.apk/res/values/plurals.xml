@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="control_tips">
+        <item quantity="other">You can help %1$s people per day. You can still help %2$d people today.</item>
+        <item quantity="one">You can help %1$s people per day. You can still help %2$d person today.</item>
+    </plurals>
+</resources>
