@@ -235,6 +235,7 @@
   <string name="document_title">Take a photo of the document</string>
   <string name="document_top_panel_title">Document photo</string>
   <string name="done">Done</string>
+  <string name="drag_barcode_into_frame">Drag the frame to fit the code</string>
   <string name="email">Email:</string>
   <string name="error_camera_disabled">Access to Camera has been denied due to security reasons</string>
   <string name="error_cannot_connect_camera">"Can't connect to Camera"</string>
@@ -258,6 +259,13 @@
   <string name="impunity_declaration_negative_text">Exit</string>
   <string name="impunity_declaration_positive_text">Allow</string>
   <string name="impunity_declaration_title">Terms of Service</string>
+  <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
+  <string name="keywords_search_document">Scanner;Scan document;Scan documents;OCR;Scan text;Scan</string>
+  <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Scan cards;Card;Cards;Contacts;Contact</string>
+  <string name="keywords_search_settings">Scanner;Scanner network settings</string>
+  <string name="keywords_search_shopping">Shopping;Scanner;Scan products;Scan product;Check price;Products;Taobao;Tmall;Prices;Online shopping</string>
+  <string name="keywords_search_study">Scanner;Problems;Solve problems;Homework;School;Physics;Chemistry;Math;Maths;English;History;Chinese</string>
+  <string name="keywords_search_translation">Scanner;Translate;Dictionary;English;Foreign language;Language;Languages;English to Chinese;Italian;German;Japanese;Korean;Spanish;French; Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
   <string name="language_entry_chinese_cn">Simplified Chinese</string>
   <string name="language_entry_chinese_tw">Traditional Chinese</string>
   <string name="language_entry_danish">Danish</string>
@@ -292,6 +300,7 @@
   <string name="language_value_russian">russian</string>
   <string name="language_value_spanish">spanish</string>
   <string name="language_value_swedish">swedish</string>
+  <string name="low_version_tip">MIUI version is too old. Update MIUI to use Scanner.</string>
   <string name="module_title_code">QR code</string>
   <string name="module_title_document">Document</string>
   <string name="module_title_namecard">Business card</string>
@@ -310,6 +319,7 @@
   <string name="not_recommend_access_web_url">Go anyway</string>
   <string name="not_tips">"Don't show again"</string>
   <string name="note">Remark:</string>
+  <string name="path_scanner_setting">System apps/Scanner</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Phone:</string>
