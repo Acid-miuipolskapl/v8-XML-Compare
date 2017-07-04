@@ -393,7 +393,6 @@ Check network settings and try again."</string>
   <string name="preferences_default_reminder_default_value">0</string>
   <string name="preferences_default_reminder_dialog">Default reminder time</string>
   <string name="preferences_default_reminder_title">Default reminder time</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Home time zone</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
   <string name="preferences_import_electricity_bill">电费缴费</string>
