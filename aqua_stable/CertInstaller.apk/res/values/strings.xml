@@ -10,7 +10,10 @@
   <string name="credential_name">Certificate name:</string>
   <string name="credential_password">Type the password to extract the certificates.</string>
   <string name="credential_usage_label">Credential use:</string>
+  <string name="done_label">DONE</string>
   <string name="extracting_pkcs12">Extracting…</string>
+  <string name="install_done">%1$s credentials have been added to WLAN saved networks.</string>
+  <string name="install_done_title">Credentials installed</string>
   <string name="invalid_cert">The certificate is invalid.</string>
   <string name="n_cacrts">%d CA certificates</string>
   <string name="name_char_error">Type a name that contains only letters and numbers.</string>
@@ -29,6 +32,36 @@
   <string name="pkcs12_file_password_dialog_title">Extract from %s</string>
   <string name="pkcs12_password_dialog_title">Extract certificate</string>
   <string name="sdcard_not_present">"SD card isn't present."</string>
-  <string name="storage_error">"Couldn't save the certificate. Touch OK to retry."</string>
   <string name="unable_to_save_cert">"Couldn't save the certificate. The credential storage isn't enabled or properly initialized."</string>
+  <string name="wifi_cancel_label">Cancel</string>
+  <string name="wifi_config_text">"Name: %1$s
+FQDN: %2$s
+Roaming Consortiums: %3$s
+Realm: %4$s
+Auth method: EAP-%5$s
+"</string>
+  <string name="wifi_detail_label">Details</string>
+  <string name="wifi_detail_title">Details for %s</string>
+  <string name="wifi_dismiss_label">Dismiss</string>
+  <string name="wifi_install_label">Install</string>
+  <string name="wifi_installer_detail">Install WLAN credentials to connect to networks available via %1$s.</string>
+  <string name="wifi_installer_download_error">"Downloaded file has problems and can't be installed. Make sure you downloaded the file from the correct source."</string>
+  <string name="wifi_installer_fail">"Can't install WLAN credentials. Try downloading the file again."</string>
+  <string name="wifi_installer_fail_no_wifi">Turn on WLAN and try again.</string>
+  <string name="wifi_installer_fail_no_wifi_title">Installation canceled</string>
+  <string name="wifi_installer_fail_title">"Can't install"</string>
+  <string name="wifi_installing_label">Installing</string>
+  <string name="wifi_no_config">None</string>
+  <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+  <string name="wifi_title">WLAN Profile</string>
+  <string name="wifi_tls_config_text">"Client certificate:
+%1$s
+Key: %2$s
+"</string>
+  <string name="wifi_trust_config_text">"Trust certificate:
+%s
+"</string>
+  <string name="wifi_ttls_config_text">"User name: %s
+"</string>
 </resources>

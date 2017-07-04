@@ -25,6 +25,14 @@
 			</Trigger>
 		</Triggers>
 	</Button>
+	<Button x="0" y="262" width="480" height="77" >
+		<Triggers>
+			<Trigger action="up">
+                <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
+				<IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
+			</Trigger>
+		</Triggers>
+	</Button>
 	<Button x="0" width="480" height="183" contentDescriptionExp="ifelse(#hasweather,eval(@desc_time),eval(@desc_time_1))">
 	    <Triggers>
 	        <Trigger action="up">
