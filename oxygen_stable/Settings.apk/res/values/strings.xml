@@ -3267,7 +3267,6 @@ To use screen pinning:
   <string name="screen_pinning_unlock_password">Ask for password before unpinning</string>
   <string name="screen_pinning_unlock_pattern">Ask for unlock pattern before unpinning</string>
   <string name="screen_pinning_unlock_pin">Ask for PIN before unpinning</string>
-  <string name="screen_recorder">Screen recorder</string>
   <string name="screen_resolution_dialog_title">Switch resolution</string>
   <string name="screen_resolution_high_format">High (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
