@@ -171,14 +171,14 @@
   <string name="previous">Previous</string>
   <string name="progress_title_checking">Checking for updates…</string>
   <string name="provision_activate_device">Activating device…</string>
-  <string name="provision_check_sim">Check for SIM card</string>
+  <string name="provision_check_sim">Detect SIM card</string>
   <string name="provision_connect_wifi">Connect to WLAN</string>
   <string name="provision_have_sim">SIM card inserted</string>
-  <string name="provision_no_network_extra">"Connect to WLAN, or insert your SIM card and use mobile data to activate your device. You can't activate your device without connecting to the network."</string>
+  <string name="provision_no_network_extra">Connect to WLAN, or insert your SIM card and use mobile data to activate your device. You cant activate your device without connecting to the network.</string>
   <string name="provision_no_network_title">Connect to the network</string>
   <string name="provision_retry">Try again</string>
   <string name="provision_toast_no_network">Connect to the network first</string>
-  <string name="provision_toast_server_error">"Couldn't connect to the server. Wait a minute or two and try again."</string>
+  <string name="provision_toast_server_error">Couldn’tt connect to the server. Wait a minute or two and try again.</string>
   <string name="provision_toast_timeout">Connection timed out. Check your network settings.</string>
   <string name="reboot">Reboot</string>
   <string name="recovery_failed_button">OK</string>
