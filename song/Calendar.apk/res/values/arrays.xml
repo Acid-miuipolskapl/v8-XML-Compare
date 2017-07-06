@@ -354,18 +354,24 @@
         <item>#ff349a97</item>
     </array>
     <array name="action_bar_colors">
-        <item>#ff7d97e1</item>
-        <item>#ff27bbd0</item>
-        <item>#ff8cc061</item>
-        <item>#ff3fbc7d</item>
-        <item>#ff11b599</item>
-        <item>#fff38f3a</item>
-        <item>#ffeb6e4a</item>
-        <item>#ffdd5a62</item>
-        <item>#ffe8774d</item>
-        <item>#ffe29255</item>
-        <item>#ff579ee0</item>
-        <item>#ff9b88d0</item>
+        <item>#ff1daba7</item>
+        <item>#ff34abd7</item>
+        <item>#ff429bd9</item>
+        <item>#ff5e84da</item>
+        <item>#ff747bd1</item>
+        <item>#ff8979cd</item>
+        <item>#ff747bd1</item>
+        <item>#ff5e84da</item>
+        <item>#ff429bd9</item>
+        <item>#ff34abd7</item>
+        <item>#ff1daba7</item>
+        <item>#ff39af81</item>
+        <item>#ff49b46c</item>
+        <item>#ff6ab157</item>
+        <item>#ff81ba51</item>
+        <item>#ff6ab157</item>
+        <item>#ff49b46c</item>
+        <item>#ff39af81</item>
     </array>
     <integer-array name="allday_reminder_minutes_values">
         <item>0</item>
@@ -452,18 +458,24 @@
         <item>T20 Leagues</item>
     </string-array>
     <array name="month_today_colors">
-        <item>#ff809be8</item>
-        <item>#ff2ec2d7</item>
-        <item>#ff99ce6d</item>
-        <item>#ff46c987</item>
-        <item>#ff15bb9e</item>
-        <item>#fff49d52</item>
-        <item>#fff4734d</item>
-        <item>#ffea646b</item>
-        <item>#ffed7d54</item>
-        <item>#ffe8995d</item>
-        <item>#ff5ea4e6</item>
-        <item>#ffab99de</item>
+        <item>#ff1db3af</item>
+        <item>#ff37b0dd</item>
+        <item>#ff45a4e6</item>
+        <item>#ff6089e7</item>
+        <item>#ff7d84df</item>
+        <item>#ff9583e2</item>
+        <item>#ff7d84df</item>
+        <item>#ff6089e7</item>
+        <item>#ff45a4e6</item>
+        <item>#ff37b0dd</item>
+        <item>#ff1db3af</item>
+        <item>#ff29b981</item>
+        <item>#ff4dbf72</item>
+        <item>#ff72bd5d</item>
+        <item>#ff92c765</item>
+        <item>#ff72bd5d</item>
+        <item>#ff4dbf72</item>
+        <item>#ff29b981</item>
     </array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
