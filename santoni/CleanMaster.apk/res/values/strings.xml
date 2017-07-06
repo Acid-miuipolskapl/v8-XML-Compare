@@ -34,6 +34,8 @@
   <string name="apk_status_installed_old">Old version</string>
   <string name="apk_status_uninstalled">Not installed</string>
   <string name="apk_title_alipay_plugin">支付宝插件</string>
+  <string name="app_description_content">Cleaner finds trash on your device and frees up storage space. Make sure you can do without these features before you uninstall the app.</string>
+  <string name="app_description_title">About Cleaner</string>
   <string name="app_install_tips_go_to">Open</string>
   <string name="app_install_tips_install_success">Installed %1$s successfully</string>
   <string name="app_name">JunkEngine</string>

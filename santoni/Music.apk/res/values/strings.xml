@@ -107,6 +107,7 @@
   <string name="can_not_find_resource">"Can't find resources"</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_running_download">Cancel</string>
+  <string name="change_download_quality">Change download quality</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Female artists (China)</string>
   <string name="chinese_group">Bands (China)</string>
@@ -134,6 +135,7 @@
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
   <string name="comment_format" formatted="false">%s: %s</string>
+  <string name="confirm">Confirm</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Renew</string>
   <string name="continue_backup">Continue</string>
@@ -596,10 +598,18 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_my">My</string>
+  <string name="online_play_tips">The song is online content, and you need to open the online switch in the music settings</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
   <string name="online_recommend">Playlist</string>
+  <string name="online_service_open_tip">Music online service is on</string>
+  <string name="online_service_title">Online service</string>
   <string name="online_special">Special</string>
+  <string name="online_switch">Online content service</string>
+  <string name="online_switch_message">Close all online service?</string>
+  <string name="online_switch_setting">Online content setting</string>
   <string name="open_download">Open</string>
+  <string name="open_online_service">Need to open the music online service，open now？</string>
+  <string name="open_service">Open</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">Other</string>

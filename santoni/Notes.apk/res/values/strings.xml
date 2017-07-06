@@ -77,6 +77,8 @@
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Not now</string>
   <string name="note_alert_expired">Expired</string>
+  <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>
+  <string name="note_description_title">About Notes</string>
   <string name="note_link_email">Compose email</string>
   <string name="note_link_other">Open using map app</string>
   <string name="note_link_select">Select text</string>

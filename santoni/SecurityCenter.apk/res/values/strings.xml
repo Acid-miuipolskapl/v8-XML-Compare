@@ -1317,6 +1317,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_specified_adjust">Set custom data limit</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_summary_lock_screen_memory_clean">Clean automatically when device is locked</string>
+  <string name="pref_summary_upload_data_usage">Report your data usage stats to help us improve MIUI. Reporting is carried out in accordance with our Privacy Policy.</string>
   <string name="pref_summary_virus_white_list">Prevent selected apps from being cleaned up</string>
   <string name="pref_title_declaration">Important disclaimer</string>
   <string name="pref_title_diagnostics_show_float_notification">Floating notifications</string>
@@ -1328,6 +1329,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Data usage notifications</string>
+  <string name="pref_title_upload_data_usage">Report data usage stats</string>
   <string name="pref_title_virus_white_list">Exceptions</string>
   <string name="pref_traffic_manage_title">Data usage</string>
   <string name="pref_version">Version %s</string>

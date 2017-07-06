@@ -975,6 +975,7 @@ Using preferred network instead."</string>
   <string name="new_pin_label">New PIN</string>
   <string name="no_application">Nothing</string>
   <string name="no_change">No changes were made.</string>
+  <string name="no_checked_network">"You won't be able to connect to mobile network and make calls. Select another network?"</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
   <string name="no_mobile_data">Mobile data is not available</string>
   <string name="no_mobile_data_roaming">Data roaming is not available</string>

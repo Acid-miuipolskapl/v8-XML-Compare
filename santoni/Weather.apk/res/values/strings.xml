@@ -211,5 +211,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
+  <string name="xiaomi_weather_description_content">Xiaomi Weather APP can provide accurate weather forecast information,bring more convenience for your daily trip. Uninstall will affect functions of the status bar,desktop weather clock and so on. Do you want to continue uninstalling system components?</string>
+  <string name="xiaomi_weather_description_title">Xiaomi Weather APP Description</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

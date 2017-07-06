@@ -58,6 +58,8 @@
   <string name="hour">1 hour</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">%d hours</string>
+  <string name="install_weather_app_error">Application load failed.</string>
+  <string name="install_weather_app_loading">Loading...</string>
   <string name="keep_screen_on">Keep screen on</string>
   <string name="label">Set label</string>
   <string name="label_pref_summary">Label</string>
