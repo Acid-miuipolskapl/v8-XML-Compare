@@ -29,7 +29,6 @@
 		<Triggers>
 			<Trigger action="up">
                 <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
-				<IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
 			</Trigger>
 		</Triggers>
 	</Button>
