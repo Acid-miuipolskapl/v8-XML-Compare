@@ -56,7 +56,7 @@
   <string name="cmas_opt_out_button_yes">Yes</string>
   <string name="cmas_opt_out_dialog_text">You are currently receiving Emergency Alerts. Would you like to continue receiving Emergency Alerts?</string>
   <string name="cmas_presidential_level_alert">Presidential alert</string>
-  <string name="cmas_required_monthly_test">Emergency alert monthly test</string>
+  <string name="cmas_required_monthly_test">Required Monthly Test</string>
   <string name="cmas_response_assess">Assess</string>
   <string name="cmas_response_avoid">Avoid</string>
   <string name="cmas_response_evacuate">Evacuate</string>
