@@ -25,7 +25,7 @@
         <Image name="img_weather" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather.png'" srcid="ifelse(gt(#weather_id,24)+lt(#weather_id,0),10000,#weather_id)" x="#view_width-28" y="#view_height" align="right" alignV="bottom" touchable="true">
             <Triggers>
                 <Trigger action="up">
-                    <ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.weather.widget_weather_detail;end'"/>
+                    <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
                 </Trigger>
             </Triggers>
         </Image>
@@ -33,7 +33,7 @@
         <Button x="58" y="#view_height-12" w="#temp.bmp_width+75+max(#text_description.text_width,#text_location.text_width)" h="#temp.bmp_height" alignV="bottom" >
             <Triggers>
                 <Trigger action="up">
-                    <ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.weather.widget_weather_detail;end'"/>
+                    <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
                 </Trigger>
             </Triggers>
         </Button>
@@ -48,7 +48,7 @@
 		<Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather_null.png'" x="#view_width-82" align="right" alignV="center" touchable="true">
             <Triggers>
                 <Trigger action="up">
-                    <ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.weather.widget_weather_detail;end'"/>
+                    <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
                 </Trigger>
             </Triggers>
         </Image>
@@ -56,7 +56,7 @@
         <Button x="58" w="#view_width" h="#view_height" alignV="bottom">
             <Triggers>
                 <Trigger action="up">
-                    <ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.weather.widget_weather_detail;end'"/>
+                    <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
                 </Trigger>
             </Triggers>
         </Button>
