@@ -9,7 +9,7 @@
 	<string name="desc_weather_3">'后天'+', '+@datetime2+', '+@weather_description2+', '+'最高温'+#weather_temphigh2+'度'+','+'最低温'+#weather_templow2+'度'</string>
 	<string name="desc_weather_4">'大后天'+', '+@datetime3+', '+@weather_description3+', '+'最高温'+#weather_temphigh3+'度'+','+'最低温'+#weather_templow3+'度'</string>
     <string name="weather_type_null">'暂无数据'</string>
-	<string name="aqi_pure">'无污染'</string>
+	<string name="aqi_pure">''</string>
     <string name="aqi_good">'空气优'</string>
     <string name="aqi_moderate">'空气良'</string>
     <string name="aqi_pollution">'轻度污染'</string>

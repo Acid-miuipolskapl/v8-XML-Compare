@@ -928,7 +928,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_uri_btn_text">Clear access</string>
   <string name="clear_user_data_text">Clear data</string>
   <string name="close_gesture">Close using gesture</string>
-  <string name="close_install_and_connect">No thanks</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="cmcc_hardware_version">Hardware version</string>
@@ -993,7 +992,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_erase">Erase</string>
   <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
-  <string name="confirm_install_and_connect">Install &amp; connect</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_privacy_password">Enter Privacy protection password</string>
   <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
@@ -1328,8 +1326,6 @@ This setting affects all users on this phone."</string>
   <string name="disable_service_message">Tapping OK will stop %1$s.</string>
   <string name="disable_service_title">Stop %1$s?</string>
   <string name="disable_text">Disable</string>
-  <string name="disable_wifi_master_key_service">Turn off</string>
-  <string name="disable_wifi_master_key_service_first">Turn off</string>
   <string name="disabled">Disabled</string>
   <string name="disabled_because_no_backup_security">To use, first set a screen lock</string>
   <string name="disabled_by_admin">Disabled by administrator</string>
@@ -1496,8 +1492,6 @@ This setting affects all users on this phone."</string>
   <string name="enable_webview_multiprocess">Multiprocess WebView</string>
   <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enable_wifi_display">Wireless display</string>
-  <string name="enable_wifi_master_key_service">Turn on WLAN Master Key</string>
-  <string name="enable_wifi_master_key_service_first">Turn on</string>
   <string name="enabled_by_admin">Enabled by administrator</string>
   <string name="encrypt_dont_require_password">No thanks</string>
   <string name="encrypt_dont_require_pattern">No thanks</string>
@@ -1870,7 +1864,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
   <string name="install_applications_title">Allow all app sources</string>
-  <string name="install_master_key_and_connect">You can connect to this network using WLAN Master Key. Install this tool?</string>
   <string name="install_no_market_app_summary">Allow installation of apps from sources other than the App Store</string>
   <string name="install_no_market_app_title">Unknown sources</string>
   <string name="install_preinstall_app">Loading apps…</string>
@@ -2940,10 +2933,13 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
+  <string name="privacy_close_dlg_button_ok">Turn off</string>
+  <string name="privacy_close_dlg_msg">When Privacy protection password is off, your items will no longer be protected.</string>
+  <string name="privacy_close_dlg_title">Attention</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Cancel</string>
-  <string name="privacy_factory_reset_dlg_button_text">Back up data</string>
-  <string name="privacy_factory_reset_dlg_message">"Back up your data locally, and then perform a factory data reset. After that, you'll be able to change your password."</string>
+  <string name="privacy_factory_reset_dlg_button_text">Reset</string>
+  <string name="privacy_factory_reset_dlg_message">"If you forget your password, you'll have to perform a factory reset to set a new one."</string>
   <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">Files</string>
   <string name="privacy_gallery">Photos</string>
@@ -2980,6 +2976,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
   <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
+  <string name="privacy_password_toggle_summary">Require password every time private items are accessed.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
   <string name="privacy_password_use_finger_dialog_open">Settings</string>
@@ -3739,8 +3736,6 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="show_touches">Show taps</string>
   <string name="show_touches_summary">Show visual feedback for taps</string>
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
-  <string name="show_wifi_master_key_summary">Connect to shared WLAN networks using WLAN Master Key</string>
-  <string name="show_wifi_master_key_title">Detect shared WLAN networks</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device has an internet connection."</string>
   <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
@@ -4291,7 +4286,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
   <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
   <string name="uninstall_text">Uninstall</string>
-  <string name="uninstall_wifi_master_key">Uninstall WLAN Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
   <string name="uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
   <string name="uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
@@ -4456,7 +4450,6 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
   <string name="use_this_wlan">Stay connected</string>
-  <string name="use_wifi_master_key_summary">Connect using WLAN Master Key</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_max_count">You can add up to %1$d users</string>
   <string name="user_add_on_lockscreen_menu">Add users</string>
@@ -4882,12 +4875,6 @@ WLAN Assistant"</string>
   <string name="wifi_ip_settings_menu_cancel">Cancel</string>
   <string name="wifi_ip_settings_menu_save">Save</string>
   <string name="wifi_limit_optimizations_summary">Limit battery used by WLAN</string>
-  <string name="wifi_master_key_dialog_content_master_key">WLAN Master Key</string>
-  <string name="wifi_master_key_dialog_content_password">Password</string>
-  <string name="wifi_master_key_dialog_title">Connect using</string>
-  <string name="wifi_master_key_name">WLAN Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password. You can also %1$s."</string>
-  <string name="wifi_master_key_service_dialog_title">Shared WLAN networks</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_configure">Configure</string>
   <string name="wifi_menu_connect">Connect to network</string>
