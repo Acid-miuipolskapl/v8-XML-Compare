@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="desc_weather">\@weather_location+\', \'+@weather_description+\', \'+#weather_temperature+\'ཏུའུ\'</string>
+    <string name="desc_weather">@weather_description+\', \'+#weather_temperature+\'ཏུའུ\'</string>
     <string name="desc_weather_null">'གནས་སྐབས་སུ་གཞི་གྲངས་མི་འདུག'</string>
     <string name="weather_type_null">'གནས་སྐབས་སུ་གཞི་གྲངས་མི་འདུག'</string>
     <string name="weather_type_0">གནམ་དྭངས།</string>
