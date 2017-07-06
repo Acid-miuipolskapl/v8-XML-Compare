@@ -117,14 +117,14 @@
     <Button x="#view_width/2" y="255" w="380" h="460" align="center" alignV="center">
         <Triggers>
             <Trigger action="up">
-                <ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.weather.widget_weather_detail;end'"/>
+                <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
             </Trigger>
         </Triggers>
     </Button>
     <Button x="#view_width/2" y="485" w="#view_width" h="510" align="center">
         <Triggers>
             <Trigger action="up">
-                <ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.weather.widget_weather_detail;end'"/>
+                <IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherMain"/>
             </Trigger>
         </Triggers>
     </Button>
