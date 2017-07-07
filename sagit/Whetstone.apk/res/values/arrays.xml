@@ -109,6 +109,10 @@
         <item>com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService</item>
         <item>com.tencent.mm/com.tencent.mm.booter.CoreService</item>
     </string-array>
+    <string-array name="light_sleep_process_list">
+        <item>com.tencent.mm/com.tencent.mm:push</item>
+        <item>com.tencent.mobileqq/com.tencent.mobileqq:MSF</item>
+    </string-array>
     <string-array name="sleep_mode_disable_rtc_start">
         <item>com.miui.analytics</item>
         <item>com.securespaces.android.agent</item>
@@ -117,7 +121,7 @@
         <item>com.miui.core</item>
         <item>com.miui.klo.bugreport</item>
         <item>com.tencent.mm</item>
-        <item>com.tencent.qq</item>
+        <item>com.tencent.mobileqq</item>
         <item>com.eg.android.AlipayGphone</item>
     </string-array>
     <string-array name="promotelevel_normal">
