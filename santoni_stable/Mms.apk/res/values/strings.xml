@@ -638,6 +638,7 @@
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
   <string name="title_timed_message_dialog">Set timed message</string>
+  <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">%d recipients</string>
   <string name="to_label">"To "</string>
