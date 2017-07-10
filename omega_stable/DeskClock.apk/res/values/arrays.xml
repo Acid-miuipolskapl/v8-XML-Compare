@@ -953,6 +953,24 @@
         <item>Mon to Fri</item>
         <item>Custom</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Good</item>
+        <item>Satisfactory</item>
+        <item>Moderately polluted</item>
+        <item>Poor</item>
+        <item>Very poor</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reduce outdoor activities</item>
+        <item>The roads are slippery</item>
+        <item>The weather is stormy, be careful!</item>
+        <item>The air is polluted, wear a mask!</item>
+        <item>Take an umbrella when you go out</item>
+        <item>Be careful on the road</item>
+        <item>Sandstorm is coming, wear a mask!</item>
+        <item>Have a nice day!</item>
+    </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>0</item>
         <item>1</item>
@@ -975,7 +993,7 @@
         <item>Alarm will go off in %3$s.</item>
         <item>Alarm will go off in %1$s and %3$s.</item>
         <item>Alarm will go off in %2$s and %3$s.</item>
-        <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
+        <item>Alarm will go off in %1$s %2$s and %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minute</item>

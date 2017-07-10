@@ -203,7 +203,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
   <string name="config_forceVoiceInteractionServicePackage"/>
   <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
+  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_isoImagePath"/>
@@ -212,7 +212,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
   <string name="config_mobile_hotspot_provision_response"/>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
+  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_ntpServer">asia.pool.ntp.org</string>
   <string name="config_persistentDataPackageName">com.google.android.gms</string>
   <string name="config_radio_access_family"/>
@@ -664,7 +664,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Try again</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+Contact your wireless service provider for another SIM card."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
   <string name="lockscreen_return_to_call">Return to call</string>
   <string name="lockscreen_screen_locked">Screen locked.</string>
