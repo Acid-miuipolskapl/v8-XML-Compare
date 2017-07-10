@@ -234,11 +234,11 @@
         <item>1</item>
     </string-array>
     <string-array name="pref_text_zoom_values">
-        <item>50</item>
-        <item>75</item>
+        <item>70</item>
+        <item>86</item>
         <item>100</item>
         <item>125</item>
-        <item>200</item>
+        <item>140</item>
     </string-array>
     <string-array name="pref_ua_values">
         <item>0</item>

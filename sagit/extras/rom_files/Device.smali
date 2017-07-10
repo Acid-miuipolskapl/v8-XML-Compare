@@ -1733,6 +1733,26 @@
     goto :goto_0
 .end method
 
+.method public static isSupportedNewStyleTimeWaterMark()Z
+    .locals 1
+
+    invoke-static {}, Lcom/android/camera/Device;->isSupportedTimeWaterMark()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_D2:Z
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedObjectTrack()Z
     .locals 2
 
