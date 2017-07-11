@@ -1736,7 +1736,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="handy_mode">One-handed mode</string>
   <string name="handy_mode_enable">One-handed mode</string>
-  <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>
   <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
   <string name="haptic_feedback_enable_title">Vibrate on tap</string>
