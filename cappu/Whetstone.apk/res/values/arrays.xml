@@ -98,13 +98,20 @@
         <item>com.android.settings</item>
         <item>com.miui.securitycenter</item>
     </string-array>
-    <string-array name="sleepclean_system_list">
+    <string-array name="sleepclean_normal_kill_list">
+        <item>com.xiaomi.hm.health</item>
+    </string-array>
+    <string-array name="sleepclean_system_forcestop_list">
         <item>com.miui.gallery</item>
         <item>com.android.email</item>
     </string-array>
     <string-array name="push_service_list">
         <item>com.tencent.mobileqq/com.tencent.mobileqq.msf.service.MsfService</item>
         <item>com.tencent.mm/com.tencent.mm.booter.CoreService</item>
+    </string-array>
+    <string-array name="light_sleep_process_list">
+        <item>com.tencent.mm/com.tencent.mm:push</item>
+        <item>com.tencent.mobileqq/com.tencent.mobileqq:MSF</item>
     </string-array>
     <string-array name="sleep_mode_disable_rtc_start">
         <item>com.miui.analytics</item>
@@ -114,7 +121,7 @@
         <item>com.miui.core</item>
         <item>com.miui.klo.bugreport</item>
         <item>com.tencent.mm</item>
-        <item>com.tencent.qq</item>
+        <item>com.tencent.mobileqq</item>
         <item>com.eg.android.AlipayGphone</item>
     </string-array>
     <string-array name="promotelevel_normal">
@@ -175,6 +182,13 @@
         <item>com.miui.powerkeeper</item>
         <item>com.miui.stepsprovider</item>
         <item>com.miui.whetstone</item>
+    </string-array>
+    <string-array name="provider_protected_list">
+        <item>com.android.bluetooth</item>
+    </string-array>
+    <string-array name="provider_protected_proc">
+        <item>com.miui.gallery</item>
+        <item>com.android.fileexplorer</item>
     </string-array>
     <string-array name="aborted_packages">
         <item>com.android.browser</item>

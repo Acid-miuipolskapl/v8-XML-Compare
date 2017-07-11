@@ -47,7 +47,6 @@
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">Unit: µg/m³</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_fifteen_dates_time_format">M/d</string>
   <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
   <string name="aqi_publish_time">Updated %1$s</string>
@@ -68,7 +67,7 @@
   <string name="aqi_station_min_distance_station">Nearest station</string>
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Major pollutants</string>
-  <string name="button_abandon">Abandon changes</string>
+  <string name="button_abandon">Discard changes</string>
   <string name="button_add_city">Add location</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Allow</string>
@@ -82,7 +81,6 @@
   <string name="common_loading_text">Just a sec…</string>
   <string name="connect_fail">"Couldn't connect to the network, try again"</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
-  <string name="daily_forcast_drawer_on_top">%1$s day forecast</string>
   <string name="daily_forcast_no_stable_direction">Breeze</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -107,7 +105,6 @@ Pull down to refresh or check the network settings"</string>
   <string name="feedback_light_rain">Light rain</string>
   <string name="feedback_overcast">Overcast</string>
   <string name="feedback_result_fail_no_choice">Choose the current weather conditions</string>
-  <string name="feedback_result_interval_time_too_short">%1$s seconds after the feedback</string>
   <string name="feedback_result_success">Submitted successfully, thank you for your feedback.</string>
   <string name="feedback_sand">Sand</string>
   <string name="feedback_sunny">Sunny</string>
@@ -266,5 +263,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
+  <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
+  <string name="xiaomi_weather_description_title">About Weather</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

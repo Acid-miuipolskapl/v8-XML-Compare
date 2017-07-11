@@ -137,9 +137,9 @@
   <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
   <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
   <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local Internet connection with device</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local internet connection with device</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Use for internet access</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for internet access</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
   <string name="bluetooth_profile_dun">Used for accessing dial-up networks</string>
   <string name="bluetooth_profile_headset">Phone audio</string>
@@ -310,6 +310,7 @@ Use only the supplied charger."</string>
   <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
+  <string name="loading_desktop">Just a sec…</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
   <string name="local_backup_password_title">Desktop backup password</string>
@@ -620,7 +621,7 @@ Slide down to lock"</string>
   <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
   <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
+  <string name="wifi_connected_no_internet">Connected, no internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_network_failure">"Couldn't configure IP"</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>

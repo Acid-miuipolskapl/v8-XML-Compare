@@ -28,7 +28,6 @@
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
-  <string name="add_to_secret_successful">Added to hidden album</string>
   <string name="add_to_share_album_not_delete">"Can't delete photo from Shared Album"</string>
   <string name="adding">Adding…</string>
   <string name="adding_recipients">Adding recipients…</string>
@@ -79,7 +78,8 @@
   <string name="album_type_system">System albums</string>
   <string name="album_videos_name">Videos</string>
   <string name="alert_secret_album_enter">Got it</string>
-  <string name="alert_secret_album_message">Pull down from the top of your Albums page to view hidden album.</string>
+  <string name="alert_secret_album_message">Swipe down while in the Albums tap to view hidden album.</string>
+  <string name="alert_secret_album_message_lower_case"> swipe down while in the Albums tap to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_faces">Photos with this person</string>
   <string name="all_items_synced">All albums have been backed up to Mi Cloud</string>
@@ -158,6 +158,9 @@
   <string name="backup_pause_title">Back up in %s</string>
   <string name="backup_pending">Will be backed up automatically</string>
   <string name="backup_stop">Stop backup</string>
+  <string name="backup_sync_dialog_confirm">Turn on</string>
+  <string name="backup_sync_dialog_tips">Turn on sync with Mi Cloud to change the settings for backups.</string>
+  <string name="backup_sync_dialog_title">Sync is off</string>
   <string name="backup_sync_error_btn_text">Try again</string>
   <string name="backup_sync_error_desc">"Can't connect to Mi Cloud"</string>
   <string name="backup_sync_error_title">"Couldn't sync items"</string>
@@ -592,16 +595,18 @@
   <string name="cloud_storage_video_title">Videos</string>
   <string name="cloud_storage_warn_desc">Purchase cloud VIP for extra storage</string>
   <string name="cloud_storage_warn_title">Not enough Mi Cloud storage</string>
+  <string name="cloud_sync_card_description">Sync your photos and videos to Mi Cloud to access them from multiple devices</string>
+  <string name="cloud_sync_card_title">Turn on sync with Mi Cloud</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Enter an album name</string>
   <string name="cloudfolder_name_reserved">Album name is reserved</string>
   <string name="collaps_people">Hide</string>
-  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
-  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
-  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -717,7 +722,7 @@
   <string name="exit">Exit</string>
   <string name="exit_share">Exit album</string>
   <string name="exit_share_failed">"Couldn't exit %1$s"</string>
-  <string name="exit_share_in_process">Exiting…</string>
+  <string name="exit_share_in_process">Leaving album \"%s\"…</string>
   <string name="exit_share_successfully">Exited %1$s</string>
   <string name="exit_video_play">Exit</string>
   <string name="expand_people">Show more people</string>
@@ -1059,6 +1064,8 @@ Take more photos of your friends!"</string>
   <string name="search_title_tag">Objects</string>
   <string name="search_transition_element_icon">search_icon</string>
   <string name="search_transition_element_input">search_input</string>
+  <string name="secret_album_card_description">The best place for all your little secrets</string>
+  <string name="secret_album_card_title">Try hidden album</string>
   <string name="secret_album_display_name">Hidden album</string>
   <string name="secret_album_password_first_use_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_password_first_use_title">Privacy protection password</string>
@@ -1158,6 +1165,7 @@ Take more photos of your friends!"</string>
   <string name="to_enable_sync_dialog_message">Turn on sync first</string>
   <string name="to_enable_sync_dialog_positive_button_text">Go to Settings</string>
   <string name="to_enable_sync_dialog_title">Sync</string>
+  <string name="today">Today</string>
   <string name="too_many_recipients">"Can't add more than %2$s recipients (You've currently added %1$s)."</string>
   <string name="trash_bin">Trash bin</string>
   <string name="trash_bin_summary">Browse backed up photos which were deleted recently</string>
@@ -1247,5 +1255,6 @@ Take more photos of your friends!"</string>
   <string name="who_is_this">Who is it?</string>
   <string name="xiaomi_account_not_exists_toast">"Mi Account doesn't exist"</string>
   <string name="yes">Yes</string>
+  <string name="yesterday">Yesterday</string>
   <string name="you_are">"You're the baby's"</string>
 </resources>

@@ -7,7 +7,6 @@
   <string name="default_lockscreen_unlock_hint_text">Swipe up to unlock</string>
   <string name="delete">Delete</string>
   <string name="emergency_call_string">Emergency</string>
-  <string name="find_device_turn_off_flight_mode">Turn off airplane mode</string>
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">Add fingerprint</string>
   <string name="fingerprint_again_identified_msg">Your fingerprint is active now. Use it to unlock the device, or enter password.</string>
@@ -24,6 +23,7 @@
   <string name="incorrect_pukcode">Incorrect PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
   <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Can't switch between spaces during a call"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">You need to enter First space after the device was rebooted</string>
   <string name="input_password_hint_text">Enter password</string>
   <string name="input_pattern_hint_text">Draw your unlock pattern</string>
@@ -34,24 +34,24 @@
   <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
   <string name="keyguard_charging_info_battery_temperature_text">Battery temperature</string>
   <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %dhr until full</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">About %dmin until full​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %dhr %dmin until full</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">About %d min until full​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %d hr %d min until full</string>
   <string name="keyguard_charging_info_charging_text">Charging</string>
   <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
   <string name="keyguard_charging_info_click_to_detail">View details</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">About %dhr left</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">About %dmin left</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %dhr %dmin left</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
   <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
   <string name="keyguard_charging_info_data_percent">%s%%</string>
   <string name="keyguard_charging_info_data_v">%sV</string>
-  <string name="keyguard_charging_info_drained_hour_time_format">%dhr</string>
-  <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr %dmin</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
   <string name="keyguard_charging_info_finished_charging_text">Fully charged</string>
   <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Today %s</string>
@@ -81,15 +81,9 @@
 
  Try again in %d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the pad %d times. The tablet will now be reset to factory default.</string>
-  <string name="lockscreen_glogin_checking_password">Checking…</string>
-  <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
-  <string name="lockscreen_glogin_password_hint">Password</string>
-  <string name="lockscreen_glogin_submit_button">Sign in</string>
-  <string name="login_website_in_case_forget_password">To reset your password, go to www.mi.com/micloud</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
   <string name="open_camera_hint_text">Swipe left to open %s</string>
   <string name="open_remote_center_hint_text">Swipe right to open %s</string>
-  <string name="open_wifi_settings">Open network connection</string>
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
 
@@ -99,8 +93,8 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
   <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
   <string name="phone_locked_foget_password_ok">Got it</string>
   <string name="phone_locked_string">Pad has been locked</string>
-  <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
-  <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>
+  <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
+  <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
   <string name="symbol_colon">:</string>
   <string name="unlock_string">Unlock</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>

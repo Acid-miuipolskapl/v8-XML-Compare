@@ -575,10 +575,12 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="billing_cycle">Billing cycle</string>
   <string name="billing_cycle_fragment_summary">Monthly starting %1$s</string>
   <string name="billing_cycle_summary">Monthly cycle starts on the %1$s of every month</string>
-  <string name="bind_xiaomi_account_cancel">Cancel</string>
   <string name="bind_xiaomi_account_confirm">Add</string>
   <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
   <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="biometric_weak_improve_matching_title">Improve face matching</string>
+  <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
+  <string name="biometric_weak_liveliness_title">Liveness check</string>
   <string name="ble_scan_notify_text">To improve location accuracy, system apps and services can still detect Bluetooth devices. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
   <string name="block_list_connected_devices">Connected devices</string>
   <string name="block_list_diaglog_cancle">Cancel</string>
@@ -713,7 +715,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_pairing_shares_phonebook">Allow %1$s to access your contacts and call history</string>
   <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local Internet connection with device</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Use for internet access</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s wants to access your contacts and call history. Give access to %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Don’t ask again</string>
@@ -982,7 +984,6 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_user_data_text">Clear data</string>
   <string name="click_to_view">Tap to view</string>
   <string name="close_gesture">Close using gesture</string>
-  <string name="close_install_and_connect">No thanks</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
@@ -1061,14 +1062,13 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_erase">Erase</string>
   <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
-  <string name="confirm_install_and_connect">Install &amp; connect</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="confirm_privacy_password">Enter Privacy protection password</string>
   <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
-  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
+  <string name="connect_mode">connect mode</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via WLAN assistant</string>
@@ -1410,8 +1410,6 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="disable_service_message">Tapping OK will stop %1$s.</string>
   <string name="disable_service_title">Stop %1$s?</string>
   <string name="disable_text">Disable</string>
-  <string name="disable_wifi_master_key_service">Turn off</string>
-  <string name="disable_wifi_master_key_service_first">Turn off</string>
   <string name="disabled">Disabled</string>
   <string name="disabled_because_no_backup_security">To use, first set a screen lock</string>
   <string name="disabled_by_admin">Disabled by administrator</string>
@@ -1586,8 +1584,6 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="enable_webview_multiprocess">Multiprocess WebView</string>
   <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enable_wifi_display">Wireless display</string>
-  <string name="enable_wifi_master_key_service">Turn on WLAN Master Key</string>
-  <string name="enable_wifi_master_key_service_first">Turn on</string>
   <string name="enabled_by_admin">Enabled by administrator</string>
   <string name="encrypt_dont_require_password">No thanks</string>
   <string name="encrypt_dont_require_pattern">No thanks</string>
@@ -1621,6 +1617,7 @@ This helps protect data on lost or stolen devices."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
 
 This helps protect data on lost or stolen devices."</string>
+  <string name="encryption_progress_summary">"Encrypting, don't reboot your device."</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE data to enhance voice and communications (Recommended)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
   <string name="enter_password">To start Android, enter your password</string>
@@ -1839,6 +1836,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="gesture_wakeup_title">Double tap screen to wake</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="giga_hertz">GHz</string>
   <string name="global_change_warning">This setting affects all users on this tablet.</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="go_back_button_label">Go back</string>
@@ -1986,7 +1984,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="install_all_warning">Your tablet and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your tablet or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
   <string name="install_applications_title">Allow all app sources</string>
-  <string name="install_master_key_and_connect">You can connect to this network using WLAN Master Key. Install this tool?</string>
   <string name="install_no_market_app_summary">Allow installation of apps from sources other than the App Store</string>
   <string name="install_no_market_app_title">Unknown sources</string>
   <string name="install_preinstall_app">Loading apps…</string>
@@ -2003,12 +2000,6 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="intent_sender_resource_label">Resource:</string>
   <string name="intent_sender_sendbroadcast_text">Send broadcast</string>
   <string name="intent_sender_startactivity_text">Start activity</string>
-  <string name="internal_format">Erase internal storage</string>
-  <string name="internal_format_summary">"Erase all data on your device's internal storage"</string>
-  <string name="internal_media_format_button_text">Erase internal storage</string>
-  <string name="internal_media_format_desc">Erase internal storage? &lt;b&gt;All&lt;/b&gt; of your data will be deleted. Pad will restart after internal storage is erased.</string>
-  <string name="internal_media_format_final_desc">"Erase internal storage? You can't reverse this action! Pad will restart after internal storage is erased."</string>
-  <string name="internal_media_format_title">Erase internal storage</string>
   <string name="internal_memory">Internal storage</string>
   <string name="internal_storage">Internal storage</string>
   <string name="internal_storage_sentence">internal storage</string>
@@ -2660,9 +2651,6 @@ Select your operating system:"</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_notification_headset_custom">Dismiss</string>
-  <string name="music_notification_headset_info">Tap to view settings.</string>
-  <string name="music_notification_headset_settings">Headphones connected</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
@@ -2811,6 +2799,10 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="notification_log_no_title">(none)</string>
   <string name="notification_log_title">Notification log</string>
   <string name="notification_pulse_title">Pulse notification light</string>
+  <string name="notification_reboot_btn">Reboot</string>
+  <string name="notification_reboot_summary_hm">Tap to reboot your device.</string>
+  <string name="notification_reboot_title">Reboot to apply update</string>
+  <string name="notification_reboot_title_hm">Reboot to apply update</string>
   <string name="notification_ringtone_title">Default notification ringtone</string>
   <string name="notification_sound_dialog_title">Default notification sound</string>
   <string name="notification_sound_title">Default notification sound</string>
@@ -2818,6 +2810,8 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="notification_suggestion_title">Control lock screen notifications</string>
   <string name="notification_summary_level">Level %d</string>
   <string name="notification_summary_none">All apps allowed to send</string>
+  <string name="notification_update_new_version">Update is available</string>
+  <string name="notification_update_now">Update now</string>
   <string name="notification_volume_option_title">Notification volume</string>
   <string name="notification_volume_title">Notification</string>
   <string name="notifications_disabled">Blocked</string>
@@ -2878,6 +2872,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">None</string>
   <string name="owner_info_settings_title">Lock screen signature</string>
+  <string name="owner_space">First space</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">Settings</string>
@@ -3092,7 +3087,14 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
-  <string name="privacy_applock">App lock</string>
+  <string name="privacy_close_dlg_button_ok">Turn off</string>
+  <string name="privacy_close_dlg_msg">When Privacy protection password is off, your items will no longer be protected.</string>
+  <string name="privacy_close_dlg_title">Attention</string>
+  <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
+  <string name="privacy_dlg_button_cancel">Cancel</string>
+  <string name="privacy_factory_reset_dlg_button_text">Reset</string>
+  <string name="privacy_factory_reset_dlg_message">"If you forget your password, you'll have to perform a factory reset to set a new one."</string>
+  <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">Files</string>
   <string name="privacy_gallery">Photos</string>
   <string name="privacy_mms">Messages</string>
@@ -3128,6 +3130,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
   <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">Privacy protection password</string>
+  <string name="privacy_password_toggle_summary">Require password every time private items are accessed.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
   <string name="privacy_password_use_finger_dialog_open">Settings</string>
@@ -3270,13 +3273,14 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="rank_title">Rankings</string>
   <string name="rarely_running">Rarely running (%s)</string>
   <string name="read_encrypt_fail">"Couldn't read encrypted backup"</string>
+  <string name="reading_data">Getting info…</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the tablet!</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="rebootiing_for_updates">Rebooting…</string>
   <string name="receiver_clean">Free up space</string>
   <string name="recent_location_requests_summary">View apps requesting to access your location info</string>
   <string name="recent_location_requests_title">Location access</string>
-  <string name="recents_config_title">Recents settings</string>
+  <string name="recents_config_title">Recents</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3928,8 +3932,6 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="show_touches">Show taps</string>
   <string name="show_touches_summary">Show visual feedback for taps</string>
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
-  <string name="show_wifi_master_key_summary">Connect to shared WLAN networks using WLAN Master Key</string>
-  <string name="show_wifi_master_key_title">Detect shared WLAN networks</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device has an internet connection."</string>
   <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
@@ -3973,6 +3975,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings_category">Setup SIM lock</string>
   <string name="sim_lock_settings_title">SIM lock</string>
   <string name="sim_management_title">SIM cards &amp; mobile networks</string>
+  <string name="sim_management_title_cr_kolbi">SIM card &amp; mobile networks</string>
   <string name="sim_multi_sims_summary">Choose the SIM you prefer for cellular data.</string>
   <string name="sim_multi_sims_title">Multiple SIMs found</string>
   <string name="sim_name_hint">Enter SIM name</string>
@@ -4303,6 +4306,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;Not set&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="sure_sync_now">Sync items now?</string>
   <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
   <string name="suspension_ball_enable">Quick ball shortcut</string>
   <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
@@ -4329,6 +4333,7 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel sync</string>
   <string name="sync_menu_sync_now">Sync now</string>
+  <string name="sync_now">Sync</string>
   <string name="sync_one_time_sync">"Tap to sync now
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
@@ -4460,6 +4465,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="track_frame_time">Profile GPU rendering</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball wake</string>
+  <string name="traffic_balance">Intelligent traffic strategy</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
   <string name="trans_calculating">Calculating…</string>
@@ -4603,7 +4609,6 @@ and Mi Mover is on"</string>
   <string name="uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
   <string name="uninstall_protected_dlg_title">Uninstalling system apps</string>
   <string name="uninstall_text">Uninstall</string>
-  <string name="uninstall_wifi_master_key">Uninstall WLAN Master Key</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
   <string name="uninstall_xspace_app_dlg_msg">Uninstalling dual app will remove all app data.</string>
   <string name="uninstall_xspace_app_dlg_title">Uninstall dual app?</string>
@@ -4655,6 +4660,8 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_do_later_title">Not now</string>
   <string name="unlock_set_enter_system">Skip screen lock</string>
   <string name="unlock_set_enter_system_summary">Go directly to Home screen from wake</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Low security, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
   <string name="unlock_set_unlock_disabled_summary">Disabled by administrator, encryption policy, or credential storage</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Change or turn off pattern, PIN, or password</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Change lock screen</string>
@@ -4683,6 +4690,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unrestricted_app_title">Unrestricted data usage</string>
   <string name="unrestricted_data_saver">Unrestricted data access</string>
   <string name="untitled_apn">Untitled</string>
+  <string name="update_new_version">Update is available</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
   <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
   <string name="upload_debug_log_title">Send diagnostic data automatically</string>
@@ -4768,7 +4776,6 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="use_privacy_password_immediate">Use</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
   <string name="use_this_wlan">Stay connected</string>
-  <string name="use_wifi_master_key_summary">Connect using WLAN Master Key</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_max_count">You can add up to %1$d users</string>
   <string name="user_add_on_lockscreen_menu">Add users</string>
@@ -5095,7 +5102,7 @@ Tap the plus to add words."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
   <string name="wifi_connect_failed_message">"Couldn't connect to WLAN network"</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
+  <string name="wifi_connected_no_internet">Connected, no internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
@@ -5186,12 +5193,6 @@ Tap the plus to add words."</string>
   <string name="wifi_ip_settings_menu_cancel">Cancel</string>
   <string name="wifi_ip_settings_menu_save">Save</string>
   <string name="wifi_limit_optimizations_summary">Limit battery used by WLAN</string>
-  <string name="wifi_master_key_dialog_content_master_key">WLAN Master Key</string>
-  <string name="wifi_master_key_dialog_content_password">Password</string>
-  <string name="wifi_master_key_dialog_title">Connect using</string>
-  <string name="wifi_master_key_name">WLAN Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password. You can also %1$s."</string>
-  <string name="wifi_master_key_service_dialog_title">Shared WLAN networks</string>
   <string name="wifi_menu_advanced">Advanced</string>
   <string name="wifi_menu_configure">Configure</string>
   <string name="wifi_menu_connect">Connect to network</string>
@@ -5295,6 +5296,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setting_category">Available networks</string>
   <string name="wifi_setting_connect_type_error">There was a problem setting the connect type.</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
+  <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">WLAN frequency band</string>
   <string name="wifi_setting_on_during_sleep_title">WLAN on during sleep</string>
   <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
@@ -5395,7 +5397,7 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_tether_checkbox_text">Portable hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up portable hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-  <string name="wifi_tether_configure_subtext">%1$s %2$s portable hotspot</string>
+  <string name="wifi_tether_configure_subtext">%1$s %2$s portable</string>
   <string name="wifi_tether_enabled_subtext">Portable hotspot %1$s active</string>
   <string name="wifi_tether_failed_subtext">Portable hotspot error</string>
   <string name="wifi_tether_first_use_message">Set up Mobile HotSpot at the First Use</string>
