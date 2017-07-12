@@ -17,7 +17,7 @@ Contact your sales agent for details."</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
   <string name="enable_find_device_success">Find device is on</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_crash">Find device closed unexpectedly.</string>
+  <string name="find_device_crash">Find Device closed unexpectedly.</string>
   <string name="find_device_error_account_sys_timeout">"Couldn't connect to Mi Account. "</string>
   <string name="find_device_error_account_unknown_error">Mi Account error (%s).</string>
   <string name="find_device_error_network">Network error.</string>

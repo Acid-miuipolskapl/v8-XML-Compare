@@ -81,7 +81,6 @@
   <string name="common_loading_text">Just a sec…</string>
   <string name="connect_fail">"Couldn't connect to the network, try again"</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
-  <string name="daily_forcast_drawer_on_top">%1$s day forecast</string>
   <string name="daily_forcast_no_stable_direction">Breeze</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -106,7 +105,6 @@ Pull down to refresh or check the network settings"</string>
   <string name="feedback_light_rain">Light rain</string>
   <string name="feedback_overcast">Overcast</string>
   <string name="feedback_result_fail_no_choice">Choose the current weather conditions</string>
-  <string name="feedback_result_interval_time_too_short">%1$s seconds after the feedback</string>
   <string name="feedback_result_success">Submitted successfully, thank you for your feedback.</string>
   <string name="feedback_sand">Sand</string>
   <string name="feedback_sunny">Sunny</string>

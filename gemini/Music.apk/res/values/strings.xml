@@ -446,7 +446,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="load_shuffle">Loading…</string>
   <string name="loadercontainer_loading">Just a sec…</string>
   <string name="loading_hint">Just a sec…</string>
-  <string name="local_music">Local music</string>
+  <string name="local_header_title">Local music</string>
+  <string name="local_music">Offline</string>
   <string name="local_music_empty">Local playlist is empty</string>
   <string name="local_music_empty_goto_online">No songs found</string>
   <string name="local_music_is_not_available">Local music is not available.</string>
