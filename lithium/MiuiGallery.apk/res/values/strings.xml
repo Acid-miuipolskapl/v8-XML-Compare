@@ -44,7 +44,6 @@
   <string name="album_already_exists_msg">Album \"%s\" already exists</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">Camera</string>
-  <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
   <string name="album_detail_page_empty">No photos or videos</string>
   <string name="album_faces_name">People</string>
   <string name="album_from_format">From %s</string>
@@ -78,7 +77,7 @@
   <string name="album_type_system">System albums</string>
   <string name="album_videos_name">Videos</string>
   <string name="alert_secret_album_enter">Got it</string>
-  <string name="alert_secret_album_message">Swipe down while in the Albums tap to view hidden album.</string>
+  <string name="alert_secret_album_message">Swipe down while in the Albums tab to view hidden album.</string>
   <string name="alert_secret_album_message_lower_case"> swipe down while in the Albums tap to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_faces">Photos with this person</string>
@@ -134,8 +133,9 @@
   <string name="backup_cloud_space_low_btn_text">Get more</string>
   <string name="backup_cloud_space_low_desc">%1$s in Mi Cloud | Available %2$s</string>
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
-  <string name="backup_cta_not_allow">"Can't access network"</string>
   <string name="backup_cta_not_allow_btn_text">Allow</string>
+  <string name="backup_cta_not_allow_desc">Agree to back up automatically</string>
+  <string name="backup_cta_not_allow_title">"Can't access network"</string>
   <string name="backup_detail_page_empty">No photos or videos waiting for backup</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_device_space_low_btn_text">Clear</string>
@@ -146,8 +146,8 @@
   <string name="backup_immediately">Back up</string>
   <string name="backup_need_sync_desc">Tap to continue backing up</string>
   <string name="backup_need_sync_title">Backup stopped</string>
-  <string name="backup_no_network_btn_text">Network settings</string>
-  <string name="backup_no_network_desc">Connect to the network to continue backing up items</string>
+  <string name="backup_no_network_btn_text">Settings</string>
+  <string name="backup_no_network_desc">Connect to the network to backing up items</string>
   <string name="backup_no_network_title">"Can't connect to Mi Cloud"</string>
   <string name="backup_no_wifi_btn_text">Use data</string>
   <string name="backup_no_wifi_desc">You can also back up items using mobile data</string>
@@ -575,7 +575,6 @@
   <string name="cityname_97">Haidong Prefecture</string>
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
-  <string name="clear_local_photo_direction">If you delete photos or videos from your device, they will still be available in Mi Cloud</string>
   <string name="click_download_gif">Tap to download GIF</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
@@ -586,6 +585,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_settings">Gallery backups</string>
+  <string name="cloud_storage_extend">Extend cloud space</string>
   <string name="cloud_storage_ok_append_desc">Available %s</string>
   <string name="cloud_storage_ok_desc">Mi Cloud storage %s</string>
   <string name="cloud_storage_ok_title">Enough storage in Mi Cloud</string>
@@ -669,7 +669,6 @@
   <string name="delete_third_party_photo">Delete this photo?</string>
   <string name="delete_third_party_video">Delete this video?</string>
   <string name="delete_to_trash_tips">You can view recently deleted photos in Settings &gt; Trash bin</string>
-  <string name="delete_unsynced">Delete items that have not been backed up</string>
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -784,7 +783,7 @@ Take more photos of your friends!"</string>
   <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Gallery needs access to 
 %s
- to work normally, tap Set to go to Permissions."</string>
+ to work normally, tap \"Set\" to go to Permissions."</string>
   <string name="grant_permission_title">Allow access</string>
   <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="have_known">Got it</string>
@@ -910,12 +909,10 @@ Take more photos of your friends!"</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Turn off sync with Mi Cloud</string>
-  <string name="operation_do_delete_local_thumnail">Delete from device</string>
   <string name="operation_download">Download original (%s)</string>
   <string name="operation_edit">Edit</string>
   <string name="operation_edit_video">Edit</string>
   <string name="operation_enable_auto_upload">Turn on sync with Mi Cloud</string>
-  <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
   <string name="operation_failed">"Couldn't complete operation"</string>
   <string name="operation_force_top">Pin</string>
   <string name="operation_hide">Hide</string>
@@ -1003,7 +1000,6 @@ Take more photos of your friends!"</string>
   <string name="relation_text_maternal_grandmother">Maternal Grandmother</string>
   <string name="relation_text_mother">Mother</string>
   <string name="relation_with_you">Choose relationship</string>
-  <string name="release_space_finish_format">Freed %s of local storage</string>
   <string name="remind_face_recommend_confirm">Confirm</string>
   <string name="remove_from_album_message">This photo will no longer be displayed here</string>
   <string name="remove_from_album_title">Remove from this album</string>
@@ -1029,7 +1025,6 @@ Take more photos of your friends!"</string>
   <string name="reset">Reset</string>
   <string name="retry_to_create_album">Try again</string>
   <string name="retry_to_request_qr_code">Try again</string>
-  <string name="return_from_clear_local_file_fragment_toast">Optimized photos are stored on the device. Tap a photo to download the original item from Mi Cloud.</string>
   <string name="revert">Revert</string>
   <string name="runtime_permission_ungranted">Closed Gallery, no required permissions</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
