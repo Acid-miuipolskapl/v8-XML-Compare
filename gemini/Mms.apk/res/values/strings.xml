@@ -641,7 +641,6 @@ Attempt made: %s."</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="url_fraud_dangerous_alert">"The website you are trying to visit may be dangerous. It could possibly damage your device and data. Visit anyway?
 %s"</string>
-  <string name="url_fraud_insurance">Fraud insurance</string>
   <string name="url_fraud_risky_alert">"The website you are trying to visit may be dangerous. Visit anyway?
 %s"</string>
   <string name="url_fraud_title">Website can be fake</string>
