@@ -30,6 +30,7 @@
   <string name="accessibility_data_signal_full">Data signal full.</string>
   <string name="accessibility_data_three_bars">Data three bars.</string>
   <string name="accessibility_data_two_bars">Data two bars.</string>
+  <string name="accessibility_desc_recent_apps">Overview.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
   <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
   <string name="accessibility_divider">Split-screen divider</string>
@@ -53,6 +54,11 @@
   <string name="accessibility_recent_task_locked">Locked, swipe down to unlock.</string>
   <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Available RAM: %1$s. Double tap to clear.</string>
   <string name="accessibility_recent_task_unlocked">Unlocked</string>
+  <string name="accessibility_recents_all_items_dismissed">All recent applications dismissed.</string>
+  <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
+  <string name="accessibility_recents_item_launched">Starting %s.</string>
+  <string name="accessibility_recents_item_open_app_info">Open %s application info.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
   <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Clear notification.</string>
   <string name="accessibility_ringer_silent">Ringer silent.</string>
@@ -179,6 +185,8 @@
   <string name="chooseUsbActivity">Select an app for the USB device</string>
   <string name="choose_profile">Choose Profile</string>
   <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
+  <string name="click_to_return_multi_window">Click to return Multi Window Mode</string>
+  <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
   <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
   <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
@@ -244,7 +252,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
   <string name="dlg_ok">OK</string>
   <string name="dock_forced_resizable">App may not work with split-screen.</string>
-  <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen</string>
   <string name="drive_mode_tip">"You're in Car mode"</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
@@ -303,6 +311,7 @@ If you re-enable data, you may be charged by the operator."</string>
 Use only the supplied charger."</string>
   <string name="keep_screen_on">Stay awake</string>
   <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
+  <string name="keyboard_shortcut_group_system_recents">Recents</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
   <string name="launch_defaults_none">No defaults set</string>
@@ -421,11 +430,28 @@ Use only the supplied charger."</string>
   <string name="quick_settings_wifi_detail_empty_text">No WLAN networks available</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
+  <string name="recent_dock_tip">Click to choose application</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_cleaning">Clearing apps…</string>
   <string name="recent_task_lock_text">Lock</string>
   <string name="recent_task_unlock_text">Unlock</string>
+  <string name="recents_app_info_button_label">Application Info</string>
+  <string name="recents_caption_resize">Select new task layout</string>
+  <string name="recents_drag_hint_message">Drag here to use split screen</string>
+  <string name="recents_empty_message">No recent items</string>
+  <string name="recents_empty_message_dismissed_all">"You've cleared everything"</string>
+  <string name="recents_empty_message_multi_window">Please go home to open an application</string>
+  <string name="recents_exit_multi_window_mode">Exit SplitScreenMode</string>
+  <string name="recents_incompatible_app_message">"App doesn't support split screen"</string>
+  <string name="recents_launch_disabled_message">%s is disabled in safe-mode.</string>
   <string name="recents_launch_error_message">Could not start %s.</string>
+  <string name="recents_lock_to_app_button_label">screen pinning</string>
+  <string name="recents_multi_window_mode">SplitScreenMode</string>
+  <string name="recents_multistack_add_stack_dialog_split_custom">Split Custom</string>
+  <string name="recents_multistack_add_stack_dialog_split_horizontal">Split Horizontal</string>
+  <string name="recents_multistack_add_stack_dialog_split_vertical">Split Vertical</string>
+  <string name="recents_search_bar_label">search</string>
+  <string name="recents_stack_action_button_label">Clear all</string>
   <string name="reject_call">Rejecting call</string>
   <string name="remaining_length_format">%1$s left</string>
   <string name="return_to_incall_screen">Return to call</string>
@@ -491,6 +517,7 @@ Use only the supplied charger."</string>
   <string name="show_touches_summary">Show visual feedback for taps</string>
   <string name="simulate_color_space">Simulate color space</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
+  <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
   <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
   <string name="status_bar_date_format">"EEEE
 MMMM d"</string>
@@ -509,8 +536,10 @@ MMMM d"</string>
 Slide down to lock"</string>
   <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
   <string name="status_bar_recent_guide_top">Slide up to close</string>
+  <string name="status_bar_recent_inspect_item_title">App info</string>
   <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
   <string name="status_bar_recent_memory_info2"/>
+  <string name="status_bar_recent_remove_item_title">Remove from list</string>
   <string name="status_bar_recording_back">Return to Recorder</string>
   <string name="status_bar_recording_pause">Recorder paused</string>
   <string name="status_bar_safepay_risk">Payment risks found</string>
