@@ -731,7 +731,7 @@ Reason: \"%s\""</string>
   <string name="missing_name">(No name)</string>
   <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
-  <string name="more_call_logs">Listen to all your call recordings at mi.com/micloud</string>
+  <string name="more_call_logs">Listen to all your call recordings at &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multi_number_menu_call">Call</string>
   <string name="multi_number_menu_delete">Delete</string>
@@ -849,6 +849,7 @@ To add a contact to your list of favorites:
   <string name="openDialKeyboard">Dial pad</string>
   <string name="open_contact">View contact</string>
   <string name="open_dial_pad_description">Open dial pad</string>
+  <string name="option_delete_batch_contacts">Delete batch</string>
   <string name="option_delete_contact">Delete</string>
   <string name="option_delete_group">Delete</string>
   <string name="option_edit_contact">Edit</string>
