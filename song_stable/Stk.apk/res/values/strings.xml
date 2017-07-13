@@ -12,6 +12,7 @@
   <string name="default_receive_data_msg">Receiving Data</string>
   <string name="default_send_data_msg">Sending Data</string>
   <string name="default_setup_call_msg">Call being setup</string>
+  <string name="default_tone_dialog_msg">Playing Tone</string>
   <string name="digits">Digits (0-9, *, #, +)</string>
   <string name="disable_app">Disabled</string>
   <string name="enable_app">Enabled</string>
@@ -27,5 +28,6 @@
   <string name="stk_dialog_accept">YES</string>
   <string name="stk_dialog_reject">NO</string>
   <string name="stk_dialog_title">SIM ToolKit</string>
+  <string name="stk_intent_permission">Allow STK Intents</string>
   <string name="stk_no_service">No service available</string>
 </resources>
