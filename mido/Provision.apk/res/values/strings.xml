@@ -34,8 +34,8 @@
   <string name="next">Next</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">Additional settings</string>
-  <string name="other_settings_auto_update">Update automatically</string>
-  <string name="other_settings_auto_update_summary">MIUI will select the most suitable time to download and install updates.</string>
+  <string name="other_settings_auto_update">Install automatically</string>
+  <string name="other_settings_auto_update_summary">MIUI will select the best moment to install updates.</string>
   <string name="other_settings_location">Location</string>
   <string name="other_settings_location_summary">Allow apps to access your location.</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
