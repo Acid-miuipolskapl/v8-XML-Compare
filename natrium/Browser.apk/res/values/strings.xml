@@ -258,6 +258,7 @@
   <string name="block_ads_choice_continue">Continue</string>
   <string name="block_ads_message">Do you want to block messages from this website?</string>
   <string name="block_ads_title">Content may contain ads</string>
+  <string name="bookmark">Bookmark</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_btn_select_all">Select all</string>
   <string name="bookmark_btn_select_none">Deselect all</string>
@@ -526,7 +527,7 @@ Pages you view won't appear in history."</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="hint">Hint</string>
-  <string name="history_saved_webpage">Saved pages</string>
+  <string name="history">History</string>
   <string name="home_description">Home</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Delete</string>
@@ -664,7 +665,6 @@ Leave this page?"</string>
   <string name="navigationbar_rightbutton_actiontext_search">Search</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
-  <string name="new_folder_name_lable">Group name</string>
   <string name="next_button_label">Next</string>
   <string name="no_app_open_document">No app was found to handle this action</string>
   <string name="no_matches">No matches</string>
@@ -930,6 +930,7 @@ Leave this page?"</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>
+  <string name="snapshot">Local</string>
   <string name="snapshot_failed">"Couldn't save page"</string>
   <string name="snapshot_successed">Saved page successfully</string>
   <string name="ssl_bad_clock_date_settings">Set date</string>
@@ -1083,8 +1084,6 @@ Leave this page?"</string>
   <string name="voice_title_please">Begin speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
   <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
-  <string name="webpage_bookmark_title">Bookmarks</string>
-  <string name="webpage_history_title">History</string>
   <string name="webpage_title">Bookmarks &amp; History</string>
   <string name="webview_find_on_page">Find on page</string>
   <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
