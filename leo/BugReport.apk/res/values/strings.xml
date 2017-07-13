@@ -195,7 +195,7 @@
   <string name="module_item_more">More</string>
   <string name="module_medias">Media</string>
   <string name="module_more">More</string>
-  <string name="module_network">Network &amp; updates</string>
+  <string name="module_network">Network</string>
   <string name="module_search">Search</string>
   <string name="module_security">Security &amp; Mi Cloud</string>
   <string name="module_system">System</string>
@@ -262,6 +262,7 @@
   <string name="time_in_justnow">Just now</string>
   <string name="title_answer_feedback_main">We found answers!</string>
   <string name="title_bbs_feedback_main">Learn more about Mi phones</string>
+  <string name="title_customer_service">Customer service</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes nearby</string>
   <string name="title_nonsystem_app">Other apps</string>

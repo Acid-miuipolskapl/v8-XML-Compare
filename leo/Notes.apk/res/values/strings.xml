@@ -119,6 +119,8 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">An error occurred, go to i.mi.com to restore notes.</string>
   <string name="redo">Redo</string>
+  <string name="refuse_to_share_as_pic_because_of_content">This note is too big to share.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
   <string name="rename_folder_dialog_tile">Rename folder</string>
   <string name="root_folder_name">Quick notes</string>
   <string name="search">Notes</string>
