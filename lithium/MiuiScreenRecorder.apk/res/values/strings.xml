@@ -22,6 +22,7 @@
   <string name="error_open_file_failed_no_app_found">"Couldn't find an app to open this file"</string>
   <string name="frames">Frame rate</string>
   <string name="frames_summary">Higher frame rates reduce motion blur</string>
+  <string name="frequently_click_toast">Service initializing, please wait a moment</string>
   <string name="gleam_led_while_recording">Flash notification light while recording</string>
   <string name="hint_back">Back</string>
   <string name="hint_home">Home</string>
