@@ -182,6 +182,7 @@
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Initializing...</string>
   <string name="engine_tm">Tencent</string>
   <string name="file">Files</string>
   <string name="file_not_found">File not found</string>
