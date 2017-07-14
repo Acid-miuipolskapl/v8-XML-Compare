@@ -58,6 +58,8 @@
 
 .field public static final IS_D5:Z
 
+.field public static final IS_D6S:Z
+
 .field public static final IS_H2XLTE:Z
 
 .field public static final IS_H2X_LC:Z
@@ -602,6 +604,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_D5:Z
 
+    const-string/jumbo v0, "ugg"
+
+    sget-object v2, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_D6S:Z
+
     const-string/jumbo v0, "is_hongmi"
 
     invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
@@ -861,6 +873,20 @@
     const/4 v0, 0x1
 
     :cond_0
+    return v0
+.end method
+
+.method public static isFrontRemosicSensor()Z
+    .locals 2
+
+    const-string/jumbo v0, "is_front_remosic_sensor"
+
+    const/4 v1, 0x0
+
+    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v0
+
     return v0
 .end method
 
@@ -1401,6 +1427,32 @@
     return v0
 .end method
 
+.method public static isSupportVideoFrontFlash()Z
+    .locals 2
+
+    invoke-static {}, Lcom/android/camera/Device;->isSupportFrontFlash()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    const-string/jumbo v0, "support_video_front_flash"
+
+    const/4 v1, 0x1
+
+    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v0
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedASD()Z
     .locals 3
 
@@ -1599,15 +1651,9 @@
 .end method
 
 .method public static isSupportedFastCapture()Z
-    .locals 2
+    .locals 1
 
-    const-string/jumbo v0, "support_camera_press_down_capture"
-
-    const/4 v1, 0x0
-
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
-
-    move-result v0
+    const/4 v0, 0x0
 
     return v0
 .end method
@@ -1734,23 +1780,17 @@
 .end method
 
 .method public static isSupportedNewStyleTimeWaterMark()Z
-    .locals 1
+    .locals 2
 
-    invoke-static {}, Lcom/android/camera/Device;->isSupportedTimeWaterMark()Z
+    const-string/jumbo v0, "support_camera_new_style_time_water_mark"
+
+    const/4 v1, 0x0
+
+    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
 
     move-result v0
 
-    if-eqz v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_D2:Z
-
-    :goto_0
     return v0
-
-    :cond_0
-    const/4 v0, 0x0
-
-    goto :goto_0
 .end method
 
 .method public static isSupportedObjectTrack()Z
