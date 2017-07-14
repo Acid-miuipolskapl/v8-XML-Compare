@@ -174,7 +174,7 @@
     </string-array>
     <string-array name="thermal_summaries">
         <item>The current temperature control mode, the temperature of experience is preferred</item>
-        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
+        <item>The current performance mode, performance experience is preferred, temperatures could rise</item>
     </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">
