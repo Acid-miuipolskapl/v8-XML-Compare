@@ -1735,7 +1735,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="got_it">Got it</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="handy_mode">One-handed mode</string>
-  <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
+  <string name="handy_mode_enable">One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>
   <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
   <string name="haptic_feedback_enable_title">Vibrate on tap</string>
@@ -3585,6 +3585,7 @@ To use screen pinning:
   <string name="security_encryption_is_used">On</string>
   <string name="security_encryption_progress_dialog_close">Decrypting…</string>
   <string name="security_encryption_progress_dialog_open">Encrypting…</string>
+  <string name="security_encryption_rejected_via_home_manager">"This feature isn't supported in the demo version."</string>
   <string name="security_encryption_title">Encrypt device using Lock screen password</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
