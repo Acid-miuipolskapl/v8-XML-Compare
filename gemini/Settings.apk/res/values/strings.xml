@@ -3687,7 +3687,6 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="settings_safetylegal_title">Safety information</string>
   <string name="settings_shortcut">Settings shortcut</string>
   <string name="settings_toggle_position_divider_list">Toggles placed above bar are active</string>
-  <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">You’ve chosen to use your fingerprint as one way to unlock your phone. If you skip now, you’ll need to set this up later. Setup takes only a minute or so.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Skip fingerprint setup?</string>
   <string name="setup_fingerprint_enroll_finish_message">Whenever you see this icon, you can use your fingerprint.</string>

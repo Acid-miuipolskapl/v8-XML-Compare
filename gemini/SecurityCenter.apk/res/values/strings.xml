@@ -113,6 +113,8 @@ or enter App lock password"</string>
   <string name="apn_exception_title">Check APN configurations</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_detail">Details</string>
+  <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
+  <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
   <string name="app_install_intercept">Block installation</string>
   <string name="app_install_tips_go_to">Open</string>
   <string name="app_install_tips_install_success">Installed %1$s successfully</string>
@@ -580,8 +582,9 @@ in case you forget it"</string>
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">Remove these numbers from blacklist?</string>
   <string name="dlg_remove_blacklist_ing">Removing…</string>
-  <string name="dlg_remove_blacklist_ok">Remove</string>
-  <string name="dlg_remove_whitelist_content">Remove these numbers from exceptions?</string>
+  <string name="dlg_remove_blacklist_title">Remove</string>
+  <string name="dlg_remove_ok">Remove</string>
+  <string name="dlg_remove_whitelist">Remove these numbers from exceptions?</string>
   <string name="dlg_remove_whitelist_ing">Removing…</string>
   <string name="dlg_remove_whitelist_title">Remove</string>
   <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
@@ -738,7 +741,7 @@ in case you forget it"</string>
   <string name="item_usb_debug">USB debugging</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
   <string name="keywords_antispam">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Call blocklist;Message blocklist;Messaging blocklist;SMS blocklist;blacklist;black list;blocklist;block list;fraud;block contact;block contacts</string>
-  <string name="keywords_antivirus">Virus;Risk;Antivirus;Scan</string>
+  <string name="keywords_antivirus">Virus;Risk;Antivirus;Scan;Check payment security;payment security;secure payment;secure payments;payment protection;protect payments;protected payments;secure zone;payment zone</string>
   <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
   <string name="keywords_auto_restart">Autostart; Permissions;Auto start;Autostart; Manage autostart; MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start</string>
   <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
@@ -746,7 +749,6 @@ in case you forget it"</string>
   <string name="keywords_networkassistant_1">Data;Traffic</string>
   <string name="keywords_networkassistant_2">Data;Calibrate</string>
   <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
-  <string name="keywords_payment_security">Check payment security;payment security;secure payment;secure payments;payment protection;protect payments;protected payments;secure zone;payment zone</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery;Battery issues;Energy;Draining;Heating;Battery saver;Energy saver;Energy saving;Battery saving</string>
   <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
@@ -1180,7 +1182,6 @@ This activity shortens battery life."</string>
   <string name="path_networkassistant_1">System apps/Security/Data usage</string>
   <string name="path_networkassistant_2">System apps/Security/Data usage</string>
   <string name="path_networkassistant_4">System apps/Security/Data usage/Test network</string>
-  <string name="path_payment_security">System apps/Security/Payment security</string>
   <string name="path_powercenter">System apps/Security/Battery usage</string>
   <string name="path_powercenter_powerrank">Battery &amp; performance/Battery use</string>
   <string name="path_securitycenter">System apps/Security</string>
@@ -1445,7 +1446,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="resource_networkassistant_1">Data usage</string>
   <string name="resource_networkassistant_2">Calibrate data plan</string>
   <string name="resource_networkassistant_4">Test network</string>
-  <string name="resource_payment_security">Payment security</string>
   <string name="resource_powercenter">Battery usage</string>
   <string name="resource_powercenter_powerrank">Battery &amp; performance</string>
   <string name="resource_securitycenter">Security</string>
