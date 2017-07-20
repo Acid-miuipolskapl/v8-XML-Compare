@@ -641,7 +641,6 @@
   <string name="custom_select_title_select_all">Select all</string>
   <string name="custom_select_title_select_item">Select items</string>
   <string name="debugging_tip">Generating debug data</string>
-  <string name="default_album_name">New album</string>
   <string name="default_relation_name">New group</string>
   <string name="define_by_user">Custom</string>
   <string name="delete">Delete</string>

@@ -149,7 +149,9 @@
   <string name="mipay">Pay</string>
   <string name="mipay_balance">Balance</string>
   <string name="mipay_bank_card">Bank card</string>
+  <string name="mipay_identitiy_no">no</string>
   <string name="mipay_identity">ID verification</string>
+  <string name="mipay_indentity_done">done</string>
   <string name="mipay_others">Other</string>
   <string name="mipay_transit_card">Transport card</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
