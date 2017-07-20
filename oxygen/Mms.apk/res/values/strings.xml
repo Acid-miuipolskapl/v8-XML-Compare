@@ -254,6 +254,7 @@
   <string name="message_number">Phone number:</string>
   <string name="message_pending">Sending</string>
   <string name="message_queued">"Can't send your message right now. Will send when service becomes available."</string>
+  <string name="message_queued_second_space">"Can't send your message right now. Please open data network."</string>
   <string name="message_readed">Read</string>
   <string name="message_received">Received</string>
   <string name="message_rejected">Rejected</string>

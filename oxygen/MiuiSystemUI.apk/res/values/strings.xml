@@ -48,9 +48,7 @@
   <string name="accessibility_phone_three_bars">Phone three bars.</string>
   <string name="accessibility_phone_two_bars">Phone two bars.</string>
   <string name="accessibility_recent">Recent apps</string>
-  <string name="accessibility_recent_task_enter">Opened Recents, available apps: %d.</string>
   <string name="accessibility_recent_task_exit">Closed Recents</string>
-  <string name="accessibility_recent_task_first_enter_tips">Opened Recents, available apps: %d. Swipe up to remove, swipe down to lock.</string>
   <string name="accessibility_recent_task_locked">Locked, swipe down to unlock.</string>
   <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Available RAM: %1$s. Double tap to clear.</string>
   <string name="accessibility_recent_task_unlocked">Unlocked</string>
@@ -108,7 +106,6 @@
   <string name="battery_profiles">Use battery profiles</string>
   <string name="block_notification_content_text">"%1$s's notifications won't be shown again. You can change this in the Settings."</string>
   <string name="block_notification_text">Hide</string>
-  <string name="block_record_notification_more_text">Hiding notifications from %1$s &amp; %2$d apps.</string>
   <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
   <string name="block_record_notification_title">Notifications hidden</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
@@ -499,7 +496,6 @@ Use only the supplied charger."</string>
   <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Manage toggles</string>
   <string name="settings_toggle_position_divider_list">Toggles above this bar are active</string>
-  <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
   <string name="show_all_anrs">Show all ANRs</string>
