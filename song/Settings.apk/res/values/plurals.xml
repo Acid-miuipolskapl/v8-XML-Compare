@@ -8,6 +8,10 @@
         <item quantity="other">%s apps can show notifications</item>
         <item quantity="one">1 app can show notifications</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggles placed above bar are active</item>
+        <item quantity="one">1 toggle placed above bar are active</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">You are now %1$d steps away from being a developer.</item>
         <item quantity="one">You are now %1$d step away from being a developer.</item>
