@@ -29,6 +29,6 @@
     <PreferenceCategory android:key="category_privacy_settings" />
     <Preference android:title="@string/privacy_settings" android:key="privacy_settings" android:fragment="com.android.settings.PrivacySettings" />
     <PreferenceScreen android:title="@string/onekey_migrate" android:key="one_key_migrate">
-        <intent android:targetPackage="com.miui.backup" android:targetClass="com.miui.backup.ui.TransMainActivity" />
+        <intent android:targetPackage="com.miui.backup" android:action="miui.intent.action.BACKUP_TRANSFER" />
     </PreferenceScreen>
 </PreferenceScreen>
