@@ -105,8 +105,6 @@
   <string name="pc_activity_title">Optimize battery</string>
   <string name="pm_lable_name">About root access</string>
   <string name="power_autorun_apps_empty">No autostart apps</string>
-  <string name="preference_key_information_setting_close">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="privacy_declare_dialog_title">Terms of Service</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="release_memory">Clear cache</string>
