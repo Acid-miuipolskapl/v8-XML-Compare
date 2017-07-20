@@ -188,14 +188,13 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
   <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to sync</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
+  <string name="micloud_detail_not_syncable">Not syncable</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pause">Sync paused</string>
   <string name="micloud_detail_pending">Waiting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Couldn't get info about sync progress"</string>
-  <string name="micloud_detail_query_error_detail">"Can't confirm if sync is complete for some services. You can contact the developers using the Feedback app."</string>
-  <string name="micloud_detail_query_error_title">"Couldn't get info about sync progress"</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_sync_now">Sync now</string>
   <string name="micloud_detail_syncing">Syncing</string>
@@ -242,24 +241,33 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_main_battery_low">Not enough battery to sync</string>
   <string name="micloud_main_battery_message">Connect charger to sync</string>
+  <string name="micloud_main_button_activate">Activate</string>
+  <string name="micloud_main_button_authorize">Authorize</string>
+  <string name="micloud_main_button_set_internet">Setting</string>
   <string name="micloud_main_cancel_sync">Cancel sync</string>
   <string name="micloud_main_clear_now">Clear</string>
   <string name="micloud_main_detail">View details</string>
+  <string name="micloud_main_error_activated_fail">Please activate Sim card.</string>
+  <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+  <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
+  <string name="micloud_main_master_sync_on">Sync on</string>
   <string name="micloud_main_memory_low_message">"To sync, delete some items you've stored in the cloud."</string>
   <string name="micloud_main_memory_low_title">"Phone's internal storage is almost full"</string>
+  <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
   <string name="micloud_main_message_not_synced">%s data not synced</string>
-  <string name="micloud_main_multi_user_error_message">"You signed in with the same account as in First space which caused a Mi Cloud error. If you want to back up files:
-
-1. Use a different account.
-2. Move items to First space."</string>
+  <string name="micloud_main_multi_user_error_message">"You signed in with the same account as in First space which caused a Mi Cloud error. 
+Use a different account."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud error</string>
   <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
   <string name="micloud_main_network_error">"Can't connect to the network"</string>
+  <string name="micloud_main_query_again">Query</string>
   <string name="micloud_main_query_error_message">"Can't confirm if sync is complete for some services"</string>
   <string name="micloud_main_query_error_title">"Couldn't get info about sync progress"</string>
+  <string name="micloud_main_resume_sync_soon">Resume sync soon</string>
   <string name="micloud_main_set_internet">Network</string>
   <string name="micloud_main_space_full">Cloud storage is full</string>
+  <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
   <string name="micloud_main_space_full_title">Not enough storage space, syncing paused</string>
   <string name="micloud_main_space_low">Almost out of space</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
@@ -268,7 +276,6 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
-  <string name="micloud_main_sync_need_charge">Charge your device</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Connect charger and turn off screen to sync</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on">Sync on</string>
@@ -285,6 +292,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_title_sync_off">Sync off</string>
   <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
+  <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+  <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
+  <string name="micloud_main_wait_wlan">Waiting for WLAN</string>
+  <string name="micloud_main_wait_wlan_charge">Waiting for WLAN, connecting charger</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Waiting for WLAN, connecting charger and turn off screen</string>
   <string name="micloud_main_wlan_sync_data_count">Items waiting to sync: %d</string>
   <string name="micloud_member">Mi Cloud membership</string>
   <string name="micloud_member_advantage">Get more storage space.</string>
