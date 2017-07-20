@@ -28,7 +28,7 @@
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
   <string name="camera_label">Camera</string>
-  <string name="camera_mode_options">Modes</string>
+  <string name="camera_mode_options">Options</string>
   <string name="camera_setting">Camera</string>
   <string name="camera_settings_label">Camera</string>
   <string name="camera_snap_mode_title">Quick snap mode</string>
@@ -37,6 +37,8 @@
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your device."</string>
   <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
   <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
+  <string name="confirm_install_scanner_message">"Scanner allows you to scan QR codes, barcodes, and more. You don't have to connect to the internet to install it."</string>
+  <string name="confirm_install_scanner_title">Install Scanner</string>
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
   <string name="confirm_location_title">Remember photo locations?</string>
@@ -81,10 +83,11 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_2">Medium</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_smart">Smart</string>
-  <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
-facial expression to synthesize into a photo"</string>
-  <string name="hibernate_hint">Touch anywhere to wake up</string>
+  <string name="groupshot_mode_use_hint">"Camera will take multiple photos
+and then create a shot where everyone looks best."</string>
+  <string name="hibernate_hint">Tap the screen to wake Camera</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="install_confirmed">Install</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">Internal storage is full</string>
@@ -95,10 +98,13 @@ facial expression to synthesize into a photo"</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">System apps/Camera/Settings</string>
-  <string name="portrait_mode_lowlight_hint">More light required</string>
-  <string name="portrait_mode_too_close_hint">Move farther away</string>
+  <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
+  <string name="portrait_mode_lowlight_hint">"It's too dark now"</string>
+  <string name="portrait_mode_too_close_hint">Move farther from the object</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
-  <string name="portrait_with_facebeauty_hint">Beauty preference in portrait mode is now available.</string>
+  <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
+with more clear main body and more beautiful portrait"</string>
+  <string name="portrait_with_facebeauty_hint">Beautify is now available in Portrait mode</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_audio_focus_default">normal</string>
   <string name="pref_audio_focus_entry_front">Front</string>
@@ -143,7 +149,6 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_beautify_entry_7">7</string>
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
-  <string name="pref_camera_beautify_entry_auto">Off</string>
   <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">High</string>
   <string name="pref_camera_beautify_entry_low">Low</string>
@@ -213,7 +218,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-  <string name="pref_camera_face_info_watermark_title">Add age stamp in photo</string>
+  <string name="pref_camera_face_info_watermark_title">Add age stamp on photos</string>
   <string name="pref_camera_facedetection_title">Face detection</string>
   <string name="pref_camera_flashmode_default">auto</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
@@ -229,7 +234,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+  <string name="pref_camera_groupshot_mode_title">Group selfies</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -325,11 +330,14 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
-  <string name="pref_camera_portrait_mode_entry_off">Portrait mode off</string>
-  <string name="pref_camera_portrait_mode_entry_on">Portrait mode on</string>
+  <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
+  <string name="pref_camera_portrait_mode_entry_on">Portrait mode is on</string>
   <string name="pref_camera_portrait_mode_title">Portrait mode</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in portrait mode</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
+  <string name="pref_camera_proximity_lock_summary">Lock touch gestures when placed in a pocket</string>
+  <string name="pref_camera_proximity_lock_title">Pocket mode</string>
   <string name="pref_camera_recordlocation_default">false</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
@@ -365,12 +373,16 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_show_gender_age_entry_alias">Show age when Beautify is on</string>
   <string name="pref_camera_show_gender_age_entry_off">Off</string>
   <string name="pref_camera_show_gender_age_entry_on">Show age and gender when Beautify is on</string>
+  <string name="pref_camera_show_gender_age_label_alias">Age</string>
+  <string name="pref_camera_show_gender_age_label_on">Age &amp; gender</string>
   <string name="pref_camera_show_gender_age_title">Age &amp; gender</string>
   <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
   <string name="pref_camera_snap_enable_title">Quick snap mode</string>
   <string name="pref_camera_snap_entry_off">Off</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap mode (video)</string>
   <string name="pref_camera_snap_entry_take_picture">Quick snap mode (photo)</string>
+  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_picture">Photo</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Wake with Volume buttons\" is on."</string>
   <string name="pref_camera_snap_value_off">Off</string>
   <string name="pref_camera_snap_value_take_movie">Movie</string>
@@ -404,7 +416,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
   <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
   <string name="pref_camera_volumekey_function_title">Volume buttons function</string>
-  <string name="pref_camera_watermark_title">Add time stamp in photo</string>
+  <string name="pref_camera_watermark_title">Add time stamp on photos</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
@@ -434,6 +446,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_zsl_value_off">off</string>
   <string name="pref_camera_zsl_value_on">on</string>
   <string name="pref_capture_settings">Camera</string>
+  <string name="pref_dualcamera_watermark_title">Dual camera watermark</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_face_beauty_advanced">a:1</string>
   <string name="pref_face_beauty_close">i:0</string>
@@ -449,8 +462,9 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_front_mirror_entryvalue_auto">auto</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
-  <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
+  <string name="pref_groupshot_with_primitive_title">Save original photos as well in Group selfies mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -515,14 +529,6 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval of 3 seconds (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
-  <string name="pref_watermark_style_default">@string/pref_watermark_style_entryvalue_dualcamera</string>
-  <string name="pref_watermark_style_entry_dualcamera">Dual camera</string>
-  <string name="pref_watermark_style_entry_off">Off</string>
-  <string name="pref_watermark_style_entry_timestamp">Time stamp</string>
-  <string name="pref_watermark_style_entryvalue_dualcamera">dualcamera</string>
-  <string name="pref_watermark_style_entryvalue_off">off</string>
-  <string name="pref_watermark_style_entryvalue_timestamp">timestamp</string>
-  <string name="pref_watermark_style_title">Add watermark in photo</string>
   <string name="preparing_sd">Checking internal storage…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
@@ -535,7 +541,7 @@ facial expression to synthesize into a photo"</string>
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
-  <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
+  <string name="simple_mode_button_text_groupshot">Turn off Group selfies</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>

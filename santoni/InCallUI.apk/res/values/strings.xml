@@ -58,10 +58,15 @@
   <string name="can_not_call_oneself">"Can't call this number"</string>
   <string name="can_not_use">"Can't use"</string>
   <string name="cancel">Cancel</string>
+  <string name="card_title_answering">Answering call</string>
+  <string name="card_title_answering_fail">"Couldn't answer call, try again."</string>
   <string name="card_title_call_ended">"Call ended "</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">"Hanging up "</string>
+  <string name="card_title_hanging_up_fail">"Couldn't end call, try again."</string>
+  <string name="card_title_hanging_up_restart">"Can't end call. Reboot your device."</string>
+  <string name="card_title_hanging_up_weak_signal">Weak mobile network signal. Ending call</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
   <string name="card_title_in_video">Video </string>
@@ -132,9 +137,6 @@
   <string name="do_not_ask">Dont show again</string>
   <string name="do_not_support_video_calls_by_remote">"Video calls aren't supported on the other device"</string>
   <string name="emergency_call_dialog_number_for_display">Emergency number</string>
-  <string name="fraud_call_answer">Answer</string>
-  <string name="fraud_call_decline">Decline</string>
-  <string name="fraud_call_waring">Be careful: Always verify the identity of the contact by phone or video before responding to any messages involving your personal information.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Internet call</string>
   <string name="incall_error_supp_service_conference">"Can't use conference call."</string>
@@ -205,10 +207,6 @@
   <string name="notification_ongoing_call">Ongoing call</string>
   <string name="notification_requesting_video_call">Incoming video request</string>
   <string name="ok">OK</string>
-  <string name="online_check_provider_info">Identified by %s</string>
-  <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal information."</string>
-  <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">End</string>
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
@@ -234,6 +232,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Getting contact info…</string>
   <string name="private_num">Private number</string>
+  <string name="remind_unlock_message">Your device is locked now. \"%s\" will be available after you unlock your device. Unlock now?</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
   <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_one_sim_title">Can only use SIM %1$d</string>
@@ -244,7 +243,9 @@
   <string name="suspect_info">Be careful with your personal info.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Unknown</string>
+  <string name="unlock_phone">Unlock device</string>
   <string name="upgrade_vt_prompt">Switch to video call?</string>
+  <string name="user_locked_prompt">Unlock device to access contacts.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
   <string name="video_conference_caller_info_name">"%1$s's video conference call"</string>
   <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>

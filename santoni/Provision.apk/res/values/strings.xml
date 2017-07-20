@@ -34,10 +34,10 @@
   <string name="next">Next</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">Additional settings</string>
-  <string name="other_settings_auto_update">Update automatically</string>
-  <string name="other_settings_auto_update_summary">MIUI will select the most suitable time to download and install updates.</string>
+  <string name="other_settings_auto_update">Install automatically</string>
+  <string name="other_settings_auto_update_summary">MIUI will select the best moment to install updates.</string>
   <string name="other_settings_location">Location</string>
-  <string name="other_settings_location_summary">Allow apps to access your location</string>
+  <string name="other_settings_location_summary">Allow apps to access your location.</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">Allow Wallpaper Carousel to connect to the internet in order to download new images.</string>
   <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
@@ -63,7 +63,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="terms_of_use">Terms and Conditions</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, and statistic components will connect to the internet and acquire your location."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, and Mi Account components will connect to the internet and acquire your location."</string>
   <string name="title_fingerprint">Add your fingerprint</string>
   <string name="user_agreement">Terms of Service</string>
   <string name="welcome">Welcome</string>

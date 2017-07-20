@@ -28,20 +28,6 @@
         <item>Today WLAN</item>
         <item>This month WLAN</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Yesterday (data)</item>
-        <item>Today (data)</item>
-        <item>This month (data)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 secs</item>
-        <item>4 secs</item>
-        <item>5 secs</item>
-        <item>6 secs</item>
-        <item>7 secs</item>
-        <item>8 secs</item>
-        <item>9 secs</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Mobile usage "</item>
         <item>"WLAN usage "</item>
@@ -50,21 +36,9 @@
         <item>"Mobile usage "</item>
         <item>"WLAN usage "</item>
     </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Mobile data usage "</item>
-        <item>"WLAN usage "</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Get automatically</item>
-        <item>Set manually</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Show warning</item>
         <item>Warn and turn off mobile data</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Most used</item>
-        <item>Name</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Always</item>
@@ -81,17 +55,146 @@
         <item>0</item>
         <item>2</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
-    </string-array>
     <string-array name="sort_type">
-        <item>Sort by name</item>
-        <item>Sort by size</item>
+        <item>Status</item>
+        <item>App name</item>
+        <item>Usage frequency</item>
+        <item>Used storage</item>
+        <item>Data usage</item>
+        <item>Battery usage</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Sort by status</item>
+        <item>Sort by app name</item>
+        <item>Sort by usage frequency</item>
+        <item>Sort by used storage</item>
+        <item>Sort by data usage</item>
+        <item>Sort by battery usage</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Data Usage</item>
         <item>Phone balance</item>
     </string-array>
+    <string-array name="st_antispam_mode_defined">
+        <item>@string/st_antispam_mode_smart</item>
+        <item>@string/st_antispam_mode_blacklist</item>
+        <item>@string/st_antispam_mode_only_contacts</item>
+        <item>@string/st_antispam_mode_only_whitelist</item>
+        <item>@string/st_antispam_mode_only_all_deny</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_international">
+        <item>@string/st_antispam_mode_blacklist</item>
+        <item>@string/st_antispam_mode_only_contacts</item>
+        <item>@string/st_antispam_mode_only_whitelist</item>
+        <item>@string/st_antispam_mode_only_all_deny</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_sum">
+        <item>@string/st_antispam_mode_smart_sum</item>
+        <item>@string/st_antispam_mode_blacklist_sum</item>
+        <item>@string/st_antispam_mode_only_contacts_sum</item>
+        <item>@string/st_antispam_mode_only_whitelist_sum</item>
+        <item>@string/st_antispam_mode_only_all_deny_sum</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_sum_international">
+        <item>@string/st_antispam_mode_blacklist_sum</item>
+        <item>@string/st_antispam_mode_only_contacts_sum</item>
+        <item>@string/st_antispam_mode_only_whitelist_sum</item>
+        <item>@string/st_antispam_mode_only_all_deny_sum</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state">
+        <item>@string/st_antispam_mode_smart_state</item>
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state_international">
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <string-array name="st_antispam_handle_methods">
+        <item>@string/st_antispam_des_anti</item>
+        <item>@string/st_antispam_des_smart_anti</item>
+        <item>@string/st_antispam_des_permit</item>
+        <item>@string/st_antispam_des_uesless</item>
+        <item>@string/st_antispam_des_permit_nokeyword</item>
+    </string-array>
+    <string-array name="st_antispam_choose_methods_black">
+        <item>@string/st_antispam_bw_man_add</item>
+        <item>@string/st_antispam_bw_head_add</item>
+        <item>@string/st_antispam_bw_pick_add</item>
+        <item>@string/st_antispam_black_adress_add</item>
+    </string-array>
+    <string-array name="st_antispam_choose_methods_black_international">
+        <item>@string/st_antispam_bw_man_add</item>
+        <item>@string/st_antispam_bw_head_add</item>
+        <item>@string/st_antispam_bw_pick_add</item>
+    </string-array>
+    <string-array name="st_antispam_choose_methods_white">
+        <item>@string/st_antispam_bw_man_add</item>
+        <item>@string/st_antispam_bw_head_add</item>
+        <item>@string/st_antispam_bw_pick_add</item>
+        <item>@string/st_antispam_bw_adress_add</item>
+    </string-array>
+    <string-array name="st_antispam_choose_methods_white_international">
+        <item>@string/st_antispam_bw_man_add</item>
+        <item>@string/st_antispam_bw_head_add</item>
+        <item>@string/st_antispam_bw_pick_add</item>
+    </string-array>
+    <string-array name="st_antispam_mode_backsound_defined">
+        <item>@string/st_title_back_sound_busy</item>
+        <item>@string/st_title_back_sound_none</item>
+        <item>@string/st_title_back_sound_closed</item>
+        <item>@string/st_title_back_sound_stop</item>
+    </string-array>
+    <string-array name="st_antispam_callwait_setting">
+        <item>@string/open_callwait</item>
+        <item>@string/close_callwait</item>
+    </string-array>
+    <string-array name="st_antispam_notification_show_types">
+        <item>@string/antispam_notificaiton_type_show_all</item>
+        <item>@string/antispam_notificaiton_type_show_except_blacklist</item>
+        <item>@string/antispam_notificaiton_type_show_none</item>
+    </string-array>
+    <string-array name="contact_infotype_entries">
+        <item>@string/name</item>
+        <item>@string/nickname</item>
+        <item>@string/phone</item>
+        <item>@string/email</item>
+        <item>@string/organization</item>
+        <item>@string/im</item>
+        <item>@string/sip_phone</item>
+        <item>@string/birthday</item>
+        <item>@string/website</item>
+        <item>@string/address</item>
+        <item>@string/note</item>
+    </string-array>
+    <string-array name="clean_cached_process_white_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.virtualsim</item>
+        <item>com.android.keyguard</item>
+        <item>com.android.keychain</item>
+        <item>com.miui.systemAdSolution</item>
+        <item>com.miui.securitycore</item>
+        <item>com.miui.personalassistant</item>
+        <item>com.android.updater</item>
+        <item>com.miui.analytics</item>
+        <item>com.miui.cleanmaster</item>
+    </string-array>
+    <integer-array name="om_occupy_memory_percent">
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="om_app_background_restrict">
+        <item>0</item>
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
     <integer-array name="pc_time_choice_items">
         <item>1</item>
         <item>5</item>
@@ -105,13 +208,6 @@
         <item>30</item>
         <item>0</item>
     </integer-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>After 1 minute</item>
-        <item>After 5 minutes</item>
-        <item>After 10 minutes</item>
-        <item>After 30 minutes</item>
-        <item>Never</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>
         <item>Every day</item>
@@ -125,13 +221,6 @@
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
-    <integer-array name="pc_choice_dialog_over_heat_values">
-        <item>40</item>
-        <item>42</item>
-        <item>45</item>
-        <item>48</item>
-        <item>0</item>
-    </integer-array>
     <integer-array name="pc_choice_dialog_battery_style_values">
         <item>0</item>
         <item>1</item>

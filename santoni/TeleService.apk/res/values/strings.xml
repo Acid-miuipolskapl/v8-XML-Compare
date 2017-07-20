@@ -138,7 +138,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Headset only</string>
   <string name="auto_answer_scenario_title">Auto-answer settings</string>
   <string name="auto_answer_setting_title">Auto-answer settings</string>
-  <string name="auto_answer_summary_delay">delay: %s seconds</string>
   <string name="auto_answer_summary_not_enabled">Off</string>
   <string name="auto_record_yellowpage">Directory</string>
   <string name="auto_redial_pref_summary">Redial automatically if the line is busy</string>
@@ -335,8 +334,6 @@
   <string name="call_record_auto_unknown_number">Unknown numbers</string>
   <string name="call_record_auto_whitelist">Custom list</string>
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
-  <string name="call_record_auto_whitelist_summary">%d numbers</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
   <string name="call_record_loading_content">Loading…</string>
   <string name="call_record_off_summary">Off</string>
   <string name="call_record_on_summary">On</string>
@@ -350,7 +347,6 @@
   <string name="call_recording_notification_title_error">"Couldn't record call"</string>
   <string name="call_recording_notification_toggle_title">Call recording notification</string>
   <string name="call_recording_setting">Call recording</string>
-  <string name="call_remove_exception_numbers_confirm">%d numbers will be deleted.</string>
   <string name="call_settings">Call settings</string>
   <string name="call_settings_admin_user_only">Call settings can only be changed by the admin user.</string>
   <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
@@ -1119,8 +1115,6 @@ You have %d remaining attempts."</string>
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
   <string name="pin2_unblocked">PIN2 no longer blocked</string>
-  <string name="pin_attempts">"
-%d attempts remaining."</string>
   <string name="pin_changed">PIN updated</string>
   <string name="pin_failed">PIN incorrect</string>
   <string name="pin_lock_warning">"
@@ -1299,13 +1293,13 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="reverting_settings">Reverting settings…</string>
   <string name="ringtone_silent">None</string>
   <string name="ringtone_unknown">Unknown ringtone</string>
-  <string name="roaming">Data roaming</string>
+  <string name="roaming">Disconnected from mobile data network</string>
   <string name="roaming_alert_title">Allow data roaming?</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
   <string name="roaming_enable">Connect to data services when roaming</string>
   <string name="roaming_notification_content">You can add country codes automatically to make dialing more convenient.</string>
   <string name="roaming_notification_title">Looks like roaming is activated</string>
-  <string name="roaming_reenable_message">"You've lost data connectivity because you left your home network with data roaming turned off."</string>
+  <string name="roaming_reenable_message">Try using roaming to connect again.</string>
   <string name="roaming_warning">You may incur significant charges.</string>
   <string name="running_process_item_user_label">User: %1$s</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
@@ -1459,6 +1453,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sum_cfu_disabled">Disabled</string>
   <string name="sum_cfu_enabled">Forwarding all calls to {0}</string>
   <string name="sum_cfu_enabled_indicator">Forwarding all calls</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">All calls to SIM %s will be forwarded</string>
   <string name="sum_cfu_enabled_no_number">Number is unavailable</string>
   <string name="sum_cw_disabled">During a call, notify me of incoming calls</string>
   <string name="sum_cw_enabled">During a call, notify me of incoming calls</string>
@@ -1539,6 +1534,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="time_start">" From "</string>
   <string name="time_start_hour">time start hour</string>
   <string name="time_start_minute">time start minute</string>
+  <string name="title_cfu_enabled">Call forwarding is on</string>
   <string name="title_convert_fbe">Converting to file based encryption</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="track_frame_time">Profile GPU rendering</string>
@@ -1642,6 +1638,7 @@ Contact your carrier if this problem persists."</string>
   <string name="volte_provision_notification_activate">Activate</string>
   <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
   <string name="volte_provision_title">Activate VoLTE calls</string>
+  <string name="volte_switch_not_support_summary">"VoLTE calls aren't supported for the mobile data SIM card."</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>

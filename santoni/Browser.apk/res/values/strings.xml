@@ -258,6 +258,7 @@
   <string name="block_ads_choice_continue">Continue</string>
   <string name="block_ads_message">Do you want to block messages from this website?</string>
   <string name="block_ads_title">Content may contain ads</string>
+  <string name="bookmark">Bookmark</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_btn_select_all">Select all</string>
   <string name="bookmark_btn_select_none">Deselect all</string>
@@ -526,7 +527,7 @@ Pages you view won't appear in history."</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="hint">Hint</string>
-  <string name="history_saved_webpage">Saved pages</string>
+  <string name="history">History</string>
   <string name="home_description">Home</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Delete</string>
@@ -612,6 +613,7 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_btn_close">Close</string>
   <string name="miuichromium_error_page_btn_refresh">Refresh</string>
   <string name="miuichromium_error_page_btn_report_issue">Report issue</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
   <string name="miuichromium_error_page_diagnose">Network diagnostics</string>
   <string name="miuichromium_error_page_diagnose_banner">Network diagnostics</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -628,9 +630,57 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_network_hijack">"Current network isn't safe"</string>
   <string name="miuichromium_error_page_network_off">Turn on Wi-Fi or mobile data</string>
   <string name="miuichromium_error_page_no_network">"Can't connect to network"</string>
-  <string name="miuichromium_error_page_reload">Refresh</string>
+  <string name="miuichromium_error_page_problem_access_denied">Access to %s0 was denied</string>
+  <string name="miuichromium_error_page_problem_cache_miss">This page cant be loaded from the cache</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"The page can't be opened"</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">"The site can't be reached"</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Connection was interrupted</string>
+  <string name="miuichromium_error_page_problem_file_not_found">"Couldn't find file"</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Network access is restricted</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">"Couldn't connect to the Internet"</string>
+  <string name="miuichromium_error_page_problem_page_moved">This page on %s0 might have been moved or deleted</string>
+  <string name="miuichromium_error_page_problem_page_not_found">"Couldn't find this page on %s0"</string>
+  <string name="miuichromium_error_page_problem_page_not_working">"This page isn't working"</string>
+  <string name="miuichromium_error_page_problem_security_error">"This site can't provide a secure connection"</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 is currently unable to handle this request</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" because %s0 didn't accept your certificate"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 doesn't adhere to security standards"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. Access is blocked by %s0</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 interrupted connection</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 refused to connect</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Connection was reset</string>
+  <string name="miuichromium_error_page_reason_device_slept">" when your device went to sleep"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" because %s0 didn't send any data"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. IP address or port number is invalid</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" because %s0 sent an invalid response"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" because the URL is invalid"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. It might be moved or deleted</string>
+  <string name="miuichromium_error_page_reason_name_collision">. This site on the intranet has the same URL as an external website</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". Couldn't find DNS address for %s0"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" due to a network change"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Something is wrong with the proxy server, or proxy address is incorrect</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 is currently unreachable</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 doesn't respond for too long"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" because %s0 redirected you too many times"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 is using an unsafe port number</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 is redirecting you in an unsafe way</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 uses an unsupported protocol</string>
+  <string name="miuichromium_error_page_reload">Reload</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Check your %s1proxy settings%s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Clear cache (%s1Settings%s2 - Clear data).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Clear cache and cookies (%s1Settings%s2 - Clear data, your account info may be lost).</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Contact your system administrator.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"Check the address you've entered and try again using the correct URL."</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Reload after granting Browser permission to access the internet.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Try this:</string>
   <string name="miuichromium_error_page_title">An error occurred</string>
   <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
   <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
@@ -664,7 +714,6 @@ Leave this page?"</string>
   <string name="navigationbar_rightbutton_actiontext_search">Search</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
-  <string name="new_folder_name_lable">Group name</string>
   <string name="next_button_label">Next</string>
   <string name="no_app_open_document">No app was found to handle this action</string>
   <string name="no_matches">No matches</string>
@@ -930,6 +979,7 @@ Leave this page?"</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>
+  <string name="snapshot">Local</string>
   <string name="snapshot_failed">"Couldn't save page"</string>
   <string name="snapshot_successed">Saved page successfully</string>
   <string name="ssl_bad_clock_date_settings">Set date</string>
@@ -1083,8 +1133,6 @@ Leave this page?"</string>
   <string name="voice_title_please">Begin speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
   <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
-  <string name="webpage_bookmark_title">Bookmarks</string>
-  <string name="webpage_history_title">History</string>
   <string name="webpage_title">Bookmarks &amp; History</string>
   <string name="webview_find_on_page">Find on page</string>
   <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>

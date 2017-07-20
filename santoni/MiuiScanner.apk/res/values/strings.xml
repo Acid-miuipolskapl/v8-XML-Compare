@@ -183,6 +183,7 @@
   <string name="app_description_title">About Scanner</string>
   <string name="app_details">App:</string>
   <string name="app_name">Scanner</string>
+  <string name="back">Back</string>
   <string name="barcode_into_rectangle">Place the code inside the frame</string>
   <string name="birthday">Birthday:</string>
   <string name="camera_error_title">Camera error</string>
@@ -243,6 +244,7 @@
   <string name="error_cannot_connect_camera">"Can't connect to Camera"</string>
   <string name="error_day_limit">Too many attempts within 1 day</string>
   <string name="error_empty_result">"Couldn't find results"</string>
+  <string name="error_get_image">fail to get image</string>
   <string name="error_hour_limit">Too many attempts within 1 hour</string>
   <string name="error_image_error">"Can't recognize this photo"</string>
   <string name="error_invalid_request">Authentication error</string>
@@ -393,6 +395,7 @@
   <string name="view_study_report">View report</string>
   <string name="web">Website:</string>
   <string name="website_details">Website:</string>
+  <string name="weixin_code_tip">Please use WeChat to scan this QR code</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_open_fail">"Can't turn on WLAN"</string>
   <string name="wifi_pwd">Password:</string>

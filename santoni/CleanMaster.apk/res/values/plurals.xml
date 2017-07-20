@@ -34,12 +34,8 @@
         <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d views</item>
-        <item quantity="zero">%1$d views</item>
-        <item quantity="one">%1$d views</item>
-        <item quantity="two">%1$d views</item>
-        <item quantity="few">%1$d views</item>
-        <item quantity="many">%1$d views</item>
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">%1$s view</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groups</item>
@@ -88,5 +84,21 @@
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d empty files) %2$s</item>
         <item quantity="one">(%1$d empty file) %2$s</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">"Haven't used for %d days"</item>
+        <item quantity="one">"Haven't used for %d day"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"Haven't used for %d months"</item>
+        <item quantity="one">"Haven't used for %d month"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"Haven't used for %d years"</item>
+        <item quantity="one">"Haven't used for %d year"</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> apps haven't been used for a long time, take a look."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> app hasn't been used for a long time, take a look."&lt;/Data></item>
     </plurals>
 </resources>

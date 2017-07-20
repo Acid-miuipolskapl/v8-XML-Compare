@@ -8,6 +8,10 @@
         <item quantity="other">%s apps can show notifications</item>
         <item quantity="one">1 app can show notifications</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggles placed above bar are active</item>
+        <item quantity="one">1 toggle placed above bar are active</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">You are now %1$d steps away from being a developer.</item>
         <item quantity="one">You are now %1$d step away from being a developer.</item>
@@ -145,9 +149,29 @@ For more information about this certificate, contact your admin."</item>
         <item quantity="other">%1$d apps allowed to use unrestricted data when Data Saver is on</item>
         <item quantity="one">1 app allowed to use unrestricted data when Data Saver is on</item>
     </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risks found</item>
+        <item quantity="one">%d risk found</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d apps are allowed to autostart</item>
+        <item quantity="one">%d app are allowed to autostart</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN must be %d digits</item>
+        <item quantity="one">PIN must be %d digit</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Shared %d networks</item>
+        <item quantity="one">Shared %d network</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d devices</item>
         <item quantity="one">%d device</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
+        <item quantity="one">%1$d people connected</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"You're %1$d steps away from entering phone info."</item>
