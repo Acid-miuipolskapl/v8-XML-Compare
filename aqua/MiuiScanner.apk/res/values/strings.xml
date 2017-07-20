@@ -244,6 +244,7 @@
   <string name="error_cannot_connect_camera">"Can't connect to Camera"</string>
   <string name="error_day_limit">Too many attempts within 1 day</string>
   <string name="error_empty_result">"Couldn't find results"</string>
+  <string name="error_get_image">fail to get image</string>
   <string name="error_hour_limit">Too many attempts within 1 hour</string>
   <string name="error_image_error">"Can't recognize this photo"</string>
   <string name="error_invalid_request">Authentication error</string>

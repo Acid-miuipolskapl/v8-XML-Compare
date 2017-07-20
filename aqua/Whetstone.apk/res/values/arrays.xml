@@ -16,6 +16,7 @@
     </string-array>
     <string-array name="protected_process_name">
         <item>com.tencent.mm:push</item>
+        <item>com.miui.securitycore.remote</item>
     </string-array>
     <string-array name="restart_persist_service">
         <item>com.miui.powerkeeper</item>
