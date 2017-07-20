@@ -333,6 +333,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="application_lock_name">App lock</string>
   <string name="application_manager_section_title">App settings</string>
   <string name="application_permission_manager">App permissions</string>
+  <string name="application_permissions">Application permissions</string>
   <string name="application_restrictions">Allow apps and content</string>
   <string name="application_size_label">App</string>
   <string name="applications_settings">Installed apps</string>
@@ -930,6 +931,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="close_gesture">Close using gesture</string>
   <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
   <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change.</string>
+  <string name="cloud_backup_section_title">Mi Cloud backup</string>
+  <string name="cloud_backup_settings_section_title">Backup settings</string>
+  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
+  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
   <string name="cmcc_hardware_version">Hardware version</string>
   <string name="collect_diagnostics_summary">Collect diagnostics data for troubleshooting</string>
   <string name="collect_diagnostics_title">Collect Diagnostics</string>
@@ -2244,6 +2249,9 @@ You can set a new screen lock for both your device and your work profile, but an
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
   <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
+  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
+  <string name="login_account_dialog_title">Sign in with Mi Account</string>
+  <string name="login_action">Sign in</string>
   <string name="long_press_volume_down">Long press Volume down</string>
   <string name="lte_4g_settings_4gdisable_summary">4G Disabled</string>
   <string name="lte_4g_settings_4genable_summary">4G Enabled</string>
@@ -2708,7 +2716,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="ota_disable_automatic_update">Automatic system updates</string>
   <string name="other_advanced_settings">Additional settings</string>
   <string name="other_device_info">Others</string>
-  <string name="other_personal_settings">Additional settings</string>
+  <string name="other_personal_settings">Personal settings</string>
   <string name="other_relative">Other</string>
   <string name="other_sound_settings">Other sounds</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
@@ -2864,6 +2872,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery &amp; performance</string>
   <string name="power_wifi">WLAN</string>
+  <string name="pre_installed_application">Pre-installed apps</string>
   <string name="pref_button_light">Button lights</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
   <string name="pref_edge_handgrip">Edge controls</string>
@@ -3687,7 +3696,6 @@ Note: Your fingerprint may be less secure than a strong pattern or PIN. "&lt;ann
   <string name="settings_safetylegal_title">Safety information</string>
   <string name="settings_shortcut">Settings shortcut</string>
   <string name="settings_toggle_position_divider_list">Toggles placed above bar are active</string>
-  <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">You’ve chosen to use your fingerprint as one way to unlock your phone. If you skip now, you’ll need to set this up later. Setup takes only a minute or so.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Skip fingerprint setup?</string>
   <string name="setup_fingerprint_enroll_finish_message">Whenever you see this icon, you can use your fingerprint.</string>
