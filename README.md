@@ -2,7 +2,7 @@
 
 # MIUI 8 Daily XML changes by xiaomi.eu / miui.com
 
-[![ghit.me](https://ghit.me/badge.svg?repo=Acid-miuipolskapl/v8-XML-Compare)](https://ghit.me/repo/Acid-miuipolskapl/v8-XML-Compare)
+[![ghit.me](https://ghit.me/badge.svg?repo=ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare)](https://ghit.me/repo/ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare)
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
