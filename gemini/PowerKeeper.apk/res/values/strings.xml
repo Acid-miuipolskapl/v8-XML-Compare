@@ -89,8 +89,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_checker_title">PowerChecker</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s launches frequently</string>
   <string name="power_checker_wakeup_alarm_title">%1$s launches frequently</string>
-  <string name="power_checker_wifi_scan_multi_apps_title">%1$s searches for WLAN frequently</string>
-  <string name="power_checker_wifi_scan_title">%1$s searches for WLAN frequently</string>
+  <string name="power_checker_wifi_scan_multi_apps_title">%1$s searches for Wi-Fi frequently</string>
+  <string name="power_checker_wifi_scan_title">%1$s searches for Wi-Fi frequently</string>
   <string name="power_chooser_user_define_title">New mode</string>
   <string name="power_config_alarm_sync_summary">Allow app wakeup alarm in the background</string>
   <string name="power_config_alarm_sync_title">Alarm wakeup</string>
@@ -147,7 +147,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_event_user_define_title">New events</string>
   <string name="power_event_view_event_title">Triggers</string>
   <string name="power_hide_mode_app_list_summary">Saving power in the background</string>
-  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
+  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, Wi-Fi and mobile data connections, and GPS"</string>
   <string name="power_hide_mode_title">"Manage apps' battery usage"</string>
   <string name="power_keeper">Battery saver</string>
   <string name="power_mode_cpu_state_high">Performance</string>

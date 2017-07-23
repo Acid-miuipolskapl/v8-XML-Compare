@@ -962,17 +962,17 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="complete_parameters">All specs</string>
   <string name="complete_settings">General settings</string>
   <string name="computing_size">Computing…</string>
-  <string name="condition_airplane_summary">"WLAN, Bluetooth, and cellular network are turned off. You can't make phone calls or connect to the Internet."</string>
+  <string name="condition_airplane_summary">"Wi-Fi, Bluetooth, and cellular network are turned off. You can't make phone calls or connect to the Internet."</string>
   <string name="condition_airplane_title">Airplane mode is on</string>
   <string name="condition_battery_summary">Performance is reduced. Location services and background data are turned off.</string>
   <string name="condition_battery_title">Battery Saver is on</string>
-  <string name="condition_bg_data_summary">Background data is only available via WLAN. This may affect some apps or services when WLAN is not available.</string>
+  <string name="condition_bg_data_summary">Background data is only available via Wi-Fi. This may affect some apps or services when Wi-Fi is not available.</string>
   <string name="condition_bg_data_title">Data Saver is on</string>
-  <string name="condition_cellular_summary">Internet is available only via WLAN</string>
+  <string name="condition_cellular_summary">Internet is available only via Wi-Fi</string>
   <string name="condition_cellular_title">Cellular data is off</string>
   <string name="condition_expand_hide">Hide</string>
   <string name="condition_expand_show">Show</string>
-  <string name="condition_hotspot_summary">Portable WLAN hotspot %1$s is active, WLAN for this device is turned off.</string>
+  <string name="condition_hotspot_summary">Portable Wi-Fi hotspot %1$s is active, Wi-Fi for this device is turned off.</string>
   <string name="condition_hotspot_title">Hotspot is on</string>
   <string name="condition_turn_off">Turn off</string>
   <string name="condition_turn_on">Turn on</string>
@@ -1169,7 +1169,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_usage_menu_show_wifi">Show WLAN</string>
   <string name="data_usage_menu_sim_cards">SIM cards</string>
   <string name="data_usage_menu_split_4g">Separate 4G usage</string>
-  <string name="data_usage_metered_body">Indicate which WLAN networks are portable hotspots. Apps can be restricted from using these networks in the background. Apps will also notify you before using these networks for large downloads.</string>
+  <string name="data_usage_metered_body">Indicate which Wi-Fi networks are portable hotspots. Apps can be restricted from using these networks in the background. Apps will also notify you before using these networks for large downloads.</string>
   <string name="data_usage_metered_mobile">Cellular networks</string>
   <string name="data_usage_metered_title">Network restrictions</string>
   <string name="data_usage_metered_wifi">Metered WLAN networks</string>
@@ -1682,12 +1682,12 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
-  <string name="free_wifi_connect_dialog_title">WLAN available</string>
+  <string name="free_wifi_connect_dialog_title">Wi-Fi available</string>
   <string name="free_wifi_connect_fail">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="free_wifi_connect_fail2">"Can't sign in. Wait a minute or two and try again."</string>
   <string name="free_wifi_connect_summary">Tap to connect to %1$s.</string>
-  <string name="free_wifi_connect_title">WLAN available</string>
-  <string name="free_wifi_connected">Connected to free WLAN</string>
+  <string name="free_wifi_connect_title">Wi-Fi available</string>
+  <string name="free_wifi_connected">Connected to free Wi-Fi</string>
   <string name="free_wifi_connected_count">%1$d people connected</string>
   <string name="free_wifi_connected_time">Duration: %1$s</string>
   <string name="free_wifi_connecting">Connecting…</string>
@@ -1703,10 +1703,10 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="full_transparent_smarrcover_title">Transparent front cover</string>
-  <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
+  <string name="fullbackup_data_summary">"Automatically back up device data (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps) remotely.
 
 When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
-  <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on remote servers?</string>
+  <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on remote servers?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">auto</string>
   <string name="gadget_brightness_state_full">full</string>
@@ -1738,7 +1738,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="google_title">Google</string>
   <string name="got_it">Got it</string>
-  <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
+  <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">One-handed mode</string>
   <string name="handy_mode_enable">One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>
@@ -2085,7 +2085,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="location_mode_sensors_only_description">Use GPS to determine location</string>
   <string name="location_mode_sensors_only_title">Device only</string>
   <string name="location_mode_title">Mode</string>
-  <string name="location_neighborhood_level">Let apps use data from WLAN and mobile networks to estimate your location</string>
+  <string name="location_neighborhood_level">Let apps use data from Wi-Fi and mobile networks to estimate your location</string>
   <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
   <string name="location_network_based">WLAN &amp; cellular network location</string>
   <string name="location_no_recent_apps">No apps have requested location recently</string>
@@ -2587,7 +2587,7 @@ Select your operating system:"</string>
   <string name="no_default_home">No default Home</string>
   <string name="no_device_admins">No available device administrators</string>
   <string name="no_internet_access_remember">Don’t ask again for this network</string>
-  <string name="no_internet_access_text">WLAN network %1$s has no access to the internet. Stay connected?</string>
+  <string name="no_internet_access_text">Wi-Fi network %1$s has no access to the internet. Stay connected?</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_memory_use_summary">No memory used in last 3 hours</string>
   <string name="no_nearby_wifi">No networks detected</string>
@@ -2853,7 +2853,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
   <string name="power_discharging_duration_short">%1$s - %2$s left</string>
   <string name="power_flashlight">Flashlight</string>
-  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS usage"</string>
+  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, Wi-Fi and mobile data connections, and GPS usage"</string>
   <string name="power_hide_mode_title">Manage apps battery usage</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mgr">Battery</string>
@@ -3535,7 +3535,7 @@ To use screen pinning:
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch;collapse;hide</string>
   <string name="search_status_bar_settings_toggle_position">Toggle positions;Toggles;toggle;change toggles</string>
   <string name="search_storage_settings">Cleaner;Clear cache;Cache</string>
-  <string name="search_sync_settings">Sync;Auto;WLAN only</string>
+  <string name="search_sync_settings">Sync;Auto;Wi-Fi only</string>
   <string name="search_system_app_settings">System apps</string>
   <string name="search_theme_settings_title">Themes;Theme;Personalization;Personalize</string>
   <string name="search_touch_assistant">Quick ball;Touch assistant</string>
@@ -3557,18 +3557,18 @@ To use screen pinning:
   <string name="search_wallpaper_settings_title">Wallpaper;Home screen;Lock screen</string>
   <string name="search_wfd_settings_title">Wireless display;Turn on wireless display</string>
   <string name="search_wifi_advanced_ip_address_title">IP address;IP</string>
-  <string name="search_wifi_advanced_mac_address_title">WLAN MAC address;WLAN MAC address</string>
-  <string name="search_wifi_enable">WLAN;WLAN;WLAN;Turn on Wifi;Turn on Wi-fi;Turn on WLAN</string>
+  <string name="search_wifi_advanced_mac_address_title">Wi-Fi MAC address;WLAN MAC address</string>
+  <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Turn on Wifi;Turn on Wi-fi;Turn on WLAN</string>
   <string name="search_wifi_install_credentials">Install certificates;Certificates</string>
-  <string name="search_wifi_menu_p2p">WLAN Direct;WLAN Direct</string>
+  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN entry;WPS;WPS PIN</string>
   <string name="search_wifi_scan_always_available">Scanning always available;Scan networks;Scan Wifi;Scan WLAN</string>
-  <string name="search_wifi_setting_frequency_band_title">WLAN frequency band;WIFI frequency;WI-FI frequency;WLAN frequency;Frequency band</string>
-  <string name="search_wifi_setting_sleep_policy_title">Keep WLAN on during sleep;Keep WLAN on during sleep;Keep WLAN on during sleep;WLAN on during sleep;WLAN on during sleep;WLAN on during sleep</string>
-  <string name="search_wifi_settings_title">Wifi;WLAN;Advanced settings;WLAN;Wireless networks;Wireless</string>
+  <string name="search_wifi_setting_frequency_band_title">Wi-Fi frequency band;WIFI frequency;WI-FI frequency;WLAN frequency;Frequency band</string>
+  <string name="search_wifi_setting_sleep_policy_title">Keep Wi-Fi on during sleep;Keep WiFi on during sleep;Keep WLAN on during sleep;Wi-Fi on during sleep;WiFi on during sleep;WLAN on during sleep</string>
+  <string name="search_wifi_settings_title">Wifi;Wi-Fi;Advanced settings;WLAN;Wireless networks;Wireless</string>
   <string name="search_wifi_tether_checkbox">Portable hotspot;hotspot;portable</string>
   <string name="search_wifi_tether_configure_ap_text">Set up portable hotspot;Set up hotspot;add hotspot;configure hotspot</string>
-  <string name="search_wifi_tether_settings_title">Tethering &amp; portable hotspot;Tether;share internet;WLAN hotspot;Wifi hotspot;WLAN hotspot</string>
+  <string name="search_wifi_tether_settings_title">Tethering &amp; portable hotspot;Tether;share internet;WLAN hotspot;Wifi hotspot;Wi-Fi hotspot</string>
   <string name="search_wifi_wapi_cert_install">Install WAPI certificate;WAPI certificates;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate;WAPI certificates;WAPI</string>
   <string name="search_wps_connect_title">WPS push button;Connect WPS;WPS</string>
@@ -3893,7 +3893,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
-  <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
+  <string name="status_bar_settings_custom_wifi_name">Edit Wi-Fi name</string>
   <string name="status_bar_settings_enable_notification">Show notifications</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
   <string name="status_bar_settings_long_click_sort">Press &amp; hold to pick up a toggle</string>
@@ -3914,7 +3914,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_keyguard_notification">Lock screen notifications</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icons</string>
-  <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
+  <string name="status_bar_settings_show_wifi_name">Show Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_style">Notifications &amp; toggles layout</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
@@ -4136,8 +4136,8 @@ Consider using a faster ^1 for better performance."</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. "</string>
   <string name="sync_settings">Sync</string>
-  <string name="sync_wifi_label">WLAN</string>
-  <string name="sync_wifi_only">WLAN only</string>
+  <string name="sync_wifi_label">Wi-Fi</string>
+  <string name="sync_wifi_only">Wi-Fi only</string>
   <string name="system">System</string>
   <string name="system_alert_window_access_title">Draw over other apps</string>
   <string name="system_alert_window_apps_title">Apps</string>
@@ -4186,12 +4186,12 @@ A Google approach to syncing data to allow access to your contacts, appointments
 
 2.If your device has an SD card or USB storage, you can't mount it on your computer when USB tethered. 
 
- "&lt;b&gt;Portable WLAN hotspot &lt;/b&gt;"
- You can turn your Android device into a portable WLAN hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
+ "&lt;b&gt;Portable Wi-Fi hotspot&lt;/b&gt;" 
+ You can turn your Android device into a portable Wi-Fi hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
 
-1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
+1.When your device is serving as a Wi-Fi hotspot, you can't use your device's applications to access the Internet via its Wi-Fi connection (but of course you remain connected to the Internet via your mobile data network). 
 
-2.You configure the hotspot with the WLAN hotspot settings."</string>
+2.You configure the hotspot with the Wi-Fi hotspot settings."</string>
   <string name="tethering_help_dialog_title">Help</string>
   <string name="tethering_no_sim_alert_title">No SIM Card</string>
   <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
@@ -4285,7 +4285,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_keyguard_password">Turn on Lock screen password</string>
   <string name="turn_on_security_lock">Choose screen lock</string>
-  <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
+  <string name="turn_on_wifi_dialog_text">Wi-Fi is turned off when Mobile HotSpot is active. To turn on Wi-Fi, please turn off Mobile HotSpot.</string>
   <string name="turn_on_wifi_dialog_title">Turn on wifi</string>
   <string name="under_keyguard">Screen off</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
@@ -4468,7 +4468,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="user_add_user_item_summary">Users have their own apps and content</string>
   <string name="user_add_user_item_title">User</string>
   <string name="user_add_user_menu">Add user</string>
-  <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust pad settings like WLAN that affect everyone.
+  <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust pad settings like Wi-Fi that affect everyone.
 
 After you create a new user, that person needs to go through a setup process.
 
@@ -4723,12 +4723,12 @@ Tap the plus to add words."</string>
   <string name="wfd_disconnect_diag_msg">Disconnect from %1$s?</string>
   <string name="wfd_disconnect_diag_title">Disconnect display?</string>
   <string name="wfd_disconnect_multiple_diag_message">Disconnect from %1$s and %2$s other devices?</string>
-  <string name="wfd_enable_wifi_diag_title">Turn on WLAN?</string>
+  <string name="wfd_enable_wifi_diag_title">Turn on Wi-Fi?</string>
   <string name="wfd_enabler_title">Wireless display</string>
   <string name="wfd_menu_search">Search for devices</string>
   <string name="wfd_menu_searching">Searching…</string>
   <string name="wfd_menu_teardown">Stop</string>
-  <string name="wfd_settings_description">Connect to a display using WLAN</string>
+  <string name="wfd_settings_description">Connect to a display using Wi-Fi</string>
   <string name="wfd_settings_title">Wireless display</string>
   <string name="wfd_wps_keypad">Use keypad</string>
   <string name="wfd_wps_pbc">Enter PIN</string>
@@ -4736,7 +4736,7 @@ Tap the plus to add words."</string>
   <string name="whetstone_level_reboot_OK">Reboot</string>
   <string name="whetstone_level_title">Memory optimization</string>
   <string name="widget_picker_title">Choose widget</string>
-  <string name="wifi">WLAN</string>
+  <string name="wifi">Wi-Fi</string>
   <string name="wifi_access_points">WLAN networks</string>
   <string name="wifi_add_network">Add network</string>
   <string name="wifi_advanced_ip_address_title">IP address</string>
@@ -4771,16 +4771,16 @@ WLAN Assistant"</string>
   <string name="wifi_automatically_connect_title">Use open Wi‑Fi automatically</string>
   <string name="wifi_automatically_manage_summary">Let a WLAN assistant manage your WLAN connection</string>
   <string name="wifi_automatically_manage_title">Automatically manage WLAN</string>
-  <string name="wifi_available_title">Connect to WLAN</string>
+  <string name="wifi_available_title">Connect to Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Only use networks that have a good Internet connection</string>
   <string name="wifi_band_24ghz">2.4 GHz</string>
   <string name="wifi_band_5ghz">5 GHz</string>
-  <string name="wifi_calling_mode_dialog_title">WLAN calling mode</string>
+  <string name="wifi_calling_mode_dialog_title">Wi-Fi calling mode</string>
   <string name="wifi_calling_mode_title">Calling preference</string>
-  <string name="wifi_calling_off_explanation">When WLAN calling is on, your phone can route calls via WLAN networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.</string>
-  <string name="wifi_calling_settings_title">WLAN calling</string>
-  <string name="wifi_calling_suggestion_summary">Use WLAN instead of mobile network</string>
-  <string name="wifi_calling_suggestion_title">Turn on WLAN Calling</string>
+  <string name="wifi_calling_off_explanation">When Wi-Fi calling is on, your phone can route calls via Wi-Fi networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.</string>
+  <string name="wifi_calling_settings_title">Wi-Fi calling</string>
+  <string name="wifi_calling_suggestion_summary">Use Wi-Fi instead of mobile network</string>
+  <string name="wifi_calling_suggestion_title">Turn on Wi-Fi Calling</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
   <string name="wifi_click_share_wlan">Tap to share password</string>
@@ -4799,17 +4799,17 @@ WLAN Assistant"</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
   <string name="wifi_context_menu_forget">Forget</string>
-  <string name="wifi_data_template">%1$s WLAN data</string>
-  <string name="wifi_data_usage">WLAN data usage</string>
+  <string name="wifi_data_template">%1$s Wi-Fi data</string>
+  <string name="wifi_data_usage">Wi-Fi data usage</string>
   <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
   <string name="wifi_dialog_remind_type_title">Mobile data network</string>
   <string name="wifi_disabled_generic">Disabled</string>
-  <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
+  <string name="wifi_disabled_help">Wi-Fi was disconnected due to poor connection</string>
   <string name="wifi_disabled_network_failure">"Couldn't configure IP"</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">"Couldn't connect to WLAN"</string>
-  <string name="wifi_disconnected_notification_summary">"You're not connected to WLAN."</string>
-  <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
+  <string name="wifi_disabled_wifi_failure">"Couldn't connect to Wi-Fi"</string>
+  <string name="wifi_disconnected_notification_summary">"You're not connected to Wi-Fi."</string>
+  <string name="wifi_disconnected_notification_title">Wi-Fi disconnected</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_heading">Certification</string>
@@ -4827,7 +4827,7 @@ WLAN Assistant"</string>
   <string name="wifi_display_pause">Pause</string>
   <string name="wifi_display_resume">Resume</string>
   <string name="wifi_display_session_info">Session info</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">"Can't use wireless display when WLAN is off"</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">"Can't use wireless display when Wi-Fi is off"</string>
   <string name="wifi_display_settings_title">Cast</string>
   <string name="wifi_display_status_connected">Connected</string>
   <string name="wifi_display_status_connecting">Connecting</string>
@@ -4852,9 +4852,9 @@ WLAN Assistant"</string>
   <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on.</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
-  <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">WLAN assistant</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and WLAN on to switch to data when WLAN connectivity is poor.</string>
+  <string name="wifi_enable">Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam">Wi-Fi assistant</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Keep data and Wi-Fi on to switch to data when Wi-Fi connectivity is poor.</string>
   <string name="wifi_enable_hs2_title">Passpoint On</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
@@ -4912,7 +4912,7 @@ WLAN Assistant"</string>
   <string name="wifi_notify_open_networks_summary">Notify whenever a public network is available</string>
   <string name="wifi_off_airplane_on_cancel">Cancel</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">You can turn on WLAN manually in Airplane mode.</string>
+  <string name="wifi_off_airplane_on_content">You can turn on Wi-Fi manually in Airplane mode.</string>
   <string name="wifi_off_airplane_on_not_remind">"Don't show again"</string>
   <string name="wifi_off_airplane_on_title">Attention</string>
   <string name="wifi_on_time">WLAN on time</string>
@@ -5031,31 +5031,31 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_setup_title_editing_network">Connect to WLAN network %s</string>
   <string name="wifi_setup_wizard_title">Select WLAN</string>
   <string name="wifi_setup_wps">Automatic setup (WPS)</string>
-  <string name="wifi_share">Share WLAN</string>
+  <string name="wifi_share">Share Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Stop sharing networks</string>
-  <string name="wifi_share_action_turn_on">Share WLAN</string>
+  <string name="wifi_share_action_turn_on">Share Wi-Fi</string>
   <string name="wifi_share_action_turn_on_summary">To share, sign in to your Mi Account</string>
   <string name="wifi_share_add">Share my public networks</string>
   <string name="wifi_share_add_summary">"When you share your public networks,
  you can use other users' networks too"</string>
   <string name="wifi_share_connect">Connect</string>
-  <string name="wifi_share_connected_summary">"You're connected to a public WLAN network that has been shared by another user."</string>
-  <string name="wifi_share_connected_title">MIUI shared WLAN</string>
+  <string name="wifi_share_connected_summary">"You're connected to a public Wi-Fi network that has been shared by another user."</string>
+  <string name="wifi_share_connected_title">MIUI shared Wi-Fi</string>
   <string name="wifi_share_count">Shared %d networks</string>
   <string name="wifi_share_current_network">Current network</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">No shared networks found.</string>
-  <string name="wifi_share_login">Share WLAN network</string>
+  <string name="wifi_share_login">Share Wi-Fi network</string>
   <string name="wifi_share_login_summary">If this is a public network, you can share it with other MIUI users.</string>
-  <string name="wifi_share_notification_summary">MIUI has connected you to a public WLAN network.</string>
+  <string name="wifi_share_notification_summary">MIUI has connected you to a public Wi-Fi network.</string>
   <string name="wifi_share_other_network">Other networks</string>
   <string name="wifi_share_qrcode_finish">OK</string>
   <string name="wifi_share_qrcode_summary">To share, scan the QR code above.</string>
-  <string name="wifi_share_qrcode_title">Share WLAN network</string>
+  <string name="wifi_share_qrcode_title">Share Wi-Fi network</string>
   <string name="wifi_share_show_network">Show networks</string>
-  <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafés, restaurants, hotels, etc.) with one another.</string>
+  <string name="wifi_share_summary1">MIUI users can share public Wi-Fi networks (cafés, restaurants, hotels, etc.) with one another.</string>
   <string name="wifi_share_summary2">When another MIUI user shares a network, you can connect directly without a password.</string>
-  <string name="wifi_share_summary3">You can also share your public WLAN networks with other MIUI users.</string>
+  <string name="wifi_share_summary3">You can also share your public Wi-Fi networks with other MIUI users.</string>
   <string name="wifi_share_turn_off">Off</string>
   <string name="wifi_share_turn_on">On</string>
   <string name="wifi_share_upload">Share</string>
@@ -5065,7 +5065,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_show_advanced">Advanced options</string>
   <string name="wifi_show_password">Show password</string>
   <string name="wifi_signal">Signal strength</string>
-  <string name="wifi_signal_found_msg">Connect to WLAN AP?</string>
+  <string name="wifi_signal_found_msg">Connect to Wi-Fi AP?</string>
   <string name="wifi_skip_anyway">Skip anyway</string>
   <string name="wifi_skipped_message">WARNING: if you skip Wi‑Fi, your phone will only use cellular data for initial downloads and updates. To avoid possible data charges, connect to Wi‑Fi.</string>
   <string name="wifi_speed">Link speed</string>
@@ -5086,7 +5086,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_suspend_optimizations">WLAN optimization</string>
   <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
   <string name="wifi_switch_away_when_unvalidated">Switch to cellular data if Wi‑Fi loses Internet access.</string>
-  <string name="wifi_switch_to_gsm_message">Lost connection to WLAN. Use mobile data connection instead?</string>
+  <string name="wifi_switch_to_gsm_message">Lost connection to Wi-Fi. Use mobile data connection instead?</string>
   <string name="wifi_switch_to_gsm_title">Use GSM?</string>
   <string name="wifi_tether_checkbox_text">Portable WLAN hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up WLAN hotspot</string>
@@ -5141,7 +5141,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_wps_nfc_enter_password">Enter your network password</string>
   <string name="wifi_wps_onstart_pbc">Press the WLAN Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
   <string name="wifi_wps_onstart_pin">Enter pin %1$s on your WLAN router. The setup can take up to two minutes to complete.</string>
-  <string name="wifi_wps_overlap_error">Another WLAN session was detected. Wait a minute or two and try again.</string>
+  <string name="wifi_wps_overlap_error">Another Wi-Fi session was detected. Wait a minute or two and try again.</string>
   <string name="wifi_wps_setup_msg">Starting WPS…</string>
   <string name="wifi_wps_setup_title">WLAN Protected Setup</string>
   <string name="wifiap_configure_ap_text">Set up WLAN wifiap</string>

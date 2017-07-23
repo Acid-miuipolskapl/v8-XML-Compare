@@ -308,14 +308,14 @@
   <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI devices without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
   <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
-  <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
+  <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
-  <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
+  <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
   <string name="mx_current_status">Settings</string>
-  <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to WLAN."</string>
+  <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
   <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message. Besides, this service needs access to mobile data to work normally.</string>
   <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users over the internet without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>

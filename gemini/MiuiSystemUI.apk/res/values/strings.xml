@@ -39,7 +39,7 @@
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>
   <string name="accessibility_no_phone">No phone.</string>
-  <string name="accessibility_no_wifi">No WLAN.</string>
+  <string name="accessibility_no_wifi">No Wi-Fi.</string>
   <string name="accessibility_no_wimax">No WiMAX.</string>
   <string name="accessibility_phone_four_bars">Phone four bars.</string>
   <string name="accessibility_phone_one_bar">Phone one bar.</string>
@@ -58,10 +58,10 @@
   <string name="accessibility_search_light">Search</string>
   <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
   <string name="accessibility_wifi_off">Wifi off.</string>
-  <string name="accessibility_wifi_one_bar">WLAN one bar.</string>
-  <string name="accessibility_wifi_signal_full">WLAN signal full.</string>
-  <string name="accessibility_wifi_three_bars">WLAN three bars.</string>
-  <string name="accessibility_wifi_two_bars">WLAN two bars.</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi one bar.</string>
+  <string name="accessibility_wifi_signal_full">Wi-Fi signal full.</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi three bars.</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi two bars.</string>
   <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
@@ -415,8 +415,8 @@ Use only the supplied charger."</string>
   <string name="quick_settings_more_settings">More settings</string>
   <string name="quick_settings_tiles">default</string>
   <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location</string>
-  <string name="quick_settings_wifi_detail_empty_text">No WLAN networks available</string>
-  <string name="quick_settings_wifi_label">WLAN</string>
+  <string name="quick_settings_wifi_detail_empty_text">No Wi-Fi networks available</string>
+  <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Select a nearby network</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_cleaning">Clearing apps…</string>
@@ -516,7 +516,7 @@ Slide down to lock"</string>
   <string name="status_bar_settings_airplane">Airplane mode</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN connected</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
   <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="strict_mode">Strict mode enabled</string>
@@ -621,7 +621,7 @@ Slide down to lock"</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_network_failure">"Couldn't configure IP"</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">"Couldn't connect to WLAN"</string>
+  <string name="wifi_disabled_wifi_failure">"Couldn't connect to Wi-Fi"</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>

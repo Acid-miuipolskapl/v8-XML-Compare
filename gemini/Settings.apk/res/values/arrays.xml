@@ -1060,9 +1060,9 @@
         <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>WLAN preferred</item>
+        <item>Wi-Fi preferred</item>
         <item>Cellular preferred</item>
-        <item>WLAN only</item>
+        <item>Wi-Fi only</item>
     </string-array>
     <string-array name="wifi_calling_mode_values">
         <item>2</item>
@@ -1070,7 +1070,7 @@
         <item>0</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>WLAN preferred</item>
+        <item>Wi-Fi preferred</item>
         <item>Cellular preferred</item>
     </string-array>
     <string-array name="wifi_calling_mode_values_without_wifi_only">
