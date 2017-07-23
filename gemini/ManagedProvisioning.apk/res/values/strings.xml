@@ -32,7 +32,7 @@
   <string name="device_owner_error_ok">Ok</string>
   <string name="device_owner_error_package_invalid">"Can't use the admin app. It's missing components or corrupted. Contact your IT department."</string>
   <string name="device_owner_error_reset">Reset</string>
-  <string name="device_owner_error_wifi">"Couldn't connect to Wi-Fi"</string>
+  <string name="device_owner_error_wifi">"Couldn't connect to WLAN"</string>
   <string name="device_owner_exists">Work profiles can not be setup on a managed device</string>
   <string name="encrypt_device_launch_settings">Encrypt</string>
   <string name="encrypt_device_text_for_device_owner_setup">"To continue setting up your device, you'll need to encrypt it. This may take some time."</string>
@@ -56,7 +56,7 @@
   <string name="profile_owner_cancel_message">Stop setting up?</string>
   <string name="profile_owner_cancel_ok">Yes</string>
   <string name="profile_owner_cancelling">Canceling…</string>
-  <string name="progress_connect_to_wifi">Connecting to Wi-Fi…</string>
+  <string name="progress_connect_to_wifi">Connecting to WLAN…</string>
   <string name="progress_data_process">Processing setup data…</string>
   <string name="progress_download">Downloading the admin app…</string>
   <string name="progress_install">Installing the admin app…</string>

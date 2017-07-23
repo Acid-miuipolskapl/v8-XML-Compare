@@ -952,7 +952,7 @@ Using preferred network instead."</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="no_voip">SIP calling not supported</string>
-  <string name="no_wifi_available">You need to be connected to a Wi-Fi network for SIP calls (use the Wireless &amp; Network settings).</string>
+  <string name="no_wifi_available">You need to be connected to a WLAN network for SIP calls (use the Wireless &amp; Network settings).</string>
   <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
   <string name="not_voice_capable">Voice calling not supported</string>
@@ -996,7 +996,7 @@ This can take up to 5 minutes."</string>
   <string name="ota_listen">Follow the spoken instructions until you hear that activation is complete.</string>
   <string name="ota_next">Next</string>
   <string name="ota_progress">Programming your phone…</string>
-  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
+  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
   <string name="ota_skip_activation_dialog_skip_label">Skip</string>
   <string name="ota_skip_activation_dialog_title">Skip activation?</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
@@ -1229,7 +1229,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="registration_status_failed_try_later">Account registration unsuccessful: (%s); will try later</string>
   <string name="registration_status_invalid_credentials">Account registration unsuccessful: Incorrect username or password.</string>
   <string name="registration_status_no_data">Account registration stopped because there is no Internet connection.</string>
-  <string name="registration_status_no_wifi_data">Account registration stopped because there is no Wi-Fi connection.</string>
+  <string name="registration_status_no_wifi_data">Account registration stopped because there is no WLAN connection.</string>
   <string name="registration_status_not_receiving">Not receiving calls.</string>
   <string name="registration_status_not_running">Account registration unsuccessful.</string>
   <string name="registration_status_registering">Registering…</string>
@@ -1384,7 +1384,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_call_options_entry_3">Ask for each call</string>
   <string name="sip_call_options_title">Use SIP calling</string>
   <string name="sip_call_options_wifi_only_entry_1">For all calls</string>
-  <string name="sip_call_options_wifi_only_title">Use SIP calling (Wi-Fi only)</string>
+  <string name="sip_call_options_wifi_only_title">Use SIP calling (WLAN only)</string>
   <string name="sip_connection_service_label">Built-in SIP calling</string>
   <string name="sip_edit_new_title">SIP account details</string>
   <string name="sip_edit_title">SIP account details</string>
@@ -1401,8 +1401,8 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sports_news_settings">Sports News</string>
   <string name="srvcc_message">4G voice call has been downgraded to 2G/3G voice call, because the 4G network is not available.</string>
   <string name="srvcc_video_message">Video call has been downgraded to 2G/3G voice call, because the 4G network is not available.</string>
-  <string name="status_hint_label_incoming_wifi_call">Incoming Wi-Fi call</string>
-  <string name="status_hint_label_wifi_call">Wi-Fi call</string>
+  <string name="status_hint_label_incoming_wifi_call">Incoming WLAN call</string>
+  <string name="status_hint_label_wifi_call">WLAN call</string>
   <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
   <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
   <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
@@ -1606,13 +1606,13 @@ Contact your carrier if this problem persists."</string>
   <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_auth_password_wrong">Password may be incorrect</string>
-  <string name="wifi_calling">Wi-Fi calling</string>
+  <string name="wifi_calling">WLAN calling</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WiFi Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
