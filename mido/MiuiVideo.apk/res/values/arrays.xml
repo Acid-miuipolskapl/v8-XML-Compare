@@ -29,43 +29,13 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <array name="right_item1">
-        <item>@drawable/ic_vip_tequan_icon_freevideos</item>
-        <item>@string/vip_tequan_title_freevideos</item>
-        <item>@string/vip_tequan_desc_freevideos</item>
-    </array>
-    <array name="right_item2">
-        <item>@drawable/ic_vip_tequan_icon_skipad</item>
-        <item>@string/vip_tequan_title_skipad</item>
-        <item>@string/vip_tequan_desc_skipad</item>
-    </array>
-    <array name="right_item3">
-        <item>@drawable/ic_vip_tequan_icon_vipid</item>
-        <item>@string/vip_tequan_title_vipid</item>
-        <item>@string/vip_tequan_desc_vipid</item>
-    </array>
-    <array name="right_item4">
-        <item>@drawable/ic_vip_tequan_icon_fastzj</item>
-        <item>@string/vip_tequan_title_fastzj</item>
-        <item>@string/vip_tequan_desc_fastzj</item>
-    </array>
-    <array name="right_item5">
-        <item>@drawable/ic_vip_tequan_icon_newvideo</item>
-        <item>@string/vip_tequan_title_newvideo</item>
-        <item>@string/vip_tequan_desc_newvideo</item>
-    </array>
-    <array name="right_item6">
-        <item>@drawable/ic_vip_tequan_icon_speedchannel</item>
-        <item>@string/vip_tequan_title_speedchannel</item>
-        <item>@string/vip_tequan_desc_speedchannel</item>
-    </array>
     <string-array name="server_list_entries">
-        <item>测试服务器</item>
-        <item>正式服务器</item>
+        <item>Test server</item>
+        <item>Online server</item>
     </string-array>
     <string-array name="server_list_entries_value">
-        <item>cp.v3.tv.mitvos.com</item>
-        <item>api.video.xiaomi.com</item>
+        <item>mv.mitvos.com</item>
+        <item>mvideo.duokanbox.com</item>
     </string-array>
     <string-array name="version_list_entries">
         <item>稳定版本</item>
@@ -75,12 +45,4 @@
         <item>90</item>
         <item>00</item>
     </string-array>
-    <array name="vip_rights">
-        <item>@array/right_item1</item>
-        <item>@array/right_item2</item>
-        <item>@array/right_item3</item>
-        <item>@array/right_item4</item>
-        <item>@array/right_item5</item>
-        <item>@array/right_item6</item>
-    </array>
 </resources>
