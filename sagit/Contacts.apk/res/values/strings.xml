@@ -521,6 +521,7 @@ Reason: \"%s\""</string>
   <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
   <string name="hybrid_service_unavailiable">Service unavailable</string>
   <string name="hybrid_try_again">Try again</string>
+  <string name="hybrid_webpage_not_available">Webpage not available</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>

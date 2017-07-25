@@ -63,10 +63,13 @@
   <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
   <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
+  <string name="keyguard_left_bankcard">Mi Pay</string>
+  <string name="keyguard_left_buscard">Transport card</string>
+  <string name="keyguard_left_remotecentral">Mi Remote</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Quick charging. Tap to view details.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Quick charging…</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
-  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lock_wallpaper_enter">Enter</string>
@@ -82,8 +85,8 @@
  Try again in %d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
-  <string name="open_camera_hint_text">Swipe left to open %s</string>
-  <string name="open_remote_center_hint_text">Swipe right to open %s</string>
+  <string name="open_camera_hint_text">Swipe left to open camera</string>
+  <string name="open_remote_center_hint_text">Swipe right to open mi remote</string>
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
 

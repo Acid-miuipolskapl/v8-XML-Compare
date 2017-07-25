@@ -67,14 +67,19 @@
     <string-array name="support_rotate_calibrate_devices">
         <item>aqua</item>
         <item>capricorn</item>
+        <item>chiron</item>
         <item>gemini</item>
         <item>helium</item>
         <item>hydrogen</item>
+        <item>jason</item>
         <item>leo</item>
         <item>libra</item>
         <item>lithium</item>
         <item>natrium</item>
+        <item>oxygen</item>
+        <item>sagit</item>
         <item>scorpio</item>
+        <item>tiffany</item>
         <item>virgo</item>
     </string-array>
     <string-array name="support_mi_nmea_devices">

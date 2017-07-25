@@ -90,6 +90,8 @@
   <string name="incompatible_dialog_message">This theme isnt fully compatible with MIUI 8. Some elements may be displayed incorrectly.</string>
   <string name="incompatible_dialog_ok">Got it</string>
   <string name="incompatible_dialog_title">Compatibility issues</string>
+  <string name="internal_online_precust_gorgeous_black_name">gorgeous black</string>
+  <string name="internal_online_precust_gorgeous_color_name">gorgeous color</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Just a sec…</string>
@@ -118,7 +120,7 @@
   <string name="no_data">"Can't connect to the network"</string>
   <string name="online_no_network">"Can't connect to the network"</string>
   <string name="online_search_hint">Search for online resources</string>
-  <string name="present_local_themes">Downloaded</string>
+  <string name="present_local_themes">My resources</string>
   <string name="present_online_themes">Get more themes for free</string>
   <string name="provision_default_theme_title">Default</string>
   <string name="provision_loading_tips">Just a sec…</string>

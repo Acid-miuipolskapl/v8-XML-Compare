@@ -86,6 +86,8 @@
   <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
   <string name="app_label">System UI</string>
   <string name="app_process_limit_title">Background process limit</string>
+  <string name="as_important">Important</string>
+  <string name="as_unimportant">Unimportant</string>
   <string name="audio_effect_custom">Configure</string>
   <string name="audio_effect_info">Optimize audio</string>
   <string name="audio_effect_settings">Choose headphones type</string>
@@ -175,6 +177,7 @@
   <string name="camera_key_action_shortcut_title">Shortcut</string>
   <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
+  <string name="cancel">Cancel</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Work</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
@@ -301,6 +304,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="immediately_destroy_activities">Don’t keep activities</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
+  <string name="important_desc">All important notifications will appear directly on the Notification shade.</string>
   <string name="inactive_app_active_summary">Active. Tap to toggle.</string>
   <string name="inactive_app_inactive_summary">Inactive. Tap to toggle.</string>
   <string name="inactive_apps_title">Inactive apps</string>
@@ -476,7 +480,7 @@ Use only the supplied charger."</string>
   <string name="screenshot_dlg_cancel">Cancel</string>
   <string name="screenshot_dlg_delete_button">Delete</string>
   <string name="screenshot_edit">Edit</string>
-  <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
+  <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space or the app forbid that."</string>
   <string name="screenshot_long_screenshot">Scroll</string>
   <string name="screenshot_saved_text">Tap to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
@@ -593,6 +597,9 @@ Slide down to lock"</string>
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
+  <string name="un_important_notifications">Unimportant notifications</string>
+  <string name="unimportant_desc">All unimportant notifications will appear in a separate folder.</string>
+  <string name="unimportant_title">Unimportant</string>
   <string name="unknown">Unknown</string>
   <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
   <string name="usb_accessory_permission_prompt">Allow the app %1$s to access USB accessory?</string>

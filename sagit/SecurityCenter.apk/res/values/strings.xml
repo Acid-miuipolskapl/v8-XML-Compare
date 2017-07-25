@@ -177,6 +177,7 @@ or enter App lock password"</string>
   <string name="app_manager_powerkeeper_no_bg">Restrict background activity</string>
   <string name="app_manager_powerkeeper_no_restrict">No restrictions</string>
   <string name="app_manager_powerkeeper_restrict_bg">Restrict background apps</string>
+  <string name="app_manager_pref_ads">Recommendations</string>
   <string name="app_manager_rebide_wakepath">Restrict</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
@@ -778,6 +779,7 @@ in case you forget it"</string>
   <string name="input_traffic_pkg">Enter data usage</string>
   <string name="input_used_hint">Enter data usage</string>
   <string name="input_used_max_hint">Enter data usage (less than %s)</string>
+  <string name="install">Install</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="install_title">Install via USB</string>
   <string name="installing">Installing</string>

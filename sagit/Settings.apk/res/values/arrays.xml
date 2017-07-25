@@ -1431,6 +1431,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>PIN</item>
         <item>Password</item>
     </string-array>
+    <string-array name="new_dndm_vip_list_group_array">
+        <item>@string/dndm_vip_list_contact</item>
+        <item>@string/dndm_vip_list_starred_contact</item>
+    </string-array>
     <string-array name="dndm_vip_list_group_array">
         <item>@string/dndm_vip_list_all</item>
         <item>@string/dndm_vip_list_contact</item>
@@ -2502,6 +2506,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>America/Tegucigalpa</item>
         <item>America/Paramaribo</item>
         <item>America/Panama</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>1</item>
+        <item>3</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

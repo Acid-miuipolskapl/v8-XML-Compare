@@ -159,17 +159,22 @@
   <string name="lock_screen_success_message">Applied to lock screen</string>
   <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
   <string name="menu_add">Add</string>
+  <string name="menu_auto_fill">Auto Fill</string>
   <string name="menu_back_desktop">Back to Home screen</string>
+  <string name="menu_cell_setting">Screen Setting</string>
   <string name="menu_customize">Settings</string>
   <string name="menu_edit">Edit Home screen</string>
   <string name="menu_exit_scene">Exit Mi Space</string>
   <string name="menu_item_add_item">Place on Home screen</string>
   <string name="menu_launcher_setting">Launcher settings</string>
+  <string name="menu_lock">Lock Screen</string>
+  <string name="menu_more">More</string>
   <string name="menu_picktheme">Choose a theme</string>
   <string name="menu_reset_scene">Reset to default layout</string>
   <string name="menu_search">Search</string>
   <string name="menu_settings">Settings</string>
   <string name="menu_sort">Sort apps</string>
+  <string name="menu_trans_effect">Transition Effect</string>
   <string name="menu_wallpaper">Wallpaper</string>
   <string name="menu_workspace_preview">Home screen previews</string>
   <string name="mi_wallpaper">MIUI Theme Store</string>
@@ -273,4 +278,5 @@
   <string name="widget_favorite_contacts_style">Change size</string>
   <string name="widget_gadget_player">Music</string>
   <string name="widget_global_search">Search</string>
+  <string name="widget_quick_function">Quick function</string>
 </resources>

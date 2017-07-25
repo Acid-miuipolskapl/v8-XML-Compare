@@ -391,8 +391,7 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
-is about to happen"</string>
+  <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
   <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
