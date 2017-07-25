@@ -199,14 +199,14 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_ethernet_iface_regex">(eth\\d)|(usbnet0)</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
   <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
+  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_isoImagePath"/>
   <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
   <string name="config_mms_user_agent">Android-Mms/0.1</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
+  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_ntpServer">asia.pool.ntp.org</string>
   <string name="config_persistentDataPackageName"/>
   <string name="config_tether_apndata"/>
@@ -616,7 +616,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Try again</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+Contact your wireless service provider for another SIM card."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
   <string name="lockscreen_plugged_in">Charging, %d%%</string>
   <string name="lockscreen_return_to_call">Return to call</string>
