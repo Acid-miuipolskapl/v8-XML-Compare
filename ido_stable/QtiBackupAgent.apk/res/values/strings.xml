@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="action_settings">Settings</string>
-  <string name="app_name">Backup Agent</string>
-  <string name="backup_contacts">Backup Contacts</string>
-  <string name="backup_sms_mms">Backup SMS/MMS</string>
-</resources>

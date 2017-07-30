@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="hfb_app_name">话付宝</string>
-  <string name="hfb_complete">购买完成</string>
-  <string name="hfb_confirm">确认支付</string>
-  <string name="hfb_confirm_code">验证码：</string>
-  <string name="hfb_customer_service_phone">客服电话：</string>
-  <string name="hfb_customer_service_phone_number">4001125881</string>
-  <string name="hfb_fail_hint">* 如未收到短信请咨询中国移动通信账户支付客服中心：4001125881(只收市话费，无长途话费)；</string>
-  <string name="hfb_get_confirm_code">获取验证码</string>
-  <string name="hfb_goods_name">商品名称：</string>
-  <string name="hfb_goods_name_content">米币</string>
-  <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
-  <string name="hfb_main_title">订单支付</string>
-  <string name="hfb_order_price">订单价格：</string>
-  <string name="hfb_pay_by_phone">支付手机：</string>
-  <string name="hfb_retry_query">再查一次</string>
-  <string name="hfb_retry_receive">没收到短信？重新接收</string>
-  <string name="hfb_return">返回应用</string>
-  <string name="hfb_step_2">按照提示进行回复</string>
-  <string name="hfb_step_3">点击“购买完成”</string>
-  <string name="hfb_succ_label">支付成功</string>
-  <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
-  <string name="hfb_succ_service_phone_tip">支付服务客服：4001125881</string>
   <string name="mibi_app_name">Mi Credit</string>
-  <string name="mibi_auto_pay_page_title">Choose pay type</string>
   <string name="mibi_balance_payment_title">Mi Credit</string>
   <string name="mibi_balance_title">Balance</string>
   <string name="mibi_bill_delete_dialog_title">Delete %1$s</string>
@@ -43,8 +20,6 @@
   <string name="mibi_btn_recharge_large">Top-up</string>
   <string name="mibi_btn_recharge_other">Top-up</string>
   <string name="mibi_btn_recharge_success_quick">Top-up complete</string>
-  <string name="mibi_button_auto_pay">Renew automatically</string>
-  <string name="mibi_button_auto_pay_retry">Try automatic renewal</string>
   <string name="mibi_button_bind_phone">Bind now</string>
   <string name="mibi_button_call">Call</string>
   <string name="mibi_button_call_frozen_service">24-hour online support</string>
@@ -57,10 +32,18 @@
   <string name="mibi_button_pay">Confirm</string>
   <string name="mibi_button_reget">Resend</string>
   <string name="mibi_button_retry">Retry</string>
-  <string name="mibi_button_single_pay">Single payment</string>
   <string name="mibi_cancel">Cancel</string>
   <string name="mibi_change_security_lock">More screen locks</string>
   <string name="mibi_colon">": "</string>
+  <string name="mibi_deduct_goods_name">Product</string>
+  <string name="mibi_deduct_open">Turn on</string>
+  <string name="mibi_deduct_open_prompt">%1$s will be able to charge you automatically using %2$s without verification.You can turn this feature off in %1$s</string>
+  <string name="mibi_deduct_order_price">Price</string>
+  <string name="mibi_deduct_pay_group_title">Select deduction method</string>
+  <string name="mibi_deduct_payment_title">Automatic deductions</string>
+  <string name="mibi_deduct_success">Automatic payment protocol activated</string>
+  <string name="mibi_deduct_success_sub">Deduction method:%1$s</string>
+  <string name="mibi_deduct_type">Payment method</string>
   <string name="mibi_denomination_mibi_unit">MI</string>
   <string name="mibi_denomination_money_unit">CNY</string>
   <string name="mibi_detail_consume_account">Purchase ID</string>
@@ -94,6 +77,7 @@ Please contact our customer service"</string>
   <string name="mibi_error_cert_date_summary">"Certificate date error. 
 Please check your local date and try again."</string>
   <string name="mibi_error_common_summary">System error. Please try again later.</string>
+  <string name="mibi_error_deduct">"Couldn't activate automatic payment protocol"</string>
   <string name="mibi_error_expired_summary">Your order has expired</string>
   <string name="mibi_error_frozen_service_num">400-100-2234</string>
   <string name="mibi_error_frozen_service_time">Monday to Sunday</string>
@@ -104,6 +88,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_error_invalid_device">Invalid device.</string>
   <string name="mibi_error_mili_summary">Insufficient funds.</string>
   <string name="mibi_error_network_summary">"Couldn't connect to network."</string>
+  <string name="mibi_error_pay_result_uncertain">Pay result uncertain.</string>
   <string name="mibi_error_recharge_process_fail">Recharge process fail.</string>
   <string name="mibi_error_recharge_result_fail">Recharge result fail.</string>
   <string name="mibi_error_recharge_result_uncertain">Recharge result uncertain.</string>
@@ -140,7 +125,6 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_giftcard_title">Mi Credit Gift Card</string>
   <string name="mibi_giftcard_will_expire">Expires on %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s Mi Credit coupon available</string>
-  <string name="mibi_goods_name">Product: %1$s</string>
   <string name="mibi_illegal_intent">Illegal intent request</string>
   <string name="mibi_is_what">What can you buy with Mi Credits?</string>
   <string name="mibi_label_balance">Balance</string>
@@ -202,14 +186,12 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="mibi_msg_telecom_sending">Contacting network provider…</string>
-  <string name="mibi_order_price">Price: %1$s</string>
   <string name="mibi_other_denomiantion">Select amount</string>
   <string name="mibi_partner_giftcard_payment_with_append">Apply %1$s</string>
   <string name="mibi_password_error">Password incorrect.</string>
   <string name="mibi_password_forget">forgot?</string>
   <string name="mibi_password_hint">Enter account password</string>
   <string name="mibi_password_prompt">To secure your spendings, verify your Mi account</string>
-  <string name="mibi_pay_notification">Paying %1$s Mi Credits</string>
   <string name="mibi_payment_recharge_group_title">Choose top-up method</string>
   <string name="mibi_payment_success_label">"You've paid%1$sMi Credit"</string>
   <string name="mibi_payment_success_title">Payment received</string>
@@ -240,6 +222,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
   <string name="mibi_progress_creating">Retrieving order info…</string>
+  <string name="mibi_progress_deduct_creating">Activating %1$s automatic payment protocol​…</string>
   <string name="mibi_progress_downloading">Loading…</string>
   <string name="mibi_progress_error_pay_summary">%1$s Mi Credits recharged, but payment failed, please retry later.</string>
   <string name="mibi_progress_error_pay_title">Payment failed</string>
@@ -281,7 +264,6 @@ Customer service center：400-100-5678"</string>
   <string name="mibi_recharge_grid_mibi_picker_hint">Choose amount</string>
   <string name="mibi_recharge_grid_money_picker_hint">Select amount</string>
   <string name="mibi_recharge_mibi_title">Mi Credit</string>
-  <string name="mibi_recharge_notification">Topping up: %1$s Mi Credits</string>
   <string name="mibi_recharge_novalid_method">No valid top-up method.</string>
   <string name="mibi_recharge_other">View other methods</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d added %2$s Mi Credits to your account</string>
@@ -320,7 +302,6 @@ Customer service center：400-100-5678"</string>
   <string name="mibi_title_visible_pattern">Make pattern visible</string>
   <string name="mibi_unit">Mi Credit</string>
   <string name="mibi_unit_value">%1$s Mi Credit</string>
-  <string name="mibi_vip_valid_time">Membership expires: %1$s</string>
   <string name="mibi_voucher_card_text">Please scratch off the coat</string>
   <string name="mibi_voucher_error_password">Code invalid.</string>
   <string name="mibi_voucher_input_password_prompt">Enter code</string>
@@ -401,7 +382,7 @@ To activate your account, follow the
   <string name="passport_login">Sign in</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_instead_reg">Use this number</string>
-  <string name="passport_login_instead_reg_with_email">Use this Email</string>
+  <string name="passport_login_instead_reg_with_email">Use this email</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
@@ -430,7 +411,7 @@ To activate your account, follow the
   <string name="passport_reg_using_other_phone">&lt;u&gt;Use alternate phone number&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
-  <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>
