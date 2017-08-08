@@ -217,6 +217,7 @@
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="non_primary_user">Only the device owner can view and manage blocked numbers.</string>
+  <string name="notification_AllMissedCallTitle">All missed calls</string>
   <string name="notification_missedCallTicker">Missed call from %s</string>
   <string name="notification_missedCallTitle">Missed call</string>
   <string name="notification_missedCall_call_back">Call back</string>
