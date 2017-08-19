@@ -32,7 +32,9 @@
   <string name="callFailed_unobtainable_number">Invalid number</string>
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Forwarded unanswered call</string>
+  <string name="call_button_conference_manager_text">Conference manager</string>
   <string name="call_button_dialer_text">Keyboard</string>
+  <string name="call_button_mute_text">Mute</string>
   <string name="call_button_tools_text">Features</string>
   <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Recording…</string>
@@ -56,12 +58,18 @@
   <string name="can_not_call_oneself">"Can't call this number"</string>
   <string name="can_not_use">"Can't use"</string>
   <string name="cancel">Cancel</string>
+  <string name="card_title_answering">Answering call</string>
+  <string name="card_title_answering_fail">"Couldn't answer call, try again."</string>
   <string name="card_title_call_ended">"Call ended "</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">"Hanging up "</string>
+  <string name="card_title_hanging_up_fail">"Couldn't end call, try again."</string>
+  <string name="card_title_hanging_up_restart">"Can't end call. Reboot your device."</string>
+  <string name="card_title_hanging_up_weak_signal">Weak mobile network signal. Ending call</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
+  <string name="card_title_in_video">Video </string>
   <string name="card_title_incoming_call">Incoming call</string>
   <string name="card_title_incoming_conference_call">Incoming conference call</string>
   <string name="card_title_on_hold">"On hold "</string>
@@ -72,12 +80,16 @@
   <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
   <string name="card_title_video_call">Video call</string>
   <string name="card_title_video_call_paused">Video paused</string>
+  <string name="card_title_video_conf_call">Video conference call</string>
+  <string name="card_video_hold_swap">Swap</string>
+  <string name="close_camera_failed">"Couldn't turn off camera…"</string>
+  <string name="close_camera_requesting">Turning off camera…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s people</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$s's conference call"</string>
   <string name="conference_caller_name_me">Me</string>
-  <string name="conference_callers_exceeded">Callers in conference exceeded</string>
+  <string name="conference_callers_exceeded">"Can't add more people"</string>
   <string name="contacts_icon_label">Contacts</string>
   <string name="default_area_code_setting">Default area code</string>
   <string name="description_image_button_answer">Answer</string>
@@ -157,7 +169,6 @@
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">Hang up</string>
-  <string name="livetalk_left_minute">%s min left</string>
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="miprofile_stranger_card">Unknown</string>
   <string name="modify_call_failure_str">"Modify Call request failed
@@ -217,9 +228,9 @@
   <string name="onscreen_close_preview_camera">Close</string>
   <string name="onscreen_hold_text">Hold</string>
   <string name="onscreen_merge_calls_text">Merge calls</string>
+  <string name="onscreen_message_text">Messages</string>
   <string name="onscreen_mute_text">Mute</string>
   <string name="onscreen_note_calls_text">Note</string>
-  <string name="onscreen_rcs_text">Messages</string>
   <string name="onscreen_swap_calls_text">Swap</string>
   <string name="onscreen_switch_camera">Switch</string>
   <string name="pause_prompt_no">No</string>
@@ -228,6 +239,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Getting contact info…</string>
   <string name="private_num">Private number</string>
+  <string name="remind_unlock_message">Your device is locked now. \"%s\" will be available after you unlock your device. Unlock now?</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
   <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_one_sim_title">Can only use SIM %1$d</string>
@@ -238,8 +250,11 @@
   <string name="suspect_info">Be careful with your personal info.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Unknown</string>
+  <string name="unlock_phone">Unlock device</string>
   <string name="upgrade_vt_prompt">Switch to video call?</string>
+  <string name="user_locked_prompt">Unlock device to access contacts.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
+  <string name="video_conference_caller_info_name">"%1$s's video conference call"</string>
   <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
   <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Send the following tones?
