@@ -346,8 +346,10 @@
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
         <item>2</item>
+        <item>3</item>
         <item>4</item>
         <item>5</item>
+        <item>6</item>
         <item>8</item>
         <item>13</item>
         <item>17</item>
@@ -355,8 +357,6 @@
         <item>26</item>
         <item>30</item>
         <item>34</item>
-        <item>39</item>
-        <item>60</item>
         <item>140</item>
         <item>310</item>
         <item>400</item>
@@ -370,25 +370,25 @@
         <item>4000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>2</item>
-        <item>2</item>
+        <item>3</item>
         <item>3</item>
         <item>3</item>
         <item>6</item>
-        <item>11</item>
-        <item>14</item>
+        <item>6</item>
+        <item>6</item>
+        <item>6</item>
         <item>20</item>
-        <item>31</item>
-        <item>39</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
         <item>43</item>
         <item>43</item>
-        <item>44</item>
-        <item>45</item>
-        <item>48</item>
+        <item>43</item>
+        <item>43</item>
         <item>55</item>
-        <item>60</item>
+        <item>55</item>
         <item>63</item>
-        <item>67</item>
+        <item>63</item>
         <item>84</item>
         <item>93</item>
         <item>105</item>
@@ -1173,6 +1173,35 @@
         <item>60</item>
         <item>120</item>
         <item>255</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessLuxLevels">
+        <item>2</item>
+        <item>10</item>
+        <item>30</item>
+        <item>100</item>
+        <item>800</item>
+        <item>2000</item>
+        <item>4000</item>
+    </integer-array>
+    <integer-array name="config_dynamicBrightLevels">
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>70</item>
+        <item>100</item>
+        <item>400</item>
+        <item>600</item>
+        <item>1000</item>
+    </integer-array>
+    <integer-array name="config_dynamicDarkLevels">
+        <item>8</item>
+        <item>8</item>
+        <item>8</item>
+        <item>8</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
     </integer-array>
     <string-array name="config_appsToPin">
         <item>com.tencent.mm</item>
