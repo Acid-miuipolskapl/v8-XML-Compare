@@ -8,7 +8,7 @@
   <string name="app_name">Feedback</string>
   <string name="btn_send">Send</string>
   <string name="bugreport_dialog_not_show_again">"Don't show again"</string>
-  <string name="bugreport_dialog_submit_content">Your feedback may contain personal information.</string>
+  <string name="bugreport_dialog_submit_content">Your feedback may contain personal info and location data.</string>
   <string name="bugreport_dump_complete_notification_summary">Tap to view.</string>
   <string name="bugreport_dump_complete_notification_title">Created bug report</string>
   <string name="bugreport_dump_start_notification_summary">This takes several minutes.</string>
@@ -250,7 +250,7 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Send</string>
-  <string name="submit_dialog_content">Your feedback, along with attachments and logs, will be sent to MIUI’s servers. It may contain personal information.</string>
+  <string name="submit_dialog_content">"Your feedback, along with attachments and logs, will be sent to MIUI's servers. It may contain personal info and your location data."</string>
   <string name="submit_dialog_title">Send report</string>
   <string name="submit_feedback_info_failed">"Couldn't send report"</string>
   <string name="suggestion_description">Add description here</string>
