@@ -77,12 +77,14 @@
   <string name="card_title_video_call_paused">Video paused</string>
   <string name="card_title_video_conf_call">Video conference call</string>
   <string name="card_video_hold_swap">Swap</string>
+  <string name="close_camera_failed">"Couldn't turn off camera…"</string>
+  <string name="close_camera_requesting">Turning off camera…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s people</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$s's conference call"</string>
   <string name="conference_caller_name_me">Me</string>
-  <string name="conference_callers_exceeded">Callers in conference exceeded</string>
+  <string name="conference_callers_exceeded">"Can't add more people"</string>
   <string name="contacts_icon_label">Contacts</string>
   <string name="default_area_code_setting">Default area code</string>
   <string name="description_image_button_answer">Answer</string>
@@ -162,7 +164,6 @@
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">Hang up</string>
-  <string name="livetalk_left_minute">%s min left</string>
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="miprofile_stranger_card">Unknown</string>
   <string name="modify_call_failure_str">"Modify Call request failed
