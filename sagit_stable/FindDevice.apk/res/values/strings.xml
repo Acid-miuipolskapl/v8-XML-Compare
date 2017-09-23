@@ -18,6 +18,7 @@ Contact your sales agent for details."</string>
   <string name="enable_find_device_success">Find device is on</string>
   <string name="find_device">Find device</string>
   <string name="find_device_crash">Find Device closed unexpectedly.</string>
+  <string name="find_device_error_access_denied">Access denied.</string>
   <string name="find_device_error_account_sys_timeout">"Couldn't connect to Mi Account. "</string>
   <string name="find_device_error_account_unknown_error">Mi Account error (%s).</string>
   <string name="find_device_error_network">Network error.</string>
@@ -50,6 +51,10 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="phone_locked_account_phone">, associated phone number: %s</string>
   <string name="stop_on_empty_captcha">"Captcha can't be blank"</string>
   <string name="stop_on_empty_password">"Password can't be blank"</string>
+  <string name="sys_notification_async_open_failed_content">Tap to try again or cancel.</string>
+  <string name="sys_notification_async_open_failed_title">"Couldn't turn on Find device"</string>
+  <string name="sys_notification_async_verify_content">Our updated Security Policy requires that Find device should be reactivated.</string>
+  <string name="sys_notification_async_verify_title">Reactivate Find device</string>
   <string name="time_correction_failure">"Can't correct time. %s"</string>
   <string name="time_correction_success">Time corrected</string>
   <string name="unlock">Activate</string>

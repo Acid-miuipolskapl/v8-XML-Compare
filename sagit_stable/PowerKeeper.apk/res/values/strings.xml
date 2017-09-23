@@ -32,6 +32,7 @@
 Battery saver will treat important apps selectively."</string>
   <string name="config_suggest_suffix_title">MIUI Battery saver (recommended)</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
+  <string name="confirm">Confirm</string>
   <string name="disable_hide_mode">Disable MIUI Battery Saver</string>
   <string name="disable_hide_mode_warning">Disable MIUI Battery Saver may cause more power consumption</string>
   <string name="disabled">Off</string>
@@ -50,6 +51,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="hide_system_app">Hide system apps</string>
   <string name="high">Performance</string>
   <string name="hints_loading_text">Just a sec…</string>
+  <string name="important_warning">Warning</string>
   <string name="invalid_size_value">"Couldn't get package size."</string>
   <string name="location_disable_description">Apps in the background can only access location services for a brief period of time while continuous access is restricted</string>
   <string name="location_disable_title">Restrict</string>
@@ -164,6 +166,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="reading">Reading mode</string>
   <string name="scenario_policies_summary">Power saving according to scenario</string>
   <string name="scenario_policies_title">Scenario power saving policies</string>
+  <string name="scenario_policies_warmcontrol">Warm control</string>
   <string name="screen_off">Screen is off</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">Screen is on</string>
@@ -173,13 +176,13 @@ Battery saver will treat important apps selectively."</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">Just a sec…</string>
   <string name="show_system_app">Show system apps</string>
-  <string name="sleep_config_enhance_description">Will improve standby power usage in night</string>
+  <string name="sleep_config_enhance_description">predict user sleep time by machine learning, whithin the sleep time, we may clear some background apps, restrict to use NFC, KeyGauard Notification, Sync, Bluetooth, GPS, mobile and wifi data, etc.</string>
   <string name="sleep_config_enhance_title">Sleep saving modes</string>
   <string name="still">Picture</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Name</string>
   <string name="vip_feedback">Vip Feedback</string>
-  <string name="vip_feedback_apply">Apply Vip Feedback</string>
-  <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
   <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
+  <string name="warm_configure">Warm control configure</string>
+  <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
 </resources>
