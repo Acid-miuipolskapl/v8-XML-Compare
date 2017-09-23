@@ -26,80 +26,80 @@
         <item>Can I use Mi 3, Mi 2, and Redmi as an IR remote?</item>
     </string-array>
     <string-array name="assistant_tab">
-        <item>视频</item>
-        <item>截屏</item>
-        <item>应用</item>
+        <item>Videos</item>
+        <item>Screenshots</item>
+        <item>Apps</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>全部</item>
-        <item>收藏</item>
-        <item>央视</item>
-        <item>卫视</item>
-        <item>高清</item>
-        <item>常看</item>
+        <item>All</item>
+        <item>Favorites</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recent</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
-        <item>全部频道</item>
-        <item>收藏频道</item>
-        <item>央视频道</item>
-        <item>卫视频道</item>
-        <item>高清频道</item>
-        <item>经常观看</item>
+        <item>All channels</item>
+        <item>Favorite channels</item>
+        <item>CCTV channels</item>
+        <item>TV channels</item>
+        <item>HD channels</item>
+        <item>Recently watched</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar_v53">
-        <item>全部频道</item>
-        <item>经常观看</item>
-        <item>高清频道</item>
-        <item>卫视频道</item>
-        <item>央视频道</item>
+        <item>All channels</item>
+        <item>Recently watched</item>
+        <item>HD channels</item>
+        <item>TV channels</item>
+        <item>CCTV channels</item>
     </string-array>
     <string-array name="epg_channel_tab_v53">
-        <item>全部</item>
-        <item>常看</item>
-        <item>高清</item>
-        <item>卫视</item>
-        <item>央视</item>
+        <item>All</item>
+        <item>Recent</item>
+        <item>HD</item>
+        <item>TV</item>
+        <item>CCTV</item>
     </string-array>
     <string-array name="epg_default_hot_channels">
-        <item>湖南卫视</item>
+        <item>Hunan TV</item>
         <item>CCTV-6</item>
-        <item>浙江卫视</item>
+        <item>Zhejiang TV</item>
         <item>CCTV-5</item>
         <item>CCTV-3</item>
-        <item>东方卫视</item>
-        <item>安徽卫视</item>
-        <item>北京卫视</item>
-        <item>广东卫视</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
         <item></item>
-        <item>综艺</item>
+        <item>Entertainment</item>
         <item></item>
-        <item>体育</item>
-        <item>少儿</item>
-        <item>新闻</item>
-        <item>生活</item>
+        <item>Sports</item>
+        <item>For kids</item>
+        <item>News</item>
+        <item>Lifestyle</item>
     </string-array>
     <string-array name="epg_program_tab">
-        <item>热门</item>
-        <item>电影</item>
-        <item>综艺</item>
-        <item>电视剧</item>
-        <item>体育</item>
-        <item>少儿</item>
-        <item>新闻</item>
-        <item>生活</item>
+        <item>Popular</item>
+        <item>Movies</item>
+        <item>Entertainment</item>
+        <item>TV shows</item>
+        <item>Sports</item>
+        <item>For kids</item>
+        <item>News</item>
+        <item>Lifestyle</item>
     </string-array>
     <string-array name="epg_program_tab_actionbar">
-        <item>热门节目</item>
-        <item>电影节目</item>
-        <item>综艺节目</item>
-        <item>电视剧</item>
-        <item>体育节目</item>
-        <item>少儿节目</item>
-        <item>新闻节目</item>
-        <item>生活节目</item>
+        <item>Popular shows</item>
+        <item>Movies</item>
+        <item>Entertainment programs</item>
+        <item>TV shows</item>
+        <item>Sports</item>
+        <item>For kids</item>
+        <item>News</item>
+        <item>Lifestyle programs</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
