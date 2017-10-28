@@ -62,6 +62,8 @@
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">"Hanging up "</string>
+  <string name="card_title_hanging_up_restart">"Can't end call. Reboot your device."</string>
+  <string name="card_title_hanging_up_weak_signal">Weak mobile network signal. Ending call</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
   <string name="card_title_in_video">Video </string>
