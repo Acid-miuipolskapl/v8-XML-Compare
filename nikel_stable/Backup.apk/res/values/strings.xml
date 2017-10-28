@@ -41,8 +41,11 @@
   <string name="backup_new">New:</string>
   <string name="backup_progress">Backing up…</string>
   <string name="backup_report">View details</string>
+  <string name="backup_security_tips_message">Some apps may not be able to be backed up or restored.</string>
+  <string name="backup_security_tips_title">Backups may not work</string>
   <string name="backup_update">Update</string>
   <string name="batch_delete_backup_confirm">Delete selected backups?</string>
+  <string name="btn_got_it">Got it</string>
   <string name="button_backup">Back up</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_continue">Continue</string>
@@ -308,6 +311,8 @@ Keep devices close to each other."</string>
   <string name="trans_retry">Retry</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
   <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
+  <string name="trans_security_tips_message">"Some apps don't support Mi Mover."</string>
+  <string name="trans_security_tips_title">Mi Mover compatibility</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"Not enough storage on the new device
 Select files again or clear %s of storage on the new device"</string>
