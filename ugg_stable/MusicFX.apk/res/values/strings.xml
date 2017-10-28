@@ -19,6 +19,7 @@
   <string name="main_toggle_effects_title">Audio effects</string>
   <string name="mediumhall">MediumHall</string>
   <string name="mediumroom">MediumRoom</string>
+  <string name="new_app_name">AudioEffect</string>
   <string name="no_effects">Effects not available.</string>
   <string name="none">None</string>
   <string name="normal">Normal</string>
