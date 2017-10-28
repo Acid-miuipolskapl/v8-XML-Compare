@@ -2498,4 +2498,25 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Files</item>
         <item>Notes</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>64GB</item>
+        <item>Octa-core Max 2.2GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Battery capacity</item>
+        <item>Rear camera</item>
+        <item>Screen size</item>
+        <item>Resolution</item>
+        <item>Android version</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Xiaomi Surge S1</item>
+        <item>2860mAh(typ)</item>
+        <item>12MP</item>
+        <item>5.15 inches</item>
+        <item>1920 × 1080</item>
+        <item>7.1</item>
+    </string-array>
 </resources>
