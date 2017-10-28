@@ -4342,6 +4342,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unrestricted_app_title">Unrestricted data usage</string>
   <string name="unrestricted_data_saver">Unrestricted data access</string>
   <string name="untitled_apn">Untitled</string>
+  <string name="update_new_version">Update is available</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
   <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
   <string name="upload_debug_log_title">Send diagnostic data automatically</string>

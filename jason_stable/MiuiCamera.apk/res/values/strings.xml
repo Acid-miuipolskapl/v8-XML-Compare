@@ -477,14 +477,14 @@ with more clear main body and more beautiful portrait"</string>
   <string name="pref_simple_hdr_default">off</string>
   <string name="pref_simple_hdr_entry_off">Off</string>
   <string name="pref_simple_hdr_entry_on">On</string>
-  <string name="pref_skin_beautify_color_default">4</string>
+  <string name="pref_skin_beautify_color_default">1</string>
   <string name="pref_skin_beautify_color_title">Tone</string>
   <string name="pref_skin_beautify_eye_default">2</string>
   <string name="pref_skin_beautify_eye_title">Eyes</string>
   <string name="pref_skin_beautify_intelligent_title">Smart</string>
-  <string name="pref_skin_beautify_slim_default">3</string>
+  <string name="pref_skin_beautify_slim_default">4</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
-  <string name="pref_skin_beautify_smooth_default">5</string>
+  <string name="pref_skin_beautify_smooth_default">6</string>
   <string name="pref_skin_beautify_smooth_title">Skin</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
